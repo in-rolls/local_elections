@@ -1,7 +1,58 @@
+import hashlib
+import json
+import sys
+
 import pytest
 from PIL import Image
 
 from local_reservations.states.wb.qwen_sample import ensure_crop, stratified_sample
+
+
+@pytest.mark.parametrize("change", ["replace", "reorder", "unchanged"])
+def test_frozen_sample_hash_is_checked_before_crop_work(tmp_path, monkeypatch, change):
+    from local_reservations.states.wb import qwen_sample
+
+    source = tmp_path / "source.pdf"
+    source.write_bytes(b"preserved source bytes")
+    sample = [
+        {
+            "row_id": name,
+            "source_path": source.name,
+            "source_sha256": hashlib.sha256(source.read_bytes()).hexdigest(),
+        }
+        for name in ["first", "second"]
+    ]
+    frozen = tmp_path / "sample.json"
+    frozen.write_text(json.dumps(sample))
+    (tmp_path / "design.json").write_text(
+        json.dumps(
+            {
+                "seed": 17,
+                "sample_sha256": hashlib.sha256(frozen.read_bytes()).hexdigest(),
+            }
+        )
+    )
+    if change == "replace":
+        sample[0]["row_id"] = "different cell"
+    elif change == "reorder":
+        sample.reverse()
+    frozen.write_text(json.dumps(sample))
+    before = frozen.read_bytes()
+    monkeypatch.setattr(qwen_sample, "ROOT", tmp_path)
+    monkeypatch.setattr(qwen_sample, "OUT", tmp_path)
+    monkeypatch.setattr(sys, "argv", ["qwen_sample", "--size", "2", "--seed", "17"])
+
+    def crop_work(*args, **kwargs):
+        raise RuntimeError("crop work started")
+
+    monkeypatch.setattr(qwen_sample.pdfplumber, "open", crop_work)
+    if change == "unchanged":
+        with pytest.raises(RuntimeError, match="crop work started"):
+            qwen_sample.main()
+    else:
+        with pytest.raises(ValueError, match="Frozen sample hash mismatch"):
+            qwen_sample.main()
+    assert frozen.read_bytes() == before
 
 
 def frame():

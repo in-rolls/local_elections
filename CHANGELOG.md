@@ -17,6 +17,9 @@ here is usually the thing that was wrong.
   a checksummed release asset; the standalone verifier checks archive members.
 - Release validation checks live repository state and sibling commit pins,
   refusing stale provenance, missing files, changed bytes and incomplete archives.
+- Native extraction caches now require matching source hashes. Frozen OCR
+  review samples are checked against their recorded hash before reuse, so edits
+  or reordered cells cannot silently change the review population.
 
 
 - **The one Mumbai sheet that states a seat reservation states the 2012 draw,

@@ -196,8 +196,11 @@ def main():
     OUT.mkdir(parents=True, exist_ok=True)
     frozen = OUT / "sample.json"
     if frozen.exists():
-        sample = json.loads(frozen.read_text())
+        sample_bytes = frozen.read_bytes()
+        sample = json.loads(sample_bytes)
         design = json.loads((OUT / "design.json").read_text())
+        if hashlib.sha256(sample_bytes).hexdigest() != design.get("sample_sha256"):
+            raise ValueError("Frozen sample hash mismatch; do not silently reuse edits")
         if len(sample) != args.size or design["seed"] != args.seed:
             raise ValueError("Existing frozen sample differs; do not silently resample")
     else:

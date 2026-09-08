@@ -1,10 +1,42 @@
 import copy
+import hashlib
 import json
 
 import pytest
 
 from local_reservations.paths import ROOT
 from local_reservations.states.wb import parse_hooghly, parse_nadia, parse_results
+
+
+@pytest.mark.parametrize("cached_digest", [None, "0" * 64, "matching"])
+def test_native_cache_requires_matching_source_identity(
+    tmp_path, monkeypatch, cached_digest
+):
+    from local_reservations.states.wb import extract_native
+
+    source = tmp_path / "source.pdf"
+    source.write_bytes(b"original PDF bytes")
+    digest = hashlib.sha256(source.read_bytes()).hexdigest()
+    cache = tmp_path / f"{digest}.json"
+    record = {
+        "version": extract_native.VERSION,
+        "pages": [{"text": "preserved source text", "tables": []}],
+    }
+    if cached_digest is not None:
+        record["sha256"] = digest if cached_digest == "matching" else cached_digest
+    cache.write_text(json.dumps(record))
+    before = cache.read_bytes()
+    monkeypatch.setattr(extract_native, "ROOT", tmp_path)
+    monkeypatch.setattr(extract_native, "OUT", tmp_path)
+    monkeypatch.setattr(
+        extract_native.subprocess, "check_output", lambda *a, **k: "Pages: 1\n"
+    )
+    if cached_digest == "matching":
+        assert extract_native.extract(source)["sha256"] == digest
+    else:
+        with pytest.raises(ValueError, match="Native extraction source hash mismatch"):
+            extract_native.extract(source)
+        assert cache.read_bytes() == before
 
 
 def test_hooghly_all_source_cells_and_totals():

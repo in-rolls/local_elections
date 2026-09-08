@@ -27,8 +27,10 @@ def extract(path):
     cache = OUT / (digest + ".json")
     if cache.exists():
         record = json.loads(cache.read_text())
-        if record["version"] != VERSION:
+        if record.get("version") != VERSION:
             raise ValueError("Stale native extraction cache")
+        if record.get("sha256") != digest:
+            raise ValueError("Native extraction source hash mismatch")
     else:
         pages = []
         with pdfplumber.open(path) as pdf:
