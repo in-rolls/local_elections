@@ -1,0 +1,55 @@
+1 2 3
+OMALUR PANCHAYAT UNION Contd.,
+27 Sikkampatti General
+28 Sikkanampatti General
+29 Thathiyampatti General
+30 Thindamangalam General
+31 Tholasampatti General
+32 Vellakkalpatti General
+33 Vellalapatti General
+PANAMARATHUPATTY PANCHAYAT UNION
+1 Kuralnatham ST(General)
+2 Santhiyur SC(Women)
+3 Nallikkalpatti SC(Women)
+4 Mookuthipalayam SC(General)
+5 Thippampatti SC(General)
+6 Amanikondalampatti General(Women)
+7 Gajalnaickenpatti General(Women)
+8 Neikkarapatti General(Women)
+9 Nilavarapatti General(Women)
+10 Thumbalpatti General(Women)
+11 Parapatti General
+12 Ammapalayam General
+13 Dasanaickenpatti General
+14 Eruvadi Vaniyampadi General
+15 Kammalapatti General
+16 Pallitherupatti General
+17 Peramanur General
+18 Santhiyur Attayampatti General
+19 Thammanaickenpatti General
+20 Valakuttapatti General
+PEDDANAICKANPALAYAM PANCHAYAT UNION
+1 Chinna Kalrayan HillsNorth ST(Women)
+2 Komarapalayam ST(Women)
+3 Periyakrishnapuram ST(Women)
+4 Sekkadipatti ST(Women)
+5 Chinna KalrayanHillsSouth ST(General)
+6 Gopalapuram ST(General)
+7 Peria Kalrayan Hills Keelnadu ST(General)
+8 Peria Kalrayan Hills Melnadu ST(General)
+9 Palaniyapuri ST(General)
+10 Panamadal ST(General)
+11 Thennampillaiyur ST(General)
+12 Umayalpuram SC(Women)
+13 West Rajapalayam SC(Women)
+14 Ariyapalayam SC(General)
+15 Kalarampatti SC(General)
+16 Vadugathampatti SC(General)
+17 Vaithiyagoundanpudur SC(General)
+18 Edayapatti General(Women)
+19 Kalleripatti General(Women)
+20 Kalyanagiri General(Women)
+21 Mettudayampalayam General(Women)
+22 Olaipadi General(Women)
+23 Thandanoor General(Women)
+Page 54

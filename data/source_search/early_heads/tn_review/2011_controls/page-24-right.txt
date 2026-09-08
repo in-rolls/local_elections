@@ -1,0 +1,60 @@
+AM DISTRICT
+AYAT PRESIDENTS
+ribes and Women in the Village Panchayat President in
+adu State
+Sl.No Name of the Village Panchayat Category to which
+reservation is made
+1 2 3
+MUGAIYUR PANCHAYAT UNION
+1 Thandarai ST General
+2 Thanikalampattu SC Women
+3 Veerasozhapuram SC Women
+4 Arunapuram SC Women
+5 Paiyur SC Women
+6 Kazhumalam SC Women
+7 Sennagunam SC Women
+8 Vellamputhur SC General
+9 Kadaganur SC General
+10 Emappair SC General
+11 Kangiyanur SC General
+12 Puthur. V SC General
+13 Kodukkappattu SC General
+14 Vilandai SC General
+15 Kongarayanur SC General
+16 Arcadu SC General
+17 Melandal SC General
+18 Kandachipuram SC General
+19 Paranur SC General
+20 Adukkam General Women
+21 Veerapandi General Women
+22 Keezhakondur General Women
+23 Mugaiyur General Women
+24 Sadaikatti General Women
+25 Kallandal General Women
+26 Vadakaraithayanur General Women
+27 Devaradiyarkuppam General Women
+28 Sathiyakandanur General Women
+29 Othiyathur General Women
+30 Ottampattu General Women
+31 Marangiyur General Women
+32 Manampoondi General Women
+33 Karanai General Women
+34 Veerangipuram General Women
+35 Athipakkam. T General
+36 Kozhundirampattu General
+37 Ayandur General
+38 Nerkunam General
+39 Nedungampattu General
+40 Adoorkolapakkam General
+41 Devanur. T General
+42 Alambadi General
+43 Sithapattinam General
+44 Melakondur General
+45 Kollur. S General
+46 Kuladeepamangalam General
+47 Jambai General
+48 Murukkampadi General
+49 Vasanthakrishnapuram General
+50 Arumalai General
+51 Sithamoor. V General
+52 Gudalore. A General

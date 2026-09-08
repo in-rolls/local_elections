@@ -1,0 +1,57 @@
+1 2 3
+PUDUR PANCHAYAT UNION Contd.,
+32 Melakaranthai General
+33 Melakkallurani General
+34 Mettilpatti General
+35 Mittavadamalapuram General
+36 Muthiahpuram General
+37 Pattithevanpatti General
+38 Ramachandrapuram General
+39 Sankaralingapuram General
+40 Sennampatti General
+41 Shenkottai General
+42 Vathalakarai General
+43 N. Vedapatti General
+44 Vembur General
+OTTAPIDARAM PANCHAYAT UNION
+1 Ahilandapuram SC(Women)
+2 Meenachipuram SC(Women)
+3 Mullur Muthukumarapuram SC(Women)
+4 Onamakulam SC(Women)
+5 Paraikuttam SC(Women)
+6 Parivallikottai SC(Women)
+7 Sangampatti SC(Women)
+8 Vellaram SC(Women)
+9 Keela Arasadi SC(Women)
+10 Elavelangal SC(General)
+11 Jambulingapuram SC(General)
+12 K.Thalavaipuram SC(General)
+13 Kattunaickenpatti SC(General)
+14 Keelamudiman SC(General)
+15 Mela Pandiapuram SC(General)
+16 Ottanatham SC(General)
+17 Panchalankurichi SC(General)
+18 Pasuvanthanai SC(General)
+19 Pattinamaruthur SC(General)
+20 S.Kailasapuram SC(General)
+21 Saminatham SC(General)
+22 T.Veerapandiapuram SC(General)
+23 Thennam Patti SC(General)
+24 Vallinayagipuram SC(General)
+25 Vepalodai SC(General)
+26 Ackkanickenpatti General(Women)
+27 Athanoor General(Women)
+28 Chandiragiri General (Women)
+29 Eppodumvendran General(Women)
+30 K.Shanmugapuram General(Women)
+31 Keela Kottai General(Women)
+32 Keelamangalam General(Women)
+33 Mela Arasadi General(Women)
+34 Ottapidaram General(Women)
+35 Kothali General(Women)
+36 Maruthan Valvoo General(Women)
+37 Therkku Kalmedu General(Women)
+38 Araikulam General
+39 Governagiri General
+40 Jegaveerapandiapuram General
+41 Kalappaipatti General

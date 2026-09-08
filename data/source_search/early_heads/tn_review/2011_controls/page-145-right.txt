@@ -1,0 +1,38 @@
+1 2 3
+KALAKADU PANCHAYAT UNION
+1 Singikulam S.C. (Women)
+2 Padmaneri S.C. (General)
+3 Kovilammalpuram General (Women)
+4 Malaiyadipudur General (Women)
+5 Padalaiyarkulam General (Women)
+6 Sengalakurichi General (Women)
+7 Thalavaipuram General (Women)
+8 Devanallur General
+9 Idayankulam General
+10 Kadamboduvalvoo General
+11 Kallikulam General
+12 Keelakaduvetti General
+13 Keelakaruvelankulam General
+14 Puliyoorkurichi General
+15 Seevalaperi General
+16 Soorangudi General
+17 Vadukatchimathil General
+VALLIYOOR PANCHAYAT UNION
+1 Thanakkarkulam S.C. (Women)
+2 Adangarkulam S.C. (General)
+3 Anaikulam General (Women)
+4 Chettikulam General (Women)
+5 Kannanallur General (Women)
+6 Kovankulam General (Women)
+7 Therkku Karunkulam General (Women)
+8 A.Thirumalapuram General
+9 Achampadu General
+10 Avaraikulam General
+11 Chidambarapuram Yacobpuram General
+12 Erukkandurai General
+13 Kavalkinaru General
+14 Levenchipuram General
+15 Pazhavoor General
+16 Therkku Valliyoor General
+17 Vadakkankulam General
+18 Veppilankulam General

@@ -1,0 +1,56 @@
+1 2 3
+KAYATHAR PANCHAYAT UNION Contd.,
+21 K.Subramaniapuram General(Women)
+22 Usilankulam General(Women)
+23 Vadakku Illandaikulam General(Women)
+24 Therkku Kalugamalai General
+25 Achankulam General
+26 Ayyanaroothu General
+27 Cholapuram General
+28 K.Chidambarapuram General
+29 K.Duraisamypuram General
+30 Kalampatti General
+31 Kamanaickenpatti General
+32 Kappulingampatti General
+33 Karadikulam General
+34 Mudukkulankulam General
+35 Panikkarkulam General
+36 Pannirkulam General
+37 Pungavarnatham General
+38 Raja Pudukudi General
+39 Theethampatti General
+40 Therkku Ilandaikulam General
+41 Therkku Mayilodai General
+42 Therkku Vandanam General
+43 Thottampatti General
+44 Vadakku Vandanam General
+45 Vellalankottai General
+VILATHIKULAM PANCHAYAT UNION
+1 Padarnthapuli SC(Women)
+2 Sithavanaickenpatti SC(Women)
+3 Vedapatti SC(Women)
+4 Manthikulam SC(Women)
+5 Vallinayagapuram SC(General)
+6 Guruvarpatti SC(General)
+7 Keelavaipar SC(General)
+8 Kulathur SC(General)
+9 Pillayarnatham SC(General)
+10 Pulliyankualm SC(General)
+11 Sakkammalpuram SC(General)
+12 Zamin Karisalkulam SC(General)
+13 Arungulam Subramaniapuram General(Women)
+14 K.Kumareddiapuram General(Women)
+15 K.Sundareswarapuram General(Women)
+16 Keelavilathikulam General(Women)
+17 M.Shanmugapuram General(Women)
+18 P.Meenakshipuram General(Women)
+19 Periasamypuram General(Women)
+20 Sakkanapuram General(Women)
+21 Thalaikattupuram General(Women)
+22 Vellaiammalpuram General(Women)
+23 Vembar General(Women)
+24 Vembar South General(Women)
+25 Virusampatti General(Women)
+26 Ariyanayagipuram General
+27 Arungulam General
+28 Athankarai General

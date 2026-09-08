@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "sha256": "5095354c360067c5e435ba563c940cd1a6c4466b82ff7ea8b12ce6b52e628b30",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 1413.0,
+      "height": 2000.0,
+      "text": "Scanned by TapScanner",
+      "tables": [],
+      "images": 1,
+      "characters": 21
+    },
+    {
+      "page": 2,
+      "width": 1413.0,
+      "height": 2000.0,
+      "text": "Scanned by TapScanner",
+      "tables": [],
+      "images": 1,
+      "characters": 21
+    },
+    {
+      "page": 3,
+      "width": 1413.0,
+      "height": 2000.0,
+      "text": "Scanned by TapScanner",
+      "tables": [],
+      "images": 1,
+      "characters": 21
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

@@ -1,0 +1,49 @@
+1 2 3
+SRIPERUMBUDUR PANCHAYAT UNION
+1 Akkamapuram ST (General)
+2 Kappankottur SC (Women)
+3 Vallakkottai SC (Women)
+4 Thandalam SC (Women)
+5 O.M.Mangalam SC (Women)
+6 Echoor SC (Women)
+7 Sivapuram SC (Women)
+8 Pitchivakkam SC (Women)
+9 Vallam SC (General)
+10 Thulasapuram SC (General)
+11 Katrambakkam SC (General)
+12 Ekanapuram SC (General)
+13 Sengadu SC (General)
+14 Kaduvanchery SC (General)
+15 Kandoor SC (General)
+16 Balnellure SC (General)
+17 Keevalure SC (General)
+18 Kunnam SC (General)
+19 Thathanur SC (General)
+20 Selvhizhimangalam SC (General)
+21 Panrutti SC (General)
+22 Ramanujapuram SC (General)
+23 Edaiyarpakkam General (Women)
+24 Keeranallure General (Women)
+25 Pillaipakkam General (Women)
+26 Thirumangalam General (Women)
+27 Santhavellore General (Women)
+28 Gunagarambakkam General (Women)
+29 Chellampattidai General (Women)
+30 Mambakkam General (Women)
+31 Sendamangalam General (Women)
+32 Nemily General (Women)
+33 Kottur General (Women)
+34 Melmaduramangalam General (Women)
+35 Irungkattukkottai General (Women)
+36 Maduramangalam General
+37 Molachoor General
+38 Maganyam General
+39 Singilipadi General
+40 Mevalurkuppam General
+41 Sirumangadu General
+42 Vengadu General
+43 Pappankuzhi General
+44 Kannanthangal General
+45 Sogandi General
+46 Pennalure General
+Page 3

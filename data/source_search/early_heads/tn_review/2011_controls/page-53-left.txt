@@ -1,0 +1,33 @@
+1 2 3
+Arni Panchayat Union Contd.,
+19 Adanur General
+20 Ariyapadi General
+21 Kalleripattu General
+22 Katteri General
+23 Mattathari General
+24 Meyyur General
+25 Molugampoondi General
+26 Mullandram General
+27 Panaiyur General
+28 Poosimalaikuppam General
+29 Pudupattu General
+30 12-Puthur General
+31 Randamkorattur General
+32 Sangeethavadi General
+33 Sathiya VijayaNagaram General
+34 Sevur General
+35 Srinivasa Udaya Vanam General
+36 Vedajipuram General
+37 Velleri General
+38 Vettiyanthozhuvam General
+WestArni Panchayat Union
+1 Pulavanpadi SC(Women)
+2 Appanallur SC(Women)
+3 Thatchur SC(General)
+4 Andipalayam SC(General)
+5 Melnagar SC(General)
+6 Pungampadi SC(General)
+7 Saduperipalayam General(Women)
+8 Kunnathur General(Women)
+9 Kattukanallur General(Women)
+Page 51

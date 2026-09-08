@@ -1,0 +1,42 @@
+{
+  "method": "Direct visual review of source pages1–2 against first-pass eng OCR; developmental sample, no held-out accuracy claim.",
+  "pages": [
+    {
+      "source_page": 1,
+      "source_sha256": "1d6db70518c7460a4618032cb91c2818541ad2f4243d72d332b0fb9e94b00498",
+      "source_url": "https://tnrd.tn.gov.in/project/go_files/1_58_2006_228_en.pdf",
+      "source_page_bbox": [
+        0,
+        0.0,
+        595.26,
+        841.86
+      ],
+      "image_path": "/Users/soodoku/Documents/GitHub/local_elections/data/tn/derived/scans/pilot_2006/tn_1_58_2006_228_en/page_0001/attempts/b3649941ccb947d9ad3ffd765fe02c47/source.png",
+      "image_sha256": "c906f1972471cf23bb9326e96f1d0b14a6aaa3abaa57fbe5b541ba4658e65211",
+      "elapsed_seconds": 4.211
+    },
+    {
+      "source_page": 2,
+      "source_sha256": "1d6db70518c7460a4618032cb91c2818541ad2f4243d72d332b0fb9e94b00498",
+      "source_url": "https://tnrd.tn.gov.in/project/go_files/1_58_2006_228_en.pdf",
+      "source_page_bbox": [
+        0,
+        0.0,
+        595.26,
+        841.86
+      ],
+      "image_path": "/Users/soodoku/Documents/GitHub/local_elections/data/tn/derived/scans/pilot_2006/tn_1_58_2006_228_en/page_0002/attempts/e00f9ea320054972963d6cc08a0316d2/source.png",
+      "image_sha256": "91e1ee03ff05a742cd341a3d4834881ff92b11409be3bc903c5653e1a48b19a7",
+      "elapsed_seconds": 6.529
+    }
+  ],
+  "findings": [
+    "Page1 explicitly reserves village-president offices under GO107; clipped/scanner-overlaid cover text is partly missing in OCR.",
+    "Page2 is a two-column English GP-president roster. Many category cells survive, but OCR interleaves left/right columns and changes names and some SC cells to SE.",
+    "Printed Kancheepuram first GP Valathottam is OCR Malathottam; its ST (General) category survives.",
+    "Printed Devariyambakkam category SC (Women) is OCR SE (Women)."
+  ],
+  "decision": "Raw extraction feasible; full 2006 run not started. Column separation and source-validated category/name guards needed before semantic parsing. Include No254 errata before treating base reservations as final.",
+  "confirmed_semantic_records": 0,
+  "other_source_pages_not_attempted": 507
+}

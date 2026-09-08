@@ -1,0 +1,952 @@
+
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Data Access API &#8212; Dataverse.org</title>
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../_static/bootstrap-sphinx.css?v=4468db6d" />
+    <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=eafc0fe6" />
+    <link rel="stylesheet" type="text/css" href="../_static/tabs.css?v=a5c4661c" />
+    <link rel="stylesheet" type="text/css" href="../_static/../_font/fontawesome/css/all.min.css?v=76f13783" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
+    <script src="../_static/jquery.js?v=5d32c60e"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+    <script src="../_static/documentation_options.js?v=66f89f0b"></script>
+    <script src="../_static/doctools.js?v=888ff710"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/../_font/fontawesome/js/all.min.js?v=5878f840"></script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script src="../_static/js/jquery-3.5.1.min.js"></script>
+    <script src="../_static/js/jquery-ui.min.js"></script>
+    <script src="../_static/bootstrap-3.4.1/js/bootstrap.min.js"></script>
+    <script src="../_static/js/jquery-fix.js"></script>
+    <script src="../_static/bootstrap-sphinx.js"></script>
+    <script src="../_static/navbarscroll.js"></script>
+    <script src="../_static/dv_rebind_bootstrap_ui.js"></script>
+<link type="text/css" rel="stylesheet" href="../_static/fontcustom.css" />
+<link type="text/css" rel="stylesheet" href="../_static/socicon.css" />
+<link type="text/css" rel="stylesheet" href="../_static/theme.css" />
+<link type="text/css" rel="stylesheet" href="../_static/primefaces.css" />
+<link type="text/css" rel="stylesheet" href="../_static/docsdataverse_org.css" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link type="image/png" rel="icon" href="../_static/images/favicondataverse.png" />
+
+  </head><body>
+
+  <div id="navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="../index.html">
+          Dataverse Guides</a>
+        <span class="navbar-text navbar-version pull-left"><b><a href="../versions.html">v6.11</a></b></span>
+      </div>
+
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
+            
+                <li><a href="https://dataverse.org">About Dataverse</a></li>
+            
+            
+              <li class="dropdown globaltoc-container">
+<!-- Comment out "Site" from navbar (we list guides in the sidebar anyway) -->
+<!--
+  <a role="button"
+     id="dLabelGlobalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="../index.html">Site <b class="caret"></b></a>
+-->
+  <ul class="dropdown-menu globaltoc"
+      role="menu"
+      aria-labelledby="dLabelGlobalToc"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../quickstart/index.html">Quickstart Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../quickstart/what-is-dataverse.html">What is Dataverse?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../quickstart/publish-a-dataset.html">Publish a Dataset</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../quickstart/publish-a-collection.html">Publish a Collection</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../user/index.html">User Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../user/account.html">Account Creation + Management</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../user/find-use-data.html">Finding and Using Data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../user/dataverse-management.html">Dataverse Collection Management</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../user/dataset-management.html">Dataset + File Management</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../user/tabulardataingest/index.html">Tabular Data File Ingest</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../user/tabulardataingest/supportedformats.html">Supported File Formats</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../user/tabulardataingest/ingestprocess.html">Tabular Data, Representation, Storage and Ingest</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../user/tabulardataingest/spss.html">SPSS</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../user/tabulardataingest/stata.html">Stata</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../user/tabulardataingest/rdata.html">R Data Format</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../user/tabulardataingest/excel.html">Excel</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../user/tabulardataingest/csv-tsv.html">CSV/TSV</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../user/appendix.html">Appendix</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../admin/index.html">Admin Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../admin/features.html">Features</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/dashboard.html">Dashboard</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/external-tools.html">External Tools</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/discoverability.html">Discoverability</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/harvestclients.html">Managing Harvesting Clients</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/harvestserver.html">Managing Harvesting Server and Sets</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/metadatacustomization.html">Metadata Customization</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/metadataexport.html">Metadata Export</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/timers.html">Dataverse Installation Application Timers</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/make-data-count.html">Make Data Count</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/integrations.html">Integrations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/user-administration.html">User Administration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/dataverses-datasets.html">Managing Datasets and Dataverse Collections</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/solr-search-index.html">Solr Search Index</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/ip-groups.html">IP Groups</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/mail-groups.html">Mail Domain Groups</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/collectionquotas.html">Storage Quotas for Collections</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/monitoring.html">Monitoring</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/rate-limiting.html">Rate Limiting</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/reporting-tools-and-queries.html">Reporting Tools and Common Queries</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/maintenance.html">Maintenance</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/backups.html">Backups</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/troubleshooting.html">Troubleshooting</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../admin/big-data-administration.html">Scaling Dataverse with Data Size</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../ai/index.html">AI Guide</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">API Guide</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="intro.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="getting-started.html">Getting Started with APIs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="auth.html">API Tokens and Authentication</a></li>
+<li class="toctree-l2"><a class="reference internal" href="search.html">Search API</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Data Access API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="native-api.html">Native API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="metrics.html">Metrics API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sword.html">SWORD API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="client-libraries.html">Client Libraries</a></li>
+<li class="toctree-l2"><a class="reference internal" href="external-tools.html">Building External Tools</a></li>
+<li class="toctree-l2"><a class="reference internal" href="curation-labels.html">Dataset Curation Status API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="linkeddatanotification.html">Linked Data Notification API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="apps.html">Apps</a></li>
+<li class="toctree-l2"><a class="reference internal" href="faq.html">Frequently Asked Questions</a></li>
+<li class="toctree-l2"><a class="reference internal" href="changelog.html">API Changelog (Breaking Changes)</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../installation/index.html">Installation Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../installation/intro.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/prep.html">Preparation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/prerequisites.html">Prerequisites</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/installation-main.html">Installation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/config.html">Configuration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/big-data-support.html">Big Data Support</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/upgrading.html">Upgrading</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/shibboleth.html">Shibboleth</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/oauth2.html">OAuth Login Options</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/oidc.html">OpenID Connect Login Options</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/orcid.html">ORCID Integration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/external-tools.html">External Tools</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/localcontexts.html">LocalContexts Integration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../installation/advanced.html">Advanced Installation</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../contributor/index.html">Contributor Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../contributor/documentation.html">Writing Documentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../contributor/code.html">Contributing Code</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../developers/index.html">Developer Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../developers/intro.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/dev-environment.html">Development Environment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/windows.html">Windows Development</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/tips.html">Tips</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/troubleshooting.html">Troubleshooting</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/version-control.html">Version Control</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/sql-upgrade-scripts.html">SQL Upgrade Scripts</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/testing.html">Testing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/api-design.html">API Design</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/security.html">Security</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/performance.html">Performance</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/dependencies.html">Dependency Management</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/debugging.html">Debugging</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/coding-style.html">Coding Style</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/configuration.html">Consuming Configuration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/deployment.html">Deployment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/containers.html">Docker, Kubernetes, and Containers</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/making-releases.html">Making Releases</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/making-library-releases.html">Making Library Releases</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/metadataexport.html">Metadata Export Formats</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/tools.html">Tools</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/unf/index.html">Universal Numerical Fingerprint (UNF)</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../developers/unf/unf-v3.html">UNF Version 3</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../developers/unf/unf-v5.html">UNF Version 5</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../developers/unf/unf-v6.html">UNF Version 6</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/make-data-count.html">Make Data Count</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/remote-users.html">Shibboleth, OAuth and OIDC</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/geospatial.html">Geospatial Data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/selinux.html">SELinux</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/aux-file-support.html">Auxiliary File Support</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/s3-direct-upload-api.html">Direct DataFile Upload/Replace API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/globus-api.html">Globus Transfer API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/dataset-semantic-metadata-api.html">Dataset Semantic Metadata API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/dataset-migration-api.html">Dataset Migration API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/workflows.html">Workflows</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/fontcustom.html">Font Custom</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/classic-dev-env.html">Classic Dev Environment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/search-services.html">Search Services</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/testing/fixtures.html">Fixtures For Tests</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../developers/testing/performance.html">Performance Testing</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../container/index.html">Container Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../container/intro.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../container/running/index.html">Running Dataverse in Docker</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../container/running/production.html">Production</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../container/running/demo.html">Demo or Evaluation</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../container/running/metadata-blocks.html">Editing Metadata Blocks</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../container/running/github-action.html">GitHub Action</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../container/running/frontend-dev.html">Frontend Development</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../container/running/backend-dev.html">Backend Development</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../container/dev-usage.html">Development Usage</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../container/base-image.html">Base Image</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../container/app-image.html">Application Image</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../container/configbaker-image.html">Config Baker Image</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../style/index.html">Style Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../style/foundations.html">Foundations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../style/patterns.html">Patterns</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../style/text.html">Text</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../qa/index.html">QA Guide</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../qa/overview.html">Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../qa/testing-approach.html">Testing Approach</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../qa/testing-infrastructure.html">Infrastructure for Testing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../qa/qa-workflow.html">QA Workflow for Pull Requests</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../qa/test-automation.html">Test Automation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../qa/performance-tests.html">Performance Testing</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+              
+                <li class="dropdown">
+<!-- Comment out "Page" from navbar (we put contents on every page anyway) -->
+<!--
+  <a role="button"
+     id="dLabelLocalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="#">Page <b class="caret"></b></a>
+-->
+  <ul class="dropdown-menu localtoc"
+      role="menu"
+      aria-labelledby="dLabelLocalToc"><ul>
+<li><a class="reference internal" href="#">Data Access API</a><ul>
+<li><a class="reference internal" href="#downloading-all-files-in-a-dataset">Downloading All Files in a Dataset</a><ul>
+<li><a class="reference internal" href="#basic-download-by-dataset">Basic Download By Dataset</a></li>
+<li><a class="reference internal" href="#download-by-dataset-by-version">Download By Dataset By Version</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#basic-file-access">Basic File Access</a><ul>
+<li><a class="reference internal" href="#parameters">Parameters:</a></li>
+<li><a class="reference internal" href="#headers">Headers:</a></li>
+<li><a class="reference internal" href="#examples">Examples</a></li>
+<li><a class="reference internal" href="#using-a-preview-url-token">Using a Preview URL Token</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#multiple-file-bundle-download">Multiple File (“bundle”) download</a><ul>
+<li><a class="reference internal" href="#id4">Parameters:</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#all-formats-bundled-download-for-tabular-files">“All Formats” bundled download for Tabular Files.</a><ul>
+<li><a class="reference internal" href="#id5">Parameters:</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#citation-get-citation-in-other-formats">Citation - Get Citation In Other Formats</a></li>
+<li><a class="reference internal" href="#data-variable-metadata-access">Data Variable Metadata Access</a><ul>
+<li><a class="reference internal" href="#id7">Parameters:</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#preprocessed-data">Preprocessed Data</a></li>
+<li><a class="reference internal" href="#authentication-and-authorization">Authentication and Authorization</a></li>
+<li><a class="reference internal" href="#access-requests-and-processing">Access Requests and Processing</a><ul>
+<li><a class="reference internal" href="#allow-access-requests">Allow Access Requests:</a></li>
+<li><a class="reference internal" href="#request-access">Request Access:</a></li>
+<li><a class="reference internal" href="#grant-file-access">Grant File Access:</a></li>
+<li><a class="reference internal" href="#reject-file-access">Reject File Access:</a></li>
+<li><a class="reference internal" href="#revoke-file-access">Revoke File Access:</a></li>
+<li><a class="reference internal" href="#list-file-access-requests">List File Access Requests:</a></li>
+<li><a class="reference internal" href="#user-has-requested-access-to-a-file">User Has Requested Access to a File:</a></li>
+<li><a class="reference internal" href="#get-user-permissions-on-a-file">Get User Permissions on a File:</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+              
+            
+            
+              
+                <!-- comment out "prev" and "next" buttons -->
+                <!--
+                
+  <li>
+    <a href="search.html" title="Previous Chapter: Search API"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo; Search API</span>
+    </a>
+  </li>
+  <li>
+    <a href="native-api.html" title="Next Chapter: Native API"><span class="glyphicon glyphicon-chevron-right visible-sm"></span><span class="hidden-sm hidden-tablet">Native API &raquo;</span>
+    </a>
+  </li>
+                -->
+              
+            
+            
+            
+            
+          </ul>
+
+          
+            
+<form class="navbar-form navbar-right" action="../search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" />
+ </div>
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+          
+        </div>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row">
+      <div class="col-md-3">
+        <div id="sidebar" class="bs-sidenav" role="complementary">
+<form action="../search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" aria-label="Search"/>
+ </div>
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../quickstart/index.html">Quickstart Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../user/index.html">User Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../admin/index.html">Admin Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ai/index.html">AI Guide</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">API Guide</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="intro.html">Introduction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="getting-started.html">Getting Started with APIs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="auth.html">API Tokens and Authentication</a></li>
+<li class="toctree-l2"><a class="reference internal" href="search.html">Search API</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Data Access API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="native-api.html">Native API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="metrics.html">Metrics API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="sword.html">SWORD API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="client-libraries.html">Client Libraries</a></li>
+<li class="toctree-l2"><a class="reference internal" href="external-tools.html">Building External Tools</a></li>
+<li class="toctree-l2"><a class="reference internal" href="curation-labels.html">Dataset Curation Status API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="linkeddatanotification.html">Linked Data Notification API</a></li>
+<li class="toctree-l2"><a class="reference internal" href="apps.html">Apps</a></li>
+<li class="toctree-l2"><a class="reference internal" href="faq.html">Frequently Asked Questions</a></li>
+<li class="toctree-l2"><a class="reference internal" href="changelog.html">API Changelog (Breaking Changes)</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../installation/index.html">Installation Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributor/index.html">Contributor Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../developers/index.html">Developer Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../container/index.html">Container Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../style/index.html">Style Guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../qa/index.html">QA Guide</a></li>
+</ul>
+
+        </div>
+      </div>
+    <div class="col-md-9 content" role="main">
+      
+  <section id="data-access-api">
+<h1>Data Access API<a class="headerlink" href="#data-access-api" title="Link to this heading"><i class="fas fa-link"></i></a></h1>
+<p>The Data Access API provides programmatic download access to the files stored in a Dataverse installation.
+More advanced features of the Access API include format-specific transformations (thumbnail generation/resizing for images; converting tabular data into alternative file formats) and access to the data-level metadata that describes the contents of the tabular files.</p>
+<nav class="contents local" id="toctitle">
+<p class="topic-title">Contents:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#downloading-all-files-in-a-dataset" id="id8">Downloading All Files in a Dataset</a></p>
+<ul>
+<li><p><a class="reference internal" href="#basic-download-by-dataset" id="id9">Basic Download By Dataset</a></p></li>
+<li><p><a class="reference internal" href="#download-by-dataset-by-version" id="id10">Download By Dataset By Version</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#basic-file-access" id="id11">Basic File Access</a></p>
+<ul>
+<li><p><a class="reference internal" href="#parameters" id="id12">Parameters:</a></p></li>
+<li><p><a class="reference internal" href="#headers" id="id13">Headers:</a></p></li>
+<li><p><a class="reference internal" href="#examples" id="id14">Examples</a></p></li>
+<li><p><a class="reference internal" href="#using-a-preview-url-token" id="id15">Using a Preview URL Token</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#multiple-file-bundle-download" id="id16">Multiple File (“bundle”) download</a></p>
+<ul>
+<li><p><a class="reference internal" href="#id4" id="id17">Parameters:</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#all-formats-bundled-download-for-tabular-files" id="id18">“All Formats” bundled download for Tabular Files.</a></p>
+<ul>
+<li><p><a class="reference internal" href="#id5" id="id19">Parameters:</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#citation-get-citation-in-other-formats" id="id20">Citation - Get Citation In Other Formats</a></p></li>
+<li><p><a class="reference internal" href="#data-variable-metadata-access" id="id21">Data Variable Metadata Access</a></p>
+<ul>
+<li><p><a class="reference internal" href="#id7" id="id22">Parameters:</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#preprocessed-data" id="id23">Preprocessed Data</a></p></li>
+<li><p><a class="reference internal" href="#authentication-and-authorization" id="id24">Authentication and Authorization</a></p></li>
+<li><p><a class="reference internal" href="#access-requests-and-processing" id="id25">Access Requests and Processing</a></p>
+<ul>
+<li><p><a class="reference internal" href="#allow-access-requests" id="id26">Allow Access Requests:</a></p></li>
+<li><p><a class="reference internal" href="#request-access" id="id27">Request Access:</a></p></li>
+<li><p><a class="reference internal" href="#grant-file-access" id="id28">Grant File Access:</a></p></li>
+<li><p><a class="reference internal" href="#reject-file-access" id="id29">Reject File Access:</a></p></li>
+<li><p><a class="reference internal" href="#revoke-file-access" id="id30">Revoke File Access:</a></p></li>
+<li><p><a class="reference internal" href="#list-file-access-requests" id="id31">List File Access Requests:</a></p></li>
+<li><p><a class="reference internal" href="#user-has-requested-access-to-a-file" id="id32">User Has Requested Access to a File:</a></p></li>
+<li><p><a class="reference internal" href="#get-user-permissions-on-a-file" id="id33">Get User Permissions on a File:</a></p></li>
+</ul>
+</li>
+</ul>
+</nav>
+<section id="downloading-all-files-in-a-dataset">
+<span id="download-by-dataset-api"></span><h2><a class="toc-backref" href="#id8" role="doc-backlink">Downloading All Files in a Dataset</a><a class="headerlink" href="#downloading-all-files-in-a-dataset" title="Link to this heading"><i class="fas fa-link"></i></a></h2>
+<p>The “download by dataset” API downloads as many files as possible from a dataset as a zipped bundle.</p>
+<p>By default, tabular files are downloaded in their “archival” form (tab-separated values). To download the original files (Stata, for example), add <code class="docutils literal notranslate"><span class="pre">format=original</span></code> as a query parameter.</p>
+<p>There are a number of reasons why not all of the files can be downloaded:</p>
+<ul class="simple">
+<li><p>Some of the files are restricted and your API token doesn’t have access (you will still get the unrestricted files).</p></li>
+<li><p>The Dataverse installation has limited how large the zip bundle can be.</p></li>
+</ul>
+<p>In the curl example below, the flags <code class="docutils literal notranslate"><span class="pre">-O</span></code> and <code class="docutils literal notranslate"><span class="pre">-J</span></code> are used. When there are no errors, this has the effect of saving the file under the name suggested by Dataverse (which as of v6.7 will be based on the persistent identifier of the dataset and the latest version number, for example <code class="docutils literal notranslate"><span class="pre">doi-10.70122-fk2-n2xgbj_1.1.zip</span></code>; in prior versions the file name was <code class="docutils literal notranslate"><span class="pre">dataverse_files.zip</span></code> in all cases). This mirrors the way the files are saved when downloaded in a browser. The flags also force error messages to be downloaded as a file.</p>
+<p>Please note that in addition to the files from dataset, an additional file call “MANIFEST.TXT” will be included in the zipped bundle. It has additional information about the files.</p>
+<p>There are two forms of the “download by dataset” API, a basic form and one that supports dataset versions.</p>
+<section id="basic-download-by-dataset">
+<span id="id1"></span><h3><a class="toc-backref" href="#id9" role="doc-backlink">Basic Download By Dataset</a><a class="headerlink" href="#basic-download-by-dataset" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p>The basic form downloads files from the latest accessible version of the dataset. If you are not using an API token, this means the most recently published version. If you are using an API token with full access to the dataset, this means the draft version or the most recently published version if no draft exists.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Files that require a Guestbook Response will require an additional step to supply the Guestbook Response. A POST to the same endpoint with the Guestbook Response in the body can return a signed url that can be used to download the file(s) via a browser or download manager. To determine what information is required in the response you must first get the Guestbook for the Dataset whose file(s) you are trying to access along with any Custom Questions. Call <code class="docutils literal notranslate"><span class="pre">GET</span> <span class="pre">http://$SERVER/api/guestbooks/{id}</span></code> with the guestbookId from the Dataset (See <a class="reference internal" href="native-api.html#dataset-json-representation"><span class="std std-ref">Get JSON Representation of a Dataset</span></a> to get the Dataset with guestbookId) to retrieve the Guestbook and Custom Questions. Build the JSON response with the information requested and add it to the body of the POST call within “guestbookResponse”:{}. For more about guestbooks, see <a class="reference internal" href="../user/dataverse-management.html#dataset-guestbooks"><span class="std std-ref">Dataset Guestbooks</span></a> in the User Guide.</p>
+</div>
+<p>A curl example using a DOI (no version):</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="nb">export</span><span class="w"> </span><span class="nv">API_TOKEN</span><span class="o">=</span>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+<span class="nb">export</span><span class="w"> </span><span class="nv">SERVER_URL</span><span class="o">=</span>https://demo.dataverse.org
+<span class="nb">export</span><span class="w"> </span><span class="nv">PERSISTENT_ID</span><span class="o">=</span>doi:10.70122/FK2/N2XGBJ
+
+curl<span class="w"> </span>-L<span class="w"> </span>-O<span class="w"> </span>-J<span class="w"> </span>-H<span class="w"> </span><span class="s2">&quot;X-Dataverse-key:</span><span class="nv">$API_TOKEN</span><span class="s2">&quot;</span><span class="w"> </span><span class="nv">$SERVER_URL</span>/api/access/dataset/:persistentId/?persistentId<span class="o">=</span><span class="nv">$PERSISTENT_ID</span>
+</pre></div>
+</div>
+<p>The fully expanded example above (without environment variables) looks like this:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>curl<span class="w"> </span>-L<span class="w"> </span>-O<span class="w"> </span>-J<span class="w"> </span>-H<span class="w"> </span>X-Dataverse-key:xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx<span class="w"> </span>https://demo.dataverse.org/api/access/dataset/:persistentId/?persistentId<span class="o">=</span>doi:10.70122/FK2/N2XGBJ
+</pre></div>
+</div>
+</section>
+<section id="download-by-dataset-by-version">
+<span id="id2"></span><h3><a class="toc-backref" href="#id10" role="doc-backlink">Download By Dataset By Version</a><a class="headerlink" href="#download-by-dataset-by-version" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p>The second form of the “download by dataset” API allows you to specify which version you’d like to download files from. As with the <code class="docutils literal notranslate"><span class="pre">datasets</span></code> API endpoints described in the <a class="reference internal" href="native-api.html"><span class="doc">Native API</span></a> section, the following identifiers can be used.</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">:draft</span></code>  the draft version, if any</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">:latest</span></code> either a draft (if exists) or the latest published version.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">:latest-published</span></code> the latest published version</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">x.y</span></code> a specific version, where <code class="docutils literal notranslate"><span class="pre">x</span></code> is the major version number and <code class="docutils literal notranslate"><span class="pre">y</span></code> is the minor version number.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">x</span></code> same as <code class="docutils literal notranslate"><span class="pre">x.0</span></code></p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Files that require a Guestbook Response will require an additional step to supply the Guestbook Response. A POST to the same endpoint with the Guestbook Response in the body can return a signed url that can be used to download the file(s) via a browser or download manager. To determine what information is required in the response you must first get the Guestbook for the Dataset whose file(s) you are trying to access along with any Custom Questions. Call <code class="docutils literal notranslate"><span class="pre">GET</span> <span class="pre">http://$SERVER/api/guestbooks/{id}</span></code> with the guestbookId from the Dataset (See <a class="reference internal" href="native-api.html#dataset-json-representation"><span class="std std-ref">Get JSON Representation of a Dataset</span></a> to get the Dataset with guestbookId) to retrieve the Guestbook and Custom Questions. Build the JSON response with the information requested and add it to the body of the POST call within “guestbookResponse”:{}. For more about guestbooks, see <a class="reference internal" href="../user/dataverse-management.html#dataset-guestbooks"><span class="std std-ref">Dataset Guestbooks</span></a> in the User Guide.</p>
+</div>
+<p>A curl example using a DOI (with version):</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="nb">export</span><span class="w"> </span><span class="nv">API_TOKEN</span><span class="o">=</span>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+<span class="nb">export</span><span class="w"> </span><span class="nv">SERVER_URL</span><span class="o">=</span>https://demo.dataverse.org
+<span class="nb">export</span><span class="w"> </span><span class="nv">PERSISTENT_ID</span><span class="o">=</span>doi:10.70122/FK2/N2XGBJ
+<span class="nb">export</span><span class="w"> </span><span class="nv">VERSION</span><span class="o">=</span><span class="m">2</span>.0
+
+curl<span class="w"> </span>-O<span class="w"> </span>-J<span class="w"> </span>-H<span class="w"> </span><span class="s2">&quot;X-Dataverse-key:</span><span class="nv">$API_TOKEN</span><span class="s2">&quot;</span><span class="w"> </span><span class="nv">$SERVER_URL</span>/api/access/dataset/:persistentId/versions/<span class="nv">$VERSION</span>?persistentId<span class="o">=</span><span class="nv">$PERSISTENT_ID</span>
+</pre></div>
+</div>
+<p>Similarly to the API above, this will save the downloaded bundle under the name based on the persistent identifier and the version number, for example, <code class="docutils literal notranslate"><span class="pre">doi-10.70122-fk2-n2xgbj_1.1.zip</span></code> or <code class="docutils literal notranslate"><span class="pre">doi-10.70122-fk2-n2xgbj_draft.zip</span></code>.</p>
+<p>The fully expanded example above (without environment variables) looks like this:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>curl<span class="w"> </span>-O<span class="w"> </span>-J<span class="w"> </span>-H<span class="w"> </span>X-Dataverse-key:xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx<span class="w"> </span>https://demo.dataverse.org/api/access/dataset/:persistentId/versions/2.0?persistentId<span class="o">=</span>doi:10.70122/FK2/N2XGBJ
+</pre></div>
+</div>
+</section>
+</section>
+<section id="basic-file-access">
+<span id="id3"></span><h2><a class="toc-backref" href="#id11" role="doc-backlink">Basic File Access</a><a class="headerlink" href="#basic-file-access" title="Link to this heading"><i class="fas fa-link"></i></a></h2>
+<p>Basic access URI:</p>
+<p><code class="docutils literal notranslate"><span class="pre">/api/access/datafile/$id</span></code></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Files can be accessed using persistent identifiers. This is done by passing the constant <code class="docutils literal notranslate"><span class="pre">:persistentId</span></code> where the numeric id of the file is expected, and then passing the actual persistent id as a query parameter with the name <code class="docutils literal notranslate"><span class="pre">persistentId</span></code>. However, this file access method is only effective when the FilePIDsEnabled option is enabled, which can be authorized by the admin. For further information, refer to <a class="reference internal" href="../installation/config.html#filepidsenabled"><span class="std std-ref">:FilePIDsEnabled</span></a>.</p>
+<p>Example: Getting the file whose DOI is <em>10.5072/FK2/J8SJZB</em></p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>GET http://$SERVER/api/access/datafile/:persistentId?persistentId=doi:10.5072/FK2/J8SJZB
+</pre></div>
+</div>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Files that require a Guestbook Response will require an additional step to supply the Guestbook Response. A POST to the same endpoint with the Guestbook Response in the body can return a signed url that can be used to download the file(s) via a browser or download manager. For more about guestbooks, see <a class="reference internal" href="../user/dataverse-management.html#dataset-guestbooks"><span class="std std-ref">Dataset Guestbooks</span></a> in the User Guide. In the following JSON example please note that the <cite>name</cite>, <cite>email</cite>, <cite>institution</cite>, and <cite>position</cite> fields will default to the User’s account information if not included in the response. Call <code class="docutils literal notranslate"><span class="pre">GET</span> <span class="pre">http://$SERVER/api/guestbooks/{id}</span></code> with the guestbookId from the Dataset (See <a class="reference internal" href="native-api.html#dataset-json-representation"><span class="std std-ref">Get JSON Representation of a Dataset</span></a> to get the Dataset with guestbookId) to retrieve the Guestbook and Custom Questions. Build the JSON response with the information requested and add it to the body of the POST call within “guestbookResponse”:{}.</p>
+<p>Example</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">curl</span> <span class="o">-</span><span class="n">X</span> <span class="n">POST</span> <span class="o">-</span><span class="n">H</span> <span class="s1">&#39;Content-Type:application/json&#39;</span> <span class="o">-</span><span class="n">H</span> <span class="s2">&quot;X-Dataverse-key:$API_TOKEN&quot;</span> <span class="s2">&quot;$SERVER_URL/api/access/datafile/:persistentId?persistentId=doi:10.5072/FK2/J8SJZB&quot;</span> <span class="o">-</span><span class="n">d</span> <span class="s1">&#39;{&quot;guestbookResponse&quot;: {&quot;name&quot;: &quot;My Name&quot;, &quot;email&quot;: &quot;myemail@example.com&quot;, &quot;institution&quot;: &quot;Harvard&quot;,&quot;position&quot;: &quot;Staff&quot;, &quot;answers&quot;: [{&quot;id&quot;: 123,&quot;value&quot;: &quot;Good&quot;},{&quot;id&quot;: 124,&quot;value&quot;: [&quot;Multi&quot;,&quot;Line&quot;]},{&quot;id&quot;: 125,&quot;value&quot;: &quot;Yellow&quot;}]}}&#39;</span>
+</pre></div>
+</div>
+</div>
+<section id="parameters">
+<h3><a class="toc-backref" href="#id12" role="doc-backlink">Parameters:</a><a class="headerlink" href="#parameters" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">format</span></code></p>
+<p>the following parameter values are supported (for tabular data files only):</p>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Value</p></th>
+<th class="head"><p>Description</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>original</p></td>
+<td><p>“Saved Original”, the proprietary (SPSS, Stata, R, etc.) file from which the tabular data was ingested;</p></td>
+</tr>
+<tr class="row-odd"><td><p>RData</p></td>
+<td><p>Tabular data as an R Data frame (generated; unless the “original” file was in R);</p></td>
+</tr>
+<tr class="row-even"><td><p>prep</p></td>
+<td><p>“Pre-processed data”, in JSON.</p></td>
+</tr>
+<tr class="row-odd"><td><p>subset</p></td>
+<td><p>Column-wise subsetting. You must also supply a comma separated list of variables in the “variables” query parameter. In this example, 123 and 127 are the database ids of data variables that belong to the data file with the id 6: <code class="docutils literal notranslate"><span class="pre">curl</span> <span class="pre">'http://localhost:8080/api/access/datafile/6?format=subset&amp;variables=123,127'</span></code>.</p></td>
+</tr>
+</tbody>
+</table>
+<hr class="docutils" />
+<p><code class="docutils literal notranslate"><span class="pre">noVarHeader</span></code></p>
+<p>(supported for tabular data files only; ignored for all other file types)</p>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Value</p></th>
+<th class="head"><p>Description</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>true|1</p></td>
+<td><p>Tab-delimited data file, without the variable name header (added to tab. files by default)</p></td>
+</tr>
+</tbody>
+</table>
+<hr class="docutils" />
+<p><code class="docutils literal notranslate"><span class="pre">imageThumb</span></code></p>
+<p>the following parameter values are supported (for image and pdf files only):</p>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Value</p></th>
+<th class="head"><p>Description</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>true</p></td>
+<td><p>Generates a thumbnail image by rescaling to the default thumbnail size (64 pixels wide).</p></td>
+</tr>
+<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">N</span></code></p></td>
+<td><p>Rescales the image to <code class="docutils literal notranslate"><span class="pre">N</span></code> pixels wide. <code class="docutils literal notranslate"><span class="pre">imageThumb=true</span></code> and <code class="docutils literal notranslate"><span class="pre">imageThumb=64</span></code> are equivalent.</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="headers">
+<h3><a class="toc-backref" href="#id13" role="doc-backlink">Headers:</a><a class="headerlink" href="#headers" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Header</p></th>
+<th class="head"><p>Description</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Range</p></td>
+<td><p>Download a specified byte range. Examples:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">bytes=0-9</span></code> gets the first 10 bytes.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">bytes=10-19</span></code> gets 10 bytes from the middle.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">bytes=-10</span></code> gets the last 10 bytes.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">bytes=9-</span></code> gets all bytes except the first 10.</p></li>
+</ul>
+<p>Only a single range is supported. The “If-Range” header is not supported. For more on the “Range” header, see <a class="reference external" href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Range_requests">https://developer.mozilla.org/en-US/docs/Web/HTTP/Range_requests</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="examples">
+<h3><a class="toc-backref" href="#id14" role="doc-backlink">Examples</a><a class="headerlink" href="#examples" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p>A curl example of using the <code class="docutils literal notranslate"><span class="pre">Range</span></code> header to download the first 10 bytes of a file using its file id (database id):</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="nb">export</span><span class="w"> </span><span class="nv">SERVER_URL</span><span class="o">=</span>https://demo.dataverse.org
+<span class="nb">export</span><span class="w"> </span><span class="nv">FILE_ID</span><span class="o">=</span><span class="m">42</span>
+<span class="nb">export</span><span class="w"> </span><span class="nv">RANGE</span><span class="o">=</span><span class="m">0</span>-9
+
+curl<span class="w"> </span>-H<span class="w"> </span><span class="s2">&quot;Range:bytes=</span><span class="nv">$RANGE</span><span class="s2">&quot;</span><span class="w"> </span><span class="nv">$SERVER_URL</span>/api/access/datafile/<span class="nv">$FILE_ID</span>
+</pre></div>
+</div>
+<p>The fully expanded example above (without environment variables) looks like this:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>curl<span class="w"> </span>-H<span class="w"> </span><span class="s2">&quot;Range:bytes=0-9&quot;</span><span class="w"> </span>https://demo.dataverse.org/api/access/datafile/42
+</pre></div>
+</div>
+</section>
+<section id="using-a-preview-url-token">
+<span id="get-file-using-preview-url-token"></span><h3><a class="toc-backref" href="#id15" role="doc-backlink">Using a Preview URL Token</a><a class="headerlink" href="#using-a-preview-url-token" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p>If you want to access a file in a dataset shared by a preview URL (see <a class="reference internal" href="../user/dataset-management.html#previewurl"><span class="std std-ref">Preview URL to Review Unpublished Dataset</span></a>, <a class="reference internal" href="native-api.html#get-dataset-by-preview-url-token"><span class="std std-ref">Get Dataset By Preview URL Token</span></a> and <a class="reference internal" href="native-api.html#create-a-preview-url-for-a-dataset"><span class="std std-ref">Create a Preview URL for a Dataset</span></a>) using the API, you can use the token in the preview URL as API_TOKEN.</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="nv">SERVER_URL</span><span class="o">=</span>https://demo.dataverse.org
+<span class="nv">PREVIEW_URL_TOKEN</span><span class="o">=</span>a56444bc-7697-4711-8964-e0577f055fd2
+<span class="nv">FILE_ID</span><span class="o">=</span><span class="m">1111111</span>
+<span class="nv">FILENAME</span><span class="o">=</span>example.txt
+curl<span class="w"> </span>-H<span class="w"> </span><span class="s2">&quot;X-Dataverse-key:</span><span class="nv">$PREVIEW_URL_TOKEN</span><span class="s2">&quot;</span><span class="w"> </span>-o<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$FILENAME</span><span class="s2">&quot;</span><span class="w"> </span><span class="s2">&quot;</span><span class="nv">$SERVER_URL</span><span class="s2">/api/access/datafile/</span><span class="nv">$FILE_ID</span><span class="s2">&quot;</span>
+</pre></div>
+</div>
+</section>
+</section>
+<section id="multiple-file-bundle-download">
+<h2><a class="toc-backref" href="#id16" role="doc-backlink">Multiple File (“bundle”) download</a><a class="headerlink" href="#multiple-file-bundle-download" title="Link to this heading"><i class="fas fa-link"></i></a></h2>
+<p><code class="docutils literal notranslate"><span class="pre">/api/access/datafiles/$id1,$id2,...$idN</span></code></p>
+<p>Alternate Form: POST to <code class="docutils literal notranslate"><span class="pre">/api/access/datafiles</span></code> with a <code class="docutils literal notranslate"><span class="pre">fileIds</span></code> input field containing the same comma separated list of file ids. This is most useful when your list of files surpasses the allowed URL length (varies but can be ~2000 characters).</p>
+<p>Returns the files listed, zipped. As of v6.7 the name of the zipped bundle will be based on the persistent identifier of the parent dataset, for example, <code class="docutils literal notranslate"><span class="pre">doi-10.70122-fk2-xxyyzz.zip</span></code>; in prior versions the file name was <code class="docutils literal notranslate"><span class="pre">dataverse_files.zip</span></code> in all cases).</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If the request can only be completed partially - if only <em>some</em> of the requested files can be served (because of the permissions and/or size restrictions), the file MANIFEST.TXT included in the zipped bundle will have entries specifying the reasons the missing files could not be downloaded. IN THE FUTURE the API will return a 207 status code to indicate that the result was a partial success. (As of writing this - v.4.11 - this hasn’t been implemented yet)</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If any of the datafiles have the <code class="docutils literal notranslate"><span class="pre">DirectoryLabel</span></code> attributes in the corresponding <code class="docutils literal notranslate"><span class="pre">FileMetadata</span></code> entries, these will be added as folders to the Zip archive, and the files will be placed in them accordingly.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If Guestbook Responses are required they can be included in the body along with the file ids as JSON: <code class="docutils literal notranslate"><span class="pre">{&quot;fileIds&quot;</span> <span class="pre">:[1,2,3],</span> <span class="pre">{&quot;guestbookResponse&quot;:</span> <span class="pre">{&quot;answers&quot;:</span> <span class="pre">[]}}}</span></code>. For more about guestbooks, see <a class="reference internal" href="../user/dataverse-management.html#dataset-guestbooks"><span class="std std-ref">Dataset Guestbooks</span></a> in the User Guide.</p>
+</div>
+<section id="id4">
+<h3><a class="toc-backref" href="#id17" role="doc-backlink">Parameters:</a><a class="headerlink" href="#id4" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">format</span></code>
+the following parameter values are supported (for tabular data files only):</p>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Value</p></th>
+<th class="head"><p>Description</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>original</p></td>
+<td><p>“Saved Original”, the proprietary (SPSS, Stata, R, etc.) file from which the tabular data was ingested;</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="all-formats-bundled-download-for-tabular-files">
+<h2><a class="toc-backref" href="#id18" role="doc-backlink">“All Formats” bundled download for Tabular Files.</a><a class="headerlink" href="#all-formats-bundled-download-for-tabular-files" title="Link to this heading"><i class="fas fa-link"></i></a></h2>
+<p><code class="docutils literal notranslate"><span class="pre">/api/access/datafile/bundle/$id</span></code></p>
+<p>This is a convenience packaging method available for tabular data files.
+It returns a zipped bundle that contains the data in the following formats:</p>
+<ul class="simple">
+<li><p>Tab-delimited;</p></li>
+<li><p>“Saved Original”, the proprietary (SPSS, Stata, R, etc.) file from which the tabular data was ingested;</p></li>
+<li><p>Generated R Data frame (unless the “original” above was in R);</p></li>
+<li><p>Data (Variable) metadata record, in DDI XML;</p></li>
+<li><p>File citation, in Endnote and RIS formats.</p></li>
+</ul>
+<section id="id5">
+<h3><a class="toc-backref" href="#id19" role="doc-backlink">Parameters:</a><a class="headerlink" href="#id5" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">fileMetadataId</span></code></p>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Value</p></th>
+<th class="head"><p>Description</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>ID</p></td>
+<td><p>Exports file with specific file metadata <code class="docutils literal notranslate"><span class="pre">ID</span></code>.</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="citation-get-citation-in-other-formats">
+<span id="datafile-citation-formatted-access"></span><h2><a class="toc-backref" href="#id20" role="doc-backlink">Citation - Get Citation In Other Formats</a><a class="headerlink" href="#citation-get-citation-in-other-formats" title="Link to this heading"><i class="fas fa-link"></i></a></h2>
+<p>Dataverse can generate datafile citations in “EndNote”, “RIS”, “BibTeX”, and “CSL” formats.
+This API call sends the raw format with the appropriate content-type (EndNote is XML, RIS and BibTeX are plain text, and CSL is JSON). (“Internal” is also a valid value, returning the content as HTML).
+This API call requires a format in the API call which can be any of the values listed above.</p>
+<p>Usage example:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span><span class="nb">export</span><span class="w"> </span><span class="nv">SERVER_URL</span><span class="o">=</span>https://demo.dataverse.org
+<span class="nb">export</span><span class="w"> </span><span class="nv">DATAFILE_ID</span><span class="o">=</span><span class="m">99</span>
+<span class="nb">export</span><span class="w"> </span><span class="nv">FORMAT</span><span class="o">=</span>EndNote
+
+curl<span class="w"> </span><span class="s2">&quot;</span><span class="nv">$SERVER_URL</span><span class="s2">/api/access/datafile/</span><span class="nv">$DATAFILE_ID</span><span class="s2">/citation/</span><span class="nv">$FORMAT</span><span class="s2">&quot;</span>
+</pre></div>
+</div>
+</section>
+<section id="data-variable-metadata-access">
+<span id="id6"></span><h2><a class="toc-backref" href="#id21" role="doc-backlink">Data Variable Metadata Access</a><a class="headerlink" href="#data-variable-metadata-access" title="Link to this heading"><i class="fas fa-link"></i></a></h2>
+<p><strong>These methods are only available for tabular data files. (i.e., data files with associated data table and variable objects).</strong></p>
+<p><code class="docutils literal notranslate"><span class="pre">/api/access/datafile/$id/metadata/ddi</span></code></p>
+<p>In its basic form the verb above returns a DDI fragment that describes the file and the data variables in it.</p>
+<p>The DDI returned will only have two top-level sections:</p>
+<ul class="simple">
+<li><p>a single <code class="docutils literal notranslate"><span class="pre">fileDscr</span></code>, with the basic file information plus the numbers of variables and observations and the UNF of the file.</p></li>
+<li><p>a single <code class="docutils literal notranslate"><span class="pre">dataDscr</span></code> section, with one <code class="docutils literal notranslate"><span class="pre">var</span></code> section for each variable.</p></li>
+</ul>
+<p>Example:</p>
+<p><code class="docutils literal notranslate"><span class="pre">http://localhost:8080/api/access/datafile/6/metadata/ddi</span></code></p>
+<div class="highlight-xml notranslate"><div class="highlight"><pre><span></span><span class="nt">&lt;codeBook</span><span class="w"> </span><span class="na">version=</span><span class="s">&quot;2.0&quot;</span><span class="nt">&gt;</span>
+<span class="w">   </span><span class="nt">&lt;fileDscr</span><span class="w"> </span><span class="na">ID=</span><span class="s">&quot;f6&quot;</span><span class="nt">&gt;</span>
+<span class="w">      </span><span class="nt">&lt;fileTxt&gt;</span>
+<span class="w">         </span><span class="nt">&lt;fileName&gt;</span>_73084.tab<span class="nt">&lt;/fileName&gt;</span>
+<span class="w">         </span><span class="nt">&lt;dimensns&gt;</span>
+<span class="w">            </span><span class="nt">&lt;caseQnty&gt;</span>3<span class="nt">&lt;/caseQnty&gt;</span>
+<span class="w">            </span><span class="nt">&lt;varQnty&gt;</span>2<span class="nt">&lt;/varQnty&gt;</span>
+<span class="w">         </span><span class="nt">&lt;/dimensns&gt;</span>
+<span class="w">         </span><span class="nt">&lt;fileType&gt;</span>text/tab-separated-values<span class="nt">&lt;/fileType&gt;</span>
+<span class="w">      </span><span class="nt">&lt;/fileTxt&gt;</span>
+<span class="w">      </span><span class="nt">&lt;notes</span><span class="w"> </span><span class="na">level=</span><span class="s">&quot;file&quot;</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;VDC:UNF&quot;</span><span class="w"> </span><span class="na">subject=</span><span class="s">&quot;Universal Numeric Fingerprint&quot;</span><span class="nt">&gt;</span>UNF:6:zChnyI3fjwNP+6qW0VryVQ==<span class="nt">&lt;/notes&gt;</span>
+<span class="w">   </span><span class="nt">&lt;/fileDscr&gt;</span>
+<span class="w">   </span><span class="nt">&lt;dataDscr&gt;</span>
+<span class="w">      </span><span class="nt">&lt;var</span><span class="w"> </span><span class="na">ID=</span><span class="s">&quot;v1&quot;</span><span class="w"> </span><span class="na">name=</span><span class="s">&quot;id&quot;</span><span class="w"> </span><span class="na">intrvl=</span><span class="s">&quot;discrete&quot;</span><span class="nt">&gt;</span>
+<span class="w">         </span><span class="nt">&lt;location</span><span class="w"> </span><span class="na">fileid=</span><span class="s">&quot;f6&quot;</span><span class="nt">/&gt;</span>
+<span class="w">         </span><span class="nt">&lt;labl</span><span class="w"> </span><span class="na">level=</span><span class="s">&quot;variable&quot;</span><span class="nt">&gt;</span>Personen-ID<span class="nt">&lt;/labl&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;mean&quot;</span><span class="nt">&gt;</span>2.0<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;mode&quot;</span><span class="nt">&gt;</span>.<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;medn&quot;</span><span class="nt">&gt;</span>2.0<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;stdev&quot;</span><span class="nt">&gt;</span>1.0<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;min&quot;</span><span class="nt">&gt;</span>1.0<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;vald&quot;</span><span class="nt">&gt;</span>3.0<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;invd&quot;</span><span class="nt">&gt;</span>0.0<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;max&quot;</span><span class="nt">&gt;</span>3.0<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;varFormat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;numeric&quot;</span><span class="nt">/&gt;</span>
+<span class="w">         </span><span class="nt">&lt;notes</span><span class="w"> </span><span class="na">subject=</span><span class="s">&quot;Universal Numeric Fingerprint&quot;</span><span class="w"> </span><span class="na">level=</span><span class="s">&quot;variable&quot;</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;VDC:UNF&quot;</span><span class="nt">&gt;</span>UNF:6:AvELPR5QTaBbnq6S22Msow==<span class="nt">&lt;/notes&gt;</span>
+<span class="w">      </span><span class="nt">&lt;/var&gt;</span>
+<span class="w">      </span><span class="nt">&lt;var</span><span class="w"> </span><span class="na">ID=</span><span class="s">&quot;v3&quot;</span><span class="w"> </span><span class="na">name=</span><span class="s">&quot;sex&quot;</span><span class="w"> </span><span class="na">intrvl=</span><span class="s">&quot;discrete&quot;</span><span class="nt">&gt;</span>
+<span class="w">         </span><span class="nt">&lt;location</span><span class="w"> </span><span class="na">fileid=</span><span class="s">&quot;f6&quot;</span><span class="nt">/&gt;</span>
+<span class="w">         </span><span class="nt">&lt;labl</span><span class="w"> </span><span class="na">level=</span><span class="s">&quot;variable&quot;</span><span class="nt">&gt;</span>Geschlecht<span class="nt">&lt;/labl&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;mean&quot;</span><span class="nt">&gt;</span>1.3333333333333333<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;max&quot;</span><span class="nt">&gt;</span>2.0<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;vald&quot;</span><span class="nt">&gt;</span>3.0<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;mode&quot;</span><span class="nt">&gt;</span>.<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;stdev&quot;</span><span class="nt">&gt;</span>0.5773502691896257<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;invd&quot;</span><span class="nt">&gt;</span>0.0<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;medn&quot;</span><span class="nt">&gt;</span>1.0<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;sumStat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;min&quot;</span><span class="nt">&gt;</span>1.0<span class="nt">&lt;/sumStat&gt;</span>
+<span class="w">         </span><span class="nt">&lt;catgry&gt;</span>
+<span class="w">            </span><span class="nt">&lt;catValu&gt;</span>1<span class="nt">&lt;/catValu&gt;</span>
+<span class="w">            </span><span class="nt">&lt;labl</span><span class="w"> </span><span class="na">level=</span><span class="s">&quot;category&quot;</span><span class="nt">&gt;</span>Mann<span class="nt">&lt;/labl&gt;</span>
+<span class="w">         </span><span class="nt">&lt;/catgry&gt;</span>
+<span class="w">         </span><span class="nt">&lt;catgry&gt;</span>
+<span class="w">            </span><span class="nt">&lt;catValu&gt;</span>2<span class="nt">&lt;/catValu&gt;</span>
+<span class="w">            </span><span class="nt">&lt;labl</span><span class="w"> </span><span class="na">level=</span><span class="s">&quot;category&quot;</span><span class="nt">&gt;</span>Frau<span class="nt">&lt;/labl&gt;</span>
+<span class="w">         </span><span class="nt">&lt;/catgry&gt;</span>
+<span class="w">         </span><span class="nt">&lt;varFormat</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;numeric&quot;</span><span class="nt">/&gt;</span>
+<span class="w">         </span><span class="nt">&lt;notes</span><span class="w"> </span><span class="na">subject=</span><span class="s">&quot;Universal Numeric Fingerprint&quot;</span><span class="w"> </span><span class="na">level=</span><span class="s">&quot;variable&quot;</span><span class="w"> </span><span class="na">type=</span><span class="s">&quot;VDC:UNF&quot;</span><span class="nt">&gt;</span>UNF:6:XqQaMwOA63taX1YyBzTZYQ==<span class="nt">&lt;/notes&gt;</span>
+<span class="w">      </span><span class="nt">&lt;/var&gt;</span>
+<span class="w">   </span><span class="nt">&lt;/dataDscr&gt;</span>
+<span class="nt">&lt;/codeBook&gt;</span>
+</pre></div>
+</div>
+<section id="id7">
+<h3><a class="toc-backref" href="#id22" role="doc-backlink">Parameters:</a><a class="headerlink" href="#id7" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">fileMetadataId</span></code></p>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Value</p></th>
+<th class="head"><p>Description</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>ID</p></td>
+<td><p>Exports file with specific file metadata <code class="docutils literal notranslate"><span class="pre">ID</span></code>. For example for data file with id 6 and file metadata id 2: <code class="docutils literal notranslate"><span class="pre">curl</span> <span class="pre">'http://localhost:8080/api/access/datafile/6/metadata/ddi?fileMetadataId=2'</span></code></p></td>
+</tr>
+</tbody>
+</table>
+<p>More information on DDI is available in the <a class="reference internal" href="../user/tabulardataingest/ingestprocess.html"><span class="doc">Tabular Data, Representation, Storage and Ingest</span></a> section of the User Guide.</p>
+<p>Advanced options/Parameters:</p>
+<p>It is possible to request only specific subsets of, rather than the
+full file-level DDI record. This can be a useful optimization, in
+cases such as when an application needs to look up a single variable;
+especially with data files with large numbers of variables. See
+<code class="docutils literal notranslate"><span class="pre">variables=123,127</span></code> in the example above.</p>
+</section>
+</section>
+<section id="preprocessed-data">
+<h2><a class="toc-backref" href="#id23" role="doc-backlink">Preprocessed Data</a><a class="headerlink" href="#preprocessed-data" title="Link to this heading"><i class="fas fa-link"></i></a></h2>
+<p><code class="docutils literal notranslate"><span class="pre">/api/access/datafile/$id?format=prep</span></code></p>
+<p>This method provides the “preprocessed data” - a summary record that describes the values of the data vectors in the tabular file, in JSON. These metadata values are used by earlier versions of Data Explorer, an external tool that integrates with a Dataverse installation (see <a class="reference internal" href="../admin/external-tools.html"><span class="doc">External Tools</span></a>). Please note that this format might change in the future.</p>
+</section>
+<section id="authentication-and-authorization">
+<h2><a class="toc-backref" href="#id24" role="doc-backlink">Authentication and Authorization</a><a class="headerlink" href="#authentication-and-authorization" title="Link to this heading"><i class="fas fa-link"></i></a></h2>
+<p>Data Access API supports both session- and API key-based authentication.</p>
+<p>If a session is available, and it is already associated with an authenticated user, it will be used for access authorization. If not, or if the user in question is not authorized to access the requested object, an attempt will be made to authorize based on an API key, if supplied.
+All of the API verbs above support the key parameter <code class="docutils literal notranslate"><span class="pre">key=...</span></code> as well as the newer <code class="docutils literal notranslate"><span class="pre">X-Dataverse-key</span></code> header. For more details, see “Authentication” in the <a class="reference internal" href="intro.html"><span class="doc">Introduction</span></a> section.</p>
+</section>
+<section id="access-requests-and-processing">
+<h2><a class="toc-backref" href="#id25" role="doc-backlink">Access Requests and Processing</a><a class="headerlink" href="#access-requests-and-processing" title="Link to this heading"><i class="fas fa-link"></i></a></h2>
+<p>All of the following endpoints take the persistent identifier as a parameter in place of ‘id’.</p>
+<section id="allow-access-requests">
+<h3><a class="toc-backref" href="#id26" role="doc-backlink">Allow Access Requests:</a><a class="headerlink" href="#allow-access-requests" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p>Allow or disallow users from requesting access to restricted files in a dataset where id is the database id of the dataset or pid is the persistent id (DOI or Handle) of the dataset to update.</p>
+<p>A curl example using an <code class="docutils literal notranslate"><span class="pre">id</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>curl -H &quot;X-Dataverse-key:$API_TOKEN&quot; -X PUT -d true http://$SERVER/api/access/{id}/allowAccessRequest
+</pre></div>
+</div>
+<p>A curl example using a <code class="docutils literal notranslate"><span class="pre">pid</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>curl -H &quot;X-Dataverse-key:$API_TOKEN&quot; -X PUT -d true http://$SERVER/api/access/:persistentId/allowAccessRequest?persistentId={pid}
+</pre></div>
+</div>
+</section>
+<section id="request-access">
+<h3><a class="toc-backref" href="#id27" role="doc-backlink">Request Access:</a><a class="headerlink" href="#request-access" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">/api/access/datafile/$id/requestAccess</span></code></p>
+<p>This method requests access to the datafile whose id is passed on the behalf of an authenticated user whose key is passed. Note that not all datasets allow access requests to restricted files.</p>
+<p>A curl example using an <code class="docutils literal notranslate"><span class="pre">id</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>curl -H &quot;X-Dataverse-key:$API_TOKEN&quot; -X PUT http://$SERVER/api/access/datafile/{id}/requestAccess
+</pre></div>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Some installations of Dataverse may require you to provide a Guestbook Response when requesting access to certain restricted files. The response can be passed in the body of this call. See “Get a Guestbook for a Dataverse Collection” in the <a class="reference internal" href="native-api.html"><span class="doc">Native API</span></a>.</p>
+</div>
+</section>
+<section id="grant-file-access">
+<h3><a class="toc-backref" href="#id28" role="doc-backlink">Grant File Access:</a><a class="headerlink" href="#grant-file-access" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">/api/access/datafile/{id}/grantAccess/{identifier}</span></code></p>
+<p>This method grants access to the datafile whose id is passed on the behalf of an authenticated user whose user identifier is passed with an &#64; prefix. The key of a user who can manage permissions of the datafile is required to use this method.</p>
+<p>A curl example using an <code class="docutils literal notranslate"><span class="pre">id</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>curl -H &quot;X-Dataverse-key:$API_TOKEN&quot; -X PUT http://$SERVER/api/access/datafile/{id}/grantAccess/{@userIdentifier}
+</pre></div>
+</div>
+</section>
+<section id="reject-file-access">
+<h3><a class="toc-backref" href="#id29" role="doc-backlink">Reject File Access:</a><a class="headerlink" href="#reject-file-access" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">/api/access/datafile/{id}/rejectAccess/{identifier}</span></code></p>
+<p>This method rejects the access request to the datafile whose id is passed on the behalf of an authenticated user whose user identifier is passed with an &#64; prefix. The key of a user who can manage permissions of the datafile is required to use this method.</p>
+<p>A curl example using an <code class="docutils literal notranslate"><span class="pre">id</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>curl -H &quot;X-Dataverse-key:$API_TOKEN&quot; -X PUT http://$SERVER/api/access/datafile/{id}/rejectAccess/{@userIdentifier}
+</pre></div>
+</div>
+</section>
+<section id="revoke-file-access">
+<h3><a class="toc-backref" href="#id30" role="doc-backlink">Revoke File Access:</a><a class="headerlink" href="#revoke-file-access" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">/api/access/datafile/{id}/revokeAccess/{identifier}</span></code></p>
+<p>This method revokes previously granted access to the datafile whose id is passed on the behalf of an authenticated user whose user identifier is passed with an &#64; prefix. The key of a user who can manage permissions of the datafile is required to use this method.</p>
+<p>A curl example using an <code class="docutils literal notranslate"><span class="pre">id</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>curl -H &quot;X-Dataverse-key:$API_TOKEN&quot; -X DELETE http://$SERVER/api/access/datafile/{id}/revokeAccess/{@userIdentifier}
+</pre></div>
+</div>
+</section>
+<section id="list-file-access-requests">
+<h3><a class="toc-backref" href="#id31" role="doc-backlink">List File Access Requests:</a><a class="headerlink" href="#list-file-access-requests" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">/api/access/datafile/{id}/listRequests</span></code></p>
+<p>This method returns a list of Authenticated Users who have requested access to the datafile whose id is passed. The key of a user who can manage permissions of the datafile is required to use this method.</p>
+<p>A curl example using an <code class="docutils literal notranslate"><span class="pre">id</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>curl -H &quot;X-Dataverse-key:$API_TOKEN&quot; -X GET $SERVER/api/access/datafile/{id}/listRequests
+</pre></div>
+</div>
+<p>Query parameters have been added to retrieve the historical list of “created”, “granted”, and “rejected” requests:</p>
+<ul class="simple">
+<li><p><cite>includeHistory</cite> When <cite>true</cite> this will force the return of all requests and not just the “created” ones.</p></li>
+<li><p><cite>start</cite> For pagination, use this to request a specific page.</p></li>
+<li><p><cite>per_page</cite> For pagination, use this to limit the number of items in each paged list.</p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Pagination is only available when <cite>includeHistory</cite> is <cite>true</cite></p>
+</div>
+<p>If requesting a page beyond the last page this API will return a 404 “There are no access requests for this file:…”
+If requesting a page before page 1 or requesting the number of items to be 0 or less this API will ignore these parameters and return the entire list.</p>
+<p>A curl example using an <code class="docutils literal notranslate"><span class="pre">id</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">curl</span> <span class="o">-</span><span class="n">H</span> <span class="s2">&quot;X-Dataverse-key:$API_TOKEN&quot;</span> <span class="o">-</span><span class="n">X</span> <span class="n">GET</span> <span class="s2">&quot;$SERVER/api/access/datafile/</span><span class="si">{id}</span><span class="s2">/listRequests?includeHistory=true&amp;start=1&amp;per_page=20&quot;</span>
+</pre></div>
+</div>
+</section>
+<section id="user-has-requested-access-to-a-file">
+<h3><a class="toc-backref" href="#id32" role="doc-backlink">User Has Requested Access to a File:</a><a class="headerlink" href="#user-has-requested-access-to-a-file" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">/api/access/datafile/{id}/userFileAccessRequested</span></code></p>
+<p>This method returns true or false depending on whether or not the calling user has requested access to a particular file.</p>
+<p>A curl example using an <code class="docutils literal notranslate"><span class="pre">id</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">curl</span> <span class="o">-</span><span class="n">H</span> <span class="s2">&quot;X-Dataverse-key:$API_TOKEN&quot;</span> <span class="o">-</span><span class="n">X</span> <span class="n">GET</span> <span class="s2">&quot;$SERVER/api/access/datafile/</span><span class="si">{id}</span><span class="s2">/userFileAccessRequested&quot;</span>
+</pre></div>
+</div>
+</section>
+<section id="get-user-permissions-on-a-file">
+<h3><a class="toc-backref" href="#id33" role="doc-backlink">Get User Permissions on a File:</a><a class="headerlink" href="#get-user-permissions-on-a-file" title="Link to this heading"><i class="fas fa-link"></i></a></h3>
+<p><code class="docutils literal notranslate"><span class="pre">/api/access/datafile/{id}/userPermissions</span></code></p>
+<p>This method returns the permissions that the calling user has on a particular file.</p>
+<p>In particular, the user permissions that this method checks, returned as booleans, are the following:</p>
+<ul class="simple">
+<li><p>Can download the file</p></li>
+<li><p>Can manage the file permissions</p></li>
+<li><p>Can edit the file owner dataset</p></li>
+</ul>
+<p>A curl example using an <code class="docutils literal notranslate"><span class="pre">id</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">curl</span> <span class="o">-</span><span class="n">H</span> <span class="s2">&quot;X-Dataverse-key:$API_TOKEN&quot;</span> <span class="o">-</span><span class="n">X</span> <span class="n">GET</span> <span class="s2">&quot;http://$SERVER/api/access/datafile/</span><span class="si">{id}</span><span class="s2">/userPermissions&quot;</span>
+</pre></div>
+</div>
+<p>Authentication is required for this API.</p>
+</section>
+</section>
+</section>
+
+
+      <!-- Previous button -->
+        <a href="search.html" title="Previous Chapter: Search API"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo;Previous</span>
+        </a>
+      <!-- Next button -->
+        <a href="native-api.html" title="Next Chapter: Native API" style="float: right;"><span class="glyphicon glyphicon-chevron-right visible-sm"></span><span class="hidden-sm hidden-tablet">Next&raquo</span>
+        </a>
+    </div>
+      
+  </div>
+</div>
+
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+        <br/>
+        
+<div id="sourcelink">
+  <a href="../_sources/api/dataaccess.rst.txt"
+     rel="nofollow">Source</a>
+</div>
+      
+    </p>
+      <p>Developed at the <a href="http://www.iq.harvard.edu/" title="Institute for Quantitative Social Science" target="_blank">Institute for Quantitative Social Science</a>  &nbsp;|&nbsp;  Code available at <a href="https://github.com/IQSS/dataverse" title="Dataverse on GitHub" target="_blank"><span class="socicon socicon-github"></span></a> &nbsp;|&nbsp; Created using <a href="https://www.sphinx-doc.org" title="Sphinx" target="_blank">Sphinx</a> 7.2.6<br/>Last updated on Jul 01, 2026 &nbsp;|&nbsp; Dataverse v. 6.11 &nbsp;|&nbsp; View the <a href="http://guides.dataverse.org/en/latest/" title="Dataverse Guides">latest version of Dataverse Guides</a></p>
+        <p>Copyright &#169; 2026, The President &amp; Fellows of Harvard College</p> 
+  </div>
+</footer>
+<script>
+    $jqTheme(document).ready(function () {
+        // Rebind bootstrap UI components
+        bind_bsui_components();
+    });
+</script>
+
+  </body>
+</html>

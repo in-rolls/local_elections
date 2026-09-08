@@ -1,0 +1,36 @@
+1 2 3
+Sendurai Panchayat Union:
+1 Athanakurichi SC(Women)
+2 Manakudaiyan SC(Women)
+3 Ananthavadi SC (Women)
+4 Manapathur SC(General )
+5 Thular SC(General )
+6 Nakkambady SC(General )
+7 Sendurai SC(General )
+8 Unjini SC(General )
+9 Sannasinallur General (Women)
+10 Thalavai General (Women)
+11 Asaveerankudikkadu General (Women)
+12 Nagalkuzhi General (Women)
+13 Veerakkan General (Women)
+14 Sirukadampur General (Women)
+15 Palayakudi General (Women)
+16 Alathiyur General
+17 Ayyanthathanur General
+18 Kulumur General
+19 Sirukalathur General
+20 Periyakurichi General
+21 Vanjinapuram General
+22 Namangunam General
+23 Maruvathur General
+24 Ponparappi General
+25 Keelamaligai General
+26 Pilakurichi General
+27 Nallampalayam General
+28 Paranam General
+29 Kumiliyam General
+30 Irumbulikurichi General
+Jeyankondam Panchayat Union:
+1 Pitchanur ST(General)
+2 Alathipallam SC(Women)
+Page 105

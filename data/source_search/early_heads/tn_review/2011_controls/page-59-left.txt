@@ -1,0 +1,49 @@
+NAMAKKA
+RESERVATION FOR VILLA
+Reservation of Seats for Scheduled Caste / Scheduled
+Tamil
+Sl. Category to which
+Name of the Village Panchayat
+No reservation is made
+1 2 3
+Elachipalayam Panchayat Union
+1 85 Goundampalayam SC (Women)
+2 Konnayar SC (Women)
+3 Mavureddipatti SC (Women)
+4 Nallipalayam SC(General)
+5 Punjaipudhupalayam SC(General)
+6 Manathi SC(General)
+7 Musiri SC(General)
+8 Akkalampatti General(Women)
+9 Elupulli General(Women)
+10 Kuppandapalayam General(Women)
+11 Koothampoondi General(Women)
+12 Puthur East General(Women)
+13 Sakthinaickenpalayam General(Women)
+14 Kilapalayam General(Women)
+15 Marukkalampatti General
+16 Unjanai General
+17 Agaram General
+18 Bommampatti General
+19 Chinnamanali General
+20 Elanagar General
+21 87 Goundampalayam General
+22 Kokalai General
+23 Lathuvadi General
+24 Mandagapalayam General
+25 Molipalli General
+26 Periyamanali General
+27 Pokkampalayam General
+28 Pullagoundampatti General
+29 Thondipatti General
+Erumapatty Panchayat Union
+1 M.Mettupatty SC(Women)
+2 Pavithram SC(Women)
+3 Pottireddipatty SC(Women)
+4 Devarayapuram SC(General)
+5 Palayapalayam SC(General)
+6 Bodinaickenpatty SC(General)
+7 Pudukottai SC(General)
+8 Muttanchetti General (Women)
+9 P.Alanganatham General (Women)
+Page 57

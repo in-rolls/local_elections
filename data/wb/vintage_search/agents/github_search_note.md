@@ -1,0 +1,3 @@
+Exact searches for election_pradhan_alldist, prev_res_woman, and res1998 + res2003 returned no matches with is:public. A broad pradhan is:public check ALSO returned no matches; these responses cannot be treated as evidence that the files are absent. The legacy GitHub CLI search engine may not support the visibility qualifier as expected.
+
+The unqualified broad query returned public matches. Corrected exact queries found only the already acquired in-rolls/beaman mirror (prev_res_woman in scripts/utils.py and codebook.py); election_pradhan_alldist and res1998 + res2003 had no returned matches. Binary files are not comprehensively indexed by code search.

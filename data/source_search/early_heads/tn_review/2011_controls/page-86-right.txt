@@ -1,0 +1,66 @@
+M DISTRICT
+AT PRESIDENTS
+bes and Women in the Village Panchayat President
+du State
+Category to which
+Sl.No Name of the Village Panchayat
+reservation is made
+1 2 3
+Kilvelur Panchayat Union
+1 64 Manalur SC (Women)
+2 Agarakadambanur SC (Women)
+3 Athipuliyur SC (Women)
+4 Irukkai SC (Women)
+5 Kakkalani SC (Women)
+6 Kodiyalathur SC (Women)
+7 Kohur SC (Women)
+8 119 Anakkudi SC (General)
+9 Anaimangalam SC (General)
+10 Anthakudi SC (General)
+11 Iluppur SC (General)
+12 Koilkannappur SC (General)
+13 Koothur SC (General)
+14 Kurukkathi SC (General)
+15 Pattamangalam SC (General)
+16 Sattiyagudi SC (General)
+17 Sigar SC (General)
+18 Thevur SC (General)
+19 Thirukkannangudi SC (General)
+20 Vadakkalathur SC (General)
+21 Killukudi General (Women)
+22 Koorathangudi General (Women)
+23 Kurumanangudi General (Women)
+24 Radhamangalam General (Women)
+25 Valivalam General (Women)
+26 Venmani General (Women)
+27 105 Manalur General
+28 75 Anakkudi General
+29 Athamangalam General
+30 Eravanchery General
+31 Mohanur General
+32 Okkur General
+33 Serunallur General
+34 Therkkupanaiyur General
+35 Vadakarai General
+36 Vadakkupanaiyur General
+37 Vandalur General
+38 Vengidangal General
+Thirumarugal Panchayat Union
+1 Alathur SC (Women)
+2 Kongarayanallur SC (Women)
+3 Kothamangalam SC (Women)
+4 Seshamoolai SC (Women)
+5 Thirumarugal SC (Women)
+6 Enangudi SC (General)
+7 Gopurajapuram SC (General)
+8 Kuthalam SC (General)
+9 Marungur SC (General)
+10 Panangudi SC (General)
+11 Polagam SC (General)
+12 Thirukannapuram SC (General)
+13 Thirupugalur SC (General)
+14 Uthamasolapuram SC (General)
+15 Valkudi SC (General)
+16 Ambal General (Women)
+17 Edaiyathangudi General (Women)
+18 Kangalancheri General (Women)

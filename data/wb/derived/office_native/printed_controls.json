@@ -1,0 +1,182 @@
+[
+  {
+    "district": "Jalpaiguri",
+    "election_year": 2023,
+    "tier": "gp_head",
+    "stage": "final",
+    "printed_office_universe": 80,
+    "categories": {
+      "SC": 29,
+      "ST": 11,
+      "BC": 0,
+      "women": 40
+    },
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_final_office_reservations.pdf",
+    "source_sha256": "9e759adbc650c67a542622d15113f4a9c55b8296a31e6714b019d6a6aa719d1e",
+    "source_page": 1,
+    "scope": "all pages for this tier in this document",
+    "evidence": "printed first-page summary; not a GP-name roster"
+  },
+  {
+    "district": "Jalpaiguri",
+    "election_year": 2023,
+    "tier": "gp_deputy",
+    "stage": "final",
+    "printed_office_universe": 80,
+    "categories": {
+      "SC": 14,
+      "ST": 4,
+      "BC": 0,
+      "women": 10
+    },
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_final_office_reservations.pdf",
+    "source_sha256": "9e759adbc650c67a542622d15113f4a9c55b8296a31e6714b019d6a6aa719d1e",
+    "source_page": 3,
+    "scope": "all pages for this tier in this document",
+    "evidence": "printed first-page summary; not a GP-name roster"
+  },
+  {
+    "district": "Jalpaiguri",
+    "election_year": 2023,
+    "tier": "block_head",
+    "stage": "final",
+    "printed_office_universe": 9,
+    "categories": {
+      "SC": 3,
+      "ST": 1,
+      "BC": 0,
+      "women": 4
+    },
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_final_office_reservations.pdf",
+    "source_sha256": "9e759adbc650c67a542622d15113f4a9c55b8296a31e6714b019d6a6aa719d1e",
+    "source_page": 4,
+    "scope": "all pages for this tier in this document",
+    "evidence": "printed first-page summary; not a GP-name roster"
+  },
+  {
+    "district": "Jalpaiguri",
+    "election_year": 2023,
+    "tier": "block_deputy",
+    "stage": "final",
+    "printed_office_universe": 9,
+    "categories": {
+      "SC": 1,
+      "ST": 1,
+      "BC": 0,
+      "women": 1
+    },
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_final_office_reservations.pdf",
+    "source_sha256": "9e759adbc650c67a542622d15113f4a9c55b8296a31e6714b019d6a6aa719d1e",
+    "source_page": 5,
+    "scope": "all pages for this tier in this document",
+    "evidence": "printed first-page summary; not a GP-name roster"
+  },
+  {
+    "district": "Purulia",
+    "election_year": 2018,
+    "tier": "gp_head",
+    "stage": "final",
+    "printed_office_universe": 170,
+    "categories": {
+      "SC": 31,
+      "ST": 34,
+      "BC": 20,
+      "women": 85
+    },
+    "source_path": "data/wb/gp_source_search/archived_district_files/extracted/1B_Pradhan/1B_Pradhan_Arsha.pdf",
+    "source_sha256": "af827949bd338cf1cc36a7fb2bcf305580a72407e60b34e84401f2c815c4fdda",
+    "source_page": 1,
+    "scope": "district across all block documents",
+    "evidence": "printed first-page summary; not a GP-name roster"
+  },
+  {
+    "district": "Purulia",
+    "election_year": 2018,
+    "tier": "gp_deputy",
+    "stage": "final",
+    "printed_office_universe": 170,
+    "categories": {
+      "SC": 15,
+      "ST": 17,
+      "BC": 5,
+      "women": 21
+    },
+    "source_path": "data/wb/gp_source_search/archived_district_files/extracted/1B_Upa-Pradhan/1B_Upa-Pradhan_Arsha.pdf",
+    "source_sha256": "318fe8e2272ac224c380b3b2cd322531cf6fd8eace410a67a1626a1f4535b2c5",
+    "source_page": 1,
+    "scope": "district across all block documents",
+    "evidence": "printed first-page summary; not a GP-name roster"
+  },
+  {
+    "district": "South 24 Parganas",
+    "election_year": 2018,
+    "tier": "gp_head",
+    "stage": "final",
+    "printed_office_universe": 310,
+    "categories": {
+      "SC": 105,
+      "ST": 4,
+      "BC": 46,
+      "women": 155
+    },
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf",
+    "source_sha256": "6fa2911868350033e421c3ec257144a9618feb0fe27c07c5116d6763be056973",
+    "source_page": 1,
+    "scope": "all pages for this tier in this document",
+    "evidence": "printed first-page summary; not a GP-name roster"
+  },
+  {
+    "district": "South 24 Parganas",
+    "election_year": 2018,
+    "tier": "gp_deputy",
+    "stage": "final",
+    "printed_office_universe": 310,
+    "categories": {
+      "SC": 75,
+      "ST": 4,
+      "BC": 1,
+      "women": 38
+    },
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_643_Form-1B_Upa-Pradhan_1_752bf64d.pdf",
+    "source_sha256": "2270d40b82f79fb05c96fc7a6b75205d2387407f6364ab0670604be7e2209c33",
+    "source_page": 1,
+    "scope": "all pages for this tier in this document",
+    "evidence": "printed first-page summary; not a GP-name roster"
+  },
+  {
+    "district": "South 24 Parganas",
+    "election_year": 2018,
+    "tier": "gp_head",
+    "stage": "draft",
+    "printed_office_universe": 310,
+    "categories": {
+      "SC": 105,
+      "ST": 4,
+      "BC": 46,
+      "women": 155
+    },
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_Form-1A_Pradhan_1_2ca5b798.pdf",
+    "source_sha256": "aa876d838a4cb51d18cacb6c9c144e01856ecc6e8886c8be08b9bcae4b73ae2b",
+    "source_page": 1,
+    "scope": "all pages for this tier in this document",
+    "evidence": "printed first-page summary; not a GP-name roster"
+  },
+  {
+    "district": "South 24 Parganas",
+    "election_year": 2018,
+    "tier": "gp_deputy",
+    "stage": "draft",
+    "printed_office_universe": 310,
+    "categories": {
+      "SC": 75,
+      "ST": 4,
+      "BC": 1,
+      "women": 38
+    },
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_Form-1A_Upa_Pradhan_1_50f5d7f2.pdf",
+    "source_sha256": "38b4d02632b217adabd34f14c77445628d402221452990726e41e8cc743c68ba",
+    "source_page": 1,
+    "scope": "all pages for this tier in this document",
+    "evidence": "printed first-page summary; not a GP-name roster"
+  }
+]

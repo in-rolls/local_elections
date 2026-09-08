@@ -1,0 +1,61 @@
+1 2 3
+VALLAM PANCHAYAT UNION Contd..
+11 Kallalipattu SC General
+12 Kariamangalam SC General
+13 Karunguzhi SC General
+14 Kongarapattu SC General
+15 Kurinjipai SC General
+16 Mahadevimangalam SC General
+17 Vallam SC General
+18 Anathur General Women
+19 Chinnagaram General Women
+20 Dhalavalapattu General Women
+21 Dhalavanur General Women
+22 Keelpapambadi General Women
+23 Melathipakkam General Women
+24 Melkudalore General Women
+25 Neerperuthagaram General Women
+26 Sandisatchi General Women
+27 Sorathur General Women
+28 Thiruvampattu General Women
+29 Veeranamur General Women
+30 Kappai General Women
+31 Melolakkur General Women
+32 Melsevur General Women
+33 Mukkunam General Women
+34 Agalore General
+35 Kallapuliyur General
+36 Kammandur General
+37 Thondur General
+38 Anangur General
+39 Anilady General
+40 Bondai General
+41 Cholangunam General
+42 Dhamanur General
+43 Irumbuli General
+44 Kadambur General
+45 Kalladikuppam General
+46 Kandamanallur General
+47 Keelaiyur General
+48 Keelmampattu General
+49 Keelvailamur General
+50 Marur General
+51 Melkalavai General
+52 Melsithamur General
+53 Nagandur General
+54 Nangiyanandal General
+55 Nattarmangalam General
+56 Neganur General
+57 Pallikulam General
+58 Pennagar General
+59 Perumpugai General
+60 Rajampuliyur General
+61 Servilagam General
+62 Thenputhur General
+63 Thudupakkam General
+64 Udayanthangal General
+65 Vadaputhur General
+66 Kadugapattu General
+GINGEE PANCHAYAT UNION
+1 Reddipalayam ST General
+2 Jambothi SC Women

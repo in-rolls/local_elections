@@ -1,0 +1,355 @@
+{
+  "version": 1,
+  "sha256": "739fa06b3cf56237039b4ef5dbbb5b851a5d1df602a1858f3e866e529c79df85",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "[FROM B ]\n[See rule 25(4) ]\nORDER\nNo.: PRD/1154 Dated: 15/11/2017\nInexerciseofthepowerconferredbysections14and17oftheWestBengalPanchayat ElectionAct,2003(WestBen.ActXXIof2003),readwithrules24and25oftheWestBengalPanchayat ElectionRules,\n2006, I,theDistrictPanchayatElectionOfficerandDistrictMagistrateoftheDistrictof CoochBehar, astheprescribedauthorityappointedbytheStateGovernmentintheDepartmentofPanchayatsand\nRuralDevelopmentundernotificationNo.............................................dated:..................................forthepurposeofrules24and25ofthesaidrules,harebyPublishedthedraftofthisordertodetermineforthe\nGrams specifiedincolumn(1)oftheschedulebelow,thenumberofmemberstobeelectedtothePanchayatSamiti specifiedinthecorrespondingentriesincolumn(2),todividetheareaoftheGrams into\nconstituencies specifiedinthecorrespondingentriesincolumns(3)&(4),constituencyorconstituenciesreservedforthescheduledCastesortheScheduleTribesortheBackwardClassespersonsspecifiedinthe\ncorresponding entriesin column (5),and constituency orconstituenciesreserved forwoman specified in thecorrespondingentriesincolumn (6)of thesaid schedule,forinformationof personslikely tobe\naffected thereby.\nThedraftwillbetakenupforconsiderationafterfifteendaysfromthisdayandanyobjectionorsuggestionwithrespectthereto,whichmaybereceivedbytheundersignedwithinthesaidperiod,shallbe\nduly considered.\nThe Schedule\nBLOCK : Mathabhanga - I Block PANCHAYAT SAMITY : Mathabhanga - I\nConstituency reserved for\nNumber of\nScheduled Castes, Scheduled\nName of members to be Number and Name Area of the Constituency (Gram Constituency reserved for\nAssembly Electoral Roll Part No. Tribes and Backward\nGram elected to the of the Constituency Panchayat Constituency No.) women showing Serial Number.\nClasses persons showing\nPanchayat Samiti\nserial Number\n1 2 3 4 5 6\nGopalpur /PS-1 Gopalpur - V , VI , VII, IX , XVI , XVII 5/6, 5/7, 5/8, 5/9, 5/12, 5/19, 5/20, 5/21 Gopalpur /PS-1(SC)\nGopalpur 3 Gopalpur /PS-2 Gopalpur - I , II, III, IV , XVIII, XIX 5/1, 5/2, 5/3, 5/4, 5/5, 5/22, 5/23 Gopalpur /PS-2(SC ) Gopalpur /PS-2(SCW)\nGopalpur /PS-3 Gopalpur - VIII , X , XI , XII, XIII, XIV , XV 5/10, 5/11, 5/13, 5/14, 5/15, 5/16, 5/17, 5/18 Gopalpur /PS-3(W)\nKedarhat/PS-4 Kedarhat - IV, XI, XII , XIII, XIV , XV 5/27, 5/34, 5/35, 5/36, 5/37, 5/38\nKedarhat 3 Kedarhat/PS-5 Kedarhat - I , II , III , V 5/24, 5/25, 5/26, 5/28 Kedarhat/PS-5(W)\nKedarhat/PS-6 Kedarhat-VI , VII, VIII, IX, X 5/29, 5/30, 5/31, 5/32, 5/33 Kedarhat/PS-6(SC)\nNayarhat/PS-7 Nayarhat- I , II,III,IV,V , VI , 5/39, 5/40, 5/41, 5/42, 5/43, 5/44, 5/45 Nayarhat/PS-7(SC ) Nayarhat/PS-7(SCW)\nNayarhat 3 Nayarhat/PS-8 Nayarhat - VII , VIII,IX , X , XI 5/46, 5/47, 5/48, 5/49, 5/50\nNayarhat/PS-9 Nayarhat - XII,XIII,XIV, XV, XVI, XVII 5/51, 5/52, 5/53, 5/54, 5/55, 5/56, 5/57 Nayarhat/PS-9(SC)\nBairagirhat/PS-10 Bairagirhat ,- I , II ,III , IV 5/58, 5/59, 5/60, 5/61, 5/62, 5/63, 5/64 Bairagirhat/PS-10(SC) Bairagirhat/PS-10(SCW)\nBairagirhat 3 Bairagirhat/PS-11 Bairagirhat ,- V , VI ,VII,X ,XI ,XV 5/65, 5/66, 5/67, 5/70, 5/71, 5/75 Bairagirhat/PS-11(SC)\nBairagirhat/PS-12 Bairagirhat - VIII , IX , XII , XIII , XIV 5/68, 5/69, 5/72, 5/73, 5/74 Bairagirhat/PS-12(SC) Bairagirhat/PS-12(SCW)\nPage:1 of total 2 pages",
+      "tables": [
+        {
+          "bbox": [
+            27.983999999999998,
+            242.45000000000005,
+            815.79999,
+            501.276
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number of\nmembers to be\nelected to the\nPanchayat Samiti",
+              "Number and Name\nof the Constituency",
+              "Area of the Constituency (Gram\nPanchayat Constituency No.)",
+              "Assembly Electoral Roll Part No.",
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward\nClasses persons showing\nserial Number",
+              "Constituency reserved for\nwomen showing Serial Number."
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "Gopalpur",
+              "3",
+              "Gopalpur /PS-1",
+              "Gopalpur - V , VI , VII, IX , XVI , XVII",
+              "5/6, 5/7, 5/8, 5/9, 5/12, 5/19, 5/20, 5/21",
+              "Gopalpur /PS-1(SC)",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Gopalpur /PS-2",
+              "Gopalpur - I , II, III, IV , XVIII, XIX",
+              "5/1, 5/2, 5/3, 5/4, 5/5, 5/22, 5/23",
+              "Gopalpur /PS-2(SC )",
+              "Gopalpur /PS-2(SCW)"
+            ],
+            [
+              null,
+              null,
+              "Gopalpur /PS-3",
+              "Gopalpur - VIII , X , XI , XII, XIII, XIV , XV",
+              "5/10, 5/11, 5/13, 5/14, 5/15, 5/16, 5/17, 5/18",
+              "",
+              "Gopalpur /PS-3(W)"
+            ],
+            [
+              "Kedarhat",
+              "3",
+              "Kedarhat/PS-4",
+              "Kedarhat - IV, XI, XII , XIII, XIV , XV",
+              "5/27, 5/34, 5/35, 5/36, 5/37, 5/38",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Kedarhat/PS-5",
+              "Kedarhat - I , II , III , V",
+              "5/24, 5/25, 5/26, 5/28",
+              "",
+              "Kedarhat/PS-5(W)"
+            ],
+            [
+              null,
+              null,
+              "Kedarhat/PS-6",
+              "Kedarhat-VI , VII, VIII, IX, X",
+              "5/29, 5/30, 5/31, 5/32, 5/33",
+              "Kedarhat/PS-6(SC)",
+              ""
+            ],
+            [
+              "Nayarhat",
+              "3",
+              "Nayarhat/PS-7",
+              "Nayarhat- I , II,III,IV,V , VI ,",
+              "5/39, 5/40, 5/41, 5/42, 5/43, 5/44, 5/45",
+              "Nayarhat/PS-7(SC )",
+              "Nayarhat/PS-7(SCW)"
+            ],
+            [
+              null,
+              null,
+              "Nayarhat/PS-8",
+              "Nayarhat - VII , VIII,IX , X , XI",
+              "5/46, 5/47, 5/48, 5/49, 5/50",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Nayarhat/PS-9",
+              "Nayarhat - XII,XIII,XIV, XV, XVI, XVII",
+              "5/51, 5/52, 5/53, 5/54, 5/55, 5/56, 5/57",
+              "Nayarhat/PS-9(SC)",
+              ""
+            ],
+            [
+              "Bairagirhat",
+              "3",
+              "Bairagirhat/PS-10",
+              "Bairagirhat ,- I , II ,III , IV",
+              "5/58, 5/59, 5/60, 5/61, 5/62, 5/63, 5/64",
+              "Bairagirhat/PS-10(SC)",
+              "Bairagirhat/PS-10(SCW)"
+            ],
+            [
+              null,
+              null,
+              "Bairagirhat/PS-11",
+              "Bairagirhat ,- V , VI ,VII,X ,XI ,XV",
+              "5/65, 5/66, 5/67, 5/70, 5/71, 5/75",
+              "Bairagirhat/PS-11(SC)",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Bairagirhat/PS-12",
+              "Bairagirhat - VIII , IX , XII , XIII , XIV",
+              "5/68, 5/69, 5/72, 5/73, 5/74",
+              "Bairagirhat/PS-12(SC)",
+              "Bairagirhat/PS-12(SCW)"
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 3334
+    },
+    {
+      "page": 2,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Constituency reserved for\nNumber of\nScheduled Castes, Scheduled\nName of members to be Number and Name Area of the Constituency (Gram Constituency reserved for\nAssembly Electoral Roll Part No. Tribes and Backward\nGram elected to the of the Constituency Panchayat Constituency No.) women showing Serial Number.\nClasses persons showing\nPanchayat Samiti\nserial Number\n1 2 3 4 5 6\nShikarpur/PS-13 Shikarpur - I , II , III , IV ,V 5/76, 5/77, 5/78, 5/79, 5/80, 5/81, 5/82, 5/83 Shikarpur/PS-13(SC)\nShikarpur 3 Shikarpur/PS-14 Shikarpur - VI , VII,XIII , XV , XVI,XVII 5/84, 5/85, 5/91, 5/94, 5/95, 5/96, 5/97 Shikarpur/PS-14(W)\nShikarpur/PS-15 Shikarpur - VIII , IX ,X, XI, XII, XIV 5/86, 5/87, 5/88, 5/89, 5/90, 5/92, 5/93 Shikarpur/PS-15(W)\nKursamari/PS-16 kursamari - I ,II, III, IV 5/98, 5/99, 5/100, 5/101 Kursamari/PS-16(W)\nKurshamari 3 Kursamari/PS-17 kursamari -V ,VI ,X,XI 5/102, 5/103, 5/107, 5/108 Kursamari/PS-17(SC) Kursamari/PS-17(SCW)\nKursamari/PS-18 kursamari -VII , VIII,IX , XII,XIII 5/104, 5/105, 5/106, 5/109, 5/110 Kursamari/PS-18(SC)\n5/111, 5/112, 5/113, 5/114, 5/115, 5/127, 5/128,\nJorepatki/PS-19 Jorepatki - I ,II , III,XIII,XIV,XV,XVI\n5/129, 5/130\nJorepatki 3 Jorepatki/PS-20 Jorepatki -IV , V,VI,XI ,XII 5/116, 5/117, 5/118, 5/119, 5/125, 5/126 Jorepatki/PS-20(W)\nJorepatki/PS-21 Jorepatki -VII , VIII , IX ,X 5/121, 5/120, 5/122, 5/123, 5/124 Jorepatki/PS-21(SC) Jorepatki/PS-21(SCW)\nHazrahat-I/PS-22 Hazrahat- VI ,VII , X , XI 2/208, 2/209, 2/212, 2/213\nHazrahat - I 3 Hazrahat-I/PS-23 Hazrahat-I - II , III , V ,VIII , IX 2/203, 2/204, 2/206, 2/207, 2/210, 2/211 Hazrahat-I/PS-23(W)\nHazrahat-I/PS-24 Hazrahat-I - I , IV ,XII , XIII 2/202, 2/205, 2/214, 2/215\nHazrahat-II/PS-25 Hazrahat-II - I ,II , III , IV 2/216, 2/217, 2/218, 2/219 Hazrahat-II/PS-25(SC)\nHazrahat - II 3 Hazrahat-II/PS-26 Hazrahat-II -V , VI , VII 2/220, 2/221, 2/222, 2/223\nHazrahat-II/PS-27 Hazrahat-II -VIII , IX , X , XI 2/224, 2/225, 2/226, 2/227, 2/228 Hazrahat-II/PS-27(SC) Hazrahat-II/PS-27(SCW)\n2/232, 2/233, 2/234, 2/235, 2/236, 2/237, 2/246,\nPachagarh/PS-28 Pachagarh - IV , V , VI , VII , VIII ,XVI , XVII Pachagarh/PS-28(W)\n2/247\nPachagar 3 Pachagarh/PS-29 Pachagarh - II , III,XIV , XV , XVIII 2/230, 2/231, 2/244, 2/245, 2/248\nPachagarh/PS-30 Pachagarh -I , IX , X,XI , XII,XIII 2/229, 2/238, 2/239, 2/240, 2/241, 2/242, 2/243 Pachagarh/PS-30(SC)\nPage:2 of total 2 pages",
+      "tables": [
+        {
+          "bbox": [
+            27.983999999999998,
+            28.800000000000068,
+            815.7839879999999,
+            495.038
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number of\nmembers to be\nelected to the\nPanchayat Samiti",
+              "Number and Name\nof the Constituency",
+              "Area of the Constituency (Gram\nPanchayat Constituency No.)",
+              "Assembly Electoral Roll Part No.",
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward\nClasses persons showing\nserial Number",
+              "Constituency reserved for\nwomen showing Serial Number."
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "Shikarpur",
+              "3",
+              "Shikarpur/PS-13",
+              "Shikarpur - I , II , III , IV ,V",
+              "5/76, 5/77, 5/78, 5/79, 5/80, 5/81, 5/82, 5/83",
+              "Shikarpur/PS-13(SC)",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Shikarpur/PS-14",
+              "Shikarpur - VI , VII,XIII , XV , XVI,XVII",
+              "5/84, 5/85, 5/91, 5/94, 5/95, 5/96, 5/97",
+              "",
+              "Shikarpur/PS-14(W)"
+            ],
+            [
+              null,
+              null,
+              "Shikarpur/PS-15",
+              "Shikarpur - VIII , IX ,X, XI, XII, XIV",
+              "5/86, 5/87, 5/88, 5/89, 5/90, 5/92, 5/93",
+              "",
+              "Shikarpur/PS-15(W)"
+            ],
+            [
+              "Kurshamari",
+              "3",
+              "Kursamari/PS-16",
+              "kursamari - I ,II, III, IV",
+              "5/98, 5/99, 5/100, 5/101",
+              "",
+              "Kursamari/PS-16(W)"
+            ],
+            [
+              null,
+              null,
+              "Kursamari/PS-17",
+              "kursamari -V ,VI ,X,XI",
+              "5/102, 5/103, 5/107, 5/108",
+              "Kursamari/PS-17(SC)",
+              "Kursamari/PS-17(SCW)"
+            ],
+            [
+              null,
+              null,
+              "Kursamari/PS-18",
+              "kursamari -VII , VIII,IX , XII,XIII",
+              "5/104, 5/105, 5/106, 5/109, 5/110",
+              "Kursamari/PS-18(SC)",
+              ""
+            ],
+            [
+              "Jorepatki",
+              "3",
+              "Jorepatki/PS-19",
+              "Jorepatki - I ,II , III,XIII,XIV,XV,XVI",
+              "5/111, 5/112, 5/113, 5/114, 5/115, 5/127, 5/128,\n5/129, 5/130",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Jorepatki/PS-20",
+              "Jorepatki -IV , V,VI,XI ,XII",
+              "5/116, 5/117, 5/118, 5/119, 5/125, 5/126",
+              "",
+              "Jorepatki/PS-20(W)"
+            ],
+            [
+              null,
+              null,
+              "Jorepatki/PS-21",
+              "Jorepatki -VII , VIII , IX ,X",
+              "5/121, 5/120, 5/122, 5/123, 5/124",
+              "Jorepatki/PS-21(SC)",
+              "Jorepatki/PS-21(SCW)"
+            ],
+            [
+              "Hazrahat - I",
+              "3",
+              "Hazrahat-I/PS-22",
+              "Hazrahat- VI ,VII , X , XI",
+              "2/208, 2/209, 2/212, 2/213",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Hazrahat-I/PS-23",
+              "Hazrahat-I - II , III , V ,VIII , IX",
+              "2/203, 2/204, 2/206, 2/207, 2/210, 2/211",
+              "",
+              "Hazrahat-I/PS-23(W)"
+            ],
+            [
+              null,
+              null,
+              "Hazrahat-I/PS-24",
+              "Hazrahat-I - I , IV ,XII , XIII",
+              "2/202, 2/205, 2/214, 2/215",
+              "",
+              ""
+            ],
+            [
+              "Hazrahat - II",
+              "3",
+              "Hazrahat-II/PS-25",
+              "Hazrahat-II - I ,II , III , IV",
+              "2/216, 2/217, 2/218, 2/219",
+              "Hazrahat-II/PS-25(SC)",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Hazrahat-II/PS-26",
+              "Hazrahat-II -V , VI , VII",
+              "2/220, 2/221, 2/222, 2/223",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Hazrahat-II/PS-27",
+              "Hazrahat-II -VIII , IX , X , XI",
+              "2/224, 2/225, 2/226, 2/227, 2/228",
+              "Hazrahat-II/PS-27(SC)",
+              "Hazrahat-II/PS-27(SCW)"
+            ],
+            [
+              "Pachagar",
+              "3",
+              "Pachagarh/PS-28",
+              "Pachagarh - IV , V , VI , VII , VIII ,XVI , XVII",
+              "2/232, 2/233, 2/234, 2/235, 2/236, 2/237, 2/246,\n2/247",
+              "",
+              "Pachagarh/PS-28(W)"
+            ],
+            [
+              null,
+              null,
+              "Pachagarh/PS-29",
+              "Pachagarh - II , III,XIV , XV , XVIII",
+              "2/230, 2/231, 2/244, 2/245, 2/248",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Pachagarh/PS-30",
+              "Pachagarh -I , IX , X,XI , XII,XIII",
+              "2/229, 2/238, 2/239, 2/240, 2/241, 2/242, 2/243",
+              "Pachagarh/PS-30(SC)",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 2309
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

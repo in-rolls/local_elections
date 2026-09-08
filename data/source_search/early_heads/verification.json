@@ -1,0 +1,21 @@
+{
+  "verified_utc": "2026-09-08T05:12:12.288846+00:00",
+  "scope": "early_heads raw-response acquisition manifest; not whole-repository release verification",
+  "manifest_sha256": "24f69f1502d316a5723b94ae8e9f0e698c6fe684d945223c416d12e2a49bfa04",
+  "raw_files_verified": 26,
+  "acquired_sources": 25,
+  "retained_http_error_responses": 1,
+  "raw_bytes": 345258717,
+  "checks": [
+    "Every raw-directory file has a manifest record; no missing or extra files",
+    "Recomputed raw hashes and sizes match original acquisition log",
+    "All .pdf files have PDF magic bytes",
+    "shasum -a 256 -c data/source_search/early_heads/SHA256SUMS: 26 OK",
+    "TN page ledger and Mau page profiles: 129 source/image checksum comparisons passed",
+    "README and two source reviews: 26 local documentation links resolve"
+  ],
+  "limitations": [
+    "No full transcription or unique-GP enumeration",
+    "No whole-repository test suite or formal release gate run in this source-preservation step"
+  ]
+}

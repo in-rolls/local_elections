@@ -1,0 +1,47 @@
+1 2 3
+VIRALIMALAI PANCHAYAT UNION
+1 Viralur SC (Women)
+2 Kongudippatty SC (Women)
+3 Kumaramangalam SC (Women)
+4 Naduppatty SC (General)
+5 Meenaveli SC (General)
+6 Suriyur SC (General)
+7 Maruthampatty SC (General)
+8 Neerpalani SC (General)
+9 Mathur General (Women)
+10 Komangalam General (Women)
+11 Kasavanoor General (Women)
+12 Velur General (Women)
+13 Nangupatty General (Women)
+14 Kodumbalur General (Women)
+15 Mandaiyur General (Women)
+16 Viralimalai General (Women)
+17 Thengaithinnipatty General (Women)
+18 Nambampatty General (Women)
+19 Rajagiri General (Women)
+20 Kunnathur General (Women)
+21 Vemmani General
+22 Pakkudi General
+23 Thondamanallur General
+24 Kathalur General
+25 Thennambadi General
+26 Poyyamani General
+27 Alangudy General
+28 Vilapatti General
+29 Melapatchakudi General
+30 Thennathirayanpatti General
+31 Rajalipatti General
+32 Perambur General
+33 Melboothagudi General
+34 Avoor General
+35 Theravur General
+36 Virudhapatti General
+37 Lakshmanappatty General
+38 Vanathirayanpatty General
+39 Boothagudi General
+40 Kalkudi General
+41 Vadugappatty General
+42 Agarapatty General
+43 Madhayanippatti General
+44 Palandanpatty General
+45 Kalamavoor General

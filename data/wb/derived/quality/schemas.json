@@ -1,0 +1,3765 @@
+{
+  "alipurduar_2018/archive_cells.parquet": [
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_column",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "dpi",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "rotation_clockwise",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "deskew_degrees",
+      "type": "double",
+      "null_count": 0
+    },
+    {
+      "field": "cell_readings_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "alipurduar_2018/consolidated_party_counts.parquet": [
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "row_label_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "is_printed_total_row",
+      "type": "bool",
+      "null_count": 0
+    },
+    {
+      "field": "party",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "declared_elected",
+      "type": "int64",
+      "null_count": 443
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "header_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "header_cell_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "count_cell_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "alipurduar_2018/gp_candidates.parquet": [
+    {
+      "field": "seat_row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "candidate_row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "candidate_name",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "party",
+      "type": "string",
+      "null_count": 6
+    },
+    {
+      "field": "votes",
+      "type": "int64",
+      "null_count": 201
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "alipurduar_2018/gp_seats.parquet": [
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "serial_printed",
+      "type": "int64",
+      "null_count": 374
+    },
+    {
+      "field": "seat_id_printed",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "seat_id_readings",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "seat_no",
+      "type": "int64",
+      "null_count": 71
+    },
+    {
+      "field": "seat_no_basis",
+      "type": "string",
+      "null_count": 71
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "reservation_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "electors",
+      "type": "int64",
+      "null_count": 136
+    },
+    {
+      "field": "votes_polled",
+      "type": "int64",
+      "null_count": 106
+    },
+    {
+      "field": "votes_rejected",
+      "type": "int64",
+      "null_count": 112
+    },
+    {
+      "field": "winner_name",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "winner_party",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat_printed",
+      "type": "string",
+      "null_count": 96
+    },
+    {
+      "field": "gram_panchayat_basis",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "reservation",
+      "type": "string",
+      "null_count": 191
+    },
+    {
+      "field": "caste_reservation",
+      "type": "string",
+      "null_count": 191
+    },
+    {
+      "field": "woman_reserved",
+      "type": "int64",
+      "null_count": 191
+    },
+    {
+      "field": "candidate_count",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "candidate_votes_sum",
+      "type": "int64",
+      "null_count": 192
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "alipurduar_2018/ps_candidates.parquet": [
+    {
+      "field": "seat_row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "candidate_row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "candidate_name",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "party",
+      "type": "string",
+      "null_count": 2
+    },
+    {
+      "field": "votes",
+      "type": "int64",
+      "null_count": 51
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "alipurduar_2018/ps_seats.parquet": [
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "serial_printed",
+      "type": "int64",
+      "null_count": 75
+    },
+    {
+      "field": "seat_id_printed",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "seat_id_readings",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "seat_no",
+      "type": "int64",
+      "null_count": 36
+    },
+    {
+      "field": "seat_no_basis",
+      "type": "string",
+      "null_count": 36
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat",
+      "type": "null",
+      "null_count": 187
+    },
+    {
+      "field": "reservation_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "electors",
+      "type": "int64",
+      "null_count": 11
+    },
+    {
+      "field": "votes_polled",
+      "type": "int64",
+      "null_count": 11
+    },
+    {
+      "field": "votes_rejected",
+      "type": "int64",
+      "null_count": 19
+    },
+    {
+      "field": "winner_name",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "winner_party",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat_printed",
+      "type": "null",
+      "null_count": 187
+    },
+    {
+      "field": "gram_panchayat_basis",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "reservation",
+      "type": "string",
+      "null_count": 31
+    },
+    {
+      "field": "caste_reservation",
+      "type": "string",
+      "null_count": 31
+    },
+    {
+      "field": "woman_reserved",
+      "type": "int64",
+      "null_count": 31
+    },
+    {
+      "field": "geographic_label_raw",
+      "type": "string",
+      "null_count": 2
+    },
+    {
+      "field": "candidate_count",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "candidate_votes_sum",
+      "type": "int64",
+      "null_count": 45
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "alipurduar_2018/zp_candidates.parquet": [
+    {
+      "field": "seat_row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "candidate_row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "candidate_name",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "party",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "votes",
+      "type": "int64",
+      "null_count": 12
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "alipurduar_2018/zp_seats.parquet": [
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "serial_printed",
+      "type": "int64",
+      "null_count": 19
+    },
+    {
+      "field": "seat_id_printed",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "seat_id_readings",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "seat_no",
+      "type": "int64",
+      "null_count": 2
+    },
+    {
+      "field": "seat_no_basis",
+      "type": "string",
+      "null_count": 2
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat",
+      "type": "null",
+      "null_count": 39
+    },
+    {
+      "field": "reservation_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "electors",
+      "type": "int64",
+      "null_count": 5
+    },
+    {
+      "field": "votes_polled",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "votes_rejected",
+      "type": "int64",
+      "null_count": 1
+    },
+    {
+      "field": "winner_name",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "winner_party",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat_printed",
+      "type": "null",
+      "null_count": 39
+    },
+    {
+      "field": "gram_panchayat_basis",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "reservation",
+      "type": "string",
+      "null_count": 11
+    },
+    {
+      "field": "caste_reservation",
+      "type": "string",
+      "null_count": 11
+    },
+    {
+      "field": "woman_reserved",
+      "type": "int64",
+      "null_count": 11
+    },
+    {
+      "field": "geographic_label_raw",
+      "type": "null",
+      "null_count": 39
+    },
+    {
+      "field": "candidate_count",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "candidate_votes_sum",
+      "type": "int64",
+      "null_count": 8
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "alipurduar_offices/office_reservations.parquet": [
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "office",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "local_body_name",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat",
+      "type": "string",
+      "null_count": 6
+    },
+    {
+      "field": "block",
+      "type": "string",
+      "null_count": 66
+    },
+    {
+      "field": "name_printed",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "caste_mark_printed",
+      "type": "string",
+      "null_count": 22
+    },
+    {
+      "field": "women_mark_printed",
+      "type": "string",
+      "null_count": 26
+    },
+    {
+      "field": "caste_reservation",
+      "type": "string",
+      "null_count": 22
+    },
+    {
+      "field": "woman_reserved",
+      "type": "int64",
+      "null_count": 26
+    },
+    {
+      "field": "reservation",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "office_universe_printed",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_list_scope",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_coordinate_system",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "embedded_ocr_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_method",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "ancillary/candidate_reports.parquet": [
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "report_date_raw",
+      "type": "string",
+      "null_count": 12
+    },
+    {
+      "field": "row_role",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "reader_line_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_text",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "bbox_coordinate_system",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_words",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "counts_json",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "ancillary/polling_infrastructure.parquet": [
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block_printed",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "row_role",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "main_polling_stations",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "polling_stations_over_1250_excluding_1400",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "polling_stations_over_1400_divided_into_two",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "sectors",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "single_premises",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "double_premises",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "triple_premises",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "quadruple_premises",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "total_premises",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "total_polling_stations",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "total_electors",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_cells",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "ancillary/reference_lines.parquet": [
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "reader_line_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_text",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "bbox_coordinate_system",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_words",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "ancillary/single_valid_nominations.parquet": [
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "constituency_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "no_valid_nomination_column_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "reader_line_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_text",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "bbox_coordinate_system",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_words",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "bardhaman_2003/block_controls.parquet": [
+    {
+      "field": "seats_total",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "seats_uncontested",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "seats_election_held",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "contesting_candidates",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "CPI(M)",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "CPI",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "AIFB",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "RSP",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "INC",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "AITC",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "BJP",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "CPI(ML)",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "NCP",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "IND",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "name",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_html_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "issues",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "bardhaman_2003/gp_party_counts.parquet": [
+    {
+      "field": "seats_total",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "seats_uncontested",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "seats_election_held",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "contesting_candidates",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "CPI(M)",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "CPI",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "AIFB",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "RSP",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "INC",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "AITC",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "BJP",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "CPI(ML)",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "NCP",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "IND",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_html_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block_code",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_url",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "issues",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "birbhum_reservations/cross_source_audit.parquet": [
+    {
+      "field": "source_cd",
+      "type": "large_string",
+      "null_count": 61
+    },
+    {
+      "field": "source_gp_id_cd",
+      "type": "large_string",
+      "null_count": 61
+    },
+    {
+      "field": "district_cd",
+      "type": "large_string",
+      "null_count": 61
+    },
+    {
+      "field": "block_raw_cd",
+      "type": "large_string",
+      "null_count": 61
+    },
+    {
+      "field": "gp_raw_cd",
+      "type": "large_string",
+      "null_count": 61
+    },
+    {
+      "field": "office_cd",
+      "type": "large_string",
+      "null_count": 61
+    },
+    {
+      "field": "reported_period_cd",
+      "type": "large_string",
+      "null_count": 61
+    },
+    {
+      "field": "source_file_cd",
+      "type": "large_string",
+      "null_count": 61
+    },
+    {
+      "field": "source_sha256_cd",
+      "type": "large_string",
+      "null_count": 61
+    },
+    {
+      "field": "raw_women_cd",
+      "type": "int64",
+      "null_count": 66
+    },
+    {
+      "field": "reserved_women_cd",
+      "type": "bool",
+      "null_count": 66
+    },
+    {
+      "field": "raw_sc_cd",
+      "type": "int64",
+      "null_count": 66
+    },
+    {
+      "field": "reserved_sc_cd",
+      "type": "bool",
+      "null_count": 66
+    },
+    {
+      "field": "raw_st_cd",
+      "type": "int64",
+      "null_count": 66
+    },
+    {
+      "field": "reserved_st_cd",
+      "type": "bool",
+      "null_count": 66
+    },
+    {
+      "field": "election_year_cd",
+      "type": "int64",
+      "null_count": 61
+    },
+    {
+      "field": "year_evidence_cd",
+      "type": "large_string",
+      "null_count": 61
+    },
+    {
+      "field": "flags_cd",
+      "type": "large_string",
+      "null_count": 61
+    },
+    {
+      "field": "eligible_within_source_strict_cd",
+      "type": "bool",
+      "null_count": 61
+    },
+    {
+      "field": "name_key",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_AA0_2b_cd",
+      "type": "int64",
+      "null_count": 227
+    },
+    {
+      "field": "raw_year_cd",
+      "type": "int64",
+      "null_count": 227
+    },
+    {
+      "field": "raw_year_2_cd",
+      "type": "int64",
+      "null_count": 227
+    },
+    {
+      "field": "raw_year_888_cd",
+      "type": "int64",
+      "null_count": 227
+    },
+    {
+      "field": "raw_prev_year_cd",
+      "type": "int64",
+      "null_count": 227
+    },
+    {
+      "field": "raw_prev_year_888_1_cd",
+      "type": "int64",
+      "null_count": 227
+    },
+    {
+      "field": "raw_prev_year_888_2_cd",
+      "type": "int64",
+      "null_count": 227
+    },
+    {
+      "field": "raw_comments_cd",
+      "type": "large_string",
+      "null_count": 227
+    },
+    {
+      "field": "source_beaman",
+      "type": "large_string",
+      "null_count": 62
+    },
+    {
+      "field": "source_gp_id_beaman",
+      "type": "large_string",
+      "null_count": 62
+    },
+    {
+      "field": "district_beaman",
+      "type": "large_string",
+      "null_count": 62
+    },
+    {
+      "field": "block_raw_beaman",
+      "type": "large_string",
+      "null_count": 62
+    },
+    {
+      "field": "gp_raw_beaman",
+      "type": "large_string",
+      "null_count": 62
+    },
+    {
+      "field": "office_beaman",
+      "type": "large_string",
+      "null_count": 62
+    },
+    {
+      "field": "reported_period_beaman",
+      "type": "large_string",
+      "null_count": 62
+    },
+    {
+      "field": "source_file_beaman",
+      "type": "large_string",
+      "null_count": 62
+    },
+    {
+      "field": "source_sha256_beaman",
+      "type": "large_string",
+      "null_count": 62
+    },
+    {
+      "field": "raw_women_beaman",
+      "type": "int64",
+      "null_count": 62
+    },
+    {
+      "field": "reserved_women_beaman",
+      "type": "bool",
+      "null_count": 62
+    },
+    {
+      "field": "raw_sc_beaman",
+      "type": "int64",
+      "null_count": 62
+    },
+    {
+      "field": "reserved_sc_beaman",
+      "type": "bool",
+      "null_count": 62
+    },
+    {
+      "field": "raw_st_beaman",
+      "type": "int64",
+      "null_count": 62
+    },
+    {
+      "field": "reserved_st_beaman",
+      "type": "bool",
+      "null_count": 62
+    },
+    {
+      "field": "election_year_beaman",
+      "type": "int64",
+      "null_count": 65
+    },
+    {
+      "field": "year_evidence_beaman",
+      "type": "large_string",
+      "null_count": 62
+    },
+    {
+      "field": "flags_beaman",
+      "type": "large_string",
+      "null_count": 62
+    },
+    {
+      "field": "eligible_within_source_strict_beaman",
+      "type": "bool",
+      "null_count": 62
+    },
+    {
+      "field": "raw_AA0_2b_beaman",
+      "type": "int64",
+      "null_count": 62
+    },
+    {
+      "field": "raw_year_beaman",
+      "type": "int64",
+      "null_count": 62
+    },
+    {
+      "field": "raw_year_2_beaman",
+      "type": "int64",
+      "null_count": 226
+    },
+    {
+      "field": "raw_year_888_beaman",
+      "type": "int64",
+      "null_count": 226
+    },
+    {
+      "field": "raw_prev_year_beaman",
+      "type": "int64",
+      "null_count": 62
+    },
+    {
+      "field": "raw_prev_year_888_1_beaman",
+      "type": "int64",
+      "null_count": 214
+    },
+    {
+      "field": "raw_prev_year_888_2_beaman",
+      "type": "int64",
+      "null_count": 214
+    },
+    {
+      "field": "raw_comments_beaman",
+      "type": "large_string",
+      "null_count": 62
+    },
+    {
+      "field": "name_match",
+      "type": "dictionary<values=string, indices=int8, ordered=0>",
+      "null_count": 0
+    },
+    {
+      "field": "conflict_women",
+      "type": "bool",
+      "null_count": 0
+    },
+    {
+      "field": "conflict_sc",
+      "type": "bool",
+      "null_count": 0
+    },
+    {
+      "field": "conflict_st",
+      "type": "bool",
+      "null_count": 0
+    },
+    {
+      "field": "any_conflict",
+      "type": "bool",
+      "null_count": 0
+    }
+  ],
+  "birbhum_reservations/observations.parquet": [
+    {
+      "field": "source",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "source_gp_id",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "block_raw",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "gp_raw",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "office",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "reported_period",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "source_file",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_women",
+      "type": "int64",
+      "null_count": 5
+    },
+    {
+      "field": "reserved_women",
+      "type": "bool",
+      "null_count": 5
+    },
+    {
+      "field": "raw_sc",
+      "type": "int64",
+      "null_count": 5
+    },
+    {
+      "field": "reserved_sc",
+      "type": "bool",
+      "null_count": 5
+    },
+    {
+      "field": "raw_st",
+      "type": "int64",
+      "null_count": 5
+    },
+    {
+      "field": "reserved_st",
+      "type": "bool",
+      "null_count": 5
+    },
+    {
+      "field": "election_year",
+      "type": "int64",
+      "null_count": 3
+    },
+    {
+      "field": "year_evidence",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "flags",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "eligible_within_source_strict",
+      "type": "bool",
+      "null_count": 0
+    },
+    {
+      "field": "name_key",
+      "type": "large_string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_AA0_2b",
+      "type": "int64",
+      "null_count": 166
+    },
+    {
+      "field": "raw_year",
+      "type": "int64",
+      "null_count": 166
+    },
+    {
+      "field": "raw_year_2",
+      "type": "int64",
+      "null_count": 494
+    },
+    {
+      "field": "raw_year_888",
+      "type": "int64",
+      "null_count": 494
+    },
+    {
+      "field": "raw_prev_year",
+      "type": "int64",
+      "null_count": 166
+    },
+    {
+      "field": "raw_prev_year_888_1",
+      "type": "int64",
+      "null_count": 470
+    },
+    {
+      "field": "raw_prev_year_888_2",
+      "type": "int64",
+      "null_count": 470
+    },
+    {
+      "field": "raw_comments",
+      "type": "large_string",
+      "null_count": 166
+    },
+    {
+      "field": "cross_source_conflict",
+      "type": "bool",
+      "null_count": 0
+    },
+    {
+      "field": "eligible_after_exact_name_audit",
+      "type": "bool",
+      "null_count": 0
+    }
+  ],
+  "hooghly_2003/gp_party_counts.parquet": [
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "seats_contested_printed",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "seats_declared_printed",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "party_counts_sum",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "declared_minus_party_counts",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "party_counts_cover_declared",
+      "type": "bool",
+      "null_count": 0
+    },
+    {
+      "field": "AIFB",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "AITC",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "BJP",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "BSP",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "CPI",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "CPI(M)",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "INC",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "MFB",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "RSP",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "OTHERS",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_html_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_url",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "nadia_2008/gp_seats.parquet": [
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "stage",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "block_printed",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "seat_no",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "constituency_area_raw",
+      "type": "string",
+      "null_count": 1
+    },
+    {
+      "field": "allocated_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_cells",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "caste_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "women_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "caste_reservation",
+      "type": "string",
+      "null_count": 167
+    },
+    {
+      "field": "woman_reserved",
+      "type": "int64",
+      "null_count": 164
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "nadia_2013_handbook/office_reservations.parquet": [
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_coordinate_system",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_cells",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "office",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_gp_serial",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_gp_key",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "local_body_name",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block",
+      "type": "null",
+      "null_count": 374
+    },
+    {
+      "field": "name_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "reservation_code_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "reservation",
+      "type": "string",
+      "null_count": 1
+    },
+    {
+      "field": "caste_reservation",
+      "type": "string",
+      "null_count": 1
+    },
+    {
+      "field": "woman_reserved",
+      "type": "int64",
+      "null_count": 1
+    },
+    {
+      "field": "source_list_scope",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "nadia_2013_handbook/source_table_rows.parquet": [
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_coordinate_system",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_cells",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "cell_bboxes",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "nadia_2013_handbook/ward_aggregates.parquet": [
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_coordinate_system",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_cells",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat",
+      "type": "string",
+      "null_count": 18
+    },
+    {
+      "field": "block",
+      "type": "null",
+      "null_count": 187
+    },
+    {
+      "field": "assembly_parts_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "electors_2012",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "constituencies_2008",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "seats_2008",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "single_seated_constituencies_2013",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "double_seated_constituencies_2013",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "constituencies_2013",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "seats_2013",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "st_nonwomen_seats",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "sc_nonwomen_seats",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "obc_nonwomen_seats",
+      "type": "int64",
+      "null_count": 1
+    },
+    {
+      "field": "st_women_seats",
+      "type": "int64",
+      "null_count": 7
+    },
+    {
+      "field": "sc_women_seats",
+      "type": "int64",
+      "null_count": 7
+    },
+    {
+      "field": "obc_women_seats",
+      "type": "int64",
+      "null_count": 7
+    },
+    {
+      "field": "women_other_seats",
+      "type": "int64",
+      "null_count": 7
+    },
+    {
+      "field": "source_list_scope",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "office_native/cell_review.parquet": [
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block",
+      "type": "string",
+      "null_count": 176
+    },
+    {
+      "field": "election_year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "stage",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_column",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "table_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "bbox_units",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "native_reading",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "heading",
+      "type": "bool",
+      "null_count": 0
+    },
+    {
+      "field": "crop_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "cache_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_reading",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "second_reading",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "crop_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "ocr_min_confidence",
+      "type": "double",
+      "null_count": 561
+    },
+    {
+      "field": "office_name_reading",
+      "type": "string",
+      "null_count": 785
+    },
+    {
+      "field": "gram_panchayat_reading",
+      "type": "string",
+      "null_count": 796
+    },
+    {
+      "field": "caste_reservation",
+      "type": "string",
+      "null_count": 1334
+    },
+    {
+      "field": "woman_reserved",
+      "type": "bool",
+      "null_count": 1433
+    },
+    {
+      "field": "category",
+      "type": "string",
+      "null_count": 785
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_note",
+      "type": "string",
+      "null_count": 1783
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block_review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "office_native/mentions.parquet": [
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block",
+      "type": "string",
+      "null_count": 119
+    },
+    {
+      "field": "election_year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "stage",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_column",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "table_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "bbox_units",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "native_reading",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "heading",
+      "type": "bool",
+      "null_count": 0
+    },
+    {
+      "field": "crop_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "cache_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_reading",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "second_reading",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "crop_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "ocr_min_confidence",
+      "type": "double",
+      "null_count": 3
+    },
+    {
+      "field": "office_name_reading",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat_reading",
+      "type": "string",
+      "null_count": 11
+    },
+    {
+      "field": "caste_reservation",
+      "type": "string",
+      "null_count": 549
+    },
+    {
+      "field": "woman_reserved",
+      "type": "bool",
+      "null_count": 648
+    },
+    {
+      "field": "category",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_note",
+      "type": "string",
+      "null_count": 1056
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block_review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "office_native/page_audit.parquet": [
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "cells",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "status",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "error",
+      "type": "null",
+      "null_count": 81
+    }
+  ],
+  "office_scans/mentions.parquet": [
+    {
+      "field": "source_file",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_url",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "archive_url",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 87
+    },
+    {
+      "field": "election_year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "stage",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "table_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "axis",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "bbox_coordinate_system",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "crop_path",
+      "type": "string",
+      "null_count": 101
+    },
+    {
+      "field": "cache_path",
+      "type": "string",
+      "null_count": 101
+    },
+    {
+      "field": "table_y_fraction",
+      "type": "double",
+      "null_count": 101
+    },
+    {
+      "field": "raw_reading",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "second_reading",
+      "type": "string",
+      "null_count": 101
+    },
+    {
+      "field": "name",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "category",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "min_confidence",
+      "type": "double",
+      "null_count": 102
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "women_reserved",
+      "type": "bool",
+      "null_count": 512
+    },
+    {
+      "field": "caste_category",
+      "type": "string",
+      "null_count": 429
+    },
+    {
+      "field": "block",
+      "type": "string",
+      "null_count": 769
+    },
+    {
+      "field": "winner_gender",
+      "type": "null",
+      "null_count": 941
+    },
+    {
+      "field": "reviewed_reading",
+      "type": "string",
+      "null_count": 838
+    },
+    {
+      "field": "review_note",
+      "type": "string",
+      "null_count": 838
+    },
+    {
+      "field": "record_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "name_review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "parsing_inventory/documents.parquet": [
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "aliases",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "election_year",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "content_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "stage",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "expected_pages",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "native_pages_extracted",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "pages_with_parser_audit",
+      "type": "int64",
+      "null_count": 0
+    }
+  ],
+  "parsing_inventory/outputs.parquet": [
+    {
+      "field": "output",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "rows",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "columns",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "unit",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "schema",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status_counts",
+      "type": "string",
+      "null_count": 10
+    }
+  ],
+  "parsing_inventory/pages.parquet": [
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "election_year",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "content_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "stage",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "native_page_extracted",
+      "type": "bool",
+      "null_count": 0
+    },
+    {
+      "field": "native_text_characters",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "native_tables",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "parsers",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "parser_evidence",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "ward_ocr_state",
+      "type": "string",
+      "null_count": 1502
+    },
+    {
+      "field": "routing_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "reference_tables/aggregates.parquet": [
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_cells",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 4
+    },
+    {
+      "field": "block_printed",
+      "type": "string",
+      "null_count": 15
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "tier",
+      "type": "string",
+      "null_count": 95
+    },
+    {
+      "field": "counts_json",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "selection_basis_printed",
+      "type": "string",
+      "null_count": 383
+    }
+  ],
+  "reference_tables/native_table_rows.parquet": [
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_cells",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "document_reference_year",
+      "type": "int64",
+      "null_count": 4
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "ward_schedules/constituency_crosswalk.parquet": [
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gram_panchayat",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "gp_constituency_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "seat_no",
+      "type": "int64",
+      "null_count": 36
+    },
+    {
+      "field": "assembly_part_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "polling_station_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "ps_constituency_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "zp_constituency_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_cells",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ],
+  "ward_schedules/gp_seats.parquet": [
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "stage",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "block_printed",
+      "type": "string",
+      "null_count": 827
+    },
+    {
+      "field": "gram_panchayat",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "constituency_area_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "seat_no",
+      "type": "int64",
+      "null_count": 18
+    },
+    {
+      "field": "allocated_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "caste_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "women_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "caste_reservation",
+      "type": "string",
+      "null_count": 769
+    },
+    {
+      "field": "woman_reserved",
+      "type": "int64",
+      "null_count": 718
+    },
+    {
+      "field": "raw_cells",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table",
+      "type": "int64",
+      "null_count": 827
+    },
+    {
+      "field": "source_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "bbox_coordinate_system",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "bbox_rotation_degrees",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "printed_totals_raw",
+      "type": "string",
+      "null_count": 827
+    }
+  ],
+  "ward_schedules/other_tier_seats.parquet": [
+    {
+      "field": "row_id",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "state",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "district",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "year",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "stage",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "record_kind",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "local_body_printed",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "constituency_area_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "seat_no",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "seat_no_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "caste_raw",
+      "type": "string",
+      "null_count": 1
+    },
+    {
+      "field": "women_raw",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "caste_reservation",
+      "type": "string",
+      "null_count": 72
+    },
+    {
+      "field": "woman_reserved",
+      "type": "int64",
+      "null_count": 76
+    },
+    {
+      "field": "source_path",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_sha256",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "source_page",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_row",
+      "type": "int64",
+      "null_count": 0
+    },
+    {
+      "field": "source_table_bbox",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "raw_cells",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "quality_flags",
+      "type": "string",
+      "null_count": 0
+    },
+    {
+      "field": "review_status",
+      "type": "string",
+      "null_count": 0
+    }
+  ]
+}

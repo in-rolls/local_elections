@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "sha256": "34a6a76d72f5bcbd889ad30bb194f23a5d2cf496063a3842a300721fbd348eea",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A 1)\nBlock : Chakdaha\nNumber of members to be elected in the Gram Panchayat\nScheduled Scheduled\nName of Gram Women\nTotal number of members Caste Tribe\nmembers\nmembers Members\n1 (2a) (2b) (2c) (2d)\nTatla-I 15 3 3 5\nSeats\nSeats reserved for Seats\nallocated to Scheduled reserved for\neach Caste or women\nNumber, name and area of constituencies with serial numbers\nconstituency Scheduled against serial\nwith serial Tribe against number of\nnumbers serial number seats\nof seats\n3 4 5 6\nTatla-I/I ,\nMouza : Ghola, J.L. No,159 (a) Ghola Full , 1 - 1 W\nPart No-80/172\nTatla-I/II,\nMouza: Mashra, J.L.No.10 (a) Mashra Partly,From Mashra Hospital to Dakshin Part\n2 2 SC 2 SCW\nof Nabapalli Bat Tala ,\nPart No-80/173\nTatla-I/III,\nMouza:Mathurapur, J.L. No.157,(a) Mathurapur Full,\nMouza: Mashra, J.L.No.10 3 - -\n(b) Mashra Partly, From Mashra Hospital to Uttar Part of Nabapalli Battala\nPart No-80/174\nTatla-I/IV,\nMouza: Ichhapur,J.L.No.158 ,\n(a) Ichhapur Adibasipara, Dakshin Part along with Chhutipur 4,5 4 ST -\n(b) Ichhapur Uttar Part along with Natunpara\nPart No-80/175\nTatla-I/V\nMouza:Chandrapur, J.L.No.6, (a) Chandrapur Full\nMouza Palagacha, J.L.No.13(b) Palagachha Partly(Paschim Part) 6,7 - 6 W\n(c) Palagachha Partly\nPart No-80/176\nTatla-I/VI\nMouza:Tatla, J.L.No.12(a) Tantla Roypara, Ghoshalpara(Uttar-Purba),\n8,9 8 ST -\n(b) Tantla Khejurbagan, Paschim Part of Tantla Mouza along with Sardarpara\nPart No-80/177",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            118.19040000000007,
+            586.9113654,
+            212.62200000000007
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of members",
+              "Scheduled\nCaste\nmembers",
+              "Scheduled\nTribe\nMembers",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Tatla-I",
+              "15",
+              "3",
+              "3",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            18.5191254,
+            234.34103460000006,
+            586.9113654,
+            699.42192
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial numbers",
+              "Seats\nallocated to\neach\nconstituency\nwith serial\nnumbers",
+              "Seats\nreserved for\nScheduled\nCaste or\nScheduled\nTribe against\nserial number\nof seats",
+              "Seats\nreserved for\nwomen\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Tatla-I/I ,\nMouza : Ghola, J.L. No,159 (a) Ghola Full ,\nPart No-80/172",
+              "1",
+              "-",
+              "1 W"
+            ],
+            [
+              "Tatla-I/II,\nMouza: Mashra, J.L.No.10 (a) Mashra Partly,From Mashra Hospital to Dakshin Part\nof Nabapalli Bat Tala ,\nPart No-80/173",
+              "2",
+              "2 SC",
+              "2 SCW"
+            ],
+            [
+              "Tatla-I/III,\nMouza:Mathurapur, J.L. No.157,(a) Mathurapur Full,\nMouza: Mashra, J.L.No.10\n(b) Mashra Partly, From Mashra Hospital to Uttar Part of Nabapalli Battala\nPart No-80/174",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              "Tatla-I/IV,\nMouza: Ichhapur,J.L.No.158 ,\n(a) Ichhapur Adibasipara, Dakshin Part along with Chhutipur\n(b) Ichhapur Uttar Part along with Natunpara\nPart No-80/175",
+              "4,5",
+              "4 ST",
+              "-"
+            ],
+            [
+              "Tatla-I/V\nMouza:Chandrapur, J.L.No.6, (a) Chandrapur Full\nMouza Palagacha, J.L.No.13(b) Palagachha Partly(Paschim Part)\n(c) Palagachha Partly\nPart No-80/176",
+              "6,7",
+              "-",
+              "6 W"
+            ],
+            [
+              "Tatla-I/VI\nMouza:Tatla, J.L.No.12(a) Tantla Roypara, Ghoshalpara(Uttar-Purba),\n(b) Tantla Khejurbagan, Paschim Part of Tantla Mouza along with Sardarpara\nPart No-80/177",
+              "8,9",
+              "8 ST",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2769
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Seats\nSeats Seats\nreserved for\nallocated to reserved for\nScheduled\neach women\nNumber, name and area of constituencies with serial numbers Caste or\nconstituency against serial\nScheduled\nwith serial number of\nTribe against\nnumbers seats\nserial number\nTatla-I/VII\nMouza:Mahanala, J.L. No.7(a) Mahanala Full\nMouza-Huda, J.L. No.8 ,.(b) Huda Partly Dakshin-Paschim Part\n10 10 ST 10 STW\n(c) Huda Partly Uttar-Purba Part\nMouza Cheutia, J.L. No.9(d) Cheutia Full\nPart No-80/178\nTatla-I/VIII\nMouza:Dhanicha, J.L. No,11, (a) Dhanicha Dakshin along with Dhanicha Natunpara\n11,12 - 11 W\n(b) Dhanicha Uttar, Roypara, Paschimpara\nPart No-80/179\nTatla-I/IX\nMouza:Mouza Itapukur, J.L. No.16, (a) Itapukur Partly, Purba Part\n13 13 SC -\n(b) Itapukur Partly, Paschim Part\nPart No-80/180\nTatla-I/X\nMouza:Sutra, J.L. No.156,(a) Sutra Uttarpara Puratan Mouza\n` 14SC -\n(b) Sutra Fastalapara Natun\nPart No-80/181\nTatla-I/XI\nMouza:Sutra, J.L.No.156,(a) Dakshinpara, Mitrapukurpara 1 5 - -\nPart No-80/182\nDate:07.02.2008\nDistrict Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            72.47399999999999,
+            586.9113654,
+            451.8828
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial numbers",
+              "Seats\nallocated to\neach\nconstituency\nwith serial\nnumbers",
+              "Seats\nreserved for\nScheduled\nCaste or\nScheduled\nTribe against\nserial number",
+              "Seats\nreserved for\nwomen\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "Tatla-I/VII\nMouza:Mahanala, J.L. No.7(a) Mahanala Full\nMouza-Huda, J.L. No.8 ,.(b) Huda Partly Dakshin-Paschim Part\n(c) Huda Partly Uttar-Purba Part\nMouza Cheutia, J.L. No.9(d) Cheutia Full\nPart No-80/178",
+              "10",
+              "10 ST",
+              "10 STW"
+            ],
+            [
+              "Tatla-I/VIII\nMouza:Dhanicha, J.L. No,11, (a) Dhanicha Dakshin along with Dhanicha Natunpara\n(b) Dhanicha Uttar, Roypara, Paschimpara\nPart No-80/179",
+              "11,12",
+              "-",
+              "11 W"
+            ],
+            [
+              "Tatla-I/IX\nMouza:Mouza Itapukur, J.L. No.16, (a) Itapukur Partly, Purba Part\n(b) Itapukur Partly, Paschim Part\nPart No-80/180",
+              "13",
+              "13 SC",
+              "-"
+            ],
+            [
+              "Tatla-I/X\nMouza:Sutra, J.L. No.156,(a) Sutra Uttarpara Puratan Mouza\n(b) Sutra Fastalapara Natun\nPart No-80/181",
+              "`",
+              "14SC",
+              "-"
+            ],
+            [
+              "Tatla-I/XI\nMouza:Sutra, J.L.No.156,(a) Dakshinpara, Mitrapukurpara\nPart No-80/182",
+              "1 5",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2087
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

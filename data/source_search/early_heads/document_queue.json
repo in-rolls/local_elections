@@ -1,0 +1,156 @@
+[
+  {
+    "source_id": "tn_1_58_2011_318_en",
+    "state": "Tamil Nadu",
+    "requested_url": "https://tnrd.tn.gov.in/project/go_files/1_58_2011_318_en.pdf",
+    "parent_url": "https://www.tnrd.tn.gov.in/dyn_json_schemes_name_details.php?go_type=MQ%3D%3D&n=bmV3&sch_code=NTg%3D&scheme_type=MQ%3D%3D&y=MjAxMQ%3D%3D",
+    "discovery": "PDF link in retained official reservation-gazette index",
+    "expected_year": "2011"
+  },
+  {
+    "source_id": "tn_1_58_2011_316_en",
+    "state": "Tamil Nadu",
+    "requested_url": "https://tnrd.tn.gov.in/project/go_files/1_58_2011_316_en.pdf",
+    "parent_url": "https://www.tnrd.tn.gov.in/dyn_json_schemes_name_details.php?go_type=MQ%3D%3D&n=bmV3&sch_code=NTg%3D&scheme_type=MQ%3D%3D&y=MjAxMQ%3D%3D",
+    "discovery": "PDF link in retained official reservation-gazette index",
+    "expected_year": "2011"
+  },
+  {
+    "source_id": "tn_1_58_2006_254_en",
+    "state": "Tamil Nadu",
+    "requested_url": "https://tnrd.tn.gov.in/project/go_files/1_58_2006_254_en.pdf",
+    "parent_url": "https://www.tnrd.tn.gov.in/dyn_json_schemes_name_details.php?go_type=MQ%3D%3D&n=bmV3&sch_code=NTg%3D&scheme_type=MQ%3D%3D&y=MjAxMQ%3D%3D",
+    "discovery": "PDF link in retained official reservation-gazette index",
+    "expected_year": "2006"
+  },
+  {
+    "source_id": "tn_1_58_2006_228_en",
+    "state": "Tamil Nadu",
+    "requested_url": "https://tnrd.tn.gov.in/project/go_files/1_58_2006_228_en.pdf",
+    "parent_url": "https://www.tnrd.tn.gov.in/dyn_json_schemes_name_details.php?go_type=MQ%3D%3D&n=bmV3&sch_code=NTg%3D&scheme_type=MQ%3D%3D&y=MjAxMQ%3D%3D",
+    "discovery": "PDF link in retained official reservation-gazette index",
+    "expected_year": "2006"
+  },
+  {
+    "source_id": "tn_1_58_2006_214_en",
+    "state": "Tamil Nadu",
+    "requested_url": "https://tnrd.tn.gov.in/project/go_files/1_58_2006_214_en.pdf",
+    "parent_url": "https://www.tnrd.tn.gov.in/dyn_json_schemes_name_details.php?go_type=MQ%3D%3D&n=bmV3&sch_code=NTg%3D&scheme_type=MQ%3D%3D&y=MjAxMQ%3D%3D",
+    "discovery": "PDF link in retained official reservation-gazette index",
+    "expected_year": "2006"
+  },
+  {
+    "source_id": "tn_1_58_2001_636_en",
+    "state": "Tamil Nadu",
+    "requested_url": "https://tnrd.tn.gov.in/project/go_files/1_58_2001_636_en.pdf",
+    "parent_url": "https://www.tnrd.tn.gov.in/dyn_json_schemes_name_details.php?go_type=MQ%3D%3D&n=bmV3&sch_code=NTg%3D&scheme_type=MQ%3D%3D&y=MjAxMQ%3D%3D",
+    "discovery": "PDF link in retained official reservation-gazette index",
+    "expected_year": "2001"
+  },
+  {
+    "source_id": "tn_1_58_1996_401_en",
+    "state": "Tamil Nadu",
+    "requested_url": "https://tnrd.tn.gov.in/project/go_files/1_58_1996_401_en.pdf",
+    "parent_url": "https://www.tnrd.tn.gov.in/dyn_json_schemes_name_details.php?go_type=MQ%3D%3D&n=bmV3&sch_code=NTg%3D&scheme_type=MQ%3D%3D&y=MjAxMQ%3D%3D",
+    "discovery": "PDF link in retained official reservation-gazette index",
+    "expected_year": "1996"
+  },
+  {
+    "source_id": "tn_1_58_1996_395_en",
+    "state": "Tamil Nadu",
+    "requested_url": "https://tnrd.tn.gov.in/project/go_files/1_58_1996_395_en.pdf",
+    "parent_url": "https://www.tnrd.tn.gov.in/dyn_json_schemes_name_details.php?go_type=MQ%3D%3D&n=bmV3&sch_code=NTg%3D&scheme_type=MQ%3D%3D&y=MjAxMQ%3D%3D",
+    "discovery": "PDF link in retained official reservation-gazette index",
+    "expected_year": "1996"
+  },
+  {
+    "source_id": "up_mau_badraon_head_history",
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "block": "BADRAON",
+    "requested_url": "https://cdn.s3waas.gov.in/s3ec8956637a99787bd197eacd77acce5e/uploads/2021/03/2021030535.pdf",
+    "parent_url": "https://mau.nic.in/en/panchayat-election-2021-1995-2015-reservations-details/",
+    "discovery": "Gram Pradhan column in retained district historical reservation table",
+    "expected_years": "1995-2015; verify columns in PDF"
+  },
+  {
+    "source_id": "up_mau_ghosi_head_history",
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "block": "GHOSI",
+    "requested_url": "https://cdn.s3waas.gov.in/s3ec8956637a99787bd197eacd77acce5e/uploads/2021/03/2021030570.pdf",
+    "parent_url": "https://mau.nic.in/en/panchayat-election-2021-1995-2015-reservations-details/",
+    "discovery": "Gram Pradhan column in retained district historical reservation table",
+    "expected_years": "1995-2015; verify columns in PDF"
+  },
+  {
+    "source_id": "up_mau_ratanpura_head_history",
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "block": "RATANPURA",
+    "requested_url": "https://cdn.s3waas.gov.in/s3ec8956637a99787bd197eacd77acce5e/uploads/2021/03/2021030541.pdf",
+    "parent_url": "https://mau.nic.in/en/panchayat-election-2021-1995-2015-reservations-details/",
+    "discovery": "Gram Pradhan column in retained district historical reservation table",
+    "expected_years": "1995-2015; verify columns in PDF"
+  },
+  {
+    "source_id": "up_mau_dohrighat_head_history",
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "block": "DOHRIGHAT",
+    "requested_url": "https://cdn.s3waas.gov.in/s3ec8956637a99787bd197eacd77acce5e/uploads/2021/03/2021030560.pdf",
+    "parent_url": "https://mau.nic.in/en/panchayat-election-2021-1995-2015-reservations-details/",
+    "discovery": "Gram Pradhan column in retained district historical reservation table",
+    "expected_years": "1995-2015; verify columns in PDF"
+  },
+  {
+    "source_id": "up_mau_fatehpur_mandraon_head_history",
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "block": "FATEHPUR MANDRAON",
+    "requested_url": "https://cdn.s3waas.gov.in/s3ec8956637a99787bd197eacd77acce5e/uploads/2021/03/2021030550.pdf",
+    "parent_url": "https://mau.nic.in/en/panchayat-election-2021-1995-2015-reservations-details/",
+    "discovery": "Gram Pradhan column in retained district historical reservation table",
+    "expected_years": "1995-2015; verify columns in PDF"
+  },
+  {
+    "source_id": "up_mau_ranipur_head_history",
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "block": "RANIPUR",
+    "requested_url": "https://cdn.s3waas.gov.in/s3ec8956637a99787bd197eacd77acce5e/uploads/2021/03/2021030571.pdf",
+    "parent_url": "https://mau.nic.in/en/panchayat-election-2021-1995-2015-reservations-details/",
+    "discovery": "Gram Pradhan column in retained district historical reservation table",
+    "expected_years": "1995-2015; verify columns in PDF"
+  },
+  {
+    "source_id": "up_mau_kopaganj_head_history",
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "block": "KOPAGANJ",
+    "requested_url": "https://cdn.s3waas.gov.in/s3ec8956637a99787bd197eacd77acce5e/uploads/2021/03/2021030558.pdf",
+    "parent_url": "https://mau.nic.in/en/panchayat-election-2021-1995-2015-reservations-details/",
+    "discovery": "Gram Pradhan column in retained district historical reservation table",
+    "expected_years": "1995-2015; verify columns in PDF"
+  },
+  {
+    "source_id": "up_mau_muhammadabad_head_history",
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "block": "MUHAMMADABAD",
+    "requested_url": "https://cdn.s3waas.gov.in/s3ec8956637a99787bd197eacd77acce5e/uploads/2021/03/2021030575.pdf",
+    "parent_url": "https://mau.nic.in/en/panchayat-election-2021-1995-2015-reservations-details/",
+    "discovery": "Gram Pradhan column in retained district historical reservation table",
+    "expected_years": "1995-2015; verify columns in PDF"
+  },
+  {
+    "source_id": "up_mau_pardaha_head_history",
+    "state": "Uttar Pradesh",
+    "district": "Mau",
+    "block": "PARDAHA",
+    "requested_url": "https://cdn.s3waas.gov.in/s3ec8956637a99787bd197eacd77acce5e/uploads/2021/03/2021030564.pdf",
+    "parent_url": "https://mau.nic.in/en/panchayat-election-2021-1995-2015-reservations-details/",
+    "discovery": "Gram Pradhan column in retained district historical reservation table",
+    "expected_years": "1995-2015; verify columns in PDF"
+  }
+]

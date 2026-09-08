@@ -1,0 +1,247 @@
+{
+  "version": 1,
+  "sha256": "cb151b3ec1b54ece333862a681b3c6f9e7ca2f038fb0fdef5423dfcd9b5e08a1",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE\nBLOCK : TEHATTA - I\nNumber of members to be elected in the Gram Seats allocated Seats reserved for\nSeats reserved for\nPamchayat to each Schedule Caste or\nNumber, name & area of constituencies with Women against\nName of Gram constituency Schedule Tribe\nSchedule Schedule serial numbers serial number of\nTotal No. of Women with serial against serial\nCastes Tribes Seats.\nmembers members number number of Seats\nMembers members\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nRaghunathpur /I Part No. 70/66\nRaghunathpur 12 2 Nil 4 Mouza Taranagar, J.L. No. 50 1 - 1, Women\na) Taranagar\nRaghunathpur /II Part No. 70/117\nMouza Nischintapur, J.L. No. 52 2 2, SC 2,SC(Women)\na) Nischintapur Uttarpara (Uttar)\nRaghunathpur /III Part No. 70/118\nMouza Nischintapur, J.L. No. 52 3 - -\na) Nischintapur Uttarpara (Dakshin)\nRaghunathpur /IV Part No. 70/119\n4 4, SC -\nMouza Nischintapur, J.L. No. 52\na) Nischintapur Dakshinpara (Purba)\n5 - -\nb) Nischintapur Dakshinpara (Paschim)\nRaghunathpur /V Part No. 70/120\nMouza- Raghunathpur, J.L. No. 53 6 - 6, Women\na) Purbapara\nb) Majpara (Part)\nc) Ghoshpara\n7 - -\nd) Majpara (Part)\ne) Nimtala Para\nRaghunathpur /VI Part No. 70/121\nMouza- Krishnachandrapur, J.L. No. 55 8 - -\na) Krishnachandrapur (Dakshin)\nRaghunathpur /VII Part No. 70/122\nMouza- Krishnachandrapur, J.L. No. 55 9 - 9, Women\na) Krishnachandrapur (Uttar)\nRaghunathpur /VIII Part No. 70/123\nMouza- Jitpur, J.L. No. 99\n10 - -\na) Habripara\nb) Puratan Jitpur Para\nRaghunathpur /IX Part No. 70/124\nMouza- Jitpur, J.L. No. 99 11 - -\na) Musalman Para\n1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            22.057142999999996,
+            78.26748300000003,
+            713.861883,
+            572.8852830000001
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of constituencies with\nserial numbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumber",
+              "Seats reserved for\nSchedule Caste or\nSchedule Tribe\nagainst serial\nnumber of Seats",
+              "Seats reserved for\nWomen against\nserial number of\nSeats."
+            ],
+            [
+              null,
+              "Total No. of\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Raghunathpur",
+              "12",
+              "2",
+              "Nil",
+              "4",
+              "Raghunathpur /I Part No. 70/66\nMouza Taranagar, J.L. No. 50\na) Taranagar",
+              "1",
+              "-",
+              "1, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Raghunathpur /II Part No. 70/117\nMouza Nischintapur, J.L. No. 52\na) Nischintapur Uttarpara (Uttar)",
+              "2",
+              "2, SC",
+              "2,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Raghunathpur /III Part No. 70/118\nMouza Nischintapur, J.L. No. 52\na) Nischintapur Uttarpara (Dakshin)",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Raghunathpur /IV Part No. 70/119\nMouza Nischintapur, J.L. No. 52\na) Nischintapur Dakshinpara (Purba)\nb) Nischintapur Dakshinpara (Paschim)",
+              "4",
+              "4, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "5",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Raghunathpur /V Part No. 70/120\nMouza- Raghunathpur, J.L. No. 53\na) Purbapara\nb) Majpara (Part)\nc) Ghoshpara\nd) Majpara (Part)\ne) Nimtala Para",
+              "6",
+              "-",
+              "6, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "7",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Raghunathpur /VI Part No. 70/121\nMouza- Krishnachandrapur, J.L. No. 55\na) Krishnachandrapur (Dakshin)",
+              "8",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Raghunathpur /VII Part No. 70/122\nMouza- Krishnachandrapur, J.L. No. 55\na) Krishnachandrapur (Uttar)",
+              "9",
+              "-",
+              "9, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Raghunathpur /VIII Part No. 70/123\nMouza- Jitpur, J.L. No. 99\na) Habripara\nb) Puratan Jitpur Para",
+              "10",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Raghunathpur /IX Part No. 70/124\nMouza- Jitpur, J.L. No. 99\na) Musalman Para",
+              "11",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1490
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "Number of members to be elected in the Gram\nSeats allocated Seats reserved for\nPamchayat Seats reserved for\nto each Schedule Caste or\nNumber, name & area of constituencies with Women against\nName of Gram Schedule Schedule constituency Schedule Tribe\nTotal No. of Women serial numbers serial number of\nCastes Tribes with serial against serial\nmembers members Seats.\nMembers members number number of Seats\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nRaghunathpur /X Part No. 70/125\nMouza- Jitpur, J.L. No. 99\na) Pullpara 12 - -\nMouza- Chalk Jaliapara, J.L. No. 100\na) Chalk Jaliapara\nDate : 07/02/2008 District Panchayat Election Officer\n& District Magistrate, Nadia\n2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            22.057142999999996,
+            45.27318300000002,
+            713.861883,
+            189.84900000000002
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of constituencies with\nserial numbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumber",
+              "Seats reserved for\nSchedule Caste or\nSchedule Tribe\nagainst serial\nnumber of Seats",
+              "Seats reserved for\nWomen against\nserial number of\nSeats."
+            ],
+            [
+              null,
+              "Total No. of\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Raghunathpur /X Part No. 70/125\nMouza- Jitpur, J.L. No. 99\na) Pullpara\nMouza- Chalk Jaliapara, J.L. No. 100\na) Chalk Jaliapara",
+              "12",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 634
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

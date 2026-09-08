@@ -1,0 +1,469 @@
+{
+  "version": 1,
+  "sha256": "7316ffebdf8fbccdfde1cefcd0a93073e10048d03d3cccdda7a21c25fc04d036",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "marG\nfo\nemaN\n[ Form-B1 ]\nThe Schedule\nBlock : Nakashipara Panchayat Samiti : Nakashipara\nConstituency reserved for\nNumber of Constituency\nScheduled Castes and\nmembers to be Number and name of reserved for women\nArea of the constituency Scheduled Tribes\nelected to the theconstituency showing serial\npersons showing serial\nPanchayat Samiti number\nnumber\n1 2 3 4 5 6\nHaranagar / PS- 1 Harnagar / I, II, V (71/1, 71/2, 71/5) - 1 - Women\nHaranagar / PS- 2 Harnagar / III, IV, VI, VII (71/3, 71/4, 71/6, 71/7) - -\nHaranagar / PS- 3 Harnagar / VIII, IX, X, XI (71/8, 71/9, 71/10, 71/11) - -\nBilkukmari /PS- 4 Bilkumari / I, II, III, VII (71/12, 71/13, 71/14, 71/18) - 4 - Women\nBilkukmari /PS- 5 Bilkumari / IV, V, VI (71/15, 71/16, 71/17) 5 - SC 5 - SC (W)\nBilkukmari /PS- 6 Bilkumari / VIII, IX, X, XI, XII (71/19, 71/20, 71/21, 71/22, 71/23) - -\nDhananjoypur /PS- 7 Dhananjoypur / I, II, III, IV, VI (71/24, 71/25, 71/26, 71/27 71/29) - -\nDhananjoypur /PS- 8 Dhananjoypur / V, VII, XII, XIII (71/28, 71/30, 71/35, 71/36) - 8 - Women\nDhananjoypur /PS- 9 Dhananjoypur / VIII, IX, X, XI (71/31, 71/32, 71/33, 71/34) - -\nPatikabari /PS- 10 Patikabari / I, III, IV (71/37, 71/39, 71/40) - -\nPatikabari /PS- 11 Patikabari / II, VIII, IX, X (71/38, 71/44, 71/45, 71/46) 11 - SC -\nPatikabari /PS- 12 Patikabari / V, VI, VII (71/41, 71/42, 71/43) 12 - SC -\nBethuadahari-II/PS-13 Bethuadahari-II / I, II, III, IV (71/47, 71/48, 71/49, 71/50) - 13 - Women\n3 Bethuadahari-II/PS-14 Bethuadahari-II / V, VI, VII, VIII (71/51, 71/52, 71/53, 71/54) - -\nBethuadahari-II/PS-15 Bethuadahari-II / IX, X, XI (71/55, 71/56, 71/57) 15 - SC 15 - SC (W)\nraganaraH\n3\niramukliB\n3\nrupyojnanahD\n3\nirabakitaP\n3\nII\n-\nirahadauhteB",
+      "tables": [
+        {
+          "bbox": [
+            14.97936,
+            93.93275999999997,
+            777.8757654,
+            549.0552
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of\nmembers to be\nelected to the\nPanchayat Samiti",
+              "Number and name of\ntheconstituency",
+              "Area of the constituency",
+              "Constituency reserved for\nScheduled Castes and\nScheduled Tribes\npersons showing serial\nnumber",
+              "Constituency\nreserved for women\nshowing serial\nnumber"
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "raganaraH",
+              "3",
+              "Haranagar / PS- 1",
+              "Harnagar / I, II, V (71/1, 71/2, 71/5)",
+              "-",
+              "1 - Women"
+            ],
+            [
+              null,
+              null,
+              "Haranagar / PS- 2",
+              "Harnagar / III, IV, VI, VII (71/3, 71/4, 71/6, 71/7)",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Haranagar / PS- 3",
+              "Harnagar / VIII, IX, X, XI (71/8, 71/9, 71/10, 71/11)",
+              "-",
+              "-"
+            ],
+            [
+              "iramukliB",
+              "3",
+              "Bilkukmari /PS- 4",
+              "Bilkumari / I, II, III, VII (71/12, 71/13, 71/14, 71/18)",
+              "-",
+              "4 - Women"
+            ],
+            [
+              null,
+              null,
+              "Bilkukmari /PS- 5",
+              "Bilkumari / IV, V, VI (71/15, 71/16, 71/17)",
+              "5 - SC",
+              "5 - SC (W)"
+            ],
+            [
+              null,
+              null,
+              "Bilkukmari /PS- 6",
+              "Bilkumari / VIII, IX, X, XI, XII (71/19, 71/20, 71/21, 71/22, 71/23)",
+              "-",
+              "-"
+            ],
+            [
+              "rupyojnanahD",
+              "3",
+              "Dhananjoypur /PS- 7",
+              "Dhananjoypur / I, II, III, IV, VI (71/24, 71/25, 71/26, 71/27 71/29)",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Dhananjoypur /PS- 8",
+              "Dhananjoypur / V, VII, XII, XIII (71/28, 71/30, 71/35, 71/36)",
+              "-",
+              "8 - Women"
+            ],
+            [
+              null,
+              null,
+              "Dhananjoypur /PS- 9",
+              "Dhananjoypur / VIII, IX, X, XI (71/31, 71/32, 71/33, 71/34)",
+              "-",
+              "-"
+            ],
+            [
+              "irabakitaP",
+              "3",
+              "Patikabari /PS- 10",
+              "Patikabari / I, III, IV (71/37, 71/39, 71/40)",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Patikabari /PS- 11",
+              "Patikabari / II, VIII, IX, X (71/38, 71/44, 71/45, 71/46)",
+              "11 - SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Patikabari /PS- 12",
+              "Patikabari / V, VI, VII (71/41, 71/42, 71/43)",
+              "12 - SC",
+              "-"
+            ],
+            [
+              "II\n-\nirahadauhteB",
+              "3",
+              "Bethuadahari-II/PS-13",
+              "Bethuadahari-II / I, II, III, IV (71/47, 71/48, 71/49, 71/50)",
+              "-",
+              "13 - Women"
+            ],
+            [
+              null,
+              null,
+              "Bethuadahari-II/PS-14",
+              "Bethuadahari-II / V, VI, VII, VIII (71/51, 71/52, 71/53, 71/54)",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Bethuadahari-II/PS-15",
+              "Bethuadahari-II / IX, X, XI (71/55, 71/56, 71/57)",
+              "15 - SC",
+              "15 - SC (W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1620
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "marG\nfo\nemaN\n[ Form-B1 ]\nThe Schedule\nBlock : Nakashipara Panchayat Samiti : Nakashipara\nConstituency reserved for\nNumber of Constituency\nScheduled Castes and\nmembers to be Number and name of reserved for women\nArea of the constituency Scheduled Tribes\nelected to the theconstituency showing serial\npersons showing serial\nPanchayat Samiti number\nnumber\n1 2 3 4 5 6\nBethuadahari-I/PS-16 Bethuadahari-I / I, II, XII, XIII (71/58, 71/59, 71/69, 71/70) - -\nBethuadahari-I/PS-17 Bethuadahari-I / III, IV, V, VI, VII (71/60, 71/61, 71/62, 71/63, 71/64) 17 - SC -\nBethuadahari-I/PS-18 Bethuadahari-I / VIII, IX, X, XI (71/65, 71/66, 71/67, 71/68) - 18 - Women\nBikrampur /PS- 19 Bikrampur / I, II, III, IV (71/71, 71/72, 71/73, 71/74) - -\nBikrampur /PS- 20 Bikrampur / V, VI, VII, VIII (71/75, 71/76, 71/77, 71/78) - -\nBikrampur /PS- 21 Bikrampur / IX, X, XI, XII (71/79, 71/80, 71/81, 71/82) 21 - SC -\nMajhergram /PS- 22 Majhergram / I, II, X (71/83, 71/84, 71/92) - 22 - Women\nMajhergram /PS- 23 Majhergram / III, IV, V, VI (71/85, 71/86, 71/87, 71/88) - -\nMajhergram /PS- 24 Majhergram / VII, VIII, IX (71/89, 71/90, 71/91) - -\nNakashipara /PS- 25 Nakashipara / I, X, XI, XII (71/93, 71/102, 71/103, 71/104) - 25 - Women\nNakashipara /PS- 26 Nakashipara / III, IV, V, VI, VII (71/95, 71/96, 71/97, 71/98, 71/99) 26 - ST 26 - ST (W)\nNakashipara /PS- 27 Nakashipara / II, VIII, IX (71/94, 71/100, 71/101) - -\nBillwagram /PS- 28 Billwagram / I, II, III, IV, VI (71/105, 71/106, 71/107, 71/108, 71/110) - -\nBillwagram /PS- 29 Billwagram / V, VII, VIII, IX, X (71/109, 71/111, 71/112, 71/113, 71/114) - 29 - Women\nBillwagram /PS- 30 Billwagram / XI, XII, XIII, XIV, XV (71/115, 71/116, 71/117, 71/118, 71/119) - -\nBirpur -II /PS- 31 Birpur - II / I, II, V (71/120, 71/121, 71/124) - -\nBirpur -II /PS- 32 Birpur - II / III, IV, VII (71/122, 71/123, 71/126) 32 - SC -\nBirpur -II /PS- 33 Birpur - II / VI, VIII, IX (71/125, 71/127, 71/128) - 33 - Women\nmargawlliB\n3\nII\n-\nrupriB\n3\nmargrehjaM\n3\narapihsakaN\n3\nI\n-\nirahadauhteB\n3\nrupmarkiB\n3",
+      "tables": [
+        {
+          "bbox": [
+            14.97936,
+            93.93275999999997,
+            777.8757654,
+            570.4127999999998
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of\nmembers to be\nelected to the\nPanchayat Samiti",
+              "Number and name of\ntheconstituency",
+              "Area of the constituency",
+              "Constituency reserved for\nScheduled Castes and\nScheduled Tribes\npersons showing serial\nnumber",
+              "Constituency\nreserved for women\nshowing serial\nnumber"
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "I\n-\nirahadauhteB",
+              "3",
+              "Bethuadahari-I/PS-16",
+              "Bethuadahari-I / I, II, XII, XIII (71/58, 71/59, 71/69, 71/70)",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Bethuadahari-I/PS-17",
+              "Bethuadahari-I / III, IV, V, VI, VII (71/60, 71/61, 71/62, 71/63, 71/64)",
+              "17 - SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Bethuadahari-I/PS-18",
+              "Bethuadahari-I / VIII, IX, X, XI (71/65, 71/66, 71/67, 71/68)",
+              "-",
+              "18 - Women"
+            ],
+            [
+              "rupmarkiB",
+              "3",
+              "Bikrampur /PS- 19",
+              "Bikrampur / I, II, III, IV (71/71, 71/72, 71/73, 71/74)",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Bikrampur /PS- 20",
+              "Bikrampur / V, VI, VII, VIII (71/75, 71/76, 71/77, 71/78)",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Bikrampur /PS- 21",
+              "Bikrampur / IX, X, XI, XII (71/79, 71/80, 71/81, 71/82)",
+              "21 - SC",
+              "-"
+            ],
+            [
+              "margrehjaM",
+              "3",
+              "Majhergram /PS- 22",
+              "Majhergram / I, II, X (71/83, 71/84, 71/92)",
+              "-",
+              "22 - Women"
+            ],
+            [
+              null,
+              null,
+              "Majhergram /PS- 23",
+              "Majhergram / III, IV, V, VI (71/85, 71/86, 71/87, 71/88)",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Majhergram /PS- 24",
+              "Majhergram / VII, VIII, IX (71/89, 71/90, 71/91)",
+              "-",
+              "-"
+            ],
+            [
+              "arapihsakaN",
+              "3",
+              "Nakashipara /PS- 25",
+              "Nakashipara / I, X, XI, XII (71/93, 71/102, 71/103, 71/104)",
+              "-",
+              "25 - Women"
+            ],
+            [
+              null,
+              null,
+              "Nakashipara /PS- 26",
+              "Nakashipara / III, IV, V, VI, VII (71/95, 71/96, 71/97, 71/98, 71/99)",
+              "26 - ST",
+              "26 - ST (W)"
+            ],
+            [
+              null,
+              null,
+              "Nakashipara /PS- 27",
+              "Nakashipara / II, VIII, IX (71/94, 71/100, 71/101)",
+              "-",
+              "-"
+            ],
+            [
+              "margawlliB",
+              "3",
+              "Billwagram /PS- 28",
+              "Billwagram / I, II, III, IV, VI (71/105, 71/106, 71/107, 71/108, 71/110)",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Billwagram /PS- 29",
+              "Billwagram / V, VII, VIII, IX, X (71/109, 71/111, 71/112, 71/113, 71/114)",
+              "-",
+              "29 - Women"
+            ],
+            [
+              null,
+              null,
+              "Billwagram /PS- 30",
+              "Billwagram / XI, XII, XIII, XIV, XV (71/115, 71/116, 71/117, 71/118, 71/119)",
+              "-",
+              "-"
+            ],
+            [
+              "II\n-\nrupriB",
+              "3",
+              "Birpur -II /PS- 31",
+              "Birpur - II / I, II, V (71/120, 71/121, 71/124)",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Birpur -II /PS- 32",
+              "Birpur - II / III, IV, VII (71/122, 71/123, 71/126)",
+              "32 - SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Birpur -II /PS- 33",
+              "Birpur - II / VI, VIII, IX (71/125, 71/127, 71/128)",
+              "-",
+              "33 - Women"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1932
+    },
+    {
+      "page": 3,
+      "width": 792,
+      "height": 612,
+      "text": "marG\nfo\nemaN\n[ Form-B1 ]\nThe Schedule\nBlock : Nakashipara Panchayat Samiti : Nakashipara\nConstituency reserved for\nNumber of Constituency\nScheduled Castes and\nmembers to be Number and name of reserved for women\nArea of the constituency Scheduled Tribes\nelected to the theconstituency showing serial\npersons showing serial\nPanchayat Samiti number\nnumber\n1 2 3 4 5 6\nBirpur - I /PS- 34 Birpur -I / I, II, V (71/129, 71/130, 71/133) 34 - SC -\nBirpur - I /PS- 35 Birpur -I / III, IV (71/131, 71/132) - -\nDogachhia /PS- 36 Dogachhia / I, II, III, XII (71/134, 71/135, 71/136, 71/145) - -\nDogachhia /PS- 37 Dogachhia / IV, V, VI (71/137, 71/138, 71/139) - 37 - Women\nDogachhia /PS- 38 Dogachhia / VII, VIII, IX, X, XI (71/140, 71/141, 71/142, 71/143, 71/144) - -\nDharmada /PS- 39 Dharmada / I, II, X, XII, XIII (76/1, 76/2, 76/10, 76/12, 76/13) 39 - SC 39 - SC (W)\nDharmada /PS- 40 Dharmada / III, IV, V, VI, IX (76/3, 76/4, 76/5, 76/6, 76/9) 40 - SC -\nDharmada /PS- 41 Dharmada / VII, VIII, XI (76/7, 76/8, 76/11) - -\nMuragachha /PS- 42 Muragachha / I, II, III, IV, V (76/14, 76/15, 76/16, 76/17, 76/18) 42 - SC -\nMuragachha /PS- 43 Muragachha / VI, VII, VIII, IX, X, XI (76/19, 76/20, 76/21, 76/22, 76/23, 76/24) - 43 - Women\nMuragachha /PS- 44 Muragachha / XII, XIII, XIV (76/25, 76/26, 76/27) - -\nDated: 07.02.2008 District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\nahhcagaruM\n3\naihhcagoD\n3\nadamrahD\n3\nI\n-\nrupriB\n2\nBlock Development Officer, Nakashipara",
+      "tables": [
+        {
+          "bbox": [
+            14.97936,
+            93.93275999999997,
+            777.8757654,
+            441.7836
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of\nmembers to be\nelected to the\nPanchayat Samiti",
+              "Number and name of\ntheconstituency",
+              "Area of the constituency",
+              "Constituency reserved for\nScheduled Castes and\nScheduled Tribes\npersons showing serial\nnumber",
+              "Constituency\nreserved for women\nshowing serial\nnumber"
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "I\n-\nrupriB",
+              "2",
+              "Birpur - I /PS- 34",
+              "Birpur -I / I, II, V (71/129, 71/130, 71/133)",
+              "34 - SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Birpur - I /PS- 35",
+              "Birpur -I / III, IV (71/131, 71/132)",
+              "-",
+              "-"
+            ],
+            [
+              "aihhcagoD",
+              "3",
+              "Dogachhia /PS- 36",
+              "Dogachhia / I, II, III, XII (71/134, 71/135, 71/136, 71/145)",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Dogachhia /PS- 37",
+              "Dogachhia / IV, V, VI (71/137, 71/138, 71/139)",
+              "-",
+              "37 - Women"
+            ],
+            [
+              null,
+              null,
+              "Dogachhia /PS- 38",
+              "Dogachhia / VII, VIII, IX, X, XI (71/140, 71/141, 71/142, 71/143, 71/144)",
+              "-",
+              "-"
+            ],
+            [
+              "adamrahD",
+              "3",
+              "Dharmada /PS- 39",
+              "Dharmada / I, II, X, XII, XIII (76/1, 76/2, 76/10, 76/12, 76/13)",
+              "39 - SC",
+              "39 - SC (W)"
+            ],
+            [
+              null,
+              null,
+              "Dharmada /PS- 40",
+              "Dharmada / III, IV, V, VI, IX (76/3, 76/4, 76/5, 76/6, 76/9)",
+              "40 - SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Dharmada /PS- 41",
+              "Dharmada / VII, VIII, XI (76/7, 76/8, 76/11)",
+              "-",
+              "-"
+            ],
+            [
+              "ahhcagaruM",
+              "3",
+              "Muragachha /PS- 42",
+              "Muragachha / I, II, III, IV, V (76/14, 76/15, 76/16, 76/17, 76/18)",
+              "42 - SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Muragachha /PS- 43",
+              "Muragachha / VI, VII, VIII, IX, X, XI (76/19, 76/20, 76/21, 76/22, 76/23, 76/24)",
+              "-",
+              "43 - Women"
+            ],
+            [
+              null,
+              null,
+              "Muragachha /PS- 44",
+              "Muragachha / XII, XIII, XIV (76/25, 76/26, 76/27)",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1400
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

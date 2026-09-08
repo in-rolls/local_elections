@@ -1,0 +1,61 @@
+VILUPPURA
+VILLAGE PANCHA
+Reservation of Seats for Scheduled Caste/Scheduled Tr
+Tamilna
+Sl.No Name of the Village Panchayat Category to which
+reservation is made
+1 2 3
+TIRUKOILUR PANCHAYAT UNION
+1 Ariyur SC Women
+2 Memalur SC Women
+3 Solavandipuram SC Women
+4 Vadakkunemili SC Women
+5 Veeratagaram SC Women
+6 Athandamarudur SC Women
+7 Aruthangudi SC General
+8 Konnakkalavadi SC General
+9 Koovanur SC General
+10 Mudhalur SC General
+11 Nariyandal SC General
+12 Pazhangur SC General
+13 Thagadi SC General
+14 Thirupalapandal SC General
+15 Vadamarudur SC General
+16 Villivalam SC General
+17 Aloor General Women
+18 Arumpakkam General Women
+19 Kattupaiyur General Women
+20 Kolapparai General Women
+21 Po.meyyur General Women
+22 Mohalar General Women
+23 Mudiyanur General Women
+24 Thanaganandal General Women
+25 Thurinchipattu General Women
+26 Vadamalayanur General Women
+27 Vengur General Women
+28 Thimmachur General Women
+29 Ja. Sithamur General
+30 T.keeranur General
+31 Keezhathayanur General
+32 Komalur General
+33 Avikolappakkam General
+34 Aviyur General
+35 Deviyagaram General
+36 Edaiyur General
+37 Elrampattu General
+38 Eravalam General
+39 Kadiyar General
+40 Kanaganandal General
+41 Karadi General
+42 Kodiyur General
+43 Madampoondi General
+44 Melathayanur General
+45 Nedumudaiyan General
+46 Panappadi General
+47 Padiyandal General
+48 Ponniyandal General
+49 Poomari General
+50 Periyanur General
+51 Sangiyam General
+52 Senganankollai General
+Page 22

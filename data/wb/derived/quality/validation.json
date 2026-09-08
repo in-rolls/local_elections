@@ -1,0 +1,219 @@
+{
+  "method": "Visually transcribed from original PDF renders after parser rules were fixed. One reviewer (Codex); not double-entry human verification. Convenience sample; not a population accuracy estimate.",
+  "metrics": {
+    "nadia_2008": {
+      "expected_rows": 5,
+      "uniquely_matched_rows": 5,
+      "fields_checked": 15,
+      "fields_correct": 15
+    },
+    "alipurduar_2018": {
+      "expected_rows": 23,
+      "uniquely_matched_rows": 23,
+      "fields_checked": 168,
+      "fields_correct": 161,
+      "candidate_votes_expected": 65,
+      "candidate_rows_observed": 65,
+      "candidate_votes_correct_by_position": 63
+    }
+  },
+  "errors": [
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_page": 9,
+      "seat_no": 12,
+      "field": "votes_rejected",
+      "expected": 54,
+      "observed": null,
+      "match_count": 1
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_page": 9,
+      "seat_no": 15,
+      "field": "winner_party",
+      "expected": "BJP",
+      "observed": "BJP fy",
+      "match_count": 1
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_page": 15,
+      "seat_no": 2,
+      "field": "votes_polled",
+      "expected": 1122,
+      "observed": null,
+      "match_count": 1
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_page": 15,
+      "seat_no": 6,
+      "field": "reservation",
+      "expected": "W",
+      "observed": null,
+      "match_count": 1
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_page": 15,
+      "seat_no": 6,
+      "field": "votes_rejected",
+      "expected": 31,
+      "observed": null,
+      "match_count": 1
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_page": 15,
+      "seat_no": 6,
+      "field": "candidate_votes_in_printed_order",
+      "expected": [
+        187,
+        632
+      ],
+      "observed": [
+        null,
+        632
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_page": 15,
+      "seat_no": 9,
+      "field": "reservation",
+      "expected": "W",
+      "observed": null,
+      "match_count": 1
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_page": 15,
+      "seat_no": 9,
+      "field": "electors",
+      "expected": 883,
+      "observed": null,
+      "match_count": 1
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_page": 15,
+      "seat_no": 9,
+      "field": "candidate_votes_in_printed_order",
+      "expected": [
+        12,
+        287,
+        430
+      ],
+      "observed": [
+        12,
+        null,
+        430
+      ]
+    }
+  ],
+  "gold_rows": 28,
+  "manual_corrections_applied": 0,
+  "block_controls": [
+    {
+      "block": "Alipurduar-I",
+      "total_gp_seats": 155,
+      "uncontested_printed": 16,
+      "seats_election_held": 139,
+      "contesting_candidates": 428,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IA.PDF",
+      "source_page": 1,
+      "source_sha256": "223116f5e34c72d88739a00aa548eac0cc57e1f08216558f4fc9e2dcb9b86a1c",
+      "parsed_seat_records": 154,
+      "parsed_candidate_records": 421,
+      "candidate_count_difference": -7,
+      "seat_count_minus_election_held": 15,
+      "seat_count_minus_total_seats": -1
+    },
+    {
+      "block": "Alipurduar-II",
+      "total_gp_seats": 161,
+      "uncontested_printed": null,
+      "seats_election_held": 160,
+      "contesting_candidates": 457,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IA.PDF",
+      "source_page": 1,
+      "source_sha256": "cee41439672bb0c03c7c714df12080642bb1cc5003d9d3e207d6d22e0dfd8ce9",
+      "parsed_seat_records": 160,
+      "parsed_candidate_records": 457,
+      "candidate_count_difference": 0,
+      "seat_count_minus_election_held": 0,
+      "seat_count_minus_total_seats": -1
+    },
+    {
+      "block": "Falakata",
+      "total_gp_seats": 206,
+      "uncontested_printed": null,
+      "seats_election_held": 206,
+      "contesting_candidates": 633,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP PS ZP IA IB AND IC.PDF",
+      "source_page": 1,
+      "source_sha256": "31728b90ddaae450a322e7dc0d82c586d0a20d24641091e98690650077f183ce",
+      "parsed_seat_records": 206,
+      "parsed_candidate_records": 630,
+      "candidate_count_difference": -3,
+      "seat_count_minus_election_held": 0,
+      "seat_count_minus_total_seats": 0
+    },
+    {
+      "block": "Kalchini",
+      "total_gp_seats": 193,
+      "uncontested_printed": 9,
+      "seats_election_held": 184,
+      "contesting_candidates": 547,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+      "source_page": 1,
+      "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+      "parsed_seat_records": 183,
+      "parsed_candidate_records": 535,
+      "candidate_count_difference": -12,
+      "seat_count_minus_election_held": -1,
+      "seat_count_minus_total_seats": -10
+    },
+    {
+      "block": "Kumargram",
+      "total_gp_seats": 144,
+      "uncontested_printed": 0,
+      "seats_election_held": 144,
+      "contesting_candidates": 436,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+      "source_page": 1,
+      "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+      "parsed_seat_records": 144,
+      "parsed_candidate_records": 435,
+      "candidate_count_difference": -1,
+      "seat_count_minus_election_held": 0,
+      "seat_count_minus_total_seats": 0
+    },
+    {
+      "block": "Madarihat-Birpara",
+      "total_gp_seats": 140,
+      "uncontested_printed": 20,
+      "seats_election_held": 120,
+      "contesting_candidates": 353,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+      "source_page": 1,
+      "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+      "parsed_seat_records": 137,
+      "parsed_candidate_records": 325,
+      "candidate_count_difference": -28,
+      "seat_count_minus_election_held": 17,
+      "seat_count_minus_total_seats": -3
+    }
+  ],
+  "block_comparison_caveat": "Detail files may include uncontested rows while summary candidates refer to contested elections. Counts are not unique verified seat coverage. Differences require source review, not value imputation."
+}

@@ -7,9 +7,20 @@ is worse than one that does not change at all.
 Corrections are listed first in each release, not last. The most useful thing
 here is usually the thing that was wrong.
 
-## Unreleased
+## v0.5.0 — 2026-09-08
 
 ### Corrected
+
+- Source preservation now covers raw WB, Tamil Nadu and early-search evidence,
+  including originals and review images omitted by the parsed-table manifest
+  or ordinary Git storage. `SOURCE_MANIFEST.json` maps every evidence file to
+  a checksummed release asset; the standalone verifier checks archive members.
+- Release validation checks live repository state and sibling commit pins,
+  refusing stale provenance, missing files, changed bytes and incomplete archives.
+- Native extraction caches now require matching source hashes. Frozen OCR
+  review samples are checked against their recorded hash before reuse, so edits
+  or reordered cells cannot silently change the review population.
+
 
 - **The one Mumbai sheet that states a seat reservation states the 2012 draw,
   not 2007's.** `data/maharashtra/mumbai/BMC-2007_raw.xlsx` pairs the 2007
@@ -21,6 +32,27 @@ here is usually the thing that was wrong.
   at face value had every ward's reservation attached to the wrong council.
 
 ### Added
+
+- West Bengal source-specific exports cover historical Birbhum GP-head
+  reservations, Nadia's 2013 head/deputy roster, later office and ward schedules,
+  and election results. Office, ward, candidate and aggregate units remain
+  separate; source pages, raw readings and review decisions are retained.
+- Tamil Nadu's complete 2011 GO61 GP-president roster: 12,524 named entries,
+  31 printed districts and 385 unions. One printed reservation cell remains
+  blank, and source serial errors are flagged rather than silently repaired.
+- Tamil Nadu's 2001 GP-president amendments: 456 operations (434 replacement
+  rows, 17 insertions and five unnamed serial targets). All 451 named entries
+  received a second visual check. These amendments have not been applied to the
+  1996 base and are not a complete statewide 2001 roster. Both TN exports ship
+  as CSV and Parquet with dictionaries and source-linked evidence; they remain
+  outside the common master and do not identify winner sex.
+- All 132 selected pages of the 1996/2001 early TN scans have preserved OCR
+  artifacts. OCR alone is not a parsed roster. Additional early-state sources
+  are preserved with acquisition and exclusion ledgers.
+- The pooled rural master now contains 992,541 seat events, including the
+  2,021 Rajasthan Zila Parishad seats added since v0.4.0. Supplemental WB and
+  TN exports have distinct row units and are not added to that total.
+
 
 - **Maharashtra enters the schema with Mumbai's 2012 and 2017 councils: 454
   `ulb_ward` seats, 227 per council.** The 2012 reservation comes from the sheet
@@ -34,7 +66,7 @@ here is usually the thing that was wrong.
   shares, the 2012 reservation against the deposit's flag (ward 172 is the one
   disagreement and is kept as printed), and winner names against the deposit's
   councillors. Urban rows are excluded from the pooled master by design, so the
-  rural total of 990,520 does not move.
+  rural total is unaffected by the Mumbai addition.
 
 - **Supplemental Mumbai files that carry no reservation column and stay out of
   the pooled machinery:** the 2007 seats with the women's flag only

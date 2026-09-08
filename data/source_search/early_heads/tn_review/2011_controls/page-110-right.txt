@@ -1,0 +1,54 @@
+1 2 3
+Avudaiyarkoil Panchayat Union Contd...
+21 Senganam General
+22 Nattanipurasakudi General
+23 Palavarasan General
+24 Vettanur General
+25 Perunavalur General
+26 Thirupunavasal General
+27 Kathiramangalam General
+28 Theeyur General
+29 Thiruperunthurai General
+30 Thondaimanendal General
+31 Sattiyakudi General
+32 Amaradakki General
+33 Theeyathur General
+34 Pandipathiram General
+35 Keelacheri General
+GANDARVAKKOTTAI PANCHAYAT UNION
+1 Nadupatti SC(Women)
+2 Sangamviduthy SC(Women)
+3 Athangaraividuthy SC(Women)
+4 Pudupatti SC(Women)
+5 Kulathur SC(General )
+6 Nodiyur SC(General )
+7 Periyakkottai SC(General )
+8 Kurumpoondi SC(General )
+9 Viralipatti SC(General )
+10 Pudunagar SC(General )
+11 Pisanathur General(Women)
+12 Mattangal General(Women)
+13 Kallakkottai General(Women)
+14 Thurusupatti General(Women)
+15 Andanur General(Women)
+16 Veeradipatti General(Women)
+17 Thuvar General(Women)
+18 Gandarvakkottai General(Women)
+19 Namburanpatti General
+20 Thatchankurichi General
+21 Vadugapatti General
+22 Sundampatty General
+23 Akkatchipatty General
+24 Vellalaviduthy General
+25 Neppugai General
+26 Manganoor General
+27 Nathamadipatty General
+28 Palayagandarvakottai General
+29 Kattunaval General
+30 Ariyanipatty General
+31 Aravampatti General
+32 Mudhukulam General
+33 Manjapettai General
+34 Punakulam General
+35 Pallavarampatti General
+36 Komapuram General

@@ -1,0 +1,47 @@
+1 2 3
+Kollihills Panchayat Union Contd.,
+3 Gunduni Nadu ST (Women)
+4 Ariyur Nadu ST (Women)
+5 Thinnanur Nadu ST (Women)
+6 Perakkarai Nadu ST (General)
+7 Bail Nadu ST (General)
+8 Edappuli Nadu ST (General)
+9 Alathur Nadu ST (General)
+10 Gundur Nadu ST (General)
+11 Selur Nadu ST (General)
+12 Devanur Nadu ST (General)
+13 Valappur Nadu ST (General)
+14 Valavanthi Nadu General
+Mallasamudram Panchayat Union
+1 Avinasipatty SC (Women)
+2 Palamedu SC (Women)
+3 Sarkar Mamundi SC (General)
+4 Karungalpatty Agraharam SC (General)
+5 Kottapalayam SC (General)
+6 Munjanur SC (General)
+7 Pillanatham SC (General)
+8 Kuppichipalayam General (Women)
+9 Morangam General (Women)
+10 Paruthipalli General (Women)
+11 I.Pudupalayam General (Women)
+12 Karumanur General (Women)
+13 Kolankondai General (Women)
+14 Ramapuram General (Women)
+15 Kallupalayam General
+16 Mangalam General
+17 Pallakuli Agraharam General
+18 Pallakuli General
+19 Koothanatham General
+20 Mallasamudram west General
+21 Mamundi agraharam General
+22 Minnampalli General
+23 Marapparai General
+24 Nagarpalayam General
+25 Sappayapuram General
+26 Senbagamadevi General
+27 Vandinatham General
+Mohanur Panchayat Union
+1 Komarapalayam SC(Women)
+2 Andapuram SC(Women)
+3 Madakasampatty SC(General)
+Page 58

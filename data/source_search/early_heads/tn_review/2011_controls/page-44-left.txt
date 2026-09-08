@@ -1,0 +1,49 @@
+1 2 3
+Kilpennathur Panchayat Union Contd.,
+13 Arumbakkam General(Women)
+14 Avoor General(Women)
+15 Ganapapuram General(Women)
+16 Na.Gengapattu General(Women)
+17 Kadambai General(Women)
+18 Kallayee General(Women)
+19 Kathazhampattu General(Women)
+20 Konalur General(Women)
+21 Nadazhaganadal General(Women)
+22 Panniyur General(Women)
+23 Rajanthangal General(Women)
+24 Anukkumalai General
+25 Aranji General
+26 Chellankuppam General
+27 Gudalur(Z) General
+28 Iyangunam General
+29 Kalpoondi General
+30 Kaniyampoondi General
+31 Karikilambadi General
+32 Kattumalaiyanoor General
+33 Kazhikulam General
+34 Keeranur General
+35 Mekkalur General
+36 Neelanthangal General
+37 So.Namiyandal General
+38 Neivanatham General
+39 Rayampettai General
+40 Sevarapoondi General
+41 Somasipadi General
+42 Su.Polakkunam General
+43 Vazhuthalangunam General
+44 Vayalur General
+45 Velanandal General
+Thurinjapuram Panchayat Union
+1 Pudumallavadi ST(General)
+2 Arpakkam SC(Women)
+3 Andapattu (V) SC(Women)
+4 Northampoondi SC(Women)
+5 Salaiyanur SC(Women)
+6 Naidumangalam SC(General)
+7 Mallappa Nayakkam Palayam SC(General)
+8 Inamkariyandal SC(General)
+9 Kolakaravadi SC(General)
+10 Meppathurai SC(General)
+11 Vallivagai SC(General)
+12 Kothanthavadi General(Women)
+Page 42

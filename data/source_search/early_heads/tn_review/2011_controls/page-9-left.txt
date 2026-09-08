@@ -1,0 +1,57 @@
+1 2 3
+CHITHAMUR PANCHAYAT UNION
+1 Chithamur ST (General)
+2 Vannianallur SC (Women)
+3 Chunampet SC (Women)
+4 Easur SC (Women)
+5 Kayapakkam SC (Women)
+6 Sothupakkam SC (Women)
+7 Thenpakkam SC (Women)
+8 Puthirankottai SC (Women)
+9 Polambakkam SC (Women)
+10 Maluvankaranai SC (General)
+11 Magundagiri SC (General)
+12 Nerkunam SC (General)
+13 Perambakkam SC (General)
+14 Perukkaranai SC (General)
+15 Sirumailur SC (General)
+16 Arappedu SC (General)
+17 Keelmaruvathur SC (General)
+18 Melmaruvathur SC (General)
+19 Vedal SC (General)
+20 Mambakkam SC (General)
+21 Nugumbal SC (General)
+22 Thandalam SC (General)
+23 Chinnakayapakkam General (Women)
+24 Periyakalakadi General (Women)
+25 Sirunagar General (Women)
+26 Agaram General (Women)
+27 Chitharkadu General (Women)
+28 Kadukalur General (Women)
+29 Kalpattu General (Women)
+30 Indalur General
+31 Irumbili General
+32 Pondur General
+33 Poongunam General
+34 Puliyani General
+35 Vilangadu General
+36 Amandankaranai General
+37 23. Kolathur General
+38 Parukkal General
+39 Poraiyur General
+40 Ammanambakkam General
+41 57. Kolathur General
+42 Porur General
+43 Puthur General
+LATHUR PANCHAYAT UNION
+1 Nemandam SC (Women)
+2 Akinambedu SC (Women)
+3 Vadapattinam SC (Women)
+4 Nelvoypalayam SC (Women)
+5 Sengattur SC (Women)
+6 Thiruvathur SC (Women)
+7 Paramesvaramangalam SC (General)
+8 Nedumaram SC (General)
+9 Thandarai SC (General)
+10 Kalkulam SC (General)
+Page 7

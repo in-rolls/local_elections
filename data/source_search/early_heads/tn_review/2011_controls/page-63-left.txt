@@ -1,0 +1,37 @@
+DHARMAP
+Reservation of Villag
+Reservation of seats for Scheduled Tribes / Schedule
+in Tamil
+Sl. NO Name of the Village Panchayat Category to which
+reservation is made
+1 2 3
+DHARMAPURI PANCHAYAT UNION
+1 Konanginaikanahally SC (women)
+2 Veppilai Muthampatty SC (General)
+3 Pulithikariai SC (General)
+4 Kadagathur General (Women)
+5 Adagapady General (Women)
+6 Lakkiampatti General (Women)
+7 A.Gollahally General (Women)
+8 Kondampatty General (Women)
+9 K. Naduhally General (Women)
+10 Hale Dharmapuri General (Women)
+11 Nallasennahally General (Women)
+12 Andhihally General (Women)
+13 Mookkanur General
+14 Vellalapatti General
+15 Koduhally General
+16 Kondagarahally General
+17 Sogathur General
+18 Kuppur General
+19 Vellolai General
+20 Krishnapuram General
+21 Semmandakuppan General
+22 Settikarai General
+23 Thippireddyhalli General
+24 Noolahalli General
+25 Mukkalnaikkannahally General
+26 Naickanahalli General
+27 Ungaranahalli General
+28 Akkamanahally General
+Page 61

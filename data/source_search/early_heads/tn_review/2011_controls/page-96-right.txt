@@ -1,0 +1,23 @@
+1 2 3
+MANAPPARAI PANCHAYAT UNION
+1 Chithanatham SC (Women)
+2 Chettiyapatti SC (Women)
+3 K.Periyapatti SC (General)
+4 Mondipatti SC (General)
+5 F.Keelaiyur General (Women)
+6 Karuppur General (Women)
+7 Podangupatti General (Women)
+8 Sooliyapatti General (Women)
+9 Usilampatti General (Women)
+10 Poigaipatti General
+11 Kalingapatti General
+12 Kannudaiyanpatti General
+13 Malayadipatti General
+14 Pannapatti General
+15 Puthanatham General
+16 Sampatti General
+17 Samudram General
+18 Seegampatti General
+19 Thoppampatti General
+20 Vadugapatti General
+21 Vengaikurichi General

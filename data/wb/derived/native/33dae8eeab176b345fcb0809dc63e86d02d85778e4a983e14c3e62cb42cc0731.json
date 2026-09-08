@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "sha256": "33dae8eeab176b345fcb0809dc63e86d02d85778e4a983e14c3e62cb42cc0731",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "FORM – A1\n[ See rule 23(4) ]\nO R D E R\nNo. 248 (7) /P&RD Dated : 07.02.2008\nIn exercise of the power conferred by sections 12 and 17 of the West Bengal Panchayat\nElections Act. 2003 (West Bengal Act XXI of 2003) read with rules 22 and 23 of the West Bengal\nPanchayat Election Rules, 2006, I, the District Panchayat Election Officer and District Magistrate of\nthe district of Nadia, as the prescribed authority appointed by the State Government in the\nDepartment of Panchyats and Rural Development under notification No.623-PN/O/I/3R-3/2004\nDated 09.02.2007 for the purpose of rules 22 and 23 of the said rules , hereby determine, after\nprevious publication of the draft of this order as required under the said rules for the Grams\nspecified in column (1) of the schedule below, the total number of members, Scheduled Castes\nmembers , Scheduled Tribes members and women members to be elected to such Gram Panchayats\nspecified in the corresponding entries in columns (2a), (2b),(2c) and (2d) respectively, to divide the\narea of the Grams into constituencies with serial numbers assigned to them specified in the\ncorresponding entries in column (3), to allocate to each such constituency seat or seats specified in\nthe corresponding entries in column(4), seat or seats reserved for the Scheduled Castes or the\nScheduled Tribes persons specified in the corresponding entries in column(5), and seat or seats\nreserved for women specified in the corresponding entries in column (6) of the Schedule.",
+      "tables": [],
+      "images": 0,
+      "characters": 1547
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "(FORM-A1)\nThe Schedule\nBLOCK : KRISHNAGAR-II\nNumber of members to be elected in the Gram Panchayat\nScheduled\nName of the Gram Total number of Scheduled\nTribes Women members\nmembers Castes members\nmembers\n1 (2a) (2b) (2c) (2d)\nNaopara-II 10 1 0 4\nSeats allocated to Seats reserved for\nSeats reserved for\nNumber, Name and area of constituencies each constituency Schedule Castes or\nwomen against serial\nwith serial numbers with serial Schedule Tribes against\nnumber of seats\nnumbers serial number of seats\n(3) (4) (5) (6)\nNaopara-II/I\nMouza : Pathradaha, J.L. No. – 25,\n1. Pathradaha Purbapara\n1 - 1(W)\n2. Pathradaha Dakshinpara\n3. Pathradaha Paschimpara\nAssembly Part No. – 76/38\nNaopara-II/II\nMouza : Sonatala, J.L. No. – 26,\n1. Sonatala Daspara Paschimpara\n2. Sonatala Daspara Uttarpara 2 2(SC) 2[SC(W)]\n3. Sonatala Shaikhpara\n4. Sonatala Mallickpara\nAssembly Part No. – 76/39\nNaopara-II/III\nMouza : Sonatala, J.L. No. – 26,\n1. Sonatala Uttarpara,\n2.Sonatala Purbapara\n3,4 - -\n3.Sonatala Dakshinpara\n4.Sonatala Madhyapara\n5. Sonatala Uttarpara,\nAssembly Part No. – 76/40\nNaopara-II/IV\nMouza : Sonatala, J.L. No. – 26\n1. Kalinagar Biswaspara\n5 - 5(W)\n2. Kalinagar Mondalpara\n3. Kalinagar Shaikhpara\nAssembly Part No. – 76/41\n1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            21.998880000000003,
+            125.86919999999998,
+            603.3501653999999,
+            238.30080000000004
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nmembers",
+              "Scheduled\nCastes members",
+              "Scheduled\nTribes\nmembers",
+              "Women members"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Naopara-II",
+              "10",
+              "1",
+              "0",
+              "4"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            21.998880000000003,
+            252.5784,
+            603.3501653999999,
+            697.14192
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved for\nwomen against serial\nnumber of seats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Naopara-II/I\nMouza : Pathradaha, J.L. No. – 25,\n1. Pathradaha Purbapara\n2. Pathradaha Dakshinpara\n3. Pathradaha Paschimpara\nAssembly Part No. – 76/38",
+              "1",
+              "-",
+              "1(W)"
+            ],
+            [
+              "Naopara-II/II\nMouza : Sonatala, J.L. No. – 26,\n1. Sonatala Daspara Paschimpara\n2. Sonatala Daspara Uttarpara\n3. Sonatala Shaikhpara\n4. Sonatala Mallickpara\nAssembly Part No. – 76/39",
+              "2",
+              "2(SC)",
+              "2[SC(W)]"
+            ],
+            [
+              "Naopara-II/III\nMouza : Sonatala, J.L. No. – 26,\n1. Sonatala Uttarpara,\n2.Sonatala Purbapara\n3.Sonatala Dakshinpara\n4.Sonatala Madhyapara\n5. Sonatala Uttarpara,\nAssembly Part No. – 76/40",
+              "3,4",
+              "-",
+              "-"
+            ],
+            [
+              "Naopara-II/IV\nMouza : Sonatala, J.L. No. – 26\n1. Kalinagar Biswaspara\n2. Kalinagar Mondalpara\n3. Kalinagar Shaikhpara\nAssembly Part No. – 76/41",
+              "5",
+              "-",
+              "5(W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1252
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "Seats allocated to Seats reserved for Seats reserved for\nNumber, Name and area of constituencies each constituency Schedule Castes or women against\nwith serial numbers with serial Schedule Tribes against serial number of\nnumbers serial number of seats seats\n(3) (4) (5) (6)\nNaopara-II/V\nMouza : Sonatala, J.L. No. – 26\n1. Kalinagar Purba ( Daspara\nDhakipara) 6,7 - -\n2. Kalinagar Purba(Purbapara)\n3. Kalinagar Purba(Natunpara)\nAssembly Part No. – 76/42\nNaopara-II/VI\nMouza : Charmahatpur, J.L. No. – 27\n8 8(W)\n1. Charmahatpur\nAssembly Part No. – 76/43\nNaopara-II/VII\nMouza : Chuakhali, J.L. No. – 23\n1. Chuakhali Ghoshpara\n9 - -\n2. Chuakhali Madhyapara\n3. Chuakhali Dhekipara\nAssembly Part No. – 76/44\nNaopara-II/VIII\nMouza : Rupdaha, J.L. No. – 24\n1. Rupdaha Purbapara\n10 - -\n2. Rupdaha Madhyapara\n3. Rupdaha Paschimpara\nAssembly Part No. – 76/45\nDate : 07-02-2008\nDistrict Panchayat Election Officer\nSeal\n&\nDistrict Magistrate, Nadia\n2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            45.03708,
+            77.63400000000001,
+            599.3904,
+            467.0016
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Naopara-II/V\nMouza : Sonatala, J.L. No. – 26\n1. Kalinagar Purba ( Daspara\nDhakipara)\n2. Kalinagar Purba(Purbapara)\n3. Kalinagar Purba(Natunpara)\nAssembly Part No. – 76/42",
+              "6,7",
+              "-",
+              "-"
+            ],
+            [
+              "Naopara-II/VI\nMouza : Charmahatpur, J.L. No. – 27\n1. Charmahatpur\nAssembly Part No. – 76/43",
+              "8",
+              "",
+              "8(W)"
+            ],
+            [
+              "Naopara-II/VII\nMouza : Chuakhali, J.L. No. – 23\n1. Chuakhali Ghoshpara\n2. Chuakhali Madhyapara\n3. Chuakhali Dhekipara\nAssembly Part No. – 76/44",
+              "9",
+              "-",
+              "-"
+            ],
+            [
+              "Naopara-II/VIII\nMouza : Rupdaha, J.L. No. – 24\n1. Rupdaha Purbapara\n2. Rupdaha Madhyapara\n3. Rupdaha Paschimpara\nAssembly Part No. – 76/45",
+              "10",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 995
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

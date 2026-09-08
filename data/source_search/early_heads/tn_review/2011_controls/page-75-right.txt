@@ -1,0 +1,12 @@
+4 5 6
+Thondamuthur Panchayat Union
+1 Devarayapuram SC(Women)
+2 Thennamanallur SC(General)
+3 Jagirnaickenpalayam General(Women)
+4 Madampatti General(Women)
+5 Theethipalayam General(Women)
+6 Madvarayapuram General
+7 Narasipuram General
+8 Perurchettipalayam General
+9 Vellimalaipatinam General
+10 Ikkarai Boluvampatti General

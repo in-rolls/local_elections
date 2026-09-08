@@ -43,7 +43,7 @@ GROUPS = {
     "Gujarat": ["gujarat"],
     "Madhya Pradesh": ["madhya_pradesh"],
     "Odisha": ["odisha"],
-    "Tamil Nadu": ["tamil_nadu"],
+    "Tamil Nadu": ["tamil_nadu", "tn"],
     "Chandigarh, Puducherry, Delhi": ["chandigarh", "puducherry", "delhi"],
     "**Karnataka**": ["karnataka"],
     "Assam": ["assam"],
@@ -61,14 +61,21 @@ HELD = {
     "**Andhra Pradesh**": "**2020 district gazettes: GP, MPTC, ZPTC, MPP reservation**",
     "**Goa**": "**2012/2017/2022 `panres_<taluka>` panchayat reservation + "
     "ward category**",
-    "West Bengal": "2018 SEC delimitation-and-reservation gazettes, per "
-    "district - parsed, 825 zilla parishad seats",
+    "West Bengal": "2018 ZP gazettes parsed with drafts separate; named Birbhum "
+    "1998/2003 research reservations and 2013/2018/2023 office schedules parsed; "
+    "ward, results and reference outputs retain review flags; "
+    "[reservation gaps](data/wb/vintage_search/README.md); "
+    "[GP source search](data/wb/gp_source_search.md), "
+    "[derived GP data and review](data/wb/derived/README.md)",
     "Gujarat": "**2020 SEC rotation orders: 16 district-panchayat and 29 "
     "taluka-panchayat PDFs; parsed into 1,178 seats**",
     "Madhya Pradesh": "two large OmniPage-OCR'd volumes",
     "Odisha": "2017 reservation of sarpanch/ward member - **district totals, "
     "not seat-level**",
-    "Tamil Nadu": "gazettes, but **municipal/corporation**, not village panchayat",
+    "Tamil Nadu": "municipal/corporation gazettes plus GP-president reservations; "
+    "[2011 roster and 2001 amendment exports](data/tn/readme.md) remain separate "
+    "from pooled rows; originals and earlier leads are in the "
+    "[cross-state source ledger](data/source_search/early_heads/README.md)",
     "Chandigarh, Puducherry, Delhi": "mostly urban local bodies",
     "**Karnataka**": "**2016 taluk & zilla panchayat winners with party**; "
     "plus `Karnataka_GP_ReservationHistory.dta`. 244 of the "

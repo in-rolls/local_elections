@@ -1,0 +1,673 @@
+{
+  "complete": true,
+  "sample_size": 200,
+  "predictions_available": 200,
+  "missing_sample_ids": [],
+  "design": {
+    "seed": 20260907,
+    "sample_size": 200,
+    "eligible_frame_cells": 2921,
+    "excluded_previous_pilot_cells": 29,
+    "strata": 70,
+    "allocation": "round-robin approximately equal allocation to nonempty strata; inverse inclusion weights retained",
+    "frozen_utc": "2026-09-08T01:40:46.689139+00:00",
+    "sample_sha256": "09c4177722095647733818367d4e3ca8e061737984d625ff95e8cb20fe79f967",
+    "scope": "Acquired GP Pradhan/deputy office cells; excludes block/district offices and known block headings. Provisional positive/blank strata use parser labels, not gold."
+  },
+  "independent_overlap": [
+    {
+      "sample_id": 1,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 2,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 3,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 4,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": "Bonsanka",
+            "category": "W",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": "Bonsanka",
+            "category": "W",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 5,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": "KOHINOOR",
+            "category": "W",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": "KOHINOOR",
+            "category": "W",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 6,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 7,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": "Gitaldaha-II",
+            "category": "SC",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": "Gitaldaha-II",
+            "category": "SC",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 8,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 9,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 10,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 101,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": "Fulbari-II",
+            "category": "SC",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": "Fulbari-II",
+            "category": "SC",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 102,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": "Dakhalbati",
+            "category": "W",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": "Dakhalbati",
+            "category": "W",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 103,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": "BANCHUKAMARI",
+            "category": "ST",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": "BANCHUKAMARI",
+            "category": "ST",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 104,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 105,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": "Rungamuttee",
+            "category": "W",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": "Rungamuttee",
+            "category": "W",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 106,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": "Kursamari",
+            "category": "SC",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": "Kursamari",
+            "category": "SC",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 107,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": "Chandaneswar-I",
+            "category": "SC",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": "Chandaneswar-I",
+            "category": "SC",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 108,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": "Kalyanpur",
+            "category": "W",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": "Kalyanpur",
+            "category": "W",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 109,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": null,
+            "category": null,
+            "blank": true,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    },
+    {
+      "sample_id": 110,
+      "agrees": true,
+      "readings": [
+        [
+          "gold_a.json",
+          {
+            "name": "SALKUMAR II",
+            "category": "ST",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ],
+        [
+          "gold_b.json",
+          {
+            "name": "SALKUMAR II",
+            "category": "ST",
+            "blank": false,
+            "name_ambiguous": false,
+            "category_ambiguous": false,
+            "blank_ambiguous": false
+          }
+        ]
+      ]
+    }
+  ],
+  "reference_method": "Blinded visual agents; 20 overlap cells; not human double entry",
+  "reference_file_sha256": {
+    "gold_a.json": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+    "gold_b.json": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea"
+  },
+  "adjudicated_sample_ids": [],
+  "model_digest": "5ced39dfa4bac325dc183dd1e4febaa1c46b3ea28bce48896c8e69c1e79611cc",
+  "prompt_sha256": "e747db3c1ff8f5e2ed47cec2266b51cdae006b573cfd6dbfd0ee7eadec5d7903",
+  "invalid_model_responses": 9,
+  "invalid_on_blank": 9,
+  "metric_scope": "Complete frozen sample",
+  "normalization": "Case and repeated whitespace only; Roman numerals preserved",
+  "field_extraction": "Terminal category markers and their separators are removed from names. After source review, separator parsing was fixed to accept whitespace after a hyphen (sample 194); internal name hyphens remain intact. Frozen references and raw model predictions were not changed.",
+  "caution": "Equal allocation across 70 strata is not a self-weighting sample. Weighted fractions describe the acquired eligible cell frame only. These are comparisons with visual references, not certified accuracy.",
+  "metrics": {
+    "qwen": {
+      "name_correct": {
+        "numerator": 102,
+        "denominator": 105,
+        "excluded": 95,
+        "design_weighted_fraction": 0.959716838024608
+      },
+      "category_correct": {
+        "numerator": 189,
+        "denominator": 200,
+        "excluded": 0,
+        "design_weighted_fraction": 0.9532123701928564
+      },
+      "positive_category_correct": {
+        "numerator": 105,
+        "denominator": 106,
+        "excluded": 94,
+        "design_weighted_fraction": 0.9867204572197008
+      },
+      "blank_correct": {
+        "numerator": 187,
+        "denominator": 200,
+        "excluded": 0,
+        "design_weighted_fraction": 0.9520712084902431
+      },
+      "false_positive_on_blank": {
+        "numerator": 4,
+        "denominator": 85,
+        "excluded": 115,
+        "design_weighted_fraction": 0.052256532066508314,
+        "denominator_definition": "Unambiguously blank references with valid model responses; invalid responses are excluded, not labelled hallucinations"
+      },
+      "whole_cell_correct": {
+        "numerator": 182,
+        "denominator": 199,
+        "excluded": 1,
+        "design_weighted_fraction": 0.9156282153881331
+      }
+    },
+    "tesseract_baseline": {
+      "name_correct": {
+        "numerator": 83,
+        "denominator": 105,
+        "excluded": 95,
+        "design_weighted_fraction": 0.7444800269678071
+      },
+      "category_correct": {
+        "numerator": 200,
+        "denominator": 200,
+        "excluded": 0,
+        "design_weighted_fraction": 1.0
+      },
+      "positive_category_correct": {
+        "numerator": 106,
+        "denominator": 106,
+        "excluded": 94,
+        "design_weighted_fraction": 1.0
+      },
+      "blank_correct": {
+        "numerator": 199,
+        "denominator": 200,
+        "excluded": 0,
+        "design_weighted_fraction": 0.9946365399977177
+      },
+      "false_positive_on_blank": {
+        "numerator": 1,
+        "denominator": 94,
+        "excluded": 106,
+        "design_weighted_fraction": 0.016702203269367447,
+        "denominator_definition": "Unambiguously blank references with valid model responses; invalid responses are excluded, not labelled hallucinations"
+      },
+      "whole_cell_correct": {
+        "numerator": 176,
+        "denominator": 199,
+        "excluded": 1,
+        "design_weighted_fraction": 0.8213101634846233
+      }
+    }
+  }
+}

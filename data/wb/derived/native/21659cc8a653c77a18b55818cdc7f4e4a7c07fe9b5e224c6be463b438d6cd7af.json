@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "sha256": "21659cc8a653c77a18b55818cdc7f4e4a7c07fe9b5e224c6be463b438d6cd7af",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "(FORM-`A1`)\n[(See rule 23 (1)]\nO R D E R.\nNo 255 (10) /P&RD Dated 07.02.2008\nIn exercise of the power Conferred by sections 12 & 17 of the West Bengal Panchayat Election Act,2003 (West Ban.ActXXI of 2003 ) , read with rules 22 & 23 of\nthe West Bengal Panchayat Election Rules 20006 ,I, the District Panchayat Election Officer & District Magistrate of the District of Nadia as the prescribed\nauthority appointed by the State Government in the Department of Panchayats and Rural Development under notification No 623-PN/O/I/3R-3/2004 dated\n09/02/2007 for the purpose of rules 22and 23 of the said rules ,hereby publish the draft of this order to determine for the Grams specified in column (1) of the\nSchedule below, the total number of members, Scheduled Castes members, Scheduled Tribes members and women members to be elected to such Gram\nPanchayats specified in the corresponding entries in columns (2a), (2b), (2c) and (2d) respectively, to divide the area of the Grams into constituencies with serial\nnumbers assigned to them specified in the corresponding entries in column (3), to allocate to each such constituency seat or seats specified in the corresponding\nentries in column (4), seat or seats reserved for the Scheduled Castes or the scheduled tribes persons specified in the corresponding entries in column (5), and seat\nor seats reserved for women specified in the corresponding entries in column (6), of the Schedule, for information of persons likely to be affected thereby.\nThe draft will be taken up for consideration after fifteen days from this day and any objection of suggestion with respect thereto, which may be received by the\nundersigned within the said period, shall be duly considered.",
+      "tables": [],
+      "images": 0,
+      "characters": 1840
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE\nBLOCK:- HARINGHATA\nNumber of members to be elected in the Seats reserved for Seats\nGram Panchayat Seats allocated Scheduled reserved\nName of\nto each Castes or for Women\nGram Schedule Number , name & area of Constituencies with\nTotal Scheduled Women Constituencies Scheduled Tribes against\nd Serial numbers\nnumber of Castes membe with Serial against Serial\nTribes\nmembers member r number of seats Serial number of number of\nmember\nSeats Seats\n1 2(a) 2(b) 2(c) 2(d) 3 4 5 6\nPart no 83/118 Total voter 677\nBirohi- II /I 1 -- 1 Women\nMouza :- Bahir sonakhali\nJ.L No :-15\nBirohi -II 11 6 Nil 4 Area:-a) Uttar para\nb) Dakshin para\nPart no 83/119 Total voter 784\nBirohi- II /II 2 ---- ---\nMouza :- Uttar Rajapur\nJ.L No :-12\nArea:-a) Uttar Rajapur chintamani para\nb) Uttar Rajapur azadi para\nPart no 83/120 Total voter 822\nBirohi- II /III\nMouza :- Uttar Rajapur\nJ.L No :-12 3 3 SC 3 SC\nArea:-a) Uttar Rajapur Radhagobinda para (Women)",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            131.78999999999996,
+            770.616,
+            484.97999999999996
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number of members to be elected in the\nGram Panchayat",
+              null,
+              null,
+              null,
+              "Number , name & area of Constituencies with\nSerial numbers",
+              "Seats allocated\nto each\nConstituencies\nwith Serial\nnumber of seats",
+              "Seats reserved for\nScheduled\nCastes or\nScheduled Tribes\nagainst\nSerial number of\nSeats",
+              "Seats\nreserved\nfor Women\nagainst\nSerial\nnumber of\nSeats"
+            ],
+            [
+              null,
+              "Total\nnumber of\nmembers",
+              "Scheduled\nCastes\nmember",
+              "Schedule\nd\nTribes\nmember",
+              "Women\nmembe\nr",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2(a)",
+              "2(b)",
+              "2(c)",
+              "2(d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Birohi -II",
+              "11",
+              "6",
+              "Nil",
+              "4",
+              "Part no 83/118 Total voter 677\nBirohi- II /I\nMouza :- Bahir sonakhali\nJ.L No :-15\nArea:-a) Uttar para\nb) Dakshin para",
+              "1",
+              "--",
+              "1 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/119 Total voter 784\nBirohi- II /II\nMouza :- Uttar Rajapur\nJ.L No :-12\nArea:-a) Uttar Rajapur chintamani para\nb) Uttar Rajapur azadi para",
+              "2",
+              "----",
+              "---"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/120 Total voter 822\nBirohi- II /III\nMouza :- Uttar Rajapur\nJ.L No :-12\nArea:-a) Uttar Rajapur Radhagobinda para",
+              "3",
+              "3 SC",
+              "3 SC\n(Women)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1051
+    },
+    {
+      "page": 3,
+      "width": 792,
+      "height": 612,
+      "text": "Part no 83/121 Total voter 1133\nBirohi- II /IV\nMouza :- Darappur and Chakbirohi\nJ.L No :-13/14 4 --------- -----\nArea:-a) Darappur Uttar Para\nb) Darappur Dakshin para\nc) Chak Birohi (sampurna)\nPart no 83/122 Total voter 790\nBirohi- II /V --\nMouza :-Bizra\nJ.L No :-18 5 5 SC\nArea:-a) Bizra Harisabha para\nb) Bizra ghosh para\nPart no 83/123 Total voter :-504\nBirohi- II /VI 6 6 SC ----\nMouza :-Bizra\nJ.L No :-18\nArea:-a) Bizra Kanai pukur danga\nPart no 83/124 Total voter :-690\nBirohi- II /VII 7 7 SC 7 SC\nMouza :-Paschim satbria (Women)\nJ.L No :-19\nArea:-a) Paschim satbria Sampurna\nPart no 83/125 Total voter :-602\nBirohi- II /VIII\nMouza :-Parmajdia 8 8 SC --\nJ.L No :-17\nArea:-a) Parmajdia Sampurna",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            66.75515999999999,
+            770.616,
+            497.82489653999994
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Part no 83/121 Total voter 1133\nBirohi- II /IV\nMouza :- Darappur and Chakbirohi\nJ.L No :-13/14\nArea:-a) Darappur Uttar Para\nb) Darappur Dakshin para\nc) Chak Birohi (sampurna)",
+              "4",
+              "---------",
+              "-----"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/122 Total voter 790\nBirohi- II /V\nMouza :-Bizra\nJ.L No :-18\nArea:-a) Bizra Harisabha para\nb) Bizra ghosh para",
+              "5",
+              "5 SC",
+              "--"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/123 Total voter :-504\nBirohi- II /VI\nMouza :-Bizra\nJ.L No :-18\nArea:-a) Bizra Kanai pukur danga",
+              "6",
+              "6 SC",
+              "----"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/124 Total voter :-690\nBirohi- II /VII\nMouza :-Paschim satbria\nJ.L No :-19\nArea:-a) Paschim satbria Sampurna",
+              "7",
+              "7 SC",
+              "7 SC\n(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/125 Total voter :-602\nBirohi- II /VIII\nMouza :-Parmajdia\nJ.L No :-17\nArea:-a) Parmajdia Sampurna",
+              "8",
+              "8 SC",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 917
+    },
+    {
+      "page": 4,
+      "width": 792,
+      "height": 612,
+      "text": "Part no 83/126 Total voter :-1488\nBirohi- II /IX\nMouza :-Naryanpur\nJ.L No :-10\nArea:-a) Naryanpur Majher para 9 ------- 9\nb) Naryanpur Metho para Women\nPart no 83/127 Total voter :-1567\nBirohi- II /X\nMouza :-Naryanpur & Dakshin Rajapur 10 10 SC ----\nJ.L No :-10 &11\nArea:-a) Naryanpur Beler Math\nb) Naryanpur para, c) Dakshin Rajapur (Full) 11 ----- -----\nDISTRICT PANCHAYAT ELECTION OFFICER\n&\nDate : 07.02.2008\nDISTRICT MAGISTRATE, NADIA",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            131.78999999999996,
+            770.616,
+            340.57199999999995
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Part no 83/126 Total voter :-1488\nBirohi- II /IX\nMouza :-Naryanpur\nJ.L No :-10\nArea:-a) Naryanpur Majher para\nb) Naryanpur Metho para",
+              "9",
+              "-------",
+              "9\nWomen"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/127 Total voter :-1567\nBirohi- II /X\nMouza :-Naryanpur & Dakshin Rajapur\nJ.L No :-10 &11\nArea:-a) Naryanpur Beler Math\nb) Naryanpur para, c) Dakshin Rajapur (Full)",
+              "10\n11",
+              "10 SC\n-----",
+              "----\n-----"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 544
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 4
+}

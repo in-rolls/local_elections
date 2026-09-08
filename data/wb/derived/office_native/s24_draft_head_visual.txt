@@ -1,0 +1,275 @@
+PAGE 1
+#Basanti
+-|Chunakhali
+-|Masjidbati
+Charavidya:SC|Charavidya
+-|Kanthalberia
+Ramchandrakhali:ST|-
+-|Uttar Mokamberia
+Basanti:SC|Basanti
+Jyotishpur:ST|-
+-|Nafargunj
+Jharkhali:SC|Jharkhali
+PAGE 2
+#Gosaba
+Sambhunagar:SC|-
+-|Pathankhali
+Bipradaspur:SC|Bipradaspur
+-|Radhanagar Taranagar
+Kumirmari:SC|-
+-|Chotta Mollakhali
+Rangabelia:SC|Rangabelia
+Satjelia:SC|-
+-|Lahiripur
+Bali-I:SC|Bali-I
+#Canning-II
+Atharabanki:BC|-
+-|Deuli-II
+Kalikatala:BC|Kalikatala
+Tambuldaha-I:SC|-
+-|Motherdighi
+#Kultali
+Merigunge-I:BC|-
+Kundakhali Godabar:SC|Kundakhali Godabar
+Jalaberia-I:SC|-
+Jalaberia-II:SC|-
+-|Gopalgunj
+Deulbari Debipur:ST|-
+Gurguria Bhubaneswari:SC|-
+Maipith Baikunthapur:BC|Maipith Baikunthapur
+PAGE 3
+#Joynagar-II
+Baishata:BC|Baishata
+Monirtat:SC|Monirtat
+Nalgora:BC|Nalgora
+Mayahowri:SC|-
+Gordewani:BC|Gordewani
+-|Sahajadapur
+Futigoda:BC|-
+Beledurganagar:SC|Beledurganagar
+#Patharpratima
+Dakshin Gangadharpur:SC|-
+-|Dakshin Roypur
+Digambarpur:BC|Digambarpur
+Durbachati:SC|-
+Gopalnagar:BC|Gopalnagar
+Ramganga:SC|-
+-|Lakshmi Janardhanpur
+Herambagopalpur:SC|Herambagopalpur
+Patharprotima:SC|-
+Brajaballavpur:BC|Brajaballavpur
+Banashyamnagar:SC|-
+-|G-Plot
+PAGE 4
+#Kakdwip
+-|Madhusudanpur
+Surjanagar:SC|-
+Srinagar:BC|-
+Pratapadityanagar:SC|Pratapadityanagar
+-|Sri Sri Ramkrishna
+Rishi Bankim Chandra:SC|Rishi Bankim Chandra
+-|Netaji
+Rabindra:SC|Rabindra
+Ramgopalpur:BC|-
+#Namkhana
+-|Narayanpur
+Haripur:SC|-
+-|Sibrampur
+Moushuni:BC|Moushuni
+#Sagar
+Muriganga-I:SC|Muriganga-I
+Muriganga-II:SC|-
+-|Dhaspara Sumatinagar-I
+Dhaspara Sumatinagar-II:SC|Dhaspara Sumatinagar-II
+Rudranagar:BC|-
+-|Ganga Sagore
+Dhablat:SC|Dhablat
+PAGE 5
+#Kulpi
+Ramkishore:SC|-
+-|Rajarampur
+Iswaripur:SC|Iswaripur
+-|Gazipur
+Kamarchak:BC|-
+Kulpi:SC|Kulpi
+Chandipur:SC|-
+-|Dhola
+Belpukur:BC|Belpukur
+Keoratala:SC|-
+-|Baburmahal
+#Mathurapur-I
+Debipur:SC|Debipur
+-|Nalua
+Krishna Chandrapur:BC|-
+Abad Bhagabanpur:SC|Abad Bhagabanpur
+Mathurapur Paschim:BC|Mathurapur Paschim
+-|Mathurapur Purba
+Lakshmi Narayanpur Dakshin:SC|-
+PAGE 6
+#Mathurapur-II
+Kashinagar:SC|-
+-|Khari
+-|Radhakantapur
+Kautala:SC|Kautala
+Raidighi:BC|-
+Dighirpar Bakultala:SC|Dighirpar Bakultala
+-|Kankandighi
+Nagendrapur:BC|-
+Nandakumarpur:SC|Nandakumarpur
+#Mandirbazar
+Kecharkur:SC|-
+-|Chandpur Chaitanyapur
+South Bishnupur:SC|South Bishnupur
+-|Anchna
+Krishnapur:SC|-
+Gabberia:BC|Gabberia
+Ghateswar:SC|-
+#Joynagar-I
+Dakshin Barasat:BC|Dakshin Barasat
+Harinarayanpur:SC|-
+-|Rajapur Korabeg
+Sreepur:BC|Sreepur
+Baharu-kshetro:BC|-
+Uttar Durgapur:SC|Uttar Durgapur
+-|Khakurdah
+Jangalia:SC|Jangalia
+Chaltaberia:SC|-
+-|Dhosa Chandaneswar
+PAGE 7
+#Baruipur
+Champahati:SC|-
+-|Begumpur
+-|Hardah
+Belegachhi:SC|Belegachhi
+Ramnagar-II:SC|-
+-|Nabagram
+Mallickpur:SC|Mallickpur
+Madarat:BC|-
+-|Kalyanpur
+Sikharbali-II:SC|Sikharbali-II
+Dhap Dhapi-I:SC|-
+Dhap Dhapi-II:BC|Dhap Dhapi-II
+-|Sankarpur-I
+Sankarpur-II:BC|-
+#Canning-I
+-|Bansra
+Taldi:SC|Taldi
+Matla-II:SC|-
+-|Dighirpar
+-|Hatpukuria
+Nikarighata:SC|Nikarighata
+Itkhola:SC|-
+PAGE 8
+#Bhangore-I
+Tardah:ST|Tardah
+Chandaneswar-II:SC|-
+-|Sankshahar
+Bodra:SC|Bodra
+Chandaneswar-I:SC|-
+-|Durgapur
+Narayanpur:SC|Narayanpur
+Prangunj:BC|-
+Jagulgachhi:SC|Jagulgachhi
+#Magrahat-II
+Amratala:SC|Amratala
+Mohanpur:BC|-
+Dhamua Uttar:SC|Dhamua Uttar
+-|Dhamua Dakshin
+Nainan:SC|-
+Dihikalash:BC|Dihikalash
+Mograhat Paschim:SC|-
+-|Mograhat Purba
+-|Jugdia
+Urelchandpur:SC|Urelchandpur
+Dhanpota:SC|-
+PAGE 9
+#Magrahat-I
+Sirakol:SC|Sirakol
+Sherpur:BC|-
+-|Srichanda
+Hariharpur:SC|Hariharpur
+Rangilabad:BC|-
+Usthi:SC|Usthi
+-|Kalikapota
+-|Ektara
+Lakshmi Kantapur:SC|-
+#Diamond Harbour-II
+Mathur:SC|Mathur
+-|Khordo
+Kamarpole:SC|-
+Patra:BC|Patra
+Bhadura Haridas:BC|Bhadura Haridas
+Kalatalahat:SC|-
+#Diamond Harbour-I
+-|Mashat
+Dearak:SC|-
+Parulia:SC|Parulia
+-|Harindanga
+Bolsiddhi Kalinagar:BC|-
+PAGE 10
+#Falta
+Mallickpur:SC|Mallickpur
+-|Gopalpur
+Noapukuria:SC|-
+Banganagar-I:BC|Banganagar-I
+-|Banganagar-II
+Chaluari:SC|-
+-|Harindanga-II
+Belsingha-II:SC|Belsingha-II
+-|Belsingha-I
+Falta:SC|-
+#Bishnupur-II
+-|Nahazari
+Bakrahat:BC|Bakrahat
+Patharberia Joychandipur:BC|-
+Moukhali:SC|Moukhali
+-|Ramkrishnapur Borhanpur
+-|Chandi
+Gobindapur Kalicharanpur:SC|-
+#Budge Budge-II
+Satgachia:BC|Satgachia
+Chakmanik:SC|-
+-|Gazapoali
+-|Rania
+Naskarpur:BC|Naskarpur
+-|South Bowali
+North Bowali:SC|North Bowali
+Dongaria Roypur:SC|-
+PAGE 11
+#Thakurpukur Maheshtala
+Chatta:SC|-
+Ashuti-I:SC|Ashuti-I
+-|Ashuti-II
+#Bishnupur-I
+-|Kulerdari
+Panakua:SC|-
+Purba Bishnupur:SC|Purba Bishnupur
+Paschim Bishnupur:BC|-
+Keoradanga:SC|Keoradanga
+-|Andharmanik
+-|Rashkhali
+Bhandaria Kastekumari:SC|-
+#Sonarpur
+Protapnagar:SC|Protapnagar
+-|Sonarpur-II
+-|Kalikapur-II
+Poleghat:SC|-
+Langalberia:BC|Langalberia
+-|Kheadaha-II
+-|Kamrabad
+Bonhooghly-II:SC|-
+Banhooghly-I:BC|Banhooghly-I
+PAGE 12
+#Bhangore-II
+Bamanghata:SC|-
+-|Beonta-II
+-|Shanpukur
+Polerhat-I:BC|Polerhat-I
+Polerhat-II:SC|-
+Chaltaberia:SC|Chaltaberia
+Bhogali-II:BC|-
+-|-
+#Budge Budge-I
+Mayapur:SC|-
+-|Nischintapur
+-|Chingripota

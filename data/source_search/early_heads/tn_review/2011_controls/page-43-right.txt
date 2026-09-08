@@ -1,0 +1,49 @@
+ALAI DISTRICT
+YAT PRESIDENTS
+es and Women in the Village Panchayat President in
+du State.
+Sl. Name of the Village Category to which
+No. Panchayat reservtion to made
+1 2 3
+Tiruvannamalai Panchayat Union Contd.
+42 Su.Nallur General
+43 Thatchampattu General
+44 Kandiankuppam General
+45 Pavithram General
+46 Kilchettipattu General
+47 Nochimalai General
+48 Su.Andapattu General
+49 Madurampattu General
+50 Kannapandal General
+51 Kattampoondi General
+52 Allikondapattu General
+53 Adiannamalai General
+54 Alaganandal General
+55 Kallottu General
+56 Kannandampoondi General
+57 Kilkaripur General
+58 Melchettipattu General
+59 Nachanandal General
+60 Nadupattu General
+61 Panaiyur General
+62 Su.Kambupattu General
+63 Udayanandal General
+64 Velayambakkam General
+65 Vengikkal General
+66 Viswanthangal General
+67 Su.Valavetti General
+68 Savalpoondi General
+69 Nariyapattu General
+Kilpennathur Panchayat Union
+1 Kalingaleri ST(General)
+2 Agaram SC(Women)
+3 Angunam SC(Women)
+4 Kolathur SC(Women)
+5 Vedanatham SC(Women)
+6 Ganalapadi SC(General)
+7 Keekaloor SC(General)
+8 Nariyamangalam SC(General)
+9 Olaipadi SC(General)
+10 Sanipoondi SC(General)
+11 Sirunathur SC(General)
+12 Vaippur SC(General)

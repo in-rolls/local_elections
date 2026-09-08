@@ -1,0 +1,59 @@
+1 2 3
+Thiruvadanai Panchayat Union Contd.
+21 Thelur General(Women)
+22 Andavoorani General
+23 Sundarapandiyanpattinam General
+24 Orikkottai General
+25 Mangalakudi General
+26 Thuthagudi General
+27 Sirumalaikottai General
+28 Nagarikathan General
+29 Arasathur General
+30 Mavur General
+31 Kattivayal General
+32 Paganoor General
+33 Pathanakudi General
+34 Pandukudi General
+35 Pananjayal General
+36 Muhilthagam General
+37 Kaliyanagari General
+38 Nilamalagiyamangalam General
+39 Nambuthalai General
+40 Thiruvetriyur General
+41 Periyakeeramangalam General
+42 Karumozhi Sanavayal General
+43 Kallur General
+44 Karankadu General
+45 Kodipangu General
+46 Mullimunai General
+47 Oriyur General
+Paramakudi Panchayat Union
+1 Keelaparthibanoor SC (Women)
+2 Thinaikulam SC (Women)
+3 Venkittankurichi SC (Women)
+4 Valangudi SC (Women)
+5 Bambur SC (General)
+6 Pudukkudi SC (General)
+7 Pothuvakudi SC (General)
+8 Thaduthalankottai SC (General)
+9 Vendoni SC (General)
+10 Nenmeni SC (General)
+11 Mosukudi SC (General)
+12 Urapuli SC (General)
+13 Madanthai General (Women)
+14 Enathikottai General (Women)
+15 Vengaloor General (Women)
+16 Kanchiyendal General (Women)
+17 Melaparthibanoor General (Women)
+18 Perungarai General (Women)
+19 Melayakudi General (Women)
+20 Vilathur General (Women)
+21 Keelaparuthiyoor General (Women)
+22 Kallikudi General
+23 S.Kavanoor General
+24 Urakkudi General
+25 Tholur General
+26 Kalaiyur General
+27 Thenpothuvakudi General
+28 S.Andakudi General
+29 Kulanthapuri alias Arungulam General

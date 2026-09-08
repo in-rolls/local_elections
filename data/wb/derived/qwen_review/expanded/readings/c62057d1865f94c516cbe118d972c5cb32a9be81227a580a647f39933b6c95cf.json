@@ -1,0 +1,37 @@
+{
+  "source": {
+    "sample_id": 119,
+    "row_id": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1:4:gp_head:7:women",
+    "source_path": "data/wb/2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "source_sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "source_page": 4,
+    "axis": "women",
+    "tier": "gp_head",
+    "bbox": [
+      891.06,
+      612.03,
+      1088.32,
+      660.86
+    ],
+    "bbox_units": "rendered_original_page_pixels_scale_to_1800",
+    "image_path": "data/wb/derived/qwen_review/expanded/cell_119.png",
+    "note": "Crop generation in progress; skip missing images and return to them. These original bbox units are explicit; final manifest will additionally provide converted PDF bbox and image hash.",
+    "raster_dpi": 360,
+    "image_rotation_clockwise": 0
+  },
+  "fingerprint": {
+    "image_sha256": "c5b2c718a8212c3e14fd0c30907cf23582bf5e3003bd2be54547207b3564de86",
+    "model_digest": "5ced39dfa4bac325dc183dd1e4febaa1c46b3ea28bce48896c8e69c1e79611cc",
+    "prompt_sha256": "e747db3c1ff8f5e2ed47cec2266b51cdae006b573cfd6dbfd0ee7eadec5d7903",
+    "temperature": 0,
+    "num_predict": 512
+  },
+  "prompt": "Transcribe only the text visibly printed in this cropped election-table cell. Preserve original spelling, Bengali script, Roman numerals, and reservation codes. Do not correct or complete place names. If blank or only a dash, return an empty text string. Mark unreadable characters with [?]. Return JSON with one key: \"text\". Do not infer reservation from a name.",
+  "response": {
+    "model": "qwen2.5vl:7b",
+    "created_at": "2026-09-08T02:53:40.101964Z",
+    "response": "{\"text\": \"????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????",
+    "done": false
+  },
+  "seconds": 30.12901912489906
+}

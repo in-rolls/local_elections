@@ -1,0 +1,189 @@
+[
+  {
+    "source_page": 15,
+    "side": "left",
+    "union_printed": "RamakrishnarajuPet Panchayat Union",
+    "serial_printed": "14",
+    "name_printed": "Ramakrishnarajupet",
+    "category_printed": null,
+    "finding": "Category cell is visually blank. Do not forward-fill or infer women reservation.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-15.png",
+    "image_sha256": "eb1c0276f8cf6a879fafcae568d485083270eb99afa30607a33a329a7b1640fc",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 38,
+    "side": "left",
+    "union_printed": "Kaveripakkam Panchayat Union contd.,",
+    "serial_printed": "23",
+    "name_printed": "Minnal",
+    "category_printed": "General (Women)",
+    "finding": "Printed serial23 appears at22nd group position; next Palayapalayam also prints23. Preserve both serial23 occurrences;22 absent.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-38.png",
+    "image_sha256": "df256ef26a4174366baedeac3d36d3b41ffed0c4811c315eabd3c5f4558b9dce",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 151,
+    "side": "left",
+    "union_printed": "OTTAPIDARAM PANCHAYAT UNION Contd.,",
+    "serial_printed": "33",
+    "name_printed": "Kodiayankulam",
+    "category_printed": "General",
+    "finding": "Printed33 at49th group position;49 absent.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-151.png",
+    "image_sha256": "d07d98f3ce8ac8aecca007db0c49245e2b0160d551c998a7148fd1bd5969b949",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 151,
+    "side": "left",
+    "union_printed": "OTTAPIDARAM PANCHAYAT UNION Contd.,",
+    "serial_printed": "34",
+    "name_printed": "Kollambarambu",
+    "category_printed": "General",
+    "finding": "Printed34 at51st group position;51 absent.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-151.png",
+    "image_sha256": "d07d98f3ce8ac8aecca007db0c49245e2b0160d551c998a7148fd1bd5969b949",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 143,
+    "side": "both",
+    "finding": "ALANKULAM PANCHAYAT UNION on left begins1\u201321; ALANGULAM PANCHAYAT UNION Contd., on right continues22\u201328. One28-row section with two printed spelling variants.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-143.png",
+    "image_sha256": "4d0b4442a15dfd0bf14e2bf9d4a997fc62c1453e49779d9073b9cedd12453bda",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 15,
+    "side": "both",
+    "finding": "RamakrishnarajuPet left heading versus Ramakrishnaraju Pet right continuation. One38-row section; retain both heading readings.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-15.png",
+    "image_sha256": "eb1c0276f8cf6a879fafcae568d485083270eb99afa30607a33a329a7b1640fc",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 6,
+    "side": "right",
+    "finding": "Literal heading THIRUPORUR .PANCHAYAT UNION includes period before PANCHAYAT.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-6.png",
+    "image_sha256": "ff7a31ffcd5f5ef35ce62c60d5b5a09da13286ae5dd42d888ad2583a219babe6",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 79,
+    "side": "single",
+    "finding": "Single three-column table; four union sections with13,6,5,11 rows respectively.35 total. Do not split into two halves.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-79.png",
+    "image_sha256": "0508dbbf9bae73c3aae0f5bf77469428ff68b9fa366e5bd0572ce9aa131739c4",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 77,
+    "side": "both",
+    "finding": "Central divider x331.6 PDFpoints. Rightserial/name divider near354 is longer and is not the table center.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-77.png",
+    "image_sha256": "20ca8e08e5294b80ed6b66e169fd784262c8d2d11aded00760c6ebbab2448102",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 99,
+    "side": "right",
+    "serial_printed": "5",
+    "name_printed": "Okkarai",
+    "category_printed": "SC (General)",
+    "finding": "Name baseline displaced below serial/category. Same printed row.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-99.png",
+    "image_sha256": "c610168cd1066964e53f7159ddbfa4a47f5a0bab94f09cc230a044ec7bab9a52",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 100,
+    "side": "right",
+    "serial_printed": "11",
+    "name_printed": "Thirumangalam",
+    "category_printed": "SC (General)",
+    "finding": "Name baseline displaced below serial/category. Same printed row.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-100.png",
+    "image_sha256": "ee4836cd0006a4e0178869d1792381eedb8729a9726538c02c0b91b6b4436b2e",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 100,
+    "side": "right",
+    "serial_printed": "16",
+    "name_printed": "Athikudi",
+    "category_printed": "General (Women)",
+    "finding": "Name baseline displaced below serial/category. Same printed row.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-100.png",
+    "image_sha256": "ee4836cd0006a4e0178869d1792381eedb8729a9726538c02c0b91b6b4436b2e",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 127,
+    "side": "right",
+    "serial_printed": "30",
+    "name_printed": "Thavalaikulam",
+    "category_printed": "General",
+    "finding": "Category baseline precedes serial/name. Same printed row.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-127.png",
+    "image_sha256": "e594b034fe8a3f1182c81396068caf3163ce7dec23cb398d663d1847a3878bbd",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 128,
+    "side": "right",
+    "serial_printed": "2",
+    "name_printed": "Pillaiyarkulam",
+    "category_printed": "SC (Women)",
+    "finding": "Category baseline precedes serial/name. Same printed row.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-128.png",
+    "image_sha256": "8d4f83ba135331ed28e0c9adc28d33458c14ee4e05167401237515115728cd31",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 26,
+    "side": "both",
+    "finding": "Four Kanai entries print SC Woman. Koliyanur rows13\u201323 print Genaral Women.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-26.png",
+    "image_sha256": "9d30ad6e36214594ad20ad046fe6625e2757428b20c89652aa981d2dc2bcccb4",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 27,
+    "side": "left",
+    "finding": "Koliyanur rows24\u201343 print Genaral.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-27.png",
+    "image_sha256": "95c4498185f8059022a428a03d01ce7dbaaa5a7fa88e576a5e93e41d59e18a01",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  },
+  {
+    "source_page": 125,
+    "side": "right",
+    "serial_printed": "8",
+    "name_printed": "Thamaraikulam",
+    "category_printed": "General(Woman)",
+    "finding": "Woman singular is printed.",
+    "source_sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "image_path": "data/source_search/early_heads/tn_review/2011_controls/page-125.png",
+    "image_sha256": "722b6f9f9f82dc35b4415574c72ab9c88010a4a35ace1460a964686ca2dd9e3c",
+    "review_method": "visual reading of original PDF rendered at110dpi"
+  }
+]

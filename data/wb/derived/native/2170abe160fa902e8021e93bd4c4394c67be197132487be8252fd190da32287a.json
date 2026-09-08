@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "sha256": "2170abe160fa902e8021e93bd4c4394c67be197132487be8252fd190da32287a",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "FORM – A1\n[ See rule 23(4) ]\nO R D E R\nNo. 248 (7) /P&RD Dated : 07.02.2008\nIn exercise of the power conferred by sections 12 and 17 of the West Bengal\nPanchayat Elections Act. 2003 (West Bengal Act XXI of 2003) read with rules 22 and 23\nof the West Bengal Panchayat Election Rules, 2006, I, the District Panchayat Election\nOfficer and District Magistrate of the district of Nadia, as the prescribed authority\nappointed by the State Government in the Department of Panchyats and Rural\nDevelopment under notification No.623-PN/O/I/3R-3/2004 Dated 09.02.2007 for the\npurpose of rules 22 and 23 of the said rules , hereby determine, after previous publication\nof the draft of this order as required under the said rules for the Grams specified in column\n(1) of the schedule below, the total number of members, Scheduled Castes members ,\nScheduled Tribes members and women members to be elected to such Gram Panchayats\nspecified in the corresponding entries in columns (2a), (2b),(2c) and (2d) respectively, to\ndivide the area of the Grams into constituencies with serial numbers assigned to them\nspecified in the corresponding entries in column (3), to allocate to each such constituency\nseat or seats specified in the corresponding entries in column(4), seat or seats reserved for\nthe Scheduled Castes or the Scheduled Tribes persons specified in the corresponding\nentries in column(5), and seat or seats reserved for women specified in the corresponding\nentries in column (6) of the Schedule.",
+      "tables": [],
+      "images": 0,
+      "characters": 1545
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "(FORM-A1)\nThe Schedule\nBLOCK : KRISHNAGAR-II\nNumber of members to be elected in the Gram Panchayat\nScheduled\nName of the Gram Total number of Scheduled\nTribes Women members\nmembers Castes members\nmembers\n1 (2a) (2b) (2c) (2d)\nDhubulia-I 14 5 0 5\nSeats allocated to Seats reserved for Seats reserved for\nNumber, Name and area of constituencies each constituency Schedule Castes or women against\nwith serial numbers with serial Schedule Tribes against serial number of\nnumbers serial number of seats seats\n(3) (4) (5) (6)\nDhubulia-I/I\nMouza : Belgaon, J.L. No. – 31,\n1. Belgaon Camp No. 10, 14, 31\n1,2 - 1(W)\n2. Belgaon Camp No. 3, 3/25\n3. Belgaon Hatatpara\nAssembly Part No. – 76/75\nDhubulia-I/II\nMouza : Dhubulia, J.L. No. – 33,\n1. Dhubulia Bajar Colony and Dhubulia 3 - -\nCamp Block 5/7\nAssembly Part No. – 76/76\nDhubulia-I/III\nMouza : Dhubulia, J.L. No. – 33,\n4(W)\n1. Dhubulia Camp Block 5/3 4,5 5 (SC)\n5[SC(W)]\n2. Dhubulia Camp Block 5/23, Netajipally\nAssembly Part No. – 76/77\nDhubulia-I/IV\nMouza : Dhubulia, J.L. No. – 33,\n6 - -\n1. Kanthalbagan Staff Quarter\nAssembly Part No. – 76/78\n1 of 3",
+      "tables": [
+        {
+          "bbox": [
+            45.037079999999996,
+            121.31040000000007,
+            599.3904,
+            233.7410346000001
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nmembers",
+              "Scheduled\nCastes members",
+              "Scheduled\nTribes\nmembers",
+              "Women members"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Dhubulia-I",
+              "14",
+              "5",
+              "0",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            45.037079999999996,
+            248.01959999999997,
+            599.3904,
+            595.9908
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Dhubulia-I/I\nMouza : Belgaon, J.L. No. – 31,\n1. Belgaon Camp No. 10, 14, 31\n2. Belgaon Camp No. 3, 3/25\n3. Belgaon Hatatpara\nAssembly Part No. – 76/75",
+              "1,2",
+              "-",
+              "1(W)"
+            ],
+            [
+              "Dhubulia-I/II\nMouza : Dhubulia, J.L. No. – 33,\n1. Dhubulia Bajar Colony and Dhubulia\nCamp Block 5/7\nAssembly Part No. – 76/76",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              "Dhubulia-I/III\nMouza : Dhubulia, J.L. No. – 33,\n1. Dhubulia Camp Block 5/3\n2. Dhubulia Camp Block 5/23, Netajipally\nAssembly Part No. – 76/77",
+              "4,5",
+              "5 (SC)",
+              "4(W)\n5[SC(W)]"
+            ],
+            [
+              "Dhubulia-I/IV\nMouza : Dhubulia, J.L. No. – 33,\n1. Kanthalbagan Staff Quarter\nAssembly Part No. – 76/78",
+              "6",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1151
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "Seats allocated to Seats reserved for Seats reserved for\nNumber, Name and area of constituencies each constituency Schedule Castes or women against\nwith serial numbers with serial Schedule Tribes against serial number of\nnumbers serial number of seats seats\n(3) (4) (5) (6)\nDhubulia-I/V\nMouza : Dhubulia, J.L. No. – 33,\n7 7 (SC) -\n1. Dhubulia Camp Gr. No. 7\nAssembly Part No. – 76/79\nDhubulia-I/VI\nMouza : Dhubulia, J.L. No. – 33,\n1. Dhubulia Uttarpara 8,9 9(SC) -\n2. Dhubulia Purbapara\nAssembly Part No. – 76/80\nDhubulia-I/VII\nMouza : Dhubulia, J.L. No. – 33,\n10 - 10(W)\n1. Dhubulia Dakshinpara\nAssembly Part No. – 76/81\nDhubulia-I/VIII\nMouza : Chawgachha-Hansadanga,\nJ.L. No. – 35,\n1. Hansadanga Matsajibipara 11 - -\n2. Hansadanga Masjidpara\n3. Chawgachha-Hansadanga Daspara\nAssembly Part No. – 76/82\nDhubulia-I/IX\nMouza : Chawgachha-Hansadanga\nJ.L. No. – 35\n1. Hansadanga Uttarpara\n2. Hansadanga Dakshinpara 12 12(SC) 12[SC(W)]\nMouza : Bonogram J.L. No. – 49,\n3. Bonogram\n4. Chhoto Mede\nAssembly Part No. – 76/83\n2 of 3",
+      "tables": [
+        {
+          "bbox": [
+            45.03708,
+            50.03520000000003,
+            599.3904,
+            522.6768
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Dhubulia-I/V\nMouza : Dhubulia, J.L. No. – 33,\n1. Dhubulia Camp Gr. No. 7\nAssembly Part No. – 76/79",
+              "7",
+              "7 (SC)",
+              "-"
+            ],
+            [
+              "Dhubulia-I/VI\nMouza : Dhubulia, J.L. No. – 33,\n1. Dhubulia Uttarpara\n2. Dhubulia Purbapara\nAssembly Part No. – 76/80",
+              "8,9",
+              "9(SC)",
+              "-"
+            ],
+            [
+              "Dhubulia-I/VII\nMouza : Dhubulia, J.L. No. – 33,\n1. Dhubulia Dakshinpara\nAssembly Part No. – 76/81",
+              "10",
+              "-",
+              "10(W)"
+            ],
+            [
+              "Dhubulia-I/VIII\nMouza : Chawgachha-Hansadanga,\nJ.L. No. – 35,\n1. Hansadanga Matsajibipara\n2. Hansadanga Masjidpara\n3. Chawgachha-Hansadanga Daspara\nAssembly Part No. – 76/82",
+              "11",
+              "-",
+              "-"
+            ],
+            [
+              "Dhubulia-I/IX\nMouza : Chawgachha-Hansadanga\nJ.L. No. – 35\n1. Hansadanga Uttarpara\n2. Hansadanga Dakshinpara\nMouza : Bonogram J.L. No. – 49,\n3. Bonogram\n4. Chhoto Mede\nAssembly Part No. – 76/83",
+              "12",
+              "12(SC)",
+              "12[SC(W)]"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1066
+    },
+    {
+      "page": 4,
+      "width": 612,
+      "height": 792,
+      "text": "Seats allocated to Seats reserved for Seats reserved for\nNumber, Name and area of constituencies each constituency Schedule Castes or women against\nwith serial numbers with serial Schedule Tribes against serial number of\nnumbers serial number of seats seats\n(3) (4) (5) (6)\nDhubulia-I/X\nMouza : Dalimoual, J.L. No. – 36\n1. Uttar Dalimoula\n2. Dakshin Dalimoula\n3. Daspara\nMouza : Paschimpanditpur,\n13,14 13(SC) -\nJ.L. No. -37\n4. Paschimpanditpur\nMouza : Chawgachha-Hansadanga,\nJ.L. No. – 35\n5. Chawgachha-Hansadanga Purbapara\nAssembly Part No. – 76/84\nDate : 07-02-2008\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\n3 of 3",
+      "tables": [
+        {
+          "bbox": [
+            45.03708,
+            50.03520000000003,
+            599.3904,
+            288.456
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Dhubulia-I/X\nMouza : Dalimoual, J.L. No. – 36\n1. Uttar Dalimoula\n2. Dakshin Dalimoula\n3. Daspara\nMouza : Paschimpanditpur,\nJ.L. No. -37\n4. Paschimpanditpur\nMouza : Chawgachha-Hansadanga,\nJ.L. No. – 35\n5. Chawgachha-Hansadanga Purbapara\nAssembly Part No. – 76/84",
+              "13,14",
+              "13(SC)",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 683
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 4
+}

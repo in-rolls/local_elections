@@ -1,0 +1,55 @@
+1 2 3
+Sethubavachatram Panchayat Union Contd.,
+15 Umathanadu General (Women)
+16 Adaikkathevan General
+17 Kalanivasal General
+18 Kattaiyankadu Ukkadai General
+19 Karambakkadu General
+20 Kuppathevan General
+21 Kollukkadu General
+22 Kolakudi General
+23 Mudukadu General
+24 Marungapallam General
+25 Marakkavalasai General
+26 Pudupattinam General
+27 Rendampulikkadu General
+28 Rettavayal General
+29 Ruthirachindamani General
+30 Rowthenvayal General
+31 Sethubavachatram General
+32 Serubalakkadu General
+33 Solaikkadu General
+34 Sarabendirarajanpattinam General
+35 Sembiyamadevipattinam General
+36 Vathalaikkadu General
+37 Veeriyankottai General
+Budalur Panchayat Union
+1 Arcod SC (Women)
+2 Kankeyampatti SC (Women)
+3 Katchamangalam SC (Women)
+4 Rajagiri SC (Women)
+5 Avarampatti SC (General)
+6 Kovilpathu SC (General)
+7 Nanthavanapatti SC (General)
+8 Palayapatti (North) SC (General)
+9 Pudukkudi SC (General)
+10 Solagampatti SC (General)
+11 Thiruchinampoondi SC (General)
+12 Vendayampatti SC (General)
+13 Agarappettai General (Women)
+14 Kadambankudi General (Women)
+15 Koothur General (Women)
+16 Koviladi General (Women)
+17 Palayapatti (South) General (Women)
+18 Pathirakkudi General (Women)
+19 Pavanamangalam General (Women)
+20 Sanoorapatti General (Women)
+21 Thogur General (Women)
+22 Veeramarasanpettai General (Women)
+23 Achampatti General
+24 Alamelupuram General
+25 Budalur General
+26 Deekshasamudram General
+27 Indalur General
+28 Manaiyeripatti General
+Page 82

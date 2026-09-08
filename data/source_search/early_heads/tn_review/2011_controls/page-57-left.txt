@@ -1,0 +1,56 @@
+1 2 3
+THALAIVASAL PANCHAYAT UNION
+1 Deviakkurichi SC(Women)
+2 Kattukkottai SC(Women)
+3 Unathur SC(Women)
+4 Sitheri SC(Women)
+5 Arathi Agraharam SC(General)
+6 Ladduvadi SC(General)
+7 Pagadapadi SC(General)
+8 Siruvachur SC(General)
+9 Thittacheri SC(General)
+10 Thiyaganoor SC(General)
+11 Aragalur General(Women)
+12 East Rajapalayam General(Women)
+13 Kamakkapalayam General(Women)
+14 Pattuthurai General(Women)
+15 Puliyakurichi General(Women)
+16 Sadasivapuram General(Women)
+17 Sathapadi General(Women)
+18 Thalaivasal General(Women)
+19 Vellaiyur General
+20 Govindampalayam General
+21 Illuppanatham General
+22 Kavarpanai General
+23 Manivilundan General
+24 Navakurichi General
+25 Navalur General
+26 Periyeri General
+27 Punalvasal General
+28 Puthur General
+29 Sarvoy General
+30 Sarvoy Pudur General
+31 Thenkumarai General
+32 Vadakumarai General
+33 Varagur General
+34 Veppampoondi General
+35 Veppanatham General
+THARAMANGALAM PANCHAYAT UNION
+1 Panikkanur SC(General)
+2 Alagusamudram General(Women)
+3 Ariyampatti General(Women)
+4 Idaiyapatti General(Women)
+5 Karukkalvadi General(Women)
+6 Selavadai General(Women)
+7 Konagapadi General(Women)
+8 Amarakundhi General
+9 Arurpatty General
+10 Desavilakku General
+11 Elavampatty General
+12 Kurukkupatty General
+13 Mallikuttai General
+14 Manathal General
+15 Pappampady General
+16 Ramireddipatty General
+17 Thuttampatty General
+Page 55

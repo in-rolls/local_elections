@@ -4,8 +4,47 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 import pytest
 
-from local_reservations.common import notes, slice_checks
-from local_reservations.tools import build_coverage, build_sources
+from local_reservations.common import datasets, notes, slice_checks
+from local_reservations.tools import build_coverage, build_sources, build_state_readmes
+
+
+def test_cross_state_search_is_not_a_state(tmp_path, monkeypatch):
+    for name in ["source_search", "tn", "tamil_nadu", "master"]:
+        (tmp_path / name).mkdir()
+    monkeypatch.setattr(datasets, "DATA", tmp_path)
+    assert {path.name for path in datasets.state_directories()} == {"tn", "tamil_nadu"}
+    assert build_coverage.pretty("tn") == build_coverage.pretty("tamil_nadu")
+    assert build_coverage.pretty("tn") == "Tamil Nadu"
+
+
+def test_nested_tn_exports_have_separate_coverage_without_pooled_rows(
+    tmp_path, monkeypatch
+):
+    source = tmp_path / "tn/derived/heads_2011/gp_president_reservations.csv"
+    source.parent.mkdir(parents=True)
+    source.write_text(
+        "state,year,tier,reservation,caste_reservation\n"
+        "Tamil Nadu,2011,gp_head,General,UR\n"
+    )
+    monkeypatch.setattr(datasets, "DATA", tmp_path)
+    monkeypatch.setattr(build_coverage, "DATA", tmp_path)
+    monkeypatch.setattr(build_coverage, "ALL_STATES", ["Tamil Nadu"])
+    assert list(datasets.parsed()) == []
+    row = build_coverage.build_rows()[0]
+    assert row[2:5] == ("2011", "-", "source-specific exports")
+    assert "data/tn/" in row[6]
+
+
+def test_state_readme_dispatch_preserves_nested_tn_guide(tmp_path, monkeypatch):
+    guide = tmp_path / "tn/derived/heads_2011/README.md"
+    guide.parent.mkdir(parents=True)
+    guide.write_text("source-specific guide\n")
+    (tmp_path / "source_search").mkdir()
+    monkeypatch.setattr(build_state_readmes, "DATA", tmp_path)
+    monkeypatch.setattr(build_state_readmes, "slices_by_directory", dict)
+    monkeypatch.setattr(build_state_readmes, "render_tn", lambda: "overview\n")
+    assert build_state_readmes.build() == {tmp_path / "tn/readme.md": "overview\n"}
+    assert guide.read_text() == "source-specific guide\n"
 
 
 def test_sibling_parquet_rows_are_counted_from_metadata(tmp_path, monkeypatch):
@@ -20,13 +59,14 @@ def test_sibling_parquet_rows_are_counted_from_metadata(tmp_path, monkeypatch):
 def test_source_holdings_use_inventory_directory_names(tmp_path, monkeypatch):
     inventory = tmp_path / "inventory.csv"
     inventory.write_text(
-        "state,format,pages\nmadhya_pradesh,digital-text,351\ntamil_nadu,scan,74\n",
+        "state,format,pages\nmadhya_pradesh,digital-text,351\n"
+        "tamil_nadu,scan,74\ntn,digital-text,153\n",
         encoding="utf-8",
     )
     monkeypatch.setattr(build_sources, "INVENTORY", inventory)
     rendered = build_sources.render()
     assert "| Madhya Pradesh | 1 | 0 | 0 | 0 | 351 |" in rendered
-    assert "| Tamil Nadu | 0 | 1 | 0 | 0 | 74 |" in rendered
+    assert "| Tamil Nadu | 1 | 1 | 0 | 0 | 227 |" in rendered
 
 
 def test_maharashtra_is_parsed_urban_with_its_gaps_named():
@@ -73,7 +113,7 @@ def test_coverage_does_not_call_every_unlinked_pdf_missing_work():
 def test_coverage_names_sources_that_still_have_to_be_acquired():
     rows = {row[0]: row for row in build_coverage.build_rows()}
     assert "acquire seat-level rural data" in rows["Odisha"][5]
-    assert "acquire a village-panchayat" in rows["Tamil Nadu"][5]
+    assert "source-specific exports" in rows["Tamil Nadu"][5]
 
 
 def test_every_parsed_state_with_unlinked_pdfs_has_a_reviewed_classification():

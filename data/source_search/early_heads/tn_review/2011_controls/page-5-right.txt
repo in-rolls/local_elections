@@ -1,0 +1,47 @@
+1 2 3
+SRIPERUMBUDUR PANCHAYAT UNION (Contd..)
+47 Gunduperumbedu General
+48 Pondur General
+49 Eraiyur General
+50 Perinjambakkam General
+51 Kiloy General
+52 Mettupalayam General
+53 Kolathur General
+54 Vadamangalam General
+55 Podavur General
+56 Mannur General
+57 Valarpuram General
+58 Mathur General
+KUNDRATHUR PANCHAYAT UNION
+1 Thandalam SC (Women)
+2 Sennakuppam SC (Women)
+3 Serapanancheri SC (Women)
+4 Padappai SC (Women)
+5 Manimangalam SC (Women)
+6 Aadhanur SC (Women)
+7 Vadakkupattu SC (General)
+8 Sikkarayapuram SC (General)
+9 Salamangalam SC (General)
+10 Paraniputhur SC (General)
+11 Palanthandalam SC (General)
+12 Gerugambakkam SC (General)
+13 Kozhumanivakkam SC (General)
+14 Orathur SC (General)
+15 Malaipattu SC (General)
+16 Malayambakkam SC (General)
+17 Amarambedu SC (General)
+18 Madambakkam General (Women)
+19 Kovoor General (Women)
+20 Karasangal General (Women)
+21 Vaipur General (Women)
+22 Varadajapuram General (Women)
+23 Tharapakkam General (Women)
+24 Poonthandalam General (Women)
+25 Nandambakkam General (Women)
+26 Naduveerapattu General (Women)
+27 Ayyappanthangal General
+28 Valayakaranai General
+29 Somangalam General
+30 Sethupattu General
+31 Vattambakkam General
+32 Nattarasanpattu General

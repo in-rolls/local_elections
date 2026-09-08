@@ -1,0 +1,313 @@
+{
+  "version": 1,
+  "sha256": "d931888ec948c2df4550ca16261c33b8c72c5e257ca27d3a07dc080fe4fb522c",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE\nBLOCK : TEHATTA - I\nNumber of members to be elected in the Gram\nSeats reserved for Seats reserved for\nPamchayat Seats allocated to\nName of Number, name & area of Schedule Caste or Women against\neach constituency\nGram Schedule Schedule constituencies with serial numbers Schedule Tribe against serial number of\nTotal No. of Women with serial number\nCastes Tribes serial number of Seats Seats.\nmembers members\nMembers members\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nNatna /I Part No. 73/21\n1 1, SC 1, SC(Women)\nNatna 18 9 Nil 6 Mouza Chhatina, J.L. No. 98\na) Chhatina Math Para\n2 - 2,Women\nb) Chhatina Puratan Para\nNatna /II Part No. 73/22\nMouza- Bagakhali, J.L. No. 93 3 3, SC -\na) Debnathpur\nNatna /III Part No. 73/23\n4 - -\nMouza- Sahapur, J.L. No. 94\na) Sahapur Paschimpara\n5 5, SC -\nb) Nabinnagar\nNatna /IV Part No. 73/24\nMouza- Sahapur, J.L. No. 94 6 - -\na) Sahapur Purbapara\nNatna /V Part No. 73/25\n7 7, SC 7,SC(Women)\nMouza- Bagakhali, J.L. No. 93\na) Bagakhali 8 8, SC -\nNatna /VI Part No. 73/26\nMouza- Gopalpur, J.L. No. 96 9 9, SC -\na) Gopalpur\nNatna /VII Part No. 73/27\nMouza- Ramjibanpur, J.L. No. 95 10 10, SC 10,SC(Women)\na) Ramjibanpur\nNatna /VIII Part No. 73/28\n11 - 11, Women\nMouza- Garibpur, J.L. No. 97\na) Garibpur 12 - -\nNatna /IX Part No. 73/29\n13 - -\nMouza- Natna, J.L. No. 107\na) Natna Dhakshinpara 14 14, SC -\n1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            36.454679999999996,
+            76.82808299999999,
+            713.861883,
+            524.4731999999999
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of\nconstituencies with serial numbers",
+              "Seats allocated to\neach constituency\nwith serial number",
+              "Seats reserved for\nSchedule Caste or\nSchedule Tribe against\nserial number of Seats",
+              "Seats reserved for\nWomen against\nserial number of\nSeats."
+            ],
+            [
+              null,
+              "Total No. of\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Natna",
+              "18",
+              "9",
+              "Nil",
+              "6",
+              "Natna /I Part No. 73/21\nMouza Chhatina, J.L. No. 98\na) Chhatina Math Para\nb) Chhatina Puratan Para",
+              "1",
+              "1, SC",
+              "1, SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "2",
+              "-",
+              "2,Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natna /II Part No. 73/22\nMouza- Bagakhali, J.L. No. 93\na) Debnathpur",
+              "3",
+              "3, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natna /III Part No. 73/23\nMouza- Sahapur, J.L. No. 94\na) Sahapur Paschimpara\nb) Nabinnagar",
+              "4",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "5",
+              "5, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natna /IV Part No. 73/24\nMouza- Sahapur, J.L. No. 94\na) Sahapur Purbapara",
+              "6",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natna /V Part No. 73/25\nMouza- Bagakhali, J.L. No. 93\na) Bagakhali",
+              "7",
+              "7, SC",
+              "7,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "8",
+              "8, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natna /VI Part No. 73/26\nMouza- Gopalpur, J.L. No. 96\na) Gopalpur",
+              "9",
+              "9, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natna /VII Part No. 73/27\nMouza- Ramjibanpur, J.L. No. 95\na) Ramjibanpur",
+              "10",
+              "10, SC",
+              "10,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natna /VIII Part No. 73/28\nMouza- Garibpur, J.L. No. 97\na) Garibpur",
+              "11",
+              "-",
+              "11, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "12",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natna /IX Part No. 73/29\nMouza- Natna, J.L. No. 107\na) Natna Dhakshinpara",
+              "13",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "14",
+              "14, SC",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1281
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "Number of members to be elected in the Gram\nSeats reserved for Seats reserved for\nPamchayat Seats allocated to\nName of Number, name & area of Schedule Caste or Women against\neach constituency\nGram Schedule Schedule constituencies with serial numbers Schedule Tribe against serial number of\nTotal No. of Women with serial number\nCastes Tribes serial number of Seats Seats.\nmembers members\nMembers members\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nNatna /X Part No. 73/30\nMouza- Natna, J.L. No. 107 15 - 15, Women\na) Natna Uttarpara\nNatna /XI Part No. 73/31\nMouza- Garibpur, J.L. No. 97\na) Garibpur 16 - -\nMouza Howlia, J.L. No. 106\na) Howlia\nNatna /XII Part No. 73/32\n17 17, SC -\nMouza- Howlia, J.L. No. 106\na) Howlia (Uttar)\n18 - -\nb) Howlia (Paschim)\nDate : 07/02/2008 District Panchayat Election Officer\n& District Magistrate, Nadia\n2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            36.454679999999996,
+            31.355523000000005,
+            713.861883,
+            271.31579999999997
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of\nconstituencies with serial numbers",
+              "Seats allocated to\neach constituency\nwith serial number",
+              "Seats reserved for\nSchedule Caste or\nSchedule Tribe against\nserial number of Seats",
+              "Seats reserved for\nWomen against\nserial number of\nSeats."
+            ],
+            [
+              null,
+              "Total No. of\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natna /X Part No. 73/30\nMouza- Natna, J.L. No. 107\na) Natna Uttarpara",
+              "15",
+              "-",
+              "15, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natna /XI Part No. 73/31\nMouza- Garibpur, J.L. No. 97\na) Garibpur\nMouza Howlia, J.L. No. 106\na) Howlia",
+              "16",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natna /XII Part No. 73/32\nMouza- Howlia, J.L. No. 106\na) Howlia (Uttar)\nb) Howlia (Paschim)",
+              "17",
+              "17, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "18",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 795
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

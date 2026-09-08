@@ -1,0 +1,41 @@
+1 2 3
+Pattukkottai Panchayat Union Contd.,
+39 T.Melakkadu General
+40 Thokkalikadu General
+41 Thuvarangurichi General
+42 Veerakkurichi General
+43 Vendakkottai General
+Madukkur Panchayat Union
+1 Sirankudi SC (Women)
+2 Puliyakudi SC (Women)
+3 Avikottai SC (General)
+4 Madurabashanipuram SC (General)
+5 Andami General (Women)
+6 Kalyanaoodai General (Women)
+7 Madukkur North General (Women)
+8 Mannankadu General (Women)
+9 Moothakuruchi General (Women)
+10 Thalikottai General (Women)
+11 Vikramam General (Women)
+12 Vattakudi North General (Women)
+13 Vattakudi Ukkadai General (Women)
+14 Keelakuruchi General
+15 Athivetti General
+16 Alathur General
+17 Alampallam General
+18 Bavajikkottai General
+19 Chokkanavur General
+20 Elangadu General
+21 Kanniyakurichi General
+22 Kasankadu General
+23 Karappankadu General
+24 Kadanthankudi General
+25 Karuppur General
+26 Mohoor General
+27 Nemmeli General
+28 Olayakunnam General
+29 Periyakottai General
+30 Pulavanji General
+31 Palaverikadu General
+32 Siramelkudi General
+33 Veppankulam General

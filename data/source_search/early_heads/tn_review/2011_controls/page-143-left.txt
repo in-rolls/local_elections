@@ -1,0 +1,46 @@
+1 2 3
+KEELAPAVOOR PANCHAYAT UNION
+1 Inamvellakal S.C.( Women)
+2 Melapavoor S.C. (General)
+3 Avudaiyanoor General (Women)
+4 Kaluneerkulam General (Women)
+5 Keelavellakal General (Women)
+6 Melakrishnaperi General (Women)
+7 Sivanadanoor General (Women)
+8 Thippanampatti General (Women)
+9 Andipatti General
+10 Ariyappapuram General
+11 Gunaramanallur General
+12 Idaiyarthavanai General
+13 Kalurrani General
+14 Kulasekarapatti General
+15 Nagalkulam General
+16 Pethanadarpatti General
+17 Poolangulam General
+18 Rajagopalaperi General
+19 Rajapandi General
+20 Thuthikulam General
+21 Veerakeralampudur General
+ALANKULAM PANCHAYAT UNION
+1 Balapathiraramapuram SC (Women)
+2 Vadakku Kavalakurichi SC (Women)
+3 Kidarakkulam SC (General)
+4 Navaneetha Krishnapuram SC (General)
+5 Karuvantha General (Women)
+6 Kelakalangal General (Women)
+7 Kurippankulam General (Women)
+8 Mela Veeranam General (Women)
+9 Nallur General (Women)
+10 Sevalapuram Karadiudaippu General (Women)
+11 Uthumalai General (Women)
+12 Vadiyur General (Women)
+13 Achankuttam General
+14 Aynarkulam General
+15 Kadanganeri General
+16 Kaduvetti General
+17 Kavalakurichi General
+18 Kelaveeranam General
+19 Kurichampatti General
+20 Maranathai General
+21 Marukkalankulam General
+Page 141

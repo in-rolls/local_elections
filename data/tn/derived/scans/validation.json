@@ -1,0 +1,18 @@
+{
+  "source_hashes_verified": 2,
+  "source_pages_accounted_for": 191,
+  "selected_pages": 132,
+  "verified_cache_pages": 132,
+  "outside_selected_office_pages": 59,
+  "failed_pages": 0,
+  "pending_pages": 0,
+  "attempts_before_resume": 132,
+  "attempts_after_resume": 132,
+  "resume_preserved_all_attempt_hashes": true,
+  "source_mutation": false,
+  "semantic_records": 0,
+  "module_sha256": "f8475d826389d8c048a9c360714ee8adba01129d7ceea3c88cf54705d7efdc4d",
+  "tests": "11 passed; Ruff check/format, targeted Pyright, pydoclint clean",
+  "module_sha256_at_extraction": "15452feae9a9d2ea1e1d9f46d158d486b709af231fe238b0adb2b7617b2f26d2",
+  "lifecycle_wrapper_update": "Added required common.runlog command wrapper; source/engine/settings OCR identity unchanged; 11 extraction tests plus shared command contracts passed."
+}

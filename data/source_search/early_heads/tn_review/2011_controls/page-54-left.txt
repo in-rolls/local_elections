@@ -1,0 +1,54 @@
+SALE
+VILLAGE PAN
+Reservation of Seats for Scheduled Caste/Scheduled T
+N
+Category to which
+Sl. No Name of the Village Panchayat
+reservation is made
+1 2 3
+ATTUR PANCHAYAT UNION
+1 Paithur ST(General)
+2 Ammampalayam SC(Women)
+3 Kothampadi SC(Women)
+4 Chokkanathapuram SC(General)
+5 Manjini SC(General)
+6 Thulukkanoor SC(General)
+7 Arasanatham General(Women)
+8 Malliakarai General(Women)
+9 Seeliampatty General(Women)
+10 Thandavarayapuram General(Women)
+11 Thennangudipalayam General(Women)
+12 Akkichettipalayam General
+13 Appamasamudram General
+14 Eachampatti General
+15 Kallanatham General
+16 Kalpaganoor General
+17 Koolamedu General
+18 Pungavadi General
+19 Ramanaickenpalayam General
+20 Valayamadevi General
+AYOTHIPATTINAM PANCHAYAT UNION
+1 Poovanur ST(Women)
+2 Periyagoundapuram ST(General)
+3 Sukkampatty SC(Women)
+4 Udayapatti SC(Women)
+5 Veeranam SC(Women)
+6 Agrahara nattamangalam SC(General)
+7 Chinnagoundapuram SC(General)
+8 Kullampatty SC(General)
+9 Masinaickenpatty SC(General)
+10 Pallipatty SC(General)
+11 Vellalakundam SC(General)
+12 Achankuttapatti General(Women)
+13 Anuppur General(Women)
+14 D. Perumapalayam General(Women)
+15 Dasanaickenpatti General(Women)
+16 Karipatty General(Women)
+17 Karumapuram General(Women)
+18 Koottathupatty General(Women)
+19 Aladipatty General
+20 Athikaripatty General
+21 Chinnanur General
+22 Korathupatty General
+23 Kuppanur General
+Page 52

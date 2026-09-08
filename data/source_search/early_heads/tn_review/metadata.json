@@ -1,0 +1,141 @@
+[
+  {
+    "source_path": "data/source_search/early_heads/raw/tn_1_58_1996_395_en.pdf",
+    "sha256": "bf7d114ca27493203573adaaf9334477b481462afa013f8437896d36b3503e27",
+    "bytes": 70126400,
+    "pdfinfo": "Creator:         RICOH Pro C5100S\nProducer:        RICOH Pro C5100S\nCreationDate:    Thu Jun 11 01:58:33 2026 PDT\nModDate:         Thu Jun 11 06:01:40 2026 PDT\nCustom Metadata: no\nMetadata Stream: yes\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           224\nEncrypted:       no\nPage size:       595.26 x 841.86 pts (A4)\nPage rot:        0\nFile size:       70126400 bytes\nOptimized:       no\nPDF version:     1.6\n",
+    "text_path": "data/source_search/early_heads/tn_review/tn_1_58_1996_395_en.txt",
+    "pdf_pages": 224,
+    "native_non_whitespace_characters": 0,
+    "visually_reviewed_pdf_pages": [
+      1,
+      2
+    ]
+  },
+  {
+    "source_path": "data/source_search/early_heads/raw/tn_1_58_1996_401_en.pdf",
+    "sha256": "869ffacec087105967d17ee8f072fb417c76aae786d60ef06e63f1c6b88aec07",
+    "bytes": 48284176,
+    "pdfinfo": "Creator:         RICOH Pro C5100S\nProducer:        RICOH Pro C5100S\nCreationDate:    Thu Jun 11 01:02:35 2026 PDT\nModDate:         Thu Jun 11 07:52:08 2026 PDT\nCustom Metadata: no\nMetadata Stream: yes\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           114\nEncrypted:       no\nPage size:       595.276 x 841.89 pts (A4)\nPage rot:        0\nFile size:       48284176 bytes\nOptimized:       no\nPDF version:     1.6\n",
+    "text_path": "data/source_search/early_heads/tn_review/tn_1_58_1996_401_en.txt",
+    "pdf_pages": 114,
+    "native_non_whitespace_characters": 0,
+    "visually_reviewed_pdf_pages": [
+      1,
+      2,
+      3,
+      57,
+      110,
+      111,
+      112,
+      113,
+      114
+    ]
+  },
+  {
+    "source_path": "data/source_search/early_heads/raw/tn_1_58_2001_636_en.pdf",
+    "sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+    "bytes": 46417323,
+    "pdfinfo": "Title:           2001 reservation amendments\nSubject:         2001 reservation amendments\nKeywords:        \nAuthor:          OKEN Scanner\nProducer:        intsig.com pdf producer\nModDate:         \nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           77\nEncrypted:       no\nPage size:       595 x 842 pts (A4)\nPage rot:        0\nFile size:       46417323 bytes\nOptimized:       no\nPDF version:     1.7\n",
+    "text_path": "data/source_search/early_heads/tn_review/tn_1_58_2001_636_en.txt",
+    "pdf_pages": 77,
+    "native_non_whitespace_characters": 0,
+    "visually_reviewed_pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      39,
+      77
+    ]
+  },
+  {
+    "source_path": "data/source_search/early_heads/raw/tn_1_58_2006_214_en.pdf",
+    "sha256": "8b9ec221985b122d4b9d0720acd68b07aca400f73375aa8fc07d842b4bae5586",
+    "bytes": 2722375,
+    "pdfinfo": "Creator:         \nProducer:        \nCreationDate:    Mon Jun 15 06:33:50 2026 PDT\nModDate:         Mon Jun 15 06:33:50 2026 PDT\nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           6\nEncrypted:       no\nPage size:       595.26 x 841.86 pts (A4)\nPage rot:        0\nFile size:       2722375 bytes\nOptimized:       no\nPDF version:     1.7\n",
+    "text_path": "data/source_search/early_heads/tn_review/tn_1_58_2006_214_en.txt",
+    "pdf_pages": 6,
+    "native_non_whitespace_characters": 0,
+    "visually_reviewed_pdf_pages": [
+      1,
+      6
+    ]
+  },
+  {
+    "source_path": "data/source_search/early_heads/raw/tn_1_58_2006_228_en.pdf",
+    "sha256": "1d6db70518c7460a4618032cb91c2818541ad2f4243d72d332b0fb9e94b00498",
+    "bytes": 116427005,
+    "pdfinfo": "Creator:         \nProducer:        \nCreationDate:    Mon Jun 15 06:33:50 2026 PDT\nModDate:         Mon Jun 15 06:33:50 2026 PDT\nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           509\nEncrypted:       no\nPage size:       595.26 x 841.86 pts (A4)\nPage rot:        0\nFile size:       116427005 bytes\nOptimized:       no\nPDF version:     1.7\n",
+    "text_path": "data/source_search/early_heads/tn_review/tn_1_58_2006_228_en.txt",
+    "pdf_pages": 509,
+    "native_non_whitespace_characters": 0,
+    "visually_reviewed_pdf_pages": [
+      1,
+      2,
+      144,
+      145,
+      146,
+      147,
+      509
+    ]
+  },
+  {
+    "source_path": "data/source_search/early_heads/raw/tn_1_58_2006_254_en.pdf",
+    "sha256": "c70a6850423937298c7609007a239171c8afcbd280de6f3b477ea3ee35c85667",
+    "bytes": 2745470,
+    "pdfinfo": "Creator:         \nProducer:        \nCreationDate:    Mon Jun 15 06:33:50 2026 PDT\nModDate:         Mon Jun 15 06:33:50 2026 PDT\nCustom Metadata: no\nMetadata Stream: no\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            none\nJavaScript:      no\nPages:           10\nEncrypted:       no\nPage size:       595.26 x 841.86 pts (A4)\nPage rot:        0\nFile size:       2745470 bytes\nOptimized:       no\nPDF version:     1.7\n",
+    "text_path": "data/source_search/early_heads/tn_review/tn_1_58_2006_254_en.txt",
+    "pdf_pages": 10,
+    "native_non_whitespace_characters": 0,
+    "visually_reviewed_pdf_pages": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "source_path": "data/source_search/early_heads/raw/tn_1_58_2011_316_en.pdf",
+    "sha256": "ee13b9ba82647a7ae1c14583baf3d3083c2aff77346161cdd31700da93c08527",
+    "bytes": 1481656,
+    "pdfinfo": "Title:           Ex-II-2-316.pmd\nAuthor:          a\nCreator:         PageMaker 7.0\nProducer:        Acrobat Distiller 7.0 (Windows)\nCreationDate:    Tue Sep 13 23:06:38 2011 PDT\nModDate:         Fri Sep 23 03:18:27 2011 PDT\nCustom Metadata: no\nMetadata Stream: yes\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            AcroForm\nJavaScript:      no\nPages:           351\nEncrypted:       no\nPage size:       595 x 842 pts (A4)\nPage rot:        0\nFile size:       1481656 bytes\nOptimized:       yes\nPDF version:     1.4\n",
+    "text_path": "data/source_search/early_heads/tn_review/tn_1_58_2011_316_en.txt",
+    "pdf_pages": 351,
+    "native_non_whitespace_characters": 933580,
+    "visually_reviewed_pdf_pages": [
+      1,
+      2,
+      7,
+      8,
+      161
+    ]
+  },
+  {
+    "source_path": "data/source_search/early_heads/raw/tn_1_58_2011_318_en.pdf",
+    "sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "bytes": 1425952,
+    "pdfinfo": "Title:           Ex-II-2-318.pmd\nAuthor:          a\nCreator:         PageMaker 7.0\nProducer:        Acrobat Distiller 7.0 (Windows)\nCreationDate:    Wed Sep 14 03:13:27 2011 PDT\nModDate:         Thu Sep 22 23:11:45 2011 PDT\nCustom Metadata: no\nMetadata Stream: yes\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            AcroForm\nJavaScript:      no\nPages:           153\nEncrypted:       no\nPage size:       595 x 842 pts (A4)\nPage rot:        0\nFile size:       1425952 bytes\nOptimized:       no\nPDF version:     1.4\n",
+    "text_path": "data/source_search/early_heads/tn_review/tn_1_58_2011_318_en.txt",
+    "pdf_pages": 153,
+    "native_non_whitespace_characters": 319557,
+    "visually_reviewed_pdf_pages": [
+      1,
+      2,
+      3,
+      153
+    ]
+  }
+]

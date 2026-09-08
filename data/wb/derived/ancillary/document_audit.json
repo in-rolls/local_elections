@@ -1,0 +1,62 @@
+[
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/purulia_PanchElec_1.pdf",
+    "source_sha256": "38ce86c0341b47fb55891dfdcf14115362392f2bd42f9b99e038a3baaf98bde6",
+    "pages": 2,
+    "parsed_rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/purulia_PanchElec_2.pdf",
+    "source_sha256": "f56d0981d67cfc180cf85a8abab6f3d6a4be5b5c8f0324a76678aa0489844c2e",
+    "pages": 3,
+    "parsed_rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/purulia_PanchElec_3.pdf",
+    "source_sha256": "5baca16e908addd6c705f89ff6151534990a04b1a48c5b3688c37187899746e1",
+    "pages": 1,
+    "parsed_rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_AT_A_GLANCE_a5fb489b.pdf",
+    "source_sha256": "b49d17531e69ad192a9c0cd0548b6126fb64a2741a68444e72d663840f066501",
+    "pages": 1,
+    "parsed_rows": 7
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_ContestingCandidate_786d71d9.pdf",
+    "source_sha256": "a437b52f4a809130e0a936420da7dd7e0c4e10ce794126732b11ef54cccd3265",
+    "pages": 1,
+    "parsed_rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_Reort_20on_20Single_20or_20No_20valid_20Nominations25042018_a6c525a7.pdf",
+    "source_sha256": "6033e8192d72e9570c4e8d2db3250f3be58c46ad6394d82bb4284b13af5e537c",
+    "pages": 1,
+    "parsed_rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_ReportonSingleNIL_ValidNominations_5e34b1f4.pdf",
+    "source_sha256": "666b011e1453bd19b6b2a341a82c2497bd1521811464381758e10de2636556f0",
+    "pages": 1,
+    "parsed_rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_TotalUncontestedSeats_398a668c.pdf",
+    "source_sha256": "f18b8e40f352bbc5cc47c5ed94edbfe99aa7d9ae2ae9fd9c5b30f8e6c1c65067",
+    "pages": 1,
+    "parsed_rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_WithdrawalReport28042018_a3ac0d4f.pdf",
+    "source_sha256": "ba5cf1446850e70efdd1f0e47480a24b70dfdddc6aa5da7b818b3dd9cb017b7b",
+    "pages": 1,
+    "parsed_rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_finalnomination23042018_c98e1aad.pdf",
+    "source_sha256": "40d7fe1809b78a570ac7d2892ab462b6181fa6f36cc0a4e0952574b3ff12db58",
+    "pages": 1,
+    "parsed_rows": 0
+  }
+]

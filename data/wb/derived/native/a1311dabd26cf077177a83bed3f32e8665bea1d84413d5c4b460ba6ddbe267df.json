@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "sha256": "a1311dabd26cf077177a83bed3f32e8665bea1d84413d5c4b460ba6ddbe267df",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 594.96,
+      "height": 841.68,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 2,
+      "width": 595.92,
+      "height": 841.92,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 3,
+      "width": 595.92,
+      "height": 840.96,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 4,
+      "width": 596.16,
+      "height": 840.48,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 5,
+      "width": 596.4,
+      "height": 841.2,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 6,
+      "width": 595.92,
+      "height": 840.96,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 7,
+      "width": 595.68,
+      "height": 840.96,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 8,
+      "width": 596.88,
+      "height": 840.96,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 9,
+      "width": 595.92,
+      "height": 841.44,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 10,
+      "width": 595.92,
+      "height": 840.96,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 11,
+      "width": 597.12,
+      "height": 841.68,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 12,
+      "width": 595.92,
+      "height": 841.2,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 13,
+      "width": 595.44,
+      "height": 840.48,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 14,
+      "width": 595.92,
+      "height": 841.92,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 14
+}

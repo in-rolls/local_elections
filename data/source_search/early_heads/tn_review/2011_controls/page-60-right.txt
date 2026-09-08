@@ -1,0 +1,46 @@
+1 2 3
+Mohanur Panchayat Union Contd.,
+4 Parali SC(General)
+5 K.Puduppalayam SC(General)
+6 Ariyur General (Women)
+7 Kalippalayam General (Women)
+8 Manapalli General (Women)
+9 Olapalayam General (Women)
+10 Sengapalli General (Women)
+11 Sarkar Valavanthi General (Women)
+12 Rasipalayam General (Women)
+13 Oruvandur General
+14 Aniyapuram General
+15 Arasanatham General
+16 Arur General
+17 Chinnapethampatty General
+18 Komaripalayam General
+19 Ladduvadi General
+20 NanjaiEdaiyar General
+21 Peramandapalayam General
+22 Pettapalayam General
+23 N.Pudupatti General
+24 Tholur General
+25 Valaiyapatty General
+Namagiripet Panchayat Union
+1 Moolakuruchi ST (Women)
+2 Karkoodalpatty ST (General)
+3 Moolapallipatty ST (General)
+4 Ayilpatty SC (Women)
+5 Naraikinaru SC (Women)
+6 Jedarpalayam SC (General)
+7 Perumagoundampalayam SC (General)
+8 Unanathangal General (Women)
+9 Pachudayampalayam General (Women)
+10 Thimmanaickenpatty General (Women)
+11 Mangalapuram General
+12 Perappensolai General
+13 Eswaramoorthypalayam General
+14 Mathuruttu General
+15 Mullukurichi General
+16 Navalpatty General
+17 Thoppapatty General
+18 Vadugammuniappampalayam General
+Namakkal Panchayat Union
+1 Periyagoundampalayam SC (Women)
+2 Vagurampatti SC (Women)

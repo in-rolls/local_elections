@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "sha256": "49611057b2633562f9db4083175d3508cb25554c6b6571edfd862459e99324f5",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "(FORM-`A1`)\n[(See rule 23 (1)]\nO R D E R.\nNo 255 (10) /P&RD Dated 07.02.2008\nIn exercise of the power Conferred by sections 12 & 17 of the West Bengal Panchayat Election Act,2003 (West Ben. Act XXI of 2003 ) , read with rules 22 & 23\nof the West Bengal Panchayat Election Rules 20006 ,I, the District Panchayat Election Officer & District Magistrate of the District of Nadia as the prescribed\nauthority appointed by the State Government in the Department of Panchayats and Rural Development under notification No 623-PN/O/I/3R-3/2004 dated\n09/02/2007 for the purpose of rules 22and 23 of the said rules ,hereby publish the draft of this order to determine for the Grams specified in column (1) of the\nSchedule below, the total number of members, Scheduled Castes members, Scheduled Tribes members and women members to be elected to such Gram\nPanchayats specified in the corresponding entries in columns (2a), (2b), (2c) and (2d) respectively, to divide the area of the Grams into constituencies with serial\nnumbers assigned to them specified in the corresponding entries in column (3), to allocate to each such constituency seat or seats specified in the corresponding\nentries in column (4), seat or seats reserved for the Scheduled Castes or the scheduled tribes persons specified in the corresponding entries in column (5), and seat\nor seats reserved for women specified in the corresponding entries in column (6), of the Schedule, for information of persons likely to be affected thereby.\nThe draft will be taken up for consideration after fifteen days from this day and any objection of suggestion with respect thereto, which may be received by the\nundersigned within the said period, shall be duly considered.",
+      "tables": [],
+      "images": 0,
+      "characters": 1842
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE\nBLOCK:- HARINGHATA\nName of Number of members to be elected in the Gram Number , name & area of Seats allocated Seats reserved for Seats\nGram Panchayat Constituencies with Serial numbers to each Scheduled reserved\nTotal Scheduled Scheduled Women Constituencies Castes or Scheduled for\nnumber of Castes Tribes member with Serial Tribes Women\nmembers member member numbers against against\nSerial number of Serial\nSeats number of\nSeats\n1 2(a) 2(b) 2(c) 2(d) 3 4 5 6\nPart no 83/128 Totalvoter1408\nBirohi- I/I 1 ---- 1 Women\nMouza-Baksa,\nJ.L No :-1 --\nBirohi-I 11 3 1 4 Area:- (a) Nikaripara, (b) Ghoshpara 2 ----\n(c) Majherpara (d) Bagdipara,\nPart no 83/129 Total vot\nBirohi- I/II 3 -- ---\nPanchpukuria, & Sonakhali, J.L No\n:-2 & 3 4 -- 4 Women\nArea:- (a) Panchpukuria Full (b)\nMahatmajipara (c) Biswaspara",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            145.34879999999998,
+            770.616,
+            432.54479999999995
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number of members to be elected in the Gram\nPanchayat",
+              null,
+              null,
+              null,
+              "Number , name & area of\nConstituencies with Serial numbers",
+              "Seats allocated\nto each\nConstituencies\nwith Serial\nnumbers",
+              "Seats reserved for\nScheduled\nCastes or Scheduled\nTribes\nagainst\nSerial number of\nSeats",
+              "Seats\nreserved\nfor\nWomen\nagainst\nSerial\nnumber of\nSeats"
+            ],
+            [
+              null,
+              "Total\nnumber of\nmembers",
+              "Scheduled\nCastes\nmember",
+              "Scheduled\nTribes\nmember",
+              "Women\nmember",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2(a)",
+              "2(b)",
+              "2(c)",
+              "2(d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Birohi-I",
+              "11",
+              "3",
+              "1",
+              "4",
+              "Part no 83/128 Totalvoter1408\nBirohi- I/I\nMouza-Baksa,\nJ.L No :-1\nArea:- (a) Nikaripara, (b) Ghoshpara\n(c) Majherpara (d) Bagdipara,",
+              "1\n2",
+              "----\n----",
+              "1 Women\n--"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/129 Total vot\nBirohi- I/II\nPanchpukuria, & Sonakhali, J.L No\n:-2 & 3\nArea:- (a) Panchpukuria Full (b)\nMahatmajipara (c) Biswaspara",
+              "3\n4",
+              "--\n--",
+              "---\n4 Women"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 893
+    },
+    {
+      "page": 3,
+      "width": 792,
+      "height": 612,
+      "text": "Part no 83/130 Totalvoter-580\nBirohi- I/III 5 5 ST 5 ST\nSonakhali, J.L No :-3 (Women)\nArea:- (a) Netajipara,\nPart no 83/131 Total voter1201\nBirohi- I/IV 6 -- ---\nMouja:- Birohi,J.L No :-4\nArea:- (a) Birohi Roypara\n(b) Hatpara\nPart no 83/132 Total vot\nBirohi- I/V 7 7 SC ---\nMouja :- Birohi & Chandirampur,\nJ.L No :-4 & 5\nArea:- (a) Halderpara,\n(b) Baruipara (c) Musalmanpara (d)\nChandipara,\nPart no 83/133 Total voter- 993\nBirohi- I/VI, 8 -- --\nMouja:- Chandirampur ,J.L No :-5\nArea:- (a) Methopara,\n(b) Natunpara,\nPart no 83/134 Total voter 932\nBirohi- I/VII, 9 9 SC 9 SC\nMouja:- Chandirampur,J.L No :-5 (Women)\nArea:- (a) Beledanga,\n(b) Baganpara,",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            106.35191999999998,
+            770.616,
+            468.72120000000007
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Part no 83/130 Totalvoter-580\nBirohi- I/III\nSonakhali, J.L No :-3\nArea:- (a) Netajipara,",
+              "5",
+              "5 ST",
+              "5 ST\n(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/131 Total voter1201\nBirohi- I/IV\nMouja:- Birohi,J.L No :-4\nArea:- (a) Birohi Roypara\n(b) Hatpara",
+              "6",
+              "--",
+              "---"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/132 Total vot\nBirohi- I/V\nMouja :- Birohi & Chandirampur,\nJ.L No :-4 & 5\nArea:- (a) Halderpara,\n(b) Baruipara (c) Musalmanpara (d)\nChandipara,",
+              "7",
+              "7 SC",
+              "---"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/133 Total voter- 993\nBirohi- I/VI,\nMouja:- Chandirampur ,J.L No :-5\nArea:- (a) Methopara,\n(b) Natunpara,",
+              "8",
+              "--",
+              "--"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/134 Total voter 932\nBirohi- I/VII,\nMouja:- Chandirampur,J.L No :-5\nArea:- (a) Beledanga,\n(b) Baganpara,",
+              "9",
+              "9 SC",
+              "9 SC\n(Women)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 715
+    },
+    {
+      "page": 4,
+      "width": 792,
+      "height": 612,
+      "text": "Part no 83/135 Totalvoter-1094\nBirohi- I/VIII 10 -- ---\nMouza:- Ayeshpur & Panchpota, J.L\nNo :-9 & 6\nArea:- (a) Ayeshpurpaschimpara (b)\nPanchpota full\nPart no 83/136 Totalvoter-731\nBirohi- I/IX, 11 11 SC --\nMouza:- Ayeshpur, J.L No :-9\nArea:- (a) Ayeshpurpurbapara\nDISTRICT PANCHAYAT ELECTION OFFICER\n&\nDISTRICT MAGISTRATE, NADIA\nDate : 07.02.2008",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            106.35191999999998,
+            770.616,
+            255.13919999999996
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Part no 83/135 Totalvoter-1094\nBirohi- I/VIII\nMouza:- Ayeshpur & Panchpota, J.L\nNo :-9 & 6\nArea:- (a) Ayeshpurpaschimpara (b)\nPanchpota full",
+              "10",
+              "--",
+              "---"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/136 Totalvoter-731\nBirohi- I/IX,\nMouza:- Ayeshpur, J.L No :-9\nArea:- (a) Ayeshpurpurbapara",
+              "11",
+              "11 SC",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 393
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 4
+}

@@ -1,0 +1,1667 @@
+[
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/README.md",
+    "sha256": "1648a79755187e6e8a8507419f247d1f295ee52056f222e509f318a8b1aaec95",
+    "bytes": 5691
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/district_counts.csv",
+    "sha256": "6eabeff46065c73bf4935263115d87b82c80e3f593cbbbc99b83c20195a41151",
+    "bytes": 3985
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/district_counts.json",
+    "sha256": "4b4652622e467547ddb1d029ccd5591401bb2a5f50e0459240695ad17fc9bceb",
+    "bytes": 8227
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/groups.json",
+    "sha256": "a20052271a52529d1415ffeb1d207fa8c6b463d4674b60bf88d23100fca2eed7",
+    "bytes": 2883927
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/headings.csv",
+    "sha256": "1e1f1482c8a71212c80798c56d00b29a044899b1a5cf88a6c44bb47fbb668edb",
+    "bytes": 25601
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/headings.json",
+    "sha256": "97b66240014c83b43037420a3c167f84ca92f77a394b4f88f7916b696bc784c7",
+    "bytes": 70829
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/other_lines.csv",
+    "sha256": "a4afde69ba0d1d061a44ffe3921d6b599122c55092af223e6b23738c49bcc6af",
+    "bytes": 48854
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/other_lines.json",
+    "sha256": "f01fff49dae0f0b3169dcc5fe61903b4ca2c2bee6eb908ab6afe2a11f894cfa1",
+    "bytes": 156312
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-10-left.txt",
+    "sha256": "7a1940e460915c0e35687b37516050456217df4f9122b57e63d56255b2b53cc8",
+    "bytes": 1172
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-10-right.txt",
+    "sha256": "10e561444433449d2d07ce7087431f65cfa777b60348dec6b3d6dca72c995652",
+    "bytes": 1131
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-100-left.txt",
+    "sha256": "fcd23f85ec5df3af6e8e2556147570ec2dfa96ef8234e53e719e88aefc8384f9",
+    "bytes": 918
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-100-right.txt",
+    "sha256": "354df5a95859dd7b5c91d1fd383b9d15eb507c332814068e78e7142415a23911",
+    "bytes": 940
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-100.png",
+    "sha256": "ee4836cd0006a4e0178869d1792381eedb8729a9726538c02c0b91b6b4436b2e",
+    "bytes": 144572
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-101-left.txt",
+    "sha256": "260949547594be78b60a3c6f9c4192941913cbb24dd377b783c19f8fd7ec93b4",
+    "bytes": 858
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-101-right.txt",
+    "sha256": "7be78e78ff82326222885c6949e72bebb4ff8f134f8fb4826e69071a05d442da",
+    "bytes": 644
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-102-left.txt",
+    "sha256": "54dc4e36965bc5087c0b98a289b7eeda4de8679042db58347d8e22c304c0042f",
+    "bytes": 1366
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-102-right.txt",
+    "sha256": "a741fe0d4823be435dd9cb93587aa4fa072b41c5cfd27d25b11cb991cd1721af",
+    "bytes": 1316
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-103-left.txt",
+    "sha256": "e22eceffaa81a086164303bec8301abcaa595ef3aeb66bf4ebc6f56319707b78",
+    "bytes": 1107
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-103-right.txt",
+    "sha256": "1e65a129e32522875dc9123c6e8cb4c50b6ed31bb2f2a933e37b4528e352c17a",
+    "bytes": 958
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-104-left.txt",
+    "sha256": "f4eabeb5f11da8c9650024bb914af97346e0807b9af458c6c2953bdca38a1a30",
+    "bytes": 971
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-104-right.txt",
+    "sha256": "72938f3b7a0f349ca6c02b413cea70961073eaa1588c1009981010fbc60849d0",
+    "bytes": 1025
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-105-left.txt",
+    "sha256": "24eb5a372e2add489405a44030cc58a5ab7f96e5e37597a44ef1cd9b2f356fd7",
+    "bytes": 775
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-105-right.txt",
+    "sha256": "1825291468169a56376491c790d6b4d19c1f5bfe1fa70784540f3400c33a1916",
+    "bytes": 777
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-106-left.txt",
+    "sha256": "12173857d93b5b55238f59b9355c067117e29ebd357b39c359d732217cd271f4",
+    "bytes": 1179
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-106-right.txt",
+    "sha256": "3cb502aafeb6f362195290e3c47b4c98972085d68c0a2c9cfabd917b2b8f44b5",
+    "bytes": 1154
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-107-left.txt",
+    "sha256": "13bad76802fe472048b5955274ee0c88e572ad634cd4603536daa60c432a920a",
+    "bytes": 878
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-107-right.txt",
+    "sha256": "8803fd170dde946c293cf567059d8329a01ac3d1c5178fed49351e51f2bb47fc",
+    "bytes": 938
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-108-left.txt",
+    "sha256": "3c9d2ae9d1fbd26dce031c33942985f5b199030ff9bfdea83df68cb156519918",
+    "bytes": 886
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-108-right.txt",
+    "sha256": "f96d9e171f08d419b34715e20260656f2f6cdb8da2c0c2b3255d586e8594319f",
+    "bytes": 769
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-109-left.txt",
+    "sha256": "fc97546a064fb4c3f23ea59021af1e967110b521e029f6b5d31c3582a20cf9fb",
+    "bytes": 1426
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-109-right.txt",
+    "sha256": "a8d504bd4182af30806a717a888409a5867077385c3cb7d2271b9735419e90fe",
+    "bytes": 1453
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-11-left.txt",
+    "sha256": "359514eaaf8fa386b7c2a3301f013c2b714de1a49e76d01be1b8dc14ed8ae827",
+    "bytes": 1259
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-11-right.txt",
+    "sha256": "d57d0fa2b1030a59cb0de520f40008c598bf0cb7d1941e1bebd2c61945d74815",
+    "bytes": 1264
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-110-left.txt",
+    "sha256": "28722a2f8136927712a375242a64dca8df5ee517ee02f450f7dd8f8ac5fe4d5c",
+    "bytes": 1394
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-110-right.txt",
+    "sha256": "0c0e6e2d8e67b46012224d92ac37bf2cfaa5ed54caa4405812fae7938cc0832f",
+    "bytes": 1355
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-111-left.txt",
+    "sha256": "be5cb349515a7258ff170c5297a06e36d5d47c98e572513fe32d373896c0c2aa",
+    "bytes": 1538
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-111-right.txt",
+    "sha256": "29b9adb0a10375f5f46ba2c16ede13878dbc32b64d31d646d4988ae13e84aecd",
+    "bytes": 1343
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-112-left.txt",
+    "sha256": "406f3b9303dcea6d1b5ad92b764e835cbe1e037010b0bd0b98922388b6dc8910",
+    "bytes": 1367
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-112-right.txt",
+    "sha256": "2834bfb354c1a095f92c0c4b8d754ba0b230fb96363a7e83ec74ed44a0bc4984",
+    "bytes": 1347
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-113-left.txt",
+    "sha256": "5b69e02199be13a83471e63b960eac6eaff349875731cdafee63c4a22694f0dd",
+    "bytes": 1350
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-113-right.txt",
+    "sha256": "96d3c11218b88a530f52221dcb0bb04d0cece491f7f17a3d45b5f1f172a451d5",
+    "bytes": 1167
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-114-left.txt",
+    "sha256": "c2581eed4906ad241e30fcee63151b4d55f1adaceb8380ad13d5a57104c52edf",
+    "bytes": 1380
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-114-right.txt",
+    "sha256": "290f3d50a01fde755d95b8ba237f919f20ef3a05932741f8838bc1f06ced7af9",
+    "bytes": 1396
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-115-left.txt",
+    "sha256": "48f1bb03565265e31ac7cf55bb5ea725f7a876b69577f266dad5393d96d6d433",
+    "bytes": 1335
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-115-right.txt",
+    "sha256": "7fabda3f579de00e345e564186f4fd880fb6b9e8cc3c58c0ea62e125f859da4b",
+    "bytes": 1360
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-116-left.txt",
+    "sha256": "64d4ce33fcbd4f71ea64123884f21bcf5fd72e24a2e2b117abd21a1272821794",
+    "bytes": 1298
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-116-right.txt",
+    "sha256": "8c59063dd2261252c86a881339be3fb2f4aee103802268ec40d0623cfe977491",
+    "bytes": 1276
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-117-left.txt",
+    "sha256": "c4c48e1c3700e923840485543bc33bc914649a0c5111ddbc9a4ff44212a1eed8",
+    "bytes": 1395
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-117-right.txt",
+    "sha256": "4e5bddfdda8d5ab9a5abe49c475917122231549d144950aa51f961ac92c287b8",
+    "bytes": 1328
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-118-left.txt",
+    "sha256": "869fd149d6d58cdc300a29f967a8cd0126575108bfb34d1d8f0c32b626a3ec0b",
+    "bytes": 1144
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-118-right.txt",
+    "sha256": "1def07dbe06eeb097aafec8a40329937cd20c93a83634b8221ea2b41a894310c",
+    "bytes": 6
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-119-left.txt",
+    "sha256": "8633a1a57fd82326ef61bff45744f54890b5325460d203a30490c80743024261",
+    "bytes": 1512
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-119-right.txt",
+    "sha256": "414db8eb8e1b13325610839dc5d542c1360512a27c11a6a115bf7eac19408e9d",
+    "bytes": 1494
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-12-left.txt",
+    "sha256": "4380dbfdd52654d05d0e1230cbaaa9bc50f6eb8bcbd8b16122939624130f138d",
+    "bytes": 1256
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-12-right.txt",
+    "sha256": "b349e1ad80c8fc4d5660924d9d226c2388fd06f8f65a9952eacdbff0270e962e",
+    "bytes": 1270
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-120-left.txt",
+    "sha256": "ffc74d07d2f4cd5f088c5abd172c24c20c917aff4f64b2fccf46ca1abf6aeb01",
+    "bytes": 992
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-120-right.txt",
+    "sha256": "68cd4616fac58949f89263e6fc62715cc95485b7d2c705178454a1d1bc6c86d4",
+    "bytes": 188
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-121-left.txt",
+    "sha256": "44bfd28580791b23fcb5a052aa809b236e23f056aaf2160878cdba90c4ccad19",
+    "bytes": 1455
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-121-right.txt",
+    "sha256": "e47d76c272e517a5c2ab9a73e1c6b30b195a711e7a290b85f47842e5610ec4ab",
+    "bytes": 1456
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-122-left.txt",
+    "sha256": "2a1f99c161d342f09eec4c3e088f1579d1fe72d22ad78b3156752ffc42cae1a2",
+    "bytes": 1418
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-122-right.txt",
+    "sha256": "c82cfd7024d3d526809d56c98d7658d8fd86840bf4818d34fba552a2ad2f48e2",
+    "bytes": 1331
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-123-left.txt",
+    "sha256": "1237d558cb62ca1da13b2b3b90bd6ac17be8a92730bdaeb125ddc8cf6236ae10",
+    "bytes": 1271
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-123-right.txt",
+    "sha256": "61a5b1ea65fdd9b947081f5d69893c0f73850f78a6f34a25eafbc6b6c81fab88",
+    "bytes": 1359
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-124-left.txt",
+    "sha256": "4e3bbeca69c1ffb8365a422c9de776448f6ce2c2659a90e3ccf9dd01aec2721b",
+    "bytes": 708
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-124-right.txt",
+    "sha256": "1def07dbe06eeb097aafec8a40329937cd20c93a83634b8221ea2b41a894310c",
+    "bytes": 6
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-125-left.txt",
+    "sha256": "53602075974121bfd2094d5b4f7a28e70801a868cb0434bb0ff73c30808f79af",
+    "bytes": 1375
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-125-right.txt",
+    "sha256": "03700abe00daf94167a6175f8e4136cd374517562226c39f433603fb1fb417d9",
+    "bytes": 1286
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-125.png",
+    "sha256": "722b6f9f9f82dc35b4415574c72ab9c88010a4a35ace1460a964686ca2dd9e3c",
+    "bytes": 207498
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-126-left.txt",
+    "sha256": "13d477e671f79cb89a426c1f7845302ee8eb61014af9e112c8e67e6a45e4ec83",
+    "bytes": 1498
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-126-right.txt",
+    "sha256": "51da65f4886506bcb8ba4da7016a7e9877a21746a2d7b8c96c1c84e3db25476f",
+    "bytes": 1489
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-127-left.txt",
+    "sha256": "f61d631f6de901d3f139d7851ea7d6539ba97871bece858a3a847c935def3c2e",
+    "bytes": 1519
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-127-right.txt",
+    "sha256": "f6a5b77c43c63956457e7d06847e15bd11489c471a838a0d2d44ac3567d454a9",
+    "bytes": 1472
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-127.png",
+    "sha256": "e594b034fe8a3f1182c81396068caf3163ce7dec23cb398d663d1847a3878bbd",
+    "bytes": 224036
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-128-left.txt",
+    "sha256": "3959347153429e8aeb0aba7814ba1d4c71e2d4688009ccc796dbca570b0023ae",
+    "bytes": 1539
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-128-right.txt",
+    "sha256": "84eac740d00edcb945ae38cf912cfb97a5b0af55e5250992c142b904d2cb2a39",
+    "bytes": 1521
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-128.png",
+    "sha256": "8d4f83ba135331ed28e0c9adc28d33458c14ee4e05167401237515115728cd31",
+    "bytes": 227242
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-129-left.txt",
+    "sha256": "1f2ae05ce24300fde56c5d08aef6f279f13d92373865a4baa61e3d76303c195a",
+    "bytes": 314
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-129-right.txt",
+    "sha256": "1def07dbe06eeb097aafec8a40329937cd20c93a83634b8221ea2b41a894310c",
+    "bytes": 6
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-13-left.txt",
+    "sha256": "c2849b8da8d9f8c38192519b5c8d9e6325fe635b9743b4098c65905939b96bb5",
+    "bytes": 1247
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-13-right.txt",
+    "sha256": "c1666fd14893b0b290c3fe623f5b4f119feef67cdb89f99d284d76c252400f4d",
+    "bytes": 1220
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-130-left.txt",
+    "sha256": "6a68623c5fb2e526ee5ca82374230e8259a55de45b93f6b15b13b0a3281163b1",
+    "bytes": 1229
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-130-right.txt",
+    "sha256": "47bfed1bb84cef6834508f266290930128c06cec4b0acbec37a1833bc6f9bc08",
+    "bytes": 1177
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-131-left.txt",
+    "sha256": "1d1923a11ce4bb54b9cce0b5df480de24e729f5ced5dfc4575dfecec7d380ffa",
+    "bytes": 1217
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-131-right.txt",
+    "sha256": "88bb7f0d1d9ba6684fb604a9adef7c3538bd596e9d2195223d5a6e8f450550f5",
+    "bytes": 1128
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-132-left.txt",
+    "sha256": "624c3a44811894a0d5220cf59bf8a3291fa1ee7f955d094bf4aae6c51515445d",
+    "bytes": 1239
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-132-right.txt",
+    "sha256": "689a9c2ee5355b63887bc22ce889292a3f5a2b3ce11bc1c97845bc4a35f500aa",
+    "bytes": 1219
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-133-left.txt",
+    "sha256": "871feaf8079a734e738e45480bbd8ddec52077f3f40797570bd0e5790ad83efc",
+    "bytes": 1199
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-133-right.txt",
+    "sha256": "4d76210395521d0baa7de8eed3527775d774c9182c4b304ad3905d1828312e6d",
+    "bytes": 1114
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-134-left.txt",
+    "sha256": "4e9656c35d3e859c5cbbf33368e64bb301c554bff4bebb3a1465d1a8c09dfe17",
+    "bytes": 1232
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-134-right.txt",
+    "sha256": "38ee16971ef0744ee713d0e9cdb97748c7bde0cdb2444901f4049ac3efdb37f2",
+    "bytes": 1273
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-135-left.txt",
+    "sha256": "d4f2c2ee70ab369adcf71d9feb2a7e9a3c906a7664a17331b101cab36382d288",
+    "bytes": 1052
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-135-right.txt",
+    "sha256": "867606ce754d3df06ce866fd802c7c1b827f9b3da1aa24bea9720f15086ecc38",
+    "bytes": 351
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-136-left.txt",
+    "sha256": "af9ebfda61b7b8b1902da09b5d7f3a9c216bf97a1059107ce19e98e9cff82f4c",
+    "bytes": 1320
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-136-right.txt",
+    "sha256": "388a820e98264e13376ad8fc041ff01765e989132ebbb04850083422bf9ecb40",
+    "bytes": 1304
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-137-left.txt",
+    "sha256": "c4aef8cd6ab65a688cff13576deaa1b9793d358a07cde6e9a87ef9d4f763e844",
+    "bytes": 1220
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-137-right.txt",
+    "sha256": "3765ca1daaa231f175b834d8464ed7efb6dfd0d8a74942f41b1ae4d1f3f942e1",
+    "bytes": 1218
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-138-left.txt",
+    "sha256": "c1139f4af61d83f49103a2fb070b1b36cb72007e2e46a3b9e191ce347ecbd00f",
+    "bytes": 1371
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-138-right.txt",
+    "sha256": "410e0124c058bf85ae477ffeb1eb25da7e8e00d02f087a99be8dd7831faac643",
+    "bytes": 1307
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-139-left.txt",
+    "sha256": "38241279f607de141accee30a8fdd6a37bf80507df25a018bb53c47369b128e6",
+    "bytes": 1176
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-139-right.txt",
+    "sha256": "71920d5b80d13e300e9be4415f3d27356ce8997de13d5ce670f1cef98f86dedd",
+    "bytes": 1140
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-14-left.txt",
+    "sha256": "71e5de557db5e49f55252ed9918da814122a943c97aba4d251ecaa3252695cca",
+    "bytes": 1339
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-14-right.txt",
+    "sha256": "ed92c37fa84404a672ca1fd64e1bf82d2c2571610b1195a4cb2460537ad401f3",
+    "bytes": 1345
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-140-left.txt",
+    "sha256": "67d9993afddbd6964c74beb98860c321fa3e366b24321d11bbe21a9d315ff110",
+    "bytes": 1385
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-140-right.txt",
+    "sha256": "2b2d5bba54925e8e39080edec775cffa6a3d6d0f37b952cdd6f1eda44ee2bd66",
+    "bytes": 1090
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-141-left.txt",
+    "sha256": "64b91afe4587b77538940815a20311f8300fef36b89b818f58ce05d9da09d7a4",
+    "bytes": 1209
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-141-right.txt",
+    "sha256": "b07456d85e6e7403cb28059931b09370e88daa576f603c934cfa6dcac598ed4e",
+    "bytes": 1244
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-142-left.txt",
+    "sha256": "a3b96ef93b50758ae6150e591538378e9961d78ea9133779676bac2907b26aca",
+    "bytes": 1265
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-142-right.txt",
+    "sha256": "274852d3ce6fece0262c5ddf5c5fe880382bb05523fb9486b3ef68bacf7fafb5",
+    "bytes": 1196
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-143-left.txt",
+    "sha256": "7a4655a62f268e36320e70b11a26b1aeb1e82c2561a8648e7bddb1308f90ec1a",
+    "bytes": 1233
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-143-right.txt",
+    "sha256": "adccdf3277f2cc23e495f67040fdce6ce86d280240b32c430f6e6cd5f82042d8",
+    "bytes": 1198
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-143.png",
+    "sha256": "4d0b4442a15dfd0bf14e2bf9d4a997fc62c1453e49779d9073b9cedd12453bda",
+    "bytes": 171003
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-144-left.txt",
+    "sha256": "15c29d47f1f9df5ee4bb3bd54656341260b86aabbeea286dbfe20b42146648f7",
+    "bytes": 1252
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-144-right.txt",
+    "sha256": "2f43d820421809c844c681d2d3b36b7332c4b1f08d73b8a1bc74d1254b75a66d",
+    "bytes": 1256
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-145-left.txt",
+    "sha256": "27036990bd04ffe483b71f1d0ca5a594f2fd37870d6ab432d98c28cd6fbdd312",
+    "bytes": 1189
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-145-right.txt",
+    "sha256": "0e2ddfb0d5f1841fde4c66e40d1d37751f154186c7b90d3eae299b2076dc5ee8",
+    "bytes": 1019
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-146-left.txt",
+    "sha256": "73220666304ee8dfe871aa41e4e92893ad2732598a9336ccab92ae4b37332e81",
+    "bytes": 429
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-146-right.txt",
+    "sha256": "3aae3175d9e3ed5f6fda0fe7bb5009fb83389f0220dc5dbadb0caaff62d54a2a",
+    "bytes": 385
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-147-left.txt",
+    "sha256": "b1fe5efac289a68e2da95c6c823f70e39b3da5fe0e8322540dd483d274f3e522",
+    "bytes": 1335
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-147-right.txt",
+    "sha256": "03341e236d254adc90cc72aba585f9e79cae690c38b6b2e8374329a11e7f1f4a",
+    "bytes": 1263
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-148-left.txt",
+    "sha256": "627b4fba9e8675e0bb0132559ab472cbfc1f39ceb6a03fd17e0e2df94a78cc86",
+    "bytes": 1363
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-148-right.txt",
+    "sha256": "5e76199dc3e70cf56b77381375af1a8cae3c160c516b621de3e36314277fde14",
+    "bytes": 1309
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-149-left.txt",
+    "sha256": "3bb5bc58c94aebfea3c387e703c5ce4664ada00355ba8918b654eba2a24e0ace",
+    "bytes": 1546
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-149-right.txt",
+    "sha256": "cb14d7c78f6b4691bcf16b36b6c6ac287ad7b79e0524e9951447c950add43b99",
+    "bytes": 1597
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-15-left.txt",
+    "sha256": "572f53338e76f86053e1f80246c3922b73448dde5bcb5f63f6f6aa11e4d31e0c",
+    "bytes": 1397
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-15-right.txt",
+    "sha256": "d1a3fb873ab6e62d69bf907c451fad8497ab97cd2036d688cecd2f9db84293a7",
+    "bytes": 631
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-15.png",
+    "sha256": "eb1c0276f8cf6a879fafcae568d485083270eb99afa30607a33a329a7b1640fc",
+    "bytes": 171244
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-150-left.txt",
+    "sha256": "c1c6a22c6822f07c26bf72347e65091a0253c96335466d5da6c2b8a1b87f175f",
+    "bytes": 1556
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-150-right.txt",
+    "sha256": "3cc826e3b228ebc7cead2f7f15efd5369f3cd16037fd8555531675ec0ef24ea5",
+    "bytes": 1578
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-151-left.txt",
+    "sha256": "58c84f0abe94cf785f18f1dd15aeb31e0ef0b3c05109c7a8bd1cf82861ba6c6b",
+    "bytes": 544
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-151-right.txt",
+    "sha256": "1def07dbe06eeb097aafec8a40329937cd20c93a83634b8221ea2b41a894310c",
+    "bytes": 6
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-151.png",
+    "sha256": "d07d98f3ce8ac8aecca007db0c49245e2b0160d551c998a7148fd1bd5969b949",
+    "bytes": 53573
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-152-left.txt",
+    "sha256": "115bf6e80229c8207778c1308cdd28c90a5d89144ca814dacd0ed5a67c4f6ad0",
+    "bytes": 1331
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-152-right.txt",
+    "sha256": "9b3816867d144249934d1f13e4bdc28b981da68950aa2fbabb48435396929cac",
+    "bytes": 1270
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-153-left.txt",
+    "sha256": "82c3783fdd4e4e85e39d7f9d3242ffa664366f6ab7ac801a4d32b188a294e840",
+    "bytes": 535
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-153-right.txt",
+    "sha256": "04e254f97a087656dc187a2ce80be074c1fe2b899b58646d44442e1c55ee5386",
+    "bytes": 106
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-16-left.txt",
+    "sha256": "ba3d454092f2746e3985343571e9cdcee19550d096b1366c33a2f37f68263837",
+    "bytes": 1322
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-16-right.txt",
+    "sha256": "251f091697a3e2f5e9511fcafad6f8f5fe0b41d425638cfa526e3aed7a177827",
+    "bytes": 1331
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-17-left.txt",
+    "sha256": "6ffdc48155f27d5ef65bd9059b927132c248b24866ab3ea3c7f0d738a9a15c1e",
+    "bytes": 1285
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-17-right.txt",
+    "sha256": "b432e03bcda559195459649eb8394442101381febc4226798d6400913706a4d0",
+    "bytes": 1351
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-18-left.txt",
+    "sha256": "ab5ffbe27ba690e64c13303c772893aaa7336f743461afeab50432c5f1ebce35",
+    "bytes": 1339
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-18-right.txt",
+    "sha256": "efba115fdc827a027ff092fdd5d29f5f891137a75a5b4923b29bc653c71765d9",
+    "bytes": 1281
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-19-left.txt",
+    "sha256": "0722aa012f3cac00e5150f5e3a5c0f0dbaee3d7a9a46b4096b0833a8cc55f851",
+    "bytes": 1270
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-19-right.txt",
+    "sha256": "4668b4203ebf0d16946611f79956663ecfc384d3ca58702943a191ea3b891c01",
+    "bytes": 1285
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-20-left.txt",
+    "sha256": "3d42788f133a35e1dff9302d0ce6b5faec946ef33c27ab551c8c229db33e9187",
+    "bytes": 1357
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-20-right.txt",
+    "sha256": "e3b94f34b15d318c5a0f94836c49ba78672f9991fe820a68cd7267ed9d7abb6e",
+    "bytes": 1414
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-21-left.txt",
+    "sha256": "623b3c28ee18e062df8569784bfbc77fec305f1f2e5227079680a5aa0b96890a",
+    "bytes": 1315
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-21-right.txt",
+    "sha256": "48edd6744e6c3733cc04029c1f9d5a3c3d908ddb6e2088eae115af7daba96088",
+    "bytes": 1275
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-22-left.txt",
+    "sha256": "e6110710fb97e3fb86db7684ed4990f740d653eb6316fa182a3f58d9184ce514",
+    "bytes": 1364
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-22-right.txt",
+    "sha256": "0133c3385c0289360b034d196f5dd55495c45df03171ea3c9bef6df71e33875a",
+    "bytes": 1281
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-23-left.txt",
+    "sha256": "1b46340b6e02674ab0f900b3e17c8ef46fcea0f3c6a0900d906da786c4895565",
+    "bytes": 428
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-23-right.txt",
+    "sha256": "41ed3897bf2a061ca339000634c39278cec3782cfc394c79fbb58a4ca15fdb38",
+    "bytes": 350
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-24-left.txt",
+    "sha256": "761fd1a665d97e70a3fb33923f075306bfcf02e547503bbba852608404c7e59c",
+    "bytes": 1445
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-24-right.txt",
+    "sha256": "acdb1914b14163e04a77b1bb81750079a6f650c46926d10147eac6731aea6d0e",
+    "bytes": 1511
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-25-left.txt",
+    "sha256": "3766ab0d16d5d5570d632a4b1440fe5ce43b4831cbd8b054659a1cfbf0fc2874",
+    "bytes": 1523
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-25-right.txt",
+    "sha256": "1c4a841b76daf5454839c6a7a8f591e7e9c3ac529feec0b6d6df01a6d000e0c6",
+    "bytes": 1452
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-26-left.txt",
+    "sha256": "2ccc330e208d9a796b18bd3f86b80fe698826bd3198da5f34f62015ed8faef60",
+    "bytes": 1488
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-26-right.txt",
+    "sha256": "9b65d67170ac8898932f7fb475b31398281f1a418daf8f533d61f32a1d3d03b0",
+    "bytes": 1487
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-26.png",
+    "sha256": "9d30ad6e36214594ad20ad046fe6625e2757428b20c89652aa981d2dc2bcccb4",
+    "bytes": 233831
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-27-left.txt",
+    "sha256": "7fbec30e657260fee5c494b2703c79419b8468b983ae8ee4ab2d3dc30e212989",
+    "bytes": 1526
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-27-right.txt",
+    "sha256": "3b45b12e8a27d59933aa1ee6a0f1bfac289bb10525bf9be00806112e85af1a78",
+    "bytes": 1482
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-27.png",
+    "sha256": "95c4498185f8059022a428a03d01ce7dbaaa5a7fa88e576a5e93e41d59e18a01",
+    "bytes": 228798
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-28-left.txt",
+    "sha256": "345b4fc716dca6c9b574d74884f4259366392b0d5198a5d0e0ed7379d4e8f448",
+    "bytes": 1418
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-28-right.txt",
+    "sha256": "fd76dfb02b42f57ead5a679a524775132948224be2f97c2bf2e319301e00776e",
+    "bytes": 1440
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-29-left.txt",
+    "sha256": "a4d02fbebb7dd4faa792ab1ee7efed7b600519778e4bf6ae3ac6334245c1a8a6",
+    "bytes": 1482
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-29-right.txt",
+    "sha256": "6b4edc5a905a452a4d10eb0f74e42ee016767d3c7397295ee8fabde68bc082d1",
+    "bytes": 1465
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-3-left.txt",
+    "sha256": "35e073ecf7636c9b6dc818f83be91734475a9d494ea83930e2c45debedfc9a4d",
+    "bytes": 1256
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-3-right.txt",
+    "sha256": "abb3efc6662dc4e0517a8fd709abde48265c0bfc54d1d2b05af81195e40ca644",
+    "bytes": 1334
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-30-left.txt",
+    "sha256": "492440bcf65944e48dd50a0879d22c65359b272bfb3cd2b82c34329c5fe0f023",
+    "bytes": 1510
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-30-right.txt",
+    "sha256": "21e945c1c820c4fa62fa437b6a73ddb713eb732efd06755e152d879528cd60d5",
+    "bytes": 1328
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-31-left.txt",
+    "sha256": "d131e7e972eab8f3b8b61144e96d02e8568269a84af6e6c89f908f43e69938a8",
+    "bytes": 1507
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-31-right.txt",
+    "sha256": "a5fd99f3bbf612cff164c09e281f17938889d574f23fae64cacebd4e1425e024",
+    "bytes": 1538
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-32-left.txt",
+    "sha256": "31306b31ffab46c7d50450499a1f908b3f42e653741c198a4852e519de0ede6c",
+    "bytes": 1550
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-32-right.txt",
+    "sha256": "50ef4230cda3c53247a82ff2235f80eb565f28fc967709783ac750177ad47f3b",
+    "bytes": 1518
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-33-left.txt",
+    "sha256": "ef5ecdc7703e92b36a5977a22dcb1f10bb6902c96e6fd4975f95aeef0c185095",
+    "bytes": 1375
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-33-right.txt",
+    "sha256": "f68539f2d4ef4b54458077039cb685d8de1df413cf45229d1df6f9be7cdd1d77",
+    "bytes": 393
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-34-left.txt",
+    "sha256": "be690e9c6ce9a93deaa61cdd41be762388aa8909fcb1e7e53256902ca368c6ef",
+    "bytes": 1285
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-34-right.txt",
+    "sha256": "ca6482c13e48023c30a6f10d2e3f21b38271adffaa331c74494f2af849d72a74",
+    "bytes": 1279
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-35-left.txt",
+    "sha256": "d8efa17e7989f0acdc9bef086260664ec50ae70d8b82049ed9ed20dcac1f6fcd",
+    "bytes": 1057
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-35-right.txt",
+    "sha256": "6b4bd74e02d306c679fc47c2dc2fca00855dbb198d3cddd1da4a7d5dcb4e70d8",
+    "bytes": 1062
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-36-left.txt",
+    "sha256": "34236f84726094b0ce490bcf5a9f77f21aec3839320f69c29c06a1e336f855af",
+    "bytes": 1325
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-36-right.txt",
+    "sha256": "b0b969a54ef283241a602017f4c5130e5bb2e8fef024b5ed3a49cf761ddb4885",
+    "bytes": 1300
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-37-left.txt",
+    "sha256": "ecd3ebe3855c41a408facb11931ed3c7c9d7b05a2081488b0c2f2d532346978f",
+    "bytes": 1213
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-37-right.txt",
+    "sha256": "d25fc907d39fe4752ec5a90847ba2560af0bcd96601530bc93feef195a2a6ed8",
+    "bytes": 1166
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-38-left.txt",
+    "sha256": "cb69e29bb1c9ba31af263aeb4961eb76cb6c54f833d8d65816e41be828e73ab2",
+    "bytes": 1183
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-38-right.txt",
+    "sha256": "83d97c98f7b110c5dbf7a0fd395c3f826863bbe47fa2955e73bba652a19f3bf5",
+    "bytes": 1128
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-38.png",
+    "sha256": "df256ef26a4174366baedeac3d36d3b41ffed0c4811c315eabd3c5f4558b9dce",
+    "bytes": 171988
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-39-left.txt",
+    "sha256": "b589daeb85d592217fd6614ebf5fa49d3e2a24987121ad3373c2177a576630af",
+    "bytes": 1092
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-39-right.txt",
+    "sha256": "3030d1548083a5e232bc68e837c2ef5968bdc756c3c772dd3f04b67d4968a2f3",
+    "bytes": 1151
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-4-left.txt",
+    "sha256": "aace3d0c289a9f50ab4df56e64e5ea7049024256ec7bca26423aa4713391b94e",
+    "bytes": 1221
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-4-right.txt",
+    "sha256": "ac7dd5e43fbc0d6cc370972a2e0f3dac03a44ec63e3870e437368428958f2471",
+    "bytes": 1198
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-40-left.txt",
+    "sha256": "ec7f81735276b67df9b176424b45344214647d03bb31e60bbfa85a8e7913b843",
+    "bytes": 1149
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-40-right.txt",
+    "sha256": "f139824e22bf7909ff2bbd4d73aa8a9f9b3d68b6a00316326218e824bfcf4c95",
+    "bytes": 1132
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-41-left.txt",
+    "sha256": "0e291aa139b4fd1d809346a6691be53bba9133d59f79097822a3a4f1babd93a4",
+    "bytes": 1142
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-41-right.txt",
+    "sha256": "a9b9917a8d4b1e8127b44e6c76fbf0e1d9f84714786ad80ab1e436b0ed54972f",
+    "bytes": 1002
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-42-left.txt",
+    "sha256": "e297723f3c02a20a0e210441e2121cc35e20ee887a460290e866f52c7c422aed",
+    "bytes": 1085
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-42-right.txt",
+    "sha256": "836e302ad30e255451575741df332349ecb082ed14f45d02a152a81daaaa2fc7",
+    "bytes": 1078
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-43-left.txt",
+    "sha256": "2ff41f6059034551ac7223658175a6b5bc8c65285baf8444bce494b2e3d9f475",
+    "bytes": 1355
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-43-right.txt",
+    "sha256": "8369b982d6c7e1b160e85af31f884639618d00bc9067a31cba1e442542b093a7",
+    "bytes": 1179
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-44-left.txt",
+    "sha256": "1012dab9bc7b85d6f2d76aebf96145780cbe9d1600c3eba2ba554b65f871482c",
+    "bytes": 1239
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-44-right.txt",
+    "sha256": "5f30ab54a0117c80ccee072f5f392571e09b2a1faf0d4bd28d6744d07e07c5e1",
+    "bytes": 1217
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-45-left.txt",
+    "sha256": "3be6d77b7f573070c5a53d9881b63625e45f069e59bbf71a57b958c9e71906d5",
+    "bytes": 1037
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-45-right.txt",
+    "sha256": "27789fb0c07dc8db83d82039826a7a83e688267d317c87c8314b919b76755942",
+    "bytes": 1079
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-46-left.txt",
+    "sha256": "3754820bcac69b5336a66779f92287d444b55f01edaa52a8d22c3ad0fc796ff7",
+    "bytes": 1054
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-46-right.txt",
+    "sha256": "f7bdcbaef90cc92a5e6f087172cb06d03fea22275228b4fbfb6b3f8968f1ba1d",
+    "bytes": 1073
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-47-left.txt",
+    "sha256": "ea22047bd5200bccec673b25bf8f1ee5ba9aa3e222b8a2a1e75d1cda97451016",
+    "bytes": 1061
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-47-right.txt",
+    "sha256": "8a234884ebd69f7cf11c2838ea307f289f9b8d31029336aa17a51ce0af13eafa",
+    "bytes": 1085
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-48-left.txt",
+    "sha256": "3f2de606bfd7de79249a625f8a192eab5672b30206005db0219635c485b4c81c",
+    "bytes": 1061
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-48-right.txt",
+    "sha256": "7bdca750be46f0e9c5d5ae2db1115f8bfeb0da104f1cebddef58ee44d3245611",
+    "bytes": 1052
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-49-left.txt",
+    "sha256": "887c97f9ba4d86531441189e7ac5e84e34d8e8e8e4f5c343a99e5eb4385bc1ca",
+    "bytes": 1021
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-49-right.txt",
+    "sha256": "b1257435a5245c39e6609fd97521ec48fc7c6e6a96dd098e742920d490dca524",
+    "bytes": 1029
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-5-left.txt",
+    "sha256": "9c315db5ff50125a9ea3959e540c1e32cb52baab9b52a6e0627fd5f2d610fe2b",
+    "bytes": 1281
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-5-right.txt",
+    "sha256": "ff862ae36b65771d52b9c289b2b57cfe12d3e1dd5eebc32bb3187d467649b8cf",
+    "bytes": 1209
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-50-left.txt",
+    "sha256": "a2a51cb84f95d82f273e51896c5de6792a1fe167309242934947f9b6dc6491b6",
+    "bytes": 1045
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-50-right.txt",
+    "sha256": "f236cce10b0cb41507ff8afcb5c261c1f017ad36f9269ec9ade8f5f3a95ef75f",
+    "bytes": 1075
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-51-left.txt",
+    "sha256": "be9de044b4f2d9bcea1e73b161db24bee8e86e22f17a4dadc294a15407b3a738",
+    "bytes": 1005
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-51-right.txt",
+    "sha256": "3efbae1e9fb2960698ae3c907418e286481452c9839f9bdbdbf5a65767bf19d6",
+    "bytes": 1049
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-52-left.txt",
+    "sha256": "7050fee30ad9bc9f397e1ab4acc0fc71e5f3c4717bcccc086f6613d921f35b90",
+    "bytes": 1082
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-52-right.txt",
+    "sha256": "67b6fd02a72c98c640b6d59efa1e2c1b1ed5cd06920415fcaf32111665822573",
+    "bytes": 1024
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-53-left.txt",
+    "sha256": "162b56cfa6ad4bfcadab793713e4c274624dfc2bd65db5c8aeeb8037cb2baf2a",
+    "bytes": 767
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-53-right.txt",
+    "sha256": "65a3512103b961d84c35f12239bfe6d914bc80f3ced2de08160a227f850059c7",
+    "bytes": 741
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-54-left.txt",
+    "sha256": "810edf0d9231473e75ee25eab243f3fe7aacc4e5147aba0d266c11a58099dbda",
+    "bytes": 1380
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-54-right.txt",
+    "sha256": "248c2c923b1b4c79dbe864d00b3511e928eb20daba8f21da0b551f809cb09d11",
+    "bytes": 1337
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-55-left.txt",
+    "sha256": "541cea917ba446cc840fc2eb3bf9ac42555b4f22ef6ab4f04140b3c262f6b4ff",
+    "bytes": 1324
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-55-right.txt",
+    "sha256": "46d3b13f203c10d8ddd2c621d483f0f2619728e7c18c3940650683cbb6088624",
+    "bytes": 1399
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-56-left.txt",
+    "sha256": "c7110a718b11e1d3875aab0a422d31de68664cf377803276b9a6655d90e3a473",
+    "bytes": 1568
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-56-right.txt",
+    "sha256": "57bd82ccb064e26427ac0e719887d6575127d172e26d32ce4ca4a4ec0c3e36de",
+    "bytes": 1473
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-57-left.txt",
+    "sha256": "179c3185c6a808caee891a007590117b53aaa4ddeab4aa6d2f0911d081bd18ef",
+    "bytes": 1369
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-57-right.txt",
+    "sha256": "af991cbed6c2d550152f8c3009a0432ee7b60c3b09fb0d6dd81c32e3cf55a8d4",
+    "bytes": 1467
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-58-left.txt",
+    "sha256": "51c11f3790e6f3a84bf6aaac4739d70d91dd70bf0606a7a4389b4acbc61f9a89",
+    "bytes": 140
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-58-right.txt",
+    "sha256": "1def07dbe06eeb097aafec8a40329937cd20c93a83634b8221ea2b41a894310c",
+    "bytes": 6
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-59-left.txt",
+    "sha256": "4e19bf14c9128ff6caae6f95ace86f16847dcd1b600bf91e7a57221d7c54ae7a",
+    "bytes": 1239
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-59-right.txt",
+    "sha256": "de99e2b96914adfb9cf001bb8d5634f773e1c13d75d88fb80bb6cdbda6706e4e",
+    "bytes": 1280
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-6-left.txt",
+    "sha256": "2de7c57aa3c34252c42032e13e1e7ab6a9372d9ac7cc65a91d4451c7622f0556",
+    "bytes": 1220
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-6-right.txt",
+    "sha256": "ba75d553b6642890905c8d5c4041f85db6ca0d22bfcbd67b235b59dd03a61fc9",
+    "bytes": 1225
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-6.png",
+    "sha256": "ff7a31ffcd5f5ef35ce62c60d5b5a09da13286ae5dd42d888ad2583a219babe6",
+    "bytes": 194914
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-60-left.txt",
+    "sha256": "78586c0553025e2780491d5a4d257848ffbd258b32eac140d5c5abffcda4bc5d",
+    "bytes": 1244
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-60-right.txt",
+    "sha256": "3a667d52880fa433e9ea57c4132b1fabdc5eae4503cbc0792814a348e80603be",
+    "bytes": 1222
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-61-left.txt",
+    "sha256": "3ae7ca9953e1411fe0c34c51fe0ac21d211b0669caccc1ee1f54c6beef66304e",
+    "bytes": 1127
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-61-right.txt",
+    "sha256": "2a29c7b6c0d95087031b1bff61ee47d808b97f3578f2f60127ffaae22678c552",
+    "bytes": 1065
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-62-left.txt",
+    "sha256": "c43642916b56a329fe97b220e499082af104ca4f20fe885f9866b58dcf09d94f",
+    "bytes": 1334
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-62-right.txt",
+    "sha256": "8e98afa086fcc43f914e5bae927c7f3b372a6fe598f1c3ffb25bcfa0d599fe50",
+    "bytes": 1263
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-63-left.txt",
+    "sha256": "aa6291819ba39e6a35dda3d2481e8d30c58ab622f7103218ef13e9522c6fa12d",
+    "bytes": 965
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-63-right.txt",
+    "sha256": "61d63f7d2090f41628528d6e91d651d248d23f40a0ef9d597671a08f22093f6c",
+    "bytes": 1045
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-64-left.txt",
+    "sha256": "931336f8398292d078e6353a0385f0bf174013a5e314d7736b34c0a924cb8042",
+    "bytes": 923
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-64-right.txt",
+    "sha256": "2a5168045e8d793772e2d18b62911f3e611c5a2d7799e8dcab9a89c080516563",
+    "bytes": 935
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-65-left.txt",
+    "sha256": "f3fed723c200b13cddc116a13ce2fe55c2ceaf8fba063f2dd4e5df08361a4776",
+    "bytes": 935
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-65-right.txt",
+    "sha256": "8772567386beb486b27d79f66423397e03030db90f108f2bbe8bbb5da2f1a0dd",
+    "bytes": 824
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-66-left.txt",
+    "sha256": "e731b6a5e589d11a971e6b4ee1eb9847f97183a0edca3d11c6de9e10c3547f9c",
+    "bytes": 833
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-66-right.txt",
+    "sha256": "4673a9f86a334eafb3d1bdc0bc19bd669bfdd2a8ee2a731788fe9546a591d4f2",
+    "bytes": 864
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-67-left.txt",
+    "sha256": "d4188afb17df3f60b2f878bd26a1b385c9a601f06eb1bb24a4ecc5e855dc62a6",
+    "bytes": 1577
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-67-right.txt",
+    "sha256": "7a20676d29a74ce49bf2f725874f389e73c759fd1e6207d99b4e40f8f668b175",
+    "bytes": 1449
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-68-left.txt",
+    "sha256": "b02a04fbfeb39fee835f6e5506c8236b48af6265aaba50ff9b7fec13dcbcfd49",
+    "bytes": 1619
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-68-right.txt",
+    "sha256": "95cb3bde41e3746cc87a11a4795cb3ec9e8870273365c20532a89834be31438f",
+    "bytes": 1602
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-69-left.txt",
+    "sha256": "1ab81278fa2d3be2605280ac0d67dc99bce1fcf89fad245308a7179668a674c9",
+    "bytes": 1396
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-69-right.txt",
+    "sha256": "c93d70a3b249e50af74a1524f551f20baa163770d8d42fd2280f3e75a6e27ed8",
+    "bytes": 1483
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-7-left.txt",
+    "sha256": "19699de056cdf22085e4e07b32bf5b16ff7d35f22348917fd7fcca3a4e57c6de",
+    "bytes": 1238
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-7-right.txt",
+    "sha256": "be4e1bfaa8bb28db9f52c80df56cc6db095756d74a47c14a4e91c0b3294f4aa9",
+    "bytes": 1147
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-70-left.txt",
+    "sha256": "51a239ead0ce1a60605777a82a9c69774a31de54e33dcae4ee9c09f341ab1f14",
+    "bytes": 428
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-70-right.txt",
+    "sha256": "1def07dbe06eeb097aafec8a40329937cd20c93a83634b8221ea2b41a894310c",
+    "bytes": 6
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-71-left.txt",
+    "sha256": "f3fab1a5dc71a2b53f82c883b2e6fa24dd70872389be7dcab1cfce89c1204893",
+    "bytes": 1784
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-71-right.txt",
+    "sha256": "95c43b3cfac49834117e1598bf74086cbcd42b786167f3bad1a2ca702cad7674",
+    "bytes": 1671
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-72-left.txt",
+    "sha256": "071953b195d147aa3f7f0cbd18649032ebf52abb4b61b1392010def745c99dea",
+    "bytes": 1714
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-72-right.txt",
+    "sha256": "518b187d5ab780a838e199988d1f4f6e20ec6aef76bdab72a984d6d450e4e53f",
+    "bytes": 1567
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-73-left.txt",
+    "sha256": "c0f6388712bcc955114ab8c79d4de943f2918058b7a3dc4700e1056b3078ff45",
+    "bytes": 1541
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-73-right.txt",
+    "sha256": "84d96c1f7d60fb07101cbb0c7127a26c724184b7de86361ab521b73ab3a8a74a",
+    "bytes": 1391
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-74-left.txt",
+    "sha256": "28e3eb898b48d1b5640068a8d3dde354dac833e66193d718b9600beb1ed0a260",
+    "bytes": 1555
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-74-right.txt",
+    "sha256": "03f49ae7dfe5b79b2f99901f2f42d735fe0b276980dc3561a2caa18bed02021a",
+    "bytes": 1532
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-75-left.txt",
+    "sha256": "e902f944cde0ca9b5a977a3773980c86d529c680e70f21cf6bb404f327c83975",
+    "bytes": 598
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-75-right.txt",
+    "sha256": "9bf55ca7f8a4a7134e8320e1a9d2c4a9085b26d9f04e1558ef9bf0a18c9ec408",
+    "bytes": 323
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-76-left.txt",
+    "sha256": "87770ee16fc2792b6d48b758e2eb4b2c2c43278cd27a391750c836b3395fd264",
+    "bytes": 1453
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-76-right.txt",
+    "sha256": "682fc7da55a8c7fbca329edc7cabb247f0f444019690d8fde4dd37622c2aa3d6",
+    "bytes": 1471
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-77-left.txt",
+    "sha256": "a83aa7a51bd6767c6c46ab2acbbb2409434de6ebc7857ee4b0687173d7a76ef3",
+    "bytes": 1569
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-77-right.txt",
+    "sha256": "9a38cc2f84e627cb4c63d855dd4191703523f80b5206c26e3dd814f316f5f981",
+    "bytes": 1617
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-77.png",
+    "sha256": "20ca8e08e5294b80ed6b66e169fd784262c8d2d11aded00760c6ebbab2448102",
+    "bytes": 242229
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-78-left.txt",
+    "sha256": "37c868f1889634294b3ad340f23ceaa075b7682e8380110556a0221142b1e875",
+    "bytes": 1529
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-78-right.txt",
+    "sha256": "17689425100340fb001e9ccb73f879dd6d694417d64a6db7746b62fe17cd222a",
+    "bytes": 284
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-79-single.txt",
+    "sha256": "12a5f5546cd942c7b36f522da4179aa9cbfb95cfccfc10baefb1878bf43a4ba2",
+    "bytes": 1189
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-79.png",
+    "sha256": "0508dbbf9bae73c3aae0f5bf77469428ff68b9fa366e5bd0572ce9aa131739c4",
+    "bytes": 112591
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-8-left.txt",
+    "sha256": "bee9e9af99d992e6c1e416da8535c5a6b6ddcf85a83eb381df36645965729647",
+    "bytes": 1197
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-8-right.txt",
+    "sha256": "c72eb63bee4e8e9100d000566ffd46d0b06cafdd1e5746d281110e5ca0d02bd0",
+    "bytes": 1215
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-80-left.txt",
+    "sha256": "a90c1e4a98b7f56f4884d72bc940b241f2ebb86ec699695c94c2f0ddc46b0e05",
+    "bytes": 1464
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-80-right.txt",
+    "sha256": "e3efcc578a7d5b490744a11538125f774e3489eee6a186acf8e72cd15f42f4ea",
+    "bytes": 1440
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-81-left.txt",
+    "sha256": "449c2ee3f42f0d4f23dbfdfb3e0252a92e2c14876128071dc8bad527f6fd9125",
+    "bytes": 1415
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-81-right.txt",
+    "sha256": "76abe14e7ba27f588091b2283ac7d3068cd056ea98bad45b9db89a4f4d1062ca",
+    "bytes": 1392
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-82-left.txt",
+    "sha256": "84bd89d961efb0d9fe9e15f0be6991e35b029e7fb2f8b11ed7cfbd7219ed8d99",
+    "bytes": 1525
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-82-right.txt",
+    "sha256": "0fe92527392072f0103f03108ef8c18e207861ba6967dba4e6fbaa9994951db7",
+    "bytes": 1537
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-83-left.txt",
+    "sha256": "8b10e211ff67b7f0ac3b921d133823a8f5ba2497c73827b6f917469f09596673",
+    "bytes": 1517
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-83-right.txt",
+    "sha256": "0d39093f31250b30f5ba5b90bac510e9cfda22686ac9cd301024f297166cb9fd",
+    "bytes": 1484
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-84-left.txt",
+    "sha256": "d7282a15d320879bc7d24b4f120156512dfbb627ff2f69ba4fac7565319beb43",
+    "bytes": 1461
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-84-right.txt",
+    "sha256": "d94514831ccaa728495b0c350abc66e2ce5860061519142ad8d349f33e52f1fa",
+    "bytes": 1411
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-85-left.txt",
+    "sha256": "929426e5958d284cd784a44f873ae4f8ca183d5c15e217baac33c34387a1f01d",
+    "bytes": 1325
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-85-right.txt",
+    "sha256": "cd52d8f6fa4a1ac647a1b5e9b58b5db6f39b44d35bb2d8024da51a6877defb51",
+    "bytes": 1023
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-86-left.txt",
+    "sha256": "ec788542880edc9092022ac1e6eb226bf1c3b03f19065b6c121cd7888a492795",
+    "bytes": 1717
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-86-right.txt",
+    "sha256": "80e079e776bc3dcecc1c91062559c708b32f7eae76f8ae67841586b72d4f7f17",
+    "bytes": 1678
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-87-left.txt",
+    "sha256": "99940e5ebffc9f422119779b9baf87a0f9d5ef0cdcbd6a775bff531c8a3a7e75",
+    "bytes": 1720
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-87-right.txt",
+    "sha256": "e33495df6107d5558ed13932210b46aca941ec950414b1d49468b6f883891e50",
+    "bytes": 1613
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-88-left.txt",
+    "sha256": "d67e5535a0f81bba65d31002e107478918ace485f26092c971e42c18c232c156",
+    "bytes": 1607
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-88-right.txt",
+    "sha256": "4655f14c87faad1c3911e619aa41c9f4ba1279ee5654cd55140f31bfc28d7ac1",
+    "bytes": 1634
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-89-left.txt",
+    "sha256": "61bdb3dfae3c215b2883350b27a2658789524c2e6fb5387b4e20fb5e775c3736",
+    "bytes": 1593
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-89-right.txt",
+    "sha256": "c2f2d2f2e719312efe69d39a4d57dcbdbd59349707e7885b750e5ce758272243",
+    "bytes": 631
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-9-left.txt",
+    "sha256": "ff82a95f352bf3b2de3ba748bffdd62e23d03e10d2ecf15e792dcf03c273b94d",
+    "bytes": 1397
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-9-right.txt",
+    "sha256": "05e2b2f69d512ff56e67b9d1dc60ddfbcddbfb00d1fcc1a342017623060ae7d9",
+    "bytes": 1249
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-90-left.txt",
+    "sha256": "bb57f2b5621ffaf85ef8af5cf4f23b5190ebd25d50ad4f69cf57ba6643d61bdb",
+    "bytes": 1421
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-90-right.txt",
+    "sha256": "fcfd4237e5b312f9052d6bc6947ab6ddc85066a7eb23935c599f37fdf4b9ff89",
+    "bytes": 1419
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-91-left.txt",
+    "sha256": "4400952f085b82de29bb957c8ea64b83dc2e270ed54a4d19defd1742284eb3ea",
+    "bytes": 1449
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-91-right.txt",
+    "sha256": "490e6c4795e76f27fd07bf09ef89bee9398007a8f58bf9a87a5f15ecf4972152",
+    "bytes": 1480
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-92-left.txt",
+    "sha256": "2ffee5529afd431c7de7614a3f35089100771c911da1f1b92ba1094c90ea7361",
+    "bytes": 1531
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-92-right.txt",
+    "sha256": "42320038d40dab5b424e994e0d9c119484dfbb1f9a61b77a835fb49547e9aeb7",
+    "bytes": 1512
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-93-left.txt",
+    "sha256": "aaf0fa3c5b76ba0c437c95e36ddadccdafdaf3f1965b1fdc6e384f248680502d",
+    "bytes": 1503
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-93-right.txt",
+    "sha256": "f00dba9830f382990e52f5f2f508cc2db1456cb8d9f9175873e2d4cc2b2fb9d6",
+    "bytes": 1365
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-94-left.txt",
+    "sha256": "4ceb45b9dbc7dd21c95d9ed915ff48792a2a50a450b721bbf9e7670fd0da20ba",
+    "bytes": 594
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-94-right.txt",
+    "sha256": "1def07dbe06eeb097aafec8a40329937cd20c93a83634b8221ea2b41a894310c",
+    "bytes": 6
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-95-left.txt",
+    "sha256": "2b6185e2460852af4a1afb47338bcc31cce7785828efb1a637a7b2eea52d13f8",
+    "bytes": 848
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-95-right.txt",
+    "sha256": "0b0432df4713cb44ef3cdd17c53e14c936c3ecd71e3404d81f6a0c26c98e6d34",
+    "bytes": 753
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-96-left.txt",
+    "sha256": "657e37f209a4b7c0e924875f327c7a7bf69c3f807c260258c6c5bb8c4f2fef7f",
+    "bytes": 550
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-96-right.txt",
+    "sha256": "a59bf4264350614f37283f1810a62df62c3657e5346b06ae4aaa867e9375e6c9",
+    "bytes": 570
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-97-left.txt",
+    "sha256": "1f4d5e24132723ef01a8703fb72a557a8734cffc29675105d52b690808c4fc6a",
+    "bytes": 924
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-97-right.txt",
+    "sha256": "720dd315bc234a636ac294666f25366f52d956b4109f5e733f4743fce35e69fa",
+    "bytes": 926
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-98-left.txt",
+    "sha256": "1aa0a1e36ff9e2bc1de682501a3367d83cc7039a52a9e4fd966df295b8d2ebe8",
+    "bytes": 864
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-98-right.txt",
+    "sha256": "a183ba043ef0dddfa930f02b31e50de7c1cff9f9c347454edb05ae03f93492b8",
+    "bytes": 882
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-99-left.txt",
+    "sha256": "2ebba86b9db38c1de424a2c7cc0d31696c44a39ba92ee8d433fdfa2ddac679c4",
+    "bytes": 910
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-99-right.txt",
+    "sha256": "5c7c6721ca1ef382a8b8836f6e74a430c98d0125f0ba728b894d076cb4a58878",
+    "bytes": 906
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/page-99.png",
+    "sha256": "c610168cd1066964e53f7159ddbfa4a47f5a0bab94f09cc230a044ec7bab9a52",
+    "bytes": 143528
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/pages.csv",
+    "sha256": "4e15a05c07a9b56b041e651b8a42aee6f0c419db38b1bc9e17d9fba6872bb33b",
+    "bytes": 2202
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/pages.json",
+    "sha256": "e77843f35f83c10bfd2fe44c56428ba904491cf887612f1c623f0be02da3fb54",
+    "bytes": 11835
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/rows.csv",
+    "sha256": "908a864233345d390eb1789a8d639c0aa09e4626f79ea60bca4189f92dc9d750",
+    "bytes": 809905
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/rows.json",
+    "sha256": "7cdbab54314e92f68fc858420bee1a408c7f1fab4793c117656b71130af729fe",
+    "bytes": 2375355
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/serial_anomalies.json",
+    "sha256": "9a1595e65718be59420a43ee1fc5b577d0d4ceb813810b6b667e111ee1de8fee",
+    "bytes": 761
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/summary.json",
+    "sha256": "74933829e646eb92d5ae98dcca258a6f516c6d8a16647b6493748d2695b7d5ab",
+    "bytes": 4435
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/union_counts.csv",
+    "sha256": "e6c91aaa96d8a1476087632d02302f984d28e7fab6624c957a889f559aa7c6ef",
+    "bytes": 50626
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/union_counts.json",
+    "sha256": "7c742a7e9ca02de1d3085c0837f95d0dc3137a5ddb87a0f5134f2ee6b7dbcc02",
+    "bytes": 111419
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/2011_controls/visual_findings.json",
+    "sha256": "15a2f229c308e756e48a99ce75ef61abbdeb9f01422ccc9779557d3084d04574",
+    "bytes": 9555
+  },
+  {
+    "path": "data/source_search/early_heads/tn_review/count_2011_tables.py",
+    "sha256": "40f224f196305f64960a4d679151402adbde803e130d9e2d9844281cfaf02e53",
+    "bytes": 10702
+  }
+]

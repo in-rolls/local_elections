@@ -1,0 +1,55 @@
+RAMANATHA
+Village Panc
+Reservation of Seats for Scheduled Caste/Scheduled Tr
+Na
+Name of the Village Category to which
+Sl.No
+Panchayat reservation is made
+1 2 3
+Ramanathapuram Panchayat Union
+1 Soorankottai SC(Women)
+2 Puthendal SC (Women)
+3 Rajasuriyamadai SC(Women)
+4 Ilamanoor SC(General)
+5 Madavanoor SC(General)
+6 Karendal SC(General)
+7 Achundanvayal SC(General)
+8 Thoruvaloor General (Women)
+9 Kalanikudi General (Women)
+10 Naranamangalam General (Women)
+11 Thiruvodiakaluvoorani General(Women)
+12 Karukudi General (Women)
+13 Athiyuthu General (Women)
+14 peruvayal General
+15 Chithoor General
+16 Kavanur General
+17 Pullankudi General
+18 Peravur General
+19 Therkutharavai General
+20 Vennathur General
+21 Sakkarakottai General
+22 Devipattinam General
+23 Pandamangalam General
+24 Chittarkottai General
+25 Madakottan General
+Thiruppullani Panchayat Union
+1 Panaikulam SC(Women)
+2 Thillaiyendal SC(Women)
+3 Kothakottai SC(Women)
+4 Vellamarchukatti SC(General)
+5 Kulapatham SC(General)
+6 Ekkakudi SC(General)
+7 Nallirukkai SC(General)
+8 Sethukarai SC(General)
+9 Koraikuttam General(Women)
+10 Velanoor General(Women)
+11 Muthupettai General (Women)
+12 Utharavai General(Women)
+13 Kanjirangudi General(Women)
+14 Chinnandivalasai General(Women)
+15 Mallal General (Women)
+16 Regunathapuram General(Women)
+17 Panaiyadiyendal General
+18 Lanthai General
+19 Melamadai General
+Page 123

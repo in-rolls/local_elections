@@ -1,0 +1,14 @@
+{
+  "note": "Gazole2 visually proved PS, so replaced unviewed Kalchini3 with Bamongola5 to cover new GP fallback. No candidate values read before this source-only adjustment. Unviewed discarded render retained.",
+  "unviewed_render": {
+    "source_path": "data/wb/2023/alipurduar/kalchini_form_b_kalchini_ps_pdf_3_67mb_2023030243-1.pdf",
+    "source_sha256": "b108ce3a9346fbc3d16aa246d8a55725c8416769a1a5a9ce736d86c0c5b97048",
+    "district": "Alipurduar",
+    "year": "2023",
+    "stage": "final",
+    "source_page": 3,
+    "layout": "ps_explicit",
+    "image_path": "data/wb/derived/ward_schedules/semantic_review/fresh_validation/page_4.png",
+    "image_sha256": "1480ff4e824120226cd38d2420198ae7df6f2a871a0fd80f1d8381c595aadb4e"
+  }
+}

@@ -1,0 +1,11 @@
+Research historical GP-head election and reservation sources for Odisha/Orissa, Madhya Pradesh and Tamil Nadu. Prioritize the earliest post-1993 cycles through 2005. This is source discovery, not estimation or release review.
+
+First read /Users/soodoku/Documents/GitHub/local_elections/SOURCES.md and relevant state data directories, read-only. Report workspace path and package name from pyproject.toml to prove context; do not switch projects. Existing Odisha district-total schedules and Tamil Nadu urban gazettes do not satisfy the GP-head target.
+
+Search official SEC, Panchayati Raj, district/block, gazette, Wayback and primary research replication sources. Expand Sarpanch, village panchayat president, local office names, reservation, rotation, roster and elected-representative terms, plus legacy hosts and district notifications.
+
+Report separately: GP identifier/name; head-office reservation; head winner identity; explicitly recorded head winner sex; election/reference year; original URL; archive snapshot URL; file availability. Ward results, aggregate shares and respondent sex are different constructs. Never infer sex from names or reservation, or turn positive-list absence into unreserved.
+
+Return exact downloadable URLs, publisher/title/date/page evidence and inspected-file versus metadata-only status. Keep queries, access failures, exclusions and next steps. Give a verdict and up to five strong leads per state. Use primary sources for final claims.
+
+Do not edit repositories, submit forms/guestbooks, contact people, change authentication or run expensive OCR. Use read-only search/fetch. Your stdout is archived; the parent independently verifies and downloads sources. State all remaining uncertainty.

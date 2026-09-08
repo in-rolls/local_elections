@@ -1,0 +1,37 @@
+{
+  "source": {
+    "sample_id": 183,
+    "row_id": "34c7983aea6676f9957042a2",
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_final_office_reservations.pdf",
+    "source_sha256": "9e759adbc650c67a542622d15113f4a9c55b8296a31e6714b019d6a6aa719d1e",
+    "source_page": 2,
+    "axis": "caste",
+    "tier": "gp_head",
+    "bbox": [
+      330.4,
+      95.94,
+      438.76,
+      107.06
+    ],
+    "bbox_units": "PDF points",
+    "image_path": "data/wb/derived/qwen_review/expanded/cell_183.png",
+    "note": "Crop generation in progress; skip missing images and return to them. These original bbox units are explicit; final manifest will additionally provide converted PDF bbox and image hash.",
+    "raster_dpi": 360,
+    "image_rotation_clockwise": 0
+  },
+  "fingerprint": {
+    "image_sha256": "09e42f3c1589723b9c69bb57d88feefb2d23526418368424f5507168dddf1cdf",
+    "model_digest": "5ced39dfa4bac325dc183dd1e4febaa1c46b3ea28bce48896c8e69c1e79611cc",
+    "prompt_sha256": "e747db3c1ff8f5e2ed47cec2266b51cdae006b573cfd6dbfd0ee7eadec5d7903",
+    "temperature": 0,
+    "num_predict": 512
+  },
+  "prompt": "Transcribe only the text visibly printed in this cropped election-table cell. Preserve original spelling, Bengali script, Roman numerals, and reservation codes. Do not correct or complete place names. If blank or only a dash, return an empty text string. Mark unreadable characters with [?]. Return JSON with one key: \"text\". Do not infer reservation from a name.",
+  "response": {
+    "model": "qwen2.5vl:7b",
+    "created_at": "2026-09-08T03:20:30.893979Z",
+    "response": "{\"text\": \"????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????",
+    "done": false
+  },
+  "seconds": 27.058342833071947
+}

@@ -1,0 +1,5460 @@
+[
+  {
+    "group": 1,
+    "district": "Kancheepuram District",
+    "union": "KANCHEEPURAM PANCHAYAT UNION",
+    "start_page": 3,
+    "end_page": 3,
+    "rows": 40,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 10,
+      "general": 17
+    }
+  },
+  {
+    "group": 2,
+    "district": "Kancheepuram District",
+    "union": "WALAJABAD PANCHAYAT UNION",
+    "start_page": 3,
+    "end_page": 4,
+    "rows": 61,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 7,
+      "scgeneral": 13,
+      "generalwomen": 14,
+      "general": 26
+    }
+  },
+  {
+    "group": 3,
+    "district": "Kancheepuram District",
+    "union": "UTHIRAMERUR PANCHAYAT UNION",
+    "start_page": 4,
+    "end_page": 4,
+    "rows": 73,
+    "category_counts": {
+      "scwomen": 9,
+      "scgeneral": 17,
+      "generalwomen": 16,
+      "general": 31
+    }
+  },
+  {
+    "group": 4,
+    "district": "Kancheepuram District",
+    "union": "SRIPERUMBUDUR PANCHAYAT UNION",
+    "start_page": 5,
+    "end_page": 5,
+    "rows": 58,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 7,
+      "scgeneral": 14,
+      "generalwomen": 13,
+      "general": 23
+    }
+  },
+  {
+    "group": 5,
+    "district": "Kancheepuram District",
+    "union": "KUNDRATHUR PANCHAYAT UNION",
+    "start_page": 5,
+    "end_page": 6,
+    "rows": 42,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 11,
+      "generalwomen": 9,
+      "general": 16
+    }
+  },
+  {
+    "group": 6,
+    "district": "Kancheepuram District",
+    "union": "KATTANKOLATHUR PANCHAYAT UNION",
+    "start_page": 6,
+    "end_page": 6,
+    "rows": 39,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 9,
+      "general": 17
+    }
+  },
+  {
+    "group": 7,
+    "district": "Kancheepuram District",
+    "union": "THIRUPORUR .PANCHAYAT UNION",
+    "start_page": 6,
+    "end_page": 7,
+    "rows": 50,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 6,
+      "scgeneral": 12,
+      "generalwomen": 11,
+      "general": 20
+    }
+  },
+  {
+    "group": 8,
+    "district": "Kancheepuram District",
+    "union": "THIRUKKALUKUNDRAM PANCHAYAT UNION",
+    "start_page": 7,
+    "end_page": 7,
+    "rows": 54,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 12,
+      "general": 25
+    }
+  },
+  {
+    "group": 9,
+    "district": "Kancheepuram District",
+    "union": "MADURANTAKAM PANCHAYAT UNION",
+    "start_page": 7,
+    "end_page": 8,
+    "rows": 58,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 10,
+      "scgeneral": 18,
+      "generalwomen": 10,
+      "general": 19
+    }
+  },
+  {
+    "group": 10,
+    "district": "Kancheepuram District",
+    "union": "ACHARAPAKKAM PANCHAYAT UNION",
+    "start_page": 8,
+    "end_page": 8,
+    "rows": 59,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 8,
+      "scgeneral": 14,
+      "generalwomen": 12,
+      "general": 24
+    }
+  },
+  {
+    "group": 11,
+    "district": "Kancheepuram District",
+    "union": "CHITHAMUR PANCHAYAT UNION",
+    "start_page": 9,
+    "end_page": 9,
+    "rows": 43,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 8,
+      "scgeneral": 13,
+      "generalwomen": 7,
+      "general": 14
+    }
+  },
+  {
+    "group": 12,
+    "district": "Kancheepuram District",
+    "union": "LATHUR PANCHAYAT UNION",
+    "start_page": 9,
+    "end_page": 9,
+    "rows": 41,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 12,
+      "generalwomen": 8,
+      "general": 15
+    }
+  },
+  {
+    "group": 13,
+    "district": "Kancheepuram District",
+    "union": "ST.THOMAS MOUNT PANCHAYAT UNION",
+    "start_page": 9,
+    "end_page": 9,
+    "rows": 15,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 1,
+      "generalwomen": 5,
+      "general": 7
+    }
+  },
+  {
+    "group": 14,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Villivakkam Panchayat Union",
+    "start_page": 10,
+    "end_page": 10,
+    "rows": 13,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 6
+    }
+  },
+  {
+    "group": 15,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Puzhal Panchayat Union",
+    "start_page": 10,
+    "end_page": 10,
+    "rows": 7,
+    "category_counts": {
+      "scgeneral": 1,
+      "generalwomen": 2,
+      "general": 4
+    }
+  },
+  {
+    "group": 16,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Minjur Panchayat Union",
+    "start_page": 10,
+    "end_page": 10,
+    "rows": 55,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 7,
+      "scgeneral": 13,
+      "generalwomen": 12,
+      "general": 22
+    }
+  },
+  {
+    "group": 17,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Sholavaram Panchayat Union",
+    "start_page": 11,
+    "end_page": 11,
+    "rows": 39,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 9,
+      "general": 18
+    }
+  },
+  {
+    "group": 18,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Gummidipoondi Panchayat Union",
+    "start_page": 11,
+    "end_page": 12,
+    "rows": 61,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 15,
+      "general": 29
+    }
+  },
+  {
+    "group": 19,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Poonamallee Panchayat Union",
+    "start_page": 12,
+    "end_page": 12,
+    "rows": 28,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 6,
+      "general": 12
+    }
+  },
+  {
+    "group": 20,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Tiruvallur Panchayat Union",
+    "start_page": 12,
+    "end_page": 12,
+    "rows": 38,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 5,
+      "scgeneral": 10,
+      "generalwomen": 8,
+      "general": 14
+    }
+  },
+  {
+    "group": 21,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Kadambathur Panchayat Union",
+    "start_page": 12,
+    "end_page": 13,
+    "rows": 43,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 5,
+      "scgeneral": 8,
+      "generalwomen": 10,
+      "general": 19
+    }
+  },
+  {
+    "group": 22,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Poondi Panchayat Union",
+    "start_page": 13,
+    "end_page": 13,
+    "rows": 49,
+    "category_counts": {
+      "stwomen": 1,
+      "stgeneral": 1,
+      "scwomen": 6,
+      "scgeneral": 11,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 23,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Ellapuram Panchayat Union",
+    "start_page": 13,
+    "end_page": 14,
+    "rows": 53,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 7,
+      "scgeneral": 12,
+      "generalwomen": 11,
+      "general": 22
+    }
+  },
+  {
+    "group": 24,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Tiruttani Panchayat Union",
+    "start_page": 14,
+    "end_page": 14,
+    "rows": 27,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 6,
+      "general": 13
+    }
+  },
+  {
+    "group": 25,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Thiruvalangadu Panchayat Union",
+    "start_page": 14,
+    "end_page": 14,
+    "rows": 42,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 5,
+      "scgeneral": 8,
+      "generalwomen": 9,
+      "general": 19
+    }
+  },
+  {
+    "group": 26,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "Pallipet Panchayat Union",
+    "start_page": 15,
+    "end_page": 15,
+    "rows": 33,
+    "category_counts": {
+      "stwomen": 1,
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 7,
+      "general": 17
+    }
+  },
+  {
+    "group": 27,
+    "district": "TIRUVALLUR DISTRICT",
+    "union": "RamakrishnarajuPet Panchayat Union",
+    "start_page": 15,
+    "end_page": 15,
+    "rows": 38,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 9,
+      "UNKNOWN_BLANK": 1,
+      "general": 20
+    }
+  },
+  {
+    "group": 28,
+    "district": "CUDDALORE DISTRICT",
+    "union": "CUDDALORE PANCHAYAT UNION",
+    "start_page": 16,
+    "end_page": 16,
+    "rows": 51,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 9,
+      "generalwomen": 12,
+      "general": 25
+    }
+  },
+  {
+    "group": 29,
+    "district": "CUDDALORE DISTRICT",
+    "union": "ANNAGRAMAM PANCHAYAT UNION",
+    "start_page": 16,
+    "end_page": 17,
+    "rows": 42,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 9,
+      "generalwomen": 9,
+      "general": 19
+    }
+  },
+  {
+    "group": 30,
+    "district": "CUDDALORE DISTRICT",
+    "union": "PANRUTI PANCHAYAT UNION",
+    "start_page": 17,
+    "end_page": 17,
+    "rows": 42,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 6,
+      "generalwomen": 11,
+      "general": 23
+    }
+  },
+  {
+    "group": 31,
+    "district": "CUDDALORE DISTRICT",
+    "union": "KURINJIPADI PANCHAYAT UNION",
+    "start_page": 17,
+    "end_page": 18,
+    "rows": 51,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 11,
+      "general": 24
+    }
+  },
+  {
+    "group": 32,
+    "district": "CUDDALORE DISTRICT",
+    "union": "KATTUMANNARKOIL PANCHAYAT UNION",
+    "start_page": 18,
+    "end_page": 18,
+    "rows": 55,
+    "category_counts": {
+      "scwomen": 8,
+      "scgeneral": 14,
+      "generalwomen": 11,
+      "general": 22
+    }
+  },
+  {
+    "group": 33,
+    "district": "CUDDALORE DISTRICT",
+    "union": "KUMARATCHI PANCHAYAT UNION",
+    "start_page": 18,
+    "end_page": 19,
+    "rows": 57,
+    "category_counts": {
+      "scwomen": 8,
+      "scgeneral": 15,
+      "generalwomen": 11,
+      "general": 23
+    }
+  },
+  {
+    "group": 34,
+    "district": "CUDDALORE DISTRICT",
+    "union": "KEERAPALAYAM PANCHAYAT UNION",
+    "start_page": 19,
+    "end_page": 19,
+    "rows": 63,
+    "category_counts": {
+      "scwomen": 9,
+      "scgeneral": 16,
+      "generalwomen": 12,
+      "general": 26
+    }
+  },
+  {
+    "group": 35,
+    "district": "CUDDALORE DISTRICT",
+    "union": "MELBHUVANAGIRI PANCHAYAT UNION",
+    "start_page": 19,
+    "end_page": 20,
+    "rows": 47,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 11,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 36,
+    "district": "CUDDALORE DISTRICT",
+    "union": "PARANGIPETTAI PANCHAYAT UNION",
+    "start_page": 20,
+    "end_page": 20,
+    "rows": 41,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 10,
+      "general": 19
+    }
+  },
+  {
+    "group": 37,
+    "district": "CUDDALORE DISTRICT",
+    "union": "VIRUDHACHALAM PANCHAYAT UNION",
+    "start_page": 20,
+    "end_page": 21,
+    "rows": 51,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 11,
+      "general": 24
+    }
+  },
+  {
+    "group": 38,
+    "district": "CUDDALORE DISTRICT",
+    "union": "KAMMAPURAM PANCHAYAT UNION",
+    "start_page": 21,
+    "end_page": 22,
+    "rows": 53,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 9,
+      "generalwomen": 13,
+      "general": 26
+    }
+  },
+  {
+    "group": 39,
+    "district": "CUDDALORE DISTRICT",
+    "union": "NALLUR PANCHAYAT UNION",
+    "start_page": 22,
+    "end_page": 22,
+    "rows": 64,
+    "category_counts": {
+      "scwomen": 10,
+      "scgeneral": 18,
+      "generalwomen": 12,
+      "general": 24
+    }
+  },
+  {
+    "group": 40,
+    "district": "CUDDALORE DISTRICT",
+    "union": "MANGALORE PANCHAYAT UNION",
+    "start_page": 22,
+    "end_page": 23,
+    "rows": 66,
+    "category_counts": {
+      "scwomen": 9,
+      "scgeneral": 18,
+      "generalwomen": 13,
+      "general": 26
+    }
+  },
+  {
+    "group": 41,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "TIRUKOILUR PANCHAYAT UNION",
+    "start_page": 24,
+    "end_page": 24,
+    "rows": 52,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 12,
+      "general": 24
+    }
+  },
+  {
+    "group": 42,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "MUGAIYUR PANCHAYAT UNION",
+    "start_page": 24,
+    "end_page": 25,
+    "rows": 63,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 6,
+      "scgeneral": 12,
+      "generalwomen": 15,
+      "general": 29
+    }
+  },
+  {
+    "group": 43,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "THIRUVENNAINALLUR PANCHAYAT UNION",
+    "start_page": 25,
+    "end_page": 25,
+    "rows": 49,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 9,
+      "generalwomen": 12,
+      "general": 23
+    }
+  },
+  {
+    "group": 44,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "THIRUNAVALUR PANCHAYAT UNION",
+    "start_page": 25,
+    "end_page": 25,
+    "rows": 44,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 8,
+      "generalwomen": 10,
+      "general": 21
+    }
+  },
+  {
+    "group": 45,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "ULUNDURPET PANCHAYAT UNION",
+    "start_page": 25,
+    "end_page": 26,
+    "rows": 53,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 12,
+      "general": 25
+    }
+  },
+  {
+    "group": 46,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "KANAI PANCHAYAT UNION",
+    "start_page": 26,
+    "end_page": 26,
+    "rows": 51,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 13,
+      "general": 26
+    }
+  },
+  {
+    "group": 47,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "KOLIYANUR PANCHAYAT UNION",
+    "start_page": 26,
+    "end_page": 27,
+    "rows": 43,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 11,
+      "general": 20
+    }
+  },
+  {
+    "group": 48,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "KANDAMANGALAM PANCHAYAT UNION",
+    "start_page": 27,
+    "end_page": 27,
+    "rows": 45,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 10,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 49,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "VIKRAVANDI PANCHAYAT UNION",
+    "start_page": 27,
+    "end_page": 27,
+    "rows": 50,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 10,
+      "generalwomen": 12,
+      "general": 23
+    }
+  },
+  {
+    "group": 50,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "OLAKKUR PANCHAYAT UNION",
+    "start_page": 28,
+    "end_page": 28,
+    "rows": 52,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 7,
+      "scgeneral": 12,
+      "generalwomen": 11,
+      "general": 21
+    }
+  },
+  {
+    "group": 51,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "MAILAM PANCHAYAT UNION",
+    "start_page": 28,
+    "end_page": 28,
+    "rows": 47,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 52,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "VANUR PANCHAYAT UNION",
+    "start_page": 28,
+    "end_page": 29,
+    "rows": 65,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 8,
+      "scgeneral": 15,
+      "generalwomen": 14,
+      "general": 27
+    }
+  },
+  {
+    "group": 53,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "VALLAM PANCHAYAT UNION",
+    "start_page": 29,
+    "end_page": 29,
+    "rows": 66,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 5,
+      "scgeneral": 11,
+      "generalwomen": 16,
+      "general": 33
+    }
+  },
+  {
+    "group": 54,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "GINGEE PANCHAYAT UNION",
+    "start_page": 29,
+    "end_page": 30,
+    "rows": 60,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 16,
+      "general": 31
+    }
+  },
+  {
+    "group": 55,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "MERKANAM PANCHAYAT UNION",
+    "start_page": 30,
+    "end_page": 30,
+    "rows": 56,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 6,
+      "scgeneral": 12,
+      "generalwomen": 13,
+      "general": 24
+    }
+  },
+  {
+    "group": 56,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "MELMALAYANUR PANCHAYAT UNION",
+    "start_page": 31,
+    "end_page": 31,
+    "rows": 55,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 16,
+      "general": 30
+    }
+  },
+  {
+    "group": 57,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "KALLAKURICHI PANCHAYAT UNION",
+    "start_page": 31,
+    "end_page": 31,
+    "rows": 46,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 58,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "CHINNASALEM PANCHAYAT UNION",
+    "start_page": 31,
+    "end_page": 32,
+    "rows": 50,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 12,
+      "generalwomen": 11,
+      "general": 21
+    }
+  },
+  {
+    "group": 59,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "RISHIVANDHIYAM PANCHAYAT UNION",
+    "start_page": 32,
+    "end_page": 32,
+    "rows": 53,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 11,
+      "generalwomen": 12,
+      "general": 24
+    }
+  },
+  {
+    "group": 60,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "SANKARAPURAM PANCHAYAT UNION",
+    "start_page": 32,
+    "end_page": 33,
+    "rows": 44,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 11,
+      "general": 21
+    }
+  },
+  {
+    "group": 61,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "THIYAGADURGAM PANCHAYAT UNION",
+    "start_page": 33,
+    "end_page": 33,
+    "rows": 40,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 8,
+      "general": 16
+    }
+  },
+  {
+    "group": 62,
+    "district": "VILUPPURAM DISTRICT",
+    "union": "KALRAYAN HILLS PANCHAYAT UNION",
+    "start_page": 33,
+    "end_page": 33,
+    "rows": 15,
+    "category_counts": {
+      "stwomen": 4,
+      "stgeneral": 8,
+      "scgeneral": 1,
+      "generalwomen": 1,
+      "general": 1
+    }
+  },
+  {
+    "group": 63,
+    "district": "VELLORE DISTRICT",
+    "union": "Alangayam Panchayt Union",
+    "start_page": 34,
+    "end_page": 34,
+    "rows": 29,
+    "category_counts": {
+      "stwomen": 2,
+      "stgeneral": 2,
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 6,
+      "general": 15
+    }
+  },
+  {
+    "group": 64,
+    "district": "VELLORE DISTRICT",
+    "union": "Anaicut Panchayat Union",
+    "start_page": 34,
+    "end_page": 34,
+    "rows": 38,
+    "category_counts": {
+      "stwomen": 2,
+      "stgeneral": 2,
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 8,
+      "general": 18
+    }
+  },
+  {
+    "group": 65,
+    "district": "VELLORE DISTRICT",
+    "union": "Arakonam Panchayat Union",
+    "start_page": 34,
+    "end_page": 35,
+    "rows": 26,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 6,
+      "general": 12
+    }
+  },
+  {
+    "group": 66,
+    "district": "VELLORE DISTRICT",
+    "union": "Arcot Panchayat Union",
+    "start_page": 35,
+    "end_page": 35,
+    "rows": 39,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 67,
+    "district": "VELLORE DISTRICT",
+    "union": "Gudiyatham Panchayat Union",
+    "start_page": 35,
+    "end_page": 36,
+    "rows": 44,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 11,
+      "general": 21
+    }
+  },
+  {
+    "group": 68,
+    "district": "VELLORE DISTRICT",
+    "union": "Jolarpet Panchayat Union",
+    "start_page": 36,
+    "end_page": 36,
+    "rows": 36,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 10,
+      "general": 21
+    }
+  },
+  {
+    "group": 69,
+    "district": "VELLORE DISTRICT",
+    "union": "K.V.Kuppam Panchayat Union",
+    "start_page": 36,
+    "end_page": 36,
+    "rows": 39,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 9,
+      "general": 20
+    }
+  },
+  {
+    "group": 70,
+    "district": "VELLORE DISTRICT",
+    "union": "Kandhili Panchayat Union",
+    "start_page": 36,
+    "end_page": 37,
+    "rows": 39,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 10,
+      "general": 21
+    }
+  },
+  {
+    "group": 71,
+    "district": "VELLORE DISTRICT",
+    "union": "Kaniyambadi Panchayat Union",
+    "start_page": 37,
+    "end_page": 37,
+    "rows": 24,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 7,
+      "general": 12
+    }
+  },
+  {
+    "group": 72,
+    "district": "VELLORE DISTRICT",
+    "union": "Katpadi Panchayat Union",
+    "start_page": 37,
+    "end_page": 37,
+    "rows": 21,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 6,
+      "general": 11
+    }
+  },
+  {
+    "group": 73,
+    "district": "VELLORE DISTRICT",
+    "union": "Kaveripakkam Panchayat Union",
+    "start_page": 37,
+    "end_page": 38,
+    "rows": 55,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 5,
+      "scgeneral": 10,
+      "generalwomen": 14,
+      "general": 25
+    }
+  },
+  {
+    "group": 74,
+    "district": "VELLORE DISTRICT",
+    "union": "Madhanur Panchayat Union",
+    "start_page": 38,
+    "end_page": 39,
+    "rows": 36,
+    "category_counts": {
+      "stwomen": 1,
+      "stgeneral": 1,
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 7,
+      "general": 15
+    }
+  },
+  {
+    "group": 75,
+    "district": "VELLORE DISTRICT",
+    "union": "Natrampalli Panchayat Union",
+    "start_page": 39,
+    "end_page": 39,
+    "rows": 26,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 7,
+      "general": 15
+    }
+  },
+  {
+    "group": 76,
+    "district": "VELLORE DISTRICT",
+    "union": "Nemili Panchayat Union",
+    "start_page": 39,
+    "end_page": 39,
+    "rows": 52,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 5,
+      "scgeneral": 9,
+      "generalwomen": 13,
+      "general": 24
+    }
+  },
+  {
+    "group": 77,
+    "district": "VELLORE DISTRICT",
+    "union": "Pernambut Panchayat Union",
+    "start_page": 40,
+    "end_page": 40,
+    "rows": 51,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 6,
+      "scgeneral": 12,
+      "generalwomen": 11,
+      "general": 21
+    }
+  },
+  {
+    "group": 78,
+    "district": "VELLORE DISTRICT",
+    "union": "Sholinghur Panchayat Union",
+    "start_page": 40,
+    "end_page": 41,
+    "rows": 45,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 12,
+      "general": 25
+    }
+  },
+  {
+    "group": 79,
+    "district": "VELLORE DISTRICT",
+    "union": "Thimiri Panchayat Union",
+    "start_page": 41,
+    "end_page": 41,
+    "rows": 55,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 10,
+      "generalwomen": 14,
+      "general": 26
+    }
+  },
+  {
+    "group": 80,
+    "district": "VELLORE DISTRICT",
+    "union": "Thirupathur Panchayat Union",
+    "start_page": 41,
+    "end_page": 42,
+    "rows": 34,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 9,
+      "general": 15
+    }
+  },
+  {
+    "group": 81,
+    "district": "VELLORE DISTRICT",
+    "union": "Vellore Panchayat Union",
+    "start_page": 42,
+    "end_page": 42,
+    "rows": 18,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 5,
+      "general": 7
+    }
+  },
+  {
+    "group": 82,
+    "district": "VELLORE DISTRICT",
+    "union": "Walajahpet Panchayat Union",
+    "start_page": 42,
+    "end_page": 42,
+    "rows": 36,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 83,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Tiruvannamalai Panchayat Union",
+    "start_page": 43,
+    "end_page": 43,
+    "rows": 69,
+    "category_counts": {
+      "stwomen": 1,
+      "stgeneral": 1,
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 16,
+      "general": 35
+    }
+  },
+  {
+    "group": 84,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Kilpennathur Panchayat Union",
+    "start_page": 43,
+    "end_page": 44,
+    "rows": 45,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 11,
+      "general": 22
+    }
+  },
+  {
+    "group": 85,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Thurinjapuram Panchayat Union",
+    "start_page": 44,
+    "end_page": 44,
+    "rows": 47,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 12,
+      "general": 24
+    }
+  },
+  {
+    "group": 86,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Polur Panchayat Union",
+    "start_page": 44,
+    "end_page": 45,
+    "rows": 40,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 11,
+      "general": 21
+    }
+  },
+  {
+    "group": 87,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Kalasapakkam Panchayat Union",
+    "start_page": 45,
+    "end_page": 45,
+    "rows": 45,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 11,
+      "general": 23
+    }
+  },
+  {
+    "group": 88,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Chetpet Panchayat Union",
+    "start_page": 45,
+    "end_page": 46,
+    "rows": 49,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 15,
+      "general": 29
+    }
+  },
+  {
+    "group": 89,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Chengam Panchayat Union",
+    "start_page": 46,
+    "end_page": 47,
+    "rows": 44,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 5,
+      "scgeneral": 10,
+      "generalwomen": 10,
+      "general": 18
+    }
+  },
+  {
+    "group": 90,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Pudupalayam Panchayat Union",
+    "start_page": 47,
+    "end_page": 47,
+    "rows": 37,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 9,
+      "general": 17
+    }
+  },
+  {
+    "group": 91,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Thandrampet Panchayat Union",
+    "start_page": 47,
+    "end_page": 48,
+    "rows": 47,
+    "category_counts": {
+      "stwomen": 2,
+      "stgeneral": 1,
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 10,
+      "general": 24
+    }
+  },
+  {
+    "group": 92,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Jawadhu Hills Panchayat Union",
+    "start_page": 48,
+    "end_page": 48,
+    "rows": 11,
+    "category_counts": {
+      "stwomen": 4,
+      "stgeneral": 6,
+      "general": 1
+    }
+  },
+  {
+    "group": 93,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Cheyyar Panchayat Union",
+    "start_page": 48,
+    "end_page": 48,
+    "rows": 53,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 5,
+      "scgeneral": 9,
+      "generalwomen": 13,
+      "general": 25
+    }
+  },
+  {
+    "group": 94,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Anakkavur Panchayat Union",
+    "start_page": 49,
+    "end_page": 49,
+    "rows": 55,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 5,
+      "scgeneral": 10,
+      "generalwomen": 14,
+      "general": 25
+    }
+  },
+  {
+    "group": 95,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Vembakkam Panchayat Union",
+    "start_page": 49,
+    "end_page": 50,
+    "rows": 64,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 16,
+      "general": 31
+    }
+  },
+  {
+    "group": 96,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Vandavasi Panchayat Union",
+    "start_page": 50,
+    "end_page": 51,
+    "rows": 61,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 6,
+      "scgeneral": 12,
+      "generalwomen": 15,
+      "general": 27
+    }
+  },
+  {
+    "group": 97,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Thellar Panchayat Union",
+    "start_page": 51,
+    "end_page": 52,
+    "rows": 61,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 6,
+      "scgeneral": 11,
+      "generalwomen": 15,
+      "general": 28
+    }
+  },
+  {
+    "group": 98,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Peranamallur Panchayat Union",
+    "start_page": 52,
+    "end_page": 52,
+    "rows": 57,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 15,
+      "general": 29
+    }
+  },
+  {
+    "group": 99,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "Arni Panchayat Union",
+    "start_page": 52,
+    "end_page": 53,
+    "rows": 38,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 100,
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "union": "WestArni Panchayat Union",
+    "start_page": 53,
+    "end_page": 53,
+    "rows": 37,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 11,
+      "general": 20
+    }
+  },
+  {
+    "group": 101,
+    "district": "SALEM DISTRICT",
+    "union": "ATTUR PANCHAYAT UNION",
+    "start_page": 54,
+    "end_page": 54,
+    "rows": 20,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 5,
+      "general": 9
+    }
+  },
+  {
+    "group": 102,
+    "district": "SALEM DISTRICT",
+    "union": "AYOTHIPATTINAM PANCHAYAT UNION",
+    "start_page": 54,
+    "end_page": 54,
+    "rows": 32,
+    "category_counts": {
+      "stwomen": 1,
+      "stgeneral": 1,
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 7,
+      "general": 14
+    }
+  },
+  {
+    "group": 103,
+    "district": "SALEM DISTRICT",
+    "union": "GANGAVALLI PANCHAYAT UNION",
+    "start_page": 54,
+    "end_page": 54,
+    "rows": 14,
+    "category_counts": {
+      "stwomen": 1,
+      "stgeneral": 1,
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 3,
+      "general": 6
+    }
+  },
+  {
+    "group": 104,
+    "district": "SALEM DISTRICT",
+    "union": "EDAPPADI PANCHAYAT UNION",
+    "start_page": 54,
+    "end_page": 54,
+    "rows": 10,
+    "category_counts": {
+      "scgeneral": 1,
+      "generalwomen": 4,
+      "general": 5
+    }
+  },
+  {
+    "group": 105,
+    "district": "SALEM DISTRICT",
+    "union": "KADAYAMPATTI PANCHAYAT UNION",
+    "start_page": 54,
+    "end_page": 55,
+    "rows": 17,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 8
+    }
+  },
+  {
+    "group": 106,
+    "district": "SALEM DISTRICT",
+    "union": "KOLATHUR PANCHAYAT UNION",
+    "start_page": 55,
+    "end_page": 55,
+    "rows": 14,
+    "category_counts": {
+      "stwomen": 1,
+      "stgeneral": 1,
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 3,
+      "general": 7
+    }
+  },
+  {
+    "group": 107,
+    "district": "SALEM DISTRICT",
+    "union": "KONGANAPURAM PANCHAYAT UNION",
+    "start_page": 55,
+    "end_page": 55,
+    "rows": 9,
+    "category_counts": {
+      "scgeneral": 1,
+      "generalwomen": 3,
+      "general": 5
+    }
+  },
+  {
+    "group": 108,
+    "district": "SALEM DISTRICT",
+    "union": "MC.DONALD CHOULTRY PANCHAYAT UNION",
+    "start_page": 55,
+    "end_page": 55,
+    "rows": 12,
+    "category_counts": {
+      "scgeneral": 1,
+      "generalwomen": 4,
+      "general": 7
+    }
+  },
+  {
+    "group": 109,
+    "district": "SALEM DISTRICT",
+    "union": "MECHERI PANCHAYAT UNION",
+    "start_page": 55,
+    "end_page": 55,
+    "rows": 17,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 5,
+      "general": 10
+    }
+  },
+  {
+    "group": 110,
+    "district": "SALEM DISTRICT",
+    "union": "NANGAVALLI PANCHAYAT UNION",
+    "start_page": 55,
+    "end_page": 55,
+    "rows": 9,
+    "category_counts": {
+      "scgeneral": 1,
+      "generalwomen": 3,
+      "general": 5
+    }
+  },
+  {
+    "group": 111,
+    "district": "SALEM DISTRICT",
+    "union": "OMALUR PANCHAYAT UNION",
+    "start_page": 55,
+    "end_page": 56,
+    "rows": 33,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 8,
+      "general": 17
+    }
+  },
+  {
+    "group": 112,
+    "district": "SALEM DISTRICT",
+    "union": "PANAMARATHUPATTY PANCHAYAT UNION",
+    "start_page": 56,
+    "end_page": 56,
+    "rows": 20,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 10
+    }
+  },
+  {
+    "group": 113,
+    "district": "SALEM DISTRICT",
+    "union": "PEDDANAICKANPALAYAM PANCHAYAT UNION",
+    "start_page": 56,
+    "end_page": 56,
+    "rows": 36,
+    "category_counts": {
+      "stwomen": 4,
+      "stgeneral": 7,
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 6,
+      "general": 13
+    }
+  },
+  {
+    "group": 114,
+    "district": "SALEM DISTRICT",
+    "union": "SALEM PANCHAYAT UNION",
+    "start_page": 56,
+    "end_page": 56,
+    "rows": 14,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 115,
+    "district": "SALEM DISTRICT",
+    "union": "SANKARI PANCHAYAT UNION",
+    "start_page": 56,
+    "end_page": 56,
+    "rows": 22,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 6,
+      "general": 11
+    }
+  },
+  {
+    "group": 116,
+    "district": "SALEM DISTRICT",
+    "union": "THALAIVASAL PANCHAYAT UNION",
+    "start_page": 57,
+    "end_page": 57,
+    "rows": 35,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 8,
+      "general": 17
+    }
+  },
+  {
+    "group": 117,
+    "district": "SALEM DISTRICT",
+    "union": "THARAMANGALAM PANCHAYAT UNION",
+    "start_page": 57,
+    "end_page": 57,
+    "rows": 17,
+    "category_counts": {
+      "scgeneral": 1,
+      "generalwomen": 6,
+      "general": 10
+    }
+  },
+  {
+    "group": 118,
+    "district": "SALEM DISTRICT",
+    "union": "VALAPADY PANCHAYAT UNION",
+    "start_page": 57,
+    "end_page": 57,
+    "rows": 20,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 10
+    }
+  },
+  {
+    "group": 119,
+    "district": "SALEM DISTRICT",
+    "union": "VEERAPANDY PANCHAYAT UNION",
+    "start_page": 57,
+    "end_page": 57,
+    "rows": 25,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 8,
+      "general": 14
+    }
+  },
+  {
+    "group": 120,
+    "district": "SALEM DISTRICT",
+    "union": "YERCAUD PANCHAYAT UNION",
+    "start_page": 57,
+    "end_page": 58,
+    "rows": 9,
+    "category_counts": {
+      "stwomen": 2,
+      "stgeneral": 4,
+      "scgeneral": 1,
+      "generalwomen": 1,
+      "general": 1
+    }
+  },
+  {
+    "group": 121,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Elachipalayam Panchayat Union",
+    "start_page": 59,
+    "end_page": 59,
+    "rows": 29,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 7,
+      "general": 15
+    }
+  },
+  {
+    "group": 122,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Erumapatty Panchayat Union",
+    "start_page": 59,
+    "end_page": 59,
+    "rows": 24,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 5,
+      "general": 12
+    }
+  },
+  {
+    "group": 123,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Kabilarmalai Panchayat Union",
+    "start_page": 59,
+    "end_page": 59,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 11
+    }
+  },
+  {
+    "group": 124,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Kollihills Panchayat Union",
+    "start_page": 59,
+    "end_page": 60,
+    "rows": 14,
+    "category_counts": {
+      "stwomen": 5,
+      "stgeneral": 8,
+      "general": 1
+    }
+  },
+  {
+    "group": 125,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Mallasamudram Panchayat Union",
+    "start_page": 60,
+    "end_page": 60,
+    "rows": 27,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 5,
+      "generalwomen": 7,
+      "general": 13
+    }
+  },
+  {
+    "group": 126,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Mohanur Panchayat Union",
+    "start_page": 60,
+    "end_page": 60,
+    "rows": 25,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 7,
+      "general": 13
+    }
+  },
+  {
+    "group": 127,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Namagiripet Panchayat Union",
+    "start_page": 60,
+    "end_page": 60,
+    "rows": 18,
+    "category_counts": {
+      "stwomen": 1,
+      "stgeneral": 2,
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 3,
+      "general": 8
+    }
+  },
+  {
+    "group": 128,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Namakkal Panchayat Union",
+    "start_page": 60,
+    "end_page": 61,
+    "rows": 25,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 6,
+      "general": 11
+    }
+  },
+  {
+    "group": 129,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Pallipalayam Panchayat Union",
+    "start_page": 61,
+    "end_page": 61,
+    "rows": 15,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 4,
+      "general": 9
+    }
+  },
+  {
+    "group": 130,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Paramathi Panchayat Union",
+    "start_page": 61,
+    "end_page": 61,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 5,
+      "general": 10
+    }
+  },
+  {
+    "group": 131,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Puduchatram Panchayat Union",
+    "start_page": 61,
+    "end_page": 62,
+    "rows": 21,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 5,
+      "general": 11
+    }
+  },
+  {
+    "group": 132,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Rasipuram Panchayat Union",
+    "start_page": 62,
+    "end_page": 62,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 5,
+      "general": 9
+    }
+  },
+  {
+    "group": 133,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Sendamangalam Panchayat Union",
+    "start_page": 62,
+    "end_page": 62,
+    "rows": 14,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 6
+    }
+  },
+  {
+    "group": 134,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Tiruchengode Panchayat Union",
+    "start_page": 62,
+    "end_page": 62,
+    "rows": 26,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 7,
+      "general": 14
+    }
+  },
+  {
+    "group": 135,
+    "district": "NAMAKKAL DISTRICT",
+    "union": "Vennandur Panchayat Union",
+    "start_page": 62,
+    "end_page": 62,
+    "rows": 24,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 6,
+      "general": 11
+    }
+  },
+  {
+    "group": 136,
+    "district": "DHARMAPURI DISTRICT",
+    "union": "DHARMAPURI PANCHAYAT UNION",
+    "start_page": 63,
+    "end_page": 63,
+    "rows": 28,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 9,
+      "general": 16
+    }
+  },
+  {
+    "group": 137,
+    "district": "DHARMAPURI DISTRICT",
+    "union": "NALLAMPALLI PANCHAYAT UNION",
+    "start_page": 63,
+    "end_page": 63,
+    "rows": 32,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 9,
+      "general": 19
+    }
+  },
+  {
+    "group": 138,
+    "district": "DHARMAPURI DISTRICT",
+    "union": "PENNAGARAM PANCHAYAT UNION",
+    "start_page": 64,
+    "end_page": 64,
+    "rows": 33,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 9,
+      "general": 19
+    }
+  },
+  {
+    "group": 139,
+    "district": "DHARMAPURI DISTRICT",
+    "union": "HARUR PANCHAYAT UNION",
+    "start_page": 64,
+    "end_page": 64,
+    "rows": 34,
+    "category_counts": {
+      "stwomen": 1,
+      "stgeneral": 2,
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 7,
+      "general": 13
+    }
+  },
+  {
+    "group": 140,
+    "district": "DHARMAPURI DISTRICT",
+    "union": "MORAPPUR PANCHAYAT UNION",
+    "start_page": 65,
+    "end_page": 65,
+    "rows": 43,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 11,
+      "general": 21
+    }
+  },
+  {
+    "group": 141,
+    "district": "DHARMAPURI DISTRICT",
+    "union": "PAPPIREDDIPATTI PANCHAYAT UNION",
+    "start_page": 65,
+    "end_page": 65,
+    "rows": 19,
+    "category_counts": {
+      "stwomen": 2,
+      "stgeneral": 2,
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 3,
+      "general": 8
+    }
+  },
+  {
+    "group": 142,
+    "district": "DHARMAPURI DISTRICT",
+    "union": "KARIMANGALAM PANCHAYAT UNION",
+    "start_page": 66,
+    "end_page": 66,
+    "rows": 30,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 9,
+      "general": 18
+    }
+  },
+  {
+    "group": 143,
+    "district": "DHARMAPURI DISTRICT",
+    "union": "PALACODE PANCHAYAT UNION",
+    "start_page": 66,
+    "end_page": 66,
+    "rows": 32,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 10,
+      "general": 19
+    }
+  },
+  {
+    "group": 144,
+    "district": "KRISHNAGIRI DISTRICT",
+    "union": "Bargur Panchayat Union",
+    "start_page": 67,
+    "end_page": 67,
+    "rows": 36,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 10,
+      "general": 21
+    }
+  },
+  {
+    "group": 145,
+    "district": "KRISHNAGIRI DISTRICT",
+    "union": "Hosur Panchayat Union",
+    "start_page": 67,
+    "end_page": 67,
+    "rows": 26,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 7,
+      "general": 14
+    }
+  },
+  {
+    "group": 146,
+    "district": "KRISHNAGIRI DISTRICT",
+    "union": "Kaveripattinam Panchayat Union",
+    "start_page": 67,
+    "end_page": 67,
+    "rows": 36,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 11,
+      "general": 22
+    }
+  },
+  {
+    "group": 147,
+    "district": "KRISHNAGIRI DISTRICT",
+    "union": "Kelamangalam Panchayat Union",
+    "start_page": 68,
+    "end_page": 68,
+    "rows": 28,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 8,
+      "general": 15
+    }
+  },
+  {
+    "group": 148,
+    "district": "KRISHNAGIRI DISTRICT",
+    "union": "Krishnagiri Panchayat Union",
+    "start_page": 68,
+    "end_page": 68,
+    "rows": 30,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 8,
+      "general": 18
+    }
+  },
+  {
+    "group": 149,
+    "district": "KRISHNAGIRI DISTRICT",
+    "union": "Mathur Panchayat Union",
+    "start_page": 68,
+    "end_page": 68,
+    "rows": 24,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 7,
+      "general": 14
+    }
+  },
+  {
+    "group": 150,
+    "district": "KRISHNAGIRI DISTRICT",
+    "union": "Shoolagiri Panchayat Union",
+    "start_page": 68,
+    "end_page": 69,
+    "rows": 42,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 12,
+      "general": 24
+    }
+  },
+  {
+    "group": 151,
+    "district": "KRISHNAGIRI DISTRICT",
+    "union": "Thally Panchayat Union",
+    "start_page": 69,
+    "end_page": 69,
+    "rows": 50,
+    "category_counts": {
+      "stwomen": 1,
+      "stgeneral": 1,
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 13,
+      "general": 28
+    }
+  },
+  {
+    "group": 152,
+    "district": "KRISHNAGIRI DISTRICT",
+    "union": "Uthangarai Panchayat Union",
+    "start_page": 69,
+    "end_page": 69,
+    "rows": 34,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 9,
+      "general": 17
+    }
+  },
+  {
+    "group": 153,
+    "district": "KRISHNAGIRI DISTRICT",
+    "union": "Veppanapalli Panchayat Union",
+    "start_page": 69,
+    "end_page": 70,
+    "rows": 27,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 8,
+      "general": 16
+    }
+  },
+  {
+    "group": 154,
+    "district": "ERODE DISTRICT",
+    "union": "Erode Panchayat Union",
+    "start_page": 71,
+    "end_page": 71,
+    "rows": 6,
+    "category_counts": {
+      "scgeneral": 1,
+      "generalwomen": 2,
+      "general": 3
+    }
+  },
+  {
+    "group": 155,
+    "district": "ERODE DISTRICT",
+    "union": "Modakkurichi Panchayat Union",
+    "start_page": 71,
+    "end_page": 71,
+    "rows": 23,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 6,
+      "general": 13
+    }
+  },
+  {
+    "group": 156,
+    "district": "ERODE DISTRICT",
+    "union": "Kodumudi Panchayat Union",
+    "start_page": 71,
+    "end_page": 71,
+    "rows": 10,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 3,
+      "general": 5
+    }
+  },
+  {
+    "group": 157,
+    "district": "ERODE DISTRICT",
+    "union": "Perundurai Panchayat Union",
+    "start_page": 71,
+    "end_page": 71,
+    "rows": 29,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 8,
+      "general": 17
+    }
+  },
+  {
+    "group": 158,
+    "district": "ERODE DISTRICT",
+    "union": "Chennimalai Panchayat Union",
+    "start_page": 71,
+    "end_page": 71,
+    "rows": 22,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 6,
+      "general": 12
+    }
+  },
+  {
+    "group": 159,
+    "district": "ERODE DISTRICT",
+    "union": "Gobichettipalayam Panchayat Union",
+    "start_page": 71,
+    "end_page": 72,
+    "rows": 21,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 12
+    }
+  },
+  {
+    "group": 160,
+    "district": "ERODE DISTRICT",
+    "union": "Nambiyur Panchayat Union",
+    "start_page": 72,
+    "end_page": 72,
+    "rows": 15,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 161,
+    "district": "ERODE DISTRICT",
+    "union": "Thookkanaickenpalayam Panchayat Union",
+    "start_page": 72,
+    "end_page": 72,
+    "rows": 10,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 3,
+      "general": 5
+    }
+  },
+  {
+    "group": 162,
+    "district": "ERODE DISTRICT",
+    "union": "Sathyamangalam Panchayat Union",
+    "start_page": 72,
+    "end_page": 72,
+    "rows": 15,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 7
+    }
+  },
+  {
+    "group": 163,
+    "district": "ERODE DISTRICT",
+    "union": "Bhavanisagar Panchayat Union",
+    "start_page": 72,
+    "end_page": 72,
+    "rows": 15,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 164,
+    "district": "ERODE DISTRICT",
+    "union": "Thalavadi Panchayat Union",
+    "start_page": 72,
+    "end_page": 72,
+    "rows": 10,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 3,
+      "general": 4
+    }
+  },
+  {
+    "group": 165,
+    "district": "ERODE DISTRICT",
+    "union": "Bhavani Panchayat Union",
+    "start_page": 72,
+    "end_page": 72,
+    "rows": 15,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 4,
+      "general": 9
+    }
+  },
+  {
+    "group": 166,
+    "district": "ERODE DISTRICT",
+    "union": "Anthiyur Panchayat Union",
+    "start_page": 72,
+    "end_page": 72,
+    "rows": 14,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 167,
+    "district": "ERODE DISTRICT",
+    "union": "Ammapettai Panchayat Union",
+    "start_page": 72,
+    "end_page": 72,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 11
+    }
+  },
+  {
+    "group": 168,
+    "district": "COIMBATORE DISTRICT",
+    "union": "Annur Panchayat Union",
+    "start_page": 73,
+    "end_page": 73,
+    "rows": 21,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 5,
+      "general": 10
+    }
+  },
+  {
+    "group": 169,
+    "district": "COIMBATORE DISTRICT",
+    "union": "Anaimalai Panchayat Union",
+    "start_page": 73,
+    "end_page": 73,
+    "rows": 19,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 9
+    }
+  },
+  {
+    "group": 170,
+    "district": "COIMBATORE DISTRICT",
+    "union": "Karamadai Panchayat Union",
+    "start_page": 73,
+    "end_page": 73,
+    "rows": 17,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 8
+    }
+  },
+  {
+    "group": 171,
+    "district": "COIMBATORE DISTRICT",
+    "union": "Kinathukadavu Panchayat Union",
+    "start_page": 73,
+    "end_page": 73,
+    "rows": 34,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 9,
+      "general": 18
+    }
+  },
+  {
+    "group": 172,
+    "district": "COIMBATORE DISTRICT",
+    "union": "Madukkarai Panchayat Union",
+    "start_page": 74,
+    "end_page": 74,
+    "rows": 9,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 2,
+      "general": 5
+    }
+  },
+  {
+    "group": 173,
+    "district": "COIMBATORE DISTRICT",
+    "union": "Periyanaickenpalayam Panchayat Union",
+    "start_page": 74,
+    "end_page": 74,
+    "rows": 9,
+    "category_counts": {
+      "scgeneral": 1,
+      "generalwomen": 3,
+      "general": 5
+    }
+  },
+  {
+    "group": 174,
+    "district": "COIMBATORE DISTRICT",
+    "union": "Pollachi (North) Panchayat Union",
+    "start_page": 74,
+    "end_page": 74,
+    "rows": 39,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 10,
+      "general": 21
+    }
+  },
+  {
+    "group": 175,
+    "district": "COIMBATORE DISTRICT",
+    "union": "Pollachi(South) Panchayat Union",
+    "start_page": 74,
+    "end_page": 74,
+    "rows": 26,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 7,
+      "general": 14
+    }
+  },
+  {
+    "group": 176,
+    "district": "COIMBATORE DISTRICT",
+    "union": "Sulthanpet Panchayat Union",
+    "start_page": 74,
+    "end_page": 74,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 11
+    }
+  },
+  {
+    "group": 177,
+    "district": "COIMBATORE DISTRICT",
+    "union": "Sulur Panchayat Union",
+    "start_page": 74,
+    "end_page": 75,
+    "rows": 17,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 9
+    }
+  },
+  {
+    "group": 178,
+    "district": "COIMBATORE DISTRICT",
+    "union": "Sarkarsamakulam Panchayat Union",
+    "start_page": 75,
+    "end_page": 75,
+    "rows": 7,
+    "category_counts": {
+      "scgeneral": 1,
+      "generalwomen": 3,
+      "general": 3
+    }
+  },
+  {
+    "group": 179,
+    "district": "COIMBATORE DISTRICT",
+    "union": "Thondamuthur Panchayat Union",
+    "start_page": 75,
+    "end_page": 75,
+    "rows": 10,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 3,
+      "general": 5
+    }
+  },
+  {
+    "group": 180,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Avinashi Panchayat Union",
+    "start_page": 76,
+    "end_page": 76,
+    "rows": 31,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 8,
+      "general": 15
+    }
+  },
+  {
+    "group": 181,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Dharapuram Panchayat Union",
+    "start_page": 76,
+    "end_page": 76,
+    "rows": 16,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 182,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Gudimangalam Panchyat Union",
+    "start_page": 76,
+    "end_page": 76,
+    "rows": 23,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 6,
+      "general": 12
+    }
+  },
+  {
+    "group": 183,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Kangeyam Panchayat Union",
+    "start_page": 76,
+    "end_page": 76,
+    "rows": 15,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 184,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Kundadam Panchayat Union",
+    "start_page": 76,
+    "end_page": 77,
+    "rows": 24,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 6,
+      "general": 12
+    }
+  },
+  {
+    "group": 185,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Madathukkulam Panchayat Union",
+    "start_page": 77,
+    "end_page": 77,
+    "rows": 11,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 3,
+      "general": 6
+    }
+  },
+  {
+    "group": 186,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Mulanur Panchayat Union",
+    "start_page": 77,
+    "end_page": 77,
+    "rows": 12,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 3,
+      "general": 6
+    }
+  },
+  {
+    "group": 187,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Palladam Panchayat Union",
+    "start_page": 77,
+    "end_page": 77,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 11
+    }
+  },
+  {
+    "group": 188,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Pongalur Panchayat Union",
+    "start_page": 77,
+    "end_page": 77,
+    "rows": 16,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 189,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Tiruppur Panchayat Union",
+    "start_page": 77,
+    "end_page": 77,
+    "rows": 13,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 5
+    }
+  },
+  {
+    "group": 190,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Udumalpet Panchayat Union",
+    "start_page": 77,
+    "end_page": 78,
+    "rows": 38,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 191,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Uthukkuli Panchayat Union",
+    "start_page": 78,
+    "end_page": 78,
+    "rows": 37,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 10,
+      "general": 19
+    }
+  },
+  {
+    "group": 192,
+    "district": "TIRUPUR DISTRICT",
+    "union": "Vellakovil Panchayat Union",
+    "start_page": 78,
+    "end_page": 78,
+    "rows": 9,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 2,
+      "general": 5
+    }
+  },
+  {
+    "group": 193,
+    "district": "NILGIRIS DISTRICT",
+    "union": "Udhagamandalam Panchayat Union",
+    "start_page": 79,
+    "end_page": 79,
+    "rows": 13,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 6
+    }
+  },
+  {
+    "group": 194,
+    "district": "NILGIRIS DISTRICT",
+    "union": "Coonoor Panchayat Union",
+    "start_page": 79,
+    "end_page": 79,
+    "rows": 6,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 1,
+      "general": 2
+    }
+  },
+  {
+    "group": 195,
+    "district": "NILGIRIS DISTRICT",
+    "union": "Gudalur Panchayat Union",
+    "start_page": 79,
+    "end_page": 79,
+    "rows": 5,
+    "category_counts": {
+      "stgeneral": 1,
+      "scgeneral": 1,
+      "generalwomen": 2,
+      "general": 1
+    }
+  },
+  {
+    "group": 196,
+    "district": "NILGIRIS DISTRICT",
+    "union": "Kotagiri Panchayat Union",
+    "start_page": 79,
+    "end_page": 79,
+    "rows": 11,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 3,
+      "general": 4
+    }
+  },
+  {
+    "group": 197,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Thanjavur Panchayat Union",
+    "start_page": 80,
+    "end_page": 80,
+    "rows": 61,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 10,
+      "generalwomen": 16,
+      "general": 30
+    }
+  },
+  {
+    "group": 198,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Kumbakonam Panchayat Union",
+    "start_page": 80,
+    "end_page": 81,
+    "rows": 47,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 12,
+      "general": 23
+    }
+  },
+  {
+    "group": 199,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Papansam Panchayat Union",
+    "start_page": 81,
+    "end_page": 81,
+    "rows": 34,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 9,
+      "general": 18
+    }
+  },
+  {
+    "group": 200,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Thiruvidaimarudur Panchayat Union",
+    "start_page": 81,
+    "end_page": 81,
+    "rows": 48,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 12,
+      "general": 25
+    }
+  },
+  {
+    "group": 201,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Thiruvaiyaru Panchayat Union",
+    "start_page": 81,
+    "end_page": 82,
+    "rows": 40,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 10,
+      "general": 19
+    }
+  },
+  {
+    "group": 202,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Thiruppanandal Panchayat Union",
+    "start_page": 82,
+    "end_page": 82,
+    "rows": 44,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 11,
+      "generalwomen": 9,
+      "general": 18
+    }
+  },
+  {
+    "group": 203,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Thiruvonam Panchayat Union",
+    "start_page": 82,
+    "end_page": 83,
+    "rows": 30,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 7,
+      "general": 16
+    }
+  },
+  {
+    "group": 204,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Orathanad Panchayat Union",
+    "start_page": 83,
+    "end_page": 83,
+    "rows": 58,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 17,
+      "general": 33
+    }
+  },
+  {
+    "group": 205,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Peravurani Panchayat Union",
+    "start_page": 83,
+    "end_page": 83,
+    "rows": 26,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 8,
+      "general": 15
+    }
+  },
+  {
+    "group": 206,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Sethubavachatram Panchayat Union",
+    "start_page": 83,
+    "end_page": 84,
+    "rows": 37,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 11,
+      "general": 22
+    }
+  },
+  {
+    "group": 207,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Budalur Panchayat Union",
+    "start_page": 84,
+    "end_page": 84,
+    "rows": 42,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 208,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Ammapet Panchayat Union",
+    "start_page": 84,
+    "end_page": 85,
+    "rows": 46,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 209,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Pattukkottai Panchayat Union",
+    "start_page": 85,
+    "end_page": 85,
+    "rows": 43,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 13,
+      "general": 24
+    }
+  },
+  {
+    "group": 210,
+    "district": "THANJAVUR DISTRICT",
+    "union": "Madukkur Panchayat Union",
+    "start_page": 85,
+    "end_page": 85,
+    "rows": 33,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 9,
+      "general": 20
+    }
+  },
+  {
+    "group": 211,
+    "district": "NAGAPATTINAM DISTRICT",
+    "union": "Nagapattinam Panchayat Union",
+    "start_page": 86,
+    "end_page": 86,
+    "rows": 29,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 6,
+      "general": 13
+    }
+  },
+  {
+    "group": 212,
+    "district": "NAGAPATTINAM DISTRICT",
+    "union": "Keelaiyur Panchayat Union",
+    "start_page": 86,
+    "end_page": 86,
+    "rows": 27,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 6,
+      "general": 12
+    }
+  },
+  {
+    "group": 213,
+    "district": "NAGAPATTINAM DISTRICT",
+    "union": "Kilvelur Panchayat Union",
+    "start_page": 86,
+    "end_page": 86,
+    "rows": 38,
+    "category_counts": {
+      "scwomen": 7,
+      "scgeneral": 13,
+      "generalwomen": 6,
+      "general": 12
+    }
+  },
+  {
+    "group": 214,
+    "district": "NAGAPATTINAM DISTRICT",
+    "union": "Thirumarugal Panchayat Union",
+    "start_page": 86,
+    "end_page": 87,
+    "rows": 39,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 10,
+      "generalwomen": 8,
+      "general": 16
+    }
+  },
+  {
+    "group": 215,
+    "district": "NAGAPATTINAM DISTRICT",
+    "union": "Mayiladuthurai Panchayat Union",
+    "start_page": 87,
+    "end_page": 87,
+    "rows": 54,
+    "category_counts": {
+      "scwomen": 7,
+      "scgeneral": 14,
+      "generalwomen": 11,
+      "general": 22
+    }
+  },
+  {
+    "group": 216,
+    "district": "NAGAPATTINAM DISTRICT",
+    "union": "Kuthalam Panchayat Union",
+    "start_page": 87,
+    "end_page": 88,
+    "rows": 51,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 11,
+      "general": 24
+    }
+  },
+  {
+    "group": 217,
+    "district": "NAGAPATTINAM DISTRICT",
+    "union": "Sembanarkoil Panchayat Union",
+    "start_page": 88,
+    "end_page": 88,
+    "rows": 57,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 12,
+      "generalwomen": 13,
+      "general": 26
+    }
+  },
+  {
+    "group": 218,
+    "district": "NAGAPATTINAM DISTRICT",
+    "union": "Sirkali Panchayat Union",
+    "start_page": 88,
+    "end_page": 88,
+    "rows": 37,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 8,
+      "generalwomen": 8,
+      "general": 16
+    }
+  },
+  {
+    "group": 219,
+    "district": "NAGAPATTINAM DISTRICT",
+    "union": "Kollidam Panchayat Union",
+    "start_page": 88,
+    "end_page": 89,
+    "rows": 42,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 10,
+      "generalwomen": 9,
+      "general": 18
+    }
+  },
+  {
+    "group": 220,
+    "district": "NAGAPATTINAM DISTRICT",
+    "union": "Vedaranyam Panchayat Union",
+    "start_page": 89,
+    "end_page": 89,
+    "rows": 36,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 9,
+      "general": 20
+    }
+  },
+  {
+    "group": 221,
+    "district": "NAGAPATTINAM DISTRICT",
+    "union": "Thalanayar Panchayat Union",
+    "start_page": 89,
+    "end_page": 89,
+    "rows": 24,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 5,
+      "general": 11
+    }
+  },
+  {
+    "group": 222,
+    "district": "TIRUVARUR DISTRICT",
+    "union": "TIRUVARUR PANCHAYAT UNION",
+    "start_page": 90,
+    "end_page": 90,
+    "rows": 34,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 9,
+      "generalwomen": 7,
+      "general": 13
+    }
+  },
+  {
+    "group": 223,
+    "district": "TIRUVARUR DISTRICT",
+    "union": "NANNILAM PANCHAYAT UNION",
+    "start_page": 90,
+    "end_page": 90,
+    "rows": 48,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 11,
+      "generalwomen": 10,
+      "general": 21
+    }
+  },
+  {
+    "group": 224,
+    "district": "TIRUVARUR DISTRICT",
+    "union": "KODAVASAL PANCHAYAT UNION",
+    "start_page": 90,
+    "end_page": 91,
+    "rows": 49,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 13,
+      "general": 25
+    }
+  },
+  {
+    "group": 225,
+    "district": "TIRUVARUR DISTRICT",
+    "union": "VALANGAIMAN PANCHAYAT UNION",
+    "start_page": 91,
+    "end_page": 91,
+    "rows": 50,
+    "category_counts": {
+      "scwomen": 8,
+      "scgeneral": 14,
+      "generalwomen": 9,
+      "general": 19
+    }
+  },
+  {
+    "group": 226,
+    "district": "TIRUVARUR DISTRICT",
+    "union": "KORADACHERY PANCHAYAT UNION",
+    "start_page": 91,
+    "end_page": 92,
+    "rows": 44,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 12,
+      "generalwomen": 9,
+      "general": 17
+    }
+  },
+  {
+    "group": 227,
+    "district": "TIRUVARUR DISTRICT",
+    "union": "NEEDAMANGALAM PANCHAYAT UNION",
+    "start_page": 92,
+    "end_page": 92,
+    "rows": 44,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 11,
+      "general": 22
+    }
+  },
+  {
+    "group": 228,
+    "district": "TIRUVARUR DISTRICT",
+    "union": "MANNARGUDI PANCHAYAT UNION",
+    "start_page": 92,
+    "end_page": 93,
+    "rows": 51,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 11,
+      "generalwomen": 11,
+      "general": 23
+    }
+  },
+  {
+    "group": 229,
+    "district": "TIRUVARUR DISTRICT",
+    "union": "KOTTUR PANCHAYAT UNION",
+    "start_page": 93,
+    "end_page": 93,
+    "rows": 49,
+    "category_counts": {
+      "scwomen": 8,
+      "scgeneral": 14,
+      "generalwomen": 9,
+      "general": 18
+    }
+  },
+  {
+    "group": 230,
+    "district": "TIRUVARUR DISTRICT",
+    "union": "THIRUTHURAIPOONDI PANCHAYAT UNION",
+    "start_page": 93,
+    "end_page": 93,
+    "rows": 32,
+    "category_counts": {
+      "scwomen": 6,
+      "scgeneral": 10,
+      "generalwomen": 5,
+      "general": 11
+    }
+  },
+  {
+    "group": 231,
+    "district": "TIRUVARUR DISTRICT",
+    "union": "MUTHUPET PANCHAYAT UNION",
+    "start_page": 93,
+    "end_page": 94,
+    "rows": 29,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 7,
+      "general": 13
+    }
+  },
+  {
+    "group": 232,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "ANDANALLUR PANCHAYAT UNION",
+    "start_page": 95,
+    "end_page": 95,
+    "rows": 25,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 6,
+      "general": 12
+    }
+  },
+  {
+    "group": 233,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "MANIKANDAM PANCHAYAT UNION",
+    "start_page": 95,
+    "end_page": 95,
+    "rows": 22,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 6,
+      "general": 12
+    }
+  },
+  {
+    "group": 234,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "THIRUVERAMBUR PANCHAYAT UNION",
+    "start_page": 96,
+    "end_page": 96,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 11
+    }
+  },
+  {
+    "group": 235,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "MANAPPARAI PANCHAYAT UNION",
+    "start_page": 96,
+    "end_page": 96,
+    "rows": 21,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 12
+    }
+  },
+  {
+    "group": 236,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "VAIYAMPATTI PANCHAYAT UNION",
+    "start_page": 97,
+    "end_page": 97,
+    "rows": 18,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 10
+    }
+  },
+  {
+    "group": 237,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "MARUNGAPURI PANCHAYAT UNION",
+    "start_page": 97,
+    "end_page": 97,
+    "rows": 49,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 13,
+      "general": 26
+    }
+  },
+  {
+    "group": 238,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "MUSIRI PANCHAYAT UNION",
+    "start_page": 98,
+    "end_page": 98,
+    "rows": 33,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 8,
+      "general": 17
+    }
+  },
+  {
+    "group": 239,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "THOTTIAM PANCHAYAT UNION",
+    "start_page": 98,
+    "end_page": 98,
+    "rows": 26,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 7,
+      "general": 14
+    }
+  },
+  {
+    "group": 240,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "THATHAIYENGARPETTAI PANCHAYAT UNION",
+    "start_page": 98,
+    "end_page": 99,
+    "rows": 25,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 7,
+      "general": 14
+    }
+  },
+  {
+    "group": 241,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "THURAIYUR PANCHAYAT UNION",
+    "start_page": 99,
+    "end_page": 99,
+    "rows": 34,
+    "category_counts": {
+      "stwomen": 1,
+      "stgeneral": 1,
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 8,
+      "general": 17
+    }
+  },
+  {
+    "group": 242,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "UPPILIAPURAM PANCHAYAT UNION",
+    "start_page": 99,
+    "end_page": 100,
+    "rows": 18,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 243,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "MANACHANALLUR PANCHAYAT UNION",
+    "start_page": 100,
+    "end_page": 100,
+    "rows": 35,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 9,
+      "general": 19
+    }
+  },
+  {
+    "group": 244,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "LALGUDI PANCHAYAT UNION",
+    "start_page": 100,
+    "end_page": 101,
+    "rows": 45,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 11,
+      "general": 22
+    }
+  },
+  {
+    "group": 245,
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "union": "PULLAMBADI PANCHAYAT UNION",
+    "start_page": 101,
+    "end_page": 101,
+    "rows": 33,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 9,
+      "general": 18
+    }
+  },
+  {
+    "group": 246,
+    "district": "KARUR DISTRICT",
+    "union": "Karur Panchayat Union",
+    "start_page": 102,
+    "end_page": 102,
+    "rows": 14,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 7
+    }
+  },
+  {
+    "group": 247,
+    "district": "KARUR DISTRICT",
+    "union": "Thanthoni Panchayat Union",
+    "start_page": 102,
+    "end_page": 102,
+    "rows": 17,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 9
+    }
+  },
+  {
+    "group": 248,
+    "district": "KARUR DISTRICT",
+    "union": "Aravakurichi Panchayat Union",
+    "start_page": 102,
+    "end_page": 102,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 5,
+      "general": 10
+    }
+  },
+  {
+    "group": 249,
+    "district": "KARUR DISTRICT",
+    "union": "K. Paramathi Panchayat Union",
+    "start_page": 102,
+    "end_page": 102,
+    "rows": 30,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 7,
+      "general": 15
+    }
+  },
+  {
+    "group": 250,
+    "district": "KARUR DISTRICT",
+    "union": "Kulithalai Panchayat Union",
+    "start_page": 103,
+    "end_page": 103,
+    "rows": 13,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 3,
+      "general": 6
+    }
+  },
+  {
+    "group": 251,
+    "district": "KARUR DISTRICT",
+    "union": "Krishnarayapuram Panchayat Union",
+    "start_page": 103,
+    "end_page": 103,
+    "rows": 23,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 6,
+      "general": 11
+    }
+  },
+  {
+    "group": 252,
+    "district": "KARUR DISTRICT",
+    "union": "Kadavur Panchayat Union",
+    "start_page": 103,
+    "end_page": 103,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 11
+    }
+  },
+  {
+    "group": 253,
+    "district": "KARUR DISTRICT",
+    "union": "Thogamalai Panchayat Union",
+    "start_page": 103,
+    "end_page": 103,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 11
+    }
+  },
+  {
+    "group": 254,
+    "district": "PERAMBALUR DISTRICT",
+    "union": "Perambalur Panchayat Union",
+    "start_page": 104,
+    "end_page": 104,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 4,
+      "general": 9
+    }
+  },
+  {
+    "group": 255,
+    "district": "PERAMBALUR DISTRICT",
+    "union": "Veppanthattai Panchayat Union",
+    "start_page": 104,
+    "end_page": 104,
+    "rows": 29,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 7,
+      "general": 13
+    }
+  },
+  {
+    "group": 256,
+    "district": "PERAMBALUR DISTRICT",
+    "union": "Alathur Panchayat Union",
+    "start_page": 104,
+    "end_page": 105,
+    "rows": 39,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 9,
+      "general": 20
+    }
+  },
+  {
+    "group": 257,
+    "district": "PERAMBALUR DISTRICT",
+    "union": "Veppur Panchayat Union",
+    "start_page": 105,
+    "end_page": 105,
+    "rows": 33,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 7,
+      "general": 15
+    }
+  },
+  {
+    "group": 258,
+    "district": "ARIYALUR DISTRICT",
+    "union": "Ariyalur Panchayat Union",
+    "start_page": 106,
+    "end_page": 106,
+    "rows": 37,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 10,
+      "general": 18
+    }
+  },
+  {
+    "group": 259,
+    "district": "ARIYALUR DISTRICT",
+    "union": "Thirumanur Panchayat Union",
+    "start_page": 106,
+    "end_page": 106,
+    "rows": 36,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 9,
+      "general": 20
+    }
+  },
+  {
+    "group": 260,
+    "district": "ARIYALUR DISTRICT",
+    "union": "Sendurai Panchayat Union:",
+    "start_page": 107,
+    "end_page": 107,
+    "rows": 30,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 7,
+      "general": 15
+    }
+  },
+  {
+    "group": 261,
+    "district": "ARIYALUR DISTRICT",
+    "union": "Jeyankondam Panchayat Union:",
+    "start_page": 107,
+    "end_page": 107,
+    "rows": 35,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 9,
+      "general": 16
+    }
+  },
+  {
+    "group": 262,
+    "district": "ARIYALUR DISTRICT",
+    "union": "T.Palur Panchayat Union:",
+    "start_page": 108,
+    "end_page": 108,
+    "rows": 33,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 3,
+      "scgeneral": 3,
+      "generalwomen": 8,
+      "general": 18
+    }
+  },
+  {
+    "group": 263,
+    "district": "ARIYALUR DISTRICT",
+    "union": "Andimadam Panchayat Union:",
+    "start_page": 108,
+    "end_page": 108,
+    "rows": 30,
+    "category_counts": {
+      "stgeneral": 1,
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 8,
+      "general": 15
+    }
+  },
+  {
+    "group": 264,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "ANNAVASAL PANCHAYAT UNION",
+    "start_page": 109,
+    "end_page": 109,
+    "rows": 43,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 11,
+      "general": 22
+    }
+  },
+  {
+    "group": 265,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "ARANTHANGI PANCHAYAT UNION :",
+    "start_page": 109,
+    "end_page": 109,
+    "rows": 52,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 16,
+      "general": 30
+    }
+  },
+  {
+    "group": 266,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "ARIMALAM PANCHAYAT UNION :",
+    "start_page": 110,
+    "end_page": 110,
+    "rows": 32,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 9,
+      "general": 17
+    }
+  },
+  {
+    "group": 267,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "AVUDAIYARKOIL PANCHAYAT UNION",
+    "start_page": 110,
+    "end_page": 110,
+    "rows": 35,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 10,
+      "general": 19
+    }
+  },
+  {
+    "group": 268,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "GANDARVAKKOTTAI PANCHAYAT UNION",
+    "start_page": 110,
+    "end_page": 110,
+    "rows": 36,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 8,
+      "general": 18
+    }
+  },
+  {
+    "group": 269,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "KARAMBAKUDI PANCHAYAT UNION",
+    "start_page": 111,
+    "end_page": 111,
+    "rows": 39,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 9,
+      "general": 19
+    }
+  },
+  {
+    "group": 270,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "KUNNANDARKOIL PANCHAYAT UNION",
+    "start_page": 111,
+    "end_page": 111,
+    "rows": 37,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 11,
+      "general": 21
+    }
+  },
+  {
+    "group": 271,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "MANAMELKUDI PANCHAYAT UNION",
+    "start_page": 111,
+    "end_page": 111,
+    "rows": 28,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 8,
+      "general": 16
+    }
+  },
+  {
+    "group": 272,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "PONNAMARAVATHY PANCHAYAT UNION",
+    "start_page": 112,
+    "end_page": 112,
+    "rows": 42,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 11,
+      "general": 24
+    }
+  },
+  {
+    "group": 273,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "PUDUKKOTTAI PANCHAYAT UNION",
+    "start_page": 112,
+    "end_page": 112,
+    "rows": 27,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 7,
+      "general": 14
+    }
+  },
+  {
+    "group": 274,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "THIRUMAYAM PANCHAYAT UNION",
+    "start_page": 112,
+    "end_page": 112,
+    "rows": 33,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 8,
+      "general": 18
+    }
+  },
+  {
+    "group": 275,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "THIRUVARANKULAM PANCHAYAT UNION",
+    "start_page": 113,
+    "end_page": 113,
+    "rows": 48,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 13,
+      "general": 28
+    }
+  },
+  {
+    "group": 276,
+    "district": "PUDUKKOTTAI DISTRICT",
+    "union": "VIRALIMALAI PANCHAYAT UNION",
+    "start_page": 113,
+    "end_page": 113,
+    "rows": 45,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 12,
+      "general": 25
+    }
+  },
+  {
+    "group": 277,
+    "district": "MADURAI DISTRICT",
+    "union": "Madurai East Panchayat Union",
+    "start_page": 114,
+    "end_page": 114,
+    "rows": 36,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 8,
+      "general": 21
+    }
+  },
+  {
+    "group": 278,
+    "district": "MADURAI DISTRICT",
+    "union": "Madurai West Panchayat Union",
+    "start_page": 114,
+    "end_page": 114,
+    "rows": 29,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 8,
+      "general": 15
+    }
+  },
+  {
+    "group": 279,
+    "district": "MADURAI DISTRICT",
+    "union": "Tirupparankundram Panchayat Union",
+    "start_page": 114,
+    "end_page": 115,
+    "rows": 38,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 12,
+      "general": 20
+    }
+  },
+  {
+    "group": 280,
+    "district": "MADURAI DISTRICT",
+    "union": "Melur Panchayat Union",
+    "start_page": 115,
+    "end_page": 115,
+    "rows": 36,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 9,
+      "general": 20
+    }
+  },
+  {
+    "group": 281,
+    "district": "MADURAI DISTRICT",
+    "union": "Kottampatti Panchayat Union",
+    "start_page": 115,
+    "end_page": 115,
+    "rows": 27,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 7,
+      "general": 16
+    }
+  },
+  {
+    "group": 282,
+    "district": "MADURAI DISTRICT",
+    "union": "Alanganallur Panchayat Union",
+    "start_page": 115,
+    "end_page": 116,
+    "rows": 37,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 10,
+      "general": 19
+    }
+  },
+  {
+    "group": 283,
+    "district": "MADURAI DISTRICT",
+    "union": "Vadipatti Panchayat Union",
+    "start_page": 116,
+    "end_page": 116,
+    "rows": 23,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 6,
+      "general": 11
+    }
+  },
+  {
+    "group": 284,
+    "district": "MADURAI DISTRICT",
+    "union": "Usilampatti Panchayat Union",
+    "start_page": 116,
+    "end_page": 116,
+    "rows": 18,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 10
+    }
+  },
+  {
+    "group": 285,
+    "district": "MADURAI DISTRICT",
+    "union": "Chellampatti Panchayat Union",
+    "start_page": 116,
+    "end_page": 116,
+    "rows": 29,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 8,
+      "general": 16
+    }
+  },
+  {
+    "group": 286,
+    "district": "MADURAI DISTRICT",
+    "union": "Sedapatti Panchayat Union",
+    "start_page": 116,
+    "end_page": 117,
+    "rows": 31,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 8,
+      "general": 15
+    }
+  },
+  {
+    "group": 287,
+    "district": "MADURAI DISTRICT",
+    "union": "Tirumangalam Panchayat Union",
+    "start_page": 117,
+    "end_page": 117,
+    "rows": 38,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 10,
+      "general": 21
+    }
+  },
+  {
+    "group": 288,
+    "district": "MADURAI DISTRICT",
+    "union": "T.Kallupatti Panchayat Union",
+    "start_page": 117,
+    "end_page": 118,
+    "rows": 42,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 10,
+      "general": 22
+    }
+  },
+  {
+    "group": 289,
+    "district": "MADURAI DISTRICT",
+    "union": "Kalligudi Panchayat Union",
+    "start_page": 118,
+    "end_page": 118,
+    "rows": 36,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 290,
+    "district": "Theni District",
+    "union": "Periyakulam Panchayat Union",
+    "start_page": 119,
+    "end_page": 119,
+    "rows": 17,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 9
+    }
+  },
+  {
+    "group": 291,
+    "district": "Theni District",
+    "union": "Andipatti Panchayat Union",
+    "start_page": 119,
+    "end_page": 119,
+    "rows": 30,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 7,
+      "general": 15
+    }
+  },
+  {
+    "group": 292,
+    "district": "Theni District",
+    "union": "K. Myladumparai Panchayat Union",
+    "start_page": 119,
+    "end_page": 119,
+    "rows": 18,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 10
+    }
+  },
+  {
+    "group": 293,
+    "district": "Theni District",
+    "union": "Theni Panchayat Union",
+    "start_page": 119,
+    "end_page": 119,
+    "rows": 18,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 294,
+    "district": "Theni District",
+    "union": "Bodinayakanur Panchayat Union",
+    "start_page": 119,
+    "end_page": 120,
+    "rows": 15,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 295,
+    "district": "Theni District",
+    "union": "Chinnamanur Panchayat Union",
+    "start_page": 120,
+    "end_page": 120,
+    "rows": 14,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 3,
+      "general": 7
+    }
+  },
+  {
+    "group": 296,
+    "district": "Theni District",
+    "union": "Uthamapalayam Panchayat Union",
+    "start_page": 120,
+    "end_page": 120,
+    "rows": 13,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 4,
+      "general": 7
+    }
+  },
+  {
+    "group": 297,
+    "district": "Theni District",
+    "union": "Cumbum Panchayat Union",
+    "start_page": 120,
+    "end_page": 120,
+    "rows": 5,
+    "category_counts": {
+      "scgeneral": 1,
+      "generalwomen": 2,
+      "general": 2
+    }
+  },
+  {
+    "group": 298,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Athoor Panchayat Union",
+    "start_page": 121,
+    "end_page": 121,
+    "rows": 22,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 6,
+      "general": 11
+    }
+  },
+  {
+    "group": 299,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Dindigul Panchayat Union",
+    "start_page": 121,
+    "end_page": 121,
+    "rows": 14,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 7
+    }
+  },
+  {
+    "group": 300,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Reddiarchatram Panchayat Union",
+    "start_page": 121,
+    "end_page": 121,
+    "rows": 24,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 6,
+      "general": 14
+    }
+  },
+  {
+    "group": 301,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Shanarpatti Panchayat Union",
+    "start_page": 121,
+    "end_page": 121,
+    "rows": 21,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 12
+    }
+  },
+  {
+    "group": 302,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Natham Panchayat Union",
+    "start_page": 121,
+    "end_page": 122,
+    "rows": 23,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 7,
+      "general": 13
+    }
+  },
+  {
+    "group": 303,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Nilakottai Panchayat Union",
+    "start_page": 122,
+    "end_page": 122,
+    "rows": 23,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 5,
+      "general": 11
+    }
+  },
+  {
+    "group": 304,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Vathlagundu Panchayat Union",
+    "start_page": 122,
+    "end_page": 122,
+    "rows": 17,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 305,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Vadamadurai Panchayat Union",
+    "start_page": 122,
+    "end_page": 122,
+    "rows": 15,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 306,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Vedasandur Panchayat Union",
+    "start_page": 122,
+    "end_page": 122,
+    "rows": 22,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 7,
+      "general": 12
+    }
+  },
+  {
+    "group": 307,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Guziliamparai Panchayat Union",
+    "start_page": 122,
+    "end_page": 123,
+    "rows": 17,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 9
+    }
+  },
+  {
+    "group": 308,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Oddanchatram Panchayat Union",
+    "start_page": 123,
+    "end_page": 123,
+    "rows": 35,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 9,
+      "general": 19
+    }
+  },
+  {
+    "group": 309,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Palani Panchayat Union",
+    "start_page": 123,
+    "end_page": 123,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 5,
+      "general": 9
+    }
+  },
+  {
+    "group": 310,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Thoppampatti Panchayat Union",
+    "start_page": 123,
+    "end_page": 124,
+    "rows": 38,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 311,
+    "district": "DINDIGUL DISTRICT",
+    "union": "Kodaikanal Panchayat Union",
+    "start_page": 124,
+    "end_page": 124,
+    "rows": 15,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 312,
+    "district": "RAMANATHAPURAM DISTRICT",
+    "union": "Ramanathapuram Panchayat Union",
+    "start_page": 125,
+    "end_page": 125,
+    "rows": 25,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 6,
+      "general": 12
+    }
+  },
+  {
+    "group": 313,
+    "district": "RAMANATHAPURAM DISTRICT",
+    "union": "Thiruppullani Panchayat Union",
+    "start_page": 125,
+    "end_page": 125,
+    "rows": 33,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 8,
+      "general": 17
+    }
+  },
+  {
+    "group": 314,
+    "district": "RAMANATHAPURAM DISTRICT",
+    "union": "Mandapam Panchayat Union",
+    "start_page": 125,
+    "end_page": 125,
+    "rows": 28,
+    "category_counts": {
+      "scgeneral": 1,
+      "generalwomen": 10,
+      "general": 17
+    }
+  },
+  {
+    "group": 315,
+    "district": "RAMANATHAPURAM DISTRICT",
+    "union": "R.S.Mangalam Panchayat Union",
+    "start_page": 126,
+    "end_page": 126,
+    "rows": 35,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 9,
+      "general": 18
+    }
+  },
+  {
+    "group": 316,
+    "district": "RAMANATHAPURAM DISTRICT",
+    "union": "Thiruvadanai Panchayat Union",
+    "start_page": 126,
+    "end_page": 126,
+    "rows": 47,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 13,
+      "general": 26
+    }
+  },
+  {
+    "group": 317,
+    "district": "RAMANATHAPURAM DISTRICT",
+    "union": "Paramakudi Panchayat Union",
+    "start_page": 126,
+    "end_page": 127,
+    "rows": 39,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 9,
+      "general": 18
+    }
+  },
+  {
+    "group": 318,
+    "district": "RAMANATHAPURAM DISTRICT",
+    "union": "Bogalur Panchayat Union",
+    "start_page": 127,
+    "end_page": 127,
+    "rows": 26,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 5,
+      "general": 10
+    }
+  },
+  {
+    "group": 319,
+    "district": "RAMANATHAPURAM DISTRICT",
+    "union": "Nainarkovil Panchayat Union",
+    "start_page": 127,
+    "end_page": 127,
+    "rows": 37,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 10,
+      "general": 19
+    }
+  },
+  {
+    "group": 320,
+    "district": "RAMANATHAPURAM DISTRICT",
+    "union": "Mudukulathur Panchayat Union",
+    "start_page": 127,
+    "end_page": 128,
+    "rows": 46,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 9,
+      "generalwomen": 11,
+      "general": 21
+    }
+  },
+  {
+    "group": 321,
+    "district": "RAMANATHAPURAM DISTRICT",
+    "union": "Kamuthi Panchayat Union",
+    "start_page": 128,
+    "end_page": 128,
+    "rows": 53,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 14,
+      "general": 27
+    }
+  },
+  {
+    "group": 322,
+    "district": "RAMANATHAPURAM DISTRICT",
+    "union": "Kadaladi Panchayat Union",
+    "start_page": 128,
+    "end_page": 129,
+    "rows": 60,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 17,
+      "general": 34
+    }
+  },
+  {
+    "group": 323,
+    "district": "VIRUDHUNAGAR DISTRICT",
+    "union": "Aruppukottai Panchayat Union",
+    "start_page": 130,
+    "end_page": 130,
+    "rows": 32,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 9,
+      "general": 19
+    }
+  },
+  {
+    "group": 324,
+    "district": "VIRUDHUNAGAR DISTRICT",
+    "union": "Kariapatti Panchayat Union",
+    "start_page": 130,
+    "end_page": 130,
+    "rows": 36,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 9,
+      "general": 19
+    }
+  },
+  {
+    "group": 325,
+    "district": "VIRUDHUNAGAR DISTRICT",
+    "union": "Thiruchuli Panchayat Union",
+    "start_page": 130,
+    "end_page": 131,
+    "rows": 40,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 12,
+      "general": 22
+    }
+  },
+  {
+    "group": 326,
+    "district": "VIRUDHUNAGAR DISTRICT",
+    "union": "Narikudi Panchayat Union",
+    "start_page": 131,
+    "end_page": 131,
+    "rows": 44,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 11,
+      "general": 23
+    }
+  },
+  {
+    "group": 327,
+    "district": "VIRUDHUNAGAR DISTRICT",
+    "union": "Virudhunagar Panchayat Union",
+    "start_page": 131,
+    "end_page": 132,
+    "rows": 58,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 8,
+      "generalwomen": 15,
+      "general": 30
+    }
+  },
+  {
+    "group": 328,
+    "district": "VIRUDHUNAGAR DISTRICT",
+    "union": "Sattur Panchayat Union",
+    "start_page": 132,
+    "end_page": 133,
+    "rows": 46,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 12,
+      "general": 22
+    }
+  },
+  {
+    "group": 329,
+    "district": "VIRUDHUNAGAR DISTRICT",
+    "union": "Sivakasi Panchayat Union",
+    "start_page": 133,
+    "end_page": 133,
+    "rows": 54,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 14,
+      "general": 30
+    }
+  },
+  {
+    "group": 330,
+    "district": "VIRUDHUNAGAR DISTRICT",
+    "union": "Vembakottai Panchayat Union",
+    "start_page": 133,
+    "end_page": 134,
+    "rows": 48,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 12,
+      "general": 26
+    }
+  },
+  {
+    "group": 331,
+    "district": "VIRUDHUNAGAR DISTRICT",
+    "union": "Srivilliputhur Panchayat Union",
+    "start_page": 134,
+    "end_page": 134,
+    "rows": 29,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 6,
+      "general": 13
+    }
+  },
+  {
+    "group": 332,
+    "district": "VIRUDHUNAGAR DISTRICT",
+    "union": "Watrap Panchayat Union",
+    "start_page": 134,
+    "end_page": 135,
+    "rows": 27,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 6,
+      "general": 12
+    }
+  },
+  {
+    "group": 333,
+    "district": "VIRUDHUNAGAR DISTRICT",
+    "union": "Rajapalayam Panchayat Union",
+    "start_page": 135,
+    "end_page": 135,
+    "rows": 36,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 8,
+      "general": 18
+    }
+  },
+  {
+    "group": 334,
+    "district": "SIVAGANGAI DISTRICT",
+    "union": "Sivagangai Panchayat Union",
+    "start_page": 136,
+    "end_page": 136,
+    "rows": 43,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 13,
+      "general": 25
+    }
+  },
+  {
+    "group": 335,
+    "district": "SIVAGANGAI DISTRICT",
+    "union": "Kalayarkovil Panchayat Union",
+    "start_page": 136,
+    "end_page": 136,
+    "rows": 43,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 12,
+      "general": 24
+    }
+  },
+  {
+    "group": 336,
+    "district": "SIVAGANGAI DISTRICT",
+    "union": "Manamadurai Panchayat Union",
+    "start_page": 137,
+    "end_page": 137,
+    "rows": 39,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 10,
+      "general": 20
+    }
+  },
+  {
+    "group": 337,
+    "district": "SIVAGANGAI DISTRICT",
+    "union": "Thiruppuvanam Panchayat Union",
+    "start_page": 137,
+    "end_page": 137,
+    "rows": 45,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 7,
+      "generalwomen": 11,
+      "general": 23
+    }
+  },
+  {
+    "group": 338,
+    "district": "SIVAGANGAI DISTRICT",
+    "union": "Ilayangudi Panchayat Union",
+    "start_page": 137,
+    "end_page": 138,
+    "rows": 55,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 15,
+      "general": 28
+    }
+  },
+  {
+    "group": 339,
+    "district": "SIVAGANGAI DISTRICT",
+    "union": "Devakottai Panchayat Union",
+    "start_page": 138,
+    "end_page": 138,
+    "rows": 42,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 6,
+      "generalwomen": 10,
+      "general": 22
+    }
+  },
+  {
+    "group": 340,
+    "district": "SIVAGANGAI DISTRICT",
+    "union": "Kannangudi Panchayat Union",
+    "start_page": 138,
+    "end_page": 139,
+    "rows": 17,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 4,
+      "general": 7
+    }
+  },
+  {
+    "group": 341,
+    "district": "SIVAGANGAI DISTRICT",
+    "union": "Kallal Panchayat Union",
+    "start_page": 139,
+    "end_page": 139,
+    "rows": 44,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 12,
+      "general": 25
+    }
+  },
+  {
+    "group": 342,
+    "district": "SIVAGANGAI DISTRICT",
+    "union": "Sakkottai Panchayat Union",
+    "start_page": 139,
+    "end_page": 139,
+    "rows": 26,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 7,
+      "general": 15
+    }
+  },
+  {
+    "group": 343,
+    "district": "SIVAGANGAI DISTRICT",
+    "union": "Thiruppathur Panchayat Union",
+    "start_page": 139,
+    "end_page": 140,
+    "rows": 40,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 12,
+      "general": 22
+    }
+  },
+  {
+    "group": 344,
+    "district": "SIVAGANGAI DISTRICT",
+    "union": "Singampunari Panchayat Union",
+    "start_page": 140,
+    "end_page": 140,
+    "rows": 30,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 8,
+      "general": 18
+    }
+  },
+  {
+    "group": 345,
+    "district": "SIVAGANGAI DISTRICT",
+    "union": "S - Pudur Panchayat Union",
+    "start_page": 140,
+    "end_page": 140,
+    "rows": 21,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 5,
+      "general": 12
+    }
+  },
+  {
+    "group": 346,
+    "district": "Tirunelveli District",
+    "union": "VASUDEVANALLUR PANCHAYAT UNION",
+    "start_page": 141,
+    "end_page": 141,
+    "rows": 22,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 5,
+      "general": 10
+    }
+  },
+  {
+    "group": 347,
+    "district": "Tirunelveli District",
+    "union": "SANKARANKOVIL PANCHAYAT UNION",
+    "start_page": 141,
+    "end_page": 141,
+    "rows": 28,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 6,
+      "general": 14
+    }
+  },
+  {
+    "group": 348,
+    "district": "Tirunelveli District",
+    "union": "KURUVIKULAM PANCHAYAT UNION",
+    "start_page": 141,
+    "end_page": 142,
+    "rows": 43,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 9,
+      "generalwomen": 10,
+      "general": 19
+    }
+  },
+  {
+    "group": 349,
+    "district": "Tirunelveli District",
+    "union": "MELANEELITHANALLUR PANCHAYAT UNION",
+    "start_page": 142,
+    "end_page": 142,
+    "rows": 25,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 7,
+      "general": 14
+    }
+  },
+  {
+    "group": 350,
+    "district": "Tirunelveli District",
+    "union": "KADAYANALLUR PANCHAYAT UNION",
+    "start_page": 142,
+    "end_page": 142,
+    "rows": 16,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 4,
+      "general": 8
+    }
+  },
+  {
+    "group": 351,
+    "district": "Tirunelveli District",
+    "union": "SHENKOTTAI PANCHAYAT UNION",
+    "start_page": 142,
+    "end_page": 142,
+    "rows": 6,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 1,
+      "general": 3
+    }
+  },
+  {
+    "group": 352,
+    "district": "Tirunelveli District",
+    "union": "TENKASI PANCHAYAT UNION",
+    "start_page": 142,
+    "end_page": 142,
+    "rows": 14,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 3,
+      "general": 7
+    }
+  },
+  {
+    "group": 353,
+    "district": "Tirunelveli District",
+    "union": "KEELAPAVOOR PANCHAYAT UNION",
+    "start_page": 143,
+    "end_page": 143,
+    "rows": 21,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 6,
+      "general": 13
+    }
+  },
+  {
+    "group": 354,
+    "district": "Tirunelveli District",
+    "union": "ALANKULAM PANCHAYAT UNION",
+    "start_page": 143,
+    "end_page": 143,
+    "rows": 28,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 8,
+      "general": 16
+    }
+  },
+  {
+    "group": 355,
+    "district": "Tirunelveli District",
+    "union": "MANUR PANCHAYAT UNION",
+    "start_page": 143,
+    "end_page": 144,
+    "rows": 41,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 8,
+      "generalwomen": 9,
+      "general": 19
+    }
+  },
+  {
+    "group": 356,
+    "district": "Tirunelveli District",
+    "union": "PAPPAKKUDI PANCHAYAT UNION",
+    "start_page": 144,
+    "end_page": 144,
+    "rows": 15,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 4,
+      "general": 9
+    }
+  },
+  {
+    "group": 357,
+    "district": "Tirunelveli District",
+    "union": "KADAYAM PANCHAYAT UNION",
+    "start_page": 144,
+    "end_page": 144,
+    "rows": 23,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 6,
+      "general": 13
+    }
+  },
+  {
+    "group": 358,
+    "district": "Tirunelveli District",
+    "union": "AMBASAMUDRAM PANCHAYAT UNION",
+    "start_page": 144,
+    "end_page": 144,
+    "rows": 12,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 3,
+      "general": 7
+    }
+  },
+  {
+    "group": 359,
+    "district": "Tirunelveli District",
+    "union": "CHERANMAHADEVI PANCHAYAT UNION",
+    "start_page": 144,
+    "end_page": 144,
+    "rows": 12,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 2,
+      "generalwomen": 3,
+      "general": 6
+    }
+  },
+  {
+    "group": 360,
+    "district": "Tirunelveli District",
+    "union": "PALAYAMKOTTAI PANCHAYAT UNION",
+    "start_page": 144,
+    "end_page": 145,
+    "rows": 30,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 7,
+      "general": 15
+    }
+  },
+  {
+    "group": 361,
+    "district": "Tirunelveli District",
+    "union": "NANGUNERI PANCHAYAT UNION",
+    "start_page": 145,
+    "end_page": 145,
+    "rows": 27,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 7,
+      "general": 15
+    }
+  },
+  {
+    "group": 362,
+    "district": "Tirunelveli District",
+    "union": "KALAKADU PANCHAYAT UNION",
+    "start_page": 145,
+    "end_page": 145,
+    "rows": 17,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 5,
+      "general": 10
+    }
+  },
+  {
+    "group": 363,
+    "district": "Tirunelveli District",
+    "union": "VALLIYOOR PANCHAYAT UNION",
+    "start_page": 145,
+    "end_page": 145,
+    "rows": 18,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 5,
+      "general": 11
+    }
+  },
+  {
+    "group": 364,
+    "district": "Tirunelveli District",
+    "union": "RADHAPURAM PANCHAYAT UNION",
+    "start_page": 146,
+    "end_page": 146,
+    "rows": 27,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 7,
+      "general": 16
+    }
+  },
+  {
+    "group": 365,
+    "district": "THOOTHUKUDI DISTRICT",
+    "union": "THOOTHUKUDI PANCHAYAT UNION",
+    "start_page": 147,
+    "end_page": 147,
+    "rows": 20,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 6,
+      "general": 9
+    }
+  },
+  {
+    "group": 366,
+    "district": "THOOTHUKUDI DISTRICT",
+    "union": "KARUNGULAM PANCHAYAT UNION",
+    "start_page": 147,
+    "end_page": 147,
+    "rows": 31,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 5,
+      "generalwomen": 8,
+      "general": 15
+    }
+  },
+  {
+    "group": 367,
+    "district": "THOOTHUKUDI DISTRICT",
+    "union": "SRIVAIKUNDAM PANCHAYAT UNION",
+    "start_page": 147,
+    "end_page": 148,
+    "rows": 31,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 4,
+      "generalwomen": 8,
+      "general": 16
+    }
+  },
+  {
+    "group": 368,
+    "district": "THOOTHUKUDI DISTRICT",
+    "union": "ALWARTHIRUNAGARI PANCHAYAT UNION",
+    "start_page": 148,
+    "end_page": 148,
+    "rows": 30,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 4,
+      "generalwomen": 8,
+      "general": 16
+    }
+  },
+  {
+    "group": 369,
+    "district": "THOOTHUKUDI DISTRICT",
+    "union": "TIRUCHENDUR PANCHAYAT UNION",
+    "start_page": 148,
+    "end_page": 148,
+    "rows": 11,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 2,
+      "generalwomen": 2,
+      "general": 5
+    }
+  },
+  {
+    "group": 370,
+    "district": "THOOTHUKUDI DISTRICT",
+    "union": "UDANGUDI PANCHAYAT UNION",
+    "start_page": 148,
+    "end_page": 148,
+    "rows": 17,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 5,
+      "general": 10
+    }
+  },
+  {
+    "group": 371,
+    "district": "THOOTHUKUDI DISTRICT",
+    "union": "SATHNKULAM PANCHAYAT UNION",
+    "start_page": 148,
+    "end_page": 148,
+    "rows": 24,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 7,
+      "general": 15
+    }
+  },
+  {
+    "group": 372,
+    "district": "THOOTHUKUDI DISTRICT",
+    "union": "KOVILPATTI PANCHAYAT UNION",
+    "start_page": 148,
+    "end_page": 149,
+    "rows": 38,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 10,
+      "general": 19
+    }
+  },
+  {
+    "group": 373,
+    "district": "THOOTHUKUDI DISTRICT",
+    "union": "KAYATHAR PANCHAYAT UNION",
+    "start_page": 149,
+    "end_page": 149,
+    "rows": 45,
+    "category_counts": {
+      "scwomen": 5,
+      "scgeneral": 8,
+      "generalwomen": 10,
+      "general": 22
+    }
+  },
+  {
+    "group": 374,
+    "district": "THOOTHUKUDI DISTRICT",
+    "union": "VILATHIKULAM PANCHAYAT UNION",
+    "start_page": 149,
+    "end_page": 150,
+    "rows": 51,
+    "category_counts": {
+      "scwomen": 4,
+      "scgeneral": 8,
+      "generalwomen": 13,
+      "general": 26
+    }
+  },
+  {
+    "group": 375,
+    "district": "THOOTHUKUDI DISTRICT",
+    "union": "PUDUR PANCHAYAT UNION",
+    "start_page": 150,
+    "end_page": 150,
+    "rows": 44,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 6,
+      "generalwomen": 12,
+      "general": 23
+    }
+  },
+  {
+    "group": 376,
+    "district": "THOOTHUKUDI DISTRICT",
+    "union": "OTTAPIDARAM PANCHAYAT UNION",
+    "start_page": 150,
+    "end_page": 151,
+    "rows": 61,
+    "category_counts": {
+      "scwomen": 9,
+      "scgeneral": 16,
+      "generalwomen": 12,
+      "general": 24
+    }
+  },
+  {
+    "group": 377,
+    "district": "KANNIYAKUMARI DISTRICT",
+    "union": "Agastheeswaram Panchayat Union",
+    "start_page": 152,
+    "end_page": 152,
+    "rows": 12,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 4,
+      "general": 6
+    }
+  },
+  {
+    "group": 378,
+    "district": "KANNIYAKUMARI DISTRICT",
+    "union": "Thovalai Panchayat Union",
+    "start_page": 152,
+    "end_page": 152,
+    "rows": 16,
+    "category_counts": {
+      "scwomen": 1,
+      "scgeneral": 1,
+      "generalwomen": 5,
+      "general": 9
+    }
+  },
+  {
+    "group": 379,
+    "district": "KANNIYAKUMARI DISTRICT",
+    "union": "Rajakkamangalam Panchayat Union",
+    "start_page": 152,
+    "end_page": 152,
+    "rows": 12,
+    "category_counts": {
+      "scgeneral": 1,
+      "generalwomen": 3,
+      "general": 8
+    }
+  },
+  {
+    "group": 380,
+    "district": "KANNIYAKUMARI DISTRICT",
+    "union": "Kurunthencode Panchayat Union",
+    "start_page": 152,
+    "end_page": 152,
+    "rows": 9,
+    "category_counts": {
+      "generalwomen": 3,
+      "general": 6
+    }
+  },
+  {
+    "group": 381,
+    "district": "KANNIYAKUMARI DISTRICT",
+    "union": "Thuckalay Panchayat Union",
+    "start_page": 152,
+    "end_page": 152,
+    "rows": 7,
+    "category_counts": {
+      "generalwomen": 3,
+      "general": 4
+    }
+  },
+  {
+    "group": 382,
+    "district": "KANNIYAKUMARI DISTRICT",
+    "union": "Thiruvattar Panchayat Union",
+    "start_page": 152,
+    "end_page": 152,
+    "rows": 10,
+    "category_counts": {
+      "generalwomen": 4,
+      "general": 6
+    }
+  },
+  {
+    "group": 383,
+    "district": "KANNIYAKUMARI DISTRICT",
+    "union": "Killiyoor Panchayat Union",
+    "start_page": 152,
+    "end_page": 152,
+    "rows": 8,
+    "category_counts": {
+      "generalwomen": 3,
+      "general": 5
+    }
+  },
+  {
+    "group": 384,
+    "district": "KANNIYAKUMARI DISTRICT",
+    "union": "Melpuram Panchayat Union",
+    "start_page": 152,
+    "end_page": 153,
+    "rows": 10,
+    "category_counts": {
+      "generalwomen": 4,
+      "general": 6
+    }
+  },
+  {
+    "group": 385,
+    "district": "KANNIYAKUMARI DISTRICT",
+    "union": "Munchirai Panchayat Union",
+    "start_page": 153,
+    "end_page": 153,
+    "rows": 11,
+    "category_counts": {
+      "generalwomen": 4,
+      "general": 7
+    }
+  }
+]

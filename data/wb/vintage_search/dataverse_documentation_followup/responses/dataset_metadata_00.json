@@ -1,0 +1,16 @@
+{
+  "request_url": "https://dataverse.harvard.edu/api/datasets/65898",
+  "response_url": "https://dataverse.harvard.edu/api/datasets/65898",
+  "status": 403,
+  "headers": {
+    "Date": "Tue, 08 Sep 2026 05:24:32 GMT",
+    "Content-Type": "text/html; charset=iso-8859-1",
+    "Content-Length": "199",
+    "Connection": "keep-alive",
+    "Set-Cookie": "AWSALB=ACclXAYG1DBjLUwXtV4fPFDndJqvnIRLTH9WXAQsIXVvYY/s1LJNw8za0DIN32psW1uNy99F4yU5JbG0n+2XY33WOi9ky2BsVKnmGBXvcxgcHUeFYQ15UAOq6J/9; Expires=Tue, 15 Sep 2026 05:24:32 GMT; Path=/, AWSALBCORS=ACclXAYG1DBjLUwXtV4fPFDndJqvnIRLTH9WXAQsIXVvYY/s1LJNw8za0DIN32psW1uNy99F4yU5JbG0n+2XY33WOi9ky2BsVKnmGBXvcxgcHUeFYQ15UAOq6J/9; Expires=Tue, 15 Sep 2026 05:24:32 GMT; Path=/; SameSite=None; Secure",
+    "Server": "Apache"
+  },
+  "body_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/dataset_metadata_00.body",
+  "bytes": 199,
+  "sha256": "5b13fb5957b84ef7bb9d0b6cd509c947ff6a37d67efdac2b896ddd3b908aad10"
+}

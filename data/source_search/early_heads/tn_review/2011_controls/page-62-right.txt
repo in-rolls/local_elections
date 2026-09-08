@@ -1,0 +1,47 @@
+1 2 3
+Tiruchengode Panchayat Union Contd.,
+7 Vattur General (Women)
+8 Animoor General (Women)
+9 Emappalli General (Women)
+10 Andipalayam General (Women)
+11 Modamangalam General (Women)
+12 Pudupuliyampatti General (Women)
+13 Sirumolasi General
+14 Karuveppampatti General
+15 O.Rajapalayam General
+16 Chithalandur General
+17 Sarkar Erayamangalam General
+18 Molasi General
+19 Karumapuram General
+20 T.Kailasampalayam General
+21 Thokkavadi General
+22 Patlur General
+23 Devnankurichi General
+24 Varagoorampatti General
+25 Pirithi General
+26 T.Goundampalayam General
+Vennandur Panchayat Union
+1 Keelur ST (General)
+2 Moolakkadu SC (Women)
+3 Mathiyampatti SC (Women)
+4 Thottiyapatti SC (General)
+5 Alampatti SC (General)
+6 Kuttalatampatti SC (General)
+7 Nachipatti SC (General)
+8 Ananthagoundampalayam General (Women)
+9 Mattuvelampatti General (Women)
+10 Nadupatti General (Women)
+11 Thengalpalayam General (Women)
+12 Thottiyavalasu General (Women)
+13 Pallavanaickenpatti General (Women)
+14 O. Sowthapuram General
+15 Akkaraipatti General
+16 Alavaipatti General
+17 Kallankulam General
+18 Kattanachampatti General
+19 No. 3, Kumarapalayam General
+20 Minnakkal General
+21 Palanthinnipatti General
+22 Ponparappipatti General
+23 R. Pudupalayam General
+24 Semmandapatti General

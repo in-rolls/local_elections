@@ -1,0 +1,142 @@
+[
+  {
+    "source_path": "data/wb/gp_source_search/bardhaman/paninfo_book08_20110722093353.pdf",
+    "source_sha256": "f4d24d35ceb90bdc93bc06ef9db800c0413f0b5a001fb1087598fc244798907b",
+    "pages": 107,
+    "aggregate_records": 379,
+    "reference_kind": "district_electoral_reference",
+    "source_url": null,
+    "native_cache": "data/wb/derived/native/f4d24d35ceb90bdc93bc06ef9db800c0413f0b5a001fb1087598fc244798907b.json",
+    "document_reference_year": 2008
+  },
+  {
+    "source_path": "data/wb/gp_source_search/birbhum_2003.pdf",
+    "source_sha256": "d2cdee262e55e9c7ee8825a8d41f955f1948c7fb221904ebf790c89eb6504a5d",
+    "pages": 1,
+    "aggregate_records": 4,
+    "reference_kind": "district_electoral_reference",
+    "source_url": null,
+    "native_cache": "data/wb/derived/native/d2cdee262e55e9c7ee8825a8d41f955f1948c7fb221904ebf790c89eb6504a5d.json",
+    "document_reference_year": 2003
+  },
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/purbamedinipur_Members_20of_20Three_20Tier_20Panchayati_20Raj_20Bodies_202014.pdf",
+    "source_sha256": "458b1d4636905b5f02e469f162b096a0dc350ff185984a490fd0245ea4beb4e5",
+    "pages": 1,
+    "aggregate_records": 4,
+    "reference_kind": "district_electoral_reference",
+    "source_url": null,
+    "native_cache": "data/wb/derived/native/458b1d4636905b5f02e469f162b096a0dc350ff185984a490fd0245ea4beb4e5.json",
+    "document_reference_year": null
+  },
+  {
+    "source_path": "data/wb/vintage_search/raw/3ff045353cd435ee.pdf",
+    "source_sha256": "36a06078efdc34352c235c60b722169f459b245d7fc0ced8b9ad8b26aa2db7a3",
+    "pages": 26,
+    "aggregate_records": 0,
+    "reference_kind": "research_paper",
+    "source_url": "https://people.bu.edu/dilipm/publications/wbtreserv.pdf",
+    "native_cache": "data/wb/derived/reference_tables/native/36a06078efdc34352c235c60b722169f459b245d7fc0ced8b9ad8b26aa2db7a3.json",
+    "document_reference_year": null
+  },
+  {
+    "source_path": "data/wb/vintage_search/raw/5bcf7014f0f2a3f4.pdf",
+    "source_sha256": "7b27ce9e809402f2b623a473ccb5ec6a2b00b72da59eef7512484abfff509f8d",
+    "pages": 35,
+    "aggregate_records": 0,
+    "reference_kind": "unrelated_mexico_research_paper",
+    "source_url": "https://www.aeaweb.org/content/file?id=5377",
+    "native_cache": "data/wb/derived/reference_tables/native/7b27ce9e809402f2b623a473ccb5ec6a2b00b72da59eef7512484abfff509f8d.json",
+    "document_reference_year": null
+  },
+  {
+    "source_path": "data/wb/vintage_search/raw/cdff11e9c8a417fa.pdf",
+    "source_sha256": "99daf68bbaf0efa04cfb369fecdcdfc3ac2b634720a274d29682a3b313b934b9",
+    "pages": 36,
+    "aggregate_records": 0,
+    "reference_kind": "research_chapter",
+    "source_url": "https://ir.nbu.ac.in/server/api/core/bitstreams/146b2c7b-aa0d-4c68-aab9-421b643f927f/content",
+    "native_cache": "data/wb/derived/reference_tables/native/99daf68bbaf0efa04cfb369fecdcdfc3ac2b634720a274d29682a3b313b934b9.json",
+    "document_reference_year": null
+  },
+  {
+    "source_path": "data/wb/vintage_search/raw/eb8356db262b225a.pdf",
+    "source_sha256": "ad1abb68d4983e5b677b8053c94b0849ecc2e71e556536806271a7aa50f656dc",
+    "pages": 40,
+    "aggregate_records": 0,
+    "reference_kind": "research_paper",
+    "source_url": "https://www.nber.org/system/files/working_papers/w8615/w8615.pdf",
+    "native_cache": "data/wb/derived/reference_tables/native/ad1abb68d4983e5b677b8053c94b0849ecc2e71e556536806271a7aa50f656dc.json",
+    "document_reference_year": null
+  },
+  {
+    "source_path": "data/wb/vintage_search/raw/74ba30419d75cf82.pdf",
+    "source_sha256": "457065b0416a00f7c930834c5037c1976fe0f27095004bba5f4e45336e2a7781",
+    "pages": 404,
+    "aggregate_records": 0,
+    "reference_kind": "environmental_reference_report",
+    "source_url": "https://www.wbpcb.gov.in/writereaddata/files/SOE_Report_2016_1.pdf",
+    "native_cache": "data/wb/derived/reference_tables/native/457065b0416a00f7c930834c5037c1976fe0f27095004bba5f4e45336e2a7781.json",
+    "document_reference_year": 2016
+  },
+  {
+    "source_path": "data/wb/vintage_search/raw/9cc9cb2f9dc9cc88.pdf",
+    "source_sha256": "328fd56484e0c86d63a01da63b64c5cf582d78774de5eb98fbfa5528b766f136",
+    "pages": 44,
+    "aggregate_records": 0,
+    "reference_kind": "research_paper",
+    "source_url": "https://www.povertyactionlab.org/sites/default/files/research-paper/310%20Female%20Quotas%20Nov%2009.pdf",
+    "native_cache": "data/wb/derived/reference_tables/native/328fd56484e0c86d63a01da63b64c5cf582d78774de5eb98fbfa5528b766f136.json",
+    "document_reference_year": null
+  },
+  {
+    "source_path": "data/wb/vintage_search/raw/bb1671a705d56009.pdf",
+    "source_sha256": "dccc18b5cc1d9ff8fed0765f7a72c9c411f03bb6f442cd879ee526ab651a9062",
+    "pages": 25,
+    "aggregate_records": 0,
+    "reference_kind": "government_programme_presentation",
+    "source_url": "https://cdnbbsr.s3waas.gov.in/s316026d60ff9b54410b3435b403afd226/uploads/2023/06/2023060268.pdf",
+    "native_cache": "data/wb/derived/reference_tables/native/dccc18b5cc1d9ff8fed0765f7a72c9c411f03bb6f442cd879ee526ab651a9062.json",
+    "document_reference_year": null
+  },
+  {
+    "source_path": "data/wb/vintage_search/raw/339b26ca88f6daee.pdf",
+    "source_sha256": "9d5ce1ba34634542026458d93a9d5f68a9307c4eaa98cc0d64c1e430ae4fe43c",
+    "pages": 48,
+    "aggregate_records": 0,
+    "reference_kind": "research_paper",
+    "source_url": "https://eml.berkeley.edu/~webfac/bardhan/papers/WBReserv1209finalverjgd_rev1.pdf",
+    "native_cache": "data/wb/derived/reference_tables/native/9d5ce1ba34634542026458d93a9d5f68a9307c4eaa98cc0d64c1e430ae4fe43c.json",
+    "document_reference_year": null
+  },
+  {
+    "source_path": "data/wb/vintage_search/raw/cc98b56977ce3bed.pdf",
+    "source_sha256": "601c5e0406e61aa1eb91fd11bad88463354dba1540f9e18bdf4e26e3d35f1b6a",
+    "pages": 1,
+    "aggregate_records": 0,
+    "reference_kind": "block_map",
+    "source_url": "http://web.archive.org/web/20040830154549id_/http://malda.nic.in/BAMANGOLA.PDF",
+    "native_cache": "data/wb/derived/reference_tables/native/601c5e0406e61aa1eb91fd11bad88463354dba1540f9e18bdf4e26e3d35f1b6a.json",
+    "document_reference_year": null
+  },
+  {
+    "source_path": "data/wb/vintage_search/raw/2a127b4cb67ca020.pdf",
+    "source_sha256": "2f25053146a1217502371eadf6d0ec72a1d12a15efd95d5478df3be4266d5ef0",
+    "pages": 1,
+    "aggregate_records": 0,
+    "reference_kind": "block_map",
+    "source_url": "http://web.archive.org/web/20040830154608id_/http://malda.nic.in/CHANCHAL-I.PDF",
+    "native_cache": "data/wb/derived/reference_tables/native/2f25053146a1217502371eadf6d0ec72a1d12a15efd95d5478df3be4266d5ef0.json",
+    "document_reference_year": null
+  },
+  {
+    "source_path": "data/wb/PE_Manual_2022_Vol-I.pdf",
+    "source_sha256": "d34785e3aa65c32026142552da65c8fe815355afeaf1ce6b68c80537f47e6b0e",
+    "pages": 422,
+    "aggregate_records": 0,
+    "reference_kind": "election_manual_blank_forms_and_rules",
+    "source_url": null,
+    "native_cache": "data/wb/derived/reference_tables/native/d34785e3aa65c32026142552da65c8fe815355afeaf1ce6b68c80537f47e6b0e.json",
+    "document_reference_year": 2022
+  }
+]

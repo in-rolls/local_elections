@@ -1,0 +1,49 @@
+1 2 3
+THIRUKKALUKUNDRAM PANCHAYAT UNION
+(Contd..)
+37 Othivakkam General
+38 Neikuppi General
+39 Nathamkariyacheri General
+40 Mullikolathur General
+41 Mambakkam General
+42 Kunnathur General
+43 Aminjikarai General
+44 Voyalur General
+45 Vittilapuram General
+46 Vallipuram General
+47 Salur General
+48 Kadambadi General
+49 Thalambedu General
+50 Pattikkadu General
+51 Manamai General
+52 Lattur General
+53 Echankaranai General
+54 Ayappakkam General
+MADURANTAKAM PANCHAYAT UNION
+1 Arungunam ST (General)
+2 Soorai SC (Women)
+3 Sirunallur SC (Women)
+4 Palayanur SC (Women)
+5 Onambakkam SC (Women)
+6 Nelli SC (Women)
+7 Meyyur SC (Women)
+8 Kunnathur SC (Women)
+9 Kumaravadi SC (Women)
+10 Devadur SC (Women)
+11 Andavakkam SC (Women)
+12 Vilvarayanallur SC (General)
+13 Veeranakunnam SC (General)
+14 Silavattam SC (General)
+15 Padalam SC (General)
+16 Keelavalam SC (General)
+17 Kavadur SC (General)
+18 Gendrachery SC (General)
+19 Ariyanur SC (General)
+20 Periyavenmani SC (General)
+21 Pilappur SC (General)
+22 Peruveli SC (General)
+23 Pakkam SC (General)
+24 Nethapakkam SC (General)
+25 Nelvoy SC (General)
+26 Mangalam SC (General)
+27 Kallapiranpuram SC (General)

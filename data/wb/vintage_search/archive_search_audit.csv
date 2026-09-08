@@ -1,0 +1,18 @@
+district,target_election_year,capture_cutoff,domains,broad_index_attempts,successful_indexes,indexed_original_urls,status,index_files,acquired_named_head_schedules_this_pass,notes
+Bankura,2003,2007,bankura.nic.in,1,1,129,index_acquired_partial_review,raw/992572159322eb1c.json,0,Indexed Panchayat paths concern employee recruitment; RSVY paths concern development projects. No named office-reservation schedule identified in index.
+Bardhaman,2003,2007,bardhaman.nic.in,1,0,,retrieval_failed,,0,Archive requests returned HTTP errors or timed out; retry required. No inference about whether underlying records exist.
+Birbhum,2003,2007,birbhum.nic.in,1,0,,retrieval_failed,,0,Archive requests returned HTTP errors or timed out; retry required. No inference about whether underlying records exist.
+Cooch Behar,2003,2007,coochbehar.nic.in,1,1,689,index_acquired_partial_review,raw/e518d7762146221a.json,0,Cooch Behar-I block profile has GP-name navigation without reservation categories; ZP profile is not a GP office schedule.
+Dakshin Dinajpur,2003,2007,ddinajpur.nic.in,1,0,,retrieval_failed,,0,Archive requests returned HTTP errors or timed out; retry required. No inference about whether underlying records exist.
+Hooghly,2003,2007,hooghly.nic.in,1,1,420,index_acquired_partial_review,raw/f0b404cf0864420e.json,0,Three acquired block profiles list GPs and block statistics without GP office reservation. Results-only pages remain tabled.
+Howrah,2003,2007,howrah.nic.in;howrah.gov.in,2,1,1,index_acquired_partial_review,raw/965fc193ae3cb7dc.json,0,NIC index contains only robots.txt; GOV domain request failed. Very sparse coverage.
+Jalpaiguri,2003,2007,jalpaiguri.nic.in;jalpaiguri.gov.in,2,1,113,index_acquired_partial_review,raw/b65766de104a2ca6.json,0,NIC index contains general district pages and screensaver ZIPs; GOV domain request failed.
+Malda,2003,2007,malda.nic.in,1,1,146,index_acquired_partial_review,raw/e0cdf7d9962d5580.json,0,"15 block-named PDF links found. Bamangola and Chanchal-I samples are one-page maps; other 13 remain uninspected, not classified as reservation data."
+Murshidabad,2003,2007,murshidabad.nic.in,1,1,318,index_acquired_partial_review,raw/df291771d838df26.json,0,"Acquired statistics page has aggregate administrative counts (255 GPs), not named office-reservation assignments."
+Nadia,2003,2007,nadia.nic.in,1,1,342,index_acquired_partial_review,raw/48ef04076b019e81.json,0,GP-wise page links a map; Panchayati Raj page has 187-GP district universe corrected after 2003 but no reservation categories.
+North 24 Parganas,2003,2007,north24parganas.nic.in,1,1,84,index_acquired_partial_review,raw/1b12f337c8aab2bc.json,0,Acquired Zilla page has no GP office-reservation fields; no named schedule identified in index.
+Paschim Medinipur,2003,2007,paschimmedinipur.gov.in,1,0,,retrieval_failed,,0,Archive requests returned HTTP errors or timed out; retry required. No inference about whether underlying records exist.
+Purba Medinipur,2003,2007,purbamedinipur.gov.in,1,0,,retrieval_failed,,0,Archive requests returned HTTP errors or timed out; retry required. No inference about whether underlying records exist.
+Purulia,2003,2007,purulia.gov.in,1,0,,retrieval_failed,,0,Archive requests returned HTTP errors or timed out; retry required. No inference about whether underlying records exist.
+South 24 Parganas,2003,2007,s24pgs.gov.in,1,0,,retrieval_failed,,0,Archive requests returned HTTP errors or timed out; retry required. No inference about whether underlying records exist.
+Uttar Dinajpur,2003,2007,uttardinajpur.nic.in,1,0,,retrieval_failed,,0,Archive requests returned HTTP errors or timed out; retry required. No inference about whether underlying records exist.

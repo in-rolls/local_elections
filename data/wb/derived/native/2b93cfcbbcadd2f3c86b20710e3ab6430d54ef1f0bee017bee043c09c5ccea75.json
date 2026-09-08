@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha256": "2b93cfcbbcadd2f3c86b20710e3ab6430d54ef1f0bee017bee043c09c5ccea75",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.2,
+      "height": 841.92,
+      "text": "c\na o i ^\\ '.h€\nt-\nd\ns.i\n;rfBt\nE+I\no\nu,\no\no-\no\ng\na (-D a\no\n=I_\na\n=o.\no\ncr\nat\n.D\n(D z\nt-3\no\no\no\no\nd\no\no\no\nD\no\no\n6\no\no\n=.\n-o\no\nf\n@\n@q =.\no-\nE\nol\n+\no\no",
+      "tables": [],
+      "images": 8,
+      "characters": 93
+    },
+    {
+      "page": 2,
+      "width": 595.2,
+      "height": 841.92,
+      "text": "c) a\nc N\nz.\no 9\nn I I I\na I I17l, lIz.\n3 = I c))-\n! o a J lp !c.\n! o c ol l 0 o a N- = . r \\ T 3 r . a . a N : ;; N <i ( 4 o D i F o l\nP\n,@\nz !\nz\nxm\nc\nIo m :o 6 o € o 3 € o 3 o { { € a --J { a i : a = a -l -a a6 -a a o a - = 2 U Q < 9 / E ' , 1\nf, = I3 5 : 3 -9 4 ; g\n= e-'l\n2C n a t l l l l t I t Il ( @ x > > O > r rc n - t) x n a n C I l l l l t l @ > < F F < > l l I l l t l r L - F - = o _ a ) m - r z - - . l c= F > @ )l l l l l r= * < --r z z - x - u . l t l t t l t l l - o n @ > < - c n < z O z m o . . mz n = = o . z D D . l\nz. Il > c x= l ll => nt lt< l -l T -i o c)\n-<t n\nql I o ( 6 D\n--.1l lr\n->-ll aEl\nc, t>\na o lz\nlo\nI lx\nI AI\no t>\nI // o\nI\nt>\no N) o o m I I l l z z\nN O o N N) q I I l lm x\n.ti\nI\nz, HHF\n(o COD (O,\n(o s a N) 6 o o ! q 15 lE lE E\n(D 9. Kn lt\nt6\n6 N) o O N N ) @ N) n * 9 7 'o 6 ' I I l l a z\naa I l I o N\nI I lJ\nl@\n!\n= cn t- l - > r < -u s c -u ) z =O C- n uN c 2 ) c -i ) -U c) c C (n ) L- @ u -s O - l u ol I l A+ f o '\nO= o=\no\n6ts l I o N N N O ! 6 6 o a t t t - s o N) 6 O N N o q ! N @ o o @ o\no\n(/)\n:E x z,\nF !,\na\n() ( >t l\nz\nr -U\n.\nn CcN\no- +\no\n-\no\n+\no o\n9\nN z n ! 0 . - = o\n2i\n)J\n5'\n(a\nT'\no\nf\n<\n@\no -o -l +\no\no +\no",
+      "tables": [],
+      "images": 14,
+      "characters": 672
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

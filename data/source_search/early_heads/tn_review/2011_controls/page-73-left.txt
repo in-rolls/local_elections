@@ -1,0 +1,58 @@
+COIMBATORE D
+VILLAGE PANCHAYAT
+Reservation of Seats for Scheduled Castes/Scheduled
+President in Tamil
+Sl. Category to which reservation is
+Name of the Village Panchayat
+No. made
+1 2 3
+Annur Panchayat Union
+1 Pogalur SC(Women)
+2 Vadakkalur SC(Women)
+3 Akkarai Sengampalli SC(General)
+4 Masagoundenchettipalayam SC(General)
+5 Pachapalayam SC(General)
+6 Pasur SC(General)
+7 Annur Mettupalayam General (Women)
+8 Ambothi General (Women)
+9 Kanjapalli General (Women)
+10 Karegoundenpalayam General (Women)
+11 Pilliappampalayam General (Women)
+12 Allapalayam General
+13 Kanvakkarai General
+14 Kariampalayam General
+15 Kattampatti General
+16 Kunnathur General
+17 Kuppanur General
+18 Kuppepalayam General
+19 Naranapuram General
+20 Odderpalayam General
+21 Vadavalli General
+Anaimalai Panchayat Union
+1 Kaliapuram ST(General)
+2 Angalakurichi SC(Women)
+3 Kambalapatti SC(Women)
+4 Pilchinnampalayam SC(General)
+5 Thatha Ravuthanpudur SC(General)
+6 Arthanaripalayam General(Women)
+7 Divansapudur General(Women)
+8 Marappagoundenpudur General(Women)
+9 Somandurai General(Women)
+10 Thensangampalayam General(Women)
+11 Authupollachi General
+12 Jallipatti General
+13 Kariyanchettipalayam General
+14 Periapodu General
+15 Pethanaickanur General
+16 Ramanamudalipudur General
+17 Subbegoundenpudur General
+18 Thenchittur General
+19 Valaikombunagoor General
+Karamadai Panchayat Union
+1 Nellithurai ST(General)
+2 Chikkarampalayam SC(Women)
+3 Bellepalayam SC(General)
+4 Chinnakallipatti SC(General)
+5 Jadayampalayam General(Women)
+6 Iluppanatham General(Women)
+Page 71

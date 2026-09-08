@@ -1,0 +1,53 @@
+1 2 3
+Ellapuram Panchayat Union Contd.
+25 Kakkavakkam General(Women)
+26 Manjankarani General(Women)
+27 Palavakkam General(Women)
+28 43 Panapakkam General(Women)
+29 Punnapakkam General(Women)
+30 Thirukandalam General(Women)
+31 Tholavedu General(Women)
+32 Komakkambedu General
+33 Latchivakkam General
+34 Alappakkam General
+35 Alinjivakkam General
+36 Amithanallur General
+37 Athangikavanur General
+38 Athivakkam General
+39 Thamaraikuppam General
+40 Guruvoyal General
+41 Kalpattu General
+42 Kannigaipair General
+43 Koduveli General
+44 Malandur General
+45 Pagalmedu General
+46 Perumudivakkam General
+47 Sennankarani General
+48 Thamaraipakkam General
+49 Thandalam General
+50 Thumbakkam General
+51 Vadamadurai General
+52 Vannankuppam General
+53 Vengal General
+Tiruttani Panchayat Union
+1 Agoor ST(General)
+2 Thadur SC(Women)
+3 Kannigapuram SC(Women)
+4 Beerakuppam SC(Women)
+5 Sirugumi SC(General)
+6 Koramangalam SC(General)
+7 V K N Kandigai SC(General)
+8 Veeraganallur SC(General)
+9 Dharanivaragapuram General(Women)
+10 Mambakkam General(Women)
+11 Krishnasamudram General(Women)
+12 Senkalathur Agraharam General(Women)
+13 Maddur General(Women)
+14 Chinnakadambur General(Women)
+15 Velanjeri General
+16 Murukkambattu General
+17 Suriyanagaram General
+18 Pattabiramapuram General
+19 Thummulacheruvukandigai General
+20 Bujjireddypalli General
+Page 12

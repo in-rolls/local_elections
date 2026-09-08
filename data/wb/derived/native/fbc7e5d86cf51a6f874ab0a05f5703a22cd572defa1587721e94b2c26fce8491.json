@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "sha256": "fbc7e5d86cf51a6f874ab0a05f5703a22cd572defa1587721e94b2c26fce8491",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.276,
+      "height": 841.89001,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 2,
+      "width": 595.276,
+      "height": 841.89001,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    },
+    {
+      "page": 3,
+      "width": 595.276,
+      "height": 841.89001,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

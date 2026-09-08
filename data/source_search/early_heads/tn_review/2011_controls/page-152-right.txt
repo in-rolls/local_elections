@@ -1,0 +1,51 @@
+ARI DISTRICT
+E PANCHAYAT PRESIDENTS
+bes and Women in the Village Panchayat Presidents in
+adu State
+Sl.N Category to which
+Name of the Village Panchayat
+o reservation is made
+1 2 3
+Kurunthencode Panchayat Union
+1 Vellichanthai General (Women)
+2 Nettancode General (Women)
+3 Kattimancode General (Women)
+4 Thalakkulam General
+5 Thenkarai General
+6 Kakkottuthalai General
+7 Kurunthencode General
+8 Muttam General
+9 Simoncolony General
+Thuckalay Panchayat Union
+1 Nullivilai General (Women)
+2 Muthalakurichi General (Women)
+3 Chadayamangalam General (Women)
+4 Thickanamcode General
+5 Maruthoorkurichi General
+6 Athivilai General
+7 Kalkurichi General
+Thiruvattar Panchayat Union
+1 Ayacode General (Women)
+2 Kattathurai General (Women)
+3 Cherucole General (Women)
+4 Kumarankudi General (Women)
+5 Aruvikkarai General
+6 Kannanoor General
+7 Surulacode General
+8 Yettacode General
+9 Pechiparai General
+10 Balamore General
+Killiyoor Panchayat Union
+1 Paloor General (Women)
+2 Kollenchi General (Women)
+3 Midalam General (Women)
+4 Mathicode General
+5 Nattalam General
+6 Mullanginavilai General
+7 Thippiramalai General
+8 Enayamputhenthurai General
+Melpuram Panchayat Union
+1 Mancode General (Women)
+2 Muzhucode General (Women)
+3 Devicode General (Women)
+4 Vellamcode General (Women)

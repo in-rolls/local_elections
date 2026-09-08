@@ -1,0 +1,17 @@
+{
+  "gram_panchayats": 210,
+  "blocks": 18,
+  "seats_contested_printed": 2033,
+  "seats_declared_printed": 3440,
+  "party_counts_sum": 2033,
+  "gp_with_party_counts_covering_declared": 93,
+  "source_sha256": "9eb22ad17c307bc2a0683c7d68a5e2969a7b1ed170d4489545f66f8e06a24c21",
+  "checks": [
+    "All 210 GP rows parsed",
+    "All 12 numeric column sums match printed TOTAL",
+    "All 210 party sums equal printed seats_contested",
+    "Unique block/GP keys",
+    "Parquet round trip preserves values"
+  ],
+  "limitation": "Source party counts cover 2,033 of 3,440 printed declared seats. No reservation, candidate or vote data. Missing party counts are not assigned to a party."
+}

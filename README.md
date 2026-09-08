@@ -51,12 +51,23 @@ into a national missing-seat total.
 corrections first — if a number you used has changed, that is where it is
 recorded, along with which analyses to redo.
 
-Every release is pinned by **[MANIFEST.json](MANIFEST.json)** — a SHA-256 for
-every file, the exact master column order, and the commit each sibling
-repository was read at. Verify a checkout with `python3
+**[MANIFEST.json](MANIFEST.json)** records SHA-256 hashes for the registered
+parsed and pooled tables, the exact master column order, and the commit each
+sibling repository was read at. Supplemental exports and raw source evidence
+also have source-specific inventories and manifests; consult the state source
+guides for their locations. Verify a checkout with `python3
 src/local_reservations/tools/verify_manifest.py`, which is standard library
 only and imports nothing else here, so it works from a bare checkout or an
 unpacked tarball.
+
+**[SOURCE_MANIFEST.json](SOURCE_MANIFEST.json)** separately inventories WB,
+Tamil Nadu and the early-source search evidence, including original documents,
+OCR readings and review images. Its archive map preserves files too large for
+ordinary Git storage. After downloading source-evidence assets, verify every
+archive member with `python3 src/local_reservations/tools/verify_manifest.py
+--manifest SOURCE_MANIFEST.json --archives /path/to/assets`. See the
+[Tamil Nadu extract](data/tn/readme.md) and [source ledger](data/source_search/early_heads/README.md)
+for parsed coverage and unresolved readings. Release changes are recorded in the [changelog](CHANGELOG.md).
 
 ## What we have
 
@@ -164,12 +175,12 @@ seats. The state readme linked in `Where` gives the file-level inventory.
 | Punjab | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Rajasthan | gp_head, gp_ward, block_member, zp_member | 2005, 2010, 2015, 2020, 2021, 2022 | 255,474 | parsed | 162,502 rural seat events, 68,202 candidates, and 13,473 GP-event nomination summaries are standardized; the 2015 Panchayat Samiti book and the 2015 and 2020 Zila Parishad books remain unparsed; municipal material is held outside the rural master | [local_elections_rajasthan](https://github.com/in-rolls/local_elections_rajasthan) |
 | Sikkim | - | - | - | not held | acquire and assess a seat-level rural source | - |
-| Tamil Nadu | - | - | - | no parsed rows | the 12 held gazettes are urban; acquire a village-panchayat reservation roster | [data/tamil_nadu/](data/tamil_nadu/) - 11 digital-text, 1 scan |
+| Tamil Nadu | GP-president office / amendment operation | 2001, 2011 | - | source-specific exports | 2011 GP-president roster and 2001 amendment operations have separate source-specific exports; review earlier scans and subsequent amendments; observed GP-president sex remains unavailable | [data/tn/](data/tn/); separate from pooled schema |
 | Telangana | gp_head, gp_ward | 2019 | 61,841 | parsed | the 4 unlinked PDFs are urban reservation orders or election manuals, not missing rural seats | [data/telangana/](data/telangana/) |
 | Tripura | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Uttar Pradesh | gp_head | 2005, 2010, 2015, 2021 | 535,848 | parsed | see sibling repository | [local_elections_up](https://github.com/in-rolls/local_elections_up) |
 | Uttarakhand | gp_head, block_member, zp_member | 2008, 2014, 2019 | 116,514 | parsed | see sibling repository | [local_elections_uttarakhand](https://github.com/in-rolls/local_elections_uttarakhand) |
-| West Bengal | zp_member | 2018 | 825 | parsed | the final 2018 ZP gazettes are parsed; 19 drafts and 1 election manual are not additional final seats | [data/wb/](data/wb/) |
+| West Bengal | zp_member | 2018 | 825 | parsed | Separate 1998–2023 GP office, ward and results data have source-linked parsers and review queues ([GP data](data/wb/derived/README.md)); the final 2018 ZP gazettes are parsed, while their 19 drafts are not additional final seats | [data/wb/](data/wb/) |
 
 <!-- coverage:end -->
 

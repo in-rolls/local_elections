@@ -1,0 +1,424 @@
+{
+  "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+  "method": "Manually read rendered PDF top eight rows on each of four pages after parser implementation. Native cache was available during development. This is a bounded visual regression sample, not a random population accuracy estimate.",
+  "rows": [
+    {
+      "source_page": 59,
+      "tier": "gp_head",
+      "serial": 41,
+      "name_printed": "Plassey-II",
+      "code_printed": "OBC",
+      "source_bbox": [
+        85.344,
+        72.2399999999999,
+        468.09999000000005,
+        87.71999999999991
+      ]
+    },
+    {
+      "source_page": 59,
+      "tier": "gp_head",
+      "serial": 42,
+      "name_printed": "Mira-I",
+      "code_printed": "Women",
+      "source_bbox": [
+        85.344,
+        87.71999999999991,
+        468.09999000000005,
+        103.21999999999991
+      ]
+    },
+    {
+      "source_page": 59,
+      "tier": "gp_head",
+      "serial": 43,
+      "name_printed": "Barachnadghar",
+      "code_printed": "SC",
+      "source_bbox": [
+        85.344,
+        103.21999999999991,
+        468.09999000000005,
+        118.81999999999994
+      ]
+    },
+    {
+      "source_page": 59,
+      "tier": "gp_head",
+      "serial": 44,
+      "name_printed": "Mira-II",
+      "code_printed": "UR",
+      "source_bbox": [
+        85.344,
+        118.81999999999994,
+        468.09999000000005,
+        134.29999499999997
+      ]
+    },
+    {
+      "source_page": 59,
+      "tier": "gp_head",
+      "serial": 45,
+      "name_printed": "Plassey-I",
+      "code_printed": "Women",
+      "source_bbox": [
+        85.344,
+        134.29999499999997,
+        468.09999000000005,
+        149.77999999999997
+      ]
+    },
+    {
+      "source_page": 59,
+      "tier": "gp_head",
+      "serial": 46,
+      "name_printed": "Kaliganj",
+      "code_printed": "SCW",
+      "source_bbox": [
+        85.344,
+        149.77999999999997,
+        468.09999000000005,
+        165.26
+      ]
+    },
+    {
+      "source_page": 59,
+      "tier": "gp_head",
+      "serial": 47,
+      "name_printed": "Panighata",
+      "code_printed": "OBC",
+      "source_bbox": [
+        85.344,
+        165.26,
+        468.09999000000005,
+        180.7399949999999
+      ]
+    },
+    {
+      "source_page": 59,
+      "tier": "gp_head",
+      "serial": 48,
+      "name_printed": "Debagram",
+      "code_printed": "UR",
+      "source_bbox": [
+        85.344,
+        180.7399949999999,
+        468.09999000000005,
+        196.21999999999994
+      ]
+    },
+    {
+      "source_page": 61,
+      "tier": "gp_head",
+      "serial": 127,
+      "name_printed": "Bhajanghat Tungi",
+      "code_printed": "UR",
+      "source_bbox": [
+        85.344,
+        72.2399999999999,
+        468.09999,
+        87.71999999999991
+      ]
+    },
+    {
+      "source_page": 61,
+      "tier": "gp_head",
+      "serial": 128,
+      "name_printed": "Dakshinpara-II",
+      "code_printed": "Women",
+      "source_bbox": [
+        85.344,
+        87.71999999999991,
+        468.09999,
+        103.21999999999991
+      ]
+    },
+    {
+      "source_page": 61,
+      "tier": "gp_head",
+      "serial": 129,
+      "name_printed": "Dakshinpara-I",
+      "code_printed": "UR",
+      "source_bbox": [
+        85.344,
+        103.21999999999991,
+        468.09999,
+        118.81999999999994
+      ]
+    },
+    {
+      "source_page": 61,
+      "tier": "gp_head",
+      "serial": 130,
+      "name_printed": "Betnagobindapur",
+      "code_printed": "SC",
+      "source_bbox": [
+        85.344,
+        118.81999999999994,
+        468.09999,
+        134.29999499999997
+      ]
+    },
+    {
+      "source_page": 61,
+      "tier": "gp_head",
+      "serial": 131,
+      "name_printed": "Mayurhat-II",
+      "code_printed": "Women",
+      "source_bbox": [
+        85.344,
+        134.29999499999997,
+        468.09999,
+        149.77999999999997
+      ]
+    },
+    {
+      "source_page": 61,
+      "tier": "gp_head",
+      "serial": 132,
+      "name_printed": "Mayurhat-I",
+      "code_printed": "SCW",
+      "source_bbox": [
+        85.344,
+        149.77999999999997,
+        468.09999,
+        165.26
+      ]
+    },
+    {
+      "source_page": 61,
+      "tier": "gp_head",
+      "serial": 133,
+      "name_printed": "Gazna",
+      "code_printed": "UR",
+      "source_bbox": [
+        85.344,
+        165.26,
+        468.09999,
+        180.7399949999999
+      ]
+    },
+    {
+      "source_page": 61,
+      "tier": "gp_head",
+      "serial": 134,
+      "name_printed": "Badkulla-I",
+      "code_printed": "Women",
+      "source_bbox": [
+        85.344,
+        180.7399949999999,
+        468.09999,
+        196.21999999999994
+      ]
+    },
+    {
+      "source_page": 64,
+      "tier": "gp_deputy_head",
+      "serial": 41,
+      "name_printed": "Plassey-II",
+      "code_printed": "UR",
+      "source_bbox": [
+        68.42399999999999,
+        72.2399999999999,
+        488.49999,
+        87.71999999999991
+      ]
+    },
+    {
+      "source_page": 64,
+      "tier": "gp_deputy_head",
+      "serial": 42,
+      "name_printed": "Mira-I",
+      "code_printed": "UR",
+      "source_bbox": [
+        68.42399999999999,
+        87.71999999999991,
+        488.49999,
+        103.21999999999991
+      ]
+    },
+    {
+      "source_page": 64,
+      "tier": "gp_deputy_head",
+      "serial": 43,
+      "name_printed": "Barachnadghar",
+      "code_printed": "UR",
+      "source_bbox": [
+        68.42399999999999,
+        103.21999999999991,
+        488.49999,
+        118.81999999999994
+      ]
+    },
+    {
+      "source_page": 64,
+      "tier": "gp_deputy_head",
+      "serial": 44,
+      "name_printed": "Mira-II",
+      "code_printed": "SCW",
+      "source_bbox": [
+        68.42399999999999,
+        118.81999999999994,
+        488.49999,
+        134.29999499999997
+      ]
+    },
+    {
+      "source_page": 64,
+      "tier": "gp_deputy_head",
+      "serial": 45,
+      "name_printed": "Plassey-I",
+      "code_printed": "UR",
+      "source_bbox": [
+        68.42399999999999,
+        134.29999499999997,
+        488.49999,
+        149.77999999999997
+      ]
+    },
+    {
+      "source_page": 64,
+      "tier": "gp_deputy_head",
+      "serial": 46,
+      "name_printed": "Kaliganj",
+      "code_printed": "UR",
+      "source_bbox": [
+        68.42399999999999,
+        149.77999999999997,
+        488.49999,
+        165.26
+      ]
+    },
+    {
+      "source_page": 64,
+      "tier": "gp_deputy_head",
+      "serial": 47,
+      "name_printed": "Panighata",
+      "code_printed": "UR",
+      "source_bbox": [
+        68.42399999999999,
+        165.26,
+        488.49999,
+        180.7399949999999
+      ]
+    },
+    {
+      "source_page": 64,
+      "tier": "gp_deputy_head",
+      "serial": 48,
+      "name_printed": "Debagram",
+      "code_printed": "SC",
+      "source_bbox": [
+        68.42399999999999,
+        180.7399949999999,
+        488.49999,
+        196.2199999999999
+      ]
+    },
+    {
+      "source_page": 66,
+      "tier": "gp_deputy_head",
+      "serial": 126,
+      "name_printed": "Shibnibash",
+      "code_printed": "UR",
+      "source_bbox": [
+        68.424,
+        72.2399999999999,
+        488.49998999999997,
+        87.71999999999991
+      ]
+    },
+    {
+      "source_page": 66,
+      "tier": "gp_deputy_head",
+      "serial": 127,
+      "name_printed": "Bhajanghat Tungi",
+      "code_printed": "ST",
+      "source_bbox": [
+        68.424,
+        87.71999999999991,
+        488.49998999999997,
+        103.21999999999991
+      ]
+    },
+    {
+      "source_page": 66,
+      "tier": "gp_deputy_head",
+      "serial": 128,
+      "name_printed": "Dakshinpara-II",
+      "code_printed": "UR",
+      "source_bbox": [
+        68.424,
+        103.21999999999991,
+        488.49998999999997,
+        118.81999999999994
+      ]
+    },
+    {
+      "source_page": 66,
+      "tier": "gp_deputy_head",
+      "serial": 129,
+      "name_printed": "Dakshinpara-I",
+      "code_printed": "SC",
+      "source_bbox": [
+        68.424,
+        118.81999999999994,
+        488.49998999999997,
+        134.29999499999997
+      ]
+    },
+    {
+      "source_page": 66,
+      "tier": "gp_deputy_head",
+      "serial": 130,
+      "name_printed": "Betnagobindapur",
+      "code_printed": "UR",
+      "source_bbox": [
+        68.424,
+        134.29999499999997,
+        488.49998999999997,
+        149.77999999999997
+      ]
+    },
+    {
+      "source_page": 66,
+      "tier": "gp_deputy_head",
+      "serial": 131,
+      "name_printed": "Mayurhat-II",
+      "code_printed": "UR",
+      "source_bbox": [
+        68.424,
+        149.77999999999997,
+        488.49998999999997,
+        165.26
+      ]
+    },
+    {
+      "source_page": 66,
+      "tier": "gp_deputy_head",
+      "serial": 132,
+      "name_printed": "Mayurhat-I",
+      "code_printed": "UR",
+      "source_bbox": [
+        68.424,
+        165.26,
+        488.49998999999997,
+        180.7399949999999
+      ]
+    },
+    {
+      "source_page": 66,
+      "tier": "gp_deputy_head",
+      "serial": 133,
+      "name_printed": "Gazna",
+      "code_printed": "SCW",
+      "source_bbox": [
+        68.424,
+        180.7399949999999,
+        488.49998999999997,
+        196.2199999999999
+      ]
+    }
+  ],
+  "name_fields_correct": 32,
+  "code_fields_correct": 32
+}

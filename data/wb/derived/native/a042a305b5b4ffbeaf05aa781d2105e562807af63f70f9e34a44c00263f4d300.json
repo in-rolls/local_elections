@@ -1,0 +1,506 @@
+{
+  "version": 1,
+  "sha256": "a042a305b5b4ffbeaf05aa781d2105e562807af63f70f9e34a44c00263f4d300",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "FORM – B1\nThe Schedule\nBLOCK: SANTIPUR PANCHAYAT SAMITI : SANTIPUR\nNumber Constituency Constituency\nof reserved for reserved for\nmembers Number and Scheduled Women showing\nCastes and\nName of to be name of the Area of the constituency Serial Number.\nScheduled\nGram elected to constituency\nTribes\nthe\npersons\nPanchayat\nshowing\nSamiti serial number\n1 2 3 4 5 6\nGayeshpur 3 Gayeshpur/PS-1 Gayeshpur/I Part No.78/1 - 1-Women\nGayeshpur/II Part No.78/2\nGayeshpur / III Part No.78/3\nGayeshpur/IV Part No.78/4\nGayeshpur/PS-2 Gayeshpur/V Part No.78/5 - -\nGayeshpur/VI Part No.78/6\nGayeshpur / VII Part No.78/7\nGayeshpur/PS-3 Gayeshpur/VIII Part No.78/8 3-SC 3-SC(W)\nGayeshpur/IX Part No.78/9\nGayeshpur / X Part No78/10\nGayeshpur/XI Part No. 78/11\nBaganchra 3 Baganchara/PS-4 Baganchra/I Part No. 78/12 4 – SC -\nBaganchra/II Part No.78/13\nBaganchra / III Part No. 78/14\nBaganchra/PS-5 Baganchra/IV Part No. 78/15 5-SC -\nBaganhra/V Part No.78/16\nBaganchra/VI Part No. 78/17\nBaganchra/PS-6 Baganchra/VII Part No. 78/18 - -\nBaganchra/VIII Part No.78/19\nBaganchra/IX Part No. 78/20\nArbandi 3 Arbandi-II/PS-7 Arbandi-II/I Part No. 78/21 - 7-women\n– II Arbandi-II/II Part No.78/22\nArbandi-II / III Part No. 78/23\nArbandi-II/IV Part No. 78/24\nArbandi-II/PS-8 Arbandi-II/V Part No. 78/25 - -\nArbandi-II/VI Part No.78/26\nArbandi-II/VII Part No. 78/27\nArbandi-II/VIII Part No. 78/28\nArbandi-II/PS-9 Arbandi-II/IX Part No. 78/29 - -\nArbandi-II/X Part No.78/30\nArbandi-II / XI Part No. 78/31\nArbandi-II/XII Part No. 78/32\nPage 1 of 4",
+      "tables": [
+        {
+          "bbox": [
+            65.55515999999999,
+            95.99160000000006,
+            547.2606545454545,
+            393.80760000000004
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number\nof\nmembers\nto be\nelected to\nthe\nPanchayat\nSamiti",
+              "Number and\nname of the\nconstituency",
+              "Area of the constituency",
+              null,
+              "Constituency\nreserved for\nScheduled\nCastes and\nScheduled\nTribes\npersons\nshowing\nserial number",
+              "Constituency\nreserved for\nWomen showing\nSerial Number."
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "Gayeshpur",
+              "3",
+              "Gayeshpur/PS-1",
+              "Gayeshpur/I\nGayeshpur/II\nGayeshpur / III\nGayeshpur/IV",
+              "Part No.78/1\nPart No.78/2\nPart No.78/3\nPart No.78/4",
+              "-",
+              "1-Women"
+            ],
+            [
+              null,
+              null,
+              "Gayeshpur/PS-2",
+              "Gayeshpur/V\nGayeshpur/VI\nGayeshpur / VII",
+              "Part No.78/5\nPart No.78/6\nPart No.78/7",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Gayeshpur/PS-3",
+              "Gayeshpur/VIII\nGayeshpur/IX\nGayeshpur / X\nGayeshpur/XI",
+              "Part No.78/8\nPart No.78/9\nPart No78/10\nPart No. 78/11",
+              "3-SC",
+              "3-SC(W)"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            65.55515999999999,
+            408.08543460000004,
+            547.2606545454545,
+            559.2732
+          ],
+          "rows": [
+            [
+              "Baganchra",
+              "3",
+              "Baganchara/PS-4",
+              "Baganchra/I\nBaganchra/II\nBaganchra / III",
+              "Part No. 78/12\nPart No.78/13\nPart No. 78/14",
+              "4 – SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Baganchra/PS-5",
+              "Baganchra/IV\nBaganhra/V\nBaganchra/VI",
+              "Part No. 78/15\nPart No.78/16\nPart No. 78/17",
+              "5-SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Baganchra/PS-6",
+              "Baganchra/VII\nBaganchra/VIII\nBaganchra/IX",
+              "Part No. 78/18\nPart No.78/19\nPart No. 78/20",
+              "-",
+              "-"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            65.55515999999999,
+            568.8732,
+            547.2606545454545,
+            720.1800000000001
+          ],
+          "rows": [
+            [
+              "Arbandi\n– II",
+              "3",
+              "Arbandi-II/PS-7",
+              "Arbandi-II/I\nArbandi-II/II\nArbandi-II / III\nArbandi-II/IV",
+              "Part No. 78/21\nPart No.78/22\nPart No. 78/23\nPart No. 78/24",
+              "-",
+              "7-women"
+            ],
+            [
+              null,
+              null,
+              "Arbandi-II/PS-8",
+              "Arbandi-II/V\nArbandi-II/VI\nArbandi-II/VII\nArbandi-II/VIII",
+              "Part No. 78/25\nPart No.78/26\nPart No. 78/27\nPart No. 78/28",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Arbandi-II/PS-9",
+              "Arbandi-II/IX\nArbandi-II/X\nArbandi-II / XI\nArbandi-II/XII",
+              "Part No. 78/29\nPart No.78/30\nPart No. 78/31\nPart No. 78/32",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1582
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "FORM – B1\nThe Schedule\nBLOCK: SANTIPUR PANCHAYAT SAMITI : SANTIPUR\nNumber Constituency Constituency\nof reserved for reserved for\nmembers Number and Scheduled Women showing\nCastes and\nName of to be name of the Area of the constituency Serial Number.\nScheduled\nGram elected to constituency\nTribes\nthe\npersons\nPanchayat\nshowing\nSamiti serial number\n1 2 3 4 5 6\nArbandi-I 3 Arbandi -I/PS-10 Arbandi-I/I Part No. 78/33 10-ST 10-ST(W)\nArbandi-I/II Part No.78/34\nArbandi-I/ III Part No. 78/35\nArbandi-I/PS-11 Arbandi-I/IV Part No. 78/36 11-SC -\nArbandi-I/V Part No. 78/37\nArbandi-I/VI Part No. 78/38\nArbandi-I/PS-12 Arbandi-I/VII Part No. 78/39 12-SC -\nArbandi-I/VIII Part No.78/40\nArbandi-I/ IX Part No. 78/41\nBabla 3 Babla /PS-13 Babla/I Part No. 78/42 - 13-Women\nBabla /II Part No.78/43\nBabla / III Part No. 78/44\nBabla /IV Part No. 78/45\nBabla / VI Part No. 78/47\nBabla/PS-14 Babla/V Part No. 78/46 - -\nBabla/VII Part No.78/48\nBabla / VIII Part No. 78/49\nBabla/IX Part No. 78/50\nBabla / X Part No. 78/51\nBabla /PS-15 Babla/XI Part No. 78/52 15-SC 15-SC(W)\nBabla /XII Part No.78/53\nBabla / XIII Part No. 78/54\nBabla /XIV Part No. 78/55\nPage 2 of 4",
+      "tables": [
+        {
+          "bbox": [
+            65.55516,
+            162.70680000000004,
+            548.3202,
+            270.57720000000006
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number\nof\nmembers\nto be\nelected to\nthe\nPanchayat\nSamiti",
+              "Number and\nname of the\nconstituency",
+              "Area of the constituency",
+              "Constituency\nreserved for\nScheduled\nCastes and\nScheduled\nTribes\npersons\nshowing\nserial number",
+              "Constituency\nreserved for\nWomen showing\nSerial Number."
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            65.55516,
+            298.65479999999997,
+            548.3202,
+            449.8428
+          ],
+          "rows": [
+            [
+              "Arbandi-I",
+              "3",
+              "Arbandi -I/PS-10",
+              "Arbandi-I/I\nArbandi-I/II\nArbandi-I/ III",
+              "Part No. 78/33\nPart No.78/34\nPart No. 78/35",
+              "10-ST",
+              "10-ST(W)"
+            ],
+            [
+              null,
+              null,
+              "Arbandi-I/PS-11",
+              "Arbandi-I/IV\nArbandi-I/V\nArbandi-I/VI",
+              "Part No. 78/36\nPart No. 78/37\nPart No. 78/38",
+              "11-SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Arbandi-I/PS-12",
+              "Arbandi-I/VII\nArbandi-I/VIII\nArbandi-I/ IX",
+              "Part No. 78/39\nPart No.78/40\nPart No. 78/41",
+              "12-SC",
+              "-"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            65.55516,
+            483.6792,
+            548.3202,
+            650.1062346
+          ],
+          "rows": [
+            [
+              "Babla",
+              "3",
+              "Babla /PS-13",
+              "Babla/I\nBabla /II\nBabla / III\nBabla /IV\nBabla / VI",
+              "Part No. 78/42\nPart No.78/43\nPart No. 78/44\nPart No. 78/45\nPart No. 78/47",
+              "-",
+              "13-Women"
+            ],
+            [
+              null,
+              null,
+              "Babla/PS-14",
+              "Babla/V\nBabla/VII\nBabla / VIII\nBabla/IX\nBabla / X",
+              "Part No. 78/46\nPart No.78/48\nPart No. 78/49\nPart No. 78/50\nPart No. 78/51",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Babla /PS-15",
+              "Babla/XI\nBabla /XII\nBabla / XIII\nBabla /XIV",
+              "Part No. 78/52\nPart No.78/53\nPart No. 78/54\nPart No. 78/55",
+              "15-SC",
+              "15-SC(W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1243
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "FORM – B1\nThe Schedule\nBLOCK: SANTIPUR PANCHAYAT SAMITI : SANTIPUR\nNumber Constituency Constituency\nof reserved for reserved for\nmembers Number and Scheduled Women showing\nCastes and\nName of to be name of the Area of the constituency Serial Number.\nScheduled\nGram elected to constituency\nTribes\nthe\npersons\nPanchayat\nshowing\nSamiti serial number\n1 2 3 4 5 6\nHaripur 3 Haripur/PS-16 Haripu/I Part No. 78/56 16-SC -\nHaripur/II Part No.78/57\nPart No. 78/58\nHaripur / III\nPart No. 78/59\nHaripur/IV\nPart No. 78/60\nHaripur/V Part No. 78/61\nHaripur/VI\nHaripur/PS-17 Haripur/VII Part No. 78/62 - -\nHaripur/VIII Part No.78/63\nHaripur / XIV Part No. 78/69\nHaripur/XV Part No. 78/70\nHaripur/XVI Part No. 78/71\nHaripur/PS-18 Haripur/IX Part No. 78/64 - 18- Women\nHaripur / X Part No.78/65\nPart No. 78/66\nHaripur/XI\nPart No. 78/67\nHaripur/XII\nPart No. 78/68\nHaripur/XIII\nBelgoria 3 Belgoria-II/PS- Belgoria-II/I Part No.78/147 19-SC -\n– II 19 Belgoria-II/II Part No.78/148\nBelgoria-II/ V Part No.78/151\nBelgoria-II/PS- Belgoria-II/III Part No.78/149 - -\n20 Belgoria-II/IV Part No.78/150\nBelgoria-II/VI Part No.78/152\nBeogoria-II/PS- Belgoria-II/VII Part No.78/153 - -\n21 Belgoria-II/VIII Part No.78/154\nBelgoria-II/IX Part No.78/155\nPage 3 of 4",
+      "tables": [
+        {
+          "bbox": [
+            65.55516,
+            158.0268000000001,
+            547.5552,
+            266.0184
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number\nof\nmembers\nto be\nelected to\nthe\nPanchayat\nSamiti",
+              "Number and\nname of the\nconstituency",
+              "Area of the constituency",
+              "Constituency\nreserved for\nScheduled\nCastes and\nScheduled\nTribes\npersons\nshowing\nserial number",
+              "Constituency\nreserved for\nWomen showing\nSerial Number."
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            65.55516,
+            275.73720000000003,
+            547.5552,
+            486.43919999999997
+          ],
+          "rows": [
+            [
+              "Haripur",
+              "3",
+              "Haripur/PS-16",
+              "Haripu/I\nHaripur/II\nHaripur / III\nHaripur/IV\nHaripur/V\nHaripur/VI",
+              "Part No. 78/56\nPart No.78/57\nPart No. 78/58\nPart No. 78/59\nPart No. 78/60\nPart No. 78/61",
+              "16-SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Haripur/PS-17",
+              "Haripur/VII\nHaripur/VIII\nHaripur / XIV\nHaripur/XV\nHaripur/XVI",
+              "Part No. 78/62\nPart No.78/63\nPart No. 78/69\nPart No. 78/70\nPart No. 78/71",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Haripur/PS-18",
+              "Haripur/IX\nHaripur / X\nHaripur/XI\nHaripur/XII\nHaripur/XIII",
+              "Part No. 78/64\nPart No.78/65\nPart No. 78/66\nPart No. 78/67\nPart No. 78/68",
+              "-",
+              "18- Women"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            65.55516,
+            505.398,
+            547.5552,
+            625.8684000000001
+          ],
+          "rows": [
+            [
+              "Belgoria\n– II",
+              "3",
+              "Belgoria-II/PS-\n19",
+              "Belgoria-II/I\nBelgoria-II/II\nBelgoria-II/ V",
+              "Part No.78/147\nPart No.78/148\nPart No.78/151",
+              "19-SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Belgoria-II/PS-\n20",
+              "Belgoria-II/III\nBelgoria-II/IV\nBelgoria-II/VI",
+              "Part No.78/149\nPart No.78/150\nPart No.78/152",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Beogoria-II/PS-\n21",
+              "Belgoria-II/VII\nBelgoria-II/VIII\nBelgoria-II/IX",
+              "Part No.78/153\nPart No.78/154\nPart No.78/155",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1310
+    },
+    {
+      "page": 4,
+      "width": 612,
+      "height": 792,
+      "text": "FORM – B1\nThe Schedule\nBLOCK: SANTIPUR PANCHAYAT SAMITI : SANTIPUR\nNumber Constituency Constituency\nof reserved for reserved for\nmembers Number and Scheduled Women showing\nCastes and\nName of to be name of the Area of the constituency Serial Number.\nScheduled\nGram elected to constituency\nTribes\nthe\npersons\nPanchayat\nshowing\nSamiti serial number\n1 2 3 4 5 6\nBelgoria-I 3 Belgoria-I/PS-22 Belgoria-I/I Part No.78/156 - 22-Women\nBelgoria-I/II Part No.78/157\nBelgoria-I / III Part No.78/158\nBelgoria-I/VII Part No.78/162\nBelgoria-I/VIII Part No.78/163\nBelgoria-I/PS-23 Belgoria-I/IV Part No.78/159 - -\nBelgoria-I/V Part No.78/160\nBelgoria-I/IX Part No.78/164\nBelgoria-I/X Part No.78/165\nBelgoria-I/PS-24 Belgoria-I/VI Part No.78/161 - -\nBelgoria-I/X Part No.78/166\nBelgoria-I/ XII Part No.78/167\nBelgoria-I/XIII Part No.78/168\nFulia 2 Fulia T.S./PS-25 Fulia T.S/I Part No.78/170 25-SC 25-SC(W)\nTownship Fulia T.S/III Part No.78/171\nFulia T.S./PS-26 Fulia T.S./I Part No.78/169 - 26-Women\nFulia T.S. /IV Part No.78/172\nNabla 3 Nabla/PS-27 Nabla /I Part No.78/173 27-SC -\nNabla /II Part No.78/174\nPart No.78/175\nNabla / III\nPart No.78/176\nNabla /IV\nPart No.78/183\nNabla/XI Part No.78/184\nNabla/XII\nNabla/PS-28 Nabla/V Part No.78/177 - -\nNabla/VI Part No.78/178\nNabla/VII Part No.78/179\nNabla/VIII Part No.78/180\nNabla/IX Part No.78/181\nNabla/X Part No.78/182\nNabla/PS-29 Nabla/XIII Part No.78/185 29-SC -\nNabla/XIV Part No.78/186\nNabla/XV Part No.78/187\nNabla/XVI Part No.78/188\nNabla/XVII Part No.78/189\nDistrict Panchayat Election Officer\nDate: 07.02.2008. &\nDistrict Magistrate, Nadia\nPage 4 of 4",
+      "tables": [
+        {
+          "bbox": [
+            65.55515999999999,
+            98.27160000000003,
+            547.6272,
+            206.26319999999998
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number\nof\nmembers\nto be\nelected to\nthe\nPanchayat\nSamiti",
+              "Number and\nname of the\nconstituency",
+              "Area of the constituency",
+              "Constituency\nreserved for\nScheduled\nCastes and\nScheduled\nTribes\npersons\nshowing\nserial number",
+              "Constituency\nreserved for\nWomen showing\nSerial Number."
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            65.55515999999999,
+            215.86200000000008,
+            547.6272,
+            374.7290346
+          ],
+          "rows": [
+            [
+              "Belgoria-I",
+              "3",
+              "Belgoria-I/PS-22",
+              "Belgoria-I/I\nBelgoria-I/II\nBelgoria-I / III\nBelgoria-I/VII\nBelgoria-I/VIII",
+              "Part No.78/156\nPart No.78/157\nPart No.78/158\nPart No.78/162\nPart No.78/163",
+              "-",
+              "22-Women"
+            ],
+            [
+              null,
+              null,
+              "Belgoria-I/PS-23",
+              "Belgoria-I/IV\nBelgoria-I/V\nBelgoria-I/IX\nBelgoria-I/X",
+              "Part No.78/159\nPart No.78/160\nPart No.78/164\nPart No.78/165",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              "Belgoria-I/PS-24",
+              "Belgoria-I/VI\nBelgoria-I/X\nBelgoria-I/ XII\nBelgoria-I/XIII",
+              "Part No.78/161\nPart No.78/166\nPart No.78/167\nPart No.78/168",
+              "-",
+              "-"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            65.55515999999999,
+            386.72760000000005,
+            547.6272,
+            436.28423460000005
+          ],
+          "rows": [
+            [
+              "Fulia\nTownship",
+              "2",
+              "Fulia T.S./PS-25",
+              "Fulia T.S/I\nFulia T.S/III",
+              "Part No.78/170\nPart No.78/171",
+              "25-SC",
+              "25-SC(W)"
+            ],
+            [
+              null,
+              null,
+              "Fulia T.S./PS-26",
+              "Fulia T.S./I\nFulia T.S. /IV",
+              "Part No.78/169\nPart No.78/172",
+              "-",
+              "26-Women"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            65.55515999999999,
+            447.0828,
+            547.6272,
+            657.9048
+          ],
+          "rows": [
+            [
+              "Nabla",
+              "3",
+              "Nabla/PS-27",
+              "Nabla /I\nNabla /II\nNabla / III\nNabla /IV\nNabla/XI\nNabla/XII",
+              "Part No.78/173\nPart No.78/174\nPart No.78/175\nPart No.78/176\nPart No.78/183\nPart No.78/184",
+              "27-SC",
+              "-"
+            ],
+            [
+              "",
+              "",
+              "Nabla/PS-28",
+              "Nabla/V\nNabla/VI\nNabla/VII\nNabla/VIII\nNabla/IX\nNabla/X",
+              "Part No.78/177\nPart No.78/178\nPart No.78/179\nPart No.78/180\nPart No.78/181\nPart No.78/182",
+              "-",
+              "-"
+            ],
+            [
+              "",
+              "",
+              "Nabla/PS-29",
+              "Nabla/XIII\nNabla/XIV\nNabla/XV\nNabla/XVI\nNabla/XVII",
+              "Part No.78/185\nPart No.78/186\nPart No.78/187\nPart No.78/188\nPart No.78/189",
+              "29-SC",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1816
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 4
+}

@@ -1,0 +1,23 @@
+{
+  "pages": 64,
+  "raw_cells": 10287,
+  "seats_by_tier": {
+    "ps_member": 187,
+    "zp_member": 39
+  },
+  "candidates_by_tier": {
+    "ps_member": 624,
+    "zp_member": 152
+  },
+  "consolidated_party_count_records": 741,
+  "page_status": {
+    "summary_party_counts_partial": 16,
+    "summary_cells_only": 4,
+    "parsed": 44
+  },
+  "limitations": [
+    "Review-stage records; duplicate district and block versions remain source-separated.",
+    "Consolidated totals are not named seats; blank counts and numerical disagreement stay null.",
+    "Every detected cell retained, including layouts without semantic recovery."
+  ]
+}

@@ -1,0 +1,53 @@
+1 2 3
+PEDDANAICKANPALAYAM PANCHAYAT UNION Contd.,
+24 B. Karadipatti General
+25 Chinnakrishnapuram General
+26 Dalavaipatti General
+27 Kottavadi General
+28 Muthagoundanoor General
+29 Oddapatti General
+30 Pappanaickenpatti General
+31 Puthiragoundanplayam General
+32 Thamayanoor General
+33 Thumbal General
+34 Veeragoundanoor General
+35 Vellalapatti General
+36 E. Karadipatti General
+SALEM PANCHAYAT UNION
+1 Selathampatti SC(Women)
+2 Mallamoopampatti SC(General)
+3 Dalavaipatti General(Women)
+4 Majaragoilappatti General(Women)
+5 Sarkar Gollappatti General(Women)
+6 Thirumalaigiri General(Women)
+7 Andipatti General
+8 A. Ayyamperumampatti General
+9 Chettichavadi General
+10 Erumapalayam General
+11 Kondappanaickenpatti General
+12 Sanniyasi gundu General
+13 Vattamuthampatti General
+14 Inam Vedukuthampatti General
+SANKARI PANCHAYAT UNION
+1 Alathur SC(Women)
+2 Chinnagoundanur SC(Women)
+3 Irugalur SC(General)
+4 Morur East SC(General)
+5 Veerachipalayam Agraharam SC(General)
+6 Annadanapatty General(Women)
+7 Koneripatty Agraharam General(Women)
+8 Pullakkavandampatty General(Women)
+9 Pullakkavandampatty Agraharam General(Women)
+10 Sanniyasipatty Agraharam General(Women)
+11 Sungudivarudampatty General(Women)
+12 Devananagoundanur General
+13 Iveli General
+14 Katheri General
+15 Kaveripatty General
+16 Kaveripatty Agraharam General
+17 Koneripatty General
+18 Kottavaradhampatty General
+19 Morur West General
+20 Mothaiyanur General
+21 Olakkachinnanur General
+22 Vadugapatty General

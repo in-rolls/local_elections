@@ -1,0 +1,20 @@
+{
+  "request_url": "https://dataverse.harvard.edu/api/access/datafile/13986336",
+  "response_url": "https://dataverse.harvard.edu/api/access/datafile/13986336",
+  "status": 400,
+  "headers": {
+    "Date": "Tue, 08 Sep 2026 05:24:32 GMT",
+    "Content-Type": "application/json;charset=UTF-8",
+    "Content-Length": "122",
+    "Connection": "keep-alive",
+    "Set-Cookie": "AWSALB=KTcvFLOogz9Tf4bVgaPygcGLSWDL3xcTf0AV2gwx5V/Hs2QC5jEpc2s6+BDC5fOv5yxkDXrUbfsGaJ3bD1anZk4324VqgYWuLxL+JDyl0dRmwhK96JMc4qDPnCsn; Expires=Tue, 15 Sep 2026 05:24:32 GMT; Path=/, AWSALBCORS=KTcvFLOogz9Tf4bVgaPygcGLSWDL3xcTf0AV2gwx5V/Hs2QC5jEpc2s6+BDC5fOv5yxkDXrUbfsGaJ3bD1anZk4324VqgYWuLxL+JDyl0dRmwhK96JMc4qDPnCsn; Expires=Tue, 15 Sep 2026 05:24:32 GMT; Path=/; SameSite=None; Secure, JSESSIONID=f79a1acbb13fe8510cd21d0a1588; Path=/; Secure; HttpOnly;SameSite=Lax",
+    "Server": "Apache",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "GET, POST, OPTIONS, PUT, DELETE",
+    "Access-Control-Allow-Headers": "Accept, Content-Type, X-Dataverse-key, Range",
+    "Access-Control-Expose-Headers": "Accept-Ranges, Content-Range, Content-Encoding"
+  },
+  "body_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/clean_pradhan_download_00.body",
+  "bytes": 122,
+  "sha256": "e382e243e36812f920e017d39206c081b04463b9a11f356bdd2131a9c53f45af"
+}

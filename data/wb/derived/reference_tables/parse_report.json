@@ -1,0 +1,47 @@
+{
+  "documents": 14,
+  "pages": 1191,
+  "aggregate_records": 387,
+  "native_table_rows": 3128,
+  "ocr_pages_selected": 13,
+  "document_reference_kind": {
+    "district_electoral_reference": 3,
+    "research_paper": 4,
+    "unrelated_mexico_research_paper": 1,
+    "research_chapter": 1,
+    "environmental_reference_report": 1,
+    "government_programme_presentation": 1,
+    "block_map": 2,
+    "election_manual_blank_forms_and_rules": 1
+  },
+  "documents_with_aggregate_quality_flags": 1,
+  "page_status": {
+    "cover_reference": 3,
+    "native_tables_retained": 292,
+    "native_text_reference": 812,
+    "map_reference": 34,
+    "blank_except_page_number": 3,
+    "visually_blank_reference_page": 23,
+    "photograph_reference": 10,
+    "local_ocr_extracted_reference": 13,
+    "reference_section_title": 1
+  },
+  "record_kind": {
+    "block_elector_totals": 62,
+    "district_elector_totals": 1,
+    "block_reservation_totals": 186,
+    "district_reservation_totals": 3,
+    "district_election_results": 3,
+    "block_polling_infrastructure": 31,
+    "block_election_results": 93,
+    "district_institution_totals": 1,
+    "elected_members_by_recorded_caste_and_sex": 3,
+    "district_membership_composition": 4
+  },
+  "quality_flags": {
+    "blank_or_unread_count": 68,
+    "conflicting_printed_block_totals": 2,
+    "printed_components_mismatch": 7
+  },
+  "quality_claim": "District/block aggregates and reference tables do not establish named-GP office reservations. Missing counts and printed contradictions remain explicit."
+}

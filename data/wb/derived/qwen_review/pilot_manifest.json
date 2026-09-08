@@ -1,0 +1,65 @@
+[
+  {
+    "image_path": "data/wb/derived/office_native/ocr/0e0c7cd9988bcb47b3f70aefaad591dc886d44e373d1d79f2182826fb20846d0/cell-v1-1-5-4.png",
+    "row_id": "02a138e41cf5ffe1c97c3f42",
+    "source_path": "data/wb/gp_source_search/archived_district_files/extracted/1B_Pradhan/1B_Pradhan_Kashipur.pdf",
+    "source_page": "1",
+    "source_bbox": "[381.7, 555.96, 478.43, 578.56]"
+  },
+  {
+    "image_path": "data/wb/derived/office_native/ocr/fa6fdace562a43f290da44a74046ccd479b808dbc9ff334ae6904957ab1dde49/cell-v1-1-6-4.png",
+    "row_id": "6cdcfe386952de84c6462550",
+    "source_path": "data/wb/gp_source_search/archived_district_files/extracted/1B_Pradhan/1B_Pradhan_Para.pdf",
+    "source_page": "1",
+    "source_bbox": "[383.7, 624.92, 475.25, 652.71]"
+  },
+  {
+    "image_path": "data/wb/derived/office_native/ocr/1918603942e9afd413f8eadbd7681885da42ea7324f3ca767674c77c14087a9c/cell-v1-1-1-5.png",
+    "row_id": "60f90521d9aaa5b34dd7c23d",
+    "source_path": "data/wb/gp_source_search/archived_district_files/extracted/1B_Pradhan/1B_Pradhan_Santuri.pdf",
+    "source_page": "1",
+    "source_bbox": "[480.47, 481.5, 573.0, 524.41]"
+  },
+  {
+    "image_path": "data/wb/derived/office_native/ocr/6fa2911868350033e421c3ec257144a9618feb0fe27c07c5116d6763be056973/cell-v1-3-2-4.png",
+    "row_id": "98a84ffe974b3b4ebf3e5c16",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf",
+    "source_page": "3",
+    "source_bbox": "[427.35, 136.88, 635.88, 153.2]"
+  },
+  {
+    "image_path": "data/wb/derived/office_native/ocr/6fa2911868350033e421c3ec257144a9618feb0fe27c07c5116d6763be056973/cell-v1-3-16-4.png",
+    "row_id": "230b6ee2c6641db6dfd31027",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf",
+    "source_page": "3",
+    "source_bbox": "[428.26, 361.47, 636.59, 377.82]"
+  },
+  {
+    "image_path": "data/wb/derived/office_native/ocr/9e759adbc650c67a542622d15113f4a9c55b8296a31e6714b019d6a6aa719d1e/cell-v1-1-1-4.png",
+    "row_id": "05800f8f070adc84fe522be8",
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_final_office_reservations.pdf",
+    "source_page": "1",
+    "source_bbox": "[331.02, 483.16, 439.92, 499.14]"
+  },
+  {
+    "image_path": "data/wb/derived/office_native/ocr/9e759adbc650c67a542622d15113f4a9c55b8296a31e6714b019d6a6aa719d1e/cell-v1-1-1-5.png",
+    "row_id": "5203847944260e1d12618189",
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_final_office_reservations.pdf",
+    "source_page": "1",
+    "source_bbox": "[439.9, 482.66, 548.65, 498.63]"
+  },
+  {
+    "image_path": "data/wb/derived/office_native/ocr/9e759adbc650c67a542622d15113f4a9c55b8296a31e6714b019d6a6aa719d1e/cell-v1-1-2-4.png",
+    "row_id": "2bef341766a15ed160e76ec8",
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_final_office_reservations.pdf",
+    "source_page": "1",
+    "source_bbox": "[331.03, 498.63, 439.93, 513.12]"
+  },
+  {
+    "image_path": "data/wb/derived/office_native/ocr/9e759adbc650c67a542622d15113f4a9c55b8296a31e6714b019d6a6aa719d1e/cell-v1-1-2-5.png",
+    "row_id": "9c9b18a418695ea67b3bd1b3",
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_final_office_reservations.pdf",
+    "source_page": "1",
+    "source_bbox": "[439.92, 498.12, 548.66, 512.6]"
+  }
+]

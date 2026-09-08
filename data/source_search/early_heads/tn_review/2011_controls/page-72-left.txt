@@ -1,0 +1,65 @@
+1 2 3
+Gobichettipalayam Panchayat Union Contd.,
+18 Pariyur General
+19 Savandappur General
+20 Vellalapalayam General
+21 Vellankoil General
+Nambiyur Panchayat Union
+1 Getticheviyur SC (Women)
+2 Koshanam SC (General)
+3 Talguni SC (General)
+4 Andipalayam General (Women)
+5 Anjanur General (Women)
+6 Polavapalayam General (Women)
+7 Vemandampalayam General (Women)
+8 Emmanpoondi General
+9 Gudakkarai General
+10 Kadathur General
+11 Karattupalayam General
+12 Kurumandur General
+13 Lagampalayam General
+14 Olalakoil General
+15 Sundakkampalayam General
+Thookkanaickenpalayam Panchayat Union
+1 Kanakkampalayam SC(Women)
+2 Odyagoundanpalayam SC(General)
+3 Akkaraikodiveri General(Women)
+4 Perumugai General(Women)
+5 Pullappanaickienpalayam General(Women)
+6 Arakkankottai General
+7 Kondayampalayam General
+8 Kongarpalayam General
+9 Nanjaipuliyampatti General
+10 Punjaithuraiyampalayam General
+Sathyamangalam Panchayat Union
+1 Koothampalayam ST(General)
+2 Makkinancombai SC(Women)
+3 Rajan Nagar SC(General)
+4 Ukkaram SC(General)
+5 Guthiyalathur General (Women)
+6 Ikkarainegamam General (Women)
+7 Indiampalayam General (Women)
+8 Pudupeerkadavu General (Women)
+9 Arasur General
+10 Chikkarasampalayam General
+11 Gundri General
+12 Komarapalayam General
+13 Konamoolai General
+14 Sadhumugai General
+15 Shenbagapudur General
+Bhavanisagar Panchayat Union
+1 Desipalayam SC(Women)
+2 Panayampalli SC(General)
+3 Uthandiyur SC(General)
+4 Kavilipalayam General (Women)
+5 Nallur General (Women)
+6 Pungar General (Women)
+7 Varapalayam General (Women)
+8 Karappadi General
+9 Kothamangalam General
+10 Madampalayam General
+11 Mudukkanthurai General
+12 Nochikuttai General
+13 Periyakallipatti General
+14 Thoppampalayam General
+15 Vinnapalli General

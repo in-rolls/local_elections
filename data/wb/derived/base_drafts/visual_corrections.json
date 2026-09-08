@@ -1,0 +1,212 @@
+{
+  "1339-SEC-draft reservation-Dakshin Dinajpur.pdf": {
+    "source_sha256": "ea7c93f80b33652b4d48330d5ac7699d8c1d74f7ad55f1740b57081e68a87ba7",
+    "review_method": "single-reader visual review of rendered original page; header/identifier only, not a certified full-page transcription",
+    "header_centers_300dpi": [
+      488.5,
+      817,
+      1318.5,
+      1847,
+      2198
+    ],
+    "ocr_sha256": {
+      "1": "0bd98ad0070320922efc0dbc507ba0b3a90dda7dfe112ed32a8c513c1bed0a71"
+    },
+    "extra_seats": {}
+  },
+  "1343-SEC-Draft order of Murshidabad district.pdf": {
+    "source_sha256": "5b386f94b7f1d6a968f5ba3b818eb6c449caf92525f033bf71386fb84ee48ef5",
+    "review_method": "single-reader visual review of rendered original page; header/identifier only, not a certified full-page transcription",
+    "header_centers_300dpi": [
+      484,
+      846,
+      1290,
+      1742,
+      2105
+    ],
+    "ocr_sha256": {
+      "1": "54802cf2a808a810a6df850e537ab9f34370492671f42c122a666f07f5be8b6f",
+      "4": "c9da8242d4277bf4ba53e6f3dcef516a968054bb8516297c88d5dc0479ca878c",
+      "5": "064f3206142f77c896b490ff612658ddf10af26a1d2ca6dc9235ae5460c671dd"
+    },
+    "extra_seats": {
+      "4": [
+        {
+          "seat_no": 34,
+          "block": "Murshidabad-Jiaganj",
+          "seat_id_printed": "Murshidabad-Jiaganj/ ZP-34"
+        },
+        {
+          "seat_no": 35,
+          "block": "Murshidabad-Jiaganj",
+          "seat_id_printed": "Murshidabad-Jiaganj / ZP-35"
+        },
+        {
+          "seat_no": 36,
+          "block": "Murshidabad-Jiaganj",
+          "seat_id_printed": "Murshidabad-Jiaganj / ZP-36"
+        }
+      ],
+      "5": [
+        {
+          "seat_no": 49,
+          "block": "Bharatpur-I",
+          "seat_id_printed": "Bharatpur-I ZP-49"
+        },
+        {
+          "seat_no": 50,
+          "block": "Bharatpur-I",
+          "seat_id_printed": "Bharatpur-I ZP-50"
+        }
+      ]
+    }
+  },
+  "1349-SEC-draft reservation-South 24 Parganas.pdf": {
+    "source_sha256": "4daa641b9a96a394a2e9fb1ccaf67ab54654aaca1d76df6f68cbca243b5464ce",
+    "review_method": "single-reader visual review of rendered original page; header/identifier only, not a certified full-page transcription",
+    "header_centers_300dpi": null,
+    "ocr_sha256": {
+      "7": "ccd3f1e42d0a4c2e63977c03f364f2d104b39e23f9fda88670e624d3679a3de8"
+    },
+    "extra_seats": {
+      "7": [
+        {
+          "seat_no": 56,
+          "block": "Diamond Harbour-I",
+          "seat_id_printed": "Diamond Harbour -I/ ZP-56"
+        },
+        {
+          "seat_no": 57,
+          "block": "Diamond Harbour-I",
+          "seat_id_printed": "Diamond Harbour -I / ZP-57"
+        },
+        {
+          "seat_no": 58,
+          "block": "Diamond Harbour-II",
+          "seat_id_printed": "Diamond Harbour-II / ZP-58"
+        },
+        {
+          "seat_no": 59,
+          "block": "Diamond Harbour-II",
+          "seat_id_printed": "Diamond Harbour-II / ZP-59"
+        }
+      ]
+    }
+  },
+  "1351-SEC-Draft order of Howrah district.pdf": {
+    "source_sha256": "6c6fdc37123292c01e587fdde3d9e8ce1c79ba23d019b4c9a543d0d3ec8dd934",
+    "review_method": "single-reader visual review of rendered original page; header/identifier only, not a certified full-page transcription",
+    "header_centers_300dpi": [
+      493,
+      866.5,
+      1299.5,
+      1763,
+      2140.5
+    ],
+    "ocr_sha256": {
+      "1": "060bee7bb06f684fc39d771907b40e499ead1886fbb311a7c0073067a3336c57",
+      "5": "8376dc2c4dc8cc558ea71f604fb63c110fefb689759abafe8b0f5e5e68912017"
+    },
+    "extra_seats": {
+      "5": [
+        {
+          "seat_no": 37,
+          "block": "Udaynarayanpur",
+          "seat_id_printed": "Udaynarayanpur /ZP-37"
+        }
+      ]
+    }
+  },
+  "1353-SEC-draft reservation-Hooghly.pdf": {
+    "source_sha256": "bc11f22bca3901b970dffc4130ba1e660ddbedf25aceda27b2e24aec43ab7ace",
+    "review_method": "single-reader visual review of rendered original page; header/identifier only, not a certified full-page transcription",
+    "header_centers_300dpi": [
+      472.5,
+      803.5,
+      1265.5,
+      1752,
+      2104.5
+    ],
+    "ocr_sha256": {
+      "1": "d9bb15844292c4d2ef98f7ffbde615e94c28b58e73f4306074093459e633ac21"
+    },
+    "extra_seats": {}
+  },
+  "1357-SEC-Draft order of Paschim Medinipur district.pdf": {
+    "source_sha256": "f67efd95e36ad6d2e4485a2593d431527110a5e2a6e4ac3a44cede7959c94c87",
+    "review_method": "single-reader visual review of rendered original page; header/identifier only, not a certified full-page transcription",
+    "header_centers_300dpi": [
+      557.5,
+      893.5,
+      1325,
+      1802.5,
+      2146
+    ],
+    "ocr_sha256": {
+      "1": "2dec7921ef01e4a42ae2a79dbbe12faacc0a253d57f87697985fc3e6ce7db118"
+    },
+    "extra_seats": {}
+  },
+  "1359-SEC-draft reservation-Jhargram.pdf": {
+    "source_sha256": "b53cbcb22337a26cb1b97d78b9b5bce4e6e95f373d9920c05d16816e7c825ebf",
+    "review_method": "single-reader visual review of rendered original page; header/identifier only, not a certified full-page transcription",
+    "header_centers_300dpi": [
+      466,
+      800,
+      1305.5,
+      1853,
+      2205
+    ],
+    "ocr_sha256": {
+      "1": "5444369e57b5e3e62f2f021b5a20e15091319c4c41b788ab9b20ea35f87b9b2e"
+    },
+    "extra_seats": {}
+  },
+  "1363-SEC-Draft order of Bankura district.pdf": {
+    "source_sha256": "9028287352a31d1ff28d6e5d8d33f567cff45d70d41ab4eb11aee59562f66b83",
+    "review_method": "single-reader visual review of rendered original page; header/identifier only, not a certified full-page transcription",
+    "header_centers_300dpi": [
+      572,
+      897.5,
+      1369.5,
+      1874,
+      2261
+    ],
+    "ocr_sha256": {
+      "1": "37c7a39d6199a74d268df8ae8dfd5a6916163448e9c33ca8606731f1d9fc7340"
+    },
+    "extra_seats": {}
+  },
+  "1365-SEC-Draft order of Purba Bardhaman district.pdf": {
+    "source_sha256": "4ff2f913c3c6315f35a48750bc7665bdd144323740659c7035f923237fa1a103",
+    "review_method": "single-reader visual review of rendered original page; header/identifier only, not a certified full-page transcription",
+    "header_centers_300dpi": null,
+    "ocr_sha256": {
+      "4": "ab9b238a89abbc62d639cda622997ee7f04ef891388bd450478fb1fc185d943c"
+    },
+    "extra_seats": {
+      "4": [
+        {
+          "seat_no": 29,
+          "block": "Burdwan-I",
+          "seat_id_printed": "Burdwan-I ZP-29"
+        }
+      ]
+    }
+  },
+  "1369-SEC-draft reservation-Birbhum.pdf": {
+    "source_sha256": "346e35d2a5e537729a419da605fc9ee020e9d7baca873e854674308bb3de0b0e",
+    "review_method": "single-reader visual review of rendered original page; header/identifier only, not a certified full-page transcription",
+    "header_centers_300dpi": [
+      472,
+      791,
+      1268.5,
+      1764,
+      2100
+    ],
+    "ocr_sha256": {
+      "1": "d415af82405c9554f5a4fd010f4cf66efb37588b1cdf0a2383ddb8922b69ed4d"
+    },
+    "extra_seats": {}
+  }
+}

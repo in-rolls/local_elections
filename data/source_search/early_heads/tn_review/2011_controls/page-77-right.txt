@@ -1,0 +1,60 @@
+1 2 3
+Palladam Panchayat Union Contd.,
+17 Poomalur General
+18 Arumuthampalayam General
+19 Karaipudur General
+20 Semmipalayam General
+Pongalur Panchayat Union
+1 Norrh Avinashipalayam SC(women)
+2 Kandiyankoil SC(Women)
+3 Peruntholuvu SC (General)
+4 V.Vadamalaipalayam SC( General)
+5 Alagumalai General (Women)
+6 Elavanthi General Women)
+7 Kattur General Women)
+8 South Avinashipalayam General Women)
+9 Kethanur General
+10 Vavipalayam General
+11 V.Kalliapalayam General
+12 Mathapur General
+13 Pongalur General
+14 Nachipalayam General
+15 Ugayanur General
+16 Thonguttipalayam General
+Tiruppur Panchayat Union
+1 Iduvoi SC (Women)
+2 Ettiveerampalayam SC General
+3 Thoravalur SC General
+4 Kanakampalayam General Women
+5 Mangalam General Women
+6 Merrkupathy General Women
+7 Pattampalayam General Women
+8 Vallipuram General Women
+9 Pongupalayam General
+10 Kalipalayam General
+11 Mudalipalayam General
+12 Perumanallur General
+13 Sokkanur General
+Udumalpet Panchayat Union
+1 Bodipatti SC (Women)
+2 Sellappapalayam SC (Women)
+3 Kurichikottai SC (Women)
+4 Thinnappatti SC (General)
+5 K.Reddipalayam SC (General)
+6 Kodingium SC (General)
+7 Guruvappanaickanur SC (General)
+8 Modakkupatti SC (General)
+9 Periapapanuthu General (Women)
+10 Poolankinar General (Women)
+11 Alampalayam General (Women)
+12 Jallipatti General (Women)
+13 Elayanuthur General (Women)
+14 Jilobanaickanpalayam General (Women)
+15 Devanurpudur General (Women)
+16 Periavalavadi General (Women)
+17 Anthiur General (Women)
+18 Kanakkampalayam General (Women)
+19 Northpoothinatham General
+20 Chinnakumarapalayam General
+21 Deepalapatti General
+22 Erisinampatti General

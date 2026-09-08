@@ -33,7 +33,8 @@ REQUIRED = {"state", "year", "tier", "reservation", "caste_reservation"}
 # construction; transliteration is the output of its own stage - a lookup from
 # a name to its Latin reading, keyed on the name rather than on any row, so it
 # has no state, year or tier and never will.
-DERIVED = {"master", "stats", "transliteration"}
+# source_search holds cross-state acquisition evidence, not a state dataset.
+DERIVED = {"master", "stats", "transliteration", "source_search"}
 
 
 def state_directories(exclude=DERIVED):

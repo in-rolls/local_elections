@@ -1,0 +1,336 @@
+{
+  "version": 1,
+  "sha256": "305f95e9f35246d8c0aa71e2be8e84ce3bddf79aea54da96e70b8d933e04bb46",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "srebmem\nfo rebmun\nlatoT\nsrebmem\nsetsaC\ndeludehS\nsrebmem\nsrebirT\ndeludehcS\nsrbmem\nnemoW\n[ Form-A1 ]\nTHE SCHEDULE\nBlock : NAKASHIPARA\n1 (2a) (2b) (2c) (2d) 3 4 5 6\nBillwagram/I\nMouza-Jagannathpur, J.L. No. 64\n19 7 Nil 7 1 - 1 Women\na) Jagannathpur b) Jagannathpur Kapasdanga\nAssembly Part No 71/ 105\nBillwagram/II 2 - -\nMouza- Kashiadanga, J.L. No. 63\na) Kashiadanga\nAssembly Part No 71/ 106 3 - -\nBillwagram / III\nMouza- Chandanpur, J.L. No. 66\na) Chandanpur Purbapara b) Chandanpur 4 - 4 Women\nMorholpara\nAssembly Part No 71/ 107\nBillwagram / IV\nMouza- Chandanpur, J.L. No. 66\na) Chandanpur Madhyapara (Shekhpara)\nb)Chandanpur Madhyapara (Karalipara)\nc)Chandanpur Madhyapara ( Faraajipara) 5 - -\nMouza- Jaganathpur, J.L. No. 64\nd) Chandanpur Khalpara.\nAssembly Part No 71/ 108\nBillwagram / V\nMouza- Billwagram, J.L. No. 52\n6 6 SC 6 SC(W)\na) Billwagram\nAssembly Part No 71/ 109\nBillwagram / VI\nMouza- Sabaipur, J.L. No. 55\n7 - -\na) Sabaipur b) Sabainagar\nAssembly Part No 71/ 110\nBillwagram / VII\nMouza- Billwagram, J.L. No. 52\n8 8 SC -\na) Karali Math ( Uttar Pashimansfa)\nAssembly Part No 71/ 111\nBillwagram / VIII\nMouza- Billwagram, J.L. No. 52\n9 9 SC -\na) Karali Math (Dakshin Paschimansha)\nAssembly Part No 71/ 112\nmarG\nfo\nemaN\nNumber of members to be elected\nin the Gram Panchayat\nNumber, Name and Area of Constituencies with\nserial numbrs\nmargawlliB\nhcae\not\ndetacolla\nstaeS\nsrebmun\nlaires\nhtiw\nycneutitsnoc\ndeludehcS\nrof\ndevreser\nstaeS\nsebirT\ndeludehcS\nro\nsetsaC\nstaes\nfo\nrebmun\nlaires\ntsniaga\ntsniaga\nnemow\nrof\ndevreser\nstaeS\nstaes\nfo rebmun\nlaires",
+      "tables": [
+        {
+          "bbox": [
+            56.73612,
+            82.01303459999997,
+            586.0116,
+            742.4380800000001
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of members to be elected\nin the Gram Panchayat",
+              null,
+              null,
+              null,
+              "Number, Name and Area of Constituencies with\nserial numbrs",
+              "srebmun\nhcae laires\not htiw\ndetacolla\nycneutitsnoc\nstaeS",
+              "staes\ndeludehcS\nsebirT\nfo\nrebmun\ndeludehcS\nrof\ndevreser\nlaires\nro\nsetsaC tsniaga\nstaeS",
+              "tsniaga\nnemow\nstaes\nrof\nfo\ndevreser\nrebmun\nstaeS laires"
+            ],
+            [
+              null,
+              "srebmem\nfo\nrebmun\nlatoT",
+              "srebmem\nsetsaC\ndeludehS",
+              "srebmem\nsrebirT\ndeludehcS",
+              "srbmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "margawlliB",
+              "19",
+              "7",
+              "Nil",
+              "7",
+              "Billwagram/I\nMouza-Jagannathpur, J.L. No. 64\na) Jagannathpur b) Jagannathpur Kapasdanga\nAssembly Part No 71/ 105",
+              "1",
+              "-",
+              "1 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram/II\nMouza- Kashiadanga, J.L. No. 63\na) Kashiadanga\nAssembly Part No 71/ 106",
+              "2\n3",
+              "-\n-",
+              "-\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram / III\nMouza- Chandanpur, J.L. No. 66\na) Chandanpur Purbapara b) Chandanpur\nMorholpara\nAssembly Part No 71/ 107",
+              "4",
+              "-",
+              "4 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram / IV\nMouza- Chandanpur, J.L. No. 66\na) Chandanpur Madhyapara (Shekhpara)\nb)Chandanpur Madhyapara (Karalipara)\nc)Chandanpur Madhyapara ( Faraajipara)\nMouza- Jaganathpur, J.L. No. 64\nd) Chandanpur Khalpara.\nAssembly Part No 71/ 108",
+              "5",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram / V\nMouza- Billwagram, J.L. No. 52\na) Billwagram\nAssembly Part No 71/ 109",
+              "6",
+              "6 SC",
+              "6 SC(W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram / VI\nMouza- Sabaipur, J.L. No. 55\na) Sabaipur b) Sabainagar\nAssembly Part No 71/ 110",
+              "7",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram / VII\nMouza- Billwagram, J.L. No. 52\na) Karali Math ( Uttar Pashimansfa)\nAssembly Part No 71/ 111",
+              "8",
+              "8 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram / VIII\nMouza- Billwagram, J.L. No. 52\na) Karali Math (Dakshin Paschimansha)\nAssembly Part No 71/ 112",
+              "9",
+              "9 SC",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1506
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "srebmem\nfo rebmun\nlatoT\nsrebmem\nsetsaC\ndeludehS\nsrebmem\nsrebirT\ndeludehcS\nsrbmem\nnemoW\n[ Form-A1 ]\nTHE SCHEDULE\nBlock : NAKASHIPARA\n1 (2a) (2b) (2c) (2d) 3 4 5 6\nmarG\nfo\nemaN\nNumber of members to be elected\nin the Gram Panchayat\nNumber, Name and Area of Constituencies with\nserial numbrs\nhcae\not\ndetacolla\nstaeS\nsrebmun\nlaires\nhtiw\nycneutitsnoc\ndeludehcS\nrof\ndevreser\nstaeS\nsebirT\ndeludehcS\nro\nsetsaC\nstaes\nfo\nrebmun\nlaires\ntsniaga\ntsniaga\nnemow\nrof\ndevreser\nstaeS\nstaes\nfo rebmun\nlaires\nBillwagram/IX\nMouza-Raghunathpur, J.L.No. 72\na) Raghunathpur\n10 - 10 Women\nMouza- Chak Bhabanipur, J.L.No. 71\nb) Chak Bhabanipur\nAssembly Part No 71/ 113\nBillwagram / X\nMouza- Gopalpur, J.L. No. 70\n11 - -\na) Gopalpur\nAssembly Part No 71/ 114\nBillwagram/XI\n12 12 SC 12 SC(W)\nMouza-Bethuadahari, J.L. No.49\na) Bethuadahari Adarsha Coloney b) Bethuadahari\nMadhyapara\n13 - -\nAssembly Part No 71/ 115\nBillwagram/XII\nMouza- Bethuadahari, J.L No. 49\n14 - 14 Women\na) Bethuadahari Uttarpara\nAssembly Part No 71/ 116\nBillwagram/XIII\n15 15 SC -\nMouza-Chak Hatishala J.L No. 50\na) Jugpur Coloney ( Northside of NH-34 ) b)Dacca\nColoney Gazanpara\n16 - -\nAssembly Part No 71/ 117\nBillwagram/XIV\nMouza- Chak Hatishala J.L.No. 50\na) Jugpur Coloney ( South side of NH-34 )\n17 17 SC -\nMouza- Bethuadahari-, J.L. No.49\nb) Bethuadahari Dacca Coloney\nAssembly Part No 71/ 118\nBillwagram/XV\n18 - -\nMouza-Chak Hatishala J.L. No. 50\na) Jugpur Coloney ( South side of NH-34 )\nMouza- Jugpur , J.L. No. 51) b) Jugpur\n19 19 SC 19 SC(W)\nAssembly Part No 71/ 119\nmargawlliB\nDated :07.02.2008 District Panchayat Election Officer, Nadia\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            56.73612,
+            82.01303459999997,
+            586.0116,
+            703.80144
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of members to be elected\nin the Gram Panchayat",
+              null,
+              null,
+              null,
+              "Number, Name and Area of Constituencies with\nserial numbrs",
+              "srebmun\nhcae laires\not htiw\ndetacolla\nycneutitsnoc\nstaeS",
+              "staes\ndeludehcS\nsebirT\nfo\nrebmun\ndeludehcS\nrof\ndevreser\nlaires\nro\nsetsaC tsniaga\nstaeS",
+              "tsniaga\nnemow\nstaes\nrof\nfo\ndevreser\nrebmun\nstaeS laires"
+            ],
+            [
+              null,
+              "srebmem\nfo\nrebmun\nlatoT",
+              "srebmem\nsetsaC\ndeludehS",
+              "srebmem\nsrebirT\ndeludehcS",
+              "srbmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "margawlliB",
+              "",
+              "",
+              "",
+              "",
+              "Billwagram/IX\nMouza-Raghunathpur, J.L.No. 72\na) Raghunathpur\nMouza- Chak Bhabanipur, J.L.No. 71\nb) Chak Bhabanipur\nAssembly Part No 71/ 113",
+              "10",
+              "-",
+              "10 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram / X\nMouza- Gopalpur, J.L. No. 70\na) Gopalpur\nAssembly Part No 71/ 114",
+              "11",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram/XI\nMouza-Bethuadahari, J.L. No.49\na) Bethuadahari Adarsha Coloney b) Bethuadahari\nMadhyapara\nAssembly Part No 71/ 115",
+              "12\n13",
+              "12 SC\n-",
+              "12 SC(W)\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram/XII\nMouza- Bethuadahari, J.L No. 49\na) Bethuadahari Uttarpara\nAssembly Part No 71/ 116",
+              "14",
+              "-",
+              "14 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram/XIII\nMouza-Chak Hatishala J.L No. 50\na) Jugpur Coloney ( Northside of NH-34 ) b)Dacca\nColoney Gazanpara\nAssembly Part No 71/ 117",
+              "15\n16",
+              "15 SC\n-",
+              "-\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram/XIV\nMouza- Chak Hatishala J.L.No. 50\na) Jugpur Coloney ( South side of NH-34 )\nMouza- Bethuadahari-, J.L. No.49\nb) Bethuadahari Dacca Coloney\nAssembly Part No 71/ 118",
+              "17",
+              "17 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Billwagram/XV\nMouza-Chak Hatishala J.L. No. 50\na) Jugpur Coloney ( South side of NH-34 )\nMouza- Jugpur , J.L. No. 51) b) Jugpur\nAssembly Part No 71/ 119",
+              "18\n19",
+              "-\n19 SC",
+              "-\n19 SC(W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1559
+    },
+    {
+      "page": 3,
+      "width": 792,
+      "height": 612,
+      "text": "Total number of members\nSheduled Castes members\nScheduled Tribers members\nWomen membrs\n1\n(2a)\n(2b)\n(2c)\n(2d)\n3\n4\n5\n6\nBlock\n: NAKASHIPARA\nTHE\nSCHEDULE\n[\nForm-A1\n]\nName of Gram\nserial\nnumbrs\nNumber,\nName\nand\nArea\nof\nConstituencies\nwith\nin\nthe\nGram\nPanchayat\nNumber\nof\nmembers\nto\nbe\nelected\nSeats allocated to each\nconstituency with serial numbers\nSeats reserved for Scheduled\nCastes or Scheduled Tribes\nagainst serial number of seats\nSeats reserved for women against\nserial number of seats\nNakashipara\nDev.\nBlock\nBlock\nDevelopment\nOfficer",
+      "tables": [
+        {
+          "bbox": [
+            553.9992,
+            56.73611999999997,
+            709.9869654,
+            586.0116
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              null
+            ],
+            [
+              "Total number of members",
+              "Number\nin\nthe of\nGram members\nPanchayat\nto\nbe\nelected"
+            ],
+            [
+              "Sheduled Castes members",
+              null
+            ],
+            [
+              "Scheduled Tribers members",
+              null
+            ],
+            [
+              "Women membrs",
+              null
+            ],
+            [
+              "Number,\nName\nand\nserial\nArea\nnumbrs\nof\nConstituencies\nwith",
+              null
+            ],
+            [
+              "Seats allocated to each\nconstituency with serial numbers",
+              null
+            ],
+            [
+              "Seats reserved for Scheduled\nCastes or Scheduled Tribes\nagainst serial number of seats",
+              null
+            ],
+            [
+              "Seats reserved for women against\nserial number of seats",
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 516
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

@@ -1,0 +1,861 @@
+{
+  "gold_path": "data/wb/derived/ward_schedules/semantic_review/fresh_validation/gold.json",
+  "gold_sha256": "157e61053fcb059bf3cddae330b33dec34f12baa9d77a70827e7fccf1336490a",
+  "parser_sha256": "f9a1ba56632047be60f2f6aac48052c5b45883cf6204cab26eba740c2236cac4",
+  "input_hashes": {
+    "gp_seats.jsonl": "94f874f897c4e505d9a063e6d1827dccf01d7142a9112818629265074b76cfa4",
+    "other_tier_seats.jsonl": "a196ea8d1bfbd4783328c22b831d75e618f38d9206e9ad61755cc39d58ecb5a4"
+  },
+  "method": "Frozen visual source readings compared by exact source SHA/page/tier/allocated seat number; names only case/whitespace normalized; no fuzzy matching. No parser tuning on these pages. Missing rows and blank fields separate from incorrect nonnull values. Single-assistant source review, not human double entry.",
+  "summary": {
+    "missing_rows": 34,
+    "matched_rows": 15,
+    "wrong_nonnull_fields": 1,
+    "abstained_fields": 5,
+    "extra_candidates": 0,
+    "audited_name": 49,
+    "audited_caste_reservation": 49,
+    "audited_woman_reserved": 49,
+    "abstained_woman_reserved": 3,
+    "abstained_caste_reservation": 2,
+    "wrong_name": 1
+  },
+  "pages": [
+    {
+      "source_path": "data/wb/gp_source_search/archived_district_files/malda_Gazole.pdf",
+      "source_sha256": "51c85e144ecf93bab44597781ec47bd81263b28c2162486f86ac33e1819423c3",
+      "source_page": 2,
+      "record_kind": "block_ward_reservation",
+      "candidate_rows": 4,
+      "comparisons": [
+        {
+          "gold": {
+            "seat_no": 4,
+            "name": "Karkach",
+            "caste_reservation": "SC",
+            "woman_reserved": null,
+            "printed_reservation_note": "Karkach/P.S.-4(SC); women dash",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 5,
+            "name": "Karkach",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "caste dash; Karkach/P.S.-5(W)",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "4d219327d110826628a9",
+          "candidate_values": {
+            "name": "Karkach",
+            "caste_reservation": null,
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [],
+          "quality_flags": "ocr_not_independently_verified;explicit_ps_identifiers_and_codes;caste_missing_or_conflicting",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"26\", \"par_num\": \"1\", \"line_num\": \"1\", \"word_num\": \"1\", \"left\": \"1105\", \"top\": \"1978\", \"width\": \"24\", \"height\": \"207\", \"conf\": \"89.643707\", \"text\": \"Karkach/P.S.-5(W)\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"26\", \"par_num\": \"1\", \"line_num\": \"1\", \"word_num\": \"1\", \"left\": \"1105\", \"top\": \"1978\", \"width\": \"24\", \"height\": \"207\", \"conf\": \"89.643707\", \"text\": \"Karkach/P.S.-5(W)\"}]",
+          "source_table_bbox": "[1105, 1978, 1129, 2185]"
+        },
+        {
+          "gold": {
+            "seat_no": 6,
+            "name": "Karkach",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 7,
+            "name": "Deotala",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "caste dash; Deotala/P.S.-7(W)",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "1a0476529b79585d59aa",
+          "candidate_values": {
+            "name": "Deotala",
+            "caste_reservation": null,
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [],
+          "quality_flags": "ocr_not_independently_verified;explicit_ps_identifiers_and_codes;caste_missing_or_conflicting",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"34\", \"par_num\": \"1\", \"line_num\": \"1\", \"word_num\": \"1\", \"left\": \"751\", \"top\": \"776\", \"width\": \"20\", \"height\": \"186\", \"conf\": \"90.707680\", \"text\": \"7.Deotala/P.S.-7\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"37\", \"par_num\": \"1\", \"line_num\": \"1\", \"word_num\": \"1\", \"left\": \"749\", \"top\": \"1986\", \"width\": \"24\", \"height\": \"200\", \"conf\": \"90.371628\", \"text\": \"Deotala/P.S.-7(W)\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"37\", \"par_num\": \"1\", \"line_num\": \"1\", \"word_num\": \"1\", \"left\": \"749\", \"top\": \"1986\", \"width\": \"24\", \"height\": \"200\", \"conf\": \"90.371628\", \"text\": \"Deotala/P.S.-7(W)\"}]",
+          "source_table_bbox": "[749, 776, 773, 2186]"
+        },
+        {
+          "gold": {
+            "seat_no": 8,
+            "name": "Deotala",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "7ed60770b8e2b2735575",
+          "candidate_values": {
+            "name": "Deotala",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [],
+          "quality_flags": "ocr_not_independently_verified;explicit_ps_identifiers_and_codes;caste_missing_or_conflicting;scanned_women_unread_or_blank",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"39\", \"par_num\": \"1\", \"line_num\": \"1\", \"word_num\": \"1\", \"left\": \"614\", \"top\": \"779\", \"width\": \"20\", \"height\": \"185\", \"conf\": \"90.597298\", \"text\": \"8.Deotala/P.S.-8\"}]",
+          "source_table_bbox": "[614, 779, 634, 964]"
+        },
+        {
+          "gold": {
+            "seat_no": 9,
+            "name": "Deotala",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "caste dash; Deotala/P.S.-9(W)",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "608ef95526036f0e4cf4",
+          "candidate_values": {
+            "name": "Deotala",
+            "caste_reservation": null,
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [],
+          "quality_flags": "ocr_not_independently_verified;explicit_ps_identifiers_and_codes;caste_missing_or_conflicting",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"43\", \"par_num\": \"1\", \"line_num\": \"1\", \"word_num\": \"1\", \"left\": \"430\", \"top\": \"781\", \"width\": \"20\", \"height\": \"186\", \"conf\": \"90.035202\", \"text\": \"9.Deotala/P.S.-9\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"49\", \"par_num\": \"1\", \"line_num\": \"1\", \"word_num\": \"1\", \"left\": \"444\", \"top\": \"1989\", \"width\": \"23\", \"height\": \"200\", \"conf\": \"89.916183\", \"text\": \"Deotala/P.S.-9(W)\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"49\", \"par_num\": \"1\", \"line_num\": \"1\", \"word_num\": \"1\", \"left\": \"444\", \"top\": \"1989\", \"width\": \"23\", \"height\": \"200\", \"conf\": \"89.916183\", \"text\": \"Deotala/P.S.-9(W)\"}]",
+          "source_table_bbox": "[430, 781, 467, 2189]"
+        }
+      ],
+      "extra_candidates": [],
+      "diagnostics": {
+        "cache_sha256": "4ab27aa9bdb14643e8c143b77c0bfe8f8eaf492a61e0871880b84add8e448aad",
+        "language": null,
+        "render_rotation_clockwise_degrees": 0,
+        "schedule_type": "ps_form_b",
+        "unique_header_triples": 0,
+        "post_ocr_geometry_rotation": null
+      }
+    },
+    {
+      "source_path": "data/wb/2023/cooch_behar/extracted/CBR FINAL ORDER  FORM A1 B1/Cooch Behar-I/form B1@Ps Coochbehar l.pdf",
+      "source_sha256": "c780887dc2a7aa4c70511a93dd0581d5a1c77790ba71507c8a37748bbfa221c4",
+      "source_page": 2,
+      "record_kind": "block_ward_reservation",
+      "candidate_rows": 4,
+      "comparisons": [
+        {
+          "gold": {
+            "seat_no": 1,
+            "name": "MOAMARI",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "6bf813e7db32dbb258e9",
+          "candidate_values": {
+            "name": "MOAMARI",
+            "caste_reservation": null,
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [],
+          "quality_flags": "ocr_not_independently_verified;explicit_ps_identifiers_and_codes;caste_missing_or_conflicting",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"25\", \"par_num\": \"1\", \"line_num\": \"19\", \"word_num\": \"1\", \"left\": \"516\", \"top\": \"768\", \"width\": \"163\", \"height\": \"37\", \"conf\": \"90.678543\", \"text\": \"MOAMARI/PS-1\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"25\", \"par_num\": \"1\", \"line_num\": \"19\", \"word_num\": \"11\", \"left\": \"1577\", \"top\": \"763\", \"width\": \"50\", \"height\": \"20\", \"conf\": \"85.693054\", \"text\": \"1-W\"}]",
+          "source_table_bbox": "[516, 763, 1627, 805]"
+        },
+        {
+          "gold": {
+            "seat_no": 2,
+            "name": "MOAMARI",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "57468e139319c837f322",
+          "candidate_values": {
+            "name": "MOAMARI",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [],
+          "quality_flags": "ocr_not_independently_verified;explicit_ps_identifiers_and_codes;caste_missing_or_conflicting;scanned_women_unread_or_blank",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"25\", \"par_num\": \"1\", \"line_num\": \"23\", \"word_num\": \"3\", \"left\": \"512\", \"top\": \"912\", \"width\": \"166\", \"height\": \"38\", \"conf\": \"85.967880\", \"text\": \"MOAMARI/PS-2\"}]",
+          "source_table_bbox": "[512, 912, 678, 950]"
+        },
+        {
+          "gold": {
+            "seat_no": 3,
+            "name": "MOAMARI",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 4,
+            "name": "CHILKIRHAT",
+            "caste_reservation": "SC",
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 5,
+            "name": "CHILKIRHAT",
+            "caste_reservation": "SC",
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 6,
+            "name": "CHILKIRHAT",
+            "caste_reservation": "SC",
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "06f945ec61260c976632",
+          "candidate_values": {
+            "name": "CHILKIRHAT",
+            "caste_reservation": "SC",
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [],
+          "quality_flags": "ocr_not_independently_verified;explicit_ps_identifiers_and_codes",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"25\", \"par_num\": \"1\", \"line_num\": \"39\", \"word_num\": \"1\", \"left\": \"480\", \"top\": \"1537\", \"width\": \"195\", \"height\": \"38\", \"conf\": \"92.713997\", \"text\": \"CHILKIRHAT/PS-6\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"25\", \"par_num\": \"1\", \"line_num\": \"39\", \"word_num\": \"8\", \"left\": \"1435\", \"top\": \"1542\", \"width\": \"64\", \"height\": \"21\", \"conf\": \"87.797722\", \"text\": \"6-SC\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"25\", \"par_num\": \"1\", \"line_num\": \"39\", \"word_num\": \"9\", \"left\": \"1567\", \"top\": \"1542\", \"width\": \"52\", \"height\": \"21\", \"conf\": \"84.142570\", \"text\": \"6-W\"}]",
+          "source_table_bbox": "[480, 1537, 1619, 1575]"
+        },
+        {
+          "gold": {
+            "seat_no": 7,
+            "name": "FALIMARI",
+            "caste_reservation": "SC",
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "2af4bfa19112f6cd9832",
+          "candidate_values": {
+            "name": "FALIMARI",
+            "caste_reservation": "SC",
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [],
+          "quality_flags": "ocr_not_independently_verified;explicit_ps_identifiers_and_codes;scanned_women_unread_or_blank",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"25\", \"par_num\": \"1\", \"line_num\": \"44\", \"word_num\": \"1\", \"left\": \"489\", \"top\": \"1732\", \"width\": \"165\", \"height\": \"37\", \"conf\": \"91.112381\", \"text\": \"FALIMARI/PS-7\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"25\", \"par_num\": \"1\", \"line_num\": \"44\", \"word_num\": \"7\", \"left\": \"1430\", \"top\": \"1734\", \"width\": \"64\", \"height\": \"22\", \"conf\": \"90.892952\", \"text\": \"7-SC\"}]",
+          "source_table_bbox": "[489, 1732, 1494, 1769]"
+        },
+        {
+          "gold": {
+            "seat_no": 8,
+            "name": "FALIMARI",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 9,
+            "name": "FALIMARI",
+            "caste_reservation": "SC",
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        }
+      ],
+      "extra_candidates": [],
+      "diagnostics": {
+        "cache_sha256": "3478dc74449e4697613a96d30a907bf6a6cdc3b80f065f1e66d60b64736455e4",
+        "language": null,
+        "render_rotation_clockwise_degrees": 0,
+        "schedule_type": "ps_form_b",
+        "unique_header_triples": 1,
+        "post_ocr_geometry_rotation": 0
+      }
+    },
+    {
+      "source_path": "data/wb/2023/gp_sources/jalpaiguri_form_a_all_gp_maynaguri_3_mb.pdf",
+      "source_sha256": "78f5e97a7f1f3aeaff376cd994c3c6ccd200249594bc580e7cd692562ad24768",
+      "source_page": 4,
+      "record_kind": "gp_ward_reservation",
+      "candidate_rows": 0,
+      "comparisons": [
+        {
+          "gold": {
+            "seat_no": 1,
+            "name": "Burnish",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 2,
+            "name": "Burnish",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 3,
+            "name": "Burnish",
+            "caste_reservation": "SC",
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 4,
+            "name": "Burnish",
+            "caste_reservation": "SC",
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 5,
+            "name": "Burnish",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 6,
+            "name": "Burnish",
+            "caste_reservation": "SC",
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 7,
+            "name": "Burnish",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 8,
+            "name": "Burnish",
+            "caste_reservation": "SC",
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 9,
+            "name": "Burnish",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 10,
+            "name": "Burnish",
+            "caste_reservation": "SC",
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 11,
+            "name": "Burnish",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 12,
+            "name": "Burnish",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 13,
+            "name": "Burnish",
+            "caste_reservation": "SC",
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 14,
+            "name": "Burnish",
+            "caste_reservation": "SC",
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 15,
+            "name": "Burnish",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 16,
+            "name": "Burnish",
+            "caste_reservation": "SC",
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 17,
+            "name": "Burnish",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 18,
+            "name": "Burnish",
+            "caste_reservation": "SC",
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 19,
+            "name": "Burnish",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 20,
+            "name": "Burnish",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 21,
+            "name": "Burnish",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 22,
+            "name": "Burnish",
+            "caste_reservation": "SC",
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 23,
+            "name": "Burnish",
+            "caste_reservation": "SC",
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 24,
+            "name": "Burnish",
+            "caste_reservation": "SC",
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        }
+      ],
+      "extra_candidates": [],
+      "diagnostics": {
+        "cache_sha256": "8674caeff67af45ee98eb264748a1de0eaf8abb3f3a1d04ed1409f87d577d8f4",
+        "language": "eng",
+        "render_rotation_clockwise_degrees": 90,
+        "schedule_type": "gp_form_a",
+        "unique_header_triples": 0,
+        "post_ocr_geometry_rotation": null
+      }
+    },
+    {
+      "source_path": "data/wb/gp_source_search/archived_district_files/malda_Bamongola.pdf",
+      "source_sha256": "a1311dabd26cf077177a83bed3f32e8665bea1d84413d5c4b460ba6ddbe267df",
+      "source_page": 5,
+      "record_kind": "gp_ward_reservation",
+      "candidate_rows": 7,
+      "comparisons": [
+        {
+          "gold": {
+            "seat_no": 10,
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "90bd12e22e54e70faa54",
+          "candidate_values": {
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [],
+          "quality_flags": "ocr_not_independently_verified;explicit_gp_identifiers_header_unread;caste_missing_or_conflicting;scanned_women_unread_or_blank",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"35\", \"par_num\": \"1\", \"line_num\": \"6\", \"word_num\": \"8\", \"left\": \"1394\", \"top\": \"1427\", \"width\": \"18\", \"height\": \"203\", \"conf\": \"89.512367\", \"text\": \"MADNABATI/X-10\"}]",
+          "source_table_bbox": "[1394, 1427, 1412, 1630]"
+        },
+        {
+          "gold": {
+            "seat_no": 11,
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 12,
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 13,
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "72a9d785f0bccdf059ae",
+          "candidate_values": {
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "woman_reserved"
+          ],
+          "quality_flags": "ocr_not_independently_verified;explicit_gp_identifiers_header_unread;caste_missing_or_conflicting;scanned_women_unread_or_blank",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"35\", \"par_num\": \"1\", \"line_num\": \"14\", \"word_num\": \"6\", \"left\": \"1178\", \"top\": \"1418\", \"width\": \"18\", \"height\": \"224\", \"conf\": \"92.031822\", \"text\": \"MADNABATI/XIII-13\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"35\", \"par_num\": \"1\", \"line_num\": \"14\", \"word_num\": \"8\", \"left\": \"1180\", \"top\": \"2037\", \"width\": \"18\", \"height\": \"222\", \"conf\": \"89.000771\", \"text\": \"MADNABATI/XIII-13\"}]",
+          "source_table_bbox": "[1178, 1418, 1198, 2259]"
+        },
+        {
+          "gold": {
+            "seat_no": 14,
+            "name": "MADNABATI",
+            "caste_reservation": "SC",
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "ec297f2e913c6b573d2e",
+          "candidate_values": {
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "caste_reservation",
+            "woman_reserved"
+          ],
+          "quality_flags": "ocr_not_independently_verified;explicit_gp_identifiers_header_unread;caste_missing_or_conflicting;scanned_women_unread_or_blank",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"35\", \"par_num\": \"1\", \"line_num\": \"18\", \"word_num\": \"7\", \"left\": \"1043\", \"top\": \"1417\", \"width\": \"18\", \"height\": \"228\", \"conf\": \"59.761475\", \"text\": \"MADNABATI/XIV-14\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"35\", \"par_num\": \"1\", \"line_num\": \"18\", \"word_num\": \"12\", \"left\": \"1044\", \"top\": \"2020\", \"width\": \"19\", \"height\": \"225\", \"conf\": \"89.513046\", \"text\": \"MADNABATI/XIV-14\"}]",
+          "source_table_bbox": "[1043, 1417, 1063, 2245]"
+        },
+        {
+          "gold": {
+            "seat_no": 15,
+            "name": "MADNABATI",
+            "caste_reservation": "SC",
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "0c9d1ff9dc740254faad",
+          "candidate_values": {
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "caste_reservation"
+          ],
+          "quality_flags": "ocr_not_independently_verified;explicit_gp_identifiers_header_unread;caste_missing_or_conflicting;scanned_women_unread_or_blank",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"35\", \"par_num\": \"1\", \"line_num\": \"23\", \"word_num\": \"8\", \"left\": \"897\", \"top\": \"1693\", \"width\": \"19\", \"height\": \"220\", \"conf\": \"90.702080\", \"text\": \"MADNABATI/XV-15\"}]",
+          "source_table_bbox": "[897, 1693, 916, 1913]"
+        },
+        {
+          "gold": {
+            "seat_no": 16,
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "missing_source_row"
+        },
+        {
+          "gold": {
+            "seat_no": 17,
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": 1,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "31e0861866bd9f482240",
+          "candidate_values": {
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "woman_reserved"
+          ],
+          "quality_flags": "ocr_not_independently_verified;explicit_gp_identifiers_header_unread;caste_missing_or_conflicting;scanned_women_unread_or_blank",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"35\", \"par_num\": \"1\", \"line_num\": \"29\", \"word_num\": \"6\", \"left\": \"702\", \"top\": \"1416\", \"width\": \"19\", \"height\": \"234\", \"conf\": \"86.263069\", \"text\": \"MADNABATI/XVII-17\"}]",
+          "source_table_bbox": "[702, 1416, 721, 1650]"
+        },
+        {
+          "gold": {
+            "seat_no": 18,
+            "name": "MADNABATI",
+            "caste_reservation": "ST",
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "5f3521b7996a4923c5e8",
+          "candidate_values": {
+            "name": "MADNABATI",
+            "caste_reservation": "ST",
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [],
+          "quality_flags": "ocr_not_independently_verified;explicit_gp_identifiers_header_unread;scanned_women_unread_or_blank",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"35\", \"par_num\": \"1\", \"line_num\": \"32\", \"word_num\": \"6\", \"left\": \"608\", \"top\": \"1413\", \"width\": \"19\", \"height\": \"241\", \"conf\": \"74.201691\", \"text\": \"MADNABATI/XVIII-18\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"35\", \"par_num\": \"1\", \"line_num\": \"32\", \"word_num\": \"8\", \"left\": \"605\", \"top\": \"1689\", \"width\": \"23\", \"height\": \"289\", \"conf\": \"84.992287\", \"text\": \"MADNABATI/XVIII-18(ST)\"}, {\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"35\", \"par_num\": \"1\", \"line_num\": \"32\", \"word_num\": \"8\", \"left\": \"605\", \"top\": \"1689\", \"width\": \"23\", \"height\": \"289\", \"conf\": \"84.992287\", \"text\": \"MADNABATI/XVIII-18(ST)\"}]",
+          "source_table_bbox": "[605, 1413, 628, 1978]"
+        },
+        {
+          "gold": {
+            "seat_no": 19,
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null,
+            "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+            "ambiguous": false
+          },
+          "status": "candidate_matched",
+          "row_id": "c183ee0226359a1d5c11",
+          "candidate_values": {
+            "name": "DNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [
+            "name"
+          ],
+          "abstained_fields": [],
+          "quality_flags": "ocr_not_independently_verified;explicit_gp_identifiers_header_unread;caste_missing_or_conflicting;scanned_women_unread_or_blank",
+          "raw_cells": "[{\"level\": \"5\", \"page_num\": \"1\", \"block_num\": \"35\", \"par_num\": \"1\", \"line_num\": \"35\", \"word_num\": \"2\", \"left\": \"506\", \"top\": \"1458\", \"width\": \"18\", \"height\": \"190\", \"conf\": \"77.967934\", \"text\": \"DNABATI/XIX-19\"}]",
+          "source_table_bbox": "[506, 1458, 524, 1648]"
+        }
+      ],
+      "extra_candidates": [],
+      "diagnostics": {
+        "cache_sha256": "21251df21dd15d1b3643f091cee39349375cbe69294190568da2bef4c4b9f000",
+        "language": null,
+        "render_rotation_clockwise_degrees": 0,
+        "schedule_type": "gp_form_a",
+        "unique_header_triples": 0,
+        "post_ocr_geometry_rotation": null
+      }
+    }
+  ],
+  "denominators": {
+    "allocated_seats": 49,
+    "printed_constituencies": 46,
+    "page_count": 4,
+    "gp_allocated_seats": 34,
+    "ps_constituencies": 15,
+    "maynaguri_allocated_seats": 24,
+    "maynaguri_printed_constituencies": 21,
+    "maynaguri_repeated_constituency_allocations": {
+      "V": [
+        5,
+        6
+      ],
+      "VI": [
+        7,
+        8
+      ],
+      "XIX": [
+        21,
+        22
+      ]
+    },
+    "note": "Source printed Arabic allocated seat numbers are the evaluation unit. Maynaguri repeated Roman indices are not collapsed. All24Maynaguri seats currently missing, so no within-constituency category copying occurs in these outputs.",
+    "matched_allocated_seats": 15,
+    "matched_printed_constituencies": 15,
+    "allocated_seat_coverage": "15/49",
+    "printed_constituency_coverage": "15/46"
+  },
+  "source_positive_fields": {
+    "caste_reservation": 21,
+    "woman_reserved": 24
+  },
+  "source_blank_policy": "Blank/dash is null in visual gold and scanned candidates; it does not establish UR or woman_reserved=0.",
+  "selection_scope": "Four nonrandom source pages outside earlier samples.json and heldout/evaluation.json, selected to inspect GP fallback, PS extraction, and verified rotated Jalpaiguri. Gazole2 proved PS, so unviewed Kalchini3 was replaced with Bamongola5 before candidate values were opened. No population error-rate inference; these49seats are a bounded fresh-source validation set.",
+  "flat_gold_export": {
+    "path": "data/wb/derived/ward_schedules/semantic_review/fresh_validation/gold_rows.csv",
+    "sha256": "37b09ae4b4aa0ce0a20be56b3402fa6667c1384b91b37c6cd46be7ecc3bb01c0",
+    "rows": 49,
+    "csv_roundtrip_exact": true,
+    "note": "Roman constituency IDs visually transcribed separately from Arabic allocated seat numbers; PS printed Arabic constituency numbers separate. Blank values serialized as empty CSV fields. Frozen gold.json preserved."
+  },
+  "checks": {
+    "source_hashes_verified": 4,
+    "render_hashes_verified": 4,
+    "gold_sha256_unchanged": true,
+    "parser_sha256_unchanged": true,
+    "ward_tests": "30 passed",
+    "no_parser_changes_from_fresh_validation": true
+  }
+}

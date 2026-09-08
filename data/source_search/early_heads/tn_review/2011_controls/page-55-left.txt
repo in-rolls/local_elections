@@ -1,0 +1,53 @@
+1 2 3
+KADAYAMPATTI PANCHAYAT UNION Contd.,
+9 Semmandapatty General(Women)
+10 Dharapuram General
+11 Gundukkal General
+12 Kanjanaickenpatty General
+13 Kongupatty General
+14 Nadupatty General
+15 Pannapatty General
+16 Poosaripatty General
+17 Veppilai General
+KOLATHUR PANCHAYAT UNION
+1 Alamarathupatty ST(Women)
+2 Kannamoochi ST(General)
+3 Chitrapattypudur SC(Women)
+4 Singiripatty SC(General)
+5 Lakkampatti General(Women)
+6 Moolakadu General(Women)
+7 Palamalai General(Women)
+8 Dinnappatti General
+9 Karungallur General
+10 Kaveripuram General
+11 Kolnaickenpatti General
+12 Navappatti General
+13 Pannavadi General
+14 Sampalli General
+KONGANAPURAM PANCHAYAT UNION
+1 Erumapatty SC(General)
+2 Koranampatti General(Women)
+3 Kurumbapatti General(Women)
+4 Vellalapuram General(Women)
+5 Katchupalli General
+6 Konasamudram General
+7 Pudupalayam General
+8 Samudram General
+9 Thangayur General
+MC.DONALD CHOULTRY PANCHAYAT UNION
+1 Kandarkulamanickam SC(General)
+2 Agraharam Thalaiyur General(Women)
+3 Kanagagiri General(Women)
+4 Kannanderi General(Women)
+5 Vaikuntham General(Women)
+6 Egapuram General
+7 Gudalur General
+8 Kaligoundanpalayam General
+9 Mac Donald choultry General
+10 Naduvaneri General
+11 Pudur General
+12 Thappakuttai General
+MECHERI PANCHAYAT UNION
+1 Manathal Nalla goundampatty SC(Women)
+2 Olaipatty SC(General)
+Page 53

@@ -1,0 +1,42 @@
+.(1) .(2) .(3)
+Arcot Panchayat Union Contd.,
+27 Koorambadi General
+28 Ladavaram General
+29 Mangadu General
+30 Melakuppam General
+31 Mulluvadi General
+32 Nandiyalam General
+33 Papperi General
+34 Puderi General
+35 Punnappadi General
+36 Saravanthangal General
+37 Thalanur General
+38 Valavanur General
+39 Velur General
+Gudiyatham Panchayat Union
+1 Danakondapali SC (Women)
+2 Goodanagaram SC (Women)
+3 Sempali SC (Women)
+4 Viludonpalayam SC (Women)
+5 Kilpatti SC (General)
+6 Modikuppam SC (General)
+7 Olakasi SC (General)
+8 Perumbadi SC (General)
+9 Puttavaraipalli SC (General)
+10 Thalaiyatham SC (General)
+11 Thattimanapalli SC (General)
+12 Valathur SC (General)
+13 Agraharam General (Women)
+14 Chengundram General (Women)
+15 Chinnalapalli General (Women)
+16 Kallapadi General (Women)
+17 Melmuttukur General (Women)
+18 Nellorepettai General (Women)
+19 Paradarami General (Women)
+20 Pattu General (Women)
+21 Ramalai General (Women)
+22 Seevur General (Women)
+23 Varadhareddipalli General (Women)
+24 Ananganallore General
+25 Bojanapuram General
+26 Chettikuppam General

@@ -13,6 +13,7 @@ It prints the tag command rather than running it.
 import json
 import subprocess
 import sys
+from pathlib import Path
 
 from local_reservations.common.runlog import command
 from local_reservations.paths import ROOT
@@ -31,14 +32,51 @@ GENERATED = [
 ]
 
 
+def git_output(directory, *args):
+    """Read Git state, refusing unavailable or unsuccessful commands."""
+    try:
+        result = subprocess.run(
+            ["git", "--no-optional-locks", "-C", str(directory), *args],
+            capture_output=True,
+            text=True,
+            timeout=60,
+            check=False,
+        )
+    except (OSError, subprocess.SubprocessError) as exc:
+        raise RuntimeError(f"cannot inspect Git state at {directory}: {exc}") from exc
+    if result.returncode:
+        raise RuntimeError(
+            f"cannot inspect Git state at {directory}: "
+            f"git exited {result.returncode}: {result.stderr.strip()}"
+        )
+    return result.stdout.rstrip("\r\n")
+
+
+def live_state(directory):
+    """Require a worktree rooted here and return its commit and changed paths."""
+    top = git_output(directory, "rev-parse", "--show-toplevel")
+    if not top or Path(top).resolve() != directory.resolve():
+        raise RuntimeError(f"{directory} is not the root of a Git worktree")
+    commit = git_output(directory, "rev-parse", "--verify", "HEAD^{commit}")
+    if not commit:
+        raise RuntimeError(f"{directory} has no committed HEAD")
+    out = git_output(
+        directory,
+        "status",
+        "--porcelain=v1",
+        "--untracked-files=all",
+        "--ignore-submodules=none",
+    )
+    # Keep the leading status characters: strip() would remove the initial
+    # blank in a worktree-only change before slicing its path.
+    changed = [line[3:].strip() for line in out.splitlines() if line.strip()]
+    return commit, changed
+
+
 def dirty_files():
-    """Paths git reports as changed, relative to the repository root."""
-    out = subprocess.run(
-        ["git", "-C", str(ROOT), "status", "--porcelain"],
-        capture_output=True,
-        text=True,
-    ).stdout
-    return [line[3:].strip() for line in out.splitlines() if line.strip()]
+    """Paths Git currently reports as changed in this repository."""
+    _, changed = live_state(ROOT)
+    return changed
 
 
 @command("validate", expectation_set="release")
@@ -47,8 +85,12 @@ def main():
     manifest = json.loads((ROOT / "MANIFEST.json").read_text(encoding="utf-8"))
 
     problems = []
-    if manifest.get("dirty"):
+    try:
         changed = dirty_files()
+    except RuntimeError as exc:
+        problems.append(str(exc))
+        changed = []
+    if changed:
         stale = [f for f in changed if f in GENERATED or f.startswith("data/")]
         problems.append("this repository has uncommitted changes")
         for path in changed[:8]:
@@ -66,13 +108,31 @@ def main():
                 "generated file that is not committed is not the "
                 "one the manifest describes"
             )
+    if manifest.get("dirty"):
+        problems.append("the manifest records a dirty build; rebuild from clean inputs")
     for sibling in manifest.get("sibling_repos", []):
-        if sibling.get("dirty"):
-            problems.append(f"{sibling['repo']} has uncommitted changes")
+        name = sibling["repo"]
         if not sibling.get("present"):
             problems.append(
-                f"{sibling['repo']} is not checked out, so its "
-                f"state is missing from this release"
+                f"{name} was absent from the build; its state is missing "
+                "from this release manifest"
+            )
+            continue
+        try:
+            live_commit, changed = live_state(ROOT.parent / name)
+        except RuntimeError as exc:
+            problems.append(str(exc))
+            continue
+        if changed:
+            problems.append(f"{name} has uncommitted changes")
+        pinned = sibling.get("commit")
+        if pinned != live_commit:
+            problems.append(
+                f"{name} live commit {live_commit} differs from manifest pin {pinned!r}"
+            )
+        if sibling.get("dirty"):
+            problems.append(
+                f"the manifest records dirty inputs from {name}; rebuild it"
             )
 
     print()

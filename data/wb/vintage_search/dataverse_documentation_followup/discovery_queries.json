@@ -1,0 +1,20 @@
+{
+  "method": "Web search discovery followed by logged direct public HTTP acquisition. No result counts are treated as an exhaustive inventory.",
+  "queries": [
+    "\"O3UKFO\" \"Readme\"",
+    "\"CleanPradhanAll.do\"",
+    "\"Does Exposure Reduce Bias\" replication data Beaman",
+    "\"codebook_pradhan.pdf\"",
+    "\"Clean_Election_data_gp.do\"",
+    "Lori Beaman Powerful women replication data site:northwestern.edu",
+    "\"Powerful women\" \"replication\" Pande data",
+    "\"CleanPradhanAll\" replication",
+    "\"codebook_pradhan\" Beaman",
+    "\"Powerful women\" replication \"data\" site:economics.mit.edu"
+  ],
+  "primary_sources_followed": [
+    "https://faculty.wcas.northwestern.edu/lab823/",
+    "https://economics.mit.edu/people/faculty/esther-duflo/published-papers",
+    "https://www.nber.org/papers/w14198"
+  ]
+}
