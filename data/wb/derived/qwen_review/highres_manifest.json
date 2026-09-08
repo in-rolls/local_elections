@@ -1,0 +1,42 @@
+[
+  {
+    "image_path": "data/wb/derived/qwen_review/highres_1.png",
+    "row_id": "02a138e41cf5ffe1c97c3f42",
+    "source_path": "data/wb/gp_source_search/archived_district_files/extracted/1B_Pradhan/1B_Pradhan_Kashipur.pdf",
+    "source_page": "1",
+    "source_bbox": "[381.7, 555.96, 478.43, 578.56]",
+    "raster_dpi": 360
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/highres_2.png",
+    "row_id": "6cdcfe386952de84c6462550",
+    "source_path": "data/wb/gp_source_search/archived_district_files/extracted/1B_Pradhan/1B_Pradhan_Para.pdf",
+    "source_page": "1",
+    "source_bbox": "[383.7, 624.92, 475.25, 652.71]",
+    "raster_dpi": 360
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/highres_3.png",
+    "row_id": "60f90521d9aaa5b34dd7c23d",
+    "source_path": "data/wb/gp_source_search/archived_district_files/extracted/1B_Pradhan/1B_Pradhan_Santuri.pdf",
+    "source_page": "1",
+    "source_bbox": "[480.47, 481.5, 573.0, 524.41]",
+    "raster_dpi": 360
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/highres_4.png",
+    "row_id": "98a84ffe974b3b4ebf3e5c16",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf",
+    "source_page": "3",
+    "source_bbox": "[427.35, 136.88, 635.88, 153.2]",
+    "raster_dpi": 360
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/highres_5.png",
+    "row_id": "230b6ee2c6641db6dfd31027",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf",
+    "source_page": "3",
+    "source_bbox": "[428.26, 361.47, 636.59, 377.82]",
+    "raster_dpi": 360
+  }
+]

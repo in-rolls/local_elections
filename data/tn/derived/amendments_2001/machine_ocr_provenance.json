@@ -1,0 +1,866 @@
+[
+  {
+    "source_page": 1,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 1,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0001/attempts/775de876e3194b79a548193ded753fa5/source.png",
+        "sha256": "cba581b8c4bbd9bdc1dd2e369f970292f83c6ff55da6255052d510013f88df9c"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0001/attempts/775de876e3194b79a548193ded753fa5/ocr.tsv",
+        "sha256": "857ae4d76ef9993d6a74d89dcec1a27d71f68a1bea1f69d38c58acabfcdd4844"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0001/attempts/775de876e3194b79a548193ded753fa5/ocr.txt",
+        "sha256": "fcc3ced590e6cf22d9ef45278571dd52d849fd59224bc81dd4826c1bd641c6bc"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0001/attempts/775de876e3194b79a548193ded753fa5/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 2,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 2,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0002/attempts/742cdb7ac96f472ebad19202b387856d/source.png",
+        "sha256": "02b5e8dbc51d82839eaf9862ee571d8a660350a7274922d6fe711d0deb6268b5"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0002/attempts/742cdb7ac96f472ebad19202b387856d/ocr.tsv",
+        "sha256": "567306d334f4b985da366418d9fa16f98d9ebf8a8badad5c7e370652a3235e13"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0002/attempts/742cdb7ac96f472ebad19202b387856d/ocr.txt",
+        "sha256": "6846f962e9cbf87da6a7bbfbb73f6026f260e56a0996dfa48430fe48e5e924e7"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0002/attempts/742cdb7ac96f472ebad19202b387856d/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 3,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 3,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0003/attempts/3530ec9186014d79820feff90ca60b6b/source.png",
+        "sha256": "ec5a45cd8a63ad85a90dc43707069f92cc002181877dd8e635b5a81921ddf3c3"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0003/attempts/3530ec9186014d79820feff90ca60b6b/ocr.tsv",
+        "sha256": "c4a9a9e3556aff7ec14863fadf3759b88e48b2473ec9c2474f888e4074126df8"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0003/attempts/3530ec9186014d79820feff90ca60b6b/ocr.txt",
+        "sha256": "c7d74f13fe553e272ae00acb207a486897cbcbc2a79fbeae00ff2dc3c92f058a"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0003/attempts/3530ec9186014d79820feff90ca60b6b/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 4,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 4,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0004/attempts/81602004b85a409eaf519425354b8527/source.png",
+        "sha256": "b1f0914c501772ed779f389375ba91e723d8f2033b7c1e7a07670691d9178838"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0004/attempts/81602004b85a409eaf519425354b8527/ocr.tsv",
+        "sha256": "21be0628e187c1629b49363a21d6c41488d0b991628a043641965e6a860a5052"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0004/attempts/81602004b85a409eaf519425354b8527/ocr.txt",
+        "sha256": "97c749a3295c4ab3efd02e21c856809493ae81b014b5ce6e3abd2aad4b567ef1"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0004/attempts/81602004b85a409eaf519425354b8527/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 5,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 5,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0005/attempts/b25d2c64a1644abfa7487ca11f335efc/source.png",
+        "sha256": "10b90c0dd52f3cf439d2d274a4526910083295d6f04b995646608325effdb524"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0005/attempts/b25d2c64a1644abfa7487ca11f335efc/ocr.tsv",
+        "sha256": "a555f3d8bad676056b524007ebb1c76d2ded35dfa2cbc0575e10b2de6bd778bc"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0005/attempts/b25d2c64a1644abfa7487ca11f335efc/ocr.txt",
+        "sha256": "00aadbdb659e1d344ee6daef5830e8935fd35803bdd11df61ba124a1ee1a3035"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0005/attempts/b25d2c64a1644abfa7487ca11f335efc/stderr.txt",
+        "sha256": "0b107b20075254f60b86ad8954b12c040f7c843aaca15d7ccb58cae5497c62fb"
+      }
+    }
+  },
+  {
+    "source_page": 6,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 6,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0006/attempts/50c44701bd0d4ffd942bf18195ec3bda/source.png",
+        "sha256": "34ab6b3cf1b6889beed4876bda24cd067543f92e0299228d422f713bd06adca7"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0006/attempts/50c44701bd0d4ffd942bf18195ec3bda/ocr.tsv",
+        "sha256": "9f48dfb9832716cce85c402c114d99a0c46c8cc2fd9a426541dac61bfa73cf86"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0006/attempts/50c44701bd0d4ffd942bf18195ec3bda/ocr.txt",
+        "sha256": "87829d63ef0a72f7a8bb4b860329a05b49eb19b8c125bb990071ed2c239ccca1"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0006/attempts/50c44701bd0d4ffd942bf18195ec3bda/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 7,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 7,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0007/attempts/435b6da614c64c56a3fbe6f05a1e644a/source.png",
+        "sha256": "47a324793b5683efec0890c01f2eb7d35304eac7b59fd238b2b316e9770735ca"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0007/attempts/435b6da614c64c56a3fbe6f05a1e644a/ocr.tsv",
+        "sha256": "20faf1ea0903542a437771200937393644a3f9fb2376946471a9c21cdf10f357"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0007/attempts/435b6da614c64c56a3fbe6f05a1e644a/ocr.txt",
+        "sha256": "06d3d98323effc123c31dc4b2a62573931113932cf595c1067baf5e4afaacf01"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0007/attempts/435b6da614c64c56a3fbe6f05a1e644a/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 8,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 8,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0008/attempts/f6448dd9df7b46d3928c9476f03f2d02/source.png",
+        "sha256": "c8080aae41621c2953b5359b595ce33de94d1ee1408283ad081fff82917f9b7e"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0008/attempts/f6448dd9df7b46d3928c9476f03f2d02/ocr.tsv",
+        "sha256": "7b3034abb0576499b930a2181ae1d1a1be0a70f6a1caaa236f8ab5120e80e19e"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0008/attempts/f6448dd9df7b46d3928c9476f03f2d02/ocr.txt",
+        "sha256": "f4406a4d30df6eb0d86c601b7989dfe6c506b947f7fb842eca763555be99cf44"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0008/attempts/f6448dd9df7b46d3928c9476f03f2d02/stderr.txt",
+        "sha256": "b867f06804f7a12476f18789d1cbb3b5f64c9ee774419c8c35153ff4698e8823"
+      }
+    }
+  },
+  {
+    "source_page": 9,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 9,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0009/attempts/82ba78867cba4741a81470c8f1e7b7f6/source.png",
+        "sha256": "b8b7d8437a185f8b966168696b616279bc6149631b6a04ec431d4440caeb0355"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0009/attempts/82ba78867cba4741a81470c8f1e7b7f6/ocr.tsv",
+        "sha256": "d23aff659d9ef12e1773d961b6b869d57c1b28b31ca900489723da0be9a4cfd9"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0009/attempts/82ba78867cba4741a81470c8f1e7b7f6/ocr.txt",
+        "sha256": "296c6cffd06f4b57744e5e6df09a49c69cfec9c987f839ca2b30ed06eb2a17fe"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0009/attempts/82ba78867cba4741a81470c8f1e7b7f6/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 10,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 10,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0010/attempts/4c79db7ce5804dc4b94fd32a9f1edc24/source.png",
+        "sha256": "3effd09cdfe97f6e594016353f9c0ecd3ffdeb405c37c661e56103d54bbf11de"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0010/attempts/4c79db7ce5804dc4b94fd32a9f1edc24/ocr.tsv",
+        "sha256": "0945123a4b4da44cf6885a3c7c2c665370da6e4c55fac3e085c0eaf71993ecc3"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0010/attempts/4c79db7ce5804dc4b94fd32a9f1edc24/ocr.txt",
+        "sha256": "a13d4134bc15113c4ed1c22d613a32dc17c638aaf4c7dda4e65662b7c0b935af"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0010/attempts/4c79db7ce5804dc4b94fd32a9f1edc24/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 11,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 11,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0011/attempts/e8a01f692ff74efa89318b83438850b0/source.png",
+        "sha256": "cc1fa45504f27c225a79e5630f57fd2747b61713959b4b1d7b2edf6bfbf3143e"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0011/attempts/e8a01f692ff74efa89318b83438850b0/ocr.tsv",
+        "sha256": "8fbe1a160a18603ee9b6085b3be1368fb859bf0f2a85165cfb70d6face63d724"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0011/attempts/e8a01f692ff74efa89318b83438850b0/ocr.txt",
+        "sha256": "6e295d93a5b5b1aa78aca1ce64aade5abc923dec604009d2db582d091beadccc"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0011/attempts/e8a01f692ff74efa89318b83438850b0/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 12,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 12,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0012/attempts/7deabfc9c1d24b3f878a51cc0f7c7757/source.png",
+        "sha256": "8f71ec8562cdd3f166a5e12224300d870c15678db9070911337fb04c2006e346"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0012/attempts/7deabfc9c1d24b3f878a51cc0f7c7757/ocr.tsv",
+        "sha256": "7d9f619a1068bcc5ac4b8a6336b6fcff231b6297f8c431ffd1b65ad190a8c330"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0012/attempts/7deabfc9c1d24b3f878a51cc0f7c7757/ocr.txt",
+        "sha256": "3563b6f9581c29a0e63591184e108e85e2a33fc53652a834c50c05732a04f80f"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0012/attempts/7deabfc9c1d24b3f878a51cc0f7c7757/stderr.txt",
+        "sha256": "2c9532311e001b041a7c4b650345c91956d7928ea3214ba4550dd5650d6498c7"
+      }
+    }
+  },
+  {
+    "source_page": 13,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 13,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0013/attempts/172c28f30f2e4a749fbefca6c34770ba/source.png",
+        "sha256": "bb482cdef51e6b035d6f48ece9073eeb1d455566d50c7c993f6846188bb8567d"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0013/attempts/172c28f30f2e4a749fbefca6c34770ba/ocr.tsv",
+        "sha256": "a4a6bee24bd2e7f51c06ec33fa5c508c1b08e194a2b5b61c86aab5121de8bc49"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0013/attempts/172c28f30f2e4a749fbefca6c34770ba/ocr.txt",
+        "sha256": "26d9672a1dfc1436a3a69929d71319cb5cc7160964754b93f52e2b0b5508d3da"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0013/attempts/172c28f30f2e4a749fbefca6c34770ba/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 14,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 14,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0014/attempts/f62ccae91c7b4435957302e30e82b0df/source.png",
+        "sha256": "4390b24d11b017c54ff5a4bdb6a7a52e50e80754a7a7823937fe0f2d8cc23233"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0014/attempts/f62ccae91c7b4435957302e30e82b0df/ocr.tsv",
+        "sha256": "cda17d2c2d465c41ffbad30d75680be1935eb986575d045d6189697cee15cd8a"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0014/attempts/f62ccae91c7b4435957302e30e82b0df/ocr.txt",
+        "sha256": "967886a0f3527876ff2ab8c5fbd6ffe7aa6205b4c44f7df7db4db5265d6ad6ce"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0014/attempts/f62ccae91c7b4435957302e30e82b0df/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 15,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 15,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0015/attempts/28cab31bcc65473aa54b78259a021b25/source.png",
+        "sha256": "01856d6443fecafc7aed72f0016a3a1d15fc31d38a1c193c48f0f941765ab67d"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0015/attempts/28cab31bcc65473aa54b78259a021b25/ocr.tsv",
+        "sha256": "082571dbe48617f2cb84030aa25cbfdd605726ba228825b3381395b1ce46312e"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0015/attempts/28cab31bcc65473aa54b78259a021b25/ocr.txt",
+        "sha256": "a7b1bed3af5d1d6d77995293da06934a7bd7623045a910dd1633a776ca878b8c"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0015/attempts/28cab31bcc65473aa54b78259a021b25/stderr.txt",
+        "sha256": "9c992f6f38845c7030d10f463a67386e6d107e4a9d3c1aa4a78a854e3e779dad"
+      }
+    }
+  },
+  {
+    "source_page": 16,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 16,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0016/attempts/0c10630cddf54c948b117b29a31bcc45/source.png",
+        "sha256": "5f0daa0b91dba54c12e2fd78bb6a8a9a6a203b348e41d40b2a7571eab8a52141"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0016/attempts/0c10630cddf54c948b117b29a31bcc45/ocr.tsv",
+        "sha256": "f260bf1aef6f89c88c914d0285384bb93b45bf7d700b4e3a39fa1a6da36e10bd"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0016/attempts/0c10630cddf54c948b117b29a31bcc45/ocr.txt",
+        "sha256": "2b3ced3bbea3f4466979248bfd7ab90281c403b76829550e2a6b57eb2cb7c680"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0016/attempts/0c10630cddf54c948b117b29a31bcc45/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 17,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 17,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0017/attempts/e1cc3d4c76c24429b644039587a2d3af/source.png",
+        "sha256": "d822d30497931e29b256fe1c8a2358d66e455cf1d45240d7f25515a8dc57f172"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0017/attempts/e1cc3d4c76c24429b644039587a2d3af/ocr.tsv",
+        "sha256": "0b7aa7853c98fb073b3662f52d9dd08d5706102fe8053ad045962eccb281a98e"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0017/attempts/e1cc3d4c76c24429b644039587a2d3af/ocr.txt",
+        "sha256": "f45b5f6d9873db272a9f2b82bfef4528b1a85abab312103f53c2e3bf3b518b36"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0017/attempts/e1cc3d4c76c24429b644039587a2d3af/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  },
+  {
+    "source_page": 18,
+    "identity": {
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 18,
+      "engine": {
+        "extractor_version": 1,
+        "versions": {
+          "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+          "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+        },
+        "traineddata": {
+          "eng": {
+            "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+            "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+          }
+        },
+        "settings": {
+          "language": "eng",
+          "dpi": 300,
+          "psm": 3,
+          "oem": 1,
+          "OMP_THREAD_LIMIT": "1",
+          "rotation_clockwise": 0,
+          "render_format": "png",
+          "render_grayscale": false
+        }
+      }
+    },
+    "artifacts": {
+      "image": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0018/attempts/9918d04826c241a3a74578418a6d72fb/source.png",
+        "sha256": "0bad80133fd6b2f2f4d056223b1c10cee0d66a05a2f8d207cbc3304a06f84282"
+      },
+      "tsv": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0018/attempts/9918d04826c241a3a74578418a6d72fb/ocr.tsv",
+        "sha256": "37d0d438bcc4652e4e00bb27a71acfe8c3886f4bbdaef330dad8e29b1cfb917a"
+      },
+      "text": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0018/attempts/9918d04826c241a3a74578418a6d72fb/ocr.txt",
+        "sha256": "a7a3d70e953cca011c199d81fca88953ba42bb9cbaf784f0a93f149b3e60af80"
+      },
+      "stderr": {
+        "path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0018/attempts/9918d04826c241a3a74578418a6d72fb/stderr.txt",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+      }
+    }
+  }
+]

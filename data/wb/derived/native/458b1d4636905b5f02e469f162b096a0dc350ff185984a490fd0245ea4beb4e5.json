@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "sha256": "458b1d4636905b5f02e469f162b096a0dc350ff185984a490fd0245ea4beb4e5",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "MMMMEEEEMMMMBBBBEEEERRRRSSSS OOOOFFFF TTTTHHHHRRRREEEEEEEE TTTTIIIIEEEERRRR PPPPAAAANNNNCCCCHHHHAAAAYYYYAAAATTTTIIII RRRRAAAAJJJJ BBBBOOOODDDDIIIIEEEESSSS\nMMMMeeeemmmmbbbbeeeerrrrssss ooooffff ZZZZiiiillllllllaaaa PPPPaaaarrrriiiisssshhhhaaaadddd 66660000 EEEElllleeeecccctttteeeedddd bbbbyyyy ZZZZiiiillllllllaaaa PPPPaaaarrrriiiisssshhhhaaaadddd\nMMMMPPPP 4444 EEEExxxx----OOOOffffffffiiiicccciiiioooo MMMMeeeemmmmbbbbeeeerrrr ZZZZiiiillllllllaaaa PPPPaaaarrrriiiisssshhhhaaaadddd\nMMMMLLLLAAAA 11114444 EEEExxxx----OOOOffffffffiiiicccciiiioooo MMMMeeeemmmmbbbbeeeerrrr ZZZZiiiillllllllaaaa PPPPaaaarrrriiiisssshhhhaaaadddd\nSSSSaaaabbbbhhhhaaaappppaaaattttiiiieeeessss ooooffff PPPPaaaannnncccchhhhaaaayyyyaaaatttt 22225555 EEEElllleeeecccctttteeeedddd bbbbyyyy PPPPaaaannnncccchhhhaaaayyyyaaaatttt SSSSaaaammmmiiiittttiiiieeeessss\nSSSSaaaammmmiiiittttiiiieeeessss",
+      "tables": [
+        {
+          "bbox": [
+            49.55928539999999,
+            193.08023460000004,
+            553.6797654,
+            374.76023460000005
+          ],
+          "rows": [
+            [
+              "MMMMeeeemmmmbbbbeeeerrrrssss ooooffff ZZZZiiiillllllllaaaa PPPPaaaarrrriiiisssshhhhaaaadddd",
+              "66660000",
+              "EEEElllleeeecccctttteeeedddd bbbbyyyy ZZZZiiiillllllllaaaa PPPPaaaarrrriiiisssshhhhaaaadddd"
+            ],
+            [
+              "MMMMPPPP",
+              "4444",
+              "EEEExxxx----OOOOffffffffiiiicccciiiioooo MMMMeeeemmmmbbbbeeeerrrr ZZZZiiiillllllllaaaa PPPPaaaarrrriiiisssshhhhaaaadddd"
+            ],
+            [
+              "MMMMLLLLAAAA",
+              "11114444",
+              "EEEExxxx----OOOOffffffffiiiicccciiiioooo MMMMeeeemmmmbbbbeeeerrrr ZZZZiiiillllllllaaaa PPPPaaaarrrriiiisssshhhhaaaadddd"
+            ],
+            [
+              "SSSSaaaabbbbhhhhaaaappppaaaattttiiiieeeessss ooooffff PPPPaaaannnncccchhhhaaaayyyyaaaatttt\nSSSSaaaammmmiiiittttiiiieeeessss",
+              "22225555",
+              "EEEElllleeeecccctttteeeedddd bbbbyyyy PPPPaaaannnncccchhhhaaaayyyyaaaatttt SSSSaaaammmmiiiittttiiiieeeessss"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1021
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 1
+}

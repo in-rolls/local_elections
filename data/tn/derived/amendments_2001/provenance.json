@@ -1,0 +1,421 @@
+{
+  "generated_utc": "2026-09-08T06:11:15.367410+00:00",
+  "source_path": "data/source_search/early_heads/raw/tn_1_58_2001_636_en.pdf",
+  "source_url": "https://tnrd.tn.gov.in/project/go_files/1_58_2001_636_en.pdf",
+  "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+  "base_source_sha256": "869ffacec087105967d17ee8f072fb417c76aae786d60ef06e63f1c6b88aec07",
+  "base_roster_applied": false,
+  "source_pdf_pages": 77,
+  "audited_pdf_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "gp_scope_pdf_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "extraction_method": "Manual source-image readings with independent named-entry review; separately preserved Tesseract evidence.",
+  "controls": {
+    "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+    "manual_readings_sha256": "21c6adf72c62b3c37f685338321e24f6eb3f6056cfba1d0b3503ef1327e4336b",
+    "gp_operations": 456,
+    "named_gp_operations": 451,
+    "operation_counts": {
+      "replace_section": 434,
+      "replace_category": 5,
+      "insert": 17
+    },
+    "replacement_sections": 16,
+    "context_operations": 20,
+    "clause_audit": [
+      {
+        "clause": "1",
+        "source_pages": [
+          1
+        ],
+        "status": "parsed_context",
+        "scope": "district_heading_renames"
+      },
+      {
+        "clause": "2",
+        "source_pages": [
+          1,
+          2
+        ],
+        "status": "parsed_all_gp_operations",
+        "scope": "gp_president"
+      },
+      {
+        "clause": "3",
+        "source_pages": [
+          2,
+          3
+        ],
+        "status": "parsed_all_gp_operations",
+        "scope": "gp_president"
+      },
+      {
+        "clause": "4",
+        "source_pages": [
+          3,
+          4
+        ],
+        "status": "parsed_all_gp_operations",
+        "scope": "gp_president"
+      },
+      {
+        "clause": "5",
+        "source_pages": [
+          4,
+          5
+        ],
+        "status": "parsed_all_gp_operations",
+        "scope": "gp_president"
+      },
+      {
+        "clause": "6",
+        "source_pages": [
+          6
+        ],
+        "status": "parsed_all_gp_operations",
+        "scope": "gp_president"
+      },
+      {
+        "clause": "7",
+        "source_pages": [
+          6,
+          7
+        ],
+        "status": "parsed_all_gp_operations",
+        "scope": "gp_president"
+      },
+      {
+        "clause": "8",
+        "source_pages": [
+          7
+        ],
+        "status": "parsed_all_gp_operations",
+        "scope": "gp_president"
+      },
+      {
+        "clause": "9",
+        "source_pages": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "status": "parsed_all_gp_operations",
+        "scope": "gp_president"
+      },
+      {
+        "clause": "10",
+        "source_pages": [
+          16
+        ],
+        "status": "parsed_all_gp_operations",
+        "scope": "gp_president"
+      },
+      {
+        "clause": "11",
+        "source_pages": [
+          16,
+          17
+        ],
+        "status": "reviewed_excluded_other_tier",
+        "scope": "union_chair"
+      },
+      {
+        "clause": "12",
+        "source_pages": [
+          17,
+          18
+        ],
+        "status": "reviewed_excluded_other_tier",
+        "scope": "district_chair"
+      }
+    ],
+    "unparsed_gp_clauses": [],
+    "unresolved_target_gp_names": 5,
+    "unresolved_source_name_readings": 0,
+    "independent_named_entries_reviewed": 451,
+    "independent_review_sha256": "fa660e697f80dd88764937ead72545cb403e3b19ce1bc402942c77e38f56b118",
+    "applied_to_1996_roster": false,
+    "complete_statewide_2001_roster": false,
+    "winner_name_or_sex_observed": false
+  },
+  "checks": {
+    "cli_export": "passed with source/image/review/OCR hash checks",
+    "pytest": "7 passed; tests/test_tn_amendments_2001.py",
+    "ruff": "format and check passed for owned parser and tests",
+    "dictionary_matches_main_table": true
+  },
+  "artifacts": [
+    {
+      "path": "data/tn/derived/amendments_2001/README.md",
+      "bytes": 4139,
+      "sha256": "7b73fb2738e877716187e592f7a25a27db5afad4eda715e777b12deed4585e80"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/context_operations.csv",
+      "bytes": 9863,
+      "sha256": "bbfb4c0d94b3bf7444a2e268c55b92d33c95471c7356bb2bad1f9ed2b44b4607"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/context_operations.jsonl",
+      "bytes": 15231,
+      "sha256": "b25ce0ebd45b76fa4c3f1e3de0252d484473c61a1dde327a4d8f934beff8d015"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/context_operations.parquet",
+      "bytes": 7029,
+      "sha256": "8d6f49320ba0a9d9843097e5bfe1c9cadb8505d71a61185fc500fa97d91b96d2"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/data_dictionary.csv",
+      "bytes": 2553,
+      "sha256": "592eb5102212497e3ff37fd500422cb8a84cbfcf2261e519540599e5fed06695"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/data_dictionary.json",
+      "bytes": 4669,
+      "sha256": "0499abf9b28f73f7b7f242b1e13113c9e14f7efbad448406d56513bf6b3f54ae"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/gp_president_amendment_operations.csv",
+      "bytes": 270840,
+      "sha256": "7ee599972d8e98a08118339522d88a20189b0b59a192bc87e07b6d78bc3efccf"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/gp_president_amendment_operations.jsonl",
+      "bytes": 540865,
+      "sha256": "66b5f8ccf5ab88441f7b256ed5aecd5091de102772d682ede37f17716350f07a"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/gp_president_amendment_operations.parquet",
+      "bytes": 32326,
+      "sha256": "1941ab7b5b0a0dc67d7ff6e35d0e9de5c180e60c399d5cb761d49c0b30f3f39c"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/independent_name_review.json",
+      "bytes": 707214,
+      "sha256": "fa660e697f80dd88764937ead72545cb403e3b19ce1bc402942c77e38f56b118"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/machine_ocr_provenance.json",
+      "bytes": 41529,
+      "sha256": "bfb09a42817e42a2c14f476e05d8af818314b6757573c285261f8c1f0c49df4e"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/manual_readings.json",
+      "bytes": 212539,
+      "sha256": "21c6adf72c62b3c37f685338321e24f6eb3f6056cfba1d0b3503ef1327e4336b"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/page_audit.csv",
+      "bytes": 6478,
+      "sha256": "c7052f2e6786ce756f61d4d3f8b54eae8355dc3ff929b7b0d7b8c1483284dfb6"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/page_audit.jsonl",
+      "bytes": 8191,
+      "sha256": "bda56160a639f72a1201d3ea4bd85035ec9729b70aed528ebdab00401c74fad3"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/page_audit.parquet",
+      "bytes": 4675,
+      "sha256": "6387efe13c739fa53fb79c435c411a83b51d2601b0c19794d8ff7a0428a8073f"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/replacement_section_counts.csv",
+      "bytes": 4345,
+      "sha256": "fa60be92827cf61a2f954d77f70178e442f8f09eabc95123e042716b2203ed43"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/replacement_section_counts.jsonl",
+      "bytes": 7266,
+      "sha256": "519e198360e5dd8392004f4fd5303170e0aa7c0ea4efa01a7a20f3df06ff25d4"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/replacement_section_counts.parquet",
+      "bytes": 4887,
+      "sha256": "816244510190827fa502f5aa1c380726e235b6b5dd26ad07f3cd9554e27e335d"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/check-katagaram.png",
+      "bytes": 156951,
+      "sha256": "9ca6d282c5c2c5c4341a9742ec805ef00e9043c9356a963ed91d56c8c387d76e"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/check-names-11.png",
+      "bytes": 377960,
+      "sha256": "d4c703a683a2336da8854b8aa78b8019a19c2b20542f2f14d9bc222330d5429d"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/check-names-12.png",
+      "bytes": 249763,
+      "sha256": "f5c109d715d6daca8e28992ad7abfa89d75304caa8113397bee674978f1b9e15"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/check-names-13.png",
+      "bytes": 425910,
+      "sha256": "b43ed9a346e54c0ecf0372f06f0e440b07454650c4862adea4011ffa3748c2e3"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/check-names-14.png",
+      "bytes": 205879,
+      "sha256": "dfb65fa517a8061270c8ead24772203b6611359f16608b172145b60b91a53442"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/check-names-16.png",
+      "bytes": 165014,
+      "sha256": "5bb332486aa006d590c36ba0ca909b24b1ea14bc2cf4344001224abc8e5533ab"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/check-names-3.png",
+      "bytes": 429132,
+      "sha256": "a83e6568c6d523450d4f2b2d623ebc3e65b6a9a73a15a2faddc807f9f8a723b6"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/check-names-8.png",
+      "bytes": 358069,
+      "sha256": "b12bd3282606beccc73c1b955f3352389ac1d3ab06f7ccca8459ac7b78183a65"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/ocr_name_disagreements.json",
+      "bytes": 46693,
+      "sha256": "f00a31fb6e02f232c26d8f88e7028418eb5c1d0a2a8c02c0d6a707b94ad30ff8"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-1.png",
+      "bytes": 1336086,
+      "sha256": "cb9260e72b08c321f6276db87187f5818c4d0586df01cba37289d55727aca920"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-10.png",
+      "bytes": 891383,
+      "sha256": "ed06e6ed14e4c9fae5ddd35decb140dc65e6cf99559b8d3b6c94c09c1e34ab24"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-11.png",
+      "bytes": 1037212,
+      "sha256": "2ef628035c2abcab356ca8d86af1de2984f266da6c2ba3bea093944b3f4d2a2f"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-12.png",
+      "bytes": 1098666,
+      "sha256": "ac5d919bb0f8e93ce9f17c938507fd62ffb71769ded7fa5720b51b66f3e957dc"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-13.png",
+      "bytes": 1327199,
+      "sha256": "64af6efeae6e828e2ff242b066adca9a4fe6d380fd12444c634bc3e2c6718096"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-14.png",
+      "bytes": 1148802,
+      "sha256": "1171e070bdb6dd8e852fd8e5d162b91bb61e08c286037cbe39e51118236132c3"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-15.png",
+      "bytes": 1206090,
+      "sha256": "f72b849bcbc0b7a4ba941cb8eef1c73f159a03ef35d1a473ae58b51a0f43ca4f"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-16.png",
+      "bytes": 990174,
+      "sha256": "48482c0a26f3b6cc94f6ce11217311bd2a88676b016d6e10bd72b491edad9d3b"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-2.png",
+      "bytes": 1098703,
+      "sha256": "f5d12bca15850504d8a57c4bc6306e820977533e82193054ca56b8ad4f3d5088"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-3.png",
+      "bytes": 1027200,
+      "sha256": "eb1374e86fbfad896c22fb7bd8c63bba8e4fdbe135fc873a2bed6660a8d41708"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-4.png",
+      "bytes": 928330,
+      "sha256": "b0597caf0b802dc0a5afb7a6f8bb25d3dbfa1ae841f3cd4e1fa3cc34352760e6"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-5.png",
+      "bytes": 1128999,
+      "sha256": "ce4ad5ea4fbb00f5e246b2eba0b36efb4264af99ec7446faccd28d4d0876bffe"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-6.png",
+      "bytes": 1047360,
+      "sha256": "8b254a56b875f4114d72ad159da939ce6b824fb2aed7f7f55b1297f85aad8f7b"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-7.png",
+      "bytes": 1128788,
+      "sha256": "26c1956b31fd34186d8008d4197dc516107f9ecf75fa9ac71c41aea80e8074fc"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-8.png",
+      "bytes": 1126777,
+      "sha256": "cb68e8592355a147cfe012936a1a1ae4339808f280633a363b9d1ca28090ccc8"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/review/page-9.png",
+      "bytes": 1079994,
+      "sha256": "c22d5f291b0f4798b2c848ae620e1aed819c58784d7a811ece4260191efbc764"
+    },
+    {
+      "path": "data/tn/derived/amendments_2001/verification.json",
+      "bytes": 2803,
+      "sha256": "8b201058b838edf03f554b22f460dfcadfd51014885c0cd46b9dca7be61a12cc"
+    },
+    {
+      "path": "src/local_reservations/states/tn/parse_amendments_2001.py",
+      "bytes": 13948,
+      "sha256": "6b51ed25ed2f45480bc73c0c54b9bf2970dd6b2e1e802a032219acd2dbd66139"
+    },
+    {
+      "path": "tests/test_tn_amendments_2001.py",
+      "bytes": 4458,
+      "sha256": "243aa0e15ecf8b841f9bc8512951269522a321462090a0f652d9e1989d9c266e"
+    }
+  ]
+}

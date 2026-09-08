@@ -1,0 +1,3225 @@
+{
+  "version": 1,
+  "sha256": "7ad8f4b1d88effc2ab1ec8f56bdf23a7b96d2d14f8691dddb6d4a13f294c7e15",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "GOVERNMENT OF WEST BENGAL\nOFFICE OF THE DISTRICT MAGISTRATE\nCOOCHBEHAR\n[FROM B]\n[See rule 25(1) ]\nORDER\nNo.: PRD/1154 Dated: 15/11/2017\nIn exercise of the power conferred by sections 14 and 17 of the West Bengal Panchayat Election Act, 2003 (West Ben. Act XXI of 2003), read with rules 24 and 25 of the West\nBengal Panchayat Election Rules, 2006, I, the District Panchayat Election Officer and District Magistrate of the District of Cooch Behar, as the prescribed authority appointed\nby the State Government in the Department of Panchayats and Rural Development under notification No 623-PN/O/I/3R-3/2004, dated Kolkata, the 9th February, 2007 for the\npurpose of rules 24 and 25 of the said rules, hareby publish the draft of this order to determine for the Grams specified in column (1) of the schedule below, the number of\nmembers to be elected to the Panchayat Samiti specified in the corresponding entries in column (2) , to divide the area of the Grams into constituencies specified in the\ncorresponding entries in column (3) & (4), constituency or constituencies reserved for the scheduled Castes or the Schedule Tribes or the Backward Classes persons specified\nin the corresponding entries in column (5), and constituency or constituencies reserved for woman specified in the corresponding entries in column (6) of the said schedule,\nfor information of persons likely to be affected thereby.\nThe draft will be taken up for consideration after fifteen days from this day and any objection or suggestion with respect thereto, which may be received by the undersigned\nwithin the said period, shall be duly considered.\nPage:1 of total 16 pages",
+      "tables": [],
+      "images": 1,
+      "characters": 1667
+    },
+    {
+      "page": 2,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "The Schedule\nBLOCK: COOCHBEHAR - I\nPANCHAYAT SAMITI: COOCHBEHAR - I PANCHAYAT SAMITI\nNumber of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\nMoamari/I 4/1\nMoamari/II 4/2\nMoamari/PS-1\nMoamari/III 4/3 - 1 W\nMoamari/IV 4/4\nMoamari/V 4/5\nMoamari/VI 4/6\nMoamari/PS-2\nMoamari 3 4/7\nMoamari/VII - 2 W\n4/8\nMoamari/VIII 4/9\nMoamari/IX 4/10\nMoamari/PS-3 Moamari/X 4/11\n3 BC -\nMoamari/XI 4/12\nMoamari/XII 4/13\nPage:2 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            73.38000000000005,
+            779.4600149999999,
+            338.049985
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "Moamari",
+              "3",
+              "Moamari/PS-1",
+              "Moamari/I",
+              "4/1",
+              "-",
+              "1 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Moamari/II",
+              "4/2",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Moamari/III",
+              "4/3",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Moamari/IV",
+              "4/4",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Moamari/PS-2",
+              "Moamari/V",
+              "4/5",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Moamari/VI",
+              "4/6",
+              "-",
+              "2 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Moamari/VII",
+              "4/7",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/8",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Moamari/PS-3",
+              "Moamari/VIII",
+              "4/9",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Moamari/IX",
+              "4/10",
+              "3 BC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Moamari/X",
+              "4/11",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Moamari/XI",
+              "4/12",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Moamari/XII",
+              "4/13",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 725
+    },
+    {
+      "page": 3,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\nChilkirhat/I 4/14\nChilkirhat/II 4/15\nChilkirhat/III 4/16\nChilkirhat/PS-4 4 SC 4 W\nChilkirhat/IV 4/17\nChilkirhat/V 4/18\nChilkirhat/VI 4/19\nChilkirhat/VII 4/20\n4/21\nChilkirhat/VIII\nChilkirhat/PS-5 4/22 5 SC -\nChilkirhat 3\nChilkirhat/IX 4/23\nChilkirhat/X 4/24\n4/25\nChilkirhat/XI\n4/26\nChilkirhat/XII 4/27\nChilkirhat/PS-6 Chilkirhat/XIII 4/28 6 SC 6 W\nChilkirhat/XIV 4/29\nChilkirhat/XV 4/30\nChilkirhat/XVI 4/31\nPage:3 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            348.9700000000001
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "Chilkirhat",
+              "3",
+              "Chilkirhat/PS-4",
+              "Chilkirhat/I",
+              "4/14",
+              "4 SC",
+              "4 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/II",
+              "4/15",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/III",
+              "4/16",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/IV",
+              "4/17",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/V",
+              "4/18",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/VI",
+              "4/19",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Chilkirhat/PS-5",
+              "Chilkirhat/VII",
+              "4/20",
+              "5 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/VIII",
+              "4/21",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/22",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/IX",
+              "4/23",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/X",
+              "4/24",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Chilkirhat/PS-6",
+              "Chilkirhat/XI",
+              "4/25",
+              "6 SC",
+              "6 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/26",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/XII",
+              "4/27",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/XIII",
+              "4/28",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/XIV",
+              "4/29",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/XV",
+              "4/30",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilkirhat/XVI",
+              "4/31",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 779
+    },
+    {
+      "page": 4,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\n4/32\nFalimari/I\n4/33\nFalimari/II 4/34\nFalimari/PS-7 7 SC -\nFalimari/III 4/35\nFalimari/IV 4/36\nFalimari/XI 4/45\nFalimari/V 4/37\nFalimari/VI 4/38\nFalimari/VII 4/39\nFalimari/VIII 4/40\nFalimari/PS-8 8 SC 8 W\nFalimari 3 4/41\nFalimari/IX\n4/42\n4/43\nFalimari/X\n4/44\nFalimari/XII 4/46\nFalimari/XIII 4/47\nFalimari/XIV 4/48\nFalimari/PS-9 Falimari/XV 4/49 - 9 W\nFalimari/XVI 4/50\n4/51\nFalimari/XVII\n4/52\nPage:4 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            390.7300000000001
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "Falimari",
+              "3",
+              "Falimari/PS-7",
+              "Falimari/I",
+              "4/32",
+              "7 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/33",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/II",
+              "4/34",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/III",
+              "4/35",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/IV",
+              "4/36",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/XI",
+              "4/45",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Falimari/PS-8",
+              "Falimari/V",
+              "4/37",
+              "8 SC",
+              "8 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/VI",
+              "4/38",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/VII",
+              "4/39",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/VIII",
+              "4/40",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/IX",
+              "4/41",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/42",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/X",
+              "4/43",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/44",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Falimari/PS-9",
+              "Falimari/XII",
+              "4/46",
+              "-",
+              "9 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/XIII",
+              "4/47",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/XIV",
+              "4/48",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/XV",
+              "4/49",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/XVI",
+              "4/50",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Falimari/XVII",
+              "4/51",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/52",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 761
+    },
+    {
+      "page": 5,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\n4/53\nChandamari/I\n4/54\nChandamari/II 4/55\nChandamari/PS-10 Chandamari/III 4/56 10 SC -\n4/59\nChandamari/VI\n4/60\nChandamari/XII 4/66\nChandamari/IV 4/57\nChandamari/V 4/58\nChandamari 3 Chandamari/PS-11 Chandamari/VII 4/61 - -\nChandamari/VIII 4/62\nChandamari/IX 4/63\nChandamari/X 4/64\nChandamari/XI 4/65\n4/67\nChandamari/XIII\nChandamari/PS-12 4/68 12 SC 12 W\nChandamari/XIV 4/69\nChandamari/XV 4/70\nChandamari/XVI 4/71\nPage:5 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            362.89000000000004
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "Chandamari",
+              "3",
+              "Chandamari/PS-10",
+              "Chandamari/I",
+              "4/53",
+              "10 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/54",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/II",
+              "4/55",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/III",
+              "4/56",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/VI",
+              "4/59",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/60",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/XII",
+              "4/66",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Chandamari/PS-11",
+              "Chandamari/IV",
+              "4/57",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/V",
+              "4/58",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/VII",
+              "4/61",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/VIII",
+              "4/62",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/IX",
+              "4/63",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Chandamari/PS-12",
+              "Chandamari/X",
+              "4/64",
+              "12 SC",
+              "12 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/XI",
+              "4/65",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/XIII",
+              "4/67",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/68",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/XIV",
+              "4/69",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/XV",
+              "4/70",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chandamari/XVI",
+              "4/71",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 784
+    },
+    {
+      "page": 6,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\nPutimari Fuleswari/I 4/72\nPutimari Fuleswari/II 4/73\nPutimari Fuleswari/III 4/74\nPutimari Fuleswari/PS-13 Putimari Fuleswari/XI 4/84 13 SC -\nPutimari Fuleswari/XII 4/85\nPutimari Fuleswari/XIII 4/86\nPutimari Fuleswari/XIV 4/87\nPutimari Fuleswari/IV 4/75\n4/76\nPutimari Fuleswari/V\nPutimari\n4/77\n3\nFuleswari Putimari Fuleswari/PS-14 4/80 14 SC 14 W\nPutimari Fuleswari/VIII\n4/81\nPutimari Fuleswari/IX 4/82\nPutimari Fuleswari/X 4/83\nPutimari Fuleswari/VI 4/78\nPutimari Fuleswari/VII 4/79\nPutimari Fuleswari/XV 4/88\nPutimari Fuleswari/PS-15 15 SC -\nPutimari Fuleswari/XVI 4/89\n4/90\nPutimari Fuleswari/XVII\n4/91\nPage:6 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            376.81000000000006
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "Putimari\nFuleswari",
+              "3",
+              "Putimari Fuleswari/PS-13",
+              "Putimari Fuleswari/I",
+              "4/72",
+              "13 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/II",
+              "4/73",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/III",
+              "4/74",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/XI",
+              "4/84",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/XII",
+              "4/85",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/XIII",
+              "4/86",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/XIV",
+              "4/87",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Putimari Fuleswari/PS-14",
+              "Putimari Fuleswari/IV",
+              "4/75",
+              "14 SC",
+              "14 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/V",
+              "4/76",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/77",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/VIII",
+              "4/80",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/81",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/IX",
+              "4/82",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/X",
+              "4/83",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Putimari Fuleswari/PS-15",
+              "Putimari Fuleswari/VI",
+              "4/78",
+              "15 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/VII",
+              "4/79",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/XV",
+              "4/88",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/XVI",
+              "4/89",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari Fuleswari/XVII",
+              "4/90",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/91",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 975
+    },
+    {
+      "page": 7,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\n4/92\nPatchhara/I\n4/93\nPatchhara/II 4/94\nPatchhara/PS-16 - 16 W\nPatchhara/III 4/95\nPatchhara/IV 4/96\nPatchhara/V 4/97\nPatchhara/VI 4/98\nPatchhara/VII 4/99\nPatchhara 3 4/105\nPatchhara/PS-17 Patchhara/XIII - 17 W\n4/106\n4/107\nPatchhara/XIV\n4/108\nPatchhara/VIII 4/100\nPatchhara/IX 4/101\nPatchhara/PS-18 Patchhara/X 4/102 18 SC 18 W\nPatchhara/XI 4/103\nPatchhara/XII 4/104\nPage:7 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            335.049985
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "Patchhara",
+              "3",
+              "Patchhara/PS-16",
+              "Patchhara/I",
+              "4/92",
+              "-",
+              "16 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/93",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patchhara/II",
+              "4/94",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patchhara/III",
+              "4/95",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patchhara/IV",
+              "4/96",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patchhara/V",
+              "4/97",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Patchhara/PS-17",
+              "Patchhara/VI",
+              "4/98",
+              "-",
+              "17 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patchhara/VII",
+              "4/99",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patchhara/XIII",
+              "4/105",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/106",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patchhara/XIV",
+              "4/107",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/108",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Patchhara/PS-18",
+              "Patchhara/VIII",
+              "4/100",
+              "18 SC",
+              "18 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patchhara/IX",
+              "4/101",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patchhara/X",
+              "4/102",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patchhara/XI",
+              "4/103",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patchhara/XII",
+              "4/104",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 742
+    },
+    {
+      "page": 8,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\n4/109\nHaribhanga/I\n4/110\nHaribhanga/II 4/111\nHaribhanga/III 4/112\nHaribhanga/PS-19 - 19 W\nHaribhanga/IV 4/113\nHaribhanga/XI 4/120\nHaribhanga/XII 4/121\nHaribhanga/XIII 4/122\nHaribhanga/V 4/114\nHaribhanga/VI 4/115\nHaribhanga 3 Haribhanga/VII 4/116\nHaribhanga/PS-20 20 SC -\nHaribhanga/VIII 4/117\nHaribhanga/IX 4/118\nHaribhanga/X 4/119\nHaribhanga/XIV 4/123\nHaribhanga/XV 4/124\n4/125\nHaribhanga/XVI\nHaribhanga/PS-21 4/126 21 SC 21 W\nHaribhanga/XVII 4/127\nHaribhanga/XVIII 4/128\nHaribhanga/XIX 4/129\nPage:8 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            390.7300000000001
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "Haribhanga",
+              "3",
+              "Haribhanga/PS-19",
+              "Haribhanga/I",
+              "4/109",
+              "-",
+              "19 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/110",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/II",
+              "4/111",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/III",
+              "4/112",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/IV",
+              "4/113",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/XI",
+              "4/120",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/XII",
+              "4/121",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/XIII",
+              "4/122",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Haribhanga/PS-20",
+              "Haribhanga/V",
+              "4/114",
+              "20 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/VI",
+              "4/115",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/VII",
+              "4/116",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/VIII",
+              "4/117",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/IX",
+              "4/118",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/X",
+              "4/119",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Haribhanga/PS-21",
+              "Haribhanga/XIV",
+              "4/123",
+              "21 SC",
+              "21 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/XV",
+              "4/124",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/XVI",
+              "4/125",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/126",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/XVII",
+              "4/127",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/XVIII",
+              "4/128",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Haribhanga/XIX",
+              "4/129",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 861
+    },
+    {
+      "page": 9,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\n4/130\nSuktabari/I\n4/131\n4/132\nSuktabari/PS-22 Suktabari/II - -\n4/133\nSuktabari/VII 4/139\nSuktabari/VIII 4/140\n4/134\nSuktabari/III\n4/135\nSuktabari/IV 4/136\nSuktabari 3 Suktabari/PS-23 Suktabari/IX 4/141 - 23 W\nSuktabari/X 4/142\nSuktabari/XI 4/143\nSuktabari/XII 4/144\nSuktabari/V 4/137\nSuktabari/VI 4/138\n4/145\nSuktabari/PS-24 Suktabari/XIII - -\n4/146\nSuktabari/XIV 4/147\nSuktabari/XV 4/148\nPage:9 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            362.89000000000004
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "Suktabari",
+              "3",
+              "Suktabari/PS-22",
+              "Suktabari/I",
+              "4/130",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/131",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Suktabari/II",
+              "4/132",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/133",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Suktabari/VII",
+              "4/139",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Suktabari/VIII",
+              "4/140",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Suktabari/PS-23",
+              "Suktabari/III",
+              "4/134",
+              "-",
+              "23 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/135",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Suktabari/IV",
+              "4/136",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Suktabari/IX",
+              "4/141",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Suktabari/X",
+              "4/142",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Suktabari/XI",
+              "4/143",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Suktabari/XII",
+              "4/144",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Suktabari/PS-24",
+              "Suktabari/V",
+              "4/137",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Suktabari/VI",
+              "4/138",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Suktabari/XIII",
+              "4/145",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/146",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Suktabari/XIV",
+              "4/147",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Suktabari/XV",
+              "4/148",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 762
+    },
+    {
+      "page": 10,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\nGhughumari/I 4/149\nGhughumari/II 4/150\nGhughumari/III 4/151\nGhughumari/PS-25 Ghughumari/IV 4/152 25 BC -\nGhughumari/V 4/153\nGhughumari/VI 4/154\nGhughumari/VII 4/155\nGhughumari/VIII 4/156\nGhughumari/IX 4/157\nGhughumari/X 4/158\nGhughumari/XI 4/159\nGhughumari 3\nGhughumari/PS-26 Ghughumari/XII 4/160 - 26 W\nGhughumari/XIII 4/161\nGhughumari/XIV 4/162\n4/163\nGhughumari/XV\n4/164\nGhughumari/XVI 4/165\nGhughumari/XVII 4/166\n4/167\nGhughumari/XVIII\nGhughumari/PS-27 4/168 - -\nGhughumari/XIX 4/169\nGhughumari/XX 4/170\nGhughumari/XXI 4/171\nPage:10 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            403.2100000000001
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "Ghughumari",
+              "3",
+              "Ghughumari/PS-25",
+              "Ghughumari/I",
+              "4/149",
+              "25 BC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/II",
+              "4/150",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/III",
+              "4/151",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/IV",
+              "4/152",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/V",
+              "4/153",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/VI",
+              "4/154",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/VII",
+              "4/155",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Ghughumari/PS-26",
+              "Ghughumari/VIII",
+              "4/156",
+              "-",
+              "26 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/IX",
+              "4/157",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/X",
+              "4/158",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/XI",
+              "4/159",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/XII",
+              "4/160",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/XIII",
+              "4/161",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/XIV",
+              "4/162",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/XV",
+              "4/163",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/164",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Ghughumari/PS-27",
+              "Ghughumari/XVI",
+              "4/165",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/XVII",
+              "4/166",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/XVIII",
+              "4/167",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "4/168",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/XIX",
+              "4/169",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/XX",
+              "4/170",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Ghughumari/XXI",
+              "4/171",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 892
+    },
+    {
+      "page": 11,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\nDAWAGURI/I 8/109\nDAWAGURI/II 8/110\nDAWAGURI/III 8/111\nDAWAGURI/PS-28 8/112 28 SC 28 W\nDAWAGURI/IV\n8/113\n8/114\nDAWAGURI/V\n8/115\nDAWAGURI/VI 8/116\nDAWAGURI/VII 8/117\n8/118\nDAWAGURI 3 DAWAGURI/PS-29 DAWAGURI/VIII 29 SC -\n8/119\n8/120\nDAWAGURI/IX\n8/121\nDAWAGURI/X 8/122\nDAWAGURI/XI 8/123\n8/124\nDAWAGURI/XII\nDAWAGURI/PS-30 8/125 30 SC 30 W\nDAWAGURI/XIII 8/126\nDAWAGURI/XIV 8/127\nDAWAGURI/XV 8/128\nPage:11 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            357.61000000000007
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "DAWAGURI",
+              "3",
+              "DAWAGURI/PS-28",
+              "DAWAGURI/I",
+              "8/109",
+              "28 SC",
+              "28 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "DAWAGURI/II",
+              "8/110",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DAWAGURI/III",
+              "8/111",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DAWAGURI/IV",
+              "8/112",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/113",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DAWAGURI/V",
+              "8/114",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/115",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DAWAGURI/PS-29",
+              "DAWAGURI/VI",
+              "8/116",
+              "29 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "DAWAGURI/VII",
+              "8/117",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DAWAGURI/VIII",
+              "8/118",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/119",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DAWAGURI/IX",
+              "8/120",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/121",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DAWAGURI/PS-30",
+              "DAWAGURI/X",
+              "8/122",
+              "30 SC",
+              "30 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "DAWAGURI/XI",
+              "8/123",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DAWAGURI/XII",
+              "8/124",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/125",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DAWAGURI/XIII",
+              "8/126",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DAWAGURI/XIV",
+              "8/127",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DAWAGURI/XV",
+              "8/128",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 764
+    },
+    {
+      "page": 12,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\nGURIAHATI - I/I 8/129\nGURIAHATI - I/II 8/130\n8/131\nGURIAHATI - I/III\nGURIAHATI - I/PS-31 8/132 - 31 W\n8/133\nGURIAHATI - I/IV\n8/134\nGURIAHATI - I/XIV 8/145\nGURIAHATI - I/V 8/135\nGURIAHATI - I/VI 8/136\nGURIAHATI - I 3\nGURIAHATI - I/VII 8/137\nGURIAHATI - I/PS-32 - 32 W\nGURIAHATI - I/VIII 8/138\nGURIAHATI - I/IX 8/139\nGURIAHATI - I/X 8/140\nGURIAHATI - I/XI 8/141\nGURIAHATI - I/XII 8/142\nGURIAHATI - I/PS-33 8/143 - -\nGURIAHATI - I/XIII\n8/144\nGURIAHATI - I/XV 8/146\nPage:12 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            331.69000000000005
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "GURIAHATI - I",
+              "3",
+              "GURIAHATI - I/PS-31",
+              "GURIAHATI - I/I",
+              "8/129",
+              "-",
+              "31 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - I/II",
+              "8/130",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - I/III",
+              "8/131",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/132",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - I/IV",
+              "8/133",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/134",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - I/XIV",
+              "8/145",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "GURIAHATI - I/PS-32",
+              "GURIAHATI - I/V",
+              "8/135",
+              "-",
+              "32 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - I/VI",
+              "8/136",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - I/VII",
+              "8/137",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - I/VIII",
+              "8/138",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - I/IX",
+              "8/139",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - I/X",
+              "8/140",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "GURIAHATI - I/PS-33",
+              "GURIAHATI - I/XI",
+              "8/141",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - I/XII",
+              "8/142",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - I/XIII",
+              "8/143",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/144",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - I/XV",
+              "8/146",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 837
+    },
+    {
+      "page": 13,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\n8/147\nGURIAHATI - II/I\n8/148\nGURIAHATI - II/II 8/149\nGURIAHATI - II/PS-34 - 34 W\nGURIAHATI - II/III 8/150\nGURIAHATI - II/VIII 8/156\nGURIAHATI - II/IX 8/157\n8/151\nGURIAHATI - II/IV\n8/152\nGURIAHATI - II/V 8/153\nGURIAHATI - II/PS-35 - -\nGURIAHATI - II 3 GURIAHATI - II/VI 8/154\nGURIAHATI - II/VII 8/155\nGURIAHATI - II/X 8/158\nGURIAHATI - II/XI 8/159\nGURIAHATI - II/XII 8/160\nGURIAHATI - II/XIII 8/161\nGURIAHATI - II/PS-36 GURIAHATI - II/XIV 8/162 36 BC -\nGURIAHATI - II/XV 8/163\nGURIAHATI - II/XVI 8/164\nGURIAHATI - II/XVII 8/165\nPage:13 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            348.37000000000006
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "GURIAHATI - II",
+              "3",
+              "GURIAHATI - II/PS-34",
+              "GURIAHATI - II/I",
+              "8/147",
+              "-",
+              "34 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/148",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/II",
+              "8/149",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/III",
+              "8/150",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/VIII",
+              "8/156",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/IX",
+              "8/157",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "GURIAHATI - II/PS-35",
+              "GURIAHATI - II/IV",
+              "8/151",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/152",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/V",
+              "8/153",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/VI",
+              "8/154",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/VII",
+              "8/155",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/X",
+              "8/158",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "GURIAHATI - II/PS-36",
+              "GURIAHATI - II/XI",
+              "8/159",
+              "36 BC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/XII",
+              "8/160",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/XIII",
+              "8/161",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/XIV",
+              "8/162",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/XV",
+              "8/163",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/XVI",
+              "8/164",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "GURIAHATI - II/XVII",
+              "8/165",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 899
+    },
+    {
+      "page": 14,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\n8/166\nPANISALA/I\n8/167\nPANISALA/II 8/168\nPANISALA/PS-37 37 BC 37 W\nPANISALA/III 8/169\nPANISALA/V 8/171\nPANISALA/VI 8/172\nPANISALA/IV 8/170\nPANISALA/VII 8/173\nPANISALA/VIII 8/174\nPANISALA/PS-38 - -\nPANISALA 3 PANISALA/IX 8/175\nPANISALA/X 8/176\nPANISALA/XI 8/177\n8/178\nPANISALA/XII\n8/179\nPANISALA/XIII 8/180\nPANISALA/PS-39 PANISALA/XIV 8/181 - -\nPANISALA/XV 8/182\nPANISALA/XVI 8/183\nPANISALA/XVII 8/184\nPage:14 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            344.65000000000003
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "PANISALA",
+              "3",
+              "PANISALA/PS-37",
+              "PANISALA/I",
+              "8/166",
+              "37 BC",
+              "37 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/167",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/II",
+              "8/168",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/III",
+              "8/169",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/V",
+              "8/171",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/VI",
+              "8/172",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "PANISALA/PS-38",
+              "PANISALA/IV",
+              "8/170",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/VII",
+              "8/173",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/VIII",
+              "8/174",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/IX",
+              "8/175",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/X",
+              "8/176",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/XI",
+              "8/177",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "PANISALA/PS-39",
+              "PANISALA/XII",
+              "8/178",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/179",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/XIII",
+              "8/180",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/XIV",
+              "8/181",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/XV",
+              "8/182",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/XVI",
+              "8/183",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PANISALA/XVII",
+              "8/184",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 773
+    },
+    {
+      "page": 15,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\nDEWANHAT/I 8/185\nDEWANHAT/II 8/186\nDEWANHAT/V 8/190\nDEWANHAT/PS-40 DEWANHAT/VI 8/191 - -\nDEWANHAT/VII 8/192\nDEWANHAT/VIII 8/193\nDEWANHAT/IX 8/194\nDEWANHAT/III 8/187\n8/188\nDEWANHAT 3 DEWANHAT/IV\nDEWANHAT/PS-41 8/189 - -\nDEWANHAT/XVI 8/201\nDEWANHAT/XVII 8/202\nDEWANHAT/X 8/195\nDEWANHAT/XI 8/196\nDEWANHAT/XII 8/197\nDEWANHAT/PS-42 42 SC -\nDEWANHAT/XIII 8/198\nDEWANHAT/XIV 8/199\nDEWANHAT/XV 8/200\nPage:15 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            326.8900000000001
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "DEWANHAT",
+              "3",
+              "DEWANHAT/PS-40",
+              "DEWANHAT/I",
+              "8/185",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/II",
+              "8/186",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/V",
+              "8/190",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/VI",
+              "8/191",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/VII",
+              "8/192",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/VIII",
+              "8/193",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/IX",
+              "8/194",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DEWANHAT/PS-41",
+              "DEWANHAT/III",
+              "8/187",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/IV",
+              "8/188",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/189",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/XVI",
+              "8/201",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/XVII",
+              "8/202",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DEWANHAT/PS-42",
+              "DEWANHAT/X",
+              "8/195",
+              "42 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/XI",
+              "8/196",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/XII",
+              "8/197",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/XIII",
+              "8/198",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/XIV",
+              "8/199",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANHAT/XV",
+              "8/200",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 765
+    },
+    {
+      "page": 16,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "Number of Number, name and area of the Constituency\nConstituency reserved for Constituency\nmembers to be\nArea of the Constituency Assembly Scheduled Castes, reserved for women\nName of the Gram elected to the Scheduled Tribes and\nPanchayat Name of the Constituency (Panchayat Constituency Electroral Roll Backward Classes persons showing Serial\nNo.) Part No showing serial Numbers Number.\nSamiti\n1 2 3 4 5\nJIRANPUR/I 8/203\nJIRANPUR/II 8/204\nJIRANPUR/PS-43 - -\n8/205\nJIRANPUR/III\n8/206\nJIRANPUR/IV 8/207\nJIRANPUR/V 8/208\nJIRANPUR 3 JIRANPUR/PS-44 JIRANPUR/VI 8/209 - -\nJIRANPUR/VII 8/210\nJIRANPUR/VIII 8/211\nJIRANPUR/IX 8/212\nJIRANPUR/X 8/213\nJIRANPUR/PS-45 45 SC 45 W\nJIRANPUR/XI 8/214\nJIRANPUR/XII 8/215\nPage:16 of total 16 pages",
+      "tables": [
+        {
+          "bbox": [
+            54.324000000000005,
+            14.699999999999989,
+            779.4600149999999,
+            266.87
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number, name and area of the Constituency",
+              null,
+              null,
+              "Constituency reserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes persons\nshowing serial Numbers",
+              "Constituency\nreserved for women\nshowing Serial\nNumber."
+            ],
+            [
+              null,
+              null,
+              "Name of the Constituency",
+              "Area of the Constituency\n(Panchayat Constituency\nNo.)",
+              "Assembly\nElectroral Roll\nPart No",
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5"
+            ],
+            [
+              "JIRANPUR",
+              "3",
+              "JIRANPUR/PS-43",
+              "JIRANPUR/I",
+              "8/203",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "JIRANPUR/II",
+              "8/204",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "JIRANPUR/III",
+              "8/205",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              "8/206",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "JIRANPUR/PS-44",
+              "JIRANPUR/IV",
+              "8/207",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "JIRANPUR/V",
+              "8/208",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "JIRANPUR/VI",
+              "8/209",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "JIRANPUR/VII",
+              "8/210",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "JIRANPUR/VIII",
+              "8/211",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "JIRANPUR/PS-45",
+              "JIRANPUR/IX",
+              "8/212",
+              "45 SC",
+              "45 W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "JIRANPUR/X",
+              "8/213",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "JIRANPUR/XI",
+              "8/214",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "JIRANPUR/XII",
+              "8/215",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 682
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 16
+}

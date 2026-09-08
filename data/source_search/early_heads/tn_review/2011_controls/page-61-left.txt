@@ -1,0 +1,42 @@
+1 2 3
+Namakkal Panchayat Union Contd.,
+3 Vasanthapuram SC (Women)
+4 Aniyar SC (General )
+5 Kadhapalli SC (General )
+6 Singilipatti SC(General)
+7 Thaligai SC(General)
+8 Vallipuram SC(General)
+9 Avalnaickenpatti General (Women)
+10 Ernapuram General (Women)
+11 Siluvampatti General (Women)
+12 Thindamangalam General (Women)
+13 Vittamanaickenpatti General (Women)
+14 Vettampadi General (Women)
+15 Rasampalayam General
+16 Keelsathampur General
+17 Keerampur General
+18 Konur General
+19 Marappanaickenpatti General
+20 Marurpatti General
+21 Naravalur General
+22 Ranganaickenpalayam General
+23 Siviyampalayam General
+24 Thottipatti General
+25 Veesanam General
+Pallipalayam Panchayat Union
+1 Patharai SC Women)
+2 Kokkarayanpettai SC(General)
+3 Elanthakuttai General (Women)
+4 Kaliyanur General (Women)
+5 Kaliyanur Agraharam General (Women)
+6 Samayasangili Agraharm General (Women)
+7 Kadachanallur General
+8 Kuppandapalayam General
+9 Odappalli Agaraharam General
+10 Pallakkapalayam General
+11 Pallipalayam Agraharam General
+12 Pappampalayam General
+13 Pudupalayam Agraharam General
+14 Sowthapuram General
+15 Thattankuttai General
+Page 59

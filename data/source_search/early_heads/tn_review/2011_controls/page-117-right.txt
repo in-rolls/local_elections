@@ -1,0 +1,52 @@
+1 2 3
+Tirumangalam Panchayat Union Contd.
+27 A.Kokkulam General
+28 Thirali General
+29 Sowdarpatti General
+30 Urappanur General
+31 Pungankulam General
+32 T.Pudupatti General
+33 K.Puliyankulam General
+34 Uchapatti General
+35 Mathippanur General
+36 Vidathakulam General
+37 Pokkampatti General
+38 Maikudi General
+T.Kallupatti Panchayat Union
+1 Nallamaram SC (Women)
+2 Mothagam SC (Women)
+3 Thummanaickanpatti SC (Women)
+4 P.Ammapatti SC (Women)
+5 M.Sengulam SC (General)
+6 Appakarai SC (General)
+7 Kadaneri SC (General)
+8 Kotanipatti SC (General)
+9 V.Ammapatti SC (General)
+10 Salisandai SC (General)
+11 Kumarapuram General (Women)
+12 Pappaiapuram General (Women)
+13 S.Arasapatti General (Women)
+14 Vannivelampatti General (Women)
+15 Silarpatti General (Women)
+16 Chinna Poolampatti General (Women)
+17 Sandaiyur General (Women)
+18 Koovalapuram General (Women)
+19 Velampur General (Women)
+20 Lakshmipuram General (Women)
+21 P.Muthulingapuram General
+22 Silamalaipatti General
+23 P.Subbulapuram General
+24 Chinna Muthulingapuram General
+25 Rangapalayam General
+26 Vaiyur General
+27 Rowthanpatti General
+28 Pulkattai General
+29 S.Paraipatti General
+30 S.Keelapatti General
+31 Kilankulam General
+32 A.Thottiyapatti\ General
+33 Puliampatti General
+34 Karaikeni General
+35 S.Melapatti General
+36 Sittulotti General
+37 Kenjampatti General

@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "up_mau_index",
+    "state": "Uttar Pradesh",
+    "requested_url": "https://mau.nic.in/en/panchayat-election-2021-1995-2015-reservations-details/",
+    "parent_url": null
+  },
+  {
+    "source_id": "tn_reservation_index",
+    "state": "Tamil Nadu",
+    "requested_url": "https://www.tnrd.tn.gov.in/dyn_json_schemes_name_details.php?go_type=MQ%3D%3D&n=bmV3&sch_code=NTg%3D&scheme_type=MQ%3D%3D&y=MjAxMQ%3D%3D",
+    "parent_url": null
+  },
+  {
+    "source_id": "tn_election_history",
+    "state": "Tamil Nadu",
+    "requested_url": "https://www.tnrd.tn.gov.in/panchayatraj_inst/panchayat_elections.html",
+    "parent_url": null
+  }
+]

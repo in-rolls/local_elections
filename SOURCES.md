@@ -41,6 +41,7 @@ we get it" but "what is in it".
 | Bihar | 290 | 0 | 0 | 0 | 9,193 | PRI winners 2006-2016; also `local_elections_bihar` |
 | Rajasthan | 23 | 9 | 0 | 5 | 7,888 | panchayat 2005-2021 |
 | **Jharkhand** | 108 | 28 | 0 | 8 | 4,970 | **2015 mukhiya (GP head) reservation by district; 2022 Form-23 ZP members** |
+| West Bengal | 279 | 285 | 0 | 4 | 4,149 | 2018 ZP gazettes parsed with drafts separate; named Birbhum 1998/2003 research reservations and 2013/2018/2023 office schedules parsed; ward, results and reference outputs retain review flags; [reservation gaps](data/wb/vintage_search/README.md); [GP source search](data/wb/gp_source_search.md), [derived GP data and review](data/wb/derived/README.md) |
 | **Karnataka** | 236 | 202 | 0 | 2 | 1,552 | **2016 taluk & zilla panchayat winners with party**; plus `Karnataka_GP_ReservationHistory.dta`. 244 of the documents are deliberately unread - see data/karnataka/readme.md |
 | **Jammu & Kashmir** | 105 | 8 | 0 | 0 | 1,488 | **2010/2016/2018 block-wise, panch-ward reservation with SC/ST/OC population** |
 | **Andhra Pradesh** | 15 | 17 | 0 | 13 | 1,243 | **2020 district gazettes: GP, MPTC, ZPTC, MPP reservation** |
@@ -48,10 +49,9 @@ we get it" but "what is in it".
 | Chandigarh, Puducherry, Delhi | 7 | 2 | 0 | 0 | 707 | mostly urban local bodies |
 | **Goa** | 37 | 4 | 0 | 0 | 687 | **2012/2017/2022 `panres_<taluka>` panchayat reservation + ward category** |
 | Gujarat | 0 | 0 | 45 | 0 | 605 | **2020 SEC rotation orders: 16 district-panchayat and 29 taluka-panchayat PDFs; parsed into 1,178 seats** |
-| West Bengal | 0 | 39 | 0 | 1 | 603 | 2018 SEC delimitation-and-reservation gazettes, per district - parsed, 825 zilla parishad seats |
 | Madhya Pradesh | 0 | 2 | 0 | 0 | 351 | two large OmniPage-OCR'd volumes |
 | Odisha | 6 | 0 | 0 | 0 | 254 | 2017 reservation of sarpanch/ward member - **district totals, not seat-level** |
-| Tamil Nadu | 11 | 1 | 0 | 0 | 74 | gazettes, but **municipal/corporation**, not village panchayat |
+| Tamil Nadu | 11 | 1 | 0 | 0 | 74 | municipal/corporation gazettes plus GP-president reservations; [2011 roster and 2001 amendment exports](data/tn/readme.md) remain separate from pooled rows; originals and earlier leads are in the [cross-state source ledger](data/source_search/early_heads/README.md) |
 | Himachal Pradesh | 0 | 1 | 0 | 0 | 3 | one source PDF |
 <!-- holdings:end -->
 

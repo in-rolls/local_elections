@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "sha256": "6cb6adc734efd26995a47b9c470b69b27b71ee2b4c7f587d0f8480d81b28695d",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 3,
+      "characters": 0
+    },
+    {
+      "page": 2,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 5,
+      "characters": 0
+    },
+    {
+      "page": 3,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 5,
+      "characters": 0
+    },
+    {
+      "page": 4,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 4,
+      "characters": 0
+    },
+    {
+      "page": 5,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 3,
+      "characters": 0
+    },
+    {
+      "page": 6,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 5,
+      "characters": 0
+    },
+    {
+      "page": 7,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 4,
+      "characters": 0
+    },
+    {
+      "page": 8,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 4,
+      "characters": 0
+    },
+    {
+      "page": 9,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 2,
+      "characters": 0
+    },
+    {
+      "page": 10,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 3,
+      "characters": 0
+    },
+    {
+      "page": 11,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 3,
+      "characters": 0
+    },
+    {
+      "page": 12,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 5,
+      "characters": 0
+    },
+    {
+      "page": 13,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 3,
+      "characters": 0
+    },
+    {
+      "page": 14,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 5,
+      "characters": 0
+    },
+    {
+      "page": 15,
+      "width": 595.2,
+      "height": 841.67999,
+      "text": "",
+      "tables": [],
+      "images": 5,
+      "characters": 0
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 15
+}

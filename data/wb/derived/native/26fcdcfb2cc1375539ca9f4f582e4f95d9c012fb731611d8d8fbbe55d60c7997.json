@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "sha256": "26fcdcfb2cc1375539ca9f4f582e4f95d9c012fb731611d8d8fbbe55d60c7997",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(FORM - A1)\nBlock: Ranaghat-1\nNumber of members to be elected in the Gram Panchayat\nScheduled Scheduled\nName of Gram\nTotal number Castes Tribes Women\nof members members members members\n1 (2a) (2b) (2c) (2d)\nRamnagar-I 15 4 NIL 5\nSeats allocated Seats reserved for Seats reserved\nto each Scheduled Castes for women\nconstituency or Scheduled against serial\nNumber, name and area of constituencies with with serial Tribes against number of seats\nserial numbers numbers serial number of\nseats\n3 4 5 6\nRamnagar-I/I\nA) Ramnagar Barabazar Kheya Ghat para 1 1 Women\nB) Tunthbagan para\nMouja-Aistala J.L. No. -114\nGram Panchayat - Ramnagar – 1\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.- 81/9\nRamnagar-I/II\nA) Tunthbagan para\nMouja-Aistala J.L. No. -114 2 2 SC 2 SC (W)\nB) Ramnagar Biler Math Kabiraj plot\nMouza – Aishtala, J. L. No – 114, G.P. – Ramnagar -1\nBlock – Ranaghat – 1, Police Station - Ranaghat\nAssembly Part No.- 81/10\nRamnagar-I/III\nA) Tunthbagan Madyapara\nMouja-Aistala J.L. No. -114 3\nB) Ramnagar Biler Math Kabiraj plot Mouza – Aishtala,\nJ. L. No – 114, G.P. – Ramnagar -1 4\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.- 81/11\nRamnagar-I/IV\nA) 1,Ramnagar , Mouza – Aishtala, J. L. No – 114, 5 5 Women\nG.P. – Ramnagar -1, Block – Ranaghat- 1, Police Station -\nRanaghat\nPart No.- 81/12\nRamnagar-I/V\nA) Sanyasi bagan Mouza-Aistala J.L. No-114 6\nB) 23- Bigha Mouza- Aistala J.L.No.-114\nC) 23- Bigha Coloni\nMouza – Aishtala, J. L. No – 114, 7\nG.P – Ramnagar -1, Block – Ranaghat -1, Police Station -\nRanaghat\nPart No.- 81/13\nPage 1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            49.46954117647059,
+            67.72214400000004,
+            533.8760571428572,
+            156.85680000000008
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number\nof members",
+              "Scheduled\nCastes\nmembers",
+              "Scheduled\nTribes\nmembers",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Ramnagar-I",
+              "15",
+              "4",
+              "NIL",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            49.46954117647059,
+            180.4645714285714,
+            476.3269384615384,
+            703.38144
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with\nserial numbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumbers",
+              "Seats reserved for\nScheduled Castes\nor Scheduled\nTribes against\nserial number of\nseats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Ramnagar-I/I\nA) Ramnagar Barabazar Kheya Ghat para\nB) Tunthbagan para\nMouja-Aistala J.L. No. -114\nGram Panchayat - Ramnagar – 1\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.- 81/9",
+              "1",
+              "",
+              "1 Women"
+            ],
+            [
+              "Ramnagar-I/II\nA) Tunthbagan para\nMouja-Aistala J.L. No. -114\nB) Ramnagar Biler Math Kabiraj plot\nMouza – Aishtala, J. L. No – 114, G.P. – Ramnagar -1\nBlock – Ranaghat – 1, Police Station - Ranaghat\nAssembly Part No.- 81/10",
+              "2",
+              "2 SC",
+              "2 SC (W)"
+            ],
+            [
+              "Ramnagar-I/III\nA) Tunthbagan Madyapara\nMouja-Aistala J.L. No. -114\nB) Ramnagar Biler Math Kabiraj plot Mouza – Aishtala,\nJ. L. No – 114, G.P. – Ramnagar -1\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.- 81/11",
+              "3",
+              "",
+              ""
+            ],
+            [
+              null,
+              "4",
+              "",
+              ""
+            ],
+            [
+              "Ramnagar-I/IV\nA) 1,Ramnagar , Mouza – Aishtala, J. L. No – 114,\nG.P. – Ramnagar -1, Block – Ranaghat- 1, Police Station -\nRanaghat\nPart No.- 81/12",
+              "5",
+              "",
+              "5 Women"
+            ],
+            [
+              "Ramnagar-I/V\nA) Sanyasi bagan Mouza-Aistala J.L. No-114\nB) 23- Bigha Mouza- Aistala J.L.No.-114\nC) 23- Bigha Coloni\nMouza – Aishtala, J. L. No – 114,\nG.P – Ramnagar -1, Block – Ranaghat -1, Police Station -\nRanaghat\nPart No.- 81/13",
+              "6",
+              "",
+              ""
+            ],
+            [
+              null,
+              "7",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1523
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Ramnagar-I/VI\nA) Sadgop para 8 8 Women\nB) Vite Para\nC) Dhaka Para\nD) Garer bagan (North Side)\nMouza – Aishtala, J. L. No – 114, 9\nG.P– Ramnagar -1, Block – Ranaghat - 1, Police Station -\nRanaghat\nPart No.- 81/14\nRamnagar-I/VII\nA) Garer bagan (Southern) 10\nMouza – Aishtala, J. L. No – 114,\nG.P- Ramnagar -1, Block – Ranaghat – 1, Police Station -\nRanaghat\nPart No.- 81/15\nRamnagar-I/VIII\nA) Milon Bagan Para 11\nMouza – Aishtala, J. L. No – 114,\nG.P- Ramnagar -1, Block – Ranaghat – 1, Police Station -\nRanaghat\nPart No.- 81/16\nRamnagar-I/IX\nA) Kalitala para 12 12 SC\nMouza – Aishtala, J. L. No – 114,\nG.P- Ramnagar -1, Block – Ranaghat – 1, Police Station -\nRanaghat\nPart No.- 81/17 13\nRamnagar-I/X\nA) From purba 23-Bigha to all the houses of the Northen\nside of Subhas Pally\nB) Subhash Pally (Northan) 14 14 SC 14 SC(W)\nMouza – Aishtala, J. L. No – 114,\nG.P- Ramnagar -1, Block – Ranaghat – 1, Police Station -\nRanaghat\nPart No.- 81/18\nRamnagar-I/XI\nA) Ranaghat –Birnagar Road ... All houses of Southern\npart of Subhas Pally 15 15 SC\nMouza – Aishtala, J. L. No – 114,\nG.P- Ramnagar -1, Block – Ranaghat – 1, Police Station -\nRanaghat\nPart No.- 81/19\nDated: 07/02/2008 District Panchayat Election Officer\n&\nDistict Magistrate Nadia\nPage 2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            49.5066,
+            55.97520000000003,
+            476.43075,
+            527.2356668571429
+          ],
+          "rows": [
+            [
+              null,
+              "9",
+              "",
+              ""
+            ],
+            [
+              "Ramnagar-I/VII\nA) Garer bagan (Southern)\nMouza – Aishtala, J. L. No – 114,\nG.P- Ramnagar -1, Block – Ranaghat – 1, Police Station -\nRanaghat\nPart No.- 81/15",
+              "10",
+              "",
+              ""
+            ],
+            [
+              "Ramnagar-I/VIII\nA) Milon Bagan Para\nMouza – Aishtala, J. L. No – 114,\nG.P- Ramnagar -1, Block – Ranaghat – 1, Police Station -\nRanaghat\nPart No.- 81/16",
+              "11",
+              "",
+              ""
+            ],
+            [
+              "Ramnagar-I/IX\nA) Kalitala para\nMouza – Aishtala, J. L. No – 114,\nG.P- Ramnagar -1, Block – Ranaghat – 1, Police Station -\nRanaghat\nPart No.- 81/17",
+              "12",
+              "12 SC",
+              ""
+            ],
+            [
+              null,
+              "13",
+              "",
+              ""
+            ],
+            [
+              "Ramnagar-I/X\nA) From purba 23-Bigha to all the houses of the Northen\nside of Subhas Pally\nB) Subhash Pally (Northan)\nMouza – Aishtala, J. L. No – 114,\nG.P- Ramnagar -1, Block – Ranaghat – 1, Police Station -\nRanaghat\nPart No.- 81/18",
+              "14",
+              "14 SC",
+              "14 SC(W)"
+            ],
+            [
+              "Ramnagar-I/XI\nA) Ranaghat –Birnagar Road ... All houses of Southern\npart of Subhas Pally\nMouza – Aishtala, J. L. No – 114,\nG.P- Ramnagar -1, Block – Ranaghat – 1, Police Station -\nRanaghat\nPart No.- 81/19",
+              "15",
+              "15 SC",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1200
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

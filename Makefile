@@ -1,6 +1,7 @@
 PY ?= uv run python
 # The Apple-Silicon model stack stays out of parser-only environments.
 OCR_PY ?= uv run --no-default-groups --group ocr python
+TABLE_OCR_PY ?= uv run --group table-ocr python
 UV_DOCKER_IMAGE ?= ghcr.io/astral-sh/uv:0.12.7-python3.12-trixie
 
 .PHONY: help inventory probe assam assam-2025 assam-2025-extract assam-2025-ocr assam-harvest gujarat gujarat-ocr gujarat-harvest gujarat-validate goa jharkhand jharkhand-ocr jharkhand-bench jharkhand-bench-record jk jk-2010-extract jk-2016-extract ap karnataka maharashtra maharashtra-harvest telangana wb validate test ci-docker coverage state-readmes stats worklist master manifest verify release-check expect dictionary
@@ -153,6 +154,51 @@ wb:
 	$(PY) -m local_reservations.states.wb.parse
 	$(PY) -m local_reservations.states.wb.validate
 
+.PHONY: wb-gp-extract wb-gp-parse wb-gp-validate wb-gp-reservations
+wb-gp-reservations:
+	$(PY) -m local_reservations.states.wb.parse_birbhum
+	$(PY) -m local_reservations.states.wb.reservation_coverage
+
+wb-gp-extract:
+	$(PY) -m local_reservations.states.wb.extract_native
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.extract_results
+
+wb-gp-parse:
+	$(PY) -m local_reservations.states.wb.parse_hooghly
+	$(PY) -m local_reservations.states.wb.parse_nadia
+	$(PY) -m local_reservations.states.wb.parse_results
+
+wb-gp-validate:
+	$(PY) -m local_reservations.states.wb.validate_gp
+
+.PHONY: wb-parse-all wb-ocr-all wb-parsing-inventory
+wb-parse-all:
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_base_drafts
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_birbhum
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_hooghly
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_nadia
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_nadia_handbook
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_alipurduar_offices
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_office_native --workers 2
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_office_scans --workers 2
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_ward_schedules
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_ancillary
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_reference_tables
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_results
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.validate_gp
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.reservation_coverage
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parsing_inventory
+
+wb-ocr-all:
+	OMP_THREAD_LIMIT=1 $(TABLE_OCR_PY) -m local_reservations.states.wb.parse_ward_schedules --ocr --workers 2
+	OMP_THREAD_LIMIT=1 $(TABLE_OCR_PY) -m local_reservations.states.wb.parse_ancillary --ocr
+	OMP_THREAD_LIMIT=1 $(TABLE_OCR_PY) -m local_reservations.states.wb.parse_reference_tables --ocr --workers 1
+	$(MAKE) wb-parse-all
+
+wb-parsing-inventory:
+	$(TABLE_OCR_PY) -m local_reservations.states.wb.parsing_inventory
+
 validate:
 	$(PY) -m local_reservations.states.ap.validate
 	$(PY) -m local_reservations.states.assam.validate
@@ -174,10 +220,29 @@ manifest:
 verify:
 	$(PY) -m local_reservations.tools.verify_manifest
 
+.PHONY: tn evidence evidence-archives verify-evidence verify-evidence-archives
+tn:
+	$(PY) -m local_reservations.states.tn.parse_heads_2011
+	$(PY) -m local_reservations.states.tn.parse_amendments_2001
+
+evidence:
+	$(PY) -m local_reservations.tools.build_evidence
+
+evidence-archives:
+	$(PY) -m local_reservations.tools.build_evidence --archive-dir "$(CURDIR)/dist/source-evidence"
+	$(PY) -m local_reservations.tools.verify_manifest --manifest SOURCE_MANIFEST.json
+	$(PY) -m local_reservations.tools.verify_manifest --manifest SOURCE_MANIFEST.json --archives "$(CURDIR)/dist/source-evidence"
+
+verify-evidence:
+	$(PY) -m local_reservations.tools.verify_manifest --manifest SOURCE_MANIFEST.json
+
+verify-evidence-archives:
+	$(PY) -m local_reservations.tools.verify_manifest --manifest SOURCE_MANIFEST.json --archives "$(CURDIR)/dist/source-evidence"
+
 # Prepares and checks a release. It deliberately does not tag: a tag is one of
 # the few things you cannot take back, so this prints the command and a human
 # runs it.
-release-check: test validate master stats worklist coverage manifest verify
+release-check: test validate master stats worklist coverage manifest verify verify-evidence verify-evidence-archives
 	@$(PY) -m local_reservations.tools.release_check $(VERSION)
 
 stats:
@@ -216,7 +281,7 @@ ci-docker:
 		--env RUFF_CACHE_DIR=/tmp/ruff-cache \
 		$(UV_DOCKER_IMAGE) \
 		sh -c 'apt-get update && \
-			apt-get install -y --no-install-recommends poppler-utils && \
+			apt-get install -y --no-install-recommends poppler-utils tesseract-ocr tesseract-ocr-ben libgl1 && \
 			uv sync --no-default-groups --frozen --group dev --all-extras && \
 			uv run ruff check . && \
 			uv run ruff format --check . && \

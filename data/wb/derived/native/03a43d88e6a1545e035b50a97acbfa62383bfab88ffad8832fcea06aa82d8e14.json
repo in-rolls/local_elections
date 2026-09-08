@@ -1,0 +1,2249 @@
+{
+  "version": 1,
+  "sha256": "03a43d88e6a1545e035b50a97acbfa62383bfab88ffad8832fcea06aa82d8e14",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "FORM B\n[See rule 25(1) ]\nOrder\nNo.: PRD/1154 Dated:\n15/11/2017 In exercise of the power conferred by sections 14 and 17 of the West Bengal Panchayat Elections Act, 2003 (West Ben.\nAct XXI of 2003), read with rules 26 and 27 of the West Bengal Panchayat Election Rules 2006, I, the District Panchayat Election Officer and District Magistrate of the district of…………………, as the\nprescribed authority appointed by the State Government in the Department of Panchayats and Rural Development under notification No……………………dated………for the purpose of rules 26 and 27 of the\nsaid rules, hereby publish the draft of this order to determine for the Grams specified in column (1) of the Schedule below, the number of members to be elected to the Panchayat Samiti specified in the\ncorresponding entries in column (2), to divide the area of the Grams into constituencies specified in the corresponding entries in column (3) & (4), constituency or constituencies reserved for the\nScheduled Castes or the Scheduled Tribes persons specified in the corresponding entries in column (5), and constituency or constituencies reserved for women specified in the corresponding entries in\ncolumn (6) of the said Schedule, for information of persons likely to be affected thereby.\nThe draft will be taken up for consideration after fifteen days from this day and any objection of suggestion with respect thereto, which may be received by the undersigned within the said period, shall\nbe duly considered.\nThe Schedule\nBlock : TUFANGANJ - I\nNo of\nmembers Area of the constituency Reserved for Schedule constituency Reserved for\nName of Gram Number and Name of Area of the Assembly electoral roll\nelected to the Constituency Caste, Schedule Tribe and backward women showing Serial\nPanchayet the constituency constituency part number\nPanchayet (Panchayat Part No) classes persons showing Serial Number Number\nSamiti\nNatabari-I/I 1(1), 1(2) 8/1, 8/2\nNatabari-I/II 2 8/3\nNATABARI - I/PS-1 NATABARI - I/PS-1 - W\nNatabari-I/III 3 8/4\nNatabari-I/IV 4(1), 4(2) 8/5, 8/6\nNatabari-I/V 5 8/7\nNatabari-I/VI 6 8/8\nNATABARI - I/PS-2 PS 2- SC\nNatabari-I/VII 7 8/9\nNatabari - I GP 3\nNatabari-I/VIII 8 8/10\nNatabari-I/IX 9 8/11\nNatabari-I/X 10 8/12\nNatabari-I/XI 11 8/13\nNATABARI - I/PS-3 PS 3 - SC NATABARI - I/PS-3 SCW\nNatabari-I/XII 12 8/14\nNatabari-I/XIII 13 8/15\nNatabari-I/XIV 14 8/16\nPage:1 of total 8 pages",
+      "tables": [
+        {
+          "bbox": [
+            34.524,
+            213.92000000000002,
+            811.139985,
+            480.28000000000003
+          ],
+          "rows": [
+            [
+              "Block : TUFANGANJ - I",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "Name of Gram\nPanchayet",
+              "No of\nmembers\nelected to the\nPanchayet\nSamiti",
+              "Number and Name of\nthe constituency",
+              "Area of the\nconstituency",
+              "Area of the\nConstituency\n(Panchayat Part No)",
+              "Assembly electoral roll\npart number",
+              "constituency Reserved for Schedule\nCaste, Schedule Tribe and backward\nclasses persons showing Serial Number",
+              "constituency Reserved for\nwomen showing Serial\nNumber"
+            ],
+            [
+              "Natabari - I GP",
+              "3",
+              "NATABARI - I/PS-1",
+              "Natabari-I/I",
+              "1(1), 1(2)",
+              "8/1, 8/2",
+              "",
+              "NATABARI - I/PS-1 - W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-I/II",
+              "2",
+              "8/3",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-I/III",
+              "3",
+              "8/4",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-I/IV",
+              "4(1), 4(2)",
+              "8/5, 8/6",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "NATABARI - I/PS-2",
+              "Natabari-I/V",
+              "5",
+              "8/7",
+              "PS 2- SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-I/VI",
+              "6",
+              "8/8",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-I/VII",
+              "7",
+              "8/9",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-I/VIII",
+              "8",
+              "8/10",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "NATABARI - I/PS-3",
+              "Natabari-I/IX",
+              "9",
+              "8/11",
+              "PS 3 - SC",
+              "NATABARI - I/PS-3 SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-I/X",
+              "10",
+              "8/12",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-I/XI",
+              "11",
+              "8/13",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-I/XII",
+              "12",
+              "8/14",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-I/XIII",
+              "13",
+              "8/15",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-I/XIV",
+              "14",
+              "8/16",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 2734
+    },
+    {
+      "page": 2,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "The Schedule\nBlock : TUFANGANJ - I\nNo of\nmembers Area of the constituency Reserved for Schedule constituency Reserved for\nName of Gram Number and Name of Area of the Assembly electoral roll\nelected to the Constituency Caste, Schedule Tribe and backward women showing Serial\nPanchayet the constituency constituency part number\nPanchayet (Panchayat Part No) classes persons showing Serial Number Number\nSamiti\nNatabari-II/I 15 8/17\nNatabari-II/II 16 8/18\nNATABARI - II/PS-4 NATABARI - II/PS-4 - W\nNatabari-II/III 17 8/19\nNatabari-II/IV 18 8/20\nNatabari-II/V 19(1), 19(2) 8/21, 8/22\nNatabari - II GP 3 NATABARI - II/PS-5 Natabari-II/VI 20 8/23 NATABARI - II/PS-5 - W\nNatabari-II/VII 21(1), 21(2) 8/24, 8/25\nNatabari-II/VIII 22 8/26\nNatabari-II/IX 23 8/27\nNATABARI - II/PS-6 NATABARI - II/PS-6- W\nNatabari-II/X 24 8/28\nNatabari-II/XI 25 8/29\nDhalpal-II/I 26 8/30\nDhalpal-II/II 27 8/31\nDHALPAL - II/PS-7 DHALPAL - II/PS-7 - W\nDhalpal-II/III 28(1), 28(2) 8/32, 8/33\nDhalpal-II/IV 29(1), 29(2) 8/34, 8/35\nDhalpal-II/V 30 8/36\nDhalpal-II/VI 31 8/37\nDHALPAL - II GP 3 DHALPAL - II/PS-8 Dhalpal-II/VII 32 8/38 PS 8- SC\nDhalpal-II/VIII 33 8/39\nDhalpal-II/IX 34 8/40\nDhalpal-II/X 35(1), 35(2) 8/41, 8/42\nDhalpal-II/XI 36(1), 36(2) 8/43, 8/44\nDHALPAL - II/PS-9 PS 9 - SC DHALPAL - II/PS-9 - SCW\nDhalpal-II/XII 37 8/45\nDhalpal-II/XIII 38(1), 38(2) 8/46, 8/47\nAndaranfulbari-II/I 39 8/48\nANDARANFULBARI - Andaranfulbari-II/II 40 8/49\nII/PS-10 Andaranfulbari-II/III 41 8/50\nAndaranfulbari-II/IV 42 8/51\nANDARANFULBARI - II 2 Andaranfulbari-II/V 43 8/52\nAndaranfulbari-II/VI 44(1), 44(2) 8/53, 8/54\nAndaranfulbari-II/VII 45 8/55\nANDARANFULBARI -\nAndaranfulbari-II/VIII 46 8/56\nII/PS-11\nAndaranfulbari-II/IX 47 8/57\nAndaranfulbari-II/X 48 8/58\nPage:2 of total 8 pages",
+      "tables": [
+        {
+          "bbox": [
+            34.524,
+            28.710000000000008,
+            811.139985,
+            550.859985
+          ],
+          "rows": [
+            [
+              "Block : TUFANGANJ - I",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "Name of Gram\nPanchayet",
+              "No of\nmembers\nelected to the\nPanchayet\nSamiti",
+              "Number and Name of\nthe constituency",
+              "Area of the\nconstituency",
+              "Area of the\nConstituency\n(Panchayat Part No)",
+              "Assembly electoral roll\npart number",
+              "constituency Reserved for Schedule\nCaste, Schedule Tribe and backward\nclasses persons showing Serial Number",
+              "constituency Reserved for\nwomen showing Serial\nNumber"
+            ],
+            [
+              "Natabari - II GP",
+              "3",
+              "NATABARI - II/PS-4",
+              "Natabari-II/I",
+              "15",
+              "8/17",
+              "",
+              "NATABARI - II/PS-4 - W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-II/II",
+              "16",
+              "8/18",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-II/III",
+              "17",
+              "8/19",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-II/IV",
+              "18",
+              "8/20",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "NATABARI - II/PS-5",
+              "Natabari-II/V",
+              "19(1), 19(2)",
+              "8/21, 8/22",
+              "",
+              "NATABARI - II/PS-5 - W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-II/VI",
+              "20",
+              "8/23",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-II/VII",
+              "21(1), 21(2)",
+              "8/24, 8/25",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "NATABARI - II/PS-6",
+              "Natabari-II/VIII",
+              "22",
+              "8/26",
+              "",
+              "NATABARI - II/PS-6- W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-II/IX",
+              "23",
+              "8/27",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-II/X",
+              "24",
+              "8/28",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natabari-II/XI",
+              "25",
+              "8/29",
+              null,
+              null
+            ],
+            [
+              "DHALPAL - II GP",
+              "3",
+              "DHALPAL - II/PS-7",
+              "Dhalpal-II/I",
+              "26",
+              "8/30",
+              "",
+              "DHALPAL - II/PS-7 - W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-II/II",
+              "27",
+              "8/31",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-II/III",
+              "28(1), 28(2)",
+              "8/32, 8/33",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-II/IV",
+              "29(1), 29(2)",
+              "8/34, 8/35",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DHALPAL - II/PS-8",
+              "Dhalpal-II/V",
+              "30",
+              "8/36",
+              "PS 8- SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-II/VI",
+              "31",
+              "8/37",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-II/VII",
+              "32",
+              "8/38",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-II/VIII",
+              "33",
+              "8/39",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-II/IX",
+              "34",
+              "8/40",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DHALPAL - II/PS-9",
+              "Dhalpal-II/X",
+              "35(1), 35(2)",
+              "8/41, 8/42",
+              "PS 9 - SC",
+              "DHALPAL - II/PS-9 - SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-II/XI",
+              "36(1), 36(2)",
+              "8/43, 8/44",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-II/XII",
+              "37",
+              "8/45",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-II/XIII",
+              "38(1), 38(2)",
+              "8/46, 8/47",
+              null,
+              null
+            ],
+            [
+              "ANDARANFULBARI - II",
+              "2",
+              "ANDARANFULBARI -\nII/PS-10",
+              "Andaranfulbari-II/I",
+              "39",
+              "8/48",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-II/II",
+              "40",
+              "8/49",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-II/III",
+              "41",
+              "8/50",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-II/IV",
+              "42",
+              "8/51",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-II/V",
+              "43",
+              "8/52",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "ANDARANFULBARI -\nII/PS-11",
+              "Andaranfulbari-II/VI",
+              "44(1), 44(2)",
+              "8/53, 8/54",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-II/VII",
+              "45",
+              "8/55",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-II/VIII",
+              "46",
+              "8/56",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-II/IX",
+              "47",
+              "8/57",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-II/X",
+              "48",
+              "8/58",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1619
+    },
+    {
+      "page": 3,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "The Schedule\nBlock : TUFANGANJ - I\nNo of\nmembers Area of the constituency Reserved for Schedule constituency Reserved for\nName of Gram Number and Name of Area of the Assembly electoral roll\nelected to the Constituency Caste, Schedule Tribe and backward women showing Serial\nPanchayet the constituency constituency part number\nPanchayet (Panchayat Part No) classes persons showing Serial Number Number\nSamiti\nChilakhana-II/I 49 8/59\nChilakhana-II/II 50 8/60\nCHILAKHANA - II/PS-\nChilakhana-II/III 51 8/61 PS 12- SC\n12\nChilakhana-II/IV 52 8/62\nCHILAKHANA - II 2 Chilakhana-II/V 53 8/63\nChilakhana-II/VI 54 8/64\nCHILAKHANA - II/PS- Chilakhana-II/VII 55(1), 55(2) 8/65, 8/66 CHILAKHANA - II/PS-13 -\nPS 13 - SC\n13 Chilakhana-II/VIII 56 8/67 SCW\nChilakhana-II/IX 57(1), 57(2) 8/68, 8/69\nChilakhana-I/I 58 8/70\nChilakhana-I/II 59 8/71\nCHILAKHANA - I/PS-\nChilakhana-I/III 60 8/72 PS 14 - SC\n14\nChilakhana-I/IV 61 8/73\nChilakhana-I/V 62 8/74\nChilakhana-I/VI 63 8/75\nCHILAKHANA - I/PS- Chilakhana-I/VII 64 8/76\nCHILAKHANA - I 3\n15 Chilakhana-I/VIII 65(1), 65(2) 8/77, 8/78\nChilakhana-I/IX 66(1), 66(2) 8/79, 8/80\nChilakhana-I/X 67 8/81\nChilakhana-I/XI 68(1), 68(2) 8/82, 8/83\nCHILAKHANA - I/PS-\nChilakhana-I/XII 69 8/84\n16\nChilakhana-I/XIII 70 8/85\nChilakhana-I/XIV 71 8/86\nPage:3 of total 8 pages",
+      "tables": [
+        {
+          "bbox": [
+            34.524,
+            28.710000000000008,
+            811.139985,
+            406.3300000000001
+          ],
+          "rows": [
+            [
+              "Block : TUFANGANJ - I",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "Name of Gram\nPanchayet",
+              "No of\nmembers\nelected to the\nPanchayet\nSamiti",
+              "Number and Name of\nthe constituency",
+              "Area of the\nconstituency",
+              "Area of the\nConstituency\n(Panchayat Part No)",
+              "Assembly electoral roll\npart number",
+              "constituency Reserved for Schedule\nCaste, Schedule Tribe and backward\nclasses persons showing Serial Number",
+              "constituency Reserved for\nwomen showing Serial\nNumber"
+            ],
+            [
+              "CHILAKHANA - II",
+              "2",
+              "CHILAKHANA - II/PS-\n12",
+              "Chilakhana-II/I",
+              "49",
+              "8/59",
+              "PS 12- SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-II/II",
+              "50",
+              "8/60",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-II/III",
+              "51",
+              "8/61",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-II/IV",
+              "52",
+              "8/62",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-II/V",
+              "53",
+              "8/63",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "CHILAKHANA - II/PS-\n13",
+              "Chilakhana-II/VI",
+              "54",
+              "8/64",
+              "PS 13 - SC",
+              "CHILAKHANA - II/PS-13 -\nSCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-II/VII",
+              "55(1), 55(2)",
+              "8/65, 8/66",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-II/VIII",
+              "56",
+              "8/67",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-II/IX",
+              "57(1), 57(2)",
+              "8/68, 8/69",
+              null,
+              null
+            ],
+            [
+              "CHILAKHANA - I",
+              "3",
+              "CHILAKHANA - I/PS-\n14",
+              "Chilakhana-I/I",
+              "58",
+              "8/70",
+              "PS 14 - SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-I/II",
+              "59",
+              "8/71",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-I/III",
+              "60",
+              "8/72",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-I/IV",
+              "61",
+              "8/73",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-I/V",
+              "62",
+              "8/74",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "CHILAKHANA - I/PS-\n15",
+              "Chilakhana-I/VI",
+              "63",
+              "8/75",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-I/VII",
+              "64",
+              "8/76",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-I/VIII",
+              "65(1), 65(2)",
+              "8/77, 8/78",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-I/IX",
+              "66(1), 66(2)",
+              "8/79, 8/80",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "CHILAKHANA - I/PS-\n16",
+              "Chilakhana-I/X",
+              "67",
+              "8/81",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-I/XI",
+              "68(1), 68(2)",
+              "8/82, 8/83",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-I/XII",
+              "69",
+              "8/84",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-I/XIII",
+              "70",
+              "8/85",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chilakhana-I/XIV",
+              "71",
+              "8/86",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1192
+    },
+    {
+      "page": 4,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "The Schedule\nBlock : TUFANGANJ - I\nNo of\nmembers Area of the constituency Reserved for Schedule constituency Reserved for\nName of Gram Number and Name of Area of the Assembly electoral roll\nelected to the Constituency Caste, Schedule Tribe and backward women showing Serial\nPanchayet the constituency constituency part number\nPanchayet (Panchayat Part No) classes persons showing Serial Number Number\nSamiti\nMaruganj/I 72(1), 72(2) 8/87, 8/88\nMaruganj/II 73(1), 73(2) 8/89, 8/90\nMARUGANJ /PS-17 PS 17 - SC MARUGANJ /PS-17 - SCW\nMaruganj/III 74 8/91\nMaruganj/IV 75(1), 75(2) 8/92, 9/93\nMaruganj/V 76 8/94\nMaruganj/VI 77 8/95\nMaruganj/VII 78 8/96\nMARUGANJ /PS-18 Maruganj/VIII 79 8/97 PS 18 - SC\nMaruganj/IX 80 8/98\nMARUGANJ 3\nMaruganj/X 81 8/99\nMaruganj/XI 82(1), 82(2) 8/100, 8/101\nMaruganj/XII 83 8/102\nMaruganj/XIII 84 8/103\nMaruganj/XIV 85 8/104\nMARUGANJ /PS-19 Maruganj/XV 86 8/105 MARUGANJ /PS-19 - W\nMaruganj/XVI 87 8/106\nMaruganj/XVII 88 8/107\nMaruganj/XVIII 89 8/108\nBalarampur-I/I 90 8/216\nBALARAMPUR - I/PS- Balarampur-I/II 91(1), 91(2) 8/217, 8/218\n20 Balarampur-I/III 92(1), 92(2) 8/219, 8/220\nBalarampur-I/IV 93 8/221\nBalarampur-I/V 94 8/222\nBalarampur-I/VI 95 8/223\nBALARAMPUR - I/PS- BALARAMPUR - I/PS-21 -\nBalarampur-I/VII 96 8/224 PS 21- SC\n21 SCW\nBALARAMPUR - I 3 Balarampur-I/VIII 97 8/225\nBalarampur-I/IX 98 8/226\nBalarampur-I/X 99 8/227\nBalarampur-I/XI 100 8/228\nBALARAMPUR - I/PS- Balarampur-I/XII 101 8/229\nPS 22 - SC\n22 Balarampur-I/XIII 102 8/230\nBalarampur-I/XIV 103 8/231\nBalarampur-I/XV 104 8/232\nPage:4 of total 8 pages",
+      "tables": [
+        {
+          "bbox": [
+            34.524,
+            28.710000000000008,
+            811.139985,
+            529.9799849999999
+          ],
+          "rows": [
+            [
+              "Block : TUFANGANJ - I",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "Name of Gram\nPanchayet",
+              "No of\nmembers\nelected to the\nPanchayet\nSamiti",
+              "Number and Name of\nthe constituency",
+              "Area of the\nconstituency",
+              "Area of the\nConstituency\n(Panchayat Part No)",
+              "Assembly electoral roll\npart number",
+              "constituency Reserved for Schedule\nCaste, Schedule Tribe and backward\nclasses persons showing Serial Number",
+              "constituency Reserved for\nwomen showing Serial\nNumber"
+            ],
+            [
+              "MARUGANJ",
+              "3",
+              "MARUGANJ /PS-17",
+              "Maruganj/I",
+              "72(1), 72(2)",
+              "8/87, 8/88",
+              "PS 17 - SC",
+              "MARUGANJ /PS-17 - SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/II",
+              "73(1), 73(2)",
+              "8/89, 8/90",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/III",
+              "74",
+              "8/91",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/IV",
+              "75(1), 75(2)",
+              "8/92, 9/93",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "MARUGANJ /PS-18",
+              "Maruganj/V",
+              "76",
+              "8/94",
+              "PS 18 - SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/VI",
+              "77",
+              "8/95",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/VII",
+              "78",
+              "8/96",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/VIII",
+              "79",
+              "8/97",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/IX",
+              "80",
+              "8/98",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/X",
+              "81",
+              "8/99",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/XI",
+              "82(1), 82(2)",
+              "8/100, 8/101",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "MARUGANJ /PS-19",
+              "Maruganj/XII",
+              "83",
+              "8/102",
+              "",
+              "MARUGANJ /PS-19 - W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/XIII",
+              "84",
+              "8/103",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/XIV",
+              "85",
+              "8/104",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/XV",
+              "86",
+              "8/105",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/XVI",
+              "87",
+              "8/106",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/XVII",
+              "88",
+              "8/107",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Maruganj/XVIII",
+              "89",
+              "8/108",
+              null,
+              null
+            ],
+            [
+              "BALARAMPUR - I",
+              "3",
+              "BALARAMPUR - I/PS-\n20",
+              "Balarampur-I/I",
+              "90",
+              "8/216",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-I/II",
+              "91(1), 91(2)",
+              "8/217, 8/218",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-I/III",
+              "92(1), 92(2)",
+              "8/219, 8/220",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-I/IV",
+              "93",
+              "8/221",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "BALARAMPUR - I/PS-\n21",
+              "Balarampur-I/V",
+              "94",
+              "8/222",
+              "PS 21- SC",
+              "BALARAMPUR - I/PS-21 -\nSCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-I/VI",
+              "95",
+              "8/223",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-I/VII",
+              "96",
+              "8/224",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-I/VIII",
+              "97",
+              "8/225",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-I/IX",
+              "98",
+              "8/226",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "BALARAMPUR - I/PS-\n22",
+              "Balarampur-I/X",
+              "99",
+              "8/227",
+              "PS 22 - SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-I/XI",
+              "100",
+              "8/228",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-I/XII",
+              "101",
+              "8/229",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-I/XIII",
+              "102",
+              "8/230",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-I/XIV",
+              "103",
+              "8/231",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-I/XV",
+              "104",
+              "8/232",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1424
+    },
+    {
+      "page": 5,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "The Schedule\nBlock : TUFANGANJ - I\nNo of\nmembers Area of the constituency Reserved for Schedule constituency Reserved for\nName of Gram Number and Name of Area of the Assembly electoral roll\nelected to the Constituency Caste, Schedule Tribe and backward women showing Serial\nPanchayet the constituency constituency part number\nPanchayet (Panchayat Part No) classes persons showing Serial Number Number\nSamiti\nBalarampur-II/I 105 8/233\nBalarampur-II/II 106 8/234\nBALARAMPUR - II/PS- BALARAMPUR - II/PS-23 -\nBalarampur-II/III 107 8/235 PS 23 - SC\n23 SCW\nBalarampur-II/IV 108 8/236\nBalarampur-II/V 109(1), 109(2) 8/237, 8/238\nBALARAMPUR - II 2\nBalarampur-II/VI 110 8/239\nBalarampur-II/VII 111 8/240\nBALARAMPUR - II/PS- BALARAMPUR - II/PS-24 -\nBalarampur-II/VIII 112 8/241\n24 W\nBalarampur-II/IX 113 8/242\nBalarampur-II/X 114(1), 114(2) 8/243, 8/244\nDeocharai/I 115 8/245\nDeocharai/II 116 8/246\nDeocharai/III 117 8/247\nDEOCHARAI/PS-25 Deocharai/IV 118(1), 118(2) 8/248, 8/249\nDeocharai/V 119(1), 119(2) 8/250, 8/251\nDeocharai/VI 120 8/252\nDeocharai/VII 121 8/253\nDeocharai/VIII 122 8/254\nDeocharai/IX 123 8/255\nDeocharai/X 124(1), 124(2) 8/256, 8/257\nDEOCHARAI 3 DEOCHARAI/PS-26 Deocharai/XI 125 8/258 PS 26 - BC\nDeocharai/XII 126 8/259\nDeocharai/XIII 127 8/260\nDeocharai/XIV 128 8/261\nDeocharai/XV 129 8/262\nDeocharai/XVI 130 8/263\nDeocharai/XVII 131 8/264\nDEOCHARAI/PS-27 Deocharai/XVIII 132 8/265 DEOCHARAI/PS-27 - W\nDeocharai/XIX 133(1), 133(2) 8/266, 8/267\nDeocharai/XX 134 8/268\nDeocharai/XXI 135 8/269\nPage:5 of total 8 pages",
+      "tables": [
+        {
+          "bbox": [
+            34.524,
+            28.710000000000008,
+            811.139985,
+            505.23600000000005
+          ],
+          "rows": [
+            [
+              "Block : TUFANGANJ - I",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "Name of Gram\nPanchayet",
+              "No of\nmembers\nelected to the\nPanchayet\nSamiti",
+              "Number and Name of\nthe constituency",
+              "Area of the\nconstituency",
+              "Area of the\nConstituency\n(Panchayat Part No)",
+              "Assembly electoral roll\npart number",
+              "constituency Reserved for Schedule\nCaste, Schedule Tribe and backward\nclasses persons showing Serial Number",
+              "constituency Reserved for\nwomen showing Serial\nNumber"
+            ],
+            [
+              "BALARAMPUR - II",
+              "2",
+              "BALARAMPUR - II/PS-\n23",
+              "Balarampur-II/I",
+              "105",
+              "8/233",
+              "PS 23 - SC",
+              "BALARAMPUR - II/PS-23 -\nSCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-II/II",
+              "106",
+              "8/234",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-II/III",
+              "107",
+              "8/235",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-II/IV",
+              "108",
+              "8/236",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-II/V",
+              "109(1), 109(2)",
+              "8/237, 8/238",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "BALARAMPUR - II/PS-\n24",
+              "Balarampur-II/VI",
+              "110",
+              "8/239",
+              "",
+              "BALARAMPUR - II/PS-24 -\nW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-II/VII",
+              "111",
+              "8/240",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-II/VIII",
+              "112",
+              "8/241",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-II/IX",
+              "113",
+              "8/242",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balarampur-II/X",
+              "114(1), 114(2)",
+              "8/243, 8/244",
+              null,
+              null
+            ],
+            [
+              "DEOCHARAI",
+              "3",
+              "DEOCHARAI/PS-25",
+              "Deocharai/I",
+              "115",
+              "8/245",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/II",
+              "116",
+              "8/246",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/III",
+              "117",
+              "8/247",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/IV",
+              "118(1), 118(2)",
+              "8/248, 8/249",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/V",
+              "119(1), 119(2)",
+              "8/250, 8/251",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/VI",
+              "120",
+              "8/252",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/VII",
+              "121",
+              "8/253",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DEOCHARAI/PS-26",
+              "Deocharai/VIII",
+              "122",
+              "8/254",
+              "PS 26 - BC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/IX",
+              "123",
+              "8/255",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/X",
+              "124(1), 124(2)",
+              "8/256, 8/257",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/XI",
+              "125",
+              "8/258",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/XII",
+              "126",
+              "8/259",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/XIII",
+              "127",
+              "8/260",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/XIV",
+              "128",
+              "8/261",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DEOCHARAI/PS-27",
+              "Deocharai/XV",
+              "129",
+              "8/262",
+              "",
+              "DEOCHARAI/PS-27 - W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/XVI",
+              "130",
+              "8/263",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/XVII",
+              "131",
+              "8/264",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/XVIII",
+              "132",
+              "8/265",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/XIX",
+              "133(1), 133(2)",
+              "8/266, 8/267",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/XX",
+              "134",
+              "8/268",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Deocharai/XXI",
+              "135",
+              "8/269",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1410
+    },
+    {
+      "page": 6,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "The Schedule\nBlock : TUFANGANJ - I\nNo of\nmembers Area of the constituency Reserved for Schedule constituency Reserved for\nName of Gram Number and Name of Area of the Assembly electoral roll\nelected to the Constituency Caste, Schedule Tribe and backward women showing Serial\nPanchayet the constituency constituency part number\nPanchayet (Panchayat Part No) classes persons showing Serial Number Number\nSamiti\nDhalpal-I/I 136 9/1\nDHALPAL - I/PS-28 Dhalpal-I/II 137 9/2\nDhalpal-I/III 138(1), 138(2) 9/3, 9/4\nDhalpal-I/IV 139 9/5\nDhalpal-I/V 140(1), 140(2) 9/6, 9/7\nDHALPAL - I/PS-29 PS 29 - SC DHALPAL - I/PS-29 - SCW\nDhalpal-I/VI 141 9/8\nDHALPAL - I 3\nDhalpal-I/VII 142 9/9\nDhalpal-I/VIII 143 9/10\nDhalpal-I/IX 144 9/11\nDHALPAL - I/PS-30 Dhalpal-I/X 145 9/12 PS 30 - SC\nDhalpal-I/XI 146 9/13\nDhalpal-I/XII 147 9/14\nAndaranfulbari-I/I 148 9/185\nAndaranfulbari-I/II 149 9/186\nANDARANFULBARI - ANDARANFULBARI -\nAndaranfulbari-I/III 150(1), 150(2) 9/187, 9188\nI/PS-31 I/PS-31 - W\nAndaranfulbari-I/IV 151 9/189\nANDARANFULBARI - I 2 Andaranfulbari-I/V 152 9/190\nAndaranfulbari-I/VI 153 9/191\nANDARANFULBARI - Andaranfulbari-I/VII 154 9/192 ANDARANFULBARI -\nPS 32- SC\nI/PS-32 Andaranfulbari-I/VIII 155(1), 155(2) 9/193, 9/194 I/PS-32 - SCW\nAndaranfulbari-I/IX 156(1), 156(2) 9/195, 9/196\nPage:6 of total 8 pages",
+      "tables": [
+        {
+          "bbox": [
+            34.524,
+            28.710000000000008,
+            811.139985,
+            381.61000000000007
+          ],
+          "rows": [
+            [
+              "Block : TUFANGANJ - I",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "Name of Gram\nPanchayet",
+              "No of\nmembers\nelected to the\nPanchayet\nSamiti",
+              "Number and Name of\nthe constituency",
+              "Area of the\nconstituency",
+              "Area of the\nConstituency\n(Panchayat Part No)",
+              "Assembly electoral roll\npart number",
+              "constituency Reserved for Schedule\nCaste, Schedule Tribe and backward\nclasses persons showing Serial Number",
+              "constituency Reserved for\nwomen showing Serial\nNumber"
+            ],
+            [
+              "DHALPAL - I",
+              "3",
+              "DHALPAL - I/PS-28",
+              "Dhalpal-I/I",
+              "136",
+              "9/1",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-I/II",
+              "137",
+              "9/2",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-I/III",
+              "138(1), 138(2)",
+              "9/3, 9/4",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DHALPAL - I/PS-29",
+              "Dhalpal-I/IV",
+              "139",
+              "9/5",
+              "PS 29 - SC",
+              "DHALPAL - I/PS-29 - SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-I/V",
+              "140(1), 140(2)",
+              "9/6, 9/7",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-I/VI",
+              "141",
+              "9/8",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-I/VII",
+              "142",
+              "9/9",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DHALPAL - I/PS-30",
+              "Dhalpal-I/VIII",
+              "143",
+              "9/10",
+              "PS 30 - SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-I/IX",
+              "144",
+              "9/11",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-I/X",
+              "145",
+              "9/12",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-I/XI",
+              "146",
+              "9/13",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dhalpal-I/XII",
+              "147",
+              "9/14",
+              null,
+              null
+            ],
+            [
+              "ANDARANFULBARI - I",
+              "2",
+              "ANDARANFULBARI -\nI/PS-31",
+              "Andaranfulbari-I/I",
+              "148",
+              "9/185",
+              "",
+              "ANDARANFULBARI -\nI/PS-31 - W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-I/II",
+              "149",
+              "9/186",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-I/III",
+              "150(1), 150(2)",
+              "9/187, 9188",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-I/IV",
+              "151",
+              "9/189",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-I/V",
+              "152",
+              "9/190",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "ANDARANFULBARI -\nI/PS-32",
+              "Andaranfulbari-I/VI",
+              "153",
+              "9/191",
+              "PS 32- SC",
+              "ANDARANFULBARI -\nI/PS-32 - SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-I/VII",
+              "154",
+              "9/192",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-I/VIII",
+              "155(1), 155(2)",
+              "9/193, 9/194",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Andaranfulbari-I/IX",
+              "156(1), 156(2)",
+              "9/195, 9/196",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1218
+    },
+    {
+      "page": 7,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "The Schedule\nBlock : TUFANGANJ - I\nNo of\nmembers Area of the constituency Reserved for Schedule constituency Reserved for\nName of Gram Number and Name of Area of the Assembly electoral roll\nelected to the Constituency Caste, Schedule Tribe and backward women showing Serial\nPanchayet the constituency constituency part number\nPanchayet (Panchayat Part No) classes persons showing Serial Number Number\nSamiti\nNakkatigachh/I 157 9/197\nNakkatigachh/II 158 9/198\nNakkatigachh/III 159(1), 159(2) 9/199, 9/200\nNAKKATIGACHH /PS- Nakkatigachh/IV 160 9/201\n33 Nakkatigachh/V 161 9/202\nNakkatigachh/VI 162 9/203\nNakkatigachh/VII 163(1), 163(2) 9/204, 9/205\nNakkatigachh/VIII 164 9/206\nNakkatigachh/IX 165 9/207\nNakkatigachh/X 166 9/208\nNakkatigachh/XI 167 9/209\nNAKKATIGACHH /PS- Nakkatigachh/XII 168 9/210\nNAKKATIGACHH 3 PS 34 - SC\n34 Nakkatigachh/XIII 169 9/211\nNakkatigachh/XIV 170 9/212\nNakkatigachh/XV 171 9/213\nNakkatigachh/XVI 172 9/214\nNakkatigachh/XVII 173 9/215\nNakkatigachh/XVIII 174 9/216\nNakkatigachh/XIX 175 9/217\nNAKKATIGACHH /PS- Nakkatigachh/XX 176 9/218 NAKKATIGACHH /PS-35 -\n35 Nakkatigachh/XXI 177 9/219 W\nNakkatigachh/XXII 178 9/220\nNakkatigachh/XXIII 179 9/221\nNakkatigachh/XXIV 180(1), 180(2) 9/222, 9/223\nPage:7 of total 8 pages",
+      "tables": [
+        {
+          "bbox": [
+            34.524,
+            28.710000000000008,
+            811.139985,
+            418.70799500000004
+          ],
+          "rows": [
+            [
+              "Block : TUFANGANJ - I",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "Name of Gram\nPanchayet",
+              "No of\nmembers\nelected to the\nPanchayet\nSamiti",
+              "Number and Name of\nthe constituency",
+              "Area of the\nconstituency",
+              "Area of the\nConstituency\n(Panchayat Part No)",
+              "Assembly electoral roll\npart number",
+              "constituency Reserved for Schedule\nCaste, Schedule Tribe and backward\nclasses persons showing Serial Number",
+              "constituency Reserved for\nwomen showing Serial\nNumber"
+            ],
+            [
+              "NAKKATIGACHH",
+              "3",
+              "NAKKATIGACHH /PS-\n33",
+              "Nakkatigachh/I",
+              "157",
+              "9/197",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/II",
+              "158",
+              "9/198",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/III",
+              "159(1), 159(2)",
+              "9/199, 9/200",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/IV",
+              "160",
+              "9/201",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/V",
+              "161",
+              "9/202",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/VI",
+              "162",
+              "9/203",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/VII",
+              "163(1), 163(2)",
+              "9/204, 9/205",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/VIII",
+              "164",
+              "9/206",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "NAKKATIGACHH /PS-\n34",
+              "Nakkatigachh/IX",
+              "165",
+              "9/207",
+              "PS 34 - SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/X",
+              "166",
+              "9/208",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XI",
+              "167",
+              "9/209",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XII",
+              "168",
+              "9/210",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XIII",
+              "169",
+              "9/211",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XIV",
+              "170",
+              "9/212",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XV",
+              "171",
+              "9/213",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XVI",
+              "172",
+              "9/214",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "NAKKATIGACHH /PS-\n35",
+              "Nakkatigachh/XVII",
+              "173",
+              "9/215",
+              "",
+              "NAKKATIGACHH /PS-35 -\nW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XVIII",
+              "174",
+              "9/216",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XIX",
+              "175",
+              "9/217",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XX",
+              "176",
+              "9/218",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XXI",
+              "177",
+              "9/219",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XXII",
+              "178",
+              "9/220",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XXIII",
+              "179",
+              "9/221",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Nakkatigachh/XXIV",
+              "180(1), 180(2)",
+              "9/222, 9/223",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1154
+    },
+    {
+      "page": 8,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "The Schedule\nBlock : TUFANGANJ - I\nNo of\nmembers Area of the constituency Reserved for Schedule constituency Reserved for\nName of Gram Number and Name of Area of the Assembly electoral roll\nelected to the Constituency Caste, Schedule Tribe and backward women showing Serial\nPanchayet the constituency constituency part number\nPanchayet (Panchayat Part No) classes persons showing Serial Number Number\nSamiti\nBalabhut/I 181 9/240\nBalabhut/II 182 9/241\nBALABHUT /PS-36 PS 36 - SC BALABHUT /PS-36 - SCW\nBalabhut/III 183 9/242\nBalabhut/IV 184 9/243\nBalabhut/V 185 9/244\nBalabhut/VI 186 9/245\nBALABHUT 3 BALABHUT /PS-37 PS 37 - BC\nBalabhut/VII 187 9/246\nBalabhut/VIII 188 9/247\nBalabhut/IX 189 9/248\nBalabhut/X 190(1), 190(2) 9/249, 9/250\nBALABHUT /PS-38\nBalabhut/XI 191 9/251\nBalabhut/XII 192 9/252\nPage:8 of total 8 pages",
+      "tables": [
+        {
+          "bbox": [
+            34.524,
+            28.710000000000008,
+            811.139985,
+            270.35
+          ],
+          "rows": [
+            [
+              "Block : TUFANGANJ - I",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "Name of Gram\nPanchayet",
+              "No of\nmembers\nelected to the\nPanchayet\nSamiti",
+              "Number and Name of\nthe constituency",
+              "Area of the\nconstituency",
+              "Area of the\nConstituency\n(Panchayat Part No)",
+              "Assembly electoral roll\npart number",
+              "constituency Reserved for Schedule\nCaste, Schedule Tribe and backward\nclasses persons showing Serial Number",
+              "constituency Reserved for\nwomen showing Serial\nNumber"
+            ],
+            [
+              "BALABHUT",
+              "3",
+              "BALABHUT /PS-36",
+              "Balabhut/I",
+              "181",
+              "9/240",
+              "PS 36 - SC",
+              "BALABHUT /PS-36 - SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balabhut/II",
+              "182",
+              "9/241",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balabhut/III",
+              "183",
+              "9/242",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balabhut/IV",
+              "184",
+              "9/243",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "BALABHUT /PS-37",
+              "Balabhut/V",
+              "185",
+              "9/244",
+              "PS 37 - BC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balabhut/VI",
+              "186",
+              "9/245",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balabhut/VII",
+              "187",
+              "9/246",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balabhut/VIII",
+              "188",
+              "9/247",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "BALABHUT /PS-38",
+              "Balabhut/IX",
+              "189",
+              "9/248",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balabhut/X",
+              "190(1), 190(2)",
+              "9/249, 9/250",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balabhut/XI",
+              "191",
+              "9/251",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Balabhut/XII",
+              "192",
+              "9/252",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 769
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 8
+}

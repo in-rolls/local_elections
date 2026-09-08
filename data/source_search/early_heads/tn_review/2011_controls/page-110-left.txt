@@ -1,0 +1,56 @@
+1 2 3
+ARIMALAM PANCHAYAT UNION :
+1 Vanniyampatti SC(Women)
+2 Onangudi SC(Women)
+3 Samudram SC(General)
+4 Rayavaram SC(General)
+5 Embal SC(General)
+6 Kadiyapatti SC(General)
+7 Pudunilaivayal General(Women)
+8 Kallur General(Women)
+9 Keelappanaiyur General(Women)
+10 Thuraiyur General(Women)
+11 Kaikulanvayal General(Women)
+12 Munasandai General(Women)
+13 Ayingudi General(Women)
+14 Nedungudi General(Women)
+15 Madagam General(Women)
+16 Piliyavayal General
+17 Nallambal Samudram General
+18 K.Rayavaram General
+19 Valaramanickam General
+20 Perungudi General
+21 Kurungalur General
+22 Melnilaivayal General
+23 Kummangudi General
+24 Thiruvakkudi General
+25 Irumbanadu General
+26 Kadayakudi General
+27 Miratunilai General
+28 Karamangalam General
+29 Thekkattur General
+30 Sengeerai General
+31 K.Chettipatti General
+32 Kannankarakudi General
+AVUDAIYARKOIL PANCHAYAT UNION
+1 Kalabam SC (Women)
+2 Thunjanur SC (Women)
+3 Veeramangalam SC (General)
+4 Poovalur SC (General)
+5 Sirumaruthur SC (General)
+6 Ponbethi SC (General)
+7 Okkur General (Women)
+8 Puthambur General (Women)
+9 Thalanur General (Women)
+10 Punniyavayal General (Women)
+11 Kundagavayal General (Women)
+12 Kunnur General (Women)
+13 Vilanur General (Women)
+14 Karur General (Women)
+15 Keelkudivattathur General (Women)
+16 Mimisal General (Women)
+17 Velvarai General
+18 Kavathukudi General
+19 Ponnamangalam General
+20 Velivayal General
+Page 108

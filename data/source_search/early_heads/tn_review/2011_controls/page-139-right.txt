@@ -1,0 +1,45 @@
+1 2 3
+Kallal Panchayat Union Contd.
+34 Kandramanickam General
+35 Malaikandan General
+36 Melapattamangalam General
+37 Arcot Veluoor General
+38 Siravayal General
+39 Kalipuli General
+40 Palavangudi General
+41 Kampanoor General
+42 Kundrakudi General
+43 Natchiyapuram General
+44 Koviloor General
+Sakkottai Panchayat Union
+1 Sengathankudi SC(Women)
+2 Amaravathipudur SC(Women)
+3 Mithiravayal SC(General)
+4 Nemam SC(General)
+5 Ariyakudi General (Women)
+6 Chockalingampudur General (Women)
+7 Nattucheri General (Women)
+8 Periyakottai General (Women)
+9 Periyakottakudi General (Women)
+10 Sirugapatti General (Women)
+11 T- Soorakudi General (Women)
+12 Ambakudi General
+13 Chettinadu General
+14 I - Mathur General
+15 Illuppakudi General
+16 Jeyankondan General
+17 Kalathur General
+18 Kothamangalam General
+19 Oyyakondan Siruvayal General
+20 P-Muthuppattinam General
+21 Pirambuvayal General
+22 Sakkavayal General
+23 Sankarapuram General
+24 Vadakudi General
+25 Veerasekarapuram General
+26 Vengavayal General
+Thiruppathur Panchayat Union
+1 P - Karungulam SC(Women)
+2 Thirukkolakudi SC(Women)
+3 Thirkkalappatti SC(General)
+4 N - Ilaiyathangudi SC(General)

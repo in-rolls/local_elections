@@ -1,0 +1,56 @@
+{
+  "source_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/beaman_data_appendix_00.body",
+  "pages": [
+    {
+      "page": 1,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "text": "A Data Appendix\nA.1 Vignette and Speech\nThe gender of the leader was varied at the respondent level. We further randomized the invest-\nment decision in the vignette.\nI.I Vignette: Respondents received one of four vignettes, which varied in the gender of the\nPradhan (Male (Tapan Das) or Female (Sandhya Das)) and the investment decision (Irri-\ngation or Water).\nREADOUT: WewillreadashortdescriptionofthePradhanofvillageCHANDIindistrict\nSouth 24 Parganas. We will ask you some questions about what you think the Pradhan\nshould have done. There are no right or wrong answers. Please answer each in terms\nof your own reactions. Pradhan Tapan Das [Pradhan Sandhya Das] has been serving his\n[her] Panchayat for ten months. As the end of the year approaches, there is only a limited\namount of money remaining in the budget. Yet, villagers have been pressing him [her] to\nmake improvements in two major areas: irrigation and drinking water. There was enough\nmoney to make investments in only one area. Prior to making a decision, Pradhan Tapan\nDas [Pradhan Sandhya Das] consulted with villagers at the Gram Sabha. Many people\nexpressed frustration that there was still no safe drinking water available in the village.\nMany people, especially children, were getting sick. Others were upset about the quality\nof the irrigation system. Poor irrigation system meant that, in dry years, many people lost\ntheir crops. Shri Tapan Das [Shrimati Sandhya Das] considered the demands carefully,\nand wondered what to do. On the one hand, Shri Tapan Das [Shrimati Sandhya Das]\nknew the health cost of bad water quality. Yet,wouldn’t everyone be better off with better\nirrigation? After careful reflection Pradhan Tapan Das [Pradhan Sandhya Das] decided to\ninvest in irrigation improvement [drinking water].\nI.2 Speech: Respondents received one of six speech versions - three male voice recordings and\nthree female voice recordings.\n1"
+    },
+    {
+      "page": 2,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "text": "READ OUT: You will hear a tape-recorded speech from the village meeting of Gram\nPanchayat Labhpur in district West Dinajpur. We will ask you some questions on the\neffectiveness of the leader. There are no right or wrong answers. Please answer each in\nterms of your own reactions.\nVILLAGER: The tubewell of our Kumarpara is not functioning. The repairing job of the\ntubewell in your locality has been done partially, but the same work at Nutangram has\nbeen completed.\nPRADHAN: For repairing of tubewells maximum amount of funds of the Panchayat is\nbeing drained out. As a result of which, other works can’t be done. From the next\nstage you, the people, should take mental preparations that the minor repairing jobs of\nthe tubewells won’t be done by the Panchayat. I mean that if the work involves a large\namount of money, e.g. if a pipe is needed then it involves the money above Rs.250, Rs.300,\nthis type of work will be done by the Panchayat. But for the minor repairing jobs the\npeople have to take initiative to collect subscriptions to do this. In the future, the plan\nof the Panchayat will be ”plans with equal sharings” (”Samobhagi Parikalpana”). The\nGovernment won’t provide all the money. The Government will provide some amount of\nmoney and the rest will have to be borne by the people either by giving labor or helping\nfinancially. In this way the work of the Panchayat has to be done. Suppose a village road\nhas to be constructed, then the people of the village will do the earthen work and the\nPanchayat will supply the morram. Therefore the people will now share the jobs, which\nthe Panchayat did mostly. Then the total work can be made with success. So in the next\nstage, preparation has to be taken. I would now like all villagers to approve the village\nbudget.\nA.2 Table V Variables\nOur regressions in Table V consider as dependent variables an average public good quantity\nindex (column (1)), an average public good quality index (column (2)), an average satisfaction\nindex (columns (3) and (4)), average bribes (column (6)) and alignment with female preference\n2"
+    },
+    {
+      "page": 3,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "text": "(column (7)). We describe the construction of these variables.\nPublic Good Quantity: The index is the averaged sum of normalized investments in the goods\nlisted below. We average over the number of types of public goods invested in, and normalize\ninvestments in each type of good by subtracting the mean for the never reserved villages and\ndividing by their standard deviation. For ease of exposition, each public good can be put into\nthe following category:\n1. Water and sanitation: a dummy for whether a tubewell was built, a tubewell was repaired,\na sanitation pit was built, a sanitation pit repaired.\n2. Irrigation: a dummy for whether an irrigation pump was built or repaired.\n3. Roads: a dummy for whether a metal road was built or repaired since 2003.\n4. Transport: number of transportation0related infrastructure components (bus stop, bus\nservice, and private taxi / auto).\n5. Schools and other education facilities: a dummy for whether any educational facility was\nbuilt, a dummy for whether such facility was repaired, a dummy for whether there is a\ncreche and an indicator for a CE Center/ Library. Educational facilities considered for\nthe built and repaired indicators include: SSK, Anganwadi, government primary schools,\nmiddle schools, libraries, secondary schools and CE Center / Library.\n6. Health: the number of health facilities, including Public Health Centers and Health Sub-\nCenters / Subsidiary Centers, a dummy for whether a health facility was built, a dummy\nfor whether a health facility was repaired (0 if no health facility existed), and number of\ndoctors.\nPublic Good Quality: The index is defined analogous to the quantity variable.\n1. Water: handpumps are perennial, provide clean water, no stagnant water, and drainage\nfacility.\n2. Road: condition of road (1-5) and number of potholes in 100m.\n3"
+    },
+    {
+      "page": 4,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "text": "3. Transport: dummy for presence of a bus stand and if bus stand has shelter.\n4. Schools and other education facilities: whether all primary schools have drinking water,\ntoilets, and blackboards.\n5. Health: facility having tap or hand-pump water and an indicator for having a labor room.\n6. Fair Price Shop Quality: whether prices displayed, no bad behavior of shopkeeper, and no\ncomplaint against shop.\nSatisfaction Variables: The satisfaction index is defined analogous to the quantity variable. All\nof the variables below are either 0 (not satisfied) or 1 (satisfied):\n1. Satisfaction with water provision: satisfied with the quantity of the water supply and the\nquality of the water supply.\n2. Satisfaction with public transport: satisfied with the frequency, reliability, cost, quality of\nthe buses, and the behavior of the driver/conductor in the public bus system.\n3. Satisfaction with schools: satisfied with (if available) the school’s building, playground,\nrecreational facilities, classrooms, toilets, drinking water, meals, quality of the teaching,\nquality of study material, and behavior of teacher.\n4. Satisfaction with fair price shops: satisfied with the quality of items, the quantity of items,\nthe fairness of shopkeeper, and the availability of items in the shop.\n5. Satisfaction with health care: satisfied with treatment, behavior of doctors, behavior of\nparamedical staff, quality of medicine, cleanliness inside the facility in outpatient health\nfacilities; and satisfied with treatment, behavior of doctors, behavior or paramedical staff\nquality of medicine, quality of food, cleanliness inside the wards, cleanliness inside the\nbathrooms in inpatient health facilities.\nBribes: The bribe index is the average over two variables, each of which is 1 if either adult\nrespondent within a household reported:\n4"
+    },
+    {
+      "page": 5,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "text": "1. Paying speed money / bribe for renewal or issuance of a BPL card.\n2. Paying speed money / bribe to rectify a problem with the water supply, either because it\nwas requested or the individual offered the money voluntarily.\nAlignment with Female Preference: The alignment with female preference specification tests\nwhetherthereismoreinvestmentinreservedGPsingoodsmentionedmorefrequentlybywomen,\nas measured by formal complaints to the GP during 6 months in 2000. The data and specifi-\ncation are the same as in Chattopadhyay and Duflo (2004). Complaints were categorized into\nthe following areas: drinking water, road improvement, education, irrigation, and other. The\nspecification is:\nN\n(cid:88)\nY = β +β R +β R +β R +β D ∗R +β D ∗R +β D ∗R + β d +(cid:15)\nij 0 2 g2 2and1 g2and1 1 g1 3 i g2 4 i g2and1 5 i g1 l il ij\nl=1\n(1)\nwhere D is the average difference between the fraction of requests about good i from women\ni\nand from men and d are good-specific dummies. R are the reservation indicators as defined in\nil g.\nthe paper. In Table 5, column (6), we report the coefficients from the interaction of reservation\nstatus and the average difference between the fraction of requests for goods in category i from\nwomen and from men (i.e. β , β and β ).\n3 4 5\n5"
+    }
+  ],
+  "source_sha256": "3977b9441b3072426f107b40918327652c3729b6b12fb905378d281ec14f6424"
+}

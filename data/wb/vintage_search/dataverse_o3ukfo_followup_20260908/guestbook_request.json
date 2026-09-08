@@ -1,0 +1,9 @@
+{
+  "url": "https://dataverse.harvard.edu/api/guestbooks/269",
+  "method": "GET",
+  "status": 200,
+  "content_type": "application/json;charset=UTF-8",
+  "path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/guestbook_metadata.json",
+  "sha256": "a8b05cd7771371cd40cbcb09637a7f0f66894b3b8677e981d1cd9eb32e7b4c0d",
+  "retrieved_utc": "2026-09-08T04:57:23.474302+00:00"
+}

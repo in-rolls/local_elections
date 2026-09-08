@@ -1,0 +1,72 @@
+[
+  {
+    "group": "pilot",
+    "matching_cells": 6,
+    "reviewed_cells": 9,
+    "mismatches": [
+      {
+        "expected": [
+          "JABARRAH-JHAPRA-I",
+          "SC"
+        ],
+        "qwen": [
+          "JABARRAHJHAPRA- I",
+          "SC"
+        ],
+        "row_id": "6cdcfe386952de84c6462550"
+      },
+      {
+        "expected": [
+          "BARRAH",
+          "ST"
+        ],
+        "qwen": [
+          "BARRAN",
+          "ST"
+        ],
+        "row_id": "02a138e41cf5ffe1c97c3f42"
+      },
+      {
+        "expected": [
+          "MURADIH",
+          "women"
+        ],
+        "qwen": [
+          "MURADIII",
+          "women"
+        ],
+        "row_id": "60f90521d9aaa5b34dd7c23d"
+      }
+    ],
+    "comparison": "case and whitespace normalized; punctuation preserved",
+    "limitation": "small purposively selected sample; not general accuracy estimate"
+  },
+  {
+    "group": "highres",
+    "matching_cells": 5,
+    "reviewed_cells": 5,
+    "mismatches": [],
+    "comparison": "case and whitespace normalized; punctuation preserved",
+    "limitation": "small purposively selected sample; not general accuracy estimate"
+  },
+  {
+    "group": "s24_targeted/readings",
+    "matching_cells": 19,
+    "reviewed_cells": 20,
+    "mismatches": [
+      {
+        "expected": [
+          "Gokorni",
+          "SC"
+        ],
+        "qwen": [
+          "Gokarni",
+          "SC"
+        ],
+        "row_id": "dbed1fdf1745fb30cecd8f9d"
+      }
+    ],
+    "comparison": "case and whitespace normalized; punctuation preserved",
+    "limitation": "small purposively selected sample; not general accuracy estimate"
+  }
+]

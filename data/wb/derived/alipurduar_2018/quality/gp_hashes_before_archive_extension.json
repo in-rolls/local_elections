@@ -1,0 +1,8 @@
+{
+  "gp_candidates.csv": "ae1978f51d19b16de7bcbdfed626626a0be049b8ba786c3ec635698205611fd7",
+  "gp_candidates.jsonl": "9da14da809f13c893618857d579707831b27f4f8bb2bef838ec8c016d846aade",
+  "gp_candidates.parquet": "e44a59863bee0c4609d8f3478c46ea86c2be6b020557480669f6bc8734ef495c",
+  "gp_seats.jsonl": "86829b30617e0b6404bb46739ac09076a74d9e3ae19d63d3a46cc8060a773aa0",
+  "gp_seats.parquet": "62107a051247bbf664b16ffb185e8dafe785231bc686e879c9ebc99b37261aed",
+  "gp_seats.csv": "f6965ee605602168185ab93f1b83acf4cddbea09d2ef92b2c0237b89df3b5c9b"
+}

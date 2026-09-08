@@ -1,0 +1,55 @@
+1 2 3
+Kunnandarkoil Panchayat Union Contd...
+14 Visalur General (Women)
+15 Thayinippatti General (Women)
+16 Naanjur General (Women)
+17 Rakkathampatti General
+18 Pappudaiyanpatti General
+19 Senaiyakudi General
+20 Vaithur General
+21 Vathanakkurichy General
+22 Chettippatti General
+23 Kannangudi General
+24 Veerakkudi General
+25 Uppiliyakkudi General
+26 Killanur General
+27 T. Keelaiyur General
+28 Melapuduvayal General
+29 Moottampatti General
+30 Pallathuppatti General
+31 Valamangalam General
+32 Odukkur General
+33 Valiyampatti General
+34 Udaiyalippatti General
+35 Lekkanappatti General
+36 Odugampatti General
+37 Koppampatti General
+MANAMELKUDI PANCHAYAT UNION
+1 Manalur SC(Women)
+2 Vettivayal SC(Women)
+3 Thandalai SC(General)
+4 Nilayur SC(General)
+5 Kolendram General(Women)
+6 Krishnajipattinam General(Women)
+7 Karakkottai General(Women)
+8 Minnamozhi General(Women)
+9 Manamelkudi General(Women)
+10 Kanadu General(Women)
+11 Karakathikottai General(Women)
+12 Vichur General(Women)
+13 Perumarudhur General
+14 Bhiramanavayal General
+15 Nelveli General
+16 Thinayakudi General
+17 Ammapattinam General
+18 Kattumavadi General
+19 Mumbalai General
+20 Nerkkuppai General
+21 Sathiyadi General
+22 Manjakudi General
+23 Edayathur General
+24 Vellur General
+25 Kottaipattinam General
+26 Edaiyathimangalam General
+27 Keelamanjakudi General
+28 Seyyanam General

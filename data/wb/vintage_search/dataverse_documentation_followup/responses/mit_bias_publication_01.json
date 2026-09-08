@@ -1,0 +1,27 @@
+{
+  "request_url": "https://economics.mit.edu/sites/default/files/2022-08/powerfulwomen_finaljune08.pdf",
+  "response_url": "https://economics.mit.edu/sites/default/files/2022-08/powerfulwomen_finaljune08.pdf",
+  "status": 200,
+  "headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "400388",
+    "Content-Type": "application/pdf",
+    "Etag": "\"6329bb57-61c04\"",
+    "Last-Modified": "Tue, 20 Sep 2022 13:08:39 GMT",
+    "Server": "nginx",
+    "Strict-Transport-Security": "max-age=300",
+    "X-Pantheon-Styx-Hostname": "styx-us-a-54cd58dc45-26w49",
+    "X-Styx-Req-Id": "c0fde411-ab45-11f1-abe8-8e00ca474c16",
+    "Date": "Tue, 08 Sep 2026 05:25:50 GMT",
+    "X-Served-By": "cache-chi-kmdw8640071-CHI, cache-bfi-krnt7300084-BFI",
+    "X-Cache": "MISS, MISS",
+    "X-Cache-Hits": "0, 0",
+    "X-Timer": "S1788845150.379001,VS0,VE255",
+    "Age": "0",
+    "Accept-Ranges": "bytes",
+    "Via": "1.1 varnish, 1.1 varnish"
+  },
+  "body_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/mit_bias_publication_01.body",
+  "bytes": 400388,
+  "sha256": "837655da248ee81791a7013f9bf62cc57961392ccdb6a016cf37b12d6d4958bc"
+}

@@ -1,0 +1,54 @@
+THANJA
+VILLAGE PANC
+Reservation of Seats for Scheduled Caste / Schedul
+Tam
+Sl. Name of the Village Category to which
+No Panchayat reservation is made
+1 2 3
+Thanjavur Panchayat Union
+1 Kollankarai Vallundanpattu SC (Women)
+2 Munnaiyampatti SC (Women)
+3 Rajendram SC (Women)
+4 Sennampatti SC (Women)
+5 Thirumalaisamudram SC (Women)
+6 Alakkudi SC (General)
+7 Kulichappattu SC (General)
+8 Manakkarambai SC (General)
+9 Manangorai SC (General)
+10 Maruthakudi SC (General)
+11 Nagathi SC (General)
+12 Palliyeri SC (General)
+13 Soorakkottai SC (General)
+14 Thandangorai SC (General)
+15 Thenperambur SC (General)
+16 Inathukanpatti General (Women)
+17 Gudalur General (Women)
+18 Kondavattanthidal General (Women)
+19 Kurunkulam (E) General (Women)
+20 Kandithampattu General (Women)
+21 Madigai General (Women)
+22 Nanjikottai General (Women)
+23 Narasanayagipuram General (Women)
+24 Perumbur- I sethi General (Women)
+25 Pillaiyarnatham General (Women)
+26 Pillaiyarpatti General (Women)
+27 Pudupattinam General (Women)
+28 Rayanthur General (Women)
+29 Thittai General (Women)
+30 Thirukkanurpatti General (Women)
+31 Sakkarasamandam General (Women)
+32 Chitrakudi General
+33 Kollankarai General
+34 Kurunkulam (W) General
+35 Kuruvadipatti General
+36 Kadakadappai General
+37 Kurungalur General
+38 Kalvirayanpettai General
+39 Kasanadupudur General
+40 Kattur General
+41 Mariyammankoil General
+42 Marungulam General
+43 Mathur East General
+44 Mathur West General
+45 Melaveli General
+Page 78

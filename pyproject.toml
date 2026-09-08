@@ -5,7 +5,7 @@ readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 requires-python = ">=3.12"
-version = "0.4.0"
+version = "0.5.0"
 authors = [{ name = "Gaurav Sood", email = "contact@gsood.com" }]
 keywords = ["india", "panchayat", "elections", "reservation", "local government"]
 classifiers = [
@@ -54,11 +54,12 @@ dev = [
     "pyright",
     "pydoclint>=0.5",
 ]
-test = ["pytest"]
+test = ["pytest", { include-group = "table-ocr" }]
 
 # Reading the scans. Apple Silicon only; Savitr's MLX runtime has no CPU
 # fallback. Kept separate so parser-only work does not install the model stack.
 ocr = ["savitr==0.3.0"]
+table-ocr = ["opencv-python==5.0.0.93", "numpy==2.5.2", "pillow==12.3.0"]
 
 # Console scripts, so the Makefile and anyone else name a command rather than a
 # file path. verify-manifest is deliberately also runnable as a bare file: it
@@ -67,6 +68,7 @@ ocr = ["savitr==0.3.0"]
 [tool.ruff]
 line-length = 88
 target-version = "py312"
+extend-exclude = ["data/wb/vintage_search/raw"]
 
 [tool.ruff.lint]
 external = ["DOC"]

@@ -1,0 +1,289 @@
+{
+  "version": 1,
+  "sha256": "d6deba152707b2177983cbefad8dc94a641b809db18ba4fe1b7b188d7d3568c3",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE\nBLOCK : TEHATTA - I\nNumber of members to be elected in the Gram\nSeats reserved\nPamchayat\nSeats allocated for Schedule\nSeats reserved\nto each Caste or\nNumber, name & area of constituencies with serial for Women\nName of Gram constituency Schedule Tribe\nSchedule Schedule numbers against serial\nTotal No. of Women with serial against serial\nCastes Tribes number of Seats.\nmembers members number number of\nMembers members\nSeats\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nKanainagar /I Part No. 70/54\n1 - 1, Women\nMouza- Pratapnagar, J.L. No. 65\nKanainagar 16 3 Nil 6\na) Pratapnagar Uttar\n2 - -\nb) Pratapnagar (Dakshin)\nKanainagar /II Part No. 70/55\nMouza- Jayrampur, J.L. No. 64\na) Jayrampur\n3 3, SC 3,SC(Women)\nMouza- Srirampur, J.L. No. 61\na) Dhanchepara\nb) Archyya Para\nKanainagar /III Part No. 70/56\nMouza- Rajapur, J.L. No. 63 4 - -\na) Rajapur Purbapara\nKanainagar /IV Part No. 70/57\n5 - 5, Women\nMouza- Rajapur, J.L. No. 63\na) Jannagar\n6 - -\nb) Rajapur Paschimpara\nKanainagar /V Part No. 70/58\nMouza- Kanainagar, J.L. No. 62 7 - -\na) Kanainagar Uttarpara\nb) Kanainagar Khalpara\nc) Kanainagar Dakshinpara 8 - 8, Women\nd) Kanainagar Palpara\nKanainagar /VI Part No. 70/59\nMouza- Uttar Char Chandpur, J.L. No. 114\na) Uttar Char Chandpur 9 - -\nMouza- Kanainagar, J.L. No. 62\na) Kanainagar Dakshinpara\n1 of 3",
+      "tables": [
+        {
+          "bbox": [
+            36.454679999999996,
+            84.74688300000003,
+            719.441883,
+            548.589483
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of constituencies with serial\nnumbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumber",
+              "Seats reserved\nfor Schedule\nCaste or\nSchedule Tribe\nagainst serial\nnumber of\nSeats",
+              "Seats reserved\nfor Women\nagainst serial\nnumber of Seats."
+            ],
+            [
+              null,
+              "Total No. of\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Kanainagar",
+              "16",
+              "3",
+              "Nil",
+              "6",
+              "Kanainagar /I Part No. 70/54\nMouza- Pratapnagar, J.L. No. 65\na) Pratapnagar Uttar\nb) Pratapnagar (Dakshin)",
+              "1\n2",
+              "-\n-",
+              "1, Women\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Kanainagar /II Part No. 70/55\nMouza- Jayrampur, J.L. No. 64\na) Jayrampur\nMouza- Srirampur, J.L. No. 61\na) Dhanchepara\nb) Archyya Para",
+              "3",
+              "3, SC",
+              "3,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Kanainagar /III Part No. 70/56\nMouza- Rajapur, J.L. No. 63\na) Rajapur Purbapara",
+              "4",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Kanainagar /IV Part No. 70/57\nMouza- Rajapur, J.L. No. 63\na) Jannagar\nb) Rajapur Paschimpara",
+              "5",
+              "-",
+              "5, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "6",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Kanainagar /V Part No. 70/58\nMouza- Kanainagar, J.L. No. 62\na) Kanainagar Uttarpara\nb) Kanainagar Khalpara\nc) Kanainagar Dakshinpara\nd) Kanainagar Palpara",
+              "7",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "8",
+              "-",
+              "8, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Kanainagar /VI Part No. 70/59\nMouza- Uttar Char Chandpur, J.L. No. 114\na) Uttar Char Chandpur\nMouza- Kanainagar, J.L. No. 62\na) Kanainagar Dakshinpara",
+              "9",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1258
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "Number of members to be elected in the Gram Seats reserved\nPamchayat Seats allocated for Schedule\nSeats reserved\nto each Caste or\nNumber, name & area of constituencies with serial for Women\nName of Gram constituency Schedule Tribe\nSchedule Schedule numbers against serial\nTotal No. of Women with serial against serial\nCastes Tribes number of Seats.\nmembers members number number of\nMembers members\nSeats\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nKanainagar /VII Part No. 70/60\n10 10, SC -\nMouza- Srirampur, J.L. No. 61\na) Nutanpara\n11 - -\nb) Halderpara\nKanainagar /VIII Part No. 70/61\nMouza- Binodnagar, J.L. No. 71\n12 - 12, Women\na) Masjid Para\nb) Board Para\nKanainagar /IX Part No. 70/62\nMouza- Swardanga, J.L. No. 60\na) Swardanga\n13 - -\nMouza- Binodnagar, J.L. No. 71\na) Paschimpara\nb) Anandanagar\nKanainagar- X Part No. 70/63\nMouza- Binodnagar, J.L. No. 71\na) Ghosh Para\n14 - -\nb) Hazra Para\nc) Fakirpara\nd) Halder Para\nKanainagar- XI Part No. 70/64\nMouza- Bahadurpur, J.L. No. 70 15 15, SC -\na) Bahadurpur\nKanainagar- XII Part No. 70/65\nMouza- Balarampur, J.L. No. 73\na) Balrampur 16 - 16, Women\nMouza- Chalk Chilakhali, J.L. No. 72\na) Chalk Chilakhali\n2 of 3",
+      "tables": [
+        {
+          "bbox": [
+            36.454679999999996,
+            64.22988299999997,
+            719.441883,
+            509.716083
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of constituencies with serial\nnumbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumber",
+              "Seats reserved\nfor Schedule\nCaste or\nSchedule Tribe\nagainst serial\nnumber of\nSeats",
+              "Seats reserved\nfor Women\nagainst serial\nnumber of Seats."
+            ],
+            [
+              null,
+              "Total No. of\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Kanainagar /VII Part No. 70/60\nMouza- Srirampur, J.L. No. 61\na) Nutanpara\nb) Halderpara",
+              "10",
+              "10, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "11",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Kanainagar /VIII Part No. 70/61\nMouza- Binodnagar, J.L. No. 71\na) Masjid Para\nb) Board Para",
+              "12",
+              "-",
+              "12, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Kanainagar /IX Part No. 70/62\nMouza- Swardanga, J.L. No. 60\na) Swardanga\nMouza- Binodnagar, J.L. No. 71\na) Paschimpara\nb) Anandanagar",
+              "13",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Kanainagar- X Part No. 70/63\nMouza- Binodnagar, J.L. No. 71\na) Ghosh Para\nb) Hazra Para\nc) Fakirpara\nd) Halder Para",
+              "14",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Kanainagar- XI Part No. 70/64\nMouza- Bahadurpur, J.L. No. 70\na) Bahadurpur",
+              "15",
+              "15, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Kanainagar- XII Part No. 70/65\nMouza- Balarampur, J.L. No. 73\na) Balrampur\nMouza- Chalk Chilakhali, J.L. No. 72\na) Chalk Chilakhali",
+              "16",
+              "-",
+              "16, Women"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1114
+    },
+    {
+      "page": 3,
+      "width": 792,
+      "height": 612,
+      "text": "Date : 07/02/2008 District Panchayat Election Officer\n& District Magistrate, Nadia\n3 of 3",
+      "tables": [],
+      "images": 0,
+      "characters": 86
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

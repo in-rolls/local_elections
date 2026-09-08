@@ -1,0 +1,124 @@
+{
+  "table": "gp_president_amendment_operations",
+  "columns": [
+    {
+      "field": "row_id",
+      "definition": "SHA-derived source occurrence key from document,page,clause/union/serial locator; not a GP code."
+    },
+    {
+      "field": "state",
+      "definition": "Tamil Nadu."
+    },
+    {
+      "field": "document_year",
+      "definition": "2001 document year; does not establish actual election implementation date."
+    },
+    {
+      "field": "stage",
+      "definition": "amendment; not a full statewide roster."
+    },
+    {
+      "field": "tier",
+      "definition": "gp_president; union/district chairs excluded."
+    },
+    {
+      "field": "operation_type",
+      "definition": "replace_section: member of a printed replacement section; insert: named addition; replace_category: change addressed by old serial."
+    },
+    {
+      "field": "section_id",
+      "definition": "Replacement-section key; null for individual changes."
+    },
+    {
+      "field": "clause",
+      "definition": "Printed clause/subclause. Clause9 replaces old Perambalur with Perambalur and Ariyalur sections."
+    },
+    {
+      "field": "district_printed",
+      "definition": "Printed district heading with trailing DISTRICT omitted; no modern alias inferred."
+    },
+    {
+      "field": "union_printed",
+      "definition": "Printed union heading including section prefix, with trailing PANCHAYAT UNION omitted."
+    },
+    {
+      "field": "serial_printed",
+      "definition": "Printed new row serial, including4.A; null for serial-addressed category changes."
+    },
+    {
+      "field": "target_serial_printed",
+      "definition": "Printed old-row target for category replacement; GP name remains unknown if not printed."
+    },
+    {
+      "field": "after_serial_printed",
+      "definition": "Printed old-row insertion anchor; null for other operations."
+    },
+    {
+      "field": "gp_name_printed",
+      "definition": "Visual reading of printed village name; five serial-only targets have null names."
+    },
+    {
+      "field": "old_category_reading",
+      "definition": "Explicit former category only when printed; null elsewhere means unknown."
+    },
+    {
+      "field": "new_category_reading",
+      "definition": "Human semantic reading of new category with standardized punctuation/spacing; images and machine reading remain separate."
+    },
+    {
+      "field": "new_reservation_caste",
+      "definition": "SC/ST/UR from explicit new category; UR denotes unrestricted caste axis, not officeholder caste."
+    },
+    {
+      "field": "new_reservation_women",
+      "definition": "Boolean from explicit new category; General categories are false. Office reservation, not elected-person sex."
+    },
+    {
+      "field": "officeholder_name",
+      "definition": "Always null; source contains reservation amendments, not outcomes."
+    },
+    {
+      "field": "officeholder_sex",
+      "definition": "Always null; no elected-person sex observed or inferred."
+    },
+    {
+      "field": "source_path",
+      "definition": "Original PDF repository-relative path."
+    },
+    {
+      "field": "source_sha256",
+      "definition": "Immutable original PDF SHA256."
+    },
+    {
+      "field": "source_page",
+      "definition": "One-based PDF page."
+    },
+    {
+      "field": "source_locator",
+      "definition": "Printed clause, union and serial locator."
+    },
+    {
+      "field": "reading_method",
+      "definition": "Manual visual reading of original PDF renders."
+    },
+    {
+      "field": "quality_flags",
+      "definition": "Explicit qualifications; CSV stores list asJSON."
+    },
+    {
+      "field": "manual_readings_sha256",
+      "definition": "Hash of human readings, source pins, image hashes, reading policy and correction trail."
+    },
+    {
+      "field": "independent_review_sha256",
+      "definition": "SHA256 of the independent visual audit of all 451 named entries; audit pins the exact manual readings and source images. Five serial-only targets are outside this named-entry audit."
+    }
+  ],
+  "other_tables": {
+    "replacement_section_counts": "16 section controls for434 row statements; one section replacement instruction covers several rows.",
+    "context_operations": "19 heading-rename pairs and clause9 heading/section context, not GP rows.",
+    "page_audit": "18 sourcepages withGP/contextcounts and clause status.",
+    "manual_readings": "Human readings and source proof; operation_text_reading normalizes/paraphrases boilerplate, not verbatim legal quotation.",
+    "machine_ocr_provenance": "Existing300dpi source OCR text/TSV/image/stderr paths and hashes, separate from human selected values."
+  }
+}

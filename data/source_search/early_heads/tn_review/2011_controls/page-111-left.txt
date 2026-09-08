@@ -1,0 +1,56 @@
+1 2 3
+KARAMBAKUDI PANCHAYAT UNION
+1 Pattathikadu SC Women)
+2 Theethanipatti SC Women)
+3 Vadatheru SC Women)
+4 Vandanviduthy SC Women)
+5 Kattathi SC (General)
+6 Regunathapuram SC (General)
+7 Ambukoil SC (General)
+8 Kulanthiranpattu SC (General)
+9 Kaliaranviduthy SC (General)
+10 Pallavarayanpathai SC (General)
+11 Mullankurichi SC (General)
+12 Mylankonpatti General (Women)
+13 Kanankkankadu General (Women)
+14 Sengamedu General (Women)
+15 Valangondanviduthy General (Women)
+16 Vellalaviduthy General (Women)
+17 Thirumanancheri General (Women)
+18 K.Muthalipatti General (Women)
+19 Pudhuviduthi General (Women)
+20 Pilaviduthy General (Women)
+21 Pappapatti General
+22 Rangiyanviduthy General
+23 Theethanviduthy General
+24 Vanakkankadu General
+25 Bandhuvakottai General
+26 Karu.Keelatheru General
+27 M.Therkkutheru General
+28 Maruthankonviduthy General
+29 Karambaviduthy General
+30 Mangottai General
+31 Ponnanviduthy General
+32 Karu.Therkkutheru General
+33 Odappaviduthy General
+34 Elaikadividuthy General
+35 Keerathur General
+36 Kalabam General
+37 Malaiyur General
+38 Karuppattipatti General
+39 Athiranviduthi General
+KUNNANDARKOIL PANCHAYAT UNION
+1 Thennangudi SC (Women)
+2 Minnathur SC (Women)
+3 Perambur SC (General)
+4 Kulathur SC (General)
+5 Killukkottai SC (General)
+6 Mangadhevanpatti General (Women)
+7 Periathambiudayanpatti General (Women)
+8 Themmavur General (Women)
+9 Andakkulam General (Women)
+10 Vathanakkottai General (Women)
+11 Killukkulavaippatti General (Women)
+12 Sengalur General (Women)
+13 Puliyur General (Women)
+Page 109

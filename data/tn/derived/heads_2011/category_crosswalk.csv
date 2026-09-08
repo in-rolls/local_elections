@@ -1,0 +1,32 @@
+reservation_raw,reservation,caste_reservation,woman_reserved,office_rows
+,,,,1
+Genaral,General,UR,False,20
+GenaralWomen,General (Women),UR,True,11
+General,General,UR,False,6130
+General (Women),General (Women),UR,True,22
+General Women,General (Women),UR,True,40
+General(Woman),General (Women),UR,True,1
+General(Women),General (Women),UR,True,2801
+General(women),General (Women),UR,True,3
+GeneralWomen,General (Women),UR,True,209
+GeneralWomen),General (Women),UR,True,3
+S.C.(General),SC (General),SC,False,21
+S.C.(Women),SC (Women),SC,True,17
+S.C.General,SC (General),SC,False,8
+S.C.Women,SC (Women),SC,True,4
+SC (General),SC (General),SC,False,98
+SC (Women),SC (Women),SC,True,1
+SC(General),SC (General),SC,False,1642
+SC(Women),SC (Women),SC,True,1019
+SC(women),SC (Women),SC,True,5
+SCGeneral,SC (General),SC,False,196
+SCGeneral),SC (General),SC,False,1
+SCWoman,SC (Women),SC,True,4
+SCWomen,SC (Women),SC,True,102
+SCWomen),SC (Women),SC,True,13
+ST(General),ST (General),ST,False,96
+ST(Women),ST (Women),ST,True,33
+ST(women),ST (Women),ST,True,1
+STGeneral,ST (General),ST,False,17
+STWomen,ST (Women),ST,True,4
+Sc(General),SC (General),SC,False,1

@@ -1,0 +1,357 @@
+{
+  "unit": "source GP and reported period; not a deduplicated election panel",
+  "rows": 496,
+  "new_source_url": "https://raw.githubusercontent.com/in-rolls/beaman/main/data/powerful_women_in_india_pradhan_seats_reserved_for_women.dta",
+  "cd_name_join": {
+    "left": 166,
+    "right": 166,
+    "output": 166,
+    "matched": 166,
+    "cardinality": "1:1"
+  },
+  "cross_source_audit": {
+    "cardinality": "1:1 outer; normalized block and GP spelling only",
+    "name_matches": 104,
+    "cd_only": 62,
+    "beaman_only": 61,
+    "same_year_category_conflicts": 3,
+    "unmatched_rows": "cross_source_audit.parquet",
+    "by_cd_block": [
+      {
+        "block_raw_cd": "",
+        "rows": 1,
+        "matched": 0
+      },
+      {
+        "block_raw_cd": "BOLPUR-SRINIKETAN",
+        "rows": 9,
+        "matched": 8
+      },
+      {
+        "block_raw_cd": "DUBRAJPUR",
+        "rows": 10,
+        "matched": 10
+      },
+      {
+        "block_raw_cd": "ILLAMBAZAR",
+        "rows": 9,
+        "matched": 7
+      },
+      {
+        "block_raw_cd": "KHAYRASOL",
+        "rows": 10,
+        "matched": 0
+      },
+      {
+        "block_raw_cd": "LABHPUR",
+        "rows": 11,
+        "matched": 6
+      },
+      {
+        "block_raw_cd": "MAHAMMADBAZAR",
+        "rows": 12,
+        "matched": 0
+      },
+      {
+        "block_raw_cd": "MAYURESWAR - I",
+        "rows": 9,
+        "matched": 9
+      },
+      {
+        "block_raw_cd": "MAYURESWAR - II",
+        "rows": 7,
+        "matched": 4
+      },
+      {
+        "block_raw_cd": "MURARAI - I",
+        "rows": 7,
+        "matched": 6
+      },
+      {
+        "block_raw_cd": "MURARAI - II",
+        "rows": 8,
+        "matched": 4
+      },
+      {
+        "block_raw_cd": "NALHATI - I",
+        "rows": 10,
+        "matched": 9
+      },
+      {
+        "block_raw_cd": "NALHATI - II",
+        "rows": 5,
+        "matched": 4
+      },
+      {
+        "block_raw_cd": "NANOOR",
+        "rows": 11,
+        "matched": 10
+      },
+      {
+        "block_raw_cd": "RAJNAGAR",
+        "rows": 5,
+        "matched": 4
+      },
+      {
+        "block_raw_cd": "RAMPURHAT - I",
+        "rows": 9,
+        "matched": 8
+      },
+      {
+        "block_raw_cd": "RAMPURHAT - II",
+        "rows": 8,
+        "matched": 6
+      },
+      {
+        "block_raw_cd": "SAINTHIA",
+        "rows": 12,
+        "matched": 9
+      },
+      {
+        "block_raw_cd": "SURI - I",
+        "rows": 7,
+        "matched": 0
+      },
+      {
+        "block_raw_cd": "SURI - II",
+        "rows": 6,
+        "matched": 0
+      }
+    ],
+    "limitation": "No fuzzy linkage; unmatched names are not missing GPs. Matching accuracy has not been externally adjudicated."
+  },
+  "summary": [
+    {
+      "source": "beaman",
+      "reported_period": "current",
+      "election_year": 2003,
+      "year_evidence": "explicit_2003_code",
+      "rows": 163,
+      "complete_reservation": 163,
+      "within_source_strict": 163,
+      "after_exact_name_audit": 163
+    },
+    {
+      "source": "beaman",
+      "reported_period": "current",
+      "election_year": 2003,
+      "year_evidence": "study_term_context",
+      "rows": 2,
+      "complete_reservation": 2,
+      "within_source_strict": 0,
+      "after_exact_name_audit": 0
+    },
+    {
+      "source": "beaman",
+      "reported_period": "previous",
+      "election_year": 1998,
+      "year_evidence": "explicit_1998_to_2003",
+      "rows": 152,
+      "complete_reservation": 152,
+      "within_source_strict": 152,
+      "after_exact_name_audit": 151
+    },
+    {
+      "source": "beaman",
+      "reported_period": "previous",
+      "election_year": 1998,
+      "year_evidence": "within_1998_term_inferred",
+      "rows": 10,
+      "complete_reservation": 10,
+      "within_source_strict": 0,
+      "after_exact_name_audit": 0
+    },
+    {
+      "source": "beaman",
+      "reported_period": "previous",
+      "election_year": null,
+      "year_evidence": "previous_incumbent_not_linked_to_1998",
+      "rows": 3,
+      "complete_reservation": 3,
+      "within_source_strict": 0,
+      "after_exact_name_audit": 0
+    },
+    {
+      "source": "cd",
+      "reported_period": "current",
+      "election_year": 1998,
+      "year_evidence": "survey_2000_paper_dates_1998_election",
+      "rows": 166,
+      "complete_reservation": 161,
+      "within_source_strict": 160,
+      "after_exact_name_audit": 158
+    }
+  ],
+  "recodes": [
+    {
+      "source": "beaman",
+      "reported_period": "current",
+      "raw": 1,
+      "reserved": true,
+      "n": 55,
+      "category": "women"
+    },
+    {
+      "source": "beaman",
+      "reported_period": "current",
+      "raw": 2,
+      "reserved": false,
+      "n": 110,
+      "category": "women"
+    },
+    {
+      "source": "beaman",
+      "reported_period": "previous",
+      "raw": 1,
+      "reserved": true,
+      "n": 56,
+      "category": "women"
+    },
+    {
+      "source": "beaman",
+      "reported_period": "previous",
+      "raw": 2,
+      "reserved": false,
+      "n": 109,
+      "category": "women"
+    },
+    {
+      "source": "cd",
+      "reported_period": "current",
+      "raw": 1,
+      "reserved": true,
+      "n": 54,
+      "category": "women"
+    },
+    {
+      "source": "cd",
+      "reported_period": "current",
+      "raw": 2,
+      "reserved": false,
+      "n": 107,
+      "category": "women"
+    },
+    {
+      "source": "cd",
+      "reported_period": "current",
+      "raw": null,
+      "reserved": null,
+      "n": 5,
+      "category": "women"
+    },
+    {
+      "source": "beaman",
+      "reported_period": "current",
+      "raw": 1,
+      "reserved": true,
+      "n": 51,
+      "category": "sc"
+    },
+    {
+      "source": "beaman",
+      "reported_period": "current",
+      "raw": 2,
+      "reserved": false,
+      "n": 114,
+      "category": "sc"
+    },
+    {
+      "source": "beaman",
+      "reported_period": "previous",
+      "raw": 1,
+      "reserved": true,
+      "n": 53,
+      "category": "sc"
+    },
+    {
+      "source": "beaman",
+      "reported_period": "previous",
+      "raw": 2,
+      "reserved": false,
+      "n": 112,
+      "category": "sc"
+    },
+    {
+      "source": "cd",
+      "reported_period": "current",
+      "raw": 1,
+      "reserved": true,
+      "n": 55,
+      "category": "sc"
+    },
+    {
+      "source": "cd",
+      "reported_period": "current",
+      "raw": 2,
+      "reserved": false,
+      "n": 106,
+      "category": "sc"
+    },
+    {
+      "source": "cd",
+      "reported_period": "current",
+      "raw": null,
+      "reserved": null,
+      "n": 5,
+      "category": "sc"
+    },
+    {
+      "source": "beaman",
+      "reported_period": "current",
+      "raw": 1,
+      "reserved": true,
+      "n": 12,
+      "category": "st"
+    },
+    {
+      "source": "beaman",
+      "reported_period": "current",
+      "raw": 2,
+      "reserved": false,
+      "n": 153,
+      "category": "st"
+    },
+    {
+      "source": "beaman",
+      "reported_period": "previous",
+      "raw": 1,
+      "reserved": true,
+      "n": 17,
+      "category": "st"
+    },
+    {
+      "source": "beaman",
+      "reported_period": "previous",
+      "raw": 2,
+      "reserved": false,
+      "n": 148,
+      "category": "st"
+    },
+    {
+      "source": "cd",
+      "reported_period": "current",
+      "raw": 1,
+      "reserved": true,
+      "n": 19,
+      "category": "st"
+    },
+    {
+      "source": "cd",
+      "reported_period": "current",
+      "raw": 2,
+      "reserved": false,
+      "n": 142,
+      "category": "st"
+    },
+    {
+      "source": "cd",
+      "reported_period": "current",
+      "raw": null,
+      "reserved": null,
+      "n": 5,
+      "category": "st"
+    }
+  ],
+  "missing_policy": "Preserve all observations and nulls; never infer unreserved from missingness.",
+  "pooled": false
+}

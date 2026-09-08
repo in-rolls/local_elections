@@ -21,3 +21,13 @@ data/*/ocr/.partial/
 # uv's environment; the lockfile is committed, the venv is not
 .venv/
 /dist/
+
+# Oversized originals are preserved in the SOURCE_MANIFEST release assets.
+/data/wb/2023/cooch_behar/final_form_a1_b1.rar
+/data/source_search/early_heads/raw/tn_1_58_2006_228_en.pdf
+
+# Reproducible WB page/table/cell renders; OCR JSON evidence remains tracked.
+data/wb/derived/office_native/ocr/**/*.png
+data/wb/derived/office_scans/**/*.png
+data/wb/derived/ward_schedules/ocr/**/*.png
+data/wb/derived/qwen_review/**/*.png

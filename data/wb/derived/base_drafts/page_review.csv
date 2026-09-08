@@ -1,0 +1,4143 @@
+source_path,source_sha256,source_page,stage,ocr_path,ocr_sha256,parsed_rows,status,header_edges_300dpi,raw_ocr,unreadable_member_counts
+data/wb/2018/1671-SEC-Gazette Notification-Delimitation and reservation-Cooch Behar.pdf,23a68f83ac3fe6e42e65be6c9e29429ed84ce4c964793a78b755c128f052ed76,1,final,data/wb/ocr/final/1671-SEC-Gazette Notification-Delimitation and reservation-Cooch Behar-01.tsv,3a3a22ff80391b6baa85db0ef793056dd465dd7066646343547842e8555b67ea,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1671-SEC-Gazette Notification-Delimitation and reservation-Cooch Behar.pdf,23a68f83ac3fe6e42e65be6c9e29429ed84ce4c964793a78b755c128f052ed76,2,final,data/wb/ocr/final/1671-SEC-Gazette Notification-Delimitation and reservation-Cooch Behar-02.tsv,f9bb4378c36a1b37e3c756cf61b0aee785e0fabbdb33ef95aa8eee255904f6f6,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1671-SEC-Gazette Notification-Delimitation and reservation-Cooch Behar.pdf,23a68f83ac3fe6e42e65be6c9e29429ed84ce4c964793a78b755c128f052ed76,3,final,data/wb/ocr/final/1671-SEC-Gazette Notification-Delimitation and reservation-Cooch Behar-03.tsv,687a586693c3d7b9feaee9c29b122797b63a28dd9e29b88504d9e739c8baa2de,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1671-SEC-Gazette Notification-Delimitation and reservation-Cooch Behar.pdf,23a68f83ac3fe6e42e65be6c9e29429ed84ce4c964793a78b755c128f052ed76,4,final,data/wb/ocr/final/1671-SEC-Gazette Notification-Delimitation and reservation-Cooch Behar-04.tsv,5ee3dd59765ed446838ecc052b9e0ff010ea2669d7b9b1c0f4f9670dc17952b7,3,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1672-SEC-Gazette Notification-Delimitation and reservation-Alipurduar.pdf,206e99f9cbcc0fb0cbfd9d58e962961ac7d49ead9ec65a84c64795c7d9da6e42,1,final,data/wb/ocr/final/1672-SEC-Gazette Notification-Delimitation and reservation-Alipurduar-01.tsv,ce455310349ddf4ae7cdd41b74c48efe165aa6474a6f6ca4fab184887ce3576f,1,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1672-SEC-Gazette Notification-Delimitation and reservation-Alipurduar.pdf,206e99f9cbcc0fb0cbfd9d58e962961ac7d49ead9ec65a84c64795c7d9da6e42,2,final,data/wb/ocr/final/1672-SEC-Gazette Notification-Delimitation and reservation-Alipurduar-02.tsv,3ffb3e5f020dd97b03d9bf2e9b645ec0e4985415ec35be279dd0041729924f14,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1672-SEC-Gazette Notification-Delimitation and reservation-Alipurduar.pdf,206e99f9cbcc0fb0cbfd9d58e962961ac7d49ead9ec65a84c64795c7d9da6e42,3,final,data/wb/ocr/final/1672-SEC-Gazette Notification-Delimitation and reservation-Alipurduar-03.tsv,fe7b2b73e8eef3f7fcb44d6f5380a0b250540091b77dad4ff91566aea73724ef,3,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1673-SEC-Gazette Notification-Delimitation and reservation-Jalpaiguri.pdf,3668adf1b52be5bfef7acd265bc45ed223b66b67f4386b790144bd9576303096,1,final,data/wb/ocr/final/1673-SEC-Gazette Notification-Delimitation and reservation-Jalpaiguri-01.tsv,7e3190989a3504f446906aadd09208005cd198d1571dd3ccb4772870f038068f,1,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1673-SEC-Gazette Notification-Delimitation and reservation-Jalpaiguri.pdf,3668adf1b52be5bfef7acd265bc45ed223b66b67f4386b790144bd9576303096,2,final,data/wb/ocr/final/1673-SEC-Gazette Notification-Delimitation and reservation-Jalpaiguri-02.tsv,f41828670d92bfaac4e0ae141a781b3c7f3b8715799bdc360d0eb349660c11fc,11,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1673-SEC-Gazette Notification-Delimitation and reservation-Jalpaiguri.pdf,3668adf1b52be5bfef7acd265bc45ed223b66b67f4386b790144bd9576303096,3,final,data/wb/ocr/final/1673-SEC-Gazette Notification-Delimitation and reservation-Jalpaiguri-03.tsv,1e545a3051da33c03e4a6997e972996f131b2619b51166fbae1041f724213c9f,7,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1674-SEC-Gazette Notification-Delimitation and reservation-Uttar Dinajpur.pdf,be2c06afb28539280aa5955d4ef91f0b7cbfaacb4595c0ec778fa8315d58cde1,1,final,data/wb/ocr/final/1674-SEC-Gazette Notification-Delimitation and reservation-Uttar Dinajpur-01.tsv,c4e1d21306d96988482e91e459036f73fcf17f81db740338fef78b3897d70bbc,3,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1674-SEC-Gazette Notification-Delimitation and reservation-Uttar Dinajpur.pdf,be2c06afb28539280aa5955d4ef91f0b7cbfaacb4595c0ec778fa8315d58cde1,2,final,data/wb/ocr/final/1674-SEC-Gazette Notification-Delimitation and reservation-Uttar Dinajpur-02.tsv,2f2f47e07d3b5bcdf9e99e43527e19194a8b25bc632e3b3123a89aca275bb4f6,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1674-SEC-Gazette Notification-Delimitation and reservation-Uttar Dinajpur.pdf,be2c06afb28539280aa5955d4ef91f0b7cbfaacb4595c0ec778fa8315d58cde1,3,final,data/wb/ocr/final/1674-SEC-Gazette Notification-Delimitation and reservation-Uttar Dinajpur-03.tsv,c6f263914de32973a2606d36a981c23fa993016cb34070269dceb7740f4b2c75,9,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1675-SEC-Gazette Notification-Delimitation and reservation-Dakshin Dinajpur.pdf,ecff1c802621393935151548affa3fae1ed1d50bb61af1d445e8ad5ca2b8b230,1,final,data/wb/ocr/final/1675-SEC-Gazette Notification-Delimitation and reservation-Dakshin Dinajpur-01.tsv,c2a7fb8d435d31966683580b0cc8e6f65765543daab6a60bc8a7ec7f4599ab82,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1675-SEC-Gazette Notification-Delimitation and reservation-Dakshin Dinajpur.pdf,ecff1c802621393935151548affa3fae1ed1d50bb61af1d445e8ad5ca2b8b230,2,final,data/wb/ocr/final/1675-SEC-Gazette Notification-Delimitation and reservation-Dakshin Dinajpur-02.tsv,88f70ac1d012c1fe906dc0679b3ada51ccd8a9c6a62e51a7d0e8bb89a585b68a,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1675-SEC-Gazette Notification-Delimitation and reservation-Dakshin Dinajpur.pdf,ecff1c802621393935151548affa3fae1ed1d50bb61af1d445e8ad5ca2b8b230,3,final,data/wb/ocr/final/1675-SEC-Gazette Notification-Delimitation and reservation-Dakshin Dinajpur-03.tsv,7e8fcf04609d484a38cefc07e79b38daa23a671f8bc8217d29f3a47f43aa050b,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1676-SEC-Gazette Notification-Delimitation and reservation-Malda.pdf,c12a42c85b645a59ff445be965e63711621182edca9d334dbc0864b2e35b431c,1,final,data/wb/ocr/final/1676-SEC-Gazette Notification-Delimitation and reservation-Malda-01.tsv,691960e37380719e439f650df44f0992dc940b33f1f9e3332b31b6770e4221b8,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1676-SEC-Gazette Notification-Delimitation and reservation-Malda.pdf,c12a42c85b645a59ff445be965e63711621182edca9d334dbc0864b2e35b431c,2,final,data/wb/ocr/final/1676-SEC-Gazette Notification-Delimitation and reservation-Malda-02.tsv,7e49f6b2dc042741f195e2da445c60eff27f58ccf75aa0d712b975981abfeda8,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1676-SEC-Gazette Notification-Delimitation and reservation-Malda.pdf,c12a42c85b645a59ff445be965e63711621182edca9d334dbc0864b2e35b431c,3,final,data/wb/ocr/final/1676-SEC-Gazette Notification-Delimitation and reservation-Malda-03.tsv,c96ebccecb4d838795eb03d0a9d5fafb1ad748221f2a30975c908dce9066244a,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1676-SEC-Gazette Notification-Delimitation and reservation-Malda.pdf,c12a42c85b645a59ff445be965e63711621182edca9d334dbc0864b2e35b431c,4,final,data/wb/ocr/final/1676-SEC-Gazette Notification-Delimitation and reservation-Malda-04.tsv,0f761839b4944d90e3e761abcf6b13eee294c6e1349076495a8ffd0c2a43ff76,6,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad.pdf,7ad0fe8ac18b3115412cbbe5efc6410212c4c2c7dde3ecf876bfe00a4fca0928,1,final,data/wb/ocr/final/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad-01.tsv,800459d0e9fec42d54cb0d9d3a4fa42de664763884f6ec86e4285164c9d1adb0,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad.pdf,7ad0fe8ac18b3115412cbbe5efc6410212c4c2c7dde3ecf876bfe00a4fca0928,2,final,data/wb/ocr/final/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad-02.tsv,396ea7adafd23c0ef4dab499bfac83292f8de0c795187c1d686c846e159e628a,17,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad.pdf,7ad0fe8ac18b3115412cbbe5efc6410212c4c2c7dde3ecf876bfe00a4fca0928,3,final,data/wb/ocr/final/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad-03.tsv,eec98a33d054b27e70899f7607f9fcc1e5bda7d5e3bb6bb6611e4c1b7dc41d3a,17,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad.pdf,7ad0fe8ac18b3115412cbbe5efc6410212c4c2c7dde3ecf876bfe00a4fca0928,4,final,data/wb/ocr/final/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad-04.tsv,861e9069ea602e5980976a58c58fc5022c0f1f9c7bc1b91a9d764ce58b3d889a,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad.pdf,7ad0fe8ac18b3115412cbbe5efc6410212c4c2c7dde3ecf876bfe00a4fca0928,5,final,data/wb/ocr/final/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad-05.tsv,e93c95209a902987199575bf9a727477a9d8d215cd148e1feab137a384838ce1,17,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad.pdf,7ad0fe8ac18b3115412cbbe5efc6410212c4c2c7dde3ecf876bfe00a4fca0928,6,final,data/wb/ocr/final/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad-06.tsv,bdb3de078686ef170797c7753ebf54d5fd9b5a922d64ddd91a5c3c719f3a1a49,3,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1678-SEC-Gazette Notification-Delimitation and reservation-Nadia.pdf,d2ab9cd95edc752d7f9e8a69681c19d3c6d5384d9eb3d70642079bfffa7801de,1,final,data/wb/ocr/final/1678-SEC-Gazette Notification-Delimitation and reservation-Nadia-01.tsv,4688ef4833dff7ffa763785bc7891d460f807fc1ec827df84f3e080a056376de,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1678-SEC-Gazette Notification-Delimitation and reservation-Nadia.pdf,d2ab9cd95edc752d7f9e8a69681c19d3c6d5384d9eb3d70642079bfffa7801de,2,final,data/wb/ocr/final/1678-SEC-Gazette Notification-Delimitation and reservation-Nadia-02.tsv,859063a9ef94702ccb1e7a822067a3e49519f5f138286f2e8e11c438c1031359,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1678-SEC-Gazette Notification-Delimitation and reservation-Nadia.pdf,d2ab9cd95edc752d7f9e8a69681c19d3c6d5384d9eb3d70642079bfffa7801de,3,final,data/wb/ocr/final/1678-SEC-Gazette Notification-Delimitation and reservation-Nadia-03.tsv,9840644fe55956fa1245638aed7f92bd4081dc26322ab482be22512011b30467,16,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1678-SEC-Gazette Notification-Delimitation and reservation-Nadia.pdf,d2ab9cd95edc752d7f9e8a69681c19d3c6d5384d9eb3d70642079bfffa7801de,4,final,data/wb/ocr/final/1678-SEC-Gazette Notification-Delimitation and reservation-Nadia-04.tsv,c38b8865e40a77da56dac8dd931c4c9b8812609e8b03822469814c4c0606fe1f,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1679-SEC-Gazette Notification-Delimitation and reservation-North 24 Pgs.pdf,58946ef4abc58709cd907ebd6819d245ae3e6061f6f9aaa67e8e22664edb0507,1,final,data/wb/ocr/final/1679-SEC-Gazette Notification-Delimitation and reservation-North 24 Pgs-01.tsv,c289e4cd9f1a4cb73b8865bc1bb70d2ac5744a890f5e9fd96d6d2139cbdace8e,3,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1679-SEC-Gazette Notification-Delimitation and reservation-North 24 Pgs.pdf,58946ef4abc58709cd907ebd6819d245ae3e6061f6f9aaa67e8e22664edb0507,2,final,data/wb/ocr/final/1679-SEC-Gazette Notification-Delimitation and reservation-North 24 Pgs-02.tsv,a916016d1679ab7d4ad9039c86bd8a56354df8065a22c8986498ba2da7074b72,13,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1679-SEC-Gazette Notification-Delimitation and reservation-North 24 Pgs.pdf,58946ef4abc58709cd907ebd6819d245ae3e6061f6f9aaa67e8e22664edb0507,3,final,data/wb/ocr/final/1679-SEC-Gazette Notification-Delimitation and reservation-North 24 Pgs-03.tsv,9e287e21772cb37bb9314394cbf2987ab4408301504136656e947576ae58bc4f,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1679-SEC-Gazette Notification-Delimitation and reservation-North 24 Pgs.pdf,58946ef4abc58709cd907ebd6819d245ae3e6061f6f9aaa67e8e22664edb0507,4,final,data/wb/ocr/final/1679-SEC-Gazette Notification-Delimitation and reservation-North 24 Pgs-04.tsv,932923544bb8ece86d17f3105b1a65eeac44778ba2b89f45b911a6b1b6b4d077,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1679-SEC-Gazette Notification-Delimitation and reservation-North 24 Pgs.pdf,58946ef4abc58709cd907ebd6819d245ae3e6061f6f9aaa67e8e22664edb0507,5,final,data/wb/ocr/final/1679-SEC-Gazette Notification-Delimitation and reservation-North 24 Pgs-05.tsv,5f67216d8a907965484a34dbdc532956565c5c62db5df528d75d611eee6d5639,12,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs.pdf,739fee6fff3de5ebc440f87ceb40e70e13abda3859653a8c30822d5bdf41b9d9,1,final,data/wb/ocr/final/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs-01.tsv,586c413b12942165074bcdc401ae92e17c02b9899e8fbdee06c8ed5e40dbb7e1,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs.pdf,739fee6fff3de5ebc440f87ceb40e70e13abda3859653a8c30822d5bdf41b9d9,2,final,data/wb/ocr/final/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs-02.tsv,8b78ed8053b6995994a552b69499ab9f92cb026b0dd020e43cc0478a88eedc66,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs.pdf,739fee6fff3de5ebc440f87ceb40e70e13abda3859653a8c30822d5bdf41b9d9,3,final,data/wb/ocr/final/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs-03.tsv,0e01de34f42c9b340e4752b13bbbc192ca58f5fd8322d8ed8b4d68f1e1574937,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs.pdf,739fee6fff3de5ebc440f87ceb40e70e13abda3859653a8c30822d5bdf41b9d9,4,final,data/wb/ocr/final/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs-04.tsv,4687203d4459553a84401737755fe9f6d03bbe453c3d78811aa011fa39bb2c52,13,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs.pdf,739fee6fff3de5ebc440f87ceb40e70e13abda3859653a8c30822d5bdf41b9d9,5,final,data/wb/ocr/final/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs-05.tsv,4b62d1d5183e71221fb0c04460abbbe49bde49d260b3b3e315a3a0656556d6d0,16,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs.pdf,739fee6fff3de5ebc440f87ceb40e70e13abda3859653a8c30822d5bdf41b9d9,6,final,data/wb/ocr/final/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs-06.tsv,97fb48b2794162fee9bfd3d02dbebe987221709a1e2aeda0391efbd79b70650f,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs.pdf,739fee6fff3de5ebc440f87ceb40e70e13abda3859653a8c30822d5bdf41b9d9,7,final,data/wb/ocr/final/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs-07.tsv,419d781e4f7ac8fb8ac496834f090833de06671efe1fc9ee5b7e8b245ed5c662,7,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1681-SEC-Gazette Notification-Delimitation and reservation-Howrah.pdf,15352979e7d686acbfbc9a01c4c65a669396e1f498edf1b043516f1037d66501,1,final,data/wb/ocr/final/1681-SEC-Gazette Notification-Delimitation and reservation-Howrah-01.tsv,f36c186cc9990b4d2326c4b733e8f135c88fd59b1fd3ff2e46bb817ca1eb089e,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1681-SEC-Gazette Notification-Delimitation and reservation-Howrah.pdf,15352979e7d686acbfbc9a01c4c65a669396e1f498edf1b043516f1037d66501,2,final,data/wb/ocr/final/1681-SEC-Gazette Notification-Delimitation and reservation-Howrah-02.tsv,9205d186b09d04d97f06f37f72ffd542a9a758da224c2bc9b0004825965bf818,12,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1681-SEC-Gazette Notification-Delimitation and reservation-Howrah.pdf,15352979e7d686acbfbc9a01c4c65a669396e1f498edf1b043516f1037d66501,3,final,data/wb/ocr/final/1681-SEC-Gazette Notification-Delimitation and reservation-Howrah-03.tsv,354e1918c4e5dc0e4f663809eafed586c473436536585dc9618bda2bc7cfee2b,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1681-SEC-Gazette Notification-Delimitation and reservation-Howrah.pdf,15352979e7d686acbfbc9a01c4c65a669396e1f498edf1b043516f1037d66501,4,final,data/wb/ocr/final/1681-SEC-Gazette Notification-Delimitation and reservation-Howrah-04.tsv,78011c1560333d25778624271b6b251528ab1cbf748a87c25d1280acf4baf472,11,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1682-SEC-Gazette Notification-Delimitation and reservation-Hooghly.pdf,8f78dce43cee5d53f2025aaf5f7b94df3ba19029cebc6f820bcc4884ca793184,1,final,data/wb/ocr/final/1682-SEC-Gazette Notification-Delimitation and reservation-Hooghly-01.tsv,2ca1f1cffdb67cf49badfcc58bb6193029bb7bc1236d9cb2394c3dac8c540465,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1682-SEC-Gazette Notification-Delimitation and reservation-Hooghly.pdf,8f78dce43cee5d53f2025aaf5f7b94df3ba19029cebc6f820bcc4884ca793184,2,final,data/wb/ocr/final/1682-SEC-Gazette Notification-Delimitation and reservation-Hooghly-02.tsv,e49c438b8f6f297f3cee40b529d9e7769380661f8424311a08bc7e04db9d6fe7,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1682-SEC-Gazette Notification-Delimitation and reservation-Hooghly.pdf,8f78dce43cee5d53f2025aaf5f7b94df3ba19029cebc6f820bcc4884ca793184,3,final,data/wb/ocr/final/1682-SEC-Gazette Notification-Delimitation and reservation-Hooghly-03.tsv,0ec1eb5bd656a3f5c26bfa84e7c19b8d5adaeccf54e4d629eb769e92a84bcbf4,12,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1682-SEC-Gazette Notification-Delimitation and reservation-Hooghly.pdf,8f78dce43cee5d53f2025aaf5f7b94df3ba19029cebc6f820bcc4884ca793184,4,final,data/wb/ocr/final/1682-SEC-Gazette Notification-Delimitation and reservation-Hooghly-04.tsv,2265011ae0e2fbf160d06e9b4c6b0aad57e9dfda53004d866db77edfa6b7ac46,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1682-SEC-Gazette Notification-Delimitation and reservation-Hooghly.pdf,8f78dce43cee5d53f2025aaf5f7b94df3ba19029cebc6f820bcc4884ca793184,5,final,data/wb/ocr/final/1682-SEC-Gazette Notification-Delimitation and reservation-Hooghly-05.tsv,a7dc21f9efaa7aaf8cca609cacf7bf30867ab056a860f5f2716af448c9fe7a2f,7,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1683-SEC-Gazette Notification-Delimitation and reservation-Purba Medinipur.pdf,d0f1af625bdc16c2e07e845502e7a6fac8bd6d8015708c1ddd1920046647a564,1,final,data/wb/ocr/final/1683-SEC-Gazette Notification-Delimitation and reservation-Purba Medinipur-01.tsv,5dfa09cc711af688bdca154bf0a87e341af63e1c468ffed2b40c2e0b9e839deb,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1683-SEC-Gazette Notification-Delimitation and reservation-Purba Medinipur.pdf,d0f1af625bdc16c2e07e845502e7a6fac8bd6d8015708c1ddd1920046647a564,2,final,data/wb/ocr/final/1683-SEC-Gazette Notification-Delimitation and reservation-Purba Medinipur-02.tsv,4fda50ab48a96e5a44b694c362491a11f4d01ee1662ece37e01a9d9c2c74cb20,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1683-SEC-Gazette Notification-Delimitation and reservation-Purba Medinipur.pdf,d0f1af625bdc16c2e07e845502e7a6fac8bd6d8015708c1ddd1920046647a564,3,final,data/wb/ocr/final/1683-SEC-Gazette Notification-Delimitation and reservation-Purba Medinipur-03.tsv,35b734a95c49596919cf95ff0e46a4ec5d2446dbe119437b6a91792486f4f3c6,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1683-SEC-Gazette Notification-Delimitation and reservation-Purba Medinipur.pdf,d0f1af625bdc16c2e07e845502e7a6fac8bd6d8015708c1ddd1920046647a564,4,final,data/wb/ocr/final/1683-SEC-Gazette Notification-Delimitation and reservation-Purba Medinipur-04.tsv,e625a147f1af879df905670f21196731915034df2a11066fe8467098d4f01bf0,16,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1683-SEC-Gazette Notification-Delimitation and reservation-Purba Medinipur.pdf,d0f1af625bdc16c2e07e845502e7a6fac8bd6d8015708c1ddd1920046647a564,5,final,data/wb/ocr/final/1683-SEC-Gazette Notification-Delimitation and reservation-Purba Medinipur-05.tsv,ec985995f79d1ef0d012a19014e287bfe14353e508c91b6919de13bf8b3ed086,13,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1684-SEC-Gazette Notification-Delimitation and reservation-Paschim Medinipur.pdf,c2fc45bb6d10e87d2692eb9c584f2aa87122449a4ce712bcda68ce727281e387,1,final,data/wb/ocr/final/1684-SEC-Gazette Notification-Delimitation and reservation-Paschim Medinipur-01.tsv,bea4a342e930be5e4d615c71e2e6f49ed2e5ceb64e4f053499adaf16a51b4f70,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1684-SEC-Gazette Notification-Delimitation and reservation-Paschim Medinipur.pdf,c2fc45bb6d10e87d2692eb9c584f2aa87122449a4ce712bcda68ce727281e387,2,final,data/wb/ocr/final/1684-SEC-Gazette Notification-Delimitation and reservation-Paschim Medinipur-02.tsv,c78a5be3b056511bf04da71604ad9c39f4029cf9766b2eb9ba78324a034c3970,12,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1684-SEC-Gazette Notification-Delimitation and reservation-Paschim Medinipur.pdf,c2fc45bb6d10e87d2692eb9c584f2aa87122449a4ce712bcda68ce727281e387,3,final,data/wb/ocr/final/1684-SEC-Gazette Notification-Delimitation and reservation-Paschim Medinipur-03.tsv,9fa8d004a5e514d126d8fd9f304cdb6e411a35c7ffa3dca2390a852ffd4fd04c,12,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1684-SEC-Gazette Notification-Delimitation and reservation-Paschim Medinipur.pdf,c2fc45bb6d10e87d2692eb9c584f2aa87122449a4ce712bcda68ce727281e387,4,final,data/wb/ocr/final/1684-SEC-Gazette Notification-Delimitation and reservation-Paschim Medinipur-04.tsv,57d9c356f4079b430b4e2b19c078952b7ef664ff4163a623f61a169f62573584,13,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1684-SEC-Gazette Notification-Delimitation and reservation-Paschim Medinipur.pdf,c2fc45bb6d10e87d2692eb9c584f2aa87122449a4ce712bcda68ce727281e387,5,final,data/wb/ocr/final/1684-SEC-Gazette Notification-Delimitation and reservation-Paschim Medinipur-05.tsv,e22f75d7f8643bdc49c9129b9eaf38d2d99be5ed0e10455ecdfd0b77ebf1679e,12,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1685-SEC-Gazette Notification-Delimitation and reservation-Jhargram.pdf,8ebb96a4b1489618a86c2c9856de89854e1c4bd2d8f7391b8d20d98114a44acb,1,final,data/wb/ocr/final/1685-SEC-Gazette Notification-Delimitation and reservation-Jhargram-01.tsv,53da96bbcdf1ac70db2608d8c3ed68ba011a4f5eacb3a89a0a7dbdf8e8ef0807,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1685-SEC-Gazette Notification-Delimitation and reservation-Jhargram.pdf,8ebb96a4b1489618a86c2c9856de89854e1c4bd2d8f7391b8d20d98114a44acb,2,final,data/wb/ocr/final/1685-SEC-Gazette Notification-Delimitation and reservation-Jhargram-02.tsv,8a65e75021e6ff757d85cc558f7d4e09039fc3b9d5e5a7e74e2a7d3352f9696a,12,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1685-SEC-Gazette Notification-Delimitation and reservation-Jhargram.pdf,8ebb96a4b1489618a86c2c9856de89854e1c4bd2d8f7391b8d20d98114a44acb,3,final,data/wb/ocr/final/1685-SEC-Gazette Notification-Delimitation and reservation-Jhargram-03.tsv,014d5ff42ae248d85a458515a4634115294404bb04366bf75a873ab8bb26ecf0,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1686-SEC-Gazette Notification-Delimitation and reservation-Purulia.pdf,eaa42b034662f798b3bbb632e88118b61c4dbef40d95af2ff764bae337aab6eb,1,final,data/wb/ocr/final/1686-SEC-Gazette Notification-Delimitation and reservation-Purulia-01.tsv,cf1c7784d2507a215e1d28643bd149ad46df67b0ffdee1728856c3bf5d3676e4,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1686-SEC-Gazette Notification-Delimitation and reservation-Purulia.pdf,eaa42b034662f798b3bbb632e88118b61c4dbef40d95af2ff764bae337aab6eb,2,final,data/wb/ocr/final/1686-SEC-Gazette Notification-Delimitation and reservation-Purulia-02.tsv,a4cb965f876ee34d1c55ecbb3896fbae8195fdc7c4694f9cdc33817654ff2994,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1686-SEC-Gazette Notification-Delimitation and reservation-Purulia.pdf,eaa42b034662f798b3bbb632e88118b61c4dbef40d95af2ff764bae337aab6eb,3,final,data/wb/ocr/final/1686-SEC-Gazette Notification-Delimitation and reservation-Purulia-03.tsv,b355a2b8c84a8f118d9a3c57144af1b8d60531740f89ab3a6bec9c8c607b42a3,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1686-SEC-Gazette Notification-Delimitation and reservation-Purulia.pdf,eaa42b034662f798b3bbb632e88118b61c4dbef40d95af2ff764bae337aab6eb,4,final,data/wb/ocr/final/1686-SEC-Gazette Notification-Delimitation and reservation-Purulia-04.tsv,98210eb65257e6410c4ace4855ace14181314e3939b59dcc389ed524b17a130e,7,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1687-SEC-Gazette Notification-Delimitation and reservation-Bankura.pdf,d0113965f6cc46c01a75f2ec942cf81cc5941ee950c33f447b04b28948c80e2e,1,final,data/wb/ocr/final/1687-SEC-Gazette Notification-Delimitation and reservation-Bankura-01.tsv,0687243b48c186ba438cb3d5fbed2bf4f3a5c0f836c49601fe5342caa5feef3d,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1687-SEC-Gazette Notification-Delimitation and reservation-Bankura.pdf,d0113965f6cc46c01a75f2ec942cf81cc5941ee950c33f447b04b28948c80e2e,2,final,data/wb/ocr/final/1687-SEC-Gazette Notification-Delimitation and reservation-Bankura-02.tsv,4644e26e68a8386e3943aeba5350dd823383ac0587ed35585b93114f82bc290b,13,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1687-SEC-Gazette Notification-Delimitation and reservation-Bankura.pdf,d0113965f6cc46c01a75f2ec942cf81cc5941ee950c33f447b04b28948c80e2e,3,final,data/wb/ocr/final/1687-SEC-Gazette Notification-Delimitation and reservation-Bankura-03.tsv,fc6b2c019e63523874da3218c31161ef49c247b488df613ecfc423916aa7fba7,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1687-SEC-Gazette Notification-Delimitation and reservation-Bankura.pdf,d0113965f6cc46c01a75f2ec942cf81cc5941ee950c33f447b04b28948c80e2e,4,final,data/wb/ocr/final/1687-SEC-Gazette Notification-Delimitation and reservation-Bankura-04.tsv,e87de2b94c6004db8ddd30cd4661bb7eb2f691ad94eab81a6d7b3e197f64b59c,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1687-SEC-Gazette Notification-Delimitation and reservation-Bankura.pdf,d0113965f6cc46c01a75f2ec942cf81cc5941ee950c33f447b04b28948c80e2e,5,final,data/wb/ocr/final/1687-SEC-Gazette Notification-Delimitation and reservation-Bankura-05.tsv,c3035e94a2d1bbc6025e08bdbcef614e03a951ef4f0a59bff65544f25357e3c8,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1688-SEC-Gazette Notification-Delimitation and reservation-Purba Bardhaman.pdf,f04f8eca8f38652eec70dcff6f0066afc8b6b1369d260894610ad31c214e3e5e,1,final,data/wb/ocr/final/1688-SEC-Gazette Notification-Delimitation and reservation-Purba Bardhaman-01.tsv,6535ad0dec85d0173746793d9b7423ad88dfe408056f897f6b9ee7a9469cba9d,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1688-SEC-Gazette Notification-Delimitation and reservation-Purba Bardhaman.pdf,f04f8eca8f38652eec70dcff6f0066afc8b6b1369d260894610ad31c214e3e5e,2,final,data/wb/ocr/final/1688-SEC-Gazette Notification-Delimitation and reservation-Purba Bardhaman-02.tsv,10e39e44434ac6f22157f3a84fb5c53421949bc953362499fb1376311a8611d5,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1688-SEC-Gazette Notification-Delimitation and reservation-Purba Bardhaman.pdf,f04f8eca8f38652eec70dcff6f0066afc8b6b1369d260894610ad31c214e3e5e,3,final,data/wb/ocr/final/1688-SEC-Gazette Notification-Delimitation and reservation-Purba Bardhaman-03.tsv,3639bc0dd7258c78ffdf4a37557ac23bb842451efd33d881c3e1f5aab1a88c9e,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1688-SEC-Gazette Notification-Delimitation and reservation-Purba Bardhaman.pdf,f04f8eca8f38652eec70dcff6f0066afc8b6b1369d260894610ad31c214e3e5e,4,final,data/wb/ocr/final/1688-SEC-Gazette Notification-Delimitation and reservation-Purba Bardhaman-04.tsv,ba2003cea5be8caf09d9fe75864fd044bb3dd2678dc9a604ecd819a05ed2f719,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1688-SEC-Gazette Notification-Delimitation and reservation-Purba Bardhaman.pdf,f04f8eca8f38652eec70dcff6f0066afc8b6b1369d260894610ad31c214e3e5e,5,final,data/wb/ocr/final/1688-SEC-Gazette Notification-Delimitation and reservation-Purba Bardhaman-05.tsv,5bf11a0979a95c99a27bda1a86e6fef147c365fceb2d699085c9acaa5b21fdc6,12,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1689-SEC-Gazette Notification-Delimitation and reservation-Paschim Bardhaman.pdf,4fc3818b030c2728ab82047e53c48f52a9e2c81c6cb61e1a15bb3115d48eb9ec,1,final,data/wb/ocr/final/1689-SEC-Gazette Notification-Delimitation and reservation-Paschim Bardhaman-01.tsv,a93d8834e79be33474905983517188d9c1d5bfd0a59a2c740a11f795ee0c3db6,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1689-SEC-Gazette Notification-Delimitation and reservation-Paschim Bardhaman.pdf,4fc3818b030c2728ab82047e53c48f52a9e2c81c6cb61e1a15bb3115d48eb9ec,2,final,data/wb/ocr/final/1689-SEC-Gazette Notification-Delimitation and reservation-Paschim Bardhaman-02.tsv,17c665a4e592be10586198b49d34aaea6cbab0449ffc86a195e59e5873cf85ac,15,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1690-SEC-Gazette Notification-Delimitation and reservation-Birbhum.pdf,08224ad259d40d9d685f252078859492e713ce5947bce2831275691c61718a7e,1,final,data/wb/ocr/final/1690-SEC-Gazette Notification-Delimitation and reservation-Birbhum-01.tsv,17387624378f24b9cff90187f9286e98c8bcf592e62aed176e821c117cd5f7ed,2,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1690-SEC-Gazette Notification-Delimitation and reservation-Birbhum.pdf,08224ad259d40d9d685f252078859492e713ce5947bce2831275691c61718a7e,2,final,data/wb/ocr/final/1690-SEC-Gazette Notification-Delimitation and reservation-Birbhum-02.tsv,280b0689035d65c29fb9f0334476e60e0c8898937b32528eae01371677eb2025,16,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1690-SEC-Gazette Notification-Delimitation and reservation-Birbhum.pdf,08224ad259d40d9d685f252078859492e713ce5947bce2831275691c61718a7e,3,final,data/wb/ocr/final/1690-SEC-Gazette Notification-Delimitation and reservation-Birbhum-03.tsv,e640626259e345017038bc8e7777b6103d05cb01ed28fc0ccb9dc15f0079bc9d,14,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/1690-SEC-Gazette Notification-Delimitation and reservation-Birbhum.pdf,08224ad259d40d9d685f252078859492e713ce5947bce2831275691c61718a7e,4,final,data/wb/ocr/final/1690-SEC-Gazette Notification-Delimitation and reservation-Birbhum-04.tsv,530f5c2b53784ddf866c42693a10e4b47dcc9e4f104fe0da2028acd65041a453,10,routed_existing_final_csv,NaN,,NaN
+data/wb/2018/draft/1331-SEC-draft reservation-coochbehar.pdf,fc3d0b027fd288ce4573c6e9ddc7e54d39b74afd1c27c9b0844dc55d0f3d5a4b,1,draft,data/wb/ocr/draft/1331-SEC-draft reservation-coochbehar-01.tsv,6d98b0c08b072d55b649f59f44e56ccf2d3aa47c8655844690d0a7cbe76a8461,2,parsed_ocr_review_required,"[699.75, 1110.25, 1609.25, 2032.75]","WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1331- SEC/1D-201/2017 Date.15-11-2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections (Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Cooch Behar Zilla Parishad constituencies and reservation of seats
+thereto for Panchayat General Elections 2018. The Block(s) have been specified in column (1) of
+the Schedule below (hereinafter referred to as the said Schedule), the number of members to be
+elected to the Zilla Parishad specified in the corresponding entries in column (2), to divide the
+area of the Block into constituencies specified in the corresponding entries in column (3),to
+determine the constituency or constituencies reserved for the Scheduled Tribes(ST), Scheduled
+Castes (SC) or the Backward Classes (BC) specified in the corresponding entries in column (4)
+and the constituency or constituencies reserved for women specified in the corresponding entries
+in column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Cooch Behar Zilla Parishad
+Cooch Behar District
+Number of | Number, Name and area of the | Constituencies | Constituencies
+members to Constituency reserved for reserved for
+Name of Block be elected ST/ SC/ BC women
+to the Zilla persons
+Parishad
+(1) (2) (3) (4) (5)
+Mekhliganj / ZP-1 Women
+Ranirhat, Uchhalpukuri, Jamaldah
+and Changrabandha Grams
+Mekhliganj Z
+Mekhliganj / ZP-2 Women
+Bhotebari, Nizrataf, B. Fulkadabri
+and Kuchlibari Grams
+1 of 4","[[""Mekhliganj"", ""Z""]]"
+data/wb/2018/draft/1331-SEC-draft reservation-coochbehar.pdf,fc3d0b027fd288ce4573c6e9ddc7e54d39b74afd1c27c9b0844dc55d0f3d5a4b,2,draft,data/wb/ocr/draft/1331-SEC-draft reservation-coochbehar-02.tsv,dc47c1f575e4feb70cf41491f3fb830511aa4808574b9f48671e7d794893cf90,13,parsed_ocr_review_required,"[699.75, 1110.25, 1609.25, 2032.75]","Haldibari / ZP-3 Women
+Boxiganj, U.B. Haldibari and Per-
+Mekhliganj Grams
+Haldibari 2
+Haldibari / ZP-4 SC
+D.B. Haldibari, Dewanganj and
+Hemkumari Grams
+Mathabhanga-II/ZP-5 SC Women
+Fulbari, Bara Soulmari and
+Latapota Grams
+Mathabhanga-II/ZP-6 SC
+Ghoksadanga, Ruidanga and
+Unish Bisha Grams
+Mathabhanga-II 3
+Mathabhanga-II/ZP-7 Women
+AK Paradubi, Premerdanga,
+Nishiganj-I and Nishiganj-II
+Grams
+Mathabhanga-I/ZP-8 SC Women
+Hazrahat-I, Hazrahat-lII,
+Bairagirhat and Shikarpur Grams
+Mathabhanga-I/ZP-9 SC
+3 Pachagar, Kursamari and
+Jorepatki Grams
+Mathabhanga-I
+Mathabhanga-I/ZP-10 SC Women
+Gopalpur, Kedarhat and Nayerhat
+Grams
+Cooch Behar-II / ZP-11 Women
+Patlakhawa, Dhandingguri,
+Pundibari and Madhupur Grams
+Cooch Behar-II / ZP-12 SC
+Bararangarsh, Marichbari-Kholta,
+Cooch Behar-II 3 Ambari, Baneswar and Gopalpur
+Grams
+Cooch Behar-II / ZP-13
+Takagachh-Rajarhat, Khagrabari,
+Chakchaka and Khapaidanga
+Grams
+Cooch Behar-I / ZP-14
+Moamari, Chilkirhat, Falimari,
+Chandamari and P. Fuleswari
+Cooch Behar-I 3 Grams
+Cooch Behar-I / ZP-15
+Patchhara, Haribhanga, Panisala,
+Dewanhat and Jiranpur Grams",[]
+data/wb/2018/draft/1331-SEC-draft reservation-coochbehar.pdf,fc3d0b027fd288ce4573c6e9ddc7e54d39b74afd1c27c9b0844dc55d0f3d5a4b,3,draft,data/wb/ocr/draft/1331-SEC-draft reservation-coochbehar-03.tsv,f29cd012f4ac186e55426380ded0a9e9fabc3d83668309b3f758294722637635,12,parsed_ocr_review_required,"[699.75, 1110.25, 1609.25, 2032.75]","Cooch Behar-I / ZP-16
+Dawaguri, Guriahati-I, Guriahati-
+II, Ghugumari and Suktabari
+Grams
+Sitalkuchi / ZP-17 SC Women
+Khalisamari, Barakaimari and
+Bhowaierthana Grams
+Sitalkuchi / ZP-18 Women
+Gossairhat and Chhotosalbari
+Sitalkuchi 3 Grams
+Sitalkuchi / ZP-19 SC
+Sitalkuchi, Lalbazar and
+Golenowhati Grams
+Sitai / ZP-20
+Adabari, Sitai-I and Sitai-II
+Grams
+Sitai 2 Sitai / ZP-21 SC Women
+Br. Chatra and Chamta Grams
+Dinhata-I / ZP-22 Women
+Gosanimari-II, Gosanimari-I,
+Matalhat, Putimari-II and Petla
+Grams
+Dinhata-I / ZP-23 sc
+Vetaguri-II. Vetaguri-I, Putimari-
+I, Dinhata Village-I, Dinhata
+Village-II and Bara Atiabari-II
+Grams
+Dinhata-I 3
+Dinhata-I / ZP-24
+Bara-Soulmari, Bara-Atiabari-I,
+Okrabari, Gitaldaha-II and
+Gitaldaha-I Grams
+Dinhata-II / ZP-25 Women
+Burirhat-I, Nazirhat-I, Nazirhat-
+II, Burirhat-II and Sahebganj
+Grams
+Dinhata-II / ZP-26 SC Women
+Barasakdal, Bamanhat-II,
+Dinhata-II 3 Bamanhat-I and Kisamat-
+Dasgram Grams
+Dinhata-II / ZP-27
+Gobrachhara-Nayarhat,
+Chowdhurihat and Sukarukuthi
+Grams",[]
+data/wb/2018/draft/1331-SEC-draft reservation-coochbehar.pdf,fc3d0b027fd288ce4573c6e9ddc7e54d39b74afd1c27c9b0844dc55d0f3d5a4b,4,draft,data/wb/ocr/draft/1331-SEC-draft reservation-coochbehar-04.tsv,9045bee66b5c40aa108e6fcd2734e2294d7f917a4b06ba4412890db2ae295e3e,6,parsed_ocr_review_required,"[699.75, 1110.25, 1609.25, 2032.75]","Tufanganj-I / ZP-28
+Natabari-I, Natabari-II,
+Chilakhana-II, Chilakhana-I and
+Maruganj Grams
+SC
+Tufanganj-I / ZP-29
+Balarampur-I, Balarampur-II,
+Deocharai and Balabhut Grams
+Tufanganj-I 3
+Tufanganj-I / ZP-30
+Dhalpal-II, A. Fulbari-II,
+Dhalpal-I, A. Fulbari-I and
+Nakkatigachh Grams
+Tufanganj-II / ZP-31 SC Women
+Salbari-I, Barokodali-I and
+Barokodali-II Grams
+Tufanganj-II / ZP-32
+Mahishkuchi-II, Bhanukumari-I, SC
+Tufanganj-II 3 Bhanukumari-II and Salbari-II
+Grams
+Tufanganj-II/ ZP-33 SC Women
+Rampur-II, Rampur-l, Falimari
+and Mahishkuchi-I Grams
+State Election Commissioner,
+West Bengal State Election Commission
+)5.11-./7",[]
+data/wb/2018/draft/1333-SEC-draft reservation-Alipurduar.pdf,fc22b66ad11d24c48d0359abd841dd1856b1fc57456ba7c6302a720691de329c,1,draft,data/wb/ocr/draft/1333-SEC-draft reservation-Alipurduar-01.tsv,a93398c120b95698d1bdefbbffb6a296fd063934d28667eaf8ca68d3ee74191f,1,parsed_ocr_review_required,"[700.0, 1093.75, 1541.75, 1962.0]","‘ WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1333- SEC/1D-202/2017 Date.15.11.2017.
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Alipurduar Zilla Parishad constituencies and reservation of seats
+thereto for Panchayat General Elections 2018. The Block(s) have been specified in column (1) of
+the Schedule below (hereinafter referred to as the said Schedule), the number of members to be
+elected to the Zilla Parishad specified in the corresponding entries in column (2), to divide the
+area of the Block into constituencies specified in the corresponding entries in column (3),to
+determine the constituency or constituencies reserved for the Scheduled Tribes(ST), Scheduled
+Castes (SC) or the Backward Classes (BC) specified in the corresponding entries in column (4)
+and the constituency or constituencies reserved for women specified in the corresponding entries
+in column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period shall be duly considered.
+THE SCHEDULE
+Alipurduar Zilla Parishad
+Alipurduar District
+acter ee Namber. Naineand Constituencies Constituencies
+Name of Block : ; reserved for ST/ reserved for
+elected tothe | area of the Constituency SC/'BC persons iis
+Zilla Parishad P —_—
+(1) (2) (3) (4) (5)
+Kumargram / ZP-1
+Kumargram 3 Turturi Khanda, Rydak, sc
+Khoardanga-I and
+Khoardanga-II Grams
+1 of 3",[]
+data/wb/2018/draft/1333-SEC-draft reservation-Alipurduar.pdf,fc22b66ad11d24c48d0359abd841dd1856b1fc57456ba7c6302a720691de329c,2,draft,data/wb/ocr/draft/1333-SEC-draft reservation-Alipurduar-02.tsv,fd90d9684190adda3d2c4b069ffa430aa1e6b3a734c8aa7ae331db8280efc38c,11,parsed_ocr_review_required,"[700.0, 1093.75, 1541.75, 1962.0]","Kumargram / ZP-2 ST Women
+Newlands Kumargram-
+Sankosh, Kumargram and
+Chengmari Grams
+Kumargram / ZP-3
+Volka-Barobisha-I,
+Volka-Barobisha-lII,
+Kamakhyaguri-I and
+Kamakhyaguri-I] Grams
+Women
+Alipurduar-II / ZP-4
+Turturi, Samuktala,
+Kohinoor and
+Mahakalguri Grams
+Alipurduar-II / ZP-5
+Tatpara-I, Vatibari,
+Parokata and Tatpara-II Women
+Grams
+Alipurduar - II 3
+Alipurduar-II / ZP-9
+Majherdabri,Chaparerpar-
+I and Chaparerpar-II
+Grams
+Kalchini / ZP-6
+Jaigaon-lII, Jaigaon-I and
+Dalsingpara
+Grams
+Women
+Kalchini / ZP-7
+Chaupara, Kalchini,
+Garopara and
+Rajabhatkhawa Grams
+Kalchini 3 ST
+Kalchini / ZP-8
+Malangi, Satali,
+Mendabari and Latabari
+Grams
+Women
+Alipurduar-I / ZP-10
+Salkumar-I, Salkumar-II,
+Patlakhawa and SC Women
+Purbakathalbari Grams
+Alipurduar-I / ZP-11
+Chakowakheti, Mathura,
+Tapshi and Parerpar SC
+Grams
+Alipurduar-I 3
+Alipurduar-I / ZP-12
+Banchukamari,
+Vivekananda-II and
+Vivekananda-I Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Alipurduar\Draft Order reg. Alipurduar.doc Zz of 3",[]
+data/wb/2018/draft/1333-SEC-draft reservation-Alipurduar.pdf,fc22b66ad11d24c48d0359abd841dd1856b1fc57456ba7c6302a720691de329c,3,draft,data/wb/ocr/draft/1333-SEC-draft reservation-Alipurduar-03.tsv,2a0443943b154f30db82766ce59a4e5cb0e0d84bf9f2601d5897c5de2c80e57e,6,parsed_ocr_review_required,"[700.0, 1093.75, 1541.75, 1962.0]","Falakata / ZP-13
+Dhanirampur-I,
+Dhanirampur-II, Dalgaon, SC Women
+Jateswar-I and Jateswar-
+II Grams
+Falakata / ZP-14
+Falakata 3 Deogaon, Mairadanga Women
+and Shalkumar Grams
+Falakata / ZP-15
+Guabarnagar, Parangepar,
+Falakata-I and Falakata-II SC
+Grams
+Madarihat / ZP-16
+Bandapani, Birpara-I and
+Sishujhumra Grams
+Madarihat / ZP-17
+Birpara-II, Lankapara,
+Totopara-Ballaiguri and ST Women
+Madarihat 3 Hantapara Grams
+Madarihat / ZP-18
+Madarihat, Khairbari and
+Rangalibazna Grams or
+State Election Commissioner,
+West Bengal State Election Commission
+15-]1.17
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Alipurduar\Draft Order reg. Alipurduar.doc 3 of 3",[]
+data/wb/2018/draft/1335-SEC-draft reservation-Jalpaiguri.pdf,f13dbe813647600a9b353e4f857c3488f221f4e3f10b2a39169a839bd61e186a,1,draft,data/wb/ocr/draft/1335-SEC-draft reservation-Jalpaiguri-01.tsv,5927e625298aa1b12358aed4a292dcae4d56c8bc05b0f61887cf556afa4c3e34,2,parsed_ocr_review_required,"[674.75, 1100.75, 1661.0, 2119.5]","WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1335- SEC/1D-206/2017 ' Date.15.11.2017.
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Jalpaiguri Zilla Parishad constituencies and reservation of seats
+thereto for Panchayat General Elections 2018. The Block(s) have been specified in column (1) of
+the Schedule below (hereinafter referred to as the said Schedule), the number of members to be
+elected to the Zilla Parishad specified in the corresponding entries in column (2), to divide the
+area of the Block into constituencies specified in the corresponding entries in column (3),to
+determine the constituency or constituencies reserved for the Scheduled Tribes(ST), Scheduled
+Castes (SC) or the Backward Classes (BC) specified in the corresponding entries in column (4)
+and the constituency or constituencies reserved for women specified in the corresponding entries
+in column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Jalpaiguri Zilla Parishad
+Jalpaiguri District
+Number of :
+. F Constituen
+caieale sieve Number, Name and area of the Constituencies cies
+Name of Block | be elected to Conk itene reserved for ST/ sien d
+the Zilla y SC/ BC persons
+- for women
+Parishad
+(1) (2) (3) (4) (5)
+Dhupguri/ZP-1
+Banarhat-I,Banarhat-II,Chamurchi and ST
+Binnaguri Grams
+i Dhupguri /ZP-2
+Barogharia, Sakoajhora-II,Gadong-l, SC Women
+Gadong-II and Sakoajhora-I Grams
+1 of 3",[]
+data/wb/2018/draft/1335-SEC-draft reservation-Jalpaiguri.pdf,f13dbe813647600a9b353e4f857c3488f221f4e3f10b2a39169a839bd61e186a,2,draft,data/wb/ocr/draft/1335-SEC-draft reservation-Jalpaiguri-02.tsv,a1fac59f7f4f802b2d4b337b965d1929692b1ba76d06770a3ec8d674eae29a7a,12,parsed_ocr_review_required,"[674.75, 1100.75, 1661.0, 2119.5]","Dhupguri /ZP-3
+Salbari-I,Salbari-II,Jharaltagram- sc
+I Jharaltagram-
+II,Gaderkuthi,Magurmari-I and
+Magurmari-II Grams
+Maynaguri/ZP-4
+Ramshai,Amguri,Khagrabari- SC Women
+II,Churabhandar and Saptibari-I
+Grams
+Maynaguri /ZP-5
+Domohani-II,Domohani-
+Maynaguri 3 I,Maynaguri,Madhabdanga-I and
+Khagrabari-I Grams
+Maynaguri/ZP-6
+Burnesh, Saptibari-II, Madhabdanga- SC
+II, Dharmapur,Padamati-I and
+Padamati-II Grams
+Jalpaiguri Sadar/ZP-7
+Garalbari/Mandalghat,Kharia and Women
+Bahadur Grams
+Japlaiguri Sadar/ZP-8
+Belakoba,Baropatia,Notun- SC Women
+Jalpaiguri 3 Bos,Patkata,Arabinda and Paharpur
+Sadar Grams
+Jalpaiguri Sadar /ZP-9
+Nagar Berubari,Kharija Berubari-
+II,Kharija Berubari-I,South Berubari SC
+and Boalmari-Nandanpur Grams
+Rajganj / ZP-10
+Binnaguri,Mantadari,Panikouri and
+Shikarpur Grams
+Rajganj/ZP-11
+Rajganj 3 Kukurjan,Majhiali,Sannyasikata and Women
+Sukhani Grams
+Rajganj /ZP-12
+Debgram-I,Debgram-II,Fulbari-I and
+Fulbari-II Grams
+Mal / ZP-13
+Bagrakote,Oodlabari and Damdin
+Grams
+Women
+Mal 3
+Mal /ZP-14
+Rungamuttee, Tesimla,Kumlai,
+Lataguri and Moulani Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017Valpaiguri\Order-draft-SEC-jalpaiguri.doc 2 of 3",[]
+data/wb/2018/draft/1335-SEC-draft reservation-Jalpaiguri.pdf,f13dbe813647600a9b353e4f857c3488f221f4e3f10b2a39169a839bd61e186a,3,draft,data/wb/ocr/draft/1335-SEC-draft reservation-Jalpaiguri-03.tsv,0f007b39ba70aaa3c8e8379e03ed8111a89096419f5c58658ddc1b2e348bd430,5,parsed_ocr_review_required,"[674.75, 1100.75, 1661.0, 2119.5]","Mal /ZP-15
+Rajadanga,Chengmari,Kranti and Women
+Chapadanga Grams
+Matiali / ZP-16
+Matiali Hat and Indong Matiali Grams ST Women
+Matiali 2 Matiali /ZP-17
+Matiali Batabari-I,Bidhannagar and
+Matiali Batabari-II Grams
+Nagrakata / ZP-18
+Champaguri and Sulkapara Grams ST
+Nagrakata Nagrakata /ZP-19
+Looksan,Angrabhasa-I and Women
+Angrabhasa-II Grams
+State Election Commissioner
+West Bengal State Election Commission
+1S 4 oh 7
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.1 1.201 7Valpaiguri\Order-draft-SEC-jalpaiguri.doc 3 of 3",[]
+data/wb/2018/draft/1337-SEC-draft reservation-Uttar Dinajpur.pdf,a290fb4ef4856e5d35a75954f31e4762a38320677a4ae9090d9f6680b6e93f34,1,draft,data/wb/ocr/draft/1337-SEC-draft reservation-Uttar Dinajpur-01.tsv,753f0f319590e6c00183e1da7f4c70438ab2c4e81db70b8a6d909a12048666f8,2,parsed_ocr_review_required,"[710.0, 1103.75, 1541.75, 1959.0]","Ps WEST BENGAL STATE ELECTION COMMISSION
+A“ 18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1337- SEC/1D-216/2017 Date.15-11-2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Uttar Dinajpur Zilla Parishad constituencies and reservation of
+seats thereto for Panchayat General Elections 2018. The Block(s) have been specified in column
+(1) of the Schedule below (hereinafter referred to as the said Schedule), the number of members
+to be elected to the Zilla Parishad specified in the corresponding entries in column (2), to divide
+the area of the Block into constituencies specified in the corresponding entries in column (3),to
+determine the constituency or constituencies reserved for the Scheduled Tribes(ST), Scheduled
+Castes (SC) or the Backward Classes (BC) specified in the corresponding entries in column (4)
+and the constituency or constituencies reserved for women specified in the corresponding entries
+in column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Uttar Dinajpur Zilla Parishad
+Uttar Dinajpur District
+a Number, Name and Constituencies Constituencies
+Name of Block ers area of the reserved for ST/ reserved for
+elected to the Constituenc SC/ BC persons women
+Zilla Parishad y P
+(1) (2) (3) (4) (5)
+Chopra / ZP-1
+Haptiagachh, Sonapur
+and Chopra Grams evoniee
+Chopra 3
+Chopra / ZP-2
+Majhiali and Daspara
+Grams sc
+1 of 4","[[""A\u201c"", ""18,""], [""Name of Block"", ""ers""]]"
+data/wb/2018/draft/1337-SEC-draft reservation-Uttar Dinajpur.pdf,a290fb4ef4856e5d35a75954f31e4762a38320677a4ae9090d9f6680b6e93f34,2,draft,data/wb/ocr/draft/1337-SEC-draft reservation-Uttar Dinajpur-02.tsv,125cff02dacb4e73cdad83157df6a9b3395ba6a5d8037c6b629f77def7b448fd,11,parsed_ocr_review_required,"[710.0, 1103.75, 1541.75, 1959.0]","Chopra / ZP-3
+e Ghirnigaon, Lakhipur
+and Chutiakhore Grams
+Islampur / ZP-4
+Kamalagaon Sujali,
+Gobindapur, Ramganj-I BC
+and Ramganj-II Grams
+Women
+Islampur / ZP-5
+Agdimtikhanti,
+Matikunda-II,
+Islampur 3 Matikunda-I and
+Islampur Grams
+SC
+Islampur / ZP-6
+Panditpota-I,
+Panditpota-II, Gunjaria,
+Gaisal-I and Gaisal-II
+Grams
+Women
+Goalpokher-I /ZP-7
+Panjipara, Pokharia,
+Dharampur-I and
+Dharampur-II
+Grams
+SC
+Women
+Goalpokher-I / ZP-8
+Jaingaon, Mahua,
+Khagore, Goalpokher BC
+and Lodhan Grams
+Goalpokher-I 3
+Goalpokher-I / ZP-9
+Goti, Sahapur-II,
+Sahapur-I, Goagaon-Il BC
+and Goagaon-I Grams
+Women
+Goalpokher-II / ZP-10
+Sahapur-II, Sahapur-I,
+Belon and Kanki Grams
+Goalpokher-II / ZP-11
+Chakulia, Toryal and
+Goalpokher-II 3 Bidyanandapur Grams sc
+Goalpokher-II / ZP-12
+Nizampur-I, Nizampur-
+II, Surjapur-I and
+Surjapur-II Grams
+Women
+Karandighi / ZP-13
+Dalkhola-I, Raniganj,
+Bazargaon-I and
+Bazargaon-II Grams
+Karandighi 3
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Uttar Dinajpur\Order-draft-SEC-Uttar Dinajpur.doc
+2 of 4",[]
+data/wb/2018/draft/1337-SEC-draft reservation-Uttar Dinajpur.pdf,a290fb4ef4856e5d35a75954f31e4762a38320677a4ae9090d9f6680b6e93f34,3,draft,data/wb/ocr/draft/1337-SEC-draft reservation-Uttar Dinajpur-03.tsv,4b6e6c3f37ad2d8c2f105251bb23b0729c3e33e64e43e63089aa8d3a958f1d92,11,parsed_ocr_review_required,"[710.0, 1103.75, 1541.75, 1959.0]","Karandighi / ZP-14
+ar Rasakhowa-lI,
+Rasakhowa-ll, Women
+Domohana and
+Karandighi-I Grams
+Karandighi / ZP-15
+Karandighi-II, Lahutara-
+I, Lahutara-II, Altapur-I
+and Altapur-II Grams
+Hemtabad / ZP-16
+Chainagar,
+Bishnupurand and Women
+Naoda Grams
+Hemtabad 2
+Hemtabad / ZP-17
+Hemtabad and
+Bangalbari Gram SC Women
+Panchayats
+Kaliyaganj / ZP-18
+Anantapur, Dhankoil
+and Radhikapur Grams
+Kaliyaganj / ZP-19
+Bhander, Mustafanagar
+Kaliyaganj 3 and Malgaon Grams
+Women
+Kaliyaganj / ZP-20
+Bochadanga and Baruna
+Grams SC
+Raiganj / ZP-21
+Bhatun, Rampur,
+Jagadishpur, Mahipur
+and Sitgram Grams
+Raiganj / ZP-22
+Raiganj 3 Birghai, Bahin, Gouri
+and Maraikura Grams SC Women
+Raiganj / ZP-23
+Barua Bindole, Serpur
+Kamalabari-I and ST
+Kamalabari-II] Grams
+Itahar / ZP-24
+Surun-I, Surun-lII,
+Itahar 3 Durgapur, Gulandar-I
+and Gulandar-II Grams
+BC Women
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Uttar Dinajpur\Order-draft-SEC-Uttar Dinajpur.doc 3 of 4",[]
+data/wb/2018/draft/1337-SEC-draft reservation-Uttar Dinajpur.pdf,a290fb4ef4856e5d35a75954f31e4762a38320677a4ae9090d9f6680b6e93f34,4,draft,data/wb/ocr/draft/1337-SEC-draft reservation-Uttar Dinajpur-04.tsv,18ae995df493f930f4c739cd6bed57c1577a91eab84216b3e1ee82ad7d7d63dd,2,parsed_ocr_review_required,"[710.0, 1103.75, 1541.75, 1959.0]","Itahar / ZP-25
+al Durlavpur, Patirajpur
+and Itahar Grams
+Women
+Itahar / ZP-26
+Kapasia, Marnai, Joyhat
+and Chhayghara Grams ES
+State Election Commissioner,
+West Bengal State Election Commission
+15«flel 7
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Uttar Dinajpur\Order-draft-SEC-Uttar Dinajpur.doc
+4 of 4",[]
+data/wb/2018/draft/1339-SEC-draft reservation-Dakshin Dinajpur.pdf,ea7c93f80b33652b4d48330d5ac7699d8c1d74f7ad55f1740b57081e68a87ba7,1,draft,data/wb/ocr/draft/1339-SEC-draft reservation-Dakshin Dinajpur-01.tsv,0bd98ad0070320922efc0dbc507ba0b3a90dda7dfe112ed32a8c513c1bed0a71,2,parsed_ocr_review_required,"[652.75, 1067.75, 1582.75, 2022.5]","WEST BENGAL STATE ELECTION COMMISSION
+Sf 18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1339- SEC/1D-204/2017 Date: 15.11.2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections (Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Dakshin Dinajpur Zilla Parishad constituencies and reservation
+of seats thereto for Panchayat General Elections 2018. The Block(s) have been specified in
+column (1) of the Schedule below (hereinafter referred to as the said Schedule), the number of
+members to be elected to the Zilla Parishad specified in the corresponding entries in column (2),
+to divide the area of the Block into constituencies specified in the corresponding entries in
+column (3),to determine the constituency or constituencies reserved for the Scheduled
+Tribes(ST), Scheduled Castes (SC) or the Backward Classes (BC) specified in the corresponding
+entries in column (4) and the constituency or constituencies reserved for women specified in the
+corresponding entries in column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Dakshin Dinajpur Zilla Parishad
+Dakshin Dinajpur District
+Number of
+members to Constituencies Constit ies
+Number, Name and area of the reserved for ime?
+Name of Block | be elected to , reserved for
+, Constituency ST/ SC/ BC
+the Zilla women
+Parishad misc
+1 2 3 5
+(1) (2) 8) (4) (5)
+Kushmandi/ZP-1
+Akcha, Deul, eee and Udaypur Women
+rams
+Kushmandi 2
+Kushmandi/ZP-2
+Berail,Kalikamora, Kushmandi SC
+and Maligaon Grams
+1 of 3",[]
+data/wb/2018/draft/1339-SEC-draft reservation-Dakshin Dinajpur.pdf,ea7c93f80b33652b4d48330d5ac7699d8c1d74f7ad55f1740b57081e68a87ba7,2,draft,data/wb/ocr/draft/1339-SEC-draft reservation-Dakshin Dinajpur-02.tsv,4e0db6b36415731a4e3b8370ea3c3d7707a6f6d5b7f438fb2951d687134dd4a6,12,parsed_ocr_review_required,"[652.75, 1067.75, 1582.75, 2022.5]","Gangarampur/ZP-3
+Sukdevpur, Belbari-II and SC
+Jahangirpur Grams
+Women
+Gangarampur/ZP-4 SC
+Gangarampur 3 Bansuria, Challon, Uday and
+Ashokegram Grams
+Gangarampur/ZP-5
+Nandanpur, Belbari-1, Damdama
+and Gangarampur Grams
+Women
+Kumarganj/ZP-6
+Safanagar, Ramkrishnapur, Bhour
+and Deor Grams
+Kumarganj Kumarganj/ZP-7
+Samjhia, Jakirpur, Mohana and
+Batun Grams SC
+Women
+Balurghat / ZP-8
+Bhatpara, Amritakhanda,
+Chingishpur and Gopalbati Grams
+ST
+Balurghat /ZP-9
+Balurghat 3 Bolla, Boalder, Chakvrigu and
+Jalghar Grams
+Women
+Balurghat /ZP-10
+Patiram, Nazirpur and Danga
+Grams
+Hili / ZP-11
+Binshira, Dhalpara, Panjul, Hili
+and Jamalpur Grams ae
+Hili 1
+Women
+Tapan / ZP-12
+Harsura, Dwipkhanda, Gofanagar
+and Hazratpur Grams
+Women
+Tapan /ZP-13
+Tapan Chandipur, Malancha,
+Tapan 3 Ajmatpur and Autina Grams
+Tapan / ZP-14
+Rampara Chechra,
+Ramchandrapur and Gurail Grams
+Women
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Dakshin Dinajpur\Order-draft-SEC-Dakshin Dinajpur.doc
+2 of 3",[]
+data/wb/2018/draft/1339-SEC-draft reservation-Dakshin Dinajpur.pdf,ea7c93f80b33652b4d48330d5ac7699d8c1d74f7ad55f1740b57081e68a87ba7,3,draft,data/wb/ocr/draft/1339-SEC-draft reservation-Dakshin Dinajpur-03.tsv,af5c9ac5540df77ce40740f8b635bd541e51f647ca9fcdc490495c88f183ecc2,4,parsed_ocr_review_required,"[652.75, 1067.75, 1582.75, 2022.5]","Harirampur / ZP-15
+Saiyadpur, Gokarna and Shirshi SC
+Grams
+‘ 2
+Harirampur Harirampur /ZP-16
+Pundari, Bagichapur and Bairhatta
+Geena ST Women
+Bangshihari / ZP-17
+Brajaballavpur, Ellahabad and
+Mahabari Grams
+Bangshihari 2
+Bangshihari /ZP-18
+Ganguria Gram ST
+State Election Commissioner,
+West Bengal State Election Commission
+JIA.
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Dakshin Dinajpur\Order-draft-SEC-Dakshin Dinajpur.doc 3 of 3",[]
+data/wb/2018/draft/1343-SEC-Draft order of Murshidabad district.pdf,5b386f94b7f1d6a968f5ba3b818eb6c449caf92525f033bf71386fb84ee48ef5,1,draft,data/wb/ocr/draft/1343-SEC-Draft order of Murshidabad district-01.tsv,54802cf2a808a810a6df850e537ab9f34370492671f42c122a666f07f5be8b6f,2,parsed_ocr_review_required,"[665.0, 1068.0, 1516.0, 1923.5]","WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1343- SEC/1D-219/2017 Date. 15.11.2017.
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Murshidabad Zilla Parishad constituencies and reservation of seats
+thereto for Panchayat General Elections 2018. The Block(s) have been specified in column (1) of
+the Schedule below (hereinafter referred to as the said Schedule), the number of members to be
+elected to the Zilla Parishad specified in the corresponding entries in column (2), to divide the
+area of the Block into constituencies specified in the corresponding entries in column (3),to
+determine the constituency or constituencies reserved for the Scheduled Tribes(ST), Scheduled
+Castes (SC) or the Backward Classes (BC) specified in the corresponding entries in column (4)
+and the constituency or constituencies reserved for women specified in the corresponding entries
+in column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Murshidabad Zilla Parishad
+Murshidabad District
+Number of Constituencies : .
+Constituencies
+Name of Block members to be | Number, Name and area reserved for : df
+elected to the of the Constituency ST/ SC/ BC ee: 7 ial
+Zilla Parishad persons WEED
+(1) (2) (3) (4) 6)
+Farakka/ ZP-1
+Bewa-I, Bewa-II and BC
+Beniagram grams
+ee Farakka / ZP-2
+Bahadurpur, Imamnagar Women
+and Nayansukh grams
+lot 7",[]
+data/wb/2018/draft/1343-SEC-Draft order of Murshidabad district.pdf,5b386f94b7f1d6a968f5ba3b818eb6c449caf92525f033bf71386fb84ee48ef5,2,draft,data/wb/ocr/draft/1343-SEC-Draft order of Murshidabad district-02.tsv,f312b8601930a30a6798fbcdb7de692e4f83d770e7eff13dda21ac3743e84711,13,parsed_ocr_review_required,"[665.0, 1068.0, 1516.0, 1923.5]","Farakka / ZP-3 BC Women
+Arjunpur, Maheshpur and
+Mahadevnagar grams
+Samserganj / ZP-4
+Gazinagar-Malancha, BC
+Kanchantala and
+Tinpakuria grams
+Samserganj / ZP-5 Women
+BC
+Bogdadnagar,
+Bhasaipaikar and
+Dogachhi-Napara grams
+Samserganj 3
+Samserganj / ZP-6 BC
+Pratapganj, Chachanda
+and Nimtita grams
+Suti — Il/ ZP-7
+Umrapur, Kashimnagar BC Women
+and Mahesail-I grams
+Suti— II / ZP-8
+3 Jagtai-II, Jagtai-I, BC
+Aurangabad-I and
+Aurangabad-II grams
+Suti-I
+Suti — IL / ZP-9
+Bajitpur, Laxmipur and BC Women
+Mahesail-II grams
+Suti-I / ZP-10
+Bahutali, Harua and
+Bansabati grams
+Suti-I 2
+Suti-I/ ZP-11
+Ahiran, Sadikpur and
+Nurpur grams Rt.
+Raghunathganj-I/ ZP-12
+Jamuar, Jarur and SC Women
+Kanupur grams
+Raghunathgan)=I a Raghunathganj-I/ ZP-13
+Dafarpur, Raninagar and Women
+Mirzapur grams
+Raghunathgan-II/ ZP-14
+Giria, Sekendra, Mithipur
+and Barashimul- BC
+Dayarampur grams
+Raghunathganj-II 3
+Raghunathganj-II/ZP-15
+Jotekamal, Sammatinagar
+and Teghari-I grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9,11.2017\Murshidabad\Order-draft-SEC-Murshidabad.doc 2 of 7","[[""Raghunathgan)=I"", ""a""]]"
+data/wb/2018/draft/1343-SEC-Draft order of Murshidabad district.pdf,5b386f94b7f1d6a968f5ba3b818eb6c449caf92525f033bf71386fb84ee48ef5,3,draft,data/wb/ocr/draft/1343-SEC-Draft order of Murshidabad district-03.tsv,14090224b754b83bb3458dbac40f6c76b87b975403b96a4a6f3c0b17a9134126,13,parsed_ocr_review_required,"[665.0, 1068.0, 1516.0, 1923.5]","Raghunathganj-II/ZP-16
+Kashiadanga, Laxmijola BC Women
+or and Sekhaiipur grams
+-— Lalgola / ZP-17
+Nashipur, Paikpara and BC
+Dewansarai grams
+Lalgola / ZP-18
+Maiya, Bilborakopra,
+Lalgola and Bahadurpur
+grams
+Women
+Lalgola 3
+Lalgola / ZP-19
+Kalmegha,
+Ramchandrapur, Jasaitala,
+Airmari-Krishnapur and
+Manikchak grams
+Women
+Sagardighi / ZP-20
+Bannyeswar, Moregram, SC
+Bokhara-I and Bokhara-II
+grams
+Women
+Sagardighi / ZP-21
+Sagardighi, Manigram,
+Balia and Kabilpur grams
+Women
+Sagardighi 3
+Sagardighi / ZP-22
+Patkeldanga, Barala and Women
+= Gobardhandanga grams
+Bhagwangola-I / ZP-23 Woien
+Kantanagar, Habaspur,
+Mahammadpur and
+Hanumantanagar grams
+Bhagwangola-I 2
+Bhagwangola-I / ZP-24 Women
+Sundarpur, Kuthirampur,
+Bhagwangola and
+| Mahisasthali grams
+Bhagwangola-II / ZP-25
+Akheriganj, Kharibona
+and Nashipur grams Women
+Bhagwangola-II 2 Bhagwangola-II / ZP-26
+Amdahara, Baligram and
+Saralpur grams Women
+las
+Raninagar-I / ZP-27
+Hurshi, Lochanpur and
+Raninagar-I 2 Paharpur grams
+Raninagar-I / ZP-28 _|
+H:\shared folder\Panchayat ELection 2018\Delimitation and Teservation_9,] 1.2017\Murshidabad\Order-draft-SEC-Murshidabad.doc 3 of 7",[]
+data/wb/2018/draft/1343-SEC-Draft order of Murshidabad district.pdf,5b386f94b7f1d6a968f5ba3b818eb6c449caf92525f033bf71386fb84ee48ef5,4,draft,data/wb/ocr/draft/1343-SEC-Draft order of Murshidabad district-04.tsv,c9da8242d4277bf4ba53e6f3dcef516a968054bb8516297c88d5dc0479ca878c,11,parsed_ocr_review_required,"[665.0, 1068.0, 1516.0, 1923.5]","Tenkaraipur-Balumati,
+Islampurchak and
+be Herampur grams
+Raninagar-II / ZP-29
+Malibari-I, Malibari-II,
+Kalinagar-I, Kalinagar-II
+and Raninagar-I grams
+Batiiagaestl : Raninagar-II / ZP-30
+Katlamari-I, Katlamari-II, SC
+Rajapur and Raninagar-II
+grams
+Domkal / ZP-31
+Dhulauri gram BC Women
+Domkal / ZP-32
+Sarangpur, Bhagirathpur BC
+Domkal 3 and Raipur grams
+Domkal / ZP-33
+Garaimari, Ghoramara,
+Madhurkul, Juranpur and
+Garibpur grams
+Murshidabad-Jiaganj/
+ZP-34
+Mukundabag and
+Dahapara grams
+Murshidabad-Jiaganj /
+Murshidabad- ZP-35
+Jiaganj 3 Bahadurpur, Kapasdanga
+and Tentulia grams
+Murshidabad-Jiaganj /
+ZP-36
+Nutangram, Prasadpur and
+Dangapara grams
+Nabagram / ZP-37
+Panchgram, Hajbibidanga Women
+and Rasulpur grams
+Nabagram /ZP-38
+Mahurul, Gura-Pashla and sT Women
+Nabagram 3
+Nabagram grams
+Nabagram /ZP-39
+Narayanpur, Amarkundu
+Kiriteswari and Shibpur
+grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.1 1.2017\Murshidabad\Order-draft-SEC-Murshidabad.doc 4 of Z","[[""Batiiagaestl"", "":""]]"
+data/wb/2018/draft/1343-SEC-Draft order of Murshidabad district.pdf,5b386f94b7f1d6a968f5ba3b818eb6c449caf92525f033bf71386fb84ee48ef5,5,draft,data/wb/ocr/draft/1343-SEC-Draft order of Murshidabad district-05.tsv,064f3206142f77c896b490ff612658ddf10af26a1d2ca6dc9235ae5460c671dd,11,parsed_ocr_review_required,"[665.0, 1068.0, 1516.0, 1923.5]","Berhampore / ZP-40
+Neallishpara-Goaljan, SC
+has Radharghat -I, Radharghat
+-II, Sahajadpur,
+Rangamati-Chandpara and
+Satui-Chowrigachha
+grams
+Berhampore / ZP-41
+Rajdharpara, SC
+Berhampore 3 Nowdapanur, Haridasmati
+and Bhakuri-II and
+Bhakuri-I grams
+Women
+Berhampore / ZP-42
+Chhaighari, Madanpur,
+Manindranagar,
+Hatinagar, Gurudaspur
+and Doulatabad grams
+Women
+Khargram / ZP-43
+Jhillli, Padamkandi, SC
+Joypur and Parulia grams
+Khargram / ZP-44
+Indrani, Sadal, Kirtipur BC
+and Margram grams
+Khargram 3 Women
+Khargram /ZP-45
+Eroali, Khargram,
+Mahisar and Balia grams
+Burwan /ZP-46
+Kalyanpur-I, Kalyanpur- Women
+I, Kharjuna, Kuli and
+Sabaldaha grams
+Burwan / ZP-47
+——— 3 Biprasekhar, Burwan-l,
+Burwan-II and Sahora
+grams
+Burwan / ZP-48
+Kurunnarun, Sundarpur,
+Sabalpur and Panchthupi
+grams
+Bharatpur-I ZP-49
+Jajan, Gundaria, Alugram BC
+and Amlai grams
+Women
+Bharatpur-I 2
+Bharatpur-I ZP-50 SC
+Sijgram, Bharatpur,
+| Talgram and Godda grams
+Women
+H:\shared folder\Panchayat ELection 2018\Delimitation and Teservation_9.11.201] 7\Murshidabad\Order-draft-SEC-Murshidabad.doc
+Sof 7",[]
+data/wb/2018/draft/1343-SEC-Draft order of Murshidabad district.pdf,5b386f94b7f1d6a968f5ba3b818eb6c449caf92525f033bf71386fb84ee48ef5,6,draft,data/wb/ocr/draft/1343-SEC-Draft order of Murshidabad district-06.tsv,dbdc4ee427b603d52eb11df8921a0e6c2603dc918433b5fb08fa65e6dd47f2b8,11,parsed_ocr_review_required,"[665.0, 1068.0, 1516.0, 1923.5]","Kandi / ZP-51
+Kumarsanda, Mahalandi-
+I and Mahalandi-II grams
+Kandi / ZP-52
+Gokarna-I, Gokarna-II Women
+oT 3 and Hizole grams
+Kandi / ZP-53
+Purandarpur, Jasohari-
+Anukha-lI, Jasohari-
+Anukha-II and Andulia
+grams
+Bharatpur-II / ZP-54
+Salu, Salar and Simulia SC
+grams
+Bharatpur-II 2 Bharatpur -II / ZP-55
+Malihati, Kagram, Tenya- SC Women
+Baidyapur and Talibpur
+grams
+Beldanga-II / ZP-56 BC
+Kamnagar, Shaktipur and
+Dadpur grams
+Beldanga -II / ZP-57 BC Women
+Rampara-II, Andulberia-I,
+Beldanga-II 3 Andulberia-II and
+Kashipur grams
+Beldanga -II / ZP-58 BC
+Rampara-I, Ramnagar-
+Bachhra, Sompara-I and
+Sompara-II grams
+Beldanga-I / ZP-59
+Mahula-I, Mahula-II,
+Chaitanyapur-I, BC Women
+Chaitanyapur-II and
+Bhabta-I grams
+Beldanga-I / ZP-60
+Bhabta-II, Madda, Women
+Begunbari and
+Kapasdanga grams
+Beldanga-I 3
+Beldanga-I / ZP-61
+Mirzapur-I, Mirzapur-II, BC
+Sujapur-Kumarpur and
+Debkundu grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Murshidabad\Order-draft-SEC-Murshidabad.doc 6 of 7",[]
+data/wb/2018/draft/1343-SEC-Draft order of Murshidabad district.pdf,5b386f94b7f1d6a968f5ba3b818eb6c449caf92525f033bf71386fb84ee48ef5,7,draft,data/wb/ocr/draft/1343-SEC-Draft order of Murshidabad district-07.tsv,ecd7e0c0e6c071e5e3a4939dbd24a2846b227cb5562f933b955f2fedaaf967f7,9,parsed_ocr_review_required,"[665.0, 1068.0, 1516.0, 1923.5]","Hariharpara / ZP-62
+Raipur, Khidirpur and
+Hariharpara grams
+Hariharpara / ZP-63
+Tarik 3 Humaipur, Beharia and BC Women
+siaiided sai Rukunpur grams
+Hariharpara / ZP-64
+Dharampur, Swaruppur, Women
+Malopara and Choa grams
+Nowda / ZP-65
+Kedarchandpur-I,
+Kedarchandpur-II, Raipur
+and Sarbangapur grams
+Nowda / ZP-66
+Nowda 3 Madhupur and Nowda
+grams
+Women
+Nowda / ZP-67
+Bali-I, Bali-II, Chandpur BC
+and Patikabari grams
+Jalangi / ZP-68
+Katabari, Debipur,
+Sahebnagar and Sagarpara
+grams
+Jalangi / ZP-69
+Jalangi 3 Khairamari, Faridpur and BC Women
+Sadikhan’s Dearh grams
+Jalangi / ZP-70
+Ghoshpara, Jalangi and BC
+Choapara grams
+(A.K.SINGH)
+State Election Commissioner,
+West Bengal State Election Commission
+ia woh""?
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.] 1.2017\Murshidabad\Order-draft-SEC-Murshidabad.doc 7 of if",[]
+data/wb/2018/draft/1345-SEC-Draft order of Nadia district.pdf,32548f6f06360f7201a550b052045feeb8530fc2ba627ad15a3c602511a098f7,1,draft,data/wb/ocr/draft/1345-SEC-Draft order of Nadia district-01.tsv,65df88a36e219d3318ddcc0b4480985580740df30020f6b9a1e3847d6c859893,1,parsed_ocr_review_required,"[634.0, 1027.75, 1475.5, 1896.0]","WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1345- SEC/1D-203/2017 Date.15-11-2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Nadia Zilla Parishad constituencies and reservation of seats thereto
+for Panchayat General Elections 2018. The Block(s) have been specified in column (1) of the
+Schedule below (hereinafter referred to as the said Schedule), the number of members to be
+elected to the Zilla Parishad specified in the corresponding entries in column (2), to divide the
+area of the Block into constituencies specified in the corresponding entries in column (3),to
+determine the constituency or constituencies reserved for the Scheduled Tribes(ST), Scheduled
+Castes (SC) or the Backward Classes (BC) specified in the corresponding entries in column (4)
+and the constituency or constituencies reserved for women specified in the corresponding entries
+in column (5) of the said schedule.
+The draft will be taken u
+p for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Nadia Zilla Parishad
+Nadia District
+Number of : F : :
+Name of Blow members to be Number, Name and se — / fey
+elected to the | area of the Constituency pect ae on ones
+Zilla Parishad C/ BC persons women
+(1) (2) (3) (4) (5)
+Karimpur-II/ZP-1
+: 3 Dhoradaha-I, Dhoradaha-
+Karimpur-I Il, Natidanga-I and BC
+Natidanga-II grams
+1 of 6",[]
+data/wb/2018/draft/1345-SEC-Draft order of Nadia district.pdf,32548f6f06360f7201a550b052045feeb8530fc2ba627ad15a3c602511a098f7,2,draft,data/wb/ocr/draft/1345-SEC-Draft order of Nadia district-02.tsv,3bba8aa5172f99da42422653a6aa6e1aedf861614c65b9acff37873c7ed81d08,11,parsed_ocr_review_required,"[634.0, 1027.75, 1475.5, 1896.0]","Karimpur-II/ZP-2
+Rahamatpur, Murutia and SC
+Dighalkandi grams.
+Woman
+Karimpur-II/ZP-3
+Narayanpur-I, sc
+Narayanpur-II and
+Nandanpur grams
+Karimpur-I / ZP-4
+Karimpur-I and
+Karimpur-II grams. =
+Women
+Karimpur-I / ZP-5
+Jamsherpur
+Karimpur-I 3 Harekrishnapur and
+Madhugari grams
+Women
+Karimpur-I / ZP-6
+Pipulberia, Hogalberia
+and Shikarpur grams.
+Tehatta-I / ZP-7
+Chhitka, Kanainagar and
+Betai-I grams.
+Women
+Tehatta-I / ZP-8
+Betai-II, Shyamnagar,
+Raghunathpur and SC
+Tehatta-I 3 Tehatta grams.
+Tehatta-I / ZP-9
+Natna, Patharghata-l,
+Patharghata-II and SC
+Chanderghat grams.
+Women
+Tehatta-II / ZP-10
+Gopinathpur, Sahebnagar
+and Palashipara grams. aia
+Tehatta-II 2 Tehatta-II / ZP-11
+Palsunda-I, Palsunda-II,
+Hanspukuria and Barnia
+grams
+Nakashipara / ZP-12
+Haranagar, Bikrampur,
+Bilkumari, Dhananjoypur
+Nakashipara 3 and Patikabari grams.
+Women
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Nadia\Draft Order reg. Nadia on 09.11.2017.doc
+2 of 6",[]
+data/wb/2018/draft/1345-SEC-Draft order of Nadia district.pdf,32548f6f06360f7201a550b052045feeb8530fc2ba627ad15a3c602511a098f7,3,draft,data/wb/ocr/draft/1345-SEC-Draft order of Nadia district-03.tsv,acf4e701d84cbc22625b16adcac6d4ce4d093d9988839586553f77df45a3e1d7,11,parsed_ocr_review_required,"[634.0, 1027.75, 1475.5, 1896.0]","Nakashipara / ZP-13
+, Majhergram,Nakashipara,
+Billagram, Bethuadahari-
+Tand Bethuadahari-II
+grams
+Women
+Nakashipara / ZP-14
+Birpur-II, Birpur-I,
+Dogachhia Muragachha
+and Dharmadah grams
+Women
+Kaliganj / ZP-15
+Palassey-II, Mira-I,
+Barachandghar, Mira-II
+and Palassey-I grams.
+Women
+Kaliganj / ZP-16
+Kaliganj, Panighata,
+Kaliganj 3 Debagram and Hatgachha BC
+grams
+Women
+Kaliganj / ZP-17
+Juranpur, Gobra, Matiary,
+Faridpur, Palitbegia and
+Rajarampur grams
+Women
+Chapra/ZP-18
+Hatishala-I, Hridaypur,
+Hatishala-II, Alfa and BC
+Brittihuda grams
+Chapra/ZP-19
+Chapra-I, Chapra-II,
+Chapra 3 Mahatpur and Kalinga BC
+grams
+Woman
+Chapra/ZP-20
+Hatkhola, Pipragachhi, BC
+Maheshpur and Bagberia
+grams
+Krishnanagar-I/ZP-21
+Bhimpur, Assannagar,
+Bhanderkhola and SC
+Poragachha grams.
+Woman
+Krishnanagar-I/ZP-22
+; Dogachhi, Bhatjangla,
+Krishnanagar-I 2 Chakdignagar and
+Dignagar grams.
+Krishnanagar-I/ZP-23
+Deypara, Joania, ST
+Ruipukur and Bhaluka
+grams.
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Nadia\Draft Order reg. Nadia on 09.11.2017.doc
+3 of 6",[]
+data/wb/2018/draft/1345-SEC-Draft order of Nadia district.pdf,32548f6f06360f7201a550b052045feeb8530fc2ba627ad15a3c602511a098f7,4,draft,data/wb/ocr/draft/1345-SEC-Draft order of Nadia district-04.tsv,d97ecaffec980c3952fff9b8903ec92e3895ad7a601c87a4f7be1760cb950cc4,11,parsed_ocr_review_required,"[634.0, 1027.75, 1475.5, 1896.0]","a
+Nabadwip/ZP-24
+Mayapur-Bamanpukur-II,
+Mayapur-Bamanpukur-l, BC
+Bablari and Mahisura
+grams.
+Woman
+Nabadwip/ZP-25
+Swarupganj, Charmajdia-
+Charbrahmanagar,
+Majdia-Pansila and
+Fakirdanga-Gholapara
+grams.
+Nabadwip 2
+Woman
+Krishnanagar-II/ZP-26
+Sadhanpara-
+I,Sadhanpara-II and
+Belpukur grams.
+Krishnanagar-II 2 Krishnanagar-II/ZP-27
+Noapara-I, Noapara-II,
+Dhubulia-I and Dhubulia- SC
+IJ grams.
+Santipur/ZP-28
+Gayeshpur, Baganchra
+and Haripur grams.
+Woman
+Santipur/ZP-29
+Babla, Belgoria-II and
+Santipar 3 Belgoria-I grams.
+Santipur/ZP-30
+Arbandi-II, Arbandi-I,
+Fulia Township and SC
+Nabla grams.
+Woman
+Ranaghat-I/ZP-31
+Barasat, Khisma and
+. SC
+Kalinarayanpur grams.
+Ranaghat-I/ZP-32
+Ramnagar-I, Ramnagar-II
+Ranaghat-I 3 and Habibpur grams
+Women
+Ranaghat-I/ZP-33
+Tarapur, Noapara-
+Masunda, Anulia and
+Payradanga grams
+Krishnaganj/ZP-34
+Gobindapur, Joyghata
+and Krishnaganj grams. oe
+Krishnaganj 2
+Women
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Nadia\Draft Order reg. Nadia on 09.11.2017.doc
+4 of 6",[]
+data/wb/2018/draft/1345-SEC-Draft order of Nadia district.pdf,32548f6f06360f7201a550b052045feeb8530fc2ba627ad15a3c602511a098f7,5,draft,data/wb/ocr/draft/1345-SEC-Draft order of Nadia district-05.tsv,b26eeecec2d8d3cbb2108225c15e28b00b8572e0675d8ed3648ad09a6934cd49,9,parsed_ocr_review_required,"[634.0, 1027.75, 1475.5, 1896.0]",".
+_
+Krishnaganj/ZP-35
+Matiary-Banpur,
+Taldaha-Majdia,
+Shibnibash and
+Bhajanghat-Tungi grams.
+Women
+Hanskhali/ZP-36
+Dakshinpara-lII,
+Dakshinpara-l, Badkulla-
+II, Badkulla-I and
+Mamjoan grams.
+Sc
+Hanskhali/ZP-37
+Betnagobindapur,
+Hanskhali 5 Mayurhat-I, Mayurhat-II
+and Gazna grams
+Hanskhali/ZP-38
+Bagula-lIl, Bagula-I,
+Ramnagar-Barachupria-
+II, and Ramnagar-
+Barachupria-I grams
+Ranaghat-II/ZP-39
+Aranghata, Bahirgachhi,
+Duttapulia and SC
+Jugalkishore grams.
+Women
+Ranaghat-II/ZP-40
+Raghunathpur-Hijuli-I,
+Kamalpur,
+Ranaghat-II 3 Raghunathpur-Hijuli-I, SC
+Nokari and Shyamnagar
+grams
+Ranaghat-II/ZP-41
+Anismali, Baidyapur-II ,
+Baidyapur-I, Debagram
+and Majhergram grams
+Chakdaha 2 Chakdaha/ZP-42
+Chanduria-I, Tatla-I,
+Dubra, Talta-II, Rautari
+grams.
+Chakdaha/ZP-43
+Silinda-I, Ghetugachhi,
+Silinda-II, Hingnara and
+Dewli grams.
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11,2017\Nadia\Draft Order reg. Nadia on 09.11.2017.doc
+5 of 6",[]
+data/wb/2018/draft/1345-SEC-Draft order of Nadia district.pdf,32548f6f06360f7201a550b052045feeb8530fc2ba627ad15a3c602511a098f7,6,draft,data/wb/ocr/draft/1345-SEC-Draft order of Nadia district-06.tsv,b84dc0d6b0fc743088caf32cf64bf99bce01c0c8b1fa3e55a33e5c16135a0b46,4,parsed_ocr_review_required,"[634.0, 1027.75, 1475.5, 1896.0]","y
+; Kalyani/ZP-44
+T Madanpur-I , Simurali ,
+Kalyani 1 Saguna , Madanpur-Il ,
+Sarati, Kanchrapara and
+Chanduria-II grams
+SC
+Women
+Haringhata/ZP-45
+Kastodanga-lII,
+Kastodanga-I, and
+Mollabelia grams.
+sc
+Haringhata/ZP-46
+Haringhata 3 Birohi-II and Birohi-I
+grams
+Haringhata/ZP-47
+Fatepur, Nagarukhra-I
+and Nagarukhra-II grams.
+Women
+(A.K.SING
+State Election Commissioner,
+West Bengal State Election Commission
+151.17
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Nadia\Draft Order reg. Nadia on 09.11.2017.doc
+6 of 6",[]
+data/wb/2018/draft/1347-SEC-draft reservation-North 24 Parganas.pdf,8dc6deaabf7721c1d254b65fc10aa7f32f6c8dab0f3971400fbf2242139ebdf2,1,draft,data/wb/ocr/draft/1347-SEC-draft reservation-North 24 Parganas-01.tsv,f8923688594e7e77a7493260e35a78d307380811b7b8dbca11e278f41f1badaa,2,parsed_ocr_review_required,"[708.0, 1111.5, 1559.5, 1967.0]","WEST BENGAL STATE ELECTION COMMISSION
+J ~ 18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+Ph. No. 2280-5805; FAX- 2280-7373
+No. 1347-SEC/1D-214/2017 Dated. 15.11.2017.
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt., Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of North 24 Parganas Zilla Parishad constituencies and reservation
+of seats thereto for Panchayat General Elections 2018. The Block(s) have been specified in
+column (1) of the Schedule below (hereinafter referred to as the said Schedule), the number of
+members to be elected to the Zilla Parishad specified in the corresponding entries in column (2),
+to divide the area of the Block into constituencies specified in the corresponding entries in
+column (3),to determine the constituency or constituencies reserved for the Scheduled
+Tribes(ST), Scheduled Castes (SC) or the Backward Classes (BC) specified in the corresponding
+entries in column (4) and the constituency or constituencies reserved for women specified in the
+corresponding entries in column (5) of the said schedule.
+_ The draft will be taken up for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+North 24-Parganas Zilla Parishad
+North 24-Parganas District
+Number of Constituencies Conntitucacies
+Nantel Bibel members to be | Number, Name and area reserved for eanrarat “an
+elected to the of the Constituency ST/ SC/ BC
+; ‘ women
+Zilla Parishad persons
+(1) (2) (3) (4) (5)
+Bagdah/ ZP-1
+Sindrani, Malipota and Women
+Kaniara-II Grams
+Bagdah 3
+Bagdah/ ZP-2
+Ranghat, Bagdah and SC
+Boyra Grams
+1 of 7",[]
+data/wb/2018/draft/1347-SEC-draft reservation-North 24 Parganas.pdf,8dc6deaabf7721c1d254b65fc10aa7f32f6c8dab0f3971400fbf2242139ebdf2,2,draft,data/wb/ocr/draft/1347-SEC-draft reservation-North 24 Parganas-02.tsv,6ddbfe80518efee61e5d8ef8d8bfac7dabba13745236c70eadcb21484c6db84a,12,parsed_ocr_review_required,"[708.0, 1111.5, 1559.5, 1967.0]","Bagdah/ ZP-3
+Kaniara-I, Asharu and
+Helencha Grams sc Women
+Bongaon / ZP-4
+Sundarpur, Ganrapota,
+Tangra, Dharmapukuria, Women
+Ghatbaor and
+Chhaygharia Grams
+Bongaon / ZP-5
+Ganganandapur, Akaipur,
+Gopalnagar-I, Sc
+Gopalnagar-II and
+Bairampur Grams
+Bongaon / ZP-6
+Dighari, Palla, Kalupur,
+Chowberia-II and Sc Women
+Chowberia-I Grams
+Bongaon 3
+Gaighata / ZP-7
+Simulpur, Ichhapur-II,
+Chandpara and Fulsara
+Grams Panchayats
+Gaighata / ZP-8
+Sutia, Ramnagar,
+3 Jhowdanga and Duma
+Gaighata Grams
+SC
+Women
+Gaighata / ZP-9
+Dharmapur-I, Dharmapur-
+Il, Women
+Jaleswar-I, Jaleswar-II
+and Ichhapur-I Grams
+Habra-I / ZP-10
+Bergoom-II, Bergoom-I Women
+and Maslandapur-I Grams
+Habra-I / ZP-11
+Habra-I 3 Rautara and Prithiba BC Women
+Grams
+Habra-I / ZP-12
+Kumra and Maslandapur-
+II Grams
+SC
+Swarupnagar/ ZP-13
+Tepul-Mirzapur, Sauguna SC Women
+Swarupnagar 3 and Charghat Grams
+Swarupnagar/ ZP-14
+Gobindapur, Bithari- Women
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\North 24 Parganas\Order-draft-SEC-North 24-Parganas.doc 2 of 7",[]
+data/wb/2018/draft/1347-SEC-draft reservation-North 24 Parganas.pdf,8dc6deaabf7721c1d254b65fc10aa7f32f6c8dab0f3971400fbf2242139ebdf2,3,draft,data/wb/ocr/draft/1347-SEC-draft reservation-North 24 Parganas-03.tsv,7cde7a6168a100e0f61862b42de0efbba614ce78d2a5316ec3438cb2674fbbb3,9,parsed_ocr_review_required,"[708.0, 1111.5, 1559.5, 1967.0]","Hakimpur and Sarapul-
+Nirman Grams
+Swarupnagar/ ZP-15
+Balti Nityanandakhati,
+Swarupnagar-Banglani, SC
+Bankra-Gokulpur and
+Kaijuri Grams
+Baduria / ZP-16
+Chatra, Chandipur,
+Bagjola, Jasaikati
+Atghara and BC
+Ramcharidrapur Uday
+Grams
+Baduria / ZP-17
+Aturia, Bajitpur,
+Baduria 3 Sayestanagar-II and
+Sayestanagar-I Grams
+Women
+Women
+Baduria / ZP-18
+Jadurhati Uttar, Jadurhati
+Dakshin, Raghunathpur,
+Jagannathpur and
+Nayabastia Miloni Grams
+Women
+Habra-II / ZP-19
+Srikrishanpur, Bhurkunda, SC
+Banspole and Beraberi
+Grams
+Habra-II 2 Habra-II / ZP-20
+Dighra Malikberia,
+Rajibpur Bira, Guma-II
+and Guma-I Grams
+Amdanga / ZP-21
+Maricha, Adhata,
+Chandigarh and
+Sadhanpur Grams
+Amdanga / ZP-22
+Amdanga, Taraberia,
+Bodai and Beraberia
+Grams
+Women
+Amdanga 2
+Barasat-I / ZP-23
+Kashimpur, Duttapukur-I
+Barasat-I 3 and Duttapukur-II_ Grams SC Women
+Panchayats
+H.\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\North 24 Parganas\Order-draft-SEC-North 24-Parganas.doc 3 of 7",[]
+data/wb/2018/draft/1347-SEC-draft reservation-North 24 Parganas.pdf,8dc6deaabf7721c1d254b65fc10aa7f32f6c8dab0f3971400fbf2242139ebdf2,4,draft,data/wb/ocr/draft/1347-SEC-draft reservation-North 24 Parganas-04.tsv,2dc79fc9ad1af9e1bd894573f1baed633b92267add921da4a279399f7ced8439,11,parsed_ocr_review_required,"[708.0, 1111.5, 1559.5, 1967.0]","Barasat-I / ZP-24
+Ichhapur Nilgunj,
+Paschim Khilkapur and
+Purba Khilkapur Grams
+Barasat-I / ZP-25
+Chhotojagulia, Kotra and
+Kadambagachhi Grams a
+Barrackpore-I / ZP-26
+Kampa-Chakla,
+Majhipara-Palashi and
+Shibdaspur Grams
+Barrackpore-I / ZP-27
+Jetia and Mamudpur
+Barrackpore-I 3 Grams
+Barrackpore-I / ZP-28
+Panpur-Keutia,
+Kowgachi-I and
+Kowgachi-II Grams
+Barrackpore-II/ ZP-29
+Mohanpur Grams 7 —
+Barrackpore-II/ ZP-30
+Sewli, Patulia and Women
+Bandipur Grams
+Barrackpore-II/ ZP-31
+Bilkanda-I and Bilkanda-
+II] Grams
+Barrackpore-II 3
+Rajarhat / ZP-32
+Rajarhat Bishnupur — I
+and Jyangra Hatiara —II Women
+Grams
+Rajarhat Rajarhat / ZP-33
+Rajarhat Bishnupur — I], SC
+Chandpur and Patharghata
+Grams
+Barasat-II / ZP-34
+Chandigarh-Rohanda,
+Barasat-II 2 Kemia-Khamarapara, BC Women
+Kiritipur-II and Kiritipur-I
+Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\North 24 Parganas\Order-draft-SEC-North 24-Parganas.doc 4 of 7",[]
+data/wb/2018/draft/1347-SEC-draft reservation-North 24 Parganas.pdf,8dc6deaabf7721c1d254b65fc10aa7f32f6c8dab0f3971400fbf2242139ebdf2,5,draft,data/wb/ocr/draft/1347-SEC-draft reservation-North 24 Parganas-05.tsv,f7bdb26f138011416c72b2c0a0fc616408094a5068c335309e2b2acda397f265,11,parsed_ocr_review_required,"[708.0, 1111.5, 1559.5, 1967.0]","Barasat-II / ZP-35
+Dadpur, Falti-Beliaghata
+and Shasan Grams
+Deganga / ZP-36
+Sohai-Swetpur,
+Noornagar, Berachampa-I
+and Deganga-I Grams
+BC
+Deganga / ZP-37
+Hadipur-Jhikra-l,
+Deganga 3 Berachampa-lIl,
+Deganga-II, Champatala
+and Hadipur-Jhikra-II
+Grams
+Deganga / ZP-38
+Chowrashi, Amulia, BC Women
+Chakla and Kolsur Grams
+Women
+Haroa / ZP-39
+Haroa, Gopalpur-I and
+Gopalpur-II Gram
+Panchayats
+Haroa / ZP-40
+Khasbalanda and Kulti ST
+Grams
+Haroa
+Haroa / ZP-41
+Bokjuri, Salipur and
+Sonapukur-Sankarpur
+Grams.
+Minakhan / ZP-42
+Bamanpukur, Minakhan,
+Kumarjole and
+Dhuturdaha Grams
+Minakhan 2
+Minakhan / ZP-43
+Atpukur, Mohanpur,
+Champali and Chaital
+Grams
+SC Women
+Sandeshkhali-I / ZP-44
+Boyermari-I, Boyermari-
+II, Sarberia Agarhati and
+Hatgachi Grams
+ST
+Sandeshkhali-I 2
+Sandeshkhali-I / ZP-45
+Nazat-I, Nazat-II,
+Kalinagar and Sehara
+Radhanagar Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\North 24 Parganas\Order-draft-SEC-North 24-Parganas.doc 5 of 7",[]
+data/wb/2018/draft/1347-SEC-draft reservation-North 24 Parganas.pdf,8dc6deaabf7721c1d254b65fc10aa7f32f6c8dab0f3971400fbf2242139ebdf2,6,draft,data/wb/ocr/draft/1347-SEC-draft reservation-North 24 Parganas-06.tsv,d3d4c0d2cd125379be85034e76af8561aa6eca751ca835ebf1a30f1c865fdce9,10,parsed_ocr_review_required,"[708.0, 1111.5, 1559.5, 1967.0]","Sandeshkhali-II / ZP-46
+Bermajur-I, Bermajur-II,
+Jeliakhali and
+Durgamondop Grams
+Sandeshkhali-II 2 Sandeshkhali-II / ZP-47
+Sandeshkhali, Korakati,
+Monipur and Khulna Sc Women
+Grams
+Basirhat-I / ZP-48
+Sangrampur Shibhati,
+Gaccha Akarpu and
+Itinda-Panitor Grams
+Women
+Basirhat-I 2
+Basirhat-I / ZP-49
+Sankchura Bagundi,
+Nimdaria Kodalia, Gotra
+and Pifa Grams
+BC
+Basirhat-II / ZP-50
+Begumpur Bibipur,
+Dhanyakuria and Kachua
+Grams
+Basirhat-II / ZP-51
+Srinagar Matia, Ghorarash
+Basirhat-II 3 Kulingram and Chaita
+Grams
+Basirhat-II / ZP-52
+Kholapota, Champapukur
+and Rajendrapur Grams
+BC Women
+BC
+BC Women
+Hasnabad / ZP-53
+Murarisha, Bhebia and
+Makhalgachha Grams
+Panchayats
+Hasnabad / ZP-54
+Amlani, Barunhat-
+Rameswarpur and
+Hasnabad Grams
+Women
+Hasnabad 3
+Hasnabad / ZP-55
+Bhowanipur-l,
+Patlikhanpur and SC
+Bhowanipur-II Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\North 24 Parganas\Order-draft-SEC-North 24-Parganas.doc 6 of 7",[]
+data/wb/2018/draft/1347-SEC-draft reservation-North 24 Parganas.pdf,8dc6deaabf7721c1d254b65fc10aa7f32f6c8dab0f3971400fbf2242139ebdf2,7,draft,data/wb/ocr/draft/1347-SEC-draft reservation-North 24 Parganas-07.tsv,d4e2848f1705622e092e12a096db45a7abbe26dcec1175eafe1664c9e06a8b6b,2,parsed_ocr_review_required,"[708.0, 1111.5, 1559.5, 1967.0]","Hingalganj / ZP-56
+Bishpur, Hingalganj,
+Sandelerbill and Rupamari
+Grams
+Hingaleand Hingalganj / ZP-57
+Dulduli, Sahabkhali,
+Gobindakati, Jogesganj
+and Kalitala Grams
+SC Women
+(A.K.SINGH)
+State Election Commissioner,
+West Bengal State Election Commission
+IG. 11.17
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\North 24 Parganas\Order-draft-SEC-North 24-Parganas.doc 7 of 7",[]
+data/wb/2018/draft/1349-SEC-draft reservation-South 24 Parganas.pdf,4daa641b9a96a394a2e9fb1ccaf67ab54654aaca1d76df6f68cbca243b5464ce,1,draft,data/wb/ocr/draft/1349-SEC-draft reservation-South 24 Parganas-01.tsv,d398f304408702843a5d98cb32e81387f63d34a7bf9fd8876011e570faa5850e,2,parsed_ocr_review_required,"[696.5, 1101.0, 1550.0, 1958.5]","WEST BENGAL STATE ELECTION COMMISSION
+~ 18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1349- SEC/1D-207/2017 Date: 15-11-2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of South 24-Parganas Zilla Parishad constituencies and reservation
+of seats thereto for Panchayat General Elections 2018. The Block(s) have been specified in
+column (1) of the Schedule below (hereinafter referred to as the said Schedule), the number of
+members to be elected to the Zilla Parishad specified in the corresponding entries in column (2),
+to divide the area of the Block into constituencies specified in the corresponding entries in
+column (3),to determine the constituency or constituencies reserved for the Scheduled
+Tribes(ST), Scheduled Castes (SC) or the Backward Classes (BC) specified in the corresponding
+entries in column (4) and the constituency or constituencies reserved for women specified in the
+corresponding entries in column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+South 24 Parganas Zilla Parishad
+South 24 Parganas District
+Number of Constituencies . .
+Constituencies
+Name of Block members to be | Number, Name and area reserved for veseryed toe
+elected to the of the Constituency ST/ SC/ BC
+. : women
+Zilla Parishad persons
+(1) (2) (3) (4) (5)
+Basanti / ZP-1
+Chunakhali, Charavidya, Women
+Amijhara and Kanthalberia
+grams
+Basanti S
+Basanti / ZP-2
+Masjidbati, Bharatgarh, Women
+Jyotishpur, Nafargunj and
+Jharkhali grams
+1 of 9","[[""~"", ""18,""], [""Basanti"", ""S""]]"
+data/wb/2018/draft/1349-SEC-draft reservation-South 24 Parganas.pdf,4daa641b9a96a394a2e9fb1ccaf67ab54654aaca1d76df6f68cbca243b5464ce,2,draft,data/wb/ocr/draft/1349-SEC-draft reservation-South 24 Parganas-02.tsv,a9da0b60c4d07c674dc717beb141a4409676d624e82d81a9e72e977bb0d3edee,11,parsed_ocr_review_required,"[696.5, 1101.0, 1550.0, 1958.5]","> Basanti / ZP-3
+Fulmalancha,
+Ramchandrakhali, Uttar Women
+Mokamberia and Basanti
+grams
+Gosaba / ZP-4
+Sambhunagar, Women
+Pathankhali, Bripradaspur,
+Kachukhali and
+Rangabelia grams
+Gosaba / ZP-5
+Radhanagar Taranagar,
+Amtali, Kumirmari and Women
+Chotomollakhali grams
+Gosaba 3
+Gosaba / ZP-6
+Gosaba, Bali-II, Satgelia,
+Lahiripur and Bali-I
+grams
+SC
+Canning — II/ ZP-7
+Atharobanki, Kalikatala ST Women
+and Matherdighi grams
+Canning — II / ZP-8
+Narayanpur, Tambuldaha- Women
+Canning-II II and Tambuldaha-I
+grams
+Canning — II / ZP-9
+Deuli-I, Sarengabad and Women
+Deuli-II grams
+Kultali / ZP-10
+Meriganj-I, Kundakhali SC
+Godabar and Meriganj-II
+grams
+Kultali / ZP-11
+Jalaberia-I, Jalaberia-II SC Women
+Kultali 3 and Gopalganj grams
+Kultali / ZP-12
+Deulbari Debipur,
+Gurguria Bhubaneswari Women
+and Maipith Baikunthapur
+grams
+Joynanagar-II/ ZP-13 Women
+Joynagar-II 3 Baishata, Gordewani and
+Baledurganagar Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\South 24 Parganas\Order-draft-SEC-South 24 Parganas.doc 2 of 9",[]
+data/wb/2018/draft/1349-SEC-draft reservation-South 24 Parganas.pdf,4daa641b9a96a394a2e9fb1ccaf67ab54654aaca1d76df6f68cbca243b5464ce,3,draft,data/wb/ocr/draft/1349-SEC-draft reservation-South 24 Parganas-03.tsv,39e7179bab34aef68cd2d31ca4aa22ba4b98562188dbb062fbedb31296a6c9c8,10,parsed_ocr_review_required,"[696.5, 1101.0, 1550.0, 1958.5]","P) Joynanagar-II / ZP-14 Women
+Manirtat, Chprijhara and
+Nalgora Grams
+Joynanagar-II / ZP-15
+Moydah, Mayahowri, Women
+Sahajadapur and Futigoda
+grams
+Patharpratima / ZP-16
+Dk. Gangadharpur, Dk. SC
+Roypur,
+S/Purnachandrapur,
+Digambarpur and
+Ramganga grams
+Patharpratima / ZP-17
+Durbachati, Gopalnagar, SC Women
+Patharpratima,
+Brajaballavpur and G-Plot
+grams
+Patharpratima 3
+Patharpratima / ZP-18
+Laxmijanardanpur, Women
+Herambogopalpur,
+Achintyanagar,
+Banashyamnagar and
+Sridharnagar grams
+Kakdwip / ZP-19
+Madhusudanpur, SC
+Surajnagar, Sreenagar and
+Bapuji grams
+Kakdwip / ZP-20
+Pratapadityanagar, Sri Sri SC Women
+Kakdwip 3 Ramkrishna, Swami
+Vivekananda and Rishi
+Bankimchangra grams
+Kakdwip / ZP-21
+Netaji, Rabindra and Women
+Ramgopalpur grams
+Namkhana / ZP-22
+Budhakhali, Narayanpur
+and Namkhana grams
+Namkhana 2 Namkhana / ZP-23
+Haripur, Shibrampur, Women
+Mousuni and Freserganj
+gram
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\South 24 Parganas\Order-draft-SEC-South 24 Parganas.doc 3 of 9",[]
+data/wb/2018/draft/1349-SEC-draft reservation-South 24 Parganas.pdf,4daa641b9a96a394a2e9fb1ccaf67ab54654aaca1d76df6f68cbca243b5464ce,4,draft,data/wb/ocr/draft/1349-SEC-draft reservation-South 24 Parganas-04.tsv,5c85ab03d1d87c9e42d95846ca29fa49df29f735a9cf9d0371cb7497e2151fa4,10,parsed_ocr_review_required,"[696.5, 1101.0, 1550.0, 1958.5]","L Sagar / ZP-24
+Ghoramara, Muriganga-I SC
+and Muriganga-II grams
+Sagar / ZP-25
+Sagar 3 Dhaspara Sumatinagar-I,
+Dhaspara Sumatinagar-II
+and Ramkarchar grams
+Sagar / ZP-26
+Rudranagar, Gangasagar SC Women
+and Dhablat grams
+Kulpi / ZP-27
+Ramkishore, Rajarampur,
+Iswaripur and Ramnagar
+Gazipur grams
+Kulpi / ZP-28
+Gazipur, Kamarchak, el
+Kulpi, Ramkrishnapur and
+Karanjali grams
+Kulpi 3
+Kulpi / ZP-29
+Chandipur,Dhola, SC Women
+Belpukur, Keoratala and
+Baburmahal grams
+Mathurapur-I / ZP-30
+Debipur, Lalpur, Nalua,
+Krishnachandrapur and
+Mathurapur Purba grams
+Mathurapur-I / ZP-31
+Mathurapur-I 2 Abad Bhagabanpur, SC
+Sankarpur, Mathurapur
+Paschim,
+Laxminarayanpur Uttar
+and Laxminarayanpur
+Dakshin grams
+Mathurapur -II / ZP-32
+Kashinagar, Khari,
+Gilarchhat and
+Radhakantapur grams
+Matharapar-Ii 2 Mathurapur -II / ZP-33
+Kautala, Raidighi, BC Women
+D/Bakultala and
+Kumrapara grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\South 24 Parganas\Order-draft-SEC-South 24 Parganas.doc 4 of 9",[]
+data/wb/2018/draft/1349-SEC-draft reservation-South 24 Parganas.pdf,4daa641b9a96a394a2e9fb1ccaf67ab54654aaca1d76df6f68cbca243b5464ce,5,draft,data/wb/ocr/draft/1349-SEC-draft reservation-South 24 Parganas-05.tsv,79e37f578a9a5d7e69f7436d33719c34d8cf366f84bc4726abd39d069f7f670b,10,parsed_ocr_review_required,"[696.5, 1101.0, 1550.0, 1958.5]","~ Mathurapur -II / ZP-34
+Kankandighi, SC
+Nagendrapur and
+Nandakumarpur grams
+Mandirbazar / ZP-35
+Nishapur, Kecharkur,
+Chandpur Chaitanyapur
+and South Bishnupur
+grams
+Mandirbazar / ZP-36
+Dhanurhat, Anchna and SC Women
+Jagadishpur grams
+Mandirbazar 3
+Mandirbazar / ZP-37
+Krishnapur, Gabberia and
+Ghateswar grams
+Joynagar-I / ZP-38
+Dakshin Barasat, Sreepur, SC
+Baharu Kshetra and Uttar
+Durgapur grams
+Joynagar-I/ ZP-39
+Harinarayanpur,
+Narayanitala, Khakurdaha
+and Jangalia grams
+Joynagar-I
+Joynagar-I/ ZP-40
+Rajapur Karabeg,
+Bamangachi, Chaltaberia
+and Dhosa Chandaneswar
+grams
+Baruipur / ZP-41
+South Garia, Champahati,
+Begampur, Mallickpur,
+Hariharpur and Madarat
+grams
+Baruipur / ZP-42
+Ramnagar-I, Hardah,
+Belegachhi, Brindakhali,
+Ramnagar-II and
+Nabagram grams
+Baruipur a
+Baruipur / ZP-43
+Kalyanpur, Shikharbali-II, SC Women
+Shikharbali-I, Dhap
+Dhapi-I, Dhap Dhapi-I],
+Sankarpur-I and
+Sankarpur-II grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\South 24 Parganas\Order-draft-SEC-South 24 Parganas.doc 5 of 9","[[""Baruipur"", ""a""]]"
+data/wb/2018/draft/1349-SEC-draft reservation-South 24 Parganas.pdf,4daa641b9a96a394a2e9fb1ccaf67ab54654aaca1d76df6f68cbca243b5464ce,6,draft,data/wb/ocr/draft/1349-SEC-draft reservation-South 24 Parganas-06.tsv,cf6d4154f772970969bd82356d1b27e1fe4fe91006613e01710b02a38967699a,12,parsed_ocr_review_required,"[696.5, 1101.0, 1550.0, 1958.5]","L Canning-I / ZP-44
+Bansra, Taldi and Matla-II
+grams
+Canning-I / ZP-45
+; Matla-I, Dighirpar,Daria SC
+Canning-I ? and Hatpukuria grams
+Canning-I / ZP-46
+Nikarighata, Gopalpur and
+Itkhola grams
+Bhangore-I / ZP-47
+Tardah, Chandaneswar-II SC Women
+and Sanksahar grams
+Bhangore-I / ZP-48
+Bodra, Chandaneswar-! BC
+Bhangore-I 3
+and Durgapur grams
+Bhangore-I / ZP-49
+Narayanpur, Pranganj and BC Women
+Jagulgachi grams
+Magrahat-II / ZP-50
+Amratala, Mohanpur,
+Dhamua Uttar, Hotor Women
+Morjada and Nainan
+grams
+Magrahat-II / ZP-51
+Dhamua Dakshin, SC
+Magrahat-II 3 Dihikalash, Magrahat
+Paschim and Magrahat
+Purba grams
+Magrahat-II / ZP-52
+Multi, Gokorni, Jugdia,
+Urelchandpur and
+Dhanpota grams
+Magrahat-I / ZP-53
+Sirakol, Serpur, Yearpur SC Women
+and Srichanda grams
+Magrahat-I / ZP-54
+Hariharpur, Rangilabad, Women
+Magrahat-I 3 Kalikapota and
+Lakshmikantapur grams
+Magrahat-I / ZP-55
+Usthi, Uttarkusum and BC
+Ektara grams
+H.\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\South 24 Parganas\Order-draft-SEC-South 24 Parganas.doc 6 of 9","[[""Canning-I"", ""?""]]"
+data/wb/2018/draft/1349-SEC-draft reservation-South 24 Parganas.pdf,4daa641b9a96a394a2e9fb1ccaf67ab54654aaca1d76df6f68cbca243b5464ce,7,draft,data/wb/ocr/draft/1349-SEC-draft reservation-South 24 Parganas-07.tsv,ccd3f1e42d0a4c2e63977c03f364f2d104b39e23f9fda88670e624d3679a3de8,10,parsed_ocr_review_required,"[696.5, 1101.0, 1550.0, 1958.5]","L. Diamond Harbour -I/
+2 ZP-56
+Netra, Mashat, Dearak
+and Basuldanga grams
+Diamond
+Harbour-I 2 Diamond Harbour -I /
+ZP-57
+Parulia, Harindanga, BC Women
+Kanpur Dhanberia and
+Bolsidhi Kalinagar grams
+Diamond Harbour-II /
+ZP-58
+Noorpur, Mathur, Bhadura SC
+Haridas and Kalatalahat
+Diamond —_=
+Harbour-II Diamond Harbour-II /
+ZP-59 BC Women
+Khordah, Kamarpole,
+Sarisha and Patra grams
+Falta / ZP-60
+Mallickpur, Gopalpur, SC
+Belsingha-I and Falta
+grams
+Falta / ZP-61
+Noapukuria, Debipur, SC Women
+Harindanga-I and
+Falta Belsingha-II grams
+Falta / ZP-62
+Banganagar-l, SC
+Banganagar-II, Chaluary,
+Fatepur and Harindanga-lII
+grams
+Bishnupur-II / ZP-63
+Khagramuri, Nahazari, Women
+Bakhrahat and
+Kanganberia grams
+Bishnupur-II / ZP-64
+Patharberia Joychandipur,
+Moukhali and
+Ramkrishnapur-
+Borhanpur grams
+Bishnupur-II 3
+Bishnupur-II / ZP-65
+Chak Enayetnagar, BC Women
+Chandi, Panchanan and
+Gobindapur
+Kalicharanpur grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\South 24 Parganas\Order-draft-SEC-South 24 Parganas.doc 7 of 9",[]
+data/wb/2018/draft/1349-SEC-draft reservation-South 24 Parganas.pdf,4daa641b9a96a394a2e9fb1ccaf67ab54654aaca1d76df6f68cbca243b5464ce,8,draft,data/wb/ocr/draft/1349-SEC-draft reservation-South 24 Parganas-08.tsv,95b2b470ad42fda2787723fac3116c0f3968b662524b6d96da5fea1248a3b2a5,11,parsed_ocr_review_required,"[696.5, 1101.0, 1550.0, 1958.5]","Budge Budge -II / ZP-66
+Satgachia, Rania, Kamra Women
+and Naskarpur grams
+Budge Budge-II / ZP-67
+Chakmanik, South BC
+Budge Budge-II 3 Bawali, North Bawali and
+Kashipur Alampur grams
+Budge Budge-II / ZP-68
+Gaza Poali, Burul and SC Women
+Dongaria Raipur grams
+Thakurpukur
+Maheshtala / ZP-69
+Chatta and Ashuti-I grams
+Thakurpukur
+Maheshtala 2 Thakurpukur
+Maheshtala / ZP-70 SC
+Ashuti-II and Rasapunja
+grams
+Bishnupur-I / ZP-71
+Kulerdari, Panakua, SC Women
+Amgachia and
+Andharmanik grams
+Bishnupur-I /ZP-72
+Purba Bishnupur, Paschim Women
+Sidivapant 3 a and
+eoradanga grams
+Bishnupur-I /ZP-73
+Julpia, Rashkhali,
+Bhandaria Kastekumari
+and Dakshin Gouripur
+Chakdhir grams
+Sonarpur / ZP-74
+Pratapnagar, Sonarpur-II, Women
+Kalikapur-I and
+Kalikapur-II grams
+Sonarpur /ZP-75
+Poleghat, Langalberia,
+Bonhooghly-II and
+Somarpar 7 Bonhooghly-I grams
+Sonarpur /ZP-76
+Kheadah-II, Kheadah-I SC
+and Kamrabad grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\South 24 Parganas\Order-draft-SEC-South 24 Parganas.doc 8 of 9",[]
+data/wb/2018/draft/1349-SEC-draft reservation-South 24 Parganas.pdf,4daa641b9a96a394a2e9fb1ccaf67ab54654aaca1d76df6f68cbca243b5464ce,9,draft,data/wb/ocr/draft/1349-SEC-draft reservation-South 24 Parganas-09.tsv,8e236c33e5a10b8dae556ac42d1ef992bc4c0ae09e6619b86030a85d7021641f,5,parsed_ocr_review_required,"[696.5, 1101.0, 1550.0, 1958.5]","Bhangore-II / ZP-77
+Bamanghata, Beonta-I,
+Beonta-II and Bhagbanpur
+grams
+Bhangore-II /ZP-78
+Bhangore-II 3 Shanpukur, Polerhat-I and BC Women
+Polerhat-II grams
+Bhangore-II /ZP-79
+Chaltaberia, Bhogali-II
+and Bhogali-I grams BC
+Budge Budge -I / ZP-80
+Rajibpur, Mayapur and BC Women
+Nischintapur grams
+Budge Budge -I Budge Budge-I / ZP-81
+Uttar Raipur, Chingripota
+and Buita grams
+State Election Commissioner,
+West Bengal State Election Commission
+IS 11.17
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\South 24 Parganas\Order-draft-SEC-South 24 Parganas.doc 9 of 9",[]
+data/wb/2018/draft/1351-SEC-Draft order of Howrah district.pdf,6c6fdc37123292c01e587fdde3d9e8ce1c79ba23d019b4c9a543d0d3ec8dd934,1,draft,data/wb/ocr/draft/1351-SEC-Draft order of Howrah district-01.tsv,060bee7bb06f684fc39d771907b40e499ead1886fbb311a7c0073067a3336c57,1,parsed_ocr_review_required,"[679.75, 1083.0, 1531.25, 1951.75]","——
+WEST BENGAL STATE ELECTION COMMISSION
+Ss 18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1351- SEC/1D-217/2017 Date.15-11-2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+(Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat (Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Howrah Zilla Parishad constituencies and reservation of seats thereto
+for Panchayat General Elections 2018. The Block(s) have been specified in column (1) of the
+| Schedule below (hereinafter referred to as the said Schedule), the number of members to be
+elected to the Zilla Parishad specified in the corresponding entries in column (2), to divide the
+area of the Block into constituencies specified in the corresponding entries in column (3),to
+determine the constituency or constituencies reserved for the Scheduled Tribes(ST), Scheduled
+Castes (SC) or the Backward Classes (BC) specified in the corresponding entries in column (4)
+and the constituency or constituencies reserved for women specified in the corresponding entries
+in column (5) of the said schedule.
+The draft will be taken up for consideration by
+the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Howrah Zilla Parishad
+Howrah District
+Number of
+members to Constituencies Constituencies
+| Name of Block be elected to ee: rm sail viel reserved for ST/ reserved for
+the Zilla i. Y! scyBc persons women
+Parishad
+| (1) (2) (3) (4) (5)
+|
+Sankrail / ZP-1
+— 3 Duilya, Jhorehat,
+Panchpara, Thana-
+Makuna, Banupur-II and
+Banupur-I Grams
+Women
+1 of 5","[[""| (1)"", ""(2)""]]"
+data/wb/2018/draft/1351-SEC-Draft order of Howrah district.pdf,6c6fdc37123292c01e587fdde3d9e8ce1c79ba23d019b4c9a543d0d3ec8dd934,2,draft,data/wb/ocr/draft/1351-SEC-Draft order of Howrah district-02.tsv,3ef5e13c1c948e9786ceb5256bb9954b7abac1f44b8804487752b2b07d398540,9,parsed_ocr_review_required,"[679.75, 1083.0, 1531.25, 1951.75]","Sankrail / ZP-2
+Andul, Mashila,
+Dhulagori, Sankrail and
+Kandua Grams
+Women
+Sankrail / ZP-3
+Dakshin Sankrail,
+Manikpur, Sarenga,
+Nalpur and Raghudebbati
+Grams
+Women
+Domjur / ZP-4
+Mohiary-II, Mohiary-l,
+Parbotipur, Makradah-I, SC
+Domjur and Narna Grams
+Domjur / ZP-5
+Kolarah-II, Kolarah-I,
+Uttar Jhapordah,
+Rudrapur, Dakshin Women
+Jhapordah and Begri
+Grams
+Domjur 3
+Domjur / ZP-6
+Makardah-ll, Salap-II,
+Salap-I, Bankra-lII,
+Bankra-I and Bankra-III
+Grams
+Women
+Jagatballavpur / ZP-7
+Polgustia, Gobindapur,
+Laskarpur and Islampur SC Women
+Grams
+Jagatballavpur / ZP-8
+Jagatballavpur-ll,
+Jagatballavpur-I,
+Jagatballavpur 3 Sankarhati-II, Sankarhati-
+land Maju Grams
+Women
+Jagatballavpur / ZP-9
+Bargachia-I, Bargachia-
+II, Pantihal, Hantal-
+Anantabati and Sealdanga
+Grams
+SC
+Panchla / ZP-10
+Banaharishpur, Jala-
+Biswanathpur,
+Panchla 3 Charapanchla and
+Panchla Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Howrah\Order-draft-SEC-Howrah.doc 2) of 5",[]
+data/wb/2018/draft/1351-SEC-Draft order of Howrah district.pdf,6c6fdc37123292c01e587fdde3d9e8ce1c79ba23d019b4c9a543d0d3ec8dd934,3,draft,data/wb/ocr/draft/1351-SEC-Draft order of Howrah district-03.tsv,303bc2a93794f9e77ca3b0de18ec0e6f2e5a5c93fc4a2dda67eab351e3da43ab,11,parsed_ocr_review_required,"[679.75, 1083.0, 1531.25, 1951.75]","Panchla / ZP-11
+Jujersha, Gangadharpur BC Women
+and Deulpur Grams
+Panchla / ZP-12
+Subhararah, Biki-Hakola,
+Beldubi and Sahapur Women
+Grams
+Uluberia-II / ZP-13
+Khalisani, Raghudebpur,
+Tehatta-Kantaberia-II and
+Basudebpur Grams
+Diuberte-it A Uluberia-II / ZP-14
+Tehatta-Kantaberia-lI,
+Tulsiberia, Joargori and Women
+Baniban Grams
+Amta-I / ZP-15
+Rashpur, Sirajbati, Amta sc
+and Anulia Grams
+Amta-I / ZP-16
+Chandrapur,
+Bhandergacha, Udang-lII,
+Amta-I 3 Udang-I and Khardaha
+Grams
+Amta-I / ZP-17
+Kanpur, Basantpur,
+Balichak and Khosalpur SC Women
+Grams
+Uluberia-I / ZP-18
+Chandipur and ""
+Maheshpur Grams omen
+Uluberia-I / ZP-19
+Bahira, Kalinagar,
+Uluberia-I 3 Hatgacha-I and SC
+Hatgacha-II Grams
+Uluberia-I / ZP-20
+Tapna, Dhulasimla and
+Hirapur Grams
+Shyampur-I / ZP-21
+Dhandali, Belari,
+Nabagram and
+shyampurt a Balichaturi Grams Women
+3 of 5
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.1 1.2017\Howrah\Order-draft-SEC-Howrah.doc","[[""Diuberte-it"", ""A""], [""shyampurt"", ""a""]]"
+data/wb/2018/draft/1351-SEC-Draft order of Howrah district.pdf,6c6fdc37123292c01e587fdde3d9e8ce1c79ba23d019b4c9a543d0d3ec8dd934,4,draft,data/wb/ocr/draft/1351-SEC-Draft order of Howrah district-04.tsv,9fed8a8c11dfdfb20010fb4071af6156bb3eb5de7e0647bc656393f830b0614a,12,parsed_ocr_review_required,"[679.75, 1083.0, 1531.25, 1951.75]","Shyampur-I / ZP-22
+Shyampur, Baneswarpur-
+I and Dingakhola Grams
+Shyampur-I / ZP-23
+Radhapur, Baneswarpur-
+II and Kamalpur Grams BC Women
+Shyampur-II / ZP-24
+Nakole and Amaradaha
+grams
+Shyampur-II / ZP-25
+Bachhri, Bargram and
+Kharuberia grams
+Shyampur-II 3
+Shyampur-II / ZP-26
+Sasati, Dehi-Mondalghat-
+Il and Dehi-Mondalghat-I
+Grams
+Bagnan-I/ ZP-27
+Haturia-II, Haturia-I,
+Bangalpur and BC
+Bagnan-II grams
+Bagnan-I / ZP-28
+Bagnan-l, Khalore and BC Women
+Bagnan-l 3
+Bainan Grams
+Bagnan-I /ZP-29
+Bakshihat, Kalyanpur and
+Subsit Grams
+Bagnan - II / ZP-30
+Saratchandra, Orphuli
+and Bantul- SC
+Baidyanathpur Grams
+Dagan} Bagnan - II / ZP-31
+Antila, Chandrabagh,
+Mugkalyan-Benapur and
+Hallayan Grams
+BC Women
+Amta - IL / ZP-32
+Jhikira, Binola-
+Krishnabati, Amoragori, SC
+Joypur and Thalia Grams
+Amta-II 3
+Amta - II / ZP-33
+Jhamtia, Bhatora, ey
+Ghoraberia-Chitnan and omen
+Kashmoli Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11 2017\Howrah\Order-draft-SEC-Howrah.doc 4 of 5",[]
+data/wb/2018/draft/1351-SEC-Draft order of Howrah district.pdf,6c6fdc37123292c01e587fdde3d9e8ce1c79ba23d019b4c9a543d0d3ec8dd934,5,draft,data/wb/ocr/draft/1351-SEC-Draft order of Howrah district-05.tsv,8376dc2c4dc8cc558ea71f604fb63c110fefb689759abafe8b0f5e5e68912017,7,parsed_ocr_review_required,"[679.75, 1083.0, 1531.25, 1951.75]","Amta - II / ZP-34
+Gazipur, Nowpara,
+Khalna, Tajpur and BC
+Khusberia Grams
+Women
+Udaynarayanpur/ ZP-35
+Rampur-Dihibhursit-
+Asanda, Harali-
+Udaynarayanpur and
+Kurchi-Shibpur Grams
+Udaynarayanpur / ZP-36
+Singti, Khila, Kanupat-
+3 Munsuka and Harishpur BC
+Udayanarayanpur
+Grams
+Udaynarayanpur /ZP-37
+Pancharul, Debipur,
+Garhbhabanipur-Sonatala
+and Bhawanipur- sc wean
+Bidhichandapur Grams
+Bally-Jagacha / ZP-38
+Jagadishpur, Durgapur-
+Abhaynagar-II and BC
+Chamrail Grams
+Bally-Jagacha / ZP-39
+Chakpara Anandanagar
+and Sapuipara-Basukati
+Grams
+Bally-Jagacha 3 Women
+Bally-Jagacha / ZP-40
+Nischinda, Durgapur-
+Abhaynagar-I and Bally
+Grams
+meee
+State Election Commissioner,
+West Bengal State Election Commission
+io. 17
+5 of 5
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.1 1.2017\Howrah\Order-draft-SEC-Howrah.doc",[]
+data/wb/2018/draft/1353-SEC-draft reservation-Hooghly.pdf,bc11f22bca3901b970dffc4130ba1e660ddbedf25aceda27b2e24aec43ab7ace,1,draft,data/wb/ocr/draft/1353-SEC-draft reservation-Hooghly-01.tsv,d9bb15844292c4d2ef98f7ffbde615e94c28b58e73f4306074093459e633ac21,1,parsed_ocr_review_required,"[638.0, 1034.5, 1508.75, 1928.25]","WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1353- SEC/1D-220/2017 Date: 15-11-2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Hooghly Zilla Parishad constituencies and reservation of seats thereto
+for Panchayat General Elections 2018. The Block(s) have been specified in column (1) of the
+Schedule below (hereinafter referred to as the said Schedule), the number of members to be
+elected to the Zilla Parishad specified in the corresponding entries in column (2), to divide the
+area of the Block into constituencies specified in the corresponding entries in column (3),to
+determine the constituency or constituencies reserved for the Scheduled Tribes(ST), Scheduled
+Castes (SC) or the Backward Classes (BC) specified in the corresponding entries in column (4)
+and the constituency or constituencies reserved for women specified in the corresponding entries
+in column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Hooghly Zilla Parishad
+Hooghly District
+Number of . .
+Constituencies P i
+members to Constituencies
+Number, Name and area of reserved for
+Name of Block | be elected to ; reserved for
+; the Constituency ST/ SC/ BC
+the Zilla ‘crs women
+Parishad P
+(1) (2) (3) ° (4) (5)
+Serampore-Uttarpara/ ZP-1
+Serampore- Kanaipur, Nabagram and
+Uttarpara 2 Raghunathpur SC
+Grams
+1 of 6",[]
+data/wb/2018/draft/1353-SEC-draft reservation-Hooghly.pdf,bc11f22bca3901b970dffc4130ba1e660ddbedf25aceda27b2e24aec43ab7ace,2,draft,data/wb/ocr/draft/1353-SEC-draft reservation-Hooghly-02.tsv,fb442592eecb1a4afd89f4157149311b2451d75076de14cf153754fffd2dc5ed,12,parsed_ocr_review_required,"[638.0, 1034.5, 1508.75, 1928.25]","Serampore-Uttarpara/ZP-2
+Rajyadharpur, Rishra and
+Pearapur Grams Women
+Singur / ZP-3
+Gopalnagar, Anandanagar,
+Boinchipota, Bagdanga-
+Chhinamore, Singur-II and
+Bighati Grams
+BC Women
+Singur / ZP-4
+Beraberi, Singur-I, Mirzapur-
+Bankipur, Kamarkundu,
+Singur 3 Gopalnagar-Doluigachha, SC
+Balarambati and Basubati
+Grams
+Singur / ZP-5
+Nasibpur, Baruipara-
+Paltagarh, Barai-Pahalampur Women
+and Bora Grams
+Chanditala-II / ZP-6
+Kapasaria, Begampur,
+Pachghara and Naity Grams SC Women
+Chanditala-II 2 Chanditala-II / ZP-7
+Baksha, Janai, Chanditala,
+Barijhatty and Garalgacha Women
+Grams
+Polba-Dadpur / ZP-8
+Polba, Rajhat, Sugandhya and
+Amnan Grams
+Polba-Dadpur / ZP-9
+Polba-Dadpur 3 Mahanad, Akna, Goswami- Women
+Malipara and Satithan Grams
+Polba-Dadpur / ZP-10
+Harit, Makalpur, Dadpur and
+Babnan Grams
+SC
+Chinsurah-Mogra / ZP-11
+Debanandapur, Kodalia-II and
+Kodalia-I Grams sc Women
+Chinsurah-Mogra / ZP-12
+3 Bandel, Saptagram and BC
+Mogra-II Grams
+Chinsurah-Mogra / ZP-13
+Chandrahati-I, Chandrahati-II,
+Digsui-Hoerah and Mogra-I
+Grams
+Chinsurah-
+Mogra
+Women
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Hooghly\Order draft Hooghly.doc 2 of 6",[]
+data/wb/2018/draft/1353-SEC-draft reservation-Hooghly.pdf,bc11f22bca3901b970dffc4130ba1e660ddbedf25aceda27b2e24aec43ab7ace,3,draft,data/wb/ocr/draft/1353-SEC-draft reservation-Hooghly-03.tsv,690a89fb25ffcf1b7f3e5def9aa6932c0189fbf81060d13a7065cd32aa18937c,9,parsed_ocr_review_required,"[638.0, 1034.5, 1508.75, 1928.25]","Balagarh / ZP-14
+Guptipara-I, Charkrishnabati,
+Guptipara-II, Somra-I and SC Women
+Bakulia-Dhobapara Grams
+Balagarh / ZP-15
+Somra-II, Ektarpur,
+Mohipalpur, Dumurdaha-
+Nityanandapur-I and
+Dumurdaha-Nityanandapur-II
+Grams
+Balagarh 3 Women
+Balagarh / ZP-16
+Sripur-Balagarh, Jirat and
+Sija-Kamalpur Grams oe
+Pandua / ZP-17
+Berela-Konchmali, Jamna,
+Bantika-Boinchee, Haral-
+Daspur and Simlagarh-Vitasin
+Grams
+Women
+Pandua / ZP-18
+Sarai-Tinna, Panchgora-
+Torgram, Jamgram-Mondalai, Women
+Pandua 3 Ilsoba-Daspur, Sikhira-
+Champta and Pandua Grams
+Pandua / ZP-19
+Rameswarpur, Gopalnagar,
+Itachuna-Khanya, Beloon-
+Dhamasin, Jayer Dwarbasini ST Women
+and Khirkundi-Namajgram-
+Niala Grams
+Chanditala-I / ZP-20
+Gangadharpur,
+Krishnarampur and Mashat SC
+Grams
+Chanditala-I / ZP-21
+Chanditala-I 3 Nawabpur, Kumirmorah and
+Bhagabatipur Grams BC Women
+Chanditala-I / ZP-22
+Sheakhala, Aniya and Haripur
+Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Hooghly\Order draft Hooghly.doc 3 of 6",[]
+data/wb/2018/draft/1353-SEC-draft reservation-Hooghly.pdf,bc11f22bca3901b970dffc4130ba1e660ddbedf25aceda27b2e24aec43ab7ace,4,draft,data/wb/ocr/draft/1353-SEC-draft reservation-Hooghly-04.tsv,f5cde238b97e618ea4f82653818a16cbc8b07c32512974b82c84df02b92816f0,10,parsed_ocr_review_required,"[638.0, 1034.5, 1508.75, 1928.25]","Jangipara / ZP-23
+Rajbalhat-I, Rajbalhat-II,
+Antpur and Radhanagar
+Grams
+BC
+Jangipara / ZP-24
+Furfura, Mundalika and
+Kotalpur Grams
+Jangipara 3
+BC Women
+Jangipara / ZP-25
+Jangipara, Dilakash and
+Rashidpur Grams sc
+Haripal / ZP-26
+Chandanpur, Haripur-
+Kinkarbati, Olipurkashipur, Women
+Jejur and Bandipur Grams
+Haripal / ZP-27
+Pantra, Sripatipur-Ilipur,
+Nalikul Purba, Nalikul
+Haripal 2 Paschim and Haripal-Sahadeb
+Grams
+BC Women
+Haripal / ZP-28
+Dwarhatta, Kaikala, Paschim-
+Gopinathpur, Narayanpur-
+Bahirkhanda and Haripal- Wontes
+Ashutosh Grams
+Dhaniakhali / ZP-29
+Gurubari-I, Gurubari-II,
+Gurap, Bhastara, Dasghara-II
+and Dasghara-I Grams
+Dhaniakhali / ZP-30
+Somaspur-II, Somaspur-I,
+Dhaniakhali-I, Dhaniakhali-II,
+Dhaniakhali 3 Khejurdaha-Melki and
+Belmuri Grams
+ST
+Dhaniakhali / ZP-31
+Mandra, Gopinathpur-II,
+Gopinathpur-I, Parambua-
+Sahabazar, Bhanderhati-II and Women
+Bhanderhati-I Grams
+Tarakeswar / ZP-32
+Keshabchak, Talpur and
+Tarakeswar 3 Santoshpur Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9,11.2017\Hooghly\Order draft Hooghly.doc 4 of 6",[]
+data/wb/2018/draft/1353-SEC-draft reservation-Hooghly.pdf,bc11f22bca3901b970dffc4130ba1e660ddbedf25aceda27b2e24aec43ab7ace,5,draft,data/wb/ocr/draft/1353-SEC-draft reservation-Hooghly-05.tsv,9c0f10130ee7be3b5e55f2b3864cb6a1822fd47e1dc5b03238ebca2fd68b3847,11,parsed_ocr_review_required,"[638.0, 1034.5, 1508.75, 1928.25]","Tarakeswar / ZP-33
+Champadanga, Naita-
+Malpaharpur and Astara- SC Women
+Dattapur Grams
+Tarakeswar / ZP-34
+Purba Ramnagore, Bhanjipur,
+Baligori-I and Baligori-II
+Grams
+Pursurah / ZP-35
+Bhangamora, Kelepara and
+Dehrbatpur Grams =
+Pursurah / ZP-36
+Pursurah-I, Pursurah-II and
+Srirampur Grams sc Women
+Pursurah 3
+Pursurah / ZP-37
+Chiladangi and Shyampur
+Grams BC
+Arambagh/ ZP-38
+Harinkhola-I, Mayapur-I,
+Harinkhola-II Arandi-I and
+Arandi-I] Grams
+Arambagh / ZP-39
+Tirole, Batanal, Malaypur-I,
+Arambagh 3 Malaypur-II and Mayapur-II
+Grams
+Arambagh / ZP-40
+Madhabpur, Salepur-lI,
+Salepur-II, Gourhati-I and
+Gourhati-II Grams
+Khanakul-I / ZP-41
+Rammohan-II, Tantisal,
+Balipur and Arunda Grams
+Khanakul-I / ZP-42
+Rammohan-lI, Pole-I, Pole-II,
+Khanakul-II and Khanakul-I SC Women
+Khanakul-I 3 ae
+Khanakul-I / ZP-43
+Kishorepur-I, Kishorepur-II,
+Ghoshpur and Thakuranichak
+Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Hooghly\Order draft Hooghly.doc 5 of 6",[]
+data/wb/2018/draft/1353-SEC-draft reservation-Hooghly.pdf,bc11f22bca3901b970dffc4130ba1e660ddbedf25aceda27b2e24aec43ab7ace,6,draft,data/wb/ocr/draft/1353-SEC-draft reservation-Hooghly-06.tsv,9832dfeebc73e8ff7d506025a4b28c8751bba4cf49521dc0439bdb59337aa479,7,parsed_ocr_review_required,"[638.0, 1034.5, 1508.75, 1928.25]","Goghat-II / ZP-44
+Kumarganj, Bengai,
+Kamarpukur and Mandaran SC
+Grams
+Goghat-II Z Goghat-II / ZP-45
+Shyambazar, Badangani-
+Fului-I, Badanganj-Fului-II,
+Paschimpara and Hazipur
+Grams
+Women
+Goghat-I / ZP-46
+Goghat, Raghubati and
+Bhadur Grams at Women
+Goghat-I 2
+Goghat-I / ZP-47
+Nakunda, Kumursha, Saora
+and Bali Grams Sc
+Khanakul - IT / ZP-48
+Rajhati-I, Rajhati-II,
+Natibpur-I and
+Sabalsinghapur Grams
+Khanakul - II / ZP-49
+Khanakul-II 3 Dhanyaghori, Jagatpur and
+Wom
+Marokhana Grams =
+Khanakul - IT / ZP-50
+Chingra, Palaspai-I, Natibpur-
+II and Palaspai-II Grams
+(A.K.SING
+State Election Commissioner,
+West Bengal State Election Commission
+15-31-17
+H.\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Hooghly\Order draft Hooghly.doc 6 of 6","[[""Goghat-II"", ""Z""]]"
+data/wb/2018/draft/1355-SEC-draft reservation-Purba Medinipur.pdf,6381894bcd6b277683536be57678536a9f322a059324693e790e64b923f038ca,1,draft,data/wb/ocr/draft/1355-SEC-draft reservation-Purba Medinipur-01.tsv,60b74309366e61f5b8eaf13a12469e8b2ec778c22c0a882f4ee5dee35ae65c50,1,parsed_ocr_review_required,"[727.0, 1130.5, 1578.5, 1986.25]","WEST BENGAL STATE ELECTION COMMISSION
+Jf 18, Sarojini Naidu Sarani
+- (Rawdon Street)
+Kolkata — 700 017
+No. 1355- SEC/1D-212/2017 Date.15-11-2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+(Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat (Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections (Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Purba Medinipur Zilla Parishad constituencies and reservation of
+seats thereto for Panchayat General Elections 2018. The Block(s) have been specified in column
+(1) of the Schedule below (hereinafter referred to as the said Schedule), the number of members
+to be elected to the Zilla Parishad specified in the corresponding entries in column (2), to divide
+the area of the Block into constituencies specified in the corresponding entries in column (3),to
+determine the constituency or constituencies reserved for the Scheduled Tribes(ST), Scheduled
+Castes (SC) or the Backward Classes (BC) specified in the corresponding entries in column (4)
+and the constituency or constituencies reserved for women specified in the corresponding entries
+in column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Purba Medinipur Zilla Parishad
+Purba Medinipur District
+Number of Constituencies Consitinencd
+Name of Block members to be | Number, Name and area reserved for ei ten.
+elected to the of the Constituency ST/ SC/ BC iimnee
+Zilla Parishad persons
+1 2 2 5
+(1) (2) (3) (4) (5)
+Sahid Matangini / ZP-1
+Santipur-I, Santipur-II, aes
+Sahid Matangini 3 Kharui-I and Kharui-II
+Grams
+1 of 7",[]
+data/wb/2018/draft/1355-SEC-draft reservation-Purba Medinipur.pdf,6381894bcd6b277683536be57678536a9f322a059324693e790e64b923f038ca,2,draft,data/wb/ocr/draft/1355-SEC-draft reservation-Purba Medinipur-02.tsv,9fe49d81b6db0d271a44e86b3cabde1994b6e8a3c44e4b1087738ba3b2557f23,10,parsed_ocr_review_required,"[727.0, 1130.5, 1578.5, 1986.25]","Sahid Matangini / ZP-2 WOMEN
+~ Balluk-II, Balluk-I and
+Kakharda Grams
+Sahid Matangini / ZP-3
+Dhalhara, Raghunathpur-I
+and Raghunathpur-II WOMEN
+Grams
+Tamluk / ZP-4
+Bishnubar-II, Pipulberia-
+II, Pipulberia-I and Uttar
+Sonamui Grams
+WOMEN
+Tamluk / ZP-5
+Nilkunthia, Anantapur-I,
+Tamluk 3 Srirampur-I and
+Srirampur-II Grams
+WOMEN
+Tamluk / ZP-6
+Anantapur-II, Bishnubar-
+I, Padumpur-I and
+Padumpur-II Grams
+Kolaghat / ZP-7
+Brindabanchak, WOMEN
+Khanyadihi,
+Baishnabchak, Siddha-I
+and Siddha-II Grams
+Panchayats
+3 Kolaghat / ZP-8
+eta Gopalnagar, Kola-lII,
+Kola-I and Pulsita Grams
+Kolaghat / ZP-9
+Amalhanda, Sagarbarh,
+Bhogpur and Deriachak WOMEN
+Grams
+Panskura-I / ZP-10
+Mysore, Keshapat and
+Panskura-I Grams
+WOMEN
+Panskura-I 3 Panskura-I / ZP-11
+Gobindanagar, Ghoshpur,
+Haur, Chaitanyapur-I and
+Chaitanyapur-II Grams
+BC
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Purba Medinipur\Order-draft-SEC-Purba Medinipur.doc 2 of 7",[]
+data/wb/2018/draft/1355-SEC-draft reservation-Purba Medinipur.pdf,6381894bcd6b277683536be57678536a9f322a059324693e790e64b923f038ca,3,draft,data/wb/ocr/draft/1355-SEC-draft reservation-Purba Medinipur-03.tsv,fe50cc58e4c3e9dede0d01c5e9daa6420dc01ea34027b173da6ea08682340edd,9,parsed_ocr_review_required,"[727.0, 1130.5, 1578.5, 1986.25]","Panskura-I / ZP-12
+Pratappur-I, Pratappur-II,
+a) Radhaballavchak,
+Purushottampore, BC WOMEN
+Raghunathbari and
+Khandakhola Grams
+Moyna / ZP-13
+Gokulnagar,
+Paramanandapur and WOMEN
+Ramchak Grams
+Moyna / ZP-14
+Srikantha, Tilkhoja,
+Moyna 3 Moyna-II and Moyna-I
+Grams
+BC
+Moyna / ZP-15
+Gojina, Bakcha,
+Naichanpur-I and SC WOMEN
+Naichanpur-II Grams
+Nandakumar / ZP-16
+Dakshin Narikelda,
+Kumarchak, WOMEN
+Bargodagodar and Chak
+Simulia Grams
+Nandakumar / ZP-17
+Byabattarhat Paschim,
+Byabattarhat Purba, WOMEN
+Basudebpur and Kumarara
+Grams
+Nandakumar 3
+Nandakumar / ZP-18
+Kalyanpur, Sitalpur
+Paschim, Saoraberia
+Jalpai-II and Saoraberia
+Jalpai-I Grams
+SC
+Mahishadal / ZP-19
+Amritberia, Satish
+Samanta, Kismatnaikundi
+and Itamogra-I Grams
+Mahishadal 3
+Mahishadal / ZP-20
+Itamogra-lII,
+Garhkamalpur, Lakshya-I
+and Lakshya-II Grams
+WOMEN
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Purba Medinipur\Order-draft-SEC-Purba Medinipur.doc 3 of 7",[]
+data/wb/2018/draft/1355-SEC-draft reservation-Purba Medinipur.pdf,6381894bcd6b277683536be57678536a9f322a059324693e790e64b923f038ca,4,draft,data/wb/ocr/draft/1355-SEC-draft reservation-Purba Medinipur-04.tsv,d27e43a2b95620d018528200bb0c1b576dc885861d56a495850ab3e1f08dc4ac,11,parsed_ocr_review_required,"[727.0, 1130.5, 1578.5, 1986.25]","-* Betkundu Grams
+Mahishadal / ZP-21
+Natshal-II, Natshal-I and sc
+WOMEN
+Haldia / ZP-22
+Baruttarhingly and
+Chakdwipa Grams
+WOMEN
+Haldia : Haldia / ZP-23
+Deulpota and Debhog
+Grams
+Sutahata / ZP-24
+Kukrahati, Chaitanyapur SC
+and Ashadtalia Grams
+Sutahata 2
+Sutahata / ZP-25
+Guaberia, Horekhali and
+Joynagar Grams
+Nandigram-II / ZP-26
+Boyal-I, Boyal-II,
+Khodambari-II and
+Khodambari-I Grams
+Nandigram-II 2
+Nandigram-II / ZP-27
+Birulia, Amdabad-I and
+Amdabad-II Grams SC
+WOMEN
+Nandigram-I / ZP-28
+Bhekutia, Mahammadpur
+and Kendamari Jalpai
+Grams
+WOMEN
+Nandigram-I / ZP-29
+Nandigram, Haripur, ~
+Daudpur and Samsabad
+Nandigram-I 3 Gam
+Nandigram-I / ZP-30
+Kalicharanpur,
+Gokulnagar and
+Sonachura Grams
+WOMEN
+Bhagwanpur-I / ZP-31
+Bhagwanpur-I 3 Bibhisanpur, Beundia and
+Simulia Grams
+BC
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9,11.2017\Purba Medinipur\Order-draft-SEC-Purba Medinipur.doc
+4 of 7","[[""Haldia"", "":""]]"
+data/wb/2018/draft/1355-SEC-draft reservation-Purba Medinipur.pdf,6381894bcd6b277683536be57678536a9f322a059324693e790e64b923f038ca,5,draft,data/wb/ocr/draft/1355-SEC-draft reservation-Purba Medinipur-05.tsv,4d740341724a4fb73d52d5c489378dc9cfa4678f14923afc9068f87a2899e848,11,parsed_ocr_review_required,"[727.0, 1130.5, 1578.5, 1986.25]","Bhagwanpur-I / ZP-32
+Mahammadpur-I,
+o Mahammadpur-II,
+Gurgram and Bhagwanpur
+Grams
+SC
+WOMEN
+Bhagwanpur-I / ZP-33
+Kakra, Kajlagarh and
+Kotebarh Grams BC
+Chandipur / ZP-34
+Jalpai, Brindabanpur-I,
+Brindabanpur-II,
+Nandapur, Baraghuni and
+Chandipur 2 Dibakarpur Grams
+Chandipur / ZP-35
+Chowkhali, Iswarpur,
+Usmanpur, Brajalalchak BC
+and Kulbari Grams
+WOMEN
+Patashpur-I / ZP-36
+Naipur, Gokulpur,
+Gopalpur and Brajalalpur SC
+Grams
+Patashpur-I a Patashpur-I / ZP-37
+Amarshi-I, Amarshi-I],
+Chistipur-I, Chistipur-II
+and Barhat Grams
+Patashpur-II / ZP-38
+Patashpur, Khar, Panchet
+and Srirampur Grams
+Patashpur-II
+Patashpur-II / ZP-39 |
+Southkhanda, Mathura
+and Argoal Grams
+WOMEN
+Egra-II / ZP-40
+Bathuary, Deshbandhu,
+Vivekananda and
+Manjushree Grams
+SC
+WOMEN
+Egra-tl * Egra-II / ZP-41
+Paniparul, Dubda,
+Sarbodaya and
+Basudevpur Grams
+Contai-III / ZP-42
+; Bhajachauli, Kumirda,
+Contai-III 2 Lauda and Debendra
+Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Purba Medinipur\Order-draft-SEC-Purba Medinipur.doc
+5 of 7","[[""Patashpur-I"", ""a""], [""Egra-tl"", ""*""]]"
+data/wb/2018/draft/1355-SEC-draft reservation-Purba Medinipur.pdf,6381894bcd6b277683536be57678536a9f322a059324693e790e64b923f038ca,6,draft,data/wb/ocr/draft/1355-SEC-draft reservation-Purba Medinipur-06.tsv,af81f8c9ee6d37ae2c9d1f28208009224b8c3883f47a71a12ea33c42841d3fe9,12,parsed_ocr_review_required,"[727.0, 1130.5, 1578.5, 1986.25]","Contai-III / ZP-43
+Kanaidighi, Marishda,
+r Kusumpur and Durmuth
+Grams
+Deshpran / ZP-44
+Sarda, Aurai, Amtalia and BC
+Dhobaberia Grams
+Deshpran 2 Deshpran / ZP-45
+Bamunia, Chalti, Basantia
+and Dariapur Grams
+Bhagwanpur-II / ZP-46
+Radhapur, Basudevberia
+and Itaberia Grams
+Bhagwanpur-II / ZP-47
+Arjunnagar, Mugberia and
+Bhagwanpur-II 3 Baroj Grams
+WOMEN
+Bhagwanpur-II / ZP-48
+Jukhia, Garbari-II and
+Garbari-I Grams
+Khejuri-I / ZP-49
+Heria, Lakshi and Tikashi
+Grams
+Khejuri-I 2 Khejuri-I / ZP-50
+Birbandar, Kamarda and
+Kalagechia Grams ~
+WOMEN
+Khejuri-II / ZP-51
+Haludbari, Baratala and SC
+Khejuri Grams
+Khejuri-II 2
+Khejuri-II / ZP-52
+Janka and Nijkasba Grams
+Contai-I / ZP-53
+Badalpur, Haipur, Raipur,
+Paschim Barh and
+Dulalpur Grams
+WOMEN
+Contai-I 2 Contai-I/ ZP-54
+Mahisagote, Sabajput,
+Nayaput and Majilapur
+Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Purba Medinipur\Order-draft-SEC-Purba Medinipur.doc
+6 of 7",[]
+data/wb/2018/draft/1355-SEC-draft reservation-Purba Medinipur.pdf,6381894bcd6b277683536be57678536a9f322a059324693e790e64b923f038ca,7,draft,data/wb/ocr/draft/1355-SEC-draft reservation-Purba Medinipur-07.tsv,bef840fdb61d4cc9c4a380ba37f953969af68fe463e77ba49164b686c0d76b1d,6,parsed_ocr_review_required,"[727.0, 1130.5, 1578.5, 1986.25]","Ramnagar-I / ZP-55
+Badhia, Haldia-I, Haldia-
+II and Talgachhari-I
+Grams
+Ramnagar-I 2 Ramnagar-I / ZP-56
+Basantapur, Gobra,
+Padima-I, Padima-II and
+Talgachhari-II Grams
+WOMEN
+Ramnagar-II / ZP-57
+Paldhui, Depal, Kadua
+and Maitana Grams BC WOMEN
+Ramnagar-II 2 Ramnagar-II / ZP-58
+Badalpur, Balisai,
+Satilapur and Kalindi BC
+Grams
+Egra-I / ZP-59
+Barida, Kasba Egra,
+Chhatri and Jerthan WOMEN
+Grams
+Egra-I 2 Egra-I / ZP-60
+Panchrol, Sahara, Rishi BC WOMEN
+Bankimchandra and Jumki
+Grams
+(A.K.SING
+State Election Commissioner,
+West Bengal State Election Commission
+18ft.Ps
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Purba Medinipur\Order-draft-SEC-Purba Medinipur.doc 7 of 7",[]
+data/wb/2018/draft/1357-SEC-Draft order of Paschim Medinipur district.pdf,f67efd95e36ad6d2e4485a2593d431527110a5e2a6e4ac3a44cede7959c94c87,1,draft,data/wb/ocr/draft/1357-SEC-Draft order of Paschim Medinipur district-01.tsv,2dec7921ef01e4a42ae2a79dbbe12faacc0a253d57f87697985fc3e6ce7db118,1,parsed_ocr_review_required,"[725.5, 1109.25, 1563.75, 1974.25]","WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1357- SEC/1D-208/2017 Date.15-11-2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second
+Amendment) Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections
+Act, 2003 and Section 17 of the West Bengal Panchayat Elections ( Amendment ) Act,
+2012 and Section 17 of the West Bengal Panchayat Elections ( Second Amendment )
+Act, 2012 read with Rules 26 of the West Bengal Panchayat Elections Rules, 2006 ( as
+Amended vide No 5013/PN/O/3R-1/2012 dated 24-09-2012 of P&RD Deptt,, Govt. of
+West Bengal ) and Rule 27 of the West Bengal Panchayat Elections Rules, 2006, West
+Bengal State Election Commission, hereby publish the draft Order for delimitation of
+Paschim Medinipur Zilla Parishad constituencies and reservation of seats
+thereto for Panchayat General Elections 2018. The Block(s) have been specified in
+column (1) of the Schedule below (hereinafter referred to as the said Schedule), the
+number of members to be elected to the Zilla Parishad specified in the corresponding
+entries in column (2), to divide the area of the Block into constituencies specified in the
+corresponding entries in column (3),to determine the constituency or constituencies
+reserved for the Scheduled Tribes(ST), Scheduled Castes (SC) or the Backward Classes
+(BC) specified in the corresponding entries in column (4) and the constituency or
+constituencies reserved for women specified in the corresponding entries in column (5)
+of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner
+after fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission
+within the said period, shall be duly considered.
+THE SCHEDULE
+Paschim Medinipur Zilla Parishad
+Paschim Medinipur District
+Number of
+members Constituencies , ;
+Number, Name and area of reserved for Constituencies
+Name of Block one MDE reserved for
+elected to the Constituency ST/ SC/ BC
+. women
+the Zilla persons
+Parishad
+3 5
+(1) (2) ©) (4) 6)
+Dantan-II/ZP-1
+Dantan-II 2 Talda, Turka, Sabra and BC
+Jenkapur Grams
+1 of 6","[[""Name of Block"", ""one""]]"
+data/wb/2018/draft/1357-SEC-Draft order of Paschim Medinipur district.pdf,f67efd95e36ad6d2e4485a2593d431527110a5e2a6e4ac3a44cede7959c94c87,2,draft,data/wb/ocr/draft/1357-SEC-Draft order of Paschim Medinipur district-02.tsv,eb40f6fb5782d3b374e5cbda23d9eed61bde3c5a3c8e11de6175411fbebaa6fd,12,parsed_ocr_review_required,"[725.5, 1109.25, 1563.75, 1974.25]","Dantan-II /ZP-2
+Sauri-Kotbar, Porolda and
+Haripur Grams
+Women
+Mohanpur /ZP-3
+Sautia,Nilda and Tanua
+Grams BC
+Mohanpur 2
+Women
+Mohanpur /ZP-4
+Shialsai and Mohanpur
+Grams
+Women
+Dantan-I /ZP-5
+Chakismailpur, Salikotha, ST
+Angua and Anikola Grams
+Dantan-I Dantan-I /ZP-6
+Alikosha,Tararui,Manoharpu
+r,Dantan-I and Dantan-II
+Grams
+BC
+Women
+Keshiyari /ZP-7
+Ghritagram, Khajra,
+Santrapur, Kusumpur and
+Lalua Grams
+Women
+Keshiary 2 Keshiary /ZP-8
+Baghasty, Nachipur,
+Keshiary and Gaganeshwar
+Grams
+Women
+Narayangarh /ZP-9
+Mokrampur, Gramraj,
+Narma, Kunarpur, Pakurseni
+and Khursi Grams
+Women
+Narayangarh /ZP-10
+Narayangarh, Kashipur,
+Belda-II, Belda-I and
+Narayangarh 3 Bakhrabad Grams
+Women
+Narayangarh /ZP-11
+Ranisarai, Mannya,
+Tutranga,
+Kushbasan and Hemchandra
+Grams
+Women
+Sabong /ZP-12
+Debhog, Nowgan, Danrra,
+Dasagram and Sarta Grams =
+Sabong 3 Sabong /ZP-13
+Chaulkuri, Narayanbarh,
+Sabang and Balpai Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Paschim Medinipur\Order-draft-SEC-Paschim Medinipur.doc
+2 of 6",[]
+data/wb/2018/draft/1357-SEC-Draft order of Paschim Medinipur district.pdf,f67efd95e36ad6d2e4485a2593d431527110a5e2a6e4ac3a44cede7959c94c87,3,draft,data/wb/ocr/draft/1357-SEC-Draft order of Paschim Medinipur district-03.tsv,e806c00bdf4e1b4b54e13c4c917dbbf17dca6ccf5685d160c05ce2b0c49995df,12,parsed_ocr_review_required,"[725.5, 1109.25, 1563.75, 1974.25]","Sabong /ZP-14
+Bhemua, Mohar, Bural and Sc
+Bishnupur Grams
+Pingla / ZP-15
+Maligram, Jalchak-I and
+Jalchak-II Grams BC
+Women
+Pingla / ZP-16
+Pingla 3 Kusumda, Jamna, BC
+Dhaneswarpur and Karkai
+Grams
+Women
+Pingla /ZP-17
+Khirai, Gobardhanpur and BC
+Pindrui Grams
+Kharagpur-II /ZP-18
+Kaliara-I, Kaliara-II,
+Lachhmanpur, Paparara-I
+and Paparara-II Grams
+Kharagpur-II 2
+Kharagpur-II /ZP-19
+Chakmakrampur, Changual, -
+Sankoa and Palsya Grams omen
+Medinipur Sadar /ZP-20
+Siromoni, Panchkhuri-I,
+Panchkhuri-II, Bonpura and ST
+Women
+Pathra Grams
+Medinipur Sadar 2
+Medinipur Sadar/ZP-21
+Dherua, Chandra, Monidaha
+and Kankabati Grams
+Kharagpur-I /ZP-22
+Kalaikunda, Barkola and ST
+Arjuni Grams
+Kharagpur-I 2 Khragpur-I /ZP-23
+Hariatara, Gopali, Bhetia and
+Khelar Grams
+Women
+Debra /ZP-24
+Bhabanipur, Bharatpur, ST
+Malighati and Golgram
+Grams
+Women
+Debra 3
+Debra /ZP-25
+Satyapur, Khanamohan, SC
+Debra-I, Debra-II and
+Shanrpur-Lowada Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and Teservation_9.11.2017\Paschim Medinipur\Order-draft-SEC-Paschim Medinipur.doc
+3 of 6",[]
+data/wb/2018/draft/1357-SEC-Draft order of Paschim Medinipur district.pdf,f67efd95e36ad6d2e4485a2593d431527110a5e2a6e4ac3a44cede7959c94c87,4,draft,data/wb/ocr/draft/1357-SEC-Draft order of Paschim Medinipur district-04.tsv,90603203a8b8313e5f66a98c0965446d5df5a21e6f1c2885483abfe739bf323c,11,parsed_ocr_review_required,"[725.5, 1109.25, 1563.75, 1974.25]","Debra /ZP-26
+Jalimanda, Duan-I, Duan-II,
+Radhamohanpur-I and me Women
+Radhamohanpur-II Grams
+Daspur-I /ZP-27
+Daspur-I, Daspur-II and sc
+Basudevpur Grams
+Daspur-I /ZP-28
+Panchberia, Nandanpur-I,
+Daspur-I 3 Nandanpur-II and Sarberia-II SC Women
+Grams
+Daspur I/ZP-29
+Rajnagar, Sarberia-I and
+Nij-narajole Grams
+Daspur-II /ZP-30
+Khanjapur, Kamalpur,
+Ranichak, Chaipat and Benai SC
+Grams
+Daspur-II/ZP-31
+Sahachak, Gochati
+Daspur-II 3 Nischintapur, Kheput D.B Women
+and Palaspai Grams
+Daspur-II /ZP-32
+Dudhkomra, Goura,
+Khukurdaha and
+Joytghanashyam Grams
+Ghatal /ZP-33
+Sultanpur, Irhpala, Mansuka- Women
+I and Mansuka-II Grams
+Ghatal /ZP-34
+Birsingha, Ajabnagar-II, SC Women
+Ghatal 3 Manoharpur-I and
+Manoharpur-II Grams
+Ghatal /ZP-35
+Mohanpur, Ajabnagar-I,
+Dewanchak-I and
+Dewanchak-II Grams
+BC
+Chandrakona-II /ZP-36
+Bhagabantapur-
+Chandrakona-I . I,Bhagabantapur-II and a
+Basanchora Grams
+Women
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Paschim Medinipur\Order-draft-SEC-Paschim Medinipur.doc 4 of 6","[[""Chandrakona-I"", "".""]]"
+data/wb/2018/draft/1357-SEC-Draft order of Paschim Medinipur district.pdf,f67efd95e36ad6d2e4485a2593d431527110a5e2a6e4ac3a44cede7959c94c87,5,draft,data/wb/ocr/draft/1357-SEC-Draft order of Paschim Medinipur district-05.tsv,f7794608dff36d12d970973ce197f5b2fdda0204913d25218fbd0027f2b22035,11,parsed_ocr_review_required,"[725.5, 1109.25, 1563.75, 1974.25]","Chandrakona-Il / ZP-37
+Kuapur, Bandipur-I and SC
+Bandipur-II Grams
+Chandrakona-I /ZP-38
+Lakshmipur, Jara and
+Mangrul Grams SC Women
+Chandrakona-I 2
+Chandrakona-I / ZP-39
+Manikkundu, Manoharpur-I
+and Manoharpur-II Grams
+Garhbeta-II/ZP-40
+Amlasuli, Piasala, Sarbot,
+Jogardanga and Makli
+Grams
+Garhbeta-II /ZP-41
+Patharpara, Pingboni,
+Goaltore,
+Jirapara and Gohaldanga
+Grams
+Garhbeta-I /ZP-42
+Shyamnagar, Dhadika, Agra
+and Benachapra Grams
+Garhbeta-II 2
+Garhbeta-I /ZP-43 Women
+Amkopa, Amlagora, Garanga
+Garhbeta-I 3 and Garhbeta Grams
+Garhbeta-I/ZP-44
+Kadra-Uttarbil, Sandhipur,
+Baramura and Kharkusma
+Grams
+Garhbeta-III /ZP-45 Ww
+Satbankura, SankarKanta omeB
+Nayabasat and Nalbona
+Garhbeta-III 2 Grams
+Garhbeta-III / ZP-46
+Raskundu, Karsa, Amsole
+and Uriasai Gram
+Salboni /ZP-47
+Salboni, Bishnupur,
+Salboni 2 Debagram, Lalgeria and BC Women
+Bhimpur Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and teservation_9.11.2017\Paschim Medinipur\Order-draft-SEC-Paschim Medinipur.doc 5 of 6",[]
+data/wb/2018/draft/1357-SEC-Draft order of Paschim Medinipur district.pdf,f67efd95e36ad6d2e4485a2593d431527110a5e2a6e4ac3a44cede7959c94c87,6,draft,data/wb/ocr/draft/1357-SEC-Draft order of Paschim Medinipur district-06.tsv,09378c83f09d5a78067a3ae7a5af163e2de37c672ecdae5c237ad47505846cfd,4,parsed_ocr_review_required,"[725.5, 1109.25, 1563.75, 1974.25]","Salboni /ZP-48
+Bankibandh, Karnagarh,
+Kashijora, Garhmal and
+Satpati Grams
+Keshpur /ZP-49
+Jorakeudi-Solidiha, Sirsha,
+Amanpur, Golar and
+Mugbasan Grams
+Keshpur /ZP-50
+Jagannathpur,Teghori,
+Keshpur 3 Amrakuchi, Anandapur and BC
+Keshpur Grams
+Keshpur /ZP-51
+Kalagram,Sarishakhola,
+Dhalhara,Jhentla and
+Enayetpur Grams
+(A.K.SING
+State Election Commissioner,
+West Bengal State Election Commission
+Lf a) ~1 7
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Paschim Medinipur\Order-draft-SEC-Paschim Medinipur.doc
+6 of 6
+-",[]
+data/wb/2018/draft/1359-SEC-draft reservation-Jhargram.pdf,b53cbcb22337a26cb1b97d78b9b5bce4e6e95f373d9920c05d16816e7c825ebf,1,draft,data/wb/ocr/draft/1359-SEC-draft reservation-Jhargram-01.tsv,5444369e57b5e3e62f2f021b5a20e15091319c4c41b788ab9b20ea35f87b9b2e,1,parsed_ocr_review_required,"[633.0, 1052.75, 1579.25, 2029.0]","WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1359- SEC/1D-215/2017 Date.15.11.2017.
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Jhargram Zilla Parishad constituencies and reservation of seats
+thereto for Panchayat General Elections 2018. The Block(s) have been specified in column (1) of
+the Schedule below (hereinafter referred to as the said Schedule), the number of members to be
+elected to the Zilla Parishad specified in the corresponding entries in column (2), to divide the
+area of the Block into constituencies specified in the corresponding entries in column (3),to
+determine the constituency or constituencies reserved for the Scheduled Tribes(ST), Scheduled
+Castes (SC) or the Backward Classes (BC) specified in the corresponding entries in column (4)
+and the constituency or constituencies reserved for women specified in the corresponding entries
+in column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Jhargram Zilla Parishad
+Jhargram District -
+Number of
+members to Namiier, Name-and aves of the Constituencies | Constituencies
+Name of Block be elected Cons teens reserved for ST/ | reserved for
+to the Zilla y SC/ BC persons women
+Parishad
+3 5
+(1) Q) o (4) 6)
+Gopiballavpur-I /ZP-1
+Gopiballavpur-I 2 Satma, Amarda, Sasra and Saria ST
+grams
+1 of 3",[]
+data/wb/2018/draft/1359-SEC-draft reservation-Jhargram.pdf,b53cbcb22337a26cb1b97d78b9b5bce4e6e95f373d9920c05d16816e7c825ebf,2,draft,data/wb/ocr/draft/1359-SEC-draft reservation-Jhargram-02.tsv,83cac51a61818f8ef882c259c4ee5401e7d0a0053cfbf8dff27afbe2ceafdba0,12,parsed_ocr_review_required,"[633.0, 1052.75, 1579.25, 2029.0]","Gopiballavpur-I /ZP-2
+Gopiballavpur, Alampur and
+Kendugari grams Women
+Gopiballavpur-II /ZP-3
+Chorchita, Nota, Tapsia and SC Women
+Kuliana grams
+Gopiballavpur- 2
+Il Gopiballavpur-II /ZP-4
+Beliaberah, Kharbandhi and
+Petbindhi grams
+Nayagram/ZP-5
+Patina, Chandabila, Barakhankri, ST
+Malam, Baranegui, Nayagram and
+Jamirapal grams
+Nayagram
+Nayagram/ZP-6
+Kharikamathani, Berajal, Baligeria,
+Arrah and Chandrarekha grams ST Women
+Jhargram / ZP-7
+Aguiboni,Chandri, Patasimul,
+Nedabahara, Radhanagar, Salboni ST
+and Sapdhara grams
+—_— : Jhargram /ZP-8
+Lodhasuli, Dudhkundi, Bandhgora,
+Manikpara, Sardiha and Chubka ST Women
+grams
+Sankrail / ZP-9
+Ragra, Andhari, Dhanghori, Chhatri
+and Rohini grams Women
+.
+Sankrail 2 Sankrail / ZP-10
+Pathra, Khudmarai, Sankrail, SC
+Kultikri and Laudaha grams
+Binpur-I / ZP-11
+Binpur, Belatikri, Andharia,
+Dahijuri and Nepura grams
+Binpur-I - Binpur-I/ ZP-12
+Boita, Dharampur, Lalgarh, Sijua
+and Ramgarh grams
+SC Women
+Binpur-II / ZP-13
+Binpur-II 2 Banspahari, Bhulabheda, Simulpal,
+Sandapara and Belpahari grams
+Women
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017Uhargram\Order-draft-SEC-Jhargram.doc 2 of 3","[[""\u2014_\u2014"", "":""], [""Binpur-I"", ""-""]]"
+data/wb/2018/draft/1359-SEC-draft reservation-Jhargram.pdf,b53cbcb22337a26cb1b97d78b9b5bce4e6e95f373d9920c05d16816e7c825ebf,3,draft,data/wb/ocr/draft/1359-SEC-draft reservation-Jhargram-03.tsv,3f85015c56e9b66050c22cfb73d2efe540d3ac51ae9426410d050f255d284f32,3,parsed_ocr_review_required,"[633.0, 1052.75, 1579.25, 2029.0]","Binpur-II /ZP-14
+Silda, Bhelaidiha, Ergoda, Kanko
+and Harda grams
+Jamboni / ZP-15
+Parihati, Dharsha, Gidhni, Kapgari,
+and Dubra grams
+Jamboni 2 Jamboni /ZP-16
+Lalbandh, Jamboni, Chilkigarh, Women
+Kenddangri and Chichra grams
+(A.K.SING
+State Election Commissioner,
+West Bengal State Election Commission
+15 .)1-17
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11,2017Uhargram\Order-draft-SEC-Jhargram.doc 3 of 3",[]
+data/wb/2018/draft/1361-SEC-Draft order of Purulia district.pdf,1f99e151060426ea9dbb4e0c864e8adc632372c38e446563268a9af3302da0c8,1,draft,data/wb/ocr/draft/1361-SEC-Draft order of Purulia district-01.tsv,a746a0ec696a7dbf3798ef9801ccf16ab3039a935ff3e6d0f7b0870cac1affbc,2,parsed_ocr_review_required,"[654.75, 1056.5, 1564.75, 2006.25]","WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1361- SEC/1D-205/2017 Date: 15-11-2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-09-
+2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order for
+delimitation of Purulia Zilla Parishad constituencies and reservation of seats thereto for
+Panchayat General Elections 2018. The Block(s) have been specified in column (1) of the Schedule
+below (hereinafter referred to as the said Schedule), the number of members to be elected to the
+Zilla Parishad specified in the corresponding entries in column (2), to divide the area of the Block
+into constituencies specified in the corresponding entries in column (3),to determine the
+constituency or constituencies reserved for the Scheduled Tribes(ST), Scheduled Castes (SC) or
+the Backward Classes (BC) specified in the corresponding entries in column (4) and the
+constituency or constituencies reserved for women specified in the corresponding entries in
+column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner after fifteen
+days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the said
+period, shall be duly considered.
+THE SCHEDULE
+Purulia Zilla Parishad
+Purulia District
+Number of
+members to Nannher.: Name andl seca of the Constituencies | Constituencies
+Name of Block | be elected ‘Cow ieee reserved for ST/ | reserved for
+to the Zilla y SC/ BC persons women
+Parishad
+(1) (2) (3) (4) (5)
+Barabazar/ZP-1
+Bhagabandh, Sukurhutu, Dhelatba ST
+mu,Banjora and Bansbera Grams
+Rarabazar Z Barabazar /ZP-2
+Th
+umrasole,Berada,Barabazar, Lat BC ——
+pada and Sindri Grams
+1 of 4","[[""Rarabazar"", ""Z""]]"
+data/wb/2018/draft/1361-SEC-Draft order of Purulia district.pdf,1f99e151060426ea9dbb4e0c864e8adc632372c38e446563268a9af3302da0c8,2,draft,data/wb/ocr/draft/1361-SEC-Draft order of Purulia district-02.tsv,a0859d8c307400629466c84b54e959702335df2ee3a67272d908897ca5358887,13,parsed_ocr_review_required,"[654.75, 1056.5, 1564.75, 2006.25]","Manbazar-II /ZP-3
+Barijagda,Dighi,Kumari and Women
+Borojaragara Grams
+Manbazar-I 2 Manbazar-II /ZP-4
+Bargoria-Jamtoria,Buribandh and Women
+Ankro-Barakadam Grams
+Bandwan/ZP-5
+1 Gurur, Sapudih, Bandwan,Chirudi
+Bandwan h,Kuilapal,Kumra,Dhadka and ST
+Kuchia Grams
+Purulia-I / ZP-6
+Garafusra,Dimdiha,Lagda and SC Women
+Sonajuri Grams
+Purtha-1 Purulia-I /ZP-7
+Durku,Chakaltore,Bhandarpuara- Women
+Chipida and Manara Grams
+Arsha / ZP-8
+Hensla,Chatuhansa,Puara and BC
+Sirkabad Grams
+aniha Arsha /ZP-9
+Hetgugui,Mankiary,Arsha and
+Beldih Grams women
+Balarampur / ZP-10
+Ghatbera-Kerowa,Bara-Urma and ST Women
+Genrua Grams
+Ralaranpar m Balarampur /ZP-11
+Bela,Balarampur,Tentlow and
+Darda Grams
+Jhalda-I / ZP-12
+Hensahatu,Kalma, Tulin,Maru- Ye
+Mosina and Jhalda-Darda Grams
+ecmemas Jhalda-I / ZP-13
+Ichag,Mathari- Women
+Khamar,Nayadih,Iloo-Jargo and
+Pusti Grams
+Bagmundi /ZP-14
+Ajodhya, Burda-Kalimati, Tunturi- ST Women
+Suisa and Serengdih Grams
+Bagmundi 2
+Bagmundi /ZP-15
+Birgram,Sindri,Bagmundi and
+Matha Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Purulia\Order-draft-SEC-Punulia.doc 2 of 4","[[""Ralaranpar"", ""m""]]"
+data/wb/2018/draft/1361-SEC-Draft order of Purulia district.pdf,1f99e151060426ea9dbb4e0c864e8adc632372c38e446563268a9af3302da0c8,3,draft,data/wb/ocr/draft/1361-SEC-Draft order of Purulia district-03.tsv,202a0b3aeecc62023648bd7a2e90e72a53ebbe505c553eb11e40d98e275f8149,12,parsed_ocr_review_required,"[654.75, 1056.5, 1564.75, 2006.25]","Joypur /ZP-16
+Sidhi-Jamra,Ropo,Ghagra and BC
+Joypur Grams
+Joypur 2
+| Joypur /ZP-17
+Baragram,Uparkahan and BC
+Women
+Mukundapur Grams
+Jhalda II /ZP-18
+Nowahatu, Tatuara,Chitmu and SC
+Majhidih Grams
+Jhalda-II 2 Jhalda II /ZP-19
+Rigid,Chekya,Bamnia- SC
+Belyadih, Begunkodor and
+Hirapur-Adardih Grams
+Women
+| Purulia-II /ZP-20
+Ghonga,Golamara,Charra- SC
+Dumdumi and Belma Grams
+vor . Purilia II /ZP-21
+Agaya-Narra,Hutmura,Bhangra,
+Raghabpur and Pindra Grams
+Hura /ZP-22
+Daldali,Manguria- ST
+Lalpur,Chatumadar,Hura and
+Rakhera-Bishpuria Grams
+Women
+Hura 2
+Hura /ZP-23
+Keshabgarh,J abarrah,Lakhanpur,
+Kalabani and Ladhurka Grams
+Puncha /ZP-24
+Kenda,Panipathar,Chandra,
+Pirrah and Jambad Grams Women
+Puncha 2 Puncha /ZP-25
+Napara,Puncha,Bagda, Chhirudih
+and Lakhra Grams
+Manbazar-I /ZP-26
+Kamta-Jangidiri,Bamni- ST
+Majhihira,Goplanagar,Jitujuri and
+Bhalubasa Grams
+Manbazar-I 2 Manbazar-I /ZP-27
+Chandra-Pairachali, Manbazar, sc
+Barameshya-Ramnagar,Bisri and
+Dhanara Grams
+Women
+L
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Purulia\Order-draft-SEC-Purulia.doc
+3 of 4","[[""vor"", "".""]]"
+data/wb/2018/draft/1361-SEC-Draft order of Purulia district.pdf,1f99e151060426ea9dbb4e0c864e8adc632372c38e446563268a9af3302da0c8,4,draft,data/wb/ocr/draft/1361-SEC-Draft order of Purulia district-04.tsv,8c5384edaf98a89c2fa8f47eeda55e593212b7fc1cfa7f859392b3d1b110d8af,11,parsed_ocr_review_required,"[654.75, 1056.5, 1564.75, 2006.25]","Kashipur /ZP-28
+Beko,Gagnabad,Gourangdi,Kalidaha ST
+,Manihara and Barrah Grams
+Kashipur 2 Kashipur / ZP-29
+Sonathali,Hadalda-Uparrah,
+Rangamati-Ranjandih, Women
+Kashipur,Sonajuri, Simla-Dhanera
+and Agardi Chitra Grams
+Raghunathpur-II /ZP-30
+Chelyma and Joradih Grams
+oe as ll 2 Raghunathpur-II/ZP-31
+Barrah,Nildih,Mangalda-Moutore
+and Nutandih Grams Women
+Para/ZP-32
+Bhowridih, Udaypur-
+Joynagar,Deoli,Bahara and
+Nadiha- Surulia Grams
+BC Women
+Para 2
+Para /ZP-33
+Anara,Dubra, Para, Jabarra-Jhapra-
+I and Jabarra-Jhapra-II Grams
+Neturia /ZP-34
+Raibandh,Guniara,Sarbari and Women
+Saltore Grams
+Neturia 2
+Neturia /ZP-35
+Bhamuria,Digha and Janardandih
+Grams
+Santuri /ZP-36
+Ramchandrapur-
+Santuri il Kotaldih,Muradi,Balitora, Women
+Santuri,Garsika and Tarabari
+Grams
+Raghunathpur-I /ZP-37
+Bero,Khajura,Nutandih and SC
+Raghunathpur- Babugram Grams
+: Raghunathpur-I /ZP-38
+Sanka,Arrah and Chorpahari
+Grams
+(A.K.SINGH)
+State Election Commissioner,
+West Bengal State Election Commission
+ip. ui ly
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9. 1 1.2017\Purulia\Order-draft-SEC-Purulia.doc 4 of 4","[[""Santuri"", ""il""]]"
+data/wb/2018/draft/1363-SEC-Draft order of Bankura district.pdf,9028287352a31d1ff28d6e5d8d33f567cff45d70d41ab4eb11aee59562f66b83,1,draft,data/wb/ocr/draft/1363-SEC-Draft order of Bankura district-01.tsv,37c7a39d6199a74d268df8ae8dfd5a6916163448e9c33ca8606731f1d9fc7340,1,parsed_ocr_review_required,"[734.75, 1133.5, 1621.75, 2067.5]","WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+Ph. No. 2280-5805; FAX- 2280-7373
+No. 1363-SEC/1D-213/2017 Date : 15.11.2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second
+Amendment) Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections
+Act, 2003 and Section 17 of the West Bengal Panchayat Elections ( Amendment ) Act,
+2012 and Section 17 of the West Bengal Panchayat Elections ( Second Amendment )
+Act, 2012 read with Rules 26 of the West Bengal Panchayat Elections Rules, 2006 (as
+Amended vide No 5013/PN/O/3R-1/2012 dated 24-09-2012 of P&RD Deptt,, Govt. of
+West Bengal ) and Rule 27 of the West Bengal Panchayat Elections Rules, 2006, West
+Bengal State Election Commission, hereby publish the draft Order for delimitation of
+Bankura Zilla Parishad constituencies and reservation of seats thereto for
+Panchayat General Elections 2018. The Block(s) have been specified in column (1) of the
+Schedule below (hereinafter referred to as the said Schedule), the number of members
+to be elected to the Zilla Parishad specified in the corresponding entries in column (2),
+to divide the area of the Block into constituencies specified in the corresponding entries
+in column (3),to determine the constituency or constituencies reserved for the
+Scheduled Tribes(ST), Scheduled Castes (SC) or the Backward Classes (BC) specified in
+the corresponding entries in column (4) and the constituency or constituencies reserved
+for women specified in the corresponding entries in column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner
+after fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission
+within the said period, shall be duly considered.
+THE SCHEDULE
+Bankura Zilla Parishad
+Bankura District
+Number of
+members to Wikbek Nasicand area of Constituencies Constituencies
+Name of Block | be elected to An Picntibnend reserved for ST/ reserved for
+the Zilla , y SC/ BC persons women
+Parishad
+5
+(1) (2) 3) (4) ©)
+Saltora/ZP-1
+Saltora 2 Bamuntore,Salma,Pabra and WOMEN
+Dhekia Grams
+1 of 6",[]
+data/wb/2018/draft/1363-SEC-Draft order of Bankura district.pdf,9028287352a31d1ff28d6e5d8d33f567cff45d70d41ab4eb11aee59562f66b83,2,draft,data/wb/ocr/draft/1363-SEC-Draft order of Bankura district-02.tsv,d11a14b43531de67e8fa17468e86b66fc9f0389d1279b39dc7b0145bb70f9129,11,parsed_ocr_review_required,"[734.75, 1133.5, 1621.75, 2067.5]","Saltora /ZP-2
+Tiluri,Saltora,Kanuri and ST
+Gogra Grams
+Mejhia /ZP-3
+Ardhagram,Mejhia, WOMEN
+Mejhia 1 Ramchandrapur,Banjora and
+Kustore Grams
+Gangajalghati /ZP-4
+Barshal,Lachhmanpur,
+Banashuria,Latiaboni and
+Nityanandapur Grams
+Sc WOMEN
+Gangajalghati Gangajalghati /ZP-5
+Gangajalghati,Bhaktabandh, SC
+Gobindadham,Kapistha and
+Pirraboni Grams
+Chhatna / ZP-6
+Dhaban,Jirrah,Arrah and
+Chinabari Grams
+Chhatna /ZP-7
+Susunia,Jhunjka, SC WOMEN
+Chhatna 3 Chhatna-I,Chhatna-II and
+Ghosergram Grams
+Chhatna /ZP-8
+Jamtora,Saldiha,Metyala and SC
+Teghori Grams
+Indpur / ZP-9
+Hatagram,Brahmandiha,
+Raghunathpur and Bheduasole
+Grams
+SC WOMEN
+Indpur 2
+Indpur /ZP-10 sc
+Indpur,Gourbazar and
+Brajarajpur Grams
+Hirbandh / ZP-11
+Gopalpur,Molian,Moshiara, WOMEN
+Hirbandh 1 Hirbandh and Baharamuri
+Grams
+Khatra / ZP-12
+Baidyanathpur,Supur and ST WOMEN
+Khatra - Dhanara Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Bankura\Order-draft-SEC-Bankura.doc 2 of 6","[[""Khatra"", ""-""]]"
+data/wb/2018/draft/1363-SEC-Draft order of Bankura district.pdf,9028287352a31d1ff28d6e5d8d33f567cff45d70d41ab4eb11aee59562f66b83,3,draft,data/wb/ocr/draft/1363-SEC-Draft order of Bankura district-03.tsv,f643064051d19a297f45b546d106786ec4e53fb06003003a4188a0a83255beb0,11,parsed_ocr_review_required,"[734.75, 1133.5, 1621.75, 2067.5]","Khatra / ZP-13
+Dahala,Khatra-I,Khatra-II and
+Gorabari Grams
+Ranibandh /ZP-14
+Puddi,Ambikanagar,Rajakata WOMEN
+and Haludkanali Grams
+Ranibandh Z
+Ranibandh /ZP-15
+Ranibandh,Rudra,Routara and
+Barikul Grams
+Raipur /ZP-16
+Dundar,Raipur,Sonagara,
+Matgoda and Dhanara Grams
+WOMEN
+eager - Raipur /ZP-17
+Shyamsundarpur,Mandalkuli, ST
+Fulkushma,Melera and Dheko
+Grams
+Sarenga /ZP-18
+Neturpur,Goalbari and Chiltore
+Grams
+Sarenga 2 Sarenga /ZP-19
+Sarenga,Bikrampur and ST WOMEN
+Gorgarya Grams
+Simlapal /ZP-20
+Simlapal,Bikrampur,Dubrajpur
+and Mandalgram Grams
+BC
+Simlapal 2
+Simlapal /ZP-21
+Machatora,Parsola and BC WOMEN
+Laksmisagar Grams
+Taldangra /ZP-22
+Khalagram,Harmasra,Bibarda
+and Taldangra Grams
+WOMEN
+Taldangra 2
+Taldangra /ZP-23
+Fulmati, Panchmura, ST
+Satmouli, Saltora and
+Amdangra Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Bankura\Order-draft-SEC-Bankura.doc 3 of 6","[[""Ranibandh"", ""Z""], [""eager"", ""-""]]"
+data/wb/2018/draft/1363-SEC-Draft order of Bankura district.pdf,9028287352a31d1ff28d6e5d8d33f567cff45d70d41ab4eb11aee59562f66b83,4,draft,data/wb/ocr/draft/1363-SEC-Draft order of Bankura district-04.tsv,f2970d52b31f621da8bf8d6d85cf5bb7b7226ffaa8f8410ca681fcd8fa48c712,12,parsed_ocr_review_required,"[734.75, 1133.5, 1621.75, 2067.5]","Bankura-I /ZP-24
+Anchuri,Kenjakura and
+Kalpathar Grams
+rater et : Bankura-I /ZP-25
+Andarthole,Jagdalla-II and sc WOMEN
+Jagdalla-I Grams
+Bankura-II /ZP-26
+Mankanali,Purandarpur and WOMEN
+Junbedia Grams
+Bankura! "" Bankura-Il /ZP-27
+Bikna,Sanbandha,Narrah and
+Kosthiya Grams
+Barjora /ZP-28
+Maliara,Ghutgariya and WOMEN
+Barjora Grams
+Barjora / ZP-29
+Pakhanna,Hat-
+Barjora 3 Ashuriya,Saharjora and
+Khanrari Grams
+Barjora /ZP-30
+Beliatore,Chhandar Godardihi WOMEN
+and Brindabanpur Grams
+Onda /ZP-31
+Majdiha,Nikunjapur,Santore, BC
+Onda-I and Onda-II Grams
+Onda / ZP-32
+Onda 3 Lodna,Punisole,Kalyani,Ratan
+pur and Churamonipur Grams
+Onda /ZP-33
+Mednipur,Ramsagar,Chingani, WOMEN
+Nakaijuri and Kantabari Grams
+Bishnupur/ZP-34
+Layekbandhi,Bhara,
+Radhanagar,Ajodhya and
+Uliara Grams
+Remper . Bishnupur /ZP-35
+D-Gossainpur,
+Morar,Bankadaha Belsulia
+Grams
+SC WOMEN
+4 of 6
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.1 1.2017\Bankura\Order-draft-SEC-Bankura.doc","[[""rater et"", "":""], [""Bankura!"", ""\""""], [""Remper"", "".""]]"
+data/wb/2018/draft/1363-SEC-Draft order of Bankura district.pdf,9028287352a31d1ff28d6e5d8d33f567cff45d70d41ab4eb11aee59562f66b83,5,draft,data/wb/ocr/draft/1363-SEC-Draft order of Bankura district-05.tsv,22872880d09f0dbf2534b52e490f4ed66b9f73b61ae19013ab8ee3c1f87191fb,10,parsed_ocr_review_required,"[734.75, 1133.5, 1621.75, 2067.5]","Joypur /ZP-36 sc
+Shyamnagar,Routkhanda,Hetia
+Salda and Gelia Grams
+Joypur 2
+Joypur /ZP-37
+Moynapur,Kuchiakole, SC WOMEN
+Jagannathpur and Uttarbar
+Grams
+Kotulpur /ZP-38 WOMEN
+Mirzapur,Madanmohanpur and
+Lowgram Grams
+Kotulpur / ZP-39 sc
+3 Kotulpur and Deshra-
+Kotulpur
+Koalpara Grams
+Kotulpur /ZP-40 SC WOMEN
+Lego,Gopinathpur and Sihar
+Grams
+Indus /ZP-41
+Rol,Indus-I],Amrul,Karisunda
+and Indus-I Grams
+Indus 2 Indus /ZP-42
+Sahaspur,Akui-I, WOMEN
+Akui-II,Deghalgram and
+Mangalpur Grams
+Patrasayer /ZP-43 SC
+Kushadwip,Jamkuri,Balsi-
+IL,Balsi-I and Biur-Betur
+Grams
+Patrasayer 2
+Patrasayer /ZP-44
+Birsingha,Patrasayer,
+Hamirpur,Narayanpur and
+Belut-Rasulpur Grams
+Sonamukhi /ZP-45
+Pearbera,Hamirhati,Dhansimla SC WOMEN
+Sonamukhi 2 .Kochdihi,Panchal and
+Manikbazar Grams
+H.\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Bankura\Order-draft-SEC-Bankura.doc 5 of 6",[]
+data/wb/2018/draft/1363-SEC-Draft order of Bankura district.pdf,9028287352a31d1ff28d6e5d8d33f567cff45d70d41ab4eb11aee59562f66b83,6,draft,data/wb/ocr/draft/1363-SEC-Draft order of Bankura district-06.tsv,466b3dd6bd26cf5f3b62c0208c3c7bceea45e7afce143e24ad0386aca83cb05d,1,parsed_ocr_review_required,"[734.75, 1133.5, 1621.75, 2067.5]","Sonamukhi /ZP-46
+Dihipara, Dhulai, SC
+Radhamohanpur and Purba-
+Nabasan Grams
+(A.K.SINGH)
+State Election Commissioner,
+West Bengal State Election Commission
+15. 1).17
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9. 1 1.2017\Bankura\Order-draft-SEC-Bankura.doc 6 of 6",[]
+data/wb/2018/draft/1365-SEC-Draft order of Purba Bardhaman district.pdf,4ff2f913c3c6315f35a48750bc7665bdd144323740659c7035f923237fa1a103,1,draft,data/wb/ocr/draft/1365-SEC-Draft order of Purba Bardhaman district-01.tsv,3fff2abc5aede4cc08595680d0d1279672e6c31bad183d8ebb716d49d0a60cf3,2,parsed_ocr_review_required,"[678.25, 1081.25, 1529.0, 1936.5]","WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1365- SEC/1D-210/2017 Date: 15-11-2017
+ORDER
+In exercise of the power conferred by Section 140 of Th
+( Amendment) Act, 2012 and Section 140 of The West Ben
+» 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Purba Bardhaman Zilla Parishad constituencies and reservation
+of seats thereto for Panchayat General Elections 2018. The Block(s) have been Specified in
+column (1) of the Schedule below (hereinafter referred to as the said Schedule), the number of
+members to be elected to the Zilla Parishad specified in the corresponding entries in column (2),
+to divide the area of the Block into constituencies specified in the corresponding entries in
+column (3), to determine the constituency or constituencies reserved for the Scheduled
+Tribes(ST), Scheduled Castes (SC) or the Backward Classes (BC) specified in the corresponding
+entries in column (4) and the constituency or constituencies reserved for women specified in the
+corresponding entries in column (5) of the said schedule.
+The draft will be taken u
+p for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with re
+Spect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Purba Bardhaman Zilla Parishad
+Purba Bardhaman District
+Number of Constituencies . ;
+Constituencies
+Name of Block members to be Number, Name and area reserved for reserved for
+elected to the of the Constituency ST/ SC/ BC
+Zilla Parishad persons wenn
+(1) (2) (3) (4) (5)
+Galsi / ZP-1
+Gohogram, Adra, SC
+Masjitpur, Kurkuba and
+Galsi grams
+Galsi-II 2
+Galsi/ ZP-2
+Khano, Satinandi, Sanko SC Women
+2 and Bhuri grams
+1 of 6",[]
+data/wb/2018/draft/1365-SEC-Draft order of Purba Bardhaman district.pdf,4ff2f913c3c6315f35a48750bc7665bdd144323740659c7035f923237fa1a103,2,draft,data/wb/ocr/draft/1365-SEC-Draft order of Purba Bardhaman district-02.tsv,81dada652ad6581a99c7c84e32f7f2b93c7b92f351e9c8c917e84df01bd778ba,12,parsed_ocr_review_required,"[678.25, 1081.25, 1529.0, 1936.5]","Khandaghosh / ZP-3
+Lodna, Sasanga, Sankari-! Women
+and Sankari-II grams
+Khandaghosh/ ZP-4
+Khandaghosh, Berugram
+Khandaghosh . and Ukhrid grams
+Khandaghosh / ZP-5 sc
+Sagrai, Kaiyar and
+Gopalbera grams
+Raina-I / ZP-6
+Hijalna and Narugram BC Women
+grams
+Raina-I / ZP-7
+’ 3 Natu, Mugura and Raina Women
+Raina-I
+grams
+Raina-I / ZP-8
+Sehara, Shyamsundar and
+Palashan grams
+Raina-II / ZP-9
+Kaity, Uchalan, Painta-II SC
+and Painta-I grams
+Raina-II 2 Raina-II / ZP-10
+Pohalanpur, Arui, SC Women
+Barabainan and Gotan
+grams
+Jamalpur / ZP-11
+Berugram, Panchra, Women
+Paratal-I, Jamalpur-I and
+Jamalpur-II grams
+Jamalpur / ZP-12
+Ajhapur, Jougram, ST
+Jamalpur 3 Abujhati-II and Abujhati-I
+grams
+Jamalpur / ZP-13
+Paratal-II, Chakdighi, Women
+Jotsriram and Jarogram
+grams
+Monteswar / ZP-14
+Baghason, Monteswar, Women
+Denur and Susunia grams
+Monteswar 3 g
+2 of 6
+H:ishared folder\Panchayat ELection 2018\Delimitation and reservation_9.1 1.2017\Purba Bardhaman\Order-draft-SEC-Purba Bardhaman.doc","[[""Khandaghosh"", "".""]]"
+data/wb/2018/draft/1365-SEC-Draft order of Purba Bardhaman district.pdf,4ff2f913c3c6315f35a48750bc7665bdd144323740659c7035f923237fa1a103,3,draft,data/wb/ocr/draft/1365-SEC-Draft order of Purba Bardhaman district-03.tsv,d5f613dc7902cdef25f9525e16b3aa9bb380bdfaa966da1596e03ec05d69ae74,12,parsed_ocr_review_required,"[678.25, 1081.25, 1529.0, 1936.5]","Monteswar / ZP-15
+Bamunpara, Putsuri, Women
+Mamudpur-II, Mamudpur-
+I and Kusumgram grams
+Monteswar / ZP-16
+Bhaghra-Mulgram, SC Women
+Jamna, Piplon and
+Majhergram grams
+Memari-II / ZP-17
+Barapalashon-l, Women
+Barapalashon-lIl, Bijur-I
+and Kuchut grams
+ee Memari-II / ZP-18
+Bijur-II, Satgachia-I, Women
+Satgachia-II, Bohar-I and
+Bohar-II grams
+Kalna -II / ZP-19
+Baradhamas, Baidyapur, ST
+Akalpoush and Anukhal
+grams
+Kalna-II 2
+Kalna-II / ZP-20
+Badla, Pindira, Kalyanpur SC Women
+and Satgachhi grams
+Kalna-I / ZP-21
+Bagnapara, Krishnadevpur ie
+and Hatkalna grams
+Kalna-I / ZP-22
+Begpur, Kankuria and
+: Women
+Nandai grams
+Kalna-I 3
+Kalna-I / ZP-23
+Atghoria-Simlon,
+Sultanpur and Dhatrigram
+grams
+Women
+Memari-I / ZP-24
+Gopegantar-II, Debipur,
+Gopegantar-I and
+Amadpur grams
+Women
+Memari-I / ZP-25
+Nimo-I, Daluibazar-I and
+Daluibazar-II grams
+Memari-I 3
+Memari-I / ZP-26
+Nimo-II, Bagila and
+Durgapur grams
+ST Women
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Purba Bardhaman\Order-draft-SEC-Purba Bardhaman.doc 3 of 6",[]
+data/wb/2018/draft/1365-SEC-Draft order of Purba Bardhaman district.pdf,4ff2f913c3c6315f35a48750bc7665bdd144323740659c7035f923237fa1a103,4,draft,data/wb/ocr/draft/1365-SEC-Draft order of Purba Bardhaman district-04.tsv,ab9b238a89abbc62d639cda622997ee7f04ef891388bd450478fb1fc185d943c,12,parsed_ocr_review_required,"[678.25, 1081.25, 1529.0, 1936.5]","Burdwan-I / ZP-27
+Baghar-I, Baghar-II and
+Ss Belkash grams
+Burdwan-I / ZP-28
+Saraitikar and Rayan-I sc
+Burdwan-I 2 grams
+Burdwan-I ZP-29
+Rayan-II, Bondul-I, Women
+Kshetia and Kurmun-I
+grams
+Burdwan-II / ZP-30
+Kurmun-lII, Bondul-II, SC Women
+Nabastha-I, Gabindapur
+and Nabastha-II grams
+wemeiiaine - Burdwan-II / ZP-31
+Barsul-I, Barsul-II,
+Baikunthapur-I and
+Baikunthapur-II grams
+Bhatar / ZP-32
+Mahata, Eruar, Sahebganj- ST
+I, Sahebganj-II, and
+Bonpas grams
+Bhatar / ZP-33
+Nityanandapur, Balgona, SC Women
+Bhatar 3 Barabelun-I, Barabelun-II
+and Amarun-II grams
+Bhatar / ZP-34
+Bhatar, Bamunara, SC
+Amarun-I and Mahachada
+grams
+Purbasthali-I / ZP-35
+Dogachhia, Jahannagar SC Women
+and Bogpur grams
+Purbasthali-I / ZP-36
+Purbasthali-I 3 Srirampur and SC
+Samudragarh grams
+Purbasthali-I / ZP-37
+Nasratpur and Nandanghat Women
+grams
+Purbasthali-II / ZP-38
+Purbasthali-II 3 Pilla, Patuli, Jhowdanga BC Women
+and Nimdaha grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Purba Bardhaman\Order-draft-SEC-Purba Bardhaman.doc 4 of 6","[[""wemeiiaine"", ""-""]]"
+data/wb/2018/draft/1365-SEC-Draft order of Purba Bardhaman district.pdf,4ff2f913c3c6315f35a48750bc7665bdd144323740659c7035f923237fa1a103,5,draft,data/wb/ocr/draft/1365-SEC-Draft order of Purba Bardhaman district-05.tsv,80570eadf18b1868ee97b25b0e5dc14014881c581b02799855fa7463034d5a5c,12,parsed_ocr_review_required,"[678.25, 1081.25, 1529.0, 1936.5]","Purbasthali-II / ZP-39
+Majida, Mertala and sc
+L Purbasthali grams
+Purbasthali-II / ZP-40
+Mukshimpara,
+Kalekhantala-I and
+Kalekhantala-II grams
+Katwa-I / ZP-41
+Goai, Khajurdihi,
+Koshigram, Srikhanda and
+Sudpur grams
+cuinin : Katwa-I / ZP-42
+Alampur, Gidhagram, SC
+Karajgram and Saragram
+grams
+Women
+Women
+Katwa-Il / ZP-43
+Agradwip, Gazipur
+Jagadanandapur and BC
+Katwa-II 2 Singhi grams
+Katwa-Il / ZP-44
+Polsona, Sribati and Karui
+grams
+Ketugram-I / ZP-45
+Ankhona, Berugram,
+Agardanga, and Murgram-
+Gopalpur grams
+Ketngranl a Ketugram-I / ZP-46
+Janadas-Kandra, Rajoor,
+Palita and Pandugram
+grams
+Women
+Ketugram-II / ZP-47
+Nirol, Ketugram,
+Billeswar and Nabagram
+Ketugram-II 2 _ore
+Ketugram-II / ZP-48
+Gangatikuri, Sitahati and
+Mougram grams
+Mongolkote / ZP- 49
+Palligram, Chanak, BC
+Gotistha, Lakhuria and
+Mongolkote grams
+Mongolkote 3
+Mongolkote / ZP-50
+Jhiloo-I, Jhiloo-Il, SC
+Shimulia-II, Majhigram
+and Bhallugram grams
+Women
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Purba Bardhaman\Order-draft-SEC-Purba Bardhaman.doc
+5 of 6","[[""cuinin"", "":""], [""Ketngranl"", ""a""]]"
+data/wb/2018/draft/1365-SEC-Draft order of Purba Bardhaman district.pdf,4ff2f913c3c6315f35a48750bc7665bdd144323740659c7035f923237fa1a103,6,draft,data/wb/ocr/draft/1365-SEC-Draft order of Purba Bardhaman district-06.tsv,d4a8862063c8d42e418ad94b580ad818c0e0f4ea62acdd24e6c3d10fa0e1c866,8,parsed_ocr_review_required,"[678.25, 1081.25, 1529.0, 1936.5]","Mongolkote / ZP- 51
+Shimulia-I, Kaichar-I, SC
+Kaichar-II, Negan and
+Kshirogram grams
+Women
+Ausgram-II / ZP-52
+Amarpur, Ramnagar and
+Bhedia grams
+AnagEaMAL . Ausgram-II / ZP-53
+Debsala, Kota, Bhalki and
+Eral grams
+Ausgram-I / ZP-54
+Ausgram, Berenda and SC
+Ukta grams
+Ausgram-I 2 Ausgram-I / ZP-55
+Gushkara-II, Billagram,
+Dignagar-I and Dignagar-
+II grams
+Galsi-I/ ZP-56
+Chaktentul, Mankar and BC Women
+Bud-Bud grams
+Galsi-I/ ZP-57
+Lowapur-Krishnarampur,
+Paraj and Lowa-
+Rampurgopalpur grams
+Galsi-I a
+Galsi-I / ZP-58
+Uchhagram, Potna-Pursha BC
+and Serorai grams
+(A.K.SINGH
+State Election Commissioner,
+West Bengal State Election Commission
+Pe ILA
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Purba Bardhaman\Order-draft-SEC-Purba Bardhaman.doc
+6 of 6","[[""AnagEaMAL"", "".""], [""Galsi-I"", ""a""]]"
+data/wb/2018/draft/1367-SEC-Draft order of Paschim Bardhaman district.pdf,71d24b127348aa2e4b6df67ae969b16eaeeca2a503513a7fcd937fca7b8137b2,1,draft,data/wb/ocr/draft/1367-SEC-Draft order of Paschim Bardhaman district-01.tsv,390882662587ae2024eef8deb1fccc22153f57e1557e4979756e37e25762f540,1,parsed_ocr_review_required,"[664.5, 1059.25, 1506.5, 1918.25]","WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1367- SEC/1D-211/2017 Date: 15.11.2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Paschim Bardhaman Zilla Parishad constituencies and
+reservation of seats thereto for Panchayat General Elections 2018. The Block(s) have been
+specified in column (1) of the Schedule below (hereinafter referred to as the said Schedule), the
+number of members to be elected to the Zilla Parishad specified in the corresponding entries in
+column (2), to divide the area of the Block into constituencies specified in the corresponding
+entries in column (3),to determine the constituency or constituencies reserved for the Scheduled
+Tribes(ST), Scheduled Castes (SC) or the Backward Classes (BC) specified in the corresponding
+entries in column (4) and the constituency or constituencies reserved for women specified in the
+corresponding entries in column (5) of the said schedule.
+The draft will be taken up for consideration by the
+State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Paschim Bardhaman Zilla Parishad
+Paschim Bardhaman District
+Number of Constituencies | Constituencies
+members to Number, Name and area reserved for reserved for
+Name of Block be elected to ahaa ST/ SC/ BC women
+‘ of the Constituency
+the Zilla persons
+Parishad
+(1) (2) (3) (4) (5)
+Kanksa / ZP-1
+Bidbehar, Molandighi,
+Kanksa 3 Bonkati and Gopalpur oe.
+Grams
+1 of 3",[]
+data/wb/2018/draft/1367-SEC-Draft order of Paschim Bardhaman district.pdf,71d24b127348aa2e4b6df67ae969b16eaeeca2a503513a7fcd937fca7b8137b2,2,draft,data/wb/ocr/draft/1367-SEC-Draft order of Paschim Bardhaman district-02.tsv,ba7bb230f38afb9a1365b15d125c7510ed6ca91bc8ecb8a930604922579f50b5,11,parsed_ocr_review_required,"[664.5, 1059.25, 1506.5, 1918.25]","Kanksa / ZP-2
+Amlojora,
+” Trilokchandrapur and BC
+Women
+Kanksa Grams
+Pandabeswar / ZP-3 Women
+Kendra, Baidyanathpur and ee
+Nabagram Grams
+Pandabeswar 2
+Pandabeswar / ZP-4 Women
+Haripur, Bahula and
+Chhora Grams
+Durgapur-Faridpur/ZP-5
+Gogla, Laudoha and
+Gourbazar Grams
+Durgapur- 2
+Faridpur
+Durgapur-Faridpur/ZP-6
+Ichhapur, Pratappur and
+Jemua Grams
+Women
+Andal / ZP-7
+Khandra and Ukhra Grams
+Andal / ZP-8
+Madanpur, Kajora and
+Andal 3 Dakshin Kanda Grams sc
+Andal / ZP-9
+Andal, Srirampur and
+Women
+Ramprasadpur Grams
+Jamuria /ZP-10
+Churulia, Madantore,
+Hijalgora, Topsi and
+Bahadurpur Grams
+Jamuria 2
+Jamuria /ZP-11
+Shyamla, Chinchuria,
+Dobrana, Kenda and SC
+Women
+Parasia Grams
+Raniganj /ZP-12
+Raniganj ‘ Ratibati, Jemeri and Tirat SC
+Grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Paschim Bardhaman\Order-draft-SEC-Paschim Bardhaman.doc
+2 of 3","[[""Raniganj"", ""\u2018""]]"
+data/wb/2018/draft/1367-SEC-Draft order of Paschim Bardhaman district.pdf,71d24b127348aa2e4b6df67ae969b16eaeeca2a503513a7fcd937fca7b8137b2,3,draft,data/wb/ocr/draft/1367-SEC-Draft order of Paschim Bardhaman district-03.tsv,591d8dba0c0da9e5b52fd6c1208dc683b418215e9a6cdcd172e3c585eabdf304,5,parsed_ocr_review_required,"[664.5, 1059.25, 1506.5, 1918.25]","Raniganj /ZP-13
+Amrasota, Ballavpur and SC
+Egra Grams
+Women
+Salanpur / ZP-14
+Alladi, Dendua,
+Basudevpur-Jemari,
+Rupnarayanpur, Achhra
+and Jitpur-Uttarampur
+Salanpur 2 Grams
+Salanpur /ZP-15
+Kallaya, Samdi, Fulberia-
+Bolkunda, Ethora and Sc
+Salanpur Grams
+Barabani /ZP-16
+Panuria, Nuni, Itapara and
+Panchgachia Grams
+Barabani D
+Barabani /ZP-17
+Jamgram, Punchra,
+Domohani and Barabani ST
+Grams
+Women
+(A.K.SINGH
+State Election Commissioner,
+West Bengal State Election Commission
+Ist .1 7
+H:\shared folder\Panchayat ELection 2018\Delimitation and Teservation_9.11,.2017\Paschim Bardhaman\Order-draft-SEC-Paschim Bardhaman.doc
+3 of 3","[[""Barabani"", ""D""]]"
+data/wb/2018/draft/1369-SEC-draft reservation-Birbhum.pdf,346e35d2a5e537729a419da605fc9ee020e9d7baca873e854674308bb3de0b0e,1,draft,data/wb/ocr/draft/1369-SEC-draft reservation-Birbhum-01.tsv,d415af82405c9554f5a4fd010f4cf66efb37588b1cdf0a2383ddb8922b69ed4d,1,parsed_ocr_review_required,"[631.5, 1029.75, 1516.25, 1932.0]","WEST BENGAL STATE ELECTION COMMISSION
+18, Sarojini Naidu Sarani
+(Rawdon Street)
+Kolkata — 700 017
+No. 1369- SEC/1D-209/2017 Date: 15-11-2017
+ORDER
+In exercise of the power conferred by Section 140 of The West Bengal Panchayat
+( Amendment) Act, 2012 and Section 140 of The West Bengal Panchayat( Second Amendment)
+Act, 2012 read with Sections 16 of the West Bengal Panchayat Elections Act, 2003 and Section 17
+of the West Bengal Panchayat Elections ( Amendment ) Act, 2012 and Section 17 of the West
+Bengal Panchayat Elections ( Second Amendment ) Act, 2012 read with Rules 26 of the West
+Bengal Panchayat Elections Rules, 2006 (as Amended vide No 5013/PN/O/3R-1/2012 dated 24-
+09-2012 of P&RD Deptt,, Govt. of West Bengal ) and Rule 27 of the West Bengal Panchayat
+Elections Rules, 2006, West Bengal State Election Commission, hereby publish the draft Order
+for delimitation of Birbhum Zilla Parishad constituencies and reservation of seats
+thereto for Panchayat General Elections 2018. The Block(s) have been specified in column (1) of
+the Schedule below (hereinafter referred to as the said Schedule), the number of members to be
+elected to the Zilla Parishad specified in the corresponding entries in column (2), to divide the
+area of the Block into constituencies specified in the corresponding entries in column (3),to
+determine the constituency or constituencies reserved for the Scheduled Tribes(ST), Scheduled
+Castes (SC) or the Backward Classes (BC) specified in the corresponding entries in column (4)
+and the constituency or constituencies reserved for women specified in the corresponding entries
+in column (5) of the said schedule.
+The draft will be taken up for consideration by the State Election Commissioner after
+fifteen days from this day.
+Any objection or suggestion with respect thereto received by the Commission within the
+said period, shall be duly considered.
+THE SCHEDULE
+Birbhum Zilla Parishad
+Birbhum District
+Number of , :
+Constituencies ; .
+members to Constituencie
+Number, Name and area of reserved for
+Name of Block | be elected to ; s reserved for
+: the Constituency ST/ SC/ BC
+the Zilla aan women
+Parishad P
+(i) (2) (3) (4) (5)
+Khoyrasole / ZP-1
+Khoyrasole 2 Babuijore, Persundi, Barrah, Women
+Hazratpur and Kendgore grams
+1 of 5",[]
+data/wb/2018/draft/1369-SEC-draft reservation-Birbhum.pdf,346e35d2a5e537729a419da605fc9ee020e9d7baca873e854674308bb3de0b0e,2,draft,data/wb/ocr/draft/1369-SEC-draft reservation-Birbhum-02.tsv,33f0cff4d74eac61c6fcd483d54056a79cb952b5977a746536f6234dd50c358f,11,parsed_ocr_review_required,"[631.5, 1029.75, 1516.25, 1932.0]","Khoyrasole / ZP-2
+Nakrakonda, Lokepur,
+Rupuspur, Khayrasole and
+Panchra grams.
+Women
+Dubrajpur/ ZP-3
+Lakshmi Narayanpur,
+Balijuri,Hetampur, Loba and SC
+Paduma grams
+Dubrajpur 2
+Dubrajpur / ZP-4
+Jashpur, Parulia, Gohaliara, Women
+Chinpai and Sahapur grams.
+Rajnagar/ ZP-5
+Rajnagar 1 Gangmuri-Joypur, Rajnagar, Women
+Tantipara, Chandrapur and
+Bhabanipur grams
+Suri-I/ ZP-6
+Khatanga, Tilpara, Alunda and
+; Women
+Nagari grams
+nue 7 Suri-l/ ZP-7
+Karidhya, Mallickpur and ST | Women
+Bhurkuna grams
+Illambazar/ ZP-8
+Batikar, Mongaldihi,
+Dharampur, Nanasole and
+Bilati grams
+sc
+Illambazar 2
+Illambazar/ ZP-9
+Sirsha, Joydev-Kenduli,
+Ghurisha and Illambazar grams
+SC Women
+Bolpur-Sriniketan/ ZP-10
+Sattore, Kasba,
+SarpalehanaA lbandha and ST
+Kankalitala grams
+Bolpur-Sriniketan / ZP-11
+8 Ruppur and Raipur Supur Women
+grams
+Bolpur-
+Sriniketan
+Bolpur-Sriniketan / ZP-12
+Sian Muluk, Bahiri Panchsowa
+and Singhee grams
+Women
+H.\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Birbhum\Order-draft-SEC-Birbhum.doc 2 of 5",[]
+data/wb/2018/draft/1369-SEC-draft reservation-Birbhum.pdf,346e35d2a5e537729a419da605fc9ee020e9d7baca873e854674308bb3de0b0e,3,draft,data/wb/ocr/draft/1369-SEC-draft reservation-Birbhum-03.tsv,bd5a4145d782459bd6c1ea441be51a965597867b1c7e31bd638667ecbc84359c,11,parsed_ocr_review_required,"[631.5, 1029.75, 1516.25, 1932.0]","x Nanoor/ ZP-13
+Bara-Saota, Kirnahar-II,
+Kirnahar-I and Daskolgram-
+Kareya-I grams
+SC Women
+Nanoor/ ZP-14
+Nanoor 3 Daskolgram-Kareya-Il,
+Chandidas Nanoor, Uchkaran
+and Nowanagar-Kodda grams
+SC
+Nanoor/ ZP-15
+Charkolgram, Jalundi and
+Thupsara grams Be Women
+Sainthia/ ZP-16
+Sangra, Bhramarkole, Fulur SC
+and Hatora grams
+Sainthia/ ZP-17
+Sainthia 3 Amarpur, Panrui, Ahmedpur Women
+and Srinidhipur grams
+Sainthia/ ZP-18
+Harisara, Deriapur, Bonogram SC Women
+and Mathpalsa grams
+Labpur/ ZP-19
+Hatia, Dwarka, Chowhatta- SC
+Mahodari-I grams
+Labpur/ ZP-20
+Labpur-II, Kurunnahar, Thiba Women
+Labpur 3 and Jamna grams
+Labpur/ ZP-21
+Chowhatta Mahodari-II,
+Bipratikuri, Indus and
+Labpur-I grams
+Md. Bazar/ ZP-22
+Charicha, Deucha, Md.Bazar,
+Md.Bazar 2 Puranagram, Bhutura and
+Angargoria grams
+Md. Bazar/ ZP-23
+Bharkata, Hinglow, Kapista.
+Rampur,Ganpur and Sekedda
+grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9. 11.201 7\Birbhum\Order-draft-SEC-Birbhum.doc 3 of 5",[]
+data/wb/2018/draft/1369-SEC-draft reservation-Birbhum.pdf,346e35d2a5e537729a419da605fc9ee020e9d7baca873e854674308bb3de0b0e,4,draft,data/wb/ocr/draft/1369-SEC-draft reservation-Birbhum-04.tsv,233845c8ff2f9037028c8e6d435ddc0471a8c7494fbbb8f3ddcf55eb8cbc3b54,12,parsed_ocr_review_required,"[631.5, 1029.75, 1516.25, 1932.0]","Suri-II/ ZP-24
+Suri-II 1 Damdama, Kendua, Koma,
+Purandarpur, Abinashpur and
+Bonsanka grams
+Mayureswar-I/ ZP-25
+Mallarpur-I, Mallarpur-II,
+Bajitpur, Jhikadda and kanachi
+grams
+Mayureswar-I / ZP-26
+Talowan, Dabuk, Baraturigram BC
+and Dakshingram grams
+SC Women
+Mayureswar-I 2
+Mayureswar-II/ ZP-27
+Mayureswar, Kundala and SC Women
+Mayureswar- Daspalsa grams
+It Mayureswar-II / ZP-28
+Kaleswar, Dheka, Satpalsa and SC
+Ulkunda grams
+Rampurhat-I/ ZP-29
+Narayanpur, Kusumba, Ayas
+and Bonhat grams
+Rampurhat-I Z
+Rampurhar-I / ZP-30 P
+Dakhalbati, Barshal, Kharun, ST Women
+Kasthogara and Mashra grams
+Nalhati-II/ ZP-31
+Bara-II, Bara-I
+and Bhadrapur-II grams
+Nalleaten . Nalhati-II / ZP-32
+Bhadrapur-I, Noapara and
+Shitalgram grams =
+Rampurhat-II/ ZP-33
+Dunigram, Hasan-I, Kaluha,
+Hasan-II and Margram-I grams
+Rampurhat-II 2
+Rampurhat-II / ZP-34
+Margram-lII, Bishnupur,
+Sahapur and Budhigram grams
+Murarai-II/ ZP-35
+Murarai-II 3 Rudranagar, Kushmore-I BC Women
+and Kushmore-II grams
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Birbhum\Order-draft-SEC-Birbhum.doc 4 of 5","[[""Rampurhat-I"", ""Z""], [""Nalleaten"", "".""]]"
+data/wb/2018/draft/1369-SEC-draft reservation-Birbhum.pdf,346e35d2a5e537729a419da605fc9ee020e9d7baca873e854674308bb3de0b0e,5,draft,data/wb/ocr/draft/1369-SEC-draft reservation-Birbhum-05.tsv,47e6339116c31593b652b66c1ee7f387b7170ab850184351302c4bea7cd3cb1f,7,parsed_ocr_review_required,"[631.5, 1029.75, 1516.25, 1932.0]","Murarai-II / ZP-36
+Nandigram, Amdole and Women
+Jagigram grams
+Murarai-II/ ZP-37
+Paikar-I, Paikar-II and BC
+Mitrapur grams
+Nalhati-I/ ZP-38
+Paikpara, Kalitha and Kaitha-II BC Women
+grams
+Nalhati-I / ZP-39
+. Banior, Haridaspur and Bautia
+Nalhati-I 3 grams
+Nalhati-I/ ZP-40
+Kurumgram, Kaitha-I and Women
+Barla grams
+Murarai-I/ ZP-41
+Rajgram, Gorsha, Mahurapur
+and Palsa grams
+scaciiiaala 2 Murarai -I / ZP-42
+Dumurgram, Chatra and
+Murarai grams an
+aes
+State Election Commissioner,
+West Bengal State Election Commission
+15.41.17
+H:\shared folder\Panchayat ELection 2018\Delimitation and reservation_9.11.2017\Birbhum\Order-draft-SEC-Birbhum.doc 5 of 5",[]

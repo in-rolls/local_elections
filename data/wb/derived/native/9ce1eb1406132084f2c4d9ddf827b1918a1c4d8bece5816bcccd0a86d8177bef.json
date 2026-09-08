@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "sha256": "9ce1eb1406132084f2c4d9ddf827b1918a1c4d8bece5816bcccd0a86d8177bef",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock : Chakdaha\nNumber of members to be elected in the Gram Panchayat\nName of Gram Scheduled Caste Scheduled Tribe Women\nTotal number of members\nmembers Members members\n1 (2a) (2b) (2c) (2d)\nKanchrapara 20 15 NIL 7\nSeats reserved\nfor Scheduled Seats reserved\nNumber, name and area of constituencies with serial Caste or for women\nnumbers Scheduled Tribe against serial\nagainst serial number of seats\nnumber of seats\n3 4 5 6\nKanchrapara /I\nMouza -Chandamari J.L No -78\n(a) Chandamari Dakshin & Paschimpara Partly 1,2 1 SC 1 SCW\n(b) Dakshin Chandamari Madhyapara Partly 2 SC\nPart No. -82/101\nKanchrapara /II\nMouza -Chandamari J.L No -78\n3 -- 3 W\na) Chandamari Uttar, Paschim & Purbapara Partly\nPart No. -82/102\nKanchrapara /III\nMouza -Chandamari J.L No -78\n4 4 SC --\n(a) Dakshin Chandamari Paschimpara Partly\nPart No. -82/103\nKanchrapara /IV\nMouza -Chandamari J.L No -78\n5 5 SC 5 SCW\n(a) Dakshin Chandamari PurbaPart\nPart No. -82/104\nKanchrapara /V\nMouza -Chandamari J.L No -78\n6 6 SC --\n(a) Dakshin Chandamari Paschimpara Partly\nPart No. -82/105\nKanchrapara /VI\nMouza -Muratipur J.L No -51\n7 SC\n(a) Muratipur Dakshin Part 7,8\n8 SC 8 SCW\n(b) Muratipur Dakshin Part\nPart No. -82/106\nKanchrapara /VII\nMouza -Muratipur J.L No -51\n9 9 SC --\n(a) Muratipur Uttar Part\nPart No. -82/107\nKanchrapara /VIII\nMouza -Birpara J.L No -52\n10 10 SC --\n(a) Birpara\nPart No. -82/108",
+      "tables": [
+        {
+          "bbox": [
+            54.51612,
+            109.55160000000006,
+            543.3552,
+            171.34560000000005
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of members",
+              "Scheduled Caste\nmembers",
+              "Scheduled Tribe\nMembers",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Kanchrapara",
+              "20",
+              "15",
+              "NIL",
+              "7"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            54.51612,
+            183.70463460000002,
+            543.3552,
+            680.10324
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial\nnumbers",
+              "",
+              "Seats reserved\nfor Scheduled\nCaste or\nScheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Kanchrapara /I\nMouza -Chandamari J.L No -78\n(a) Chandamari Dakshin & Paschimpara Partly\n(b) Dakshin Chandamari Madhyapara Partly\nPart No. -82/101",
+              "1,2",
+              "1 SC\n2 SC",
+              "1 SCW"
+            ],
+            [
+              "Kanchrapara /II\nMouza -Chandamari J.L No -78\na) Chandamari Uttar, Paschim & Purbapara Partly\nPart No. -82/102",
+              "3",
+              "--",
+              "3 W"
+            ],
+            [
+              "Kanchrapara /III\nMouza -Chandamari J.L No -78\n(a) Dakshin Chandamari Paschimpara Partly\nPart No. -82/103",
+              "4",
+              "4 SC",
+              "--"
+            ],
+            [
+              "Kanchrapara /IV\nMouza -Chandamari J.L No -78\n(a) Dakshin Chandamari PurbaPart\nPart No. -82/104",
+              "5",
+              "5 SC",
+              "5 SCW"
+            ],
+            [
+              "Kanchrapara /V\nMouza -Chandamari J.L No -78\n(a) Dakshin Chandamari Paschimpara Partly\nPart No. -82/105",
+              "6",
+              "6 SC",
+              "--"
+            ],
+            [
+              "Kanchrapara /VI\nMouza -Muratipur J.L No -51\n(a) Muratipur Dakshin Part\n(b) Muratipur Dakshin Part\nPart No. -82/106",
+              "7,8",
+              "7 SC\n8 SC",
+              "8 SCW"
+            ],
+            [
+              "Kanchrapara /VII\nMouza -Muratipur J.L No -51\n(a) Muratipur Uttar Part\nPart No. -82/107",
+              "9",
+              "9 SC",
+              "--"
+            ],
+            [
+              "Kanchrapara /VIII\nMouza -Birpara J.L No -52\n(a) Birpara\nPart No. -82/108",
+              "10",
+              "10 SC",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 3188
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Seats reserved\nSeats allocated to for Scheduled Seats reserved\nNumber, name and area of constituencies with serial each constituency Caste or for women\nnumbers with serial Scheduled Tribe against serial\nnumbers against serial number of seats\nnumber of seats\nKanchrapara /IX\nMouza -Charjajira J.L No -194\n(a) Charjajira Full\n11 11 SC 11 SCW\nMouza -Charmadhusudanpur J.L No -195\n(b) Charmadhusudanpur Full\nPart No. -82/109\nKanchrapara /X\nMouza -Birpara J.L No -52\n12 12 SC --\n(a) Charbirpara Full\nPart No. -82/110\nKanchrapara /XI\nMouza -Charjadubati J.L No -53\n(a) Charjadubati Full\n13 13 SC --\nMouza -Majherchar J.L No -54\n(b) Majherchar Full\nPart No. -82/111\nKanchrapara /XII\nMouza -Charkanchrapara J.L No -56\n14 14 SC 14 SCW\n(a) Charkanchrapara Full\nPart No. -82/112\nKanchrapara /XIII\nMouza -Charnandanbati J.L No -55\n15 15 SC --\n(a) Charnandanbati West\nPart No. -82/113\nKanchrapara /XIV\nMouza -Charnandanbati J.L No -55\n16 16 SC --\n(a) Charnandanbati Purba Part\nPart No. -82/114\nKanchrapara /XV\nMouza -Kanchrapara J.L No -57\n(a) Kanchrapara Partly(South part of Banshberia Feri 17 -- --\nGhat)\nPart No. -82/115\nKanchrapara /XVI\nMouza -Kanchrapara J.L No -57\n(a) Kanchrapara Partly(North part of Banshberia Feri 18 -- --\nGhat)\nPart No. -82/116\nKanchrapara /XVII\nMouza -Krishnadebbati J.L No -60\n(a) Krishnadebbati Partly 19,20 -- 19 W\n(b) Krishnadebbati Partly\nPart No. -82/117\nDistrict Panchayat Election Officer\nDate:07.02.2008 &\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            54.51612,
+            72.47399999999999,
+            543.3552,
+            659.4648
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial\nnumbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCaste or\nScheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "Kanchrapara /IX\nMouza -Charjajira J.L No -194\n(a) Charjajira Full\nMouza -Charmadhusudanpur J.L No -195\n(b) Charmadhusudanpur Full\nPart No. -82/109",
+              "11",
+              "11 SC",
+              "11 SCW"
+            ],
+            [
+              "Kanchrapara /X\nMouza -Birpara J.L No -52\n(a) Charbirpara Full\nPart No. -82/110",
+              "12",
+              "12 SC",
+              "--"
+            ],
+            [
+              "Kanchrapara /XI\nMouza -Charjadubati J.L No -53\n(a) Charjadubati Full\nMouza -Majherchar J.L No -54\n(b) Majherchar Full\nPart No. -82/111",
+              "13",
+              "13 SC",
+              "--"
+            ],
+            [
+              "Kanchrapara /XII\nMouza -Charkanchrapara J.L No -56\n(a) Charkanchrapara Full\nPart No. -82/112",
+              "14",
+              "14 SC",
+              "14 SCW"
+            ],
+            [
+              "Kanchrapara /XIII\nMouza -Charnandanbati J.L No -55\n(a) Charnandanbati West\nPart No. -82/113",
+              "15",
+              "15 SC",
+              "--"
+            ],
+            [
+              "Kanchrapara /XIV\nMouza -Charnandanbati J.L No -55\n(a) Charnandanbati Purba Part\nPart No. -82/114",
+              "16",
+              "16 SC",
+              "--"
+            ],
+            [
+              "Kanchrapara /XV\nMouza -Kanchrapara J.L No -57\n(a) Kanchrapara Partly(South part of Banshberia Feri\nGhat)\nPart No. -82/115",
+              "17",
+              "--",
+              "--"
+            ],
+            [
+              "Kanchrapara /XVI\nMouza -Kanchrapara J.L No -57\n(a) Kanchrapara Partly(North part of Banshberia Feri\nGhat)\nPart No. -82/116",
+              "18",
+              "--",
+              "--"
+            ],
+            [
+              "Kanchrapara /XVII\nMouza -Krishnadebbati J.L No -60\n(a) Krishnadebbati Partly\n(b) Krishnadebbati Partly\nPart No. -82/117",
+              "19,20",
+              "--",
+              "19 W"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 3408
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

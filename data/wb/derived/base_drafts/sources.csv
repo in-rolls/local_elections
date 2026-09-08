@@ -1,0 +1,40 @@
+source_path,source_sha256,district,stage,pages,cached_pages,parsed_rows,seat_number_holes,duplicate_seat_numbers,output
+data/wb/2018/1671-SEC-Gazette Notification-Delimitation and reservation-Cooch Behar.pdf,23a68f83ac3fe6e42e65be6c9e29429ed84ce4c964793a78b755c128f052ed76,Cooch Behar,final,4,4,33,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1672-SEC-Gazette Notification-Delimitation and reservation-Alipurduar.pdf,206e99f9cbcc0fb0cbfd9d58e962961ac7d49ead9ec65a84c64795c7d9da6e42,Alipurduar,final,3,3,18,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1673-SEC-Gazette Notification-Delimitation and reservation-Jalpaiguri.pdf,3668adf1b52be5bfef7acd265bc45ed223b66b67f4386b790144bd9576303096,Jalpaiguri,final,3,3,19,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1674-SEC-Gazette Notification-Delimitation and reservation-Uttar Dinajpur.pdf,be2c06afb28539280aa5955d4ef91f0b7cbfaacb4595c0ec778fa8315d58cde1,Uttar Dinajpur,final,3,3,26,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1675-SEC-Gazette Notification-Delimitation and reservation-Dakshin Dinajpur.pdf,ecff1c802621393935151548affa3fae1ed1d50bb61af1d445e8ad5ca2b8b230,Dakshin Dinajpur,final,3,3,18,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1676-SEC-Gazette Notification-Delimitation and reservation-Malda.pdf,c12a42c85b645a59ff445be965e63711621182edca9d334dbc0864b2e35b431c,Malda,final,4,4,38,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1677-SEC-Gazette Notification-Delimitation and reservation-Murshidabad.pdf,7ad0fe8ac18b3115412cbbe5efc6410212c4c2c7dde3ecf876bfe00a4fca0928,Murshidabad,final,6,6,70,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1678-SEC-Gazette Notification-Delimitation and reservation-Nadia.pdf,d2ab9cd95edc752d7f9e8a69681c19d3c6d5384d9eb3d70642079bfffa7801de,Nadia,final,4,4,47,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1679-SEC-Gazette Notification-Delimitation and reservation-North 24 Pgs.pdf,58946ef4abc58709cd907ebd6819d245ae3e6061f6f9aaa67e8e22664edb0507,North 24 Pgs,final,5,5,57,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1680-SEC-Gazette Notification-Delimitation and reservation-South 24 Pgs.pdf,739fee6fff3de5ebc440f87ceb40e70e13abda3859653a8c30822d5bdf41b9d9,South 24 Pgs,final,7,7,81,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1681-SEC-Gazette Notification-Delimitation and reservation-Howrah.pdf,15352979e7d686acbfbc9a01c4c65a669396e1f498edf1b043516f1037d66501,Howrah,final,4,4,40,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1682-SEC-Gazette Notification-Delimitation and reservation-Hooghly.pdf,8f78dce43cee5d53f2025aaf5f7b94df3ba19029cebc6f820bcc4884ca793184,Hooghly,final,5,5,50,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1683-SEC-Gazette Notification-Delimitation and reservation-Purba Medinipur.pdf,d0f1af625bdc16c2e07e845502e7a6fac8bd6d8015708c1ddd1920046647a564,Purba Medinipur,final,5,5,60,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1684-SEC-Gazette Notification-Delimitation and reservation-Paschim Medinipur.pdf,c2fc45bb6d10e87d2692eb9c584f2aa87122449a4ce712bcda68ce727281e387,Paschim Medinipur,final,5,5,51,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1685-SEC-Gazette Notification-Delimitation and reservation-Jhargram.pdf,8ebb96a4b1489618a86c2c9856de89854e1c4bd2d8f7391b8d20d98114a44acb,Jhargram,final,3,3,16,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1686-SEC-Gazette Notification-Delimitation and reservation-Purulia.pdf,eaa42b034662f798b3bbb632e88118b61c4dbef40d95af2ff764bae337aab6eb,Purulia,final,4,4,38,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1687-SEC-Gazette Notification-Delimitation and reservation-Bankura.pdf,d0113965f6cc46c01a75f2ec942cf81cc5941ee950c33f447b04b28948c80e2e,Bankura,final,5,5,46,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1688-SEC-Gazette Notification-Delimitation and reservation-Purba Bardhaman.pdf,f04f8eca8f38652eec70dcff6f0066afc8b6b1369d260894610ad31c214e3e5e,Purba Bardhaman,final,5,5,58,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1689-SEC-Gazette Notification-Delimitation and reservation-Paschim Bardhaman.pdf,4fc3818b030c2728ab82047e53c48f52a9e2c81c6cb61e1a15bb3115d48eb9ec,Paschim Bardhaman,final,2,2,17,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/1690-SEC-Gazette Notification-Delimitation and reservation-Birbhum.pdf,08224ad259d40d9d685f252078859492e713ce5947bce2831275691c61718a7e,Birbhum,final,4,4,42,[],[],data/wb/zp_member_2018.csv
+data/wb/2018/draft/1331-SEC-draft reservation-coochbehar.pdf,fc3d0b027fd288ce4573c6e9ddc7e54d39b74afd1c27c9b0844dc55d0f3d5a4b,Cooch Behar,draft,4,4,33,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1333-SEC-draft reservation-Alipurduar.pdf,fc22b66ad11d24c48d0359abd841dd1856b1fc57456ba7c6302a720691de329c,Alipurduar,draft,3,3,18,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1335-SEC-draft reservation-Jalpaiguri.pdf,f13dbe813647600a9b353e4f857c3488f221f4e3f10b2a39169a839bd61e186a,Jalpaiguri,draft,3,3,19,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1337-SEC-draft reservation-Uttar Dinajpur.pdf,a290fb4ef4856e5d35a75954f31e4762a38320677a4ae9090d9f6680b6e93f34,Uttar Dinajpur,draft,4,4,26,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1339-SEC-draft reservation-Dakshin Dinajpur.pdf,ea7c93f80b33652b4d48330d5ac7699d8c1d74f7ad55f1740b57081e68a87ba7,Dakshin Dinajpur,draft,3,3,18,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1343-SEC-Draft order of Murshidabad district.pdf,5b386f94b7f1d6a968f5ba3b818eb6c449caf92525f033bf71386fb84ee48ef5,Murshidabad,draft,7,7,70,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1345-SEC-Draft order of Nadia district.pdf,32548f6f06360f7201a550b052045feeb8530fc2ba627ad15a3c602511a098f7,Nadia,draft,6,6,47,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1347-SEC-draft reservation-North 24 Parganas.pdf,8dc6deaabf7721c1d254b65fc10aa7f32f6c8dab0f3971400fbf2242139ebdf2,North 24 Pgs,draft,7,7,57,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1349-SEC-draft reservation-South 24 Parganas.pdf,4daa641b9a96a394a2e9fb1ccaf67ab54654aaca1d76df6f68cbca243b5464ce,South 24 Pgs,draft,9,9,81,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1351-SEC-Draft order of Howrah district.pdf,6c6fdc37123292c01e587fdde3d9e8ce1c79ba23d019b4c9a543d0d3ec8dd934,Howrah,draft,5,5,40,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1353-SEC-draft reservation-Hooghly.pdf,bc11f22bca3901b970dffc4130ba1e660ddbedf25aceda27b2e24aec43ab7ace,Hooghly,draft,6,6,50,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1355-SEC-draft reservation-Purba Medinipur.pdf,6381894bcd6b277683536be57678536a9f322a059324693e790e64b923f038ca,Purba Medinipur,draft,7,7,60,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1357-SEC-Draft order of Paschim Medinipur district.pdf,f67efd95e36ad6d2e4485a2593d431527110a5e2a6e4ac3a44cede7959c94c87,Paschim Medinipur,draft,6,6,51,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1359-SEC-draft reservation-Jhargram.pdf,b53cbcb22337a26cb1b97d78b9b5bce4e6e95f373d9920c05d16816e7c825ebf,Jhargram,draft,3,3,16,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1361-SEC-Draft order of Purulia district.pdf,1f99e151060426ea9dbb4e0c864e8adc632372c38e446563268a9af3302da0c8,Purulia,draft,4,4,38,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1363-SEC-Draft order of Bankura district.pdf,9028287352a31d1ff28d6e5d8d33f567cff45d70d41ab4eb11aee59562f66b83,Bankura,draft,6,6,46,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1365-SEC-Draft order of Purba Bardhaman district.pdf,4ff2f913c3c6315f35a48750bc7665bdd144323740659c7035f923237fa1a103,Purba Bardhaman,draft,6,6,58,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1367-SEC-Draft order of Paschim Bardhaman district.pdf,71d24b127348aa2e4b6df67ae969b16eaeeca2a503513a7fcd937fca7b8137b2,Paschim Bardhaman,draft,3,3,17,[],[],data/wb/derived/base_drafts/records.csv
+data/wb/2018/draft/1369-SEC-draft reservation-Birbhum.pdf,346e35d2a5e537729a419da605fc9ee020e9d7baca873e854674308bb3de0b0e,Birbhum,draft,5,5,42,[],[],data/wb/derived/base_drafts/records.csv

@@ -1,0 +1,22 @@
+{
+  "pilot_design": "Three original PDF pages, nine visually transcribed cells; no OCR output used to establish gold. Language order alternated by page. Single timing per arm, under shared system load; timing precision and held-out accuracy unmeasured.",
+  "render_scale_to": 2400,
+  "psm": 1,
+  "omp_thread_limit": 1,
+  "gold_normalization": "Remove punctuation and whitespace; uppercase. Do not conflate I/l/1 or repair digits.",
+  "results": {
+    "eng": {
+      "gold_matches": 8,
+      "gold_fields": 9,
+      "ocr_seconds": 17.914020334137604,
+      "bengali_tokens_on_visually_English_pages": 0
+    },
+    "eng+ben": {
+      "gold_matches": 7,
+      "gold_fields": 9,
+      "ocr_seconds": 24.953315041726455,
+      "bengali_tokens_on_visually_English_pages": 23
+    }
+  },
+  "conclusion": "English-only Pareto-improves the sampled field reads and reduces observed OCR runtime. No Bengali printed GP/category sample was found in the visually inspected ward pages. These results are not an accuracy estimate for uninspected documents."
+}

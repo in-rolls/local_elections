@@ -1,0 +1,44 @@
+1 2 3
+Kulithalai Panchayat Union
+1 Poyyamani SC (Women)
+2 Inungur SC (Women)
+3 Nallur SC (General)
+4 Hiranyamangalam SC (General)
+5 Manathattai General (Women)
+6 Vathiyam General (Women)
+7 Suriyanur General (Women)
+8 Rajendram General
+9 Vaigainallur General
+10 Karuvappanaickenpatti General
+11 Kumaramangalam General
+12 Thimmampatti General
+13 Sathiyamangalam General
+Krishnarayapuram Panchayat Union
+1 Veeriyapalayam SC (Women)
+2 Mathagiri SC (Women)
+3 Mahadhanapuram SC (General)
+4 Balarajapuram SC (General)
+5 Panjapatti SC (General)
+6 Vayalur SC (General)
+7 Renganathapuram General (Women)
+8 Manavasi General (Women)
+9 Muthurengampatti General (Women)
+10 Kallapalli General (Women)
+11 Thondamanginam General (Women)
+12 Pothuravuthanpatti General (Women)
+13 Pillapalayam General
+14 Mayanur General
+15 Kammanallur General
+16 Sithalavai General
+17 Sivayam General
+18 Chinthalavadi General
+19 Kosur General
+20 Pappakkapatti General
+21 Thirukkampuliyur General
+22 Sengal General
+23 Karuppathur General
+Kadavur Panchayat Union
+1 Palaviduthi SC (Women)
+2 Melapaguthi SC (Women)
+3 Adhanur SC (General)
+Page 101

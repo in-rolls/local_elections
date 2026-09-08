@@ -1,0 +1,323 @@
+{
+  "dataset_doi": "10.7910/DVN/O3UKFO",
+  "dataset_numeric_id": 65898,
+  "dataset_version": "4.0",
+  "source_metadata_path": "data/wb/vintage_search/dataverse_documentation_followup/existing_dataset_metadata_snapshot.json",
+  "source_metadata_sha256": "6699401e1c5e44fdf24bca0aaae07e48b50929ebfa3955800ba4c03e32dcef66",
+  "source_metadata_origin_path": "data/wb/vintage_search/raw/427dc159d0f466c1.json",
+  "source_metadata_is_preexisting_snapshot": true,
+  "source_metadata_refreshed_this_task": false,
+  "files": [
+    {
+      "file_id": 13986343,
+      "filename": "Clean_Election_data_gp.do",
+      "directory": "Aspirations - Replication",
+      "expected_bytes": 11975,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "0bac5bd2ca2dde7fdf89f11a3cc3a56e"
+      },
+      "restricted_metadata": false,
+      "documentation_target": true,
+      "attempt": {
+        "label": "clean_election_download",
+        "requested_url": "https://dataverse.harvard.edu/api/access/datafile/13986343",
+        "started_utc": "2026-09-08T05:24:30.864733+00:00",
+        "finished_utc": "2026-09-08T05:24:31.397946+00:00",
+        "elapsed_seconds": 0.533,
+        "final_url": "https://dataverse.harvard.edu/api/access/datafile/13986343",
+        "status": 400,
+        "responses": [
+          {
+            "request_url": "https://dataverse.harvard.edu/api/access/datafile/13986343",
+            "response_url": "https://dataverse.harvard.edu/api/access/datafile/13986343",
+            "status": 400,
+            "headers": {
+              "Date": "Tue, 08 Sep 2026 05:24:31 GMT",
+              "Content-Type": "application/json;charset=UTF-8",
+              "Content-Length": "122",
+              "Connection": "keep-alive",
+              "Set-Cookie": "AWSALB=4SMKvsU9w/xPcczd1fQMnJENZp9ITB8chxRpbgso2GocxBhplasyfqTaLTYAqekil0syhFEnurqOxkFThKl6fFT4fuAuy7TJ0ep5sg50In0ltRvDFSlC0C6d9qlM; Expires=Tue, 15 Sep 2026 05:24:31 GMT; Path=/, AWSALBCORS=4SMKvsU9w/xPcczd1fQMnJENZp9ITB8chxRpbgso2GocxBhplasyfqTaLTYAqekil0syhFEnurqOxkFThKl6fFT4fuAuy7TJ0ep5sg50In0ltRvDFSlC0C6d9qlM; Expires=Tue, 15 Sep 2026 05:24:31 GMT; Path=/; SameSite=None; Secure, JSESSIONID=f799c12e3d42145410b401f26630; Path=/; Secure; HttpOnly;SameSite=Lax",
+              "Server": "Apache",
+              "Access-Control-Allow-Origin": "*",
+              "Access-Control-Allow-Methods": "GET, POST, OPTIONS, PUT, DELETE",
+              "Access-Control-Allow-Headers": "Accept, Content-Type, X-Dataverse-key, Range",
+              "Access-Control-Expose-Headers": "Accept-Ranges, Content-Range, Content-Encoding"
+            },
+            "body_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/clean_election_download_00.body",
+            "bytes": 122,
+            "sha256": "e382e243e36812f920e017d39206c081b04463b9a11f356bdd2131a9c53f45af"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": 13986338,
+      "filename": "Clean_Election_data_ward2003.do",
+      "directory": "Aspirations - Replication",
+      "expected_bytes": 11644,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "8ca77c110dd324d48c0d2de3d9b44818"
+      },
+      "restricted_metadata": false,
+      "documentation_target": false,
+      "attempt": null
+    },
+    {
+      "file_id": 13986382,
+      "filename": "Clean_Election_data_ward.do",
+      "directory": "Aspirations - Replication",
+      "expected_bytes": 13813,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "79c2932690ba22bac193278b92428a2b"
+      },
+      "restricted_metadata": false,
+      "documentation_target": false,
+      "attempt": null
+    },
+    {
+      "file_id": 13986336,
+      "filename": "CleanPradhanAll.do",
+      "directory": "Aspirations - Replication",
+      "expected_bytes": 23956,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "33857f5aa3f68f9ddb67d28538ca5c80"
+      },
+      "restricted_metadata": false,
+      "documentation_target": true,
+      "attempt": {
+        "label": "clean_pradhan_download",
+        "requested_url": "https://dataverse.harvard.edu/api/access/datafile/13986336",
+        "started_utc": "2026-09-08T05:24:31.398996+00:00",
+        "finished_utc": "2026-09-08T05:24:32.755391+00:00",
+        "elapsed_seconds": 1.356,
+        "final_url": "https://dataverse.harvard.edu/api/access/datafile/13986336",
+        "status": 400,
+        "responses": [
+          {
+            "request_url": "https://dataverse.harvard.edu/api/access/datafile/13986336",
+            "response_url": "https://dataverse.harvard.edu/api/access/datafile/13986336",
+            "status": 400,
+            "headers": {
+              "Date": "Tue, 08 Sep 2026 05:24:32 GMT",
+              "Content-Type": "application/json;charset=UTF-8",
+              "Content-Length": "122",
+              "Connection": "keep-alive",
+              "Set-Cookie": "AWSALB=KTcvFLOogz9Tf4bVgaPygcGLSWDL3xcTf0AV2gwx5V/Hs2QC5jEpc2s6+BDC5fOv5yxkDXrUbfsGaJ3bD1anZk4324VqgYWuLxL+JDyl0dRmwhK96JMc4qDPnCsn; Expires=Tue, 15 Sep 2026 05:24:32 GMT; Path=/, AWSALBCORS=KTcvFLOogz9Tf4bVgaPygcGLSWDL3xcTf0AV2gwx5V/Hs2QC5jEpc2s6+BDC5fOv5yxkDXrUbfsGaJ3bD1anZk4324VqgYWuLxL+JDyl0dRmwhK96JMc4qDPnCsn; Expires=Tue, 15 Sep 2026 05:24:32 GMT; Path=/; SameSite=None; Secure, JSESSIONID=f79a1acbb13fe8510cd21d0a1588; Path=/; Secure; HttpOnly;SameSite=Lax",
+              "Server": "Apache",
+              "Access-Control-Allow-Origin": "*",
+              "Access-Control-Allow-Methods": "GET, POST, OPTIONS, PUT, DELETE",
+              "Access-Control-Allow-Headers": "Accept, Content-Type, X-Dataverse-key, Range",
+              "Access-Control-Expose-Headers": "Accept-Ranges, Content-Range, Content-Encoding"
+            },
+            "body_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/clean_pradhan_download_00.body",
+            "bytes": 122,
+            "sha256": "e382e243e36812f920e017d39206c081b04463b9a11f356bdd2131a9c53f45af"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": 13986362,
+      "filename": "codebook_pradhan.pdf",
+      "directory": "3_codebooks",
+      "expected_bytes": 962570,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "e925d23c16fe47b74152ac01fc63eb46"
+      },
+      "restricted_metadata": false,
+      "documentation_target": true,
+      "attempt": {
+        "label": "codebook_download",
+        "requested_url": "https://dataverse.harvard.edu/api/access/datafile/13986362",
+        "started_utc": "2026-09-08T05:24:30.864631+00:00",
+        "finished_utc": "2026-09-08T05:24:31.399125+00:00",
+        "elapsed_seconds": 0.535,
+        "final_url": "https://dataverse.harvard.edu/api/access/datafile/13986362",
+        "status": 400,
+        "responses": [
+          {
+            "request_url": "https://dataverse.harvard.edu/api/access/datafile/13986362",
+            "response_url": "https://dataverse.harvard.edu/api/access/datafile/13986362",
+            "status": 400,
+            "headers": {
+              "Date": "Tue, 08 Sep 2026 05:24:31 GMT",
+              "Content-Type": "application/json;charset=UTF-8",
+              "Content-Length": "122",
+              "Connection": "keep-alive",
+              "Set-Cookie": "AWSALB=L5xWihlvuKgF3OQjnvk143E8HW6HFqPRhhuATaCIszfiqA18np6wQQClbx+QHpWqHs0dYtjJjohQTJgOlRGe9il0jRopMjiLR50YSFcTAWA2KHP/P9M+mQRWOz0M; Expires=Tue, 15 Sep 2026 05:24:31 GMT; Path=/, AWSALBCORS=L5xWihlvuKgF3OQjnvk143E8HW6HFqPRhhuATaCIszfiqA18np6wQQClbx+QHpWqHs0dYtjJjohQTJgOlRGe9il0jRopMjiLR50YSFcTAWA2KHP/P9M+mQRWOz0M; Expires=Tue, 15 Sep 2026 05:24:31 GMT; Path=/; SameSite=None; Secure, JSESSIONID=f799c1395115e81b3a8afeded7a6; Path=/; Secure; HttpOnly;SameSite=Lax",
+              "Server": "Apache",
+              "Access-Control-Allow-Origin": "*",
+              "Access-Control-Allow-Methods": "GET, POST, OPTIONS, PUT, DELETE",
+              "Access-Control-Allow-Headers": "Accept, Content-Type, X-Dataverse-key, Range",
+              "Access-Control-Expose-Headers": "Accept-Ranges, Content-Range, Content-Encoding"
+            },
+            "body_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/codebook_download_00.body",
+            "bytes": 122,
+            "sha256": "e382e243e36812f920e017d39206c081b04463b9a11f356bdd2131a9c53f45af"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": 13986308,
+      "filename": "election_pradhan_2008.tab",
+      "directory": "Does Exposure Reduce Bias - Replication/data_clean",
+      "expected_bytes": 20492,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "3b51099915639fe088c1cb540f70ea16"
+      },
+      "restricted_metadata": false,
+      "documentation_target": false,
+      "attempt": null
+    },
+    {
+      "file_id": 13986379,
+      "filename": "election_pradhan_alldist.tab",
+      "directory": "Does Exposure Reduce Bias - Replication/data_clean",
+      "expected_bytes": 148845,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "258ff0bc17c8f3695e83ec89bca1b353"
+      },
+      "restricted_metadata": false,
+      "documentation_target": false,
+      "attempt": null
+    },
+    {
+      "file_id": 13986289,
+      "filename": "elections_clean2.tab",
+      "directory": "Does Exposure Reduce Bias - Replication/data_clean",
+      "expected_bytes": 1655108,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "be74c3a94693229592d22922789df6d2"
+      },
+      "restricted_metadata": false,
+      "documentation_target": false,
+      "attempt": null
+    },
+    {
+      "file_id": 13986293,
+      "filename": "elections_ward2003.tab",
+      "directory": "Does Exposure Reduce Bias - Replication/data_clean",
+      "expected_bytes": 993327,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "fe996b632a709e4005d52dc8a9d0fab2"
+      },
+      "restricted_metadata": false,
+      "documentation_target": false,
+      "attempt": null
+    },
+    {
+      "file_id": 13986321,
+      "filename": "pradhan_clean.tab",
+      "directory": "Does Exposure Reduce Bias - Replication/data_clean",
+      "expected_bytes": 728143,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "d06884bab0a8cd8402cdeea57b089e35"
+      },
+      "restricted_metadata": false,
+      "documentation_target": false,
+      "attempt": null
+    },
+    {
+      "file_id": 13986376,
+      "filename": "pradhan.tab",
+      "directory": "2_data",
+      "expected_bytes": 527066,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "d95f214a6374c39322afca1dfbf1cd88"
+      },
+      "restricted_metadata": false,
+      "documentation_target": false,
+      "attempt": null
+    },
+    {
+      "file_id": 13986331,
+      "filename": "Readme.pdf",
+      "directory": null,
+      "expected_bytes": 137528,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "c57417fb94beecec099006e8526ff2e4"
+      },
+      "restricted_metadata": false,
+      "documentation_target": true,
+      "attempt": {
+        "label": "readme_download",
+        "requested_url": "https://dataverse.harvard.edu/api/access/datafile/13986331",
+        "started_utc": "2026-09-08T05:24:30.864494+00:00",
+        "finished_utc": "2026-09-08T05:24:31.400716+00:00",
+        "elapsed_seconds": 0.536,
+        "final_url": "https://dataverse.harvard.edu/api/access/datafile/13986331",
+        "status": 400,
+        "responses": [
+          {
+            "request_url": "https://dataverse.harvard.edu/api/access/datafile/13986331",
+            "response_url": "https://dataverse.harvard.edu/api/access/datafile/13986331",
+            "status": 400,
+            "headers": {
+              "Date": "Tue, 08 Sep 2026 05:24:31 GMT",
+              "Content-Type": "application/json;charset=UTF-8",
+              "Content-Length": "122",
+              "Connection": "keep-alive",
+              "Set-Cookie": "AWSALB=YSJBv3BOmN9jt2bfVoFW9/8rd1iqqUsJMUIswRwW6Gi3GPt/JXPHBXk3nzOvp1ki4TDIRmjE7DM9IvHvpXD2cqJLtSbFZtXLe7Y4I0AL2MTxk9idoSMQdTO8t9en; Expires=Tue, 15 Sep 2026 05:24:31 GMT; Path=/, AWSALBCORS=YSJBv3BOmN9jt2bfVoFW9/8rd1iqqUsJMUIswRwW6Gi3GPt/JXPHBXk3nzOvp1ki4TDIRmjE7DM9IvHvpXD2cqJLtSbFZtXLe7Y4I0AL2MTxk9idoSMQdTO8t9en; Expires=Tue, 15 Sep 2026 05:24:31 GMT; Path=/; SameSite=None; Secure, JSESSIONID=f799c215c7933ee0c98e110c6d62; Path=/; Secure; HttpOnly;SameSite=Lax",
+              "Server": "Apache"
+            },
+            "body_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/readme_download_00.body",
+            "bytes": 122,
+            "sha256": "e382e243e36812f920e017d39206c081b04463b9a11f356bdd2131a9c53f45af"
+          }
+        ]
+      }
+    },
+    {
+      "file_id": 13986347,
+      "filename": "s24para.tab",
+      "directory": "Does Exposure Reduce Bias - Replication/data_clean",
+      "expected_bytes": 14612,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "891cae838d0cde1b0f8ac036ec41a269"
+      },
+      "restricted_metadata": false,
+      "documentation_target": false,
+      "attempt": null
+    },
+    {
+      "file_id": 13986301,
+      "filename": "SurveyWB_Pradhan_final.doc",
+      "directory": "4_surveys",
+      "expected_bytes": 750080,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "460c5c9a46df190c93614c270bce3f3f"
+      },
+      "restricted_metadata": false,
+      "documentation_target": false,
+      "attempt": null
+    },
+    {
+      "file_id": 13986372,
+      "filename": "SurveyWB_PradhanSpouse_Final.doc",
+      "directory": "4_surveys",
+      "expected_bytes": 435712,
+      "expected_checksum": {
+        "type": "MD5",
+        "value": "8ccbace1b4bea7ec96344ae8e70d92ae"
+      },
+      "restricted_metadata": false,
+      "documentation_target": false,
+      "attempt": null
+    }
+  ]
+}

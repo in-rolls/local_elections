@@ -1,0 +1,48 @@
+1 2 3
+KATTANKOLATHUR PANCHAYAT UNION (Contd..)
+36 Mannivakkam General
+37 Pazhaveli General
+38 Kumuzhi General
+39 Vengadamangalam General
+THIRUPORUR .PANCHAYAT UNION
+1 Kunnapattu ST (General)
+2 Karanai SC (Women)
+3 Sembakkam SC (Women)
+4 Mambakkam SC (Women)
+5 Illalur SC (Women)
+6 Nellikuppam SC (Women)
+7 Thandalam SC (Women)
+8 Kottamedu SC (General)
+9 Kelambakkam SC (General)
+10 Venbedu SC (General)
+11 Melakottaiyur SC (General)
+12 Muttukadu SC (General)
+13 Periyavippedu SC (General)
+14 Pattipulam SC (General)
+15 Sirunkundram SC (General)
+16 Navalur SC (General)
+17 Panangattupakkam SC (General)
+18 Madayathur SC (General)
+19 Sonalur SC (General)
+20 Oragadam General (Women)
+21 Mailai General (Women)
+22 Kayar General (Women)
+23 Periyairumbedu General (Women)
+24 Mullipakkam General (Women)
+25 Karumbakkam General (Women)
+26 Paiyanur General (Women)
+27 Manamathy General (Women)
+28 Ponmar General (Women)
+29 Arungundram General (Women)
+30 Sirudhavur General (Women)
+31 Velichai General
+32 Thandarai General
+33 Nemmeli General
+34 Kanathur Reddy Kuppam General
+35 Kolathur General
+36 Kovalam General
+37 Thiruvidanthai General
+38 Hanumanthapuram General
+39 Thirunilai General
+40 Melaiyur General
+41 Perunthandalam General

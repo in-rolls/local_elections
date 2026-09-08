@@ -1,0 +1,32 @@
+1 2 3
+Andimadam Panchayat Union:
+1 Olaiyur ST (General)
+2 Rangiyam SC (Women)
+3 Periyakrishnapuram SC (Women)
+4 Kovilvalkai SC (General)
+5 Sriraman SC (General)
+6 Nagambandal SC (General)
+7 PeriyathuKurichi SC (General)
+8 Periyakarukkai General (Women)
+9 Vilandai General (Women)
+10 Thirukalappur General (Women)
+11 Ayyur General (Women)
+12 Edayakurichi General (Women)
+13 Andimadam General (Women)
+14 Variyankaval General (Women)
+15 Pudukudi General (Women)
+16 Kattathur General
+17 Villuthudaiyan General
+18 Anikuthichan General
+19 Silambur General
+20 Alagapuram General
+21 Kulathur General
+22 Elaiyur General
+23 Koovathur General
+24 Kuvagam General
+25 Melur General
+26 Vallam General
+27 Devanur General
+28 Marudur General
+29 Kavarapalayam General
+30 Kodukkur General

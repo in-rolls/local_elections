@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "sha256": "fec88af52b6f8e98a609ff9af2a85a280e61cefed722c00dfdf1a9df99cc3c12",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "fo\nrebmun\nlatoT\nsrebmem\nsetsaC\ndeludehcS\nsrebmem\nsebirT\neludehcS\nsrebmem\nsrebmem\nnemoW\nThe Schedule\nForm - A1\nBlock : Karimpur-II\nNumber of Members to be elected to the GramPanchayat\nName of Gram\n(1) (2a) (2b) (2c) (2d) (3) (4)\nRahamatpur 21 5 Nil 7 Rahamatpur/I, Part No. 69/38\nMouza: Goas, J.L. No. -39\n(i) Nathpara\n1 1 , (Women)\n(ii) Vitapara\n(iii) Colonypara\n(iv) Chaklapara\nRahamatpur/II, Part No. 69/39\n(SC\nMouza: Goas, J.L. No. -39 2 2 , (SC) 2 ,\nWomen)\n(i) Ghoshpasra\nRahamatpur/III, Part No. 69/40\nMouza: Goas, J.L. No. -39 3\n(i)Goas Anandanagar Colony\nRahamatpur/IV, Part No. 69/41\nMouza: Goas, J.L. No. -39\n4\n(i) Paschim Goas Dakshinpara\nii)Malpara\nRahamatpur/V, Part No. 69/42\nMouza: Goas, J.L. No. -39 5 5 , (Women)\n(i) Paschim Goas Madhyapara\nRahamatpur/VI, Part No. 69/43\nMouza: Goas, J.L. No. -39\n6\n(i) Paschim Goas Musalmanpara\n(ii) Dakshinpara\nRahamatpur/VII, Part No. 69/44\nMouza-Barbakpur ,J.L.No.-38 7\n(i) Dakshinpara, Paschim\nRahamatpur/VIII, Part No. 69/45\nMouza-Barbakpur ,J.L.No.-38\n8 8 , (Women)\n(i) Dakshinpara, Purba\n(ii) Dakshinpara, Dakshin\nRahamatpur/IX, Part No. 69/46\nMouza-Barbakpur ,J.L.No.-38 9\n(i) Uttarpara, Uttar\nRahamatpur/X, Part No. 69/47\nMouza-Barbakpur ,J.L.No.-38\n10\n(i) Uttarpara, Purba\n(ii) Uttarpara, Paschim\nRahamatpur/XI, Part No. 69/48\nMouza-Rahamatpur ,J.L.No-40 11 11 , (S.C)\n(i) Hat Goas Rahamatpur\nfo aera\ndna\nemaN\n,rebmuN\nlaires\nhtiw\nseicneutitsnoc\nsrebmun\nhcae\not detacolla\nstaeS\nlaires\nhtiw\nycneutitsnoc\nsrebmun\ndeludehcS\nrof\ndevreser\nstaeS\nsebirT\neludehcS\ndna\nsetsaC\nstaes\nfo\nrebmun\nlaires\ntsniaga\nnemoW\nrof\ndevreser\nstaeS\nstaes\nfo\nrebmun\nlaires\ntsniaga\n(5) (6)\nFORM - A of Rahamatpur G.P. Page 1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            118.19040000000007,
+            553.1949654,
+            749.9376
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of Members to be elected to\nthe GramPanchayat",
+              null,
+              null,
+              null,
+              "fo\nlaires\naera\ndna htiw\nsrebmun\nemaN seicneutitsnoc\n,rebmuN",
+              "hcae laires\not htiw\ndetacolla srebmun\nycneutitsnoc\nstaeS",
+              "deludehcS sebirT staes\nfo\neludehcS rebmun\nrof\ndevreser\nlaires\ndna\nsetsaC tsniaga\nstaeS",
+              "staes\nnemoW\nfo\nrebmun\nrof\ndevreser\nlaires\nstaeS tsniaga"
+            ],
+            [
+              null,
+              "fo\nrebmun\nsrebmem\nlatoT",
+              "setsaC\nsrebmem\ndeludehcS",
+              "sebirT\nsrebmem\neludehcS",
+              "srebmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Rahamatpur",
+              "21",
+              "5",
+              "Nil",
+              "7",
+              "Rahamatpur/I, Part No. 69/38\nMouza: Goas, J.L. No. -39\n(i) Nathpara\n(ii) Vitapara\n(iii) Colonypara\n(iv) Chaklapara",
+              "1",
+              "",
+              "1 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/II, Part No. 69/39\nMouza: Goas, J.L. No. -39\n(i) Ghoshpasra",
+              "2",
+              "2 , (SC)",
+              "(SC\n2 ,\nWomen)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/III, Part No. 69/40\nMouza: Goas, J.L. No. -39\n(i)Goas Anandanagar Colony",
+              "3",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/IV, Part No. 69/41\nMouza: Goas, J.L. No. -39\n(i) Paschim Goas Dakshinpara\nii)Malpara",
+              "4",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/V, Part No. 69/42\nMouza: Goas, J.L. No. -39\n(i) Paschim Goas Madhyapara",
+              "5",
+              "",
+              "5 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/VI, Part No. 69/43\nMouza: Goas, J.L. No. -39\n(i) Paschim Goas Musalmanpara\n(ii) Dakshinpara",
+              "6",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/VII, Part No. 69/44\nMouza-Barbakpur ,J.L.No.-38\n(i) Dakshinpara, Paschim",
+              "7",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/VIII, Part No. 69/45\nMouza-Barbakpur ,J.L.No.-38\n(i) Dakshinpara, Purba\n(ii) Dakshinpara, Dakshin",
+              "8",
+              "",
+              "8 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/IX, Part No. 69/46\nMouza-Barbakpur ,J.L.No.-38\n(i) Uttarpara, Uttar",
+              "9",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/X, Part No. 69/47\nMouza-Barbakpur ,J.L.No.-38\n(i) Uttarpara, Purba\n(ii) Uttarpara, Paschim",
+              "10",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/XI, Part No. 69/48\nMouza-Rahamatpur ,J.L.No-40\n(i) Hat Goas Rahamatpur",
+              "11",
+              "11 , (S.C)",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1587
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "(1) (2a) (2b) (2c) (2d) (3) (4) (5) (6)\nRahamatpur Rahamatpur/XII, Part No. 69/49\nMouza-Rahamatpur ,J.L.No-40\n(i) Sukanta Colony 12 12 , (S.C)\n(ii) Rahamatpur Colony\n(iii) Natun Colony\nRahamatpur/XIII, Part No. 69/50\n(SC\nMouza-Rahamatpur ,J.L.No-40 13 13 , (S.C) 13 ,\nWomen)\n(i) Rahamatpur Purbapara\nRahamatpur/XIV, Part No. 69/51\nMouza-Rahamatpur ,J.L.No-40\n14 14 , (Women)\n(i) Madhyapara\n(ii) Daspara\nRahamatpur/XV, Part No. 69/52\nMouza-Mahishbathan ,J.L.No-41\n(i) Sarderpara 15, 16 15 , (S.C)\n(ii) Daspara\n(iii) Sahapara\nRahamatpur/XVI, Part No. 69/53\nMouza-Mahishbathan ,J.L.No-41\n17\n(i) Gazipara\n(ii) Dobapara\nRahamatpur/XVII, Part No. 69/54\nMouza-Mahishbathan ,J.L.No-41\n(i) Palpara 18 18 , (Women)\n(ii)Ghoshpara\n(iii) Dakshinangshapara\nRahamatpur/XVIII, Part No. 69/55\nMouza-Mahishbathan ,J.L.No-41\n19\n(i) Bilparpara\n(ii)Ramkrishnapurpara\nRahamatpur/XIX, Part No. 69/56\nMouza-Mahishbathan ,J.L.No-41\n20, 21\n(i)Paschimpara\n(ii)Uttarpara\nDate : 07.02.2008\nDistrict Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\nFORM - A of Rahamatpur G.P. Page 2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            54.47543460000003,
+            553.1949654,
+            489.9192
+          ],
+          "rows": [
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Rahamatpur",
+              "",
+              "",
+              "",
+              "",
+              "Rahamatpur/XII, Part No. 69/49\nMouza-Rahamatpur ,J.L.No-40\n(i) Sukanta Colony\n(ii) Rahamatpur Colony\n(iii) Natun Colony",
+              "12",
+              "12 , (S.C)",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/XIII, Part No. 69/50\nMouza-Rahamatpur ,J.L.No-40\n(i) Rahamatpur Purbapara",
+              "13",
+              "13 , (S.C)",
+              "(SC\n13 ,\nWomen)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/XIV, Part No. 69/51\nMouza-Rahamatpur ,J.L.No-40\n(i) Madhyapara\n(ii) Daspara",
+              "14",
+              "",
+              "14 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/XV, Part No. 69/52\nMouza-Mahishbathan ,J.L.No-41\n(i) Sarderpara\n(ii) Daspara\n(iii) Sahapara",
+              "15, 16",
+              "15 , (S.C)",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/XVI, Part No. 69/53\nMouza-Mahishbathan ,J.L.No-41\n(i) Gazipara\n(ii) Dobapara",
+              "17",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/XVII, Part No. 69/54\nMouza-Mahishbathan ,J.L.No-41\n(i) Palpara\n(ii)Ghoshpara\n(iii) Dakshinangshapara",
+              "18",
+              "",
+              "18 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/XVIII, Part No. 69/55\nMouza-Mahishbathan ,J.L.No-41\n(i) Bilparpara\n(ii)Ramkrishnapurpara",
+              "19",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Rahamatpur/XIX, Part No. 69/56\nMouza-Mahishbathan ,J.L.No-41\n(i)Paschimpara\n(ii)Uttarpara",
+              "20, 21",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1012
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

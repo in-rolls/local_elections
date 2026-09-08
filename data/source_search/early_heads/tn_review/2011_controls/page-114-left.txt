@@ -1,0 +1,56 @@
+MADURAI
+Village Pancha
+Reservation of Seats for Scheduled Caste/Scheduled Tribes an
+Sta
+Category to which reservation is
+Sl. No Name of the Village Panchayat
+made
+1 2 3
+Madurai East Panchayat Union
+1 Mangulam SC (Women)
+2 Pudhuthamaraipatti SC (Women)
+3 Illangiyendal SC (Women)
+4 Thamaraipatti SC (General)
+5 Thindiyur SC (General)
+6 Kalimangalam SC (General)
+7 Ilamanoor SC (General)
+8 Kodikulam General (Women)
+9 Kallandhiri General (Women)
+10 Narasingam' General (Women)
+11 Sakkimangalam General (Women)
+12 Andar Kottaram General (Women)
+13 Sakudi General (Women)
+14 Thirumohur General (Women)
+15 Chinnamangulam General (Women)
+16 Poolampatti General
+17 Idayapatti General
+18 Angadimangalam General
+19 Kathakinaru General
+20 Velliyankundram General
+21 Rajakoor General
+22 Arumbanur General
+23 Isalani General
+24 Karcheri General
+25 Kunnathur General
+26 Ayilangudi General
+27 Poyyakaraipatti General
+28 Karuppayurani General
+29 Kuruthur General
+30 Meenatchipuram General
+31 Mathur General
+32 Varichur General
+33 Pudhupatti General
+34 Panaikulam General
+35 Othakadai General
+36 Porusupatti General
+Madurai West Panchayat Union
+1 Kavanur SC (Women)
+2 Boothagudi SC (Women)
+3 Karuvanur SC (General)
+4 Kulamangalam SC (General)
+5 Kodimangalam SC (General)
+6 Veerapandi SC (General)
+7 Ambalathadi General (Women)
+8 Chatrapatti General (Women)
+9 Manjampatti General (Women)
+Page 112

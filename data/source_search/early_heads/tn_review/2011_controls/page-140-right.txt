@@ -1,0 +1,43 @@
+1 2 3
+Singampunari Panchayat Union Contd..
+12 S - S.Kottai General (Women)
+13 Aralikottai General
+14 Vadavanpatti General
+15 A - Melaiyur General
+16 S - Sevalpatti General
+17 M - Soorakudi General
+18 Kozhikudipatti General
+19 A - Kalapoor General
+20 Vagutheluvanpatti General
+21 D - Mampatti General
+22 S - Mathur General
+23 Kirungakottai General
+24 Oduvanpatti General
+25 Kannamangalapatti General
+26 Mallakottai General
+27 SV - Mangalam General
+28 Sivapuripatti General
+29 Melapatti General
+30 Eriyur General
+S - Pudur Panchayat Union
+1 Musundapatti SC(Women)
+2 S - Pudur SC(Women)
+3 Karisalpatti SC(General)
+4 Ulagampatti SC(General)
+5 Puluthipatti General (Women)
+6 K - Neduvayal General (Women)
+7 Manthakudipatti General (Women)
+8 K - Pudupatti General (Women)
+9 Dharmapatti Kondapalayam General (Women)
+10 Kulathupatti General
+11 Chettikurichi General
+12 Ganapathypatti General
+13 Kilavayal General
+14 Kunnathur General
+15 Manaloor General
+16 Melavannariruppu General
+17 Minnamalaipatti General
+18 Urathupatti General
+19 Piranpatti General
+20 Valasaipatti General
+21 Warappur General

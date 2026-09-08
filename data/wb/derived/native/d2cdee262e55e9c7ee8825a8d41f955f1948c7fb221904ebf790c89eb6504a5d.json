@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "sha256": "d2cdee262e55e9c7ee8825a8d41f955f1948c7fb221904ebf790c89eb6504a5d",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.22,
+      "height": 842,
+      "text": "Information on P.R.Institutions & Panchayat members including SC,\nST, Women in W.B. after General Panchayat Elections, 2003.\nName of No. of No. of No. of No. of No. of No. of\nDistrict Gram Gram Seats/ Panchay Seats/ Seats/\nSansad Panchay Members at Samiti Members Membe\nat in GP in PS rs in\nZP/MP\n(1) (2) (3) (4) (5) (6) (7)\nBirbhum 2096 167 2258 19 412 35\nInformation on Directly Elected SC, ST Male & Female Members of\nGram Panchayat\nName of District Male Members Female Members\nSC ST GEN Total SC ST GEN Total\nBirbhum 510 121 783 1414 287 70 487 844\nInformation on Directly Elected SC, ST Male & Female Members of\nPanchayat Samiti\nName of District Male Members Female Members\nSc ST GEN Total SC ST GEN Total\nBirbhum 86 23 153 262 52 11 87 150\nInformation on Directly Elected SC, ST Male & Female Members of\nZilla Parishad\nName of District Male Members Female Members\nSC ST GEN Total SC ST GEN Total\nBirbhum 07 02 14 23 04 01 07 12",
+      "tables": [
+        {
+          "bbox": [
+            53.99928539999999,
+            136.6786346,
+            521.9997654,
+            250.7986346
+          ],
+          "rows": [
+            [
+              "Name of\nDistrict",
+              "No. of\nGram\nSansad",
+              "No. of\nGram\nPanchay\nat",
+              "No. of\nSeats/\nMembers\nin GP",
+              "No. of\nPanchay\nat Samiti",
+              "No. of\nSeats/\nMembers\nin PS",
+              "No. of\nSeats/\nMembe\nrs in\nZP/MP"
+            ],
+            [
+              "(1)",
+              "(2)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)",
+              "(7)"
+            ],
+            [
+              "Birbhum",
+              "2096",
+              "167",
+              "2258",
+              "19",
+              "412",
+              "35"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            53.99928539999999,
+            347.8786346,
+            548.9997654,
+            397.6786346
+          ],
+          "rows": [
+            [
+              "Name of District",
+              "Male Members",
+              null,
+              null,
+              null,
+              "Female Members",
+              null,
+              null,
+              null
+            ],
+            [
+              "",
+              "SC",
+              "ST",
+              "GEN",
+              "Total",
+              "SC",
+              "ST",
+              "GEN",
+              "Total"
+            ],
+            [
+              "Birbhum",
+              "510",
+              "121",
+              "783",
+              "1414",
+              "287",
+              "70",
+              "487",
+              "844"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            53.99928539999999,
+            517.7986346,
+            548.9997654,
+            579.1186346000001
+          ],
+          "rows": [
+            [
+              "Name of District",
+              "Male Members",
+              null,
+              null,
+              null,
+              "Female Members",
+              null,
+              null,
+              null
+            ],
+            [
+              "",
+              "Sc",
+              "ST",
+              "GEN",
+              "Total",
+              "SC",
+              "ST",
+              "GEN",
+              "Total"
+            ],
+            [
+              "Birbhum",
+              "86",
+              "23",
+              "153",
+              "262",
+              "52",
+              "11",
+              "87",
+              "150"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            53.99928539999999,
+            678.4786346,
+            548.9997654,
+            728.2791146000001
+          ],
+          "rows": [
+            [
+              "Name of District",
+              "Male Members",
+              null,
+              null,
+              null,
+              "Female Members",
+              null,
+              null,
+              null
+            ],
+            [
+              "",
+              "SC",
+              "ST",
+              "GEN",
+              "Total",
+              "SC",
+              "ST",
+              "GEN",
+              "Total"
+            ],
+            [
+              "Birbhum",
+              "07",
+              "02",
+              "14",
+              "23",
+              "04",
+              "01",
+              "07",
+              "12"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 954
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 1
+}

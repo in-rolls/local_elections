@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "sha256": "a400cbf6201e85a51890710a810aec406aa7065854836c13591cd05bc883ead8",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(FORM - A1)\nBlock: Ranaghat-1\nNumber of members to be elected in the Gram\nTotal Scheduled Scheduled\nName of Gram\nnumber of Castes Tribes Women\nmembers members members members\n1 (2a) (2b) (2c) (2d)\nTarapur 7 1 (One) Nil 3(Three)\nSeats Seats reserved Seats\nallocated to for Scheduled reserved for\neach Castes or women\nconstituency Scheduled against serial\nwith serial Tribes against number of\nnumbers serial number seats\nNumber, name and area of constituencies with\nof seats\nserial numbers\n3 4 5 6\nTarapur/I\na) Gazipur Uttarpara 1 1 Women\n(Mouza Gizipur J.L. No. 118)\nb) Gazipur Madhyapara\n(Mouza Gazipur J.L. No. 118)\nc) Gazipur Sadar\n(Mouza Gazipur J.L. No. 118)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P. –Tarapur\nAssembly Part No.-81/126\nTarapur/II\na) Kasinathpur Purbapara 2 2 SC 2 SC(W)\n(Mouza Gazipur J.L. No. 118)\nb) Kasinathpur Uttarpara\n(Mouza Gazipur J.L. No. 118)\nc) Kasinathpur Dakshinpara\n(Mouza Gazipur J.L. No. 118)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P. –Tarapur\nPart No.-81/127\nTarapur/III\na) Purbatarapur Paschimpara 3\n(Mouza Tarapur J.L. No. 119)\nb) Purbatarapur Uttarpara\n(Mouza Tarapur J.L. No. 119)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P. –Tarapur\nPart No.-81/128\nPage 1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            49.476600000000005,
+            77.32161360000002,
+            527.1567428571428,
+            166.45565850000003
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total\nnumber of\nmembers",
+              "Scheduled\nCastes\nmembers",
+              "Scheduled\nTribes\nmembers",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Tarapur",
+              "7",
+              "1 (One)",
+              "Nil",
+              "3(Three)"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            49.476600000000005,
+            224.98080000000004,
+            479.9047463999999,
+            722.3399999999999
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with\nserial numbers",
+              "Seats\nallocated to\neach\nconstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled\nTribes against\nserial number\nof seats",
+              "Seats\nreserved for\nwomen\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Tarapur/I\na) Gazipur Uttarpara\n(Mouza Gizipur J.L. No. 118)\nb) Gazipur Madhyapara\n(Mouza Gazipur J.L. No. 118)\nc) Gazipur Sadar\n(Mouza Gazipur J.L. No. 118)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P. –Tarapur\nAssembly Part No.-81/126",
+              "1",
+              "",
+              "1 Women"
+            ],
+            [
+              "Tarapur/II\na) Kasinathpur Purbapara\n(Mouza Gazipur J.L. No. 118)\nb) Kasinathpur Uttarpara\n(Mouza Gazipur J.L. No. 118)\nc) Kasinathpur Dakshinpara\n(Mouza Gazipur J.L. No. 118)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P. –Tarapur\nPart No.-81/127",
+              "2",
+              "2 SC",
+              "2 SC(W)"
+            ],
+            [
+              "Tarapur/III\na) Purbatarapur Paschimpara\n(Mouza Tarapur J.L. No. 119)\nb) Purbatarapur Uttarpara\n(Mouza Tarapur J.L. No. 119)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P. –Tarapur\nPart No.-81/128",
+              "3",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1164
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Tarapur/IV\na) Purbatarapur Dakshinpara 4\n(Mouza Tarapur J.L. No. 119)\nb) Purbatarapur Madhyapara\n(Mouza Tarapur J.L. No. 119)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P. –Tarapur\nPart No.-81/129\nTarapur/V\na) Paschim Tarapur Dakshinpara 5 5 Women\nb) Paschim Tarapur Dakshinpara (Dangapara)\nc) Paschim Tarapur Paschimpara\nd) Paschim Tarapur Uttarpara\n(Mouza Tarapur J.L. No. 119)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P. –Tarapur\nPart No.-81/130\nTarapur/VI\na) Jhaumahal (Fully) 6\n(Mouza-Jhaumahal, J.L. No 191)\nb) Girish Nagar (Fully)\n(Mouza- Girish Nagar, J.L. No 120)\nc) Suresh Nagar Uttarpara\nd) Suresh Nagar Dakshinpara\ne) Suresh Nagar Madhyapara\n(Mouza- Suresh Nagar, J.L. No 192) 7\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P. –Tarapur\nPart No.-81/131\nDated: 07/02/2008 District Panchayat Election Officer\n&\nDistict Magistrate Nadia\nPage 2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            49.4366,
+            30.95759999999999,
+            479.960722,
+            343.5312
+          ],
+          "rows": [
+            [
+              "Tarapur/IV\na) Purbatarapur Dakshinpara\n(Mouza Tarapur J.L. No. 119)\nb) Purbatarapur Madhyapara\n(Mouza Tarapur J.L. No. 119)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P. –Tarapur\nPart No.-81/129",
+              "4",
+              "",
+              ""
+            ],
+            [
+              "Tarapur/V\na) Paschim Tarapur Dakshinpara\nb) Paschim Tarapur Dakshinpara (Dangapara)\nc) Paschim Tarapur Paschimpara\nd) Paschim Tarapur Uttarpara\n(Mouza Tarapur J.L. No. 119)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P. –Tarapur\nPart No.-81/130",
+              "5",
+              "",
+              "5 Women"
+            ],
+            [
+              "Tarapur/VI\na) Jhaumahal (Fully)\n(Mouza-Jhaumahal, J.L. No 191)\nb) Girish Nagar (Fully)\n(Mouza- Girish Nagar, J.L. No 120)\nc) Suresh Nagar Uttarpara\nd) Suresh Nagar Dakshinpara\ne) Suresh Nagar Madhyapara\n(Mouza- Suresh Nagar, J.L. No 192)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P. –Tarapur\nPart No.-81/131",
+              "6",
+              "",
+              ""
+            ],
+            [
+              null,
+              "7",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 824
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

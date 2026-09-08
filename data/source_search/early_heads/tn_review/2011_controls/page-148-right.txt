@@ -1,0 +1,50 @@
+1 2 3
+UDANGUDI PANCHAYAT UNION
+1 Paraman Kurichi SC(Women)
+2 Kuthiraimozhi SC(General)
+3 Athiyakurichi General(Women)
+4 Chettiapathu General(Women)
+5 Lakshimipuram General(Women)
+6 Mathavankurichi General(Women)
+7 Vellanvilai General(Women)
+8 Kulasekaran Pattinam General
+9 Manadu Thandupathu General
+10 Manappadu General
+11 Meignanapuram General
+12 Nainapathu General
+13 Nangaimozhi General
+14 Seerukatchi General
+15 Semmarikulam General
+16 Sirunadar Kudieruppu General
+17 Venkattaramanujapuram General
+SATHNKULAM PANCHAYAT UNION
+1 Pannamparai SC(Women)
+2 Pidaneri SC(General)
+3 Alagappapuram General(Women)
+4 Arasoor General(Women)
+5 Komaneri General(Women)
+6 Kombankulam General(Women)
+7 Mudalur General(Women)
+8 Pazhankulam General(Women)
+9 Thatchamozhi General(Women)
+10 Amuthunnakkudi General
+11 Ezhuvaraimukki General
+12 Kommadikkottai General
+13 Naduvakkurichi General
+14 Nedunkulam General
+15 Padukkapattu General
+16 Pallakkurichi General
+17 Pandarapuram General
+18 Periyathazhai General
+19 Pudukulam General
+20 Sasthavinallur General
+21 Settikulam General
+22 Subbarayapuram General
+23 Thamaraimozhi General
+24 Thiruppani Puthantharuvai General
+KOVILPATTI PANCHAYAT UNION
+1 Iluppaiyoorani SC(Women)
+2 Keela Eral SC(Women)
+3 Varathampatti SC(Women)
+4 Ayyakottaiyur SC(General)
+5 Idaiseval SC(General)

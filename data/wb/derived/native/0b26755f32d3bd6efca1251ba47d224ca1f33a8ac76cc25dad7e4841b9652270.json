@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "sha256": "0b26755f32d3bd6efca1251ba47d224ca1f33a8ac76cc25dad7e4841b9652270",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE-A\nBLOCK : TEHATTA - I\nSeats reserved\nNumber of members to be elected in the\nSeats\nfor Schedule Seats reserved\nGram Pamchayat allocated to\nCaste or for Women\nNumber, name & area of each\nName of Gram Total No. Schedule Schedule Schedule Tribe against serial\nWomen constituencies with serial numbers constituency\nof Castes Tribes against serial number of\nmembers with serial\nmembers Members members number of Seats.\nnumber\nSeats\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nPatharghata-I/I Part No. 73/56\nMouza-Patharghat, J.L. No. 113\nPatharghata-I 10 Nil Nil 4 1 - 1,Women\na) Maliapota Paschim Para\nb) Maliapota Khal Par\nPatharghata-I/II Part No. 73/57\nMouza-Patharghat, J.L. No. 113 2 - -\na) Maliapota Khal Para\nPatharghata-I/III Part No. 73/58 3 - -\nMouza-Patharghat, J.L. No. 113\n4 - 4, Women\na) Maliapota Purba Para\nPatharghata-I/IV Part No. 73/59\nMouza-Patharghat, J.L. No. 113 5 - -\na) Paschim Gobindapur\nPatharghata-I/V Part No. 73/60\nMouza-Patharghat, J.L. No. 113 6 - -\na) Purbagobindapur\nPatharghata-I/VI Part No. 73/61\nMouza-Patharghat, J.L. No. 113 7 - 7, Women\na) Purbagobindapur (Dakshin)\nPatharghata-I/VII Part No. 73/62\nMouza-Patharghat, J.L. No. 113\na) Patharghata Purbapara 8 - -\nb) Patharghata Majher Para\nc) Patharghata Beltalapara\nPatharghata-I/VIII Part No. 73/63\n9 - -\nMouza-Patharghat, J.L. No. 113\na) Patharghata Paschimpara\n10 - 10,Women\nb) Patharghata Dakshin Para\nDate : 07/02/2008 District Panchayat Election Officer\n& District Magistrate, Nadia\n1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            36.454679999999996,
+            59.550842999999986,
+            719.441883,
+            503.596683
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the\nGram Pamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of\nconstituencies with serial numbers",
+              "Seats\nallocated to\neach\nconstituency\nwith serial\nnumber",
+              "Seats reserved\nfor Schedule\nCaste or\nSchedule Tribe\nagainst serial\nnumber of\nSeats",
+              "Seats reserved\nfor Women\nagainst serial\nnumber of\nSeats."
+            ],
+            [
+              null,
+              "Total No.\nof\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Patharghata-I",
+              "10",
+              "Nil",
+              "Nil",
+              "4",
+              "Patharghata-I/I Part No. 73/56\nMouza-Patharghat, J.L. No. 113\na) Maliapota Paschim Para\nb) Maliapota Khal Par",
+              "1",
+              "-",
+              "1,Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Patharghata-I/II Part No. 73/57\nMouza-Patharghat, J.L. No. 113\na) Maliapota Khal Para",
+              "2",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Patharghata-I/III Part No. 73/58\nMouza-Patharghat, J.L. No. 113\na) Maliapota Purba Para",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "4",
+              "-",
+              "4, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Patharghata-I/IV Part No. 73/59\nMouza-Patharghat, J.L. No. 113\na) Paschim Gobindapur",
+              "5",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Patharghata-I/V Part No. 73/60\nMouza-Patharghat, J.L. No. 113\na) Purbagobindapur",
+              "6",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Patharghata-I/VI Part No. 73/61\nMouza-Patharghat, J.L. No. 113\na) Purbagobindapur (Dakshin)",
+              "7",
+              "-",
+              "7, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Patharghata-I/VII Part No. 73/62\nMouza-Patharghat, J.L. No. 113\na) Patharghata Purbapara\nb) Patharghata Majher Para\nc) Patharghata Beltalapara",
+              "8",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Patharghata-I/VIII Part No. 73/63\nMouza-Patharghat, J.L. No. 113\na) Patharghata Paschimpara\nb) Patharghata Dakshin Para",
+              "9",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "10",
+              "-",
+              "10,Women"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1429
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "2 of 2",
+      "tables": [],
+      "images": 0,
+      "characters": 6
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

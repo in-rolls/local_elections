@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "sha256": "6e995525d640d1e97ca96b417f1d6c895c1b42fca753b8a98ff042276afdd851",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A 1)\nBlock : Chakdaha\nNumber of members to be elected in the Gram Panchayat\nName of Gram Scheduled Caste Scheduled Tribe Women\nTotal number of members\nmembers Members members\n1 (2a) (2b) (2c) (2d)\nChanduria -II 5 3 NIL 2\nSeats reserved\nSeats allocated for Scheduled Seats reserved\nNumber, name and area of constituencies with serial to each Caste or for women\nnumbers constituency with Scheduled Tribe against serial\nserial numbers against serial number of seats\nnumber of seats\n3 4 5 6\nChanduria -II/I\nMouza - Charjirat J.L No - 27\n(a) High Schoolpara\n1 1 SC 1 SCW\n(b) Balapara\n(c) Charjirat Madhyapara\nPart No. -82/16\nChanduria -II/II\nMouza - Raninagar J.L No - 25\n(a) Raninagar 2 -- 2 W\n(b) Supreme Paper Mills Quarters\nPart No. -82/17\nChanduria -II/III\nMouza - Charjirat J.L No - 27\n(a) Malopara Partly (Dakshin Paschim) 3 3 SC --\n(b) Malopara Partly (Uttar Paschim )\nPart No. -82/18\nChanduria -II/IV\nMouza - Srikrishnapur Char J.L No - 189\n(a) Bablatala\n4,5 4 SC --\n(b) Natunpara\n(c) Biswaspara\nPart No. -82/19\nDate:07.02.2008 District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            54.51612,
+            109.55160000000006,
+            545.0352,
+            171.34560000000005
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of members",
+              "Scheduled Caste\nmembers",
+              "Scheduled Tribe\nMembers",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Chanduria -II",
+              "5",
+              "3",
+              "NIL",
+              "2"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            54.51612,
+            183.70463460000002,
+            545.0352,
+            551.4744000000001
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial\nnumbers",
+              "Seats allocated\nto each\nconstituency with\nserial numbers",
+              "Seats reserved\nfor Scheduled\nCaste or\nScheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Chanduria -II/I\nMouza - Charjirat J.L No - 27\n(a) High Schoolpara\n(b) Balapara\n(c) Charjirat Madhyapara\nPart No. -82/16",
+              "1",
+              "1 SC",
+              "1 SCW"
+            ],
+            [
+              "Chanduria -II/II\nMouza - Raninagar J.L No - 25\n(a) Raninagar\n(b) Supreme Paper Mills Quarters\nPart No. -82/17",
+              "2",
+              "--",
+              "2 W"
+            ],
+            [
+              "Chanduria -II/III\nMouza - Charjirat J.L No - 27\n(a) Malopara Partly (Dakshin Paschim)\n(b) Malopara Partly (Uttar Paschim )\nPart No. -82/18",
+              "3",
+              "3 SC",
+              "--"
+            ],
+            [
+              "Chanduria -II/IV\nMouza - Srikrishnapur Char J.L No - 189\n(a) Bablatala\n(b) Natunpara\n(c) Biswaspara\nPart No. -82/19",
+              "4,5",
+              "4 SC",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1931
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 1
+}

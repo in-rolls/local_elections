@@ -1,0 +1,452 @@
+{
+  "version": 1,
+  "sha256": "1da8291e9ca16f2d733b78358f288cdad36f571c10531adf5636910100766f73",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "SREBMEM\nFO\nREBMUN\nLATOT\nSREBMEM\nSETSAC\nELUDEHCS\nSREBMEM\nSEBIRT\nELUDEHCS\nSREBMEM\nNEMOW\nFORM A1\n1 2A 2B 2C 2D 3 4 5 6\nPalsunda-II/I Part No.-70/102\na) Purba Bareya Digbareya, Mouza-Digbareya,\nJ.L.No.-13 1 - 1 (W)\nb) Purba Bareya Musalmanpara, Mouza-Bareya,\nJ.L.No.-8\nPalsunda- II/II Part No.-70/103\na) Purba Bareya Hindupara Mouza-Bareya, J.L.No.-\n8\n8 2\nb) Bareya Kharermath, Mouza-Bareya,\n3 - -\nJ.L.No.-8\nPalsunda-II/III Part No.-70/104\na) Paschim Bareya Musalmanpara, Mouza-Bareya,\nJ.L.No.-8\nb) Purba Bareya Daspara, Mouza-Bareya,\nJ.L.No.-8\nc) Paschim Bareya Hindupara, Mouza-Bareya,\nJ.L.No.-8\nMARG\nFO\nEMAN\nNUMBER OF\nMEMBERS TO BE\nELECTED IN THE\nGRAM PANCHAYAT\nNUMBER , NAME & AREA OF CONSTITUENCIES\nWITH SERIAL NUMBERS.\nHCAE\nOT\nDETACOLLA\nSTAES\nSREBMUN\nLAIRES\nHTIW\nYCNEUTITSNOC\nDELUDEHCS\nROF\nDEVRESER\nSTAES\nSEBIRT\nDELUDEHCS\nRO\nSETSAC\nSTAES\nFO\nREBMUN\nLAIRES\nTSNIAGA\nNEMOW\nROF\nDEVRESER\nSTAES\nSTAES\nFO\n.REBMUN\n. LAIRES\nTSNIAGA\nThe Schedule\nTehatta-II\n2 2 SC 2 SC (W)\n0 3\n4 - -\nd) Paschim Bareya Daspara, Mouza-Bareya,\nJ.L.No.-8\n1 of 2\nII\n-\nadnuslaP",
+      "tables": [
+        {
+          "bbox": [
+            54.39174299999999,
+            125.20211700000004,
+            543.010083,
+            676.087317
+          ],
+          "rows": [
+            [
+              "MARG\nFO\nEMAN",
+              "NUMBER OF\nMEMBERS TO BE\nELECTED IN THE\nGRAM PANCHAYAT",
+              null,
+              null,
+              null,
+              "NUMBER , NAME & AREA OF CONSTITUENCIES\nWITH SERIAL NUMBERS.",
+              null,
+              null,
+              "SREBMUN\nHCAE\nLAIRES\nOT\nDETACOLLA\nHTIW\nYCNEUTITSNOC\nSTAES",
+              "DELUDEHCS STAES\nSEBIRT\nFO\nDELUDEHCS REBMUN\nROF\nDEVRESER\nLAIRES\nRO\nSETSAC\nTSNIAGA\nSTAES",
+              "STAES\nNEMOW\nFO\n.REBMUN\nROF\nDEVRESER\n.\nLAIRES\nSTAES\nTSNIAGA"
+            ],
+            [
+              null,
+              "SREBMEM\nFO\nREBMUN\nLATOT",
+              "SREBMEM\nSETSAC\nELUDEHCS",
+              "SREBMEM\nSEBIRT\nELUDEHCS",
+              "SREBMEM\nNEMOW",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2A",
+              "2B",
+              "2C",
+              "2D",
+              "3",
+              null,
+              null,
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "II\n-\nadnuslaP",
+              "8",
+              "2",
+              "0",
+              "3",
+              "Palsunda-II/I",
+              "Part No.-70/102",
+              "",
+              "1",
+              "-",
+              "1 (W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Purba Bareya Digbareya, Mouza-Digbareya,\nJ.L.No.-13",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "b) Purba Bareya Musalmanpara, Mouza-Bareya,\nJ.L.No.-8",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Palsunda- II/II",
+              "Part No.-70/103",
+              "",
+              "2\n3",
+              "2 SC\n-",
+              "2 SC (W)\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Purba Bareya Hindupara Mouza-Bareya, J.L.No.-\n8",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "b) Bareya Kharermath, Mouza-Bareya,\nJ.L.No.-8",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Palsunda-II/III",
+              "Part No.-70/104",
+              "",
+              "4",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Paschim Bareya Musalmanpara, Mouza-Bareya,\nJ.L.No.-8",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "b) Purba Bareya Daspara, Mouza-Bareya,\nJ.L.No.-8",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "c) Paschim Bareya Hindupara, Mouza-Bareya,\nJ.L.No.-8",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "d) Paschim Bareya Daspara, Mouza-Bareya,\nJ.L.No.-8",
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1037
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "SREBMEM\nFO\nREBMUN\nLATOT\nSREBMEM\nSETSAC\nELUDEHCS\nSREBMEM\nSEBIRT\nELUDEHCS\nSREBMEM\nNEMOW\n1 2A 2B 2C 2D 3 4 5 6\nMARG\nFO\nEMAN\nNUMBER OF\nMEMBERS TO BE\nELECTED IN THE\nGRAM PANCHAYAT\nNUMBER , NAME & AREA OF CONSTITUENCIES\nWITH SERIAL NUMBERS.\nHCAE\nOT\nDETACOLLA\nSTAES\nSREBMUN\nLAIRES\nHTIW\nYCNEUTITSNOC\nDELUDEHCS\nROF\nDEVRESER\nSTAES\nSEBIRT\nDELUDEHCS\nRO\nSETSAC\nSTAES\nFO\nREBMUN\nLAIRES\nTSNIAGA\nNEMOW\nROF\nDEVRESER\nSTAES\nSTAES\nFO\n.REBMUN\n. LAIRES\nTSNIAGA\nPalsunda-II/IV Part No.-70/105\n5 - 5 (W)\na) Purba Dhawapara Dakshinpara, Mouza-\nDhawapara, J.L.No.-7\nb) Purba Dhawapara Madhyapara,\nMouza-Dhawapara, J.L.No.-7\n6 - -\nc) Purba Dhawapara Uttarpara, Mouza-Dhawapara,\nJ.L.No.-7\nPalsunda-II/V Part No.-70/106\na) Purba Dhawapara Dakshinpara, Mouza- 7 7 SC -\nDhawapara, J.L.No.-7\nb) Paschim Dhawapara Dakshinpara, Mouza-\nDhawapara, J.L.No.-7\nc) Paschim Dhawapara Madhyapara,\nMouza-Dhawapara, J.L.No.-7\n8 - -\nd) Paschim Dhawapara Uttarpara, Mouza-\nDhawapara, J.L.No.-7\nDistrict Panchayat Election Oficer &\nDate- 07.02.2008 District Magistrate, Nadia\n2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            54.39174299999999,
+            72.46811699999995,
+            543.010083,
+            596.900517
+          ],
+          "rows": [
+            [
+              "MARG\nFO\nEMAN",
+              "NUMBER OF\nMEMBERS TO BE\nELECTED IN THE\nGRAM PANCHAYAT",
+              null,
+              null,
+              null,
+              "NUMBER , NAME & AREA OF CONSTITUENCIES\nWITH SERIAL NUMBERS.",
+              null,
+              null,
+              "SREBMUN\nHCAE\nLAIRES\nOT\nDETACOLLA\nHTIW\nYCNEUTITSNOC\nSTAES",
+              "DELUDEHCS STAES\nSEBIRT\nFO\nDELUDEHCS REBMUN\nROF\nDEVRESER\nLAIRES\nRO\nSETSAC\nTSNIAGA\nSTAES",
+              "STAES\nNEMOW\nFO\n.REBMUN\nROF\nDEVRESER\n.\nLAIRES\nSTAES\nTSNIAGA"
+            ],
+            [
+              null,
+              "SREBMEM\nFO\nREBMUN\nLATOT",
+              "SREBMEM\nSETSAC\nELUDEHCS",
+              "SREBMEM\nSEBIRT\nELUDEHCS",
+              "SREBMEM\nNEMOW",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2A",
+              "2B",
+              "2C",
+              "2D",
+              "3",
+              null,
+              null,
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Palsunda-II/IV",
+              "Part No.-70/105",
+              "",
+              "5\n6",
+              "-\n-",
+              "5 (W)\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Purba Dhawapara Dakshinpara, Mouza-\nDhawapara, J.L.No.-7",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "b) Purba Dhawapara Madhyapara,\nMouza-Dhawapara, J.L.No.-7",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "c) Purba Dhawapara Uttarpara, Mouza-Dhawapara,\nJ.L.No.-7",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Palsunda-II/V",
+              "Part No.-70/106",
+              "",
+              "7\n8",
+              "7 SC\n-",
+              "-\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Purba Dhawapara Dakshinpara, Mouza-\nDhawapara, J.L.No.-7",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "b) Paschim Dhawapara Dakshinpara, Mouza-\nDhawapara, J.L.No.-7",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "c) Paschim Dhawapara Madhyapara,\nMouza-Dhawapara, J.L.No.-7",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "d) Paschim Dhawapara Uttarpara, Mouza-\nDhawapara, J.L.No.-7",
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1043
+    },
+    {
+      "page": 3,
+      "width": 792,
+      "height": 612,
+      "text": "TOTAL NUMBER OF MEMBERS\nSCHEDULE CASTES MEMBERS\nSCHEDULE TRIBES MEMBERS\nWOMEN MEMBERS\n1\n2A\n2B\n2C\n2D\n3\n4\n5\n6\nNAME OF GRAM\nWITH\nSERIAL\nNUMBERS.\nNUMBER\n,\nNAME\n&\nAREA\nOF\nCONSTITUENCIES\nGRAM\nPANCHAYAT\nELECTED\nIN\nTHE\nMEMBERS\nTO\nBE\nNUMBER\nOF\nSEATS ALLOCATED TO EACH\nCONSTITUENCY WITH SERIAL NUMBERS\nSEATS RESERVED FOR SCHEDULED\nCASTES OR SCHEDULED TRIBES\nAGAINST SERIAL NUMBER OF SEATS\nSEATS RESERVED FOR WOMEN\nAGAINST SERIAL . NUMBER. OF SEATS",
+      "tables": [
+        {
+          "bbox": [
+            460.55508299999997,
+            54.39174300000002,
+            719.5318830000001,
+            543.010083
+          ],
+          "rows": [
+            [
+              "1",
+              "NAME OF GRAM",
+              null
+            ],
+            [
+              "2A",
+              "TOTAL NUMBER OF MEMBERS",
+              "GRAM\nELECTED MEMBERS\nNUMBER\nPANCHAYAT\nIN\nTO\nOF\nTHE\nBE"
+            ],
+            [
+              "2B",
+              "SCHEDULE CASTES MEMBERS",
+              null
+            ],
+            [
+              "2C",
+              "SCHEDULE TRIBES MEMBERS",
+              null
+            ],
+            [
+              "2D",
+              "WOMEN MEMBERS",
+              null
+            ],
+            [
+              "3",
+              "NUMBER\n,\nWITH NAME\nSERIAL &\nAREA\nNUMBERS. OF\nCONSTITUENCIES",
+              null
+            ],
+            [
+              "4",
+              "SEATS ALLOCATED TO EACH\nCONSTITUENCY WITH SERIAL NUMBERS",
+              null
+            ],
+            [
+              "5",
+              "SEATS RESERVED FOR SCHEDULED\nCASTES OR SCHEDULED TRIBES\nAGAINST SERIAL NUMBER OF SEATS",
+              null
+            ],
+            [
+              "6",
+              "SEATS RESERVED FOR WOMEN\nAGAINST SERIAL . NUMBER. OF SEATS",
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 435
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

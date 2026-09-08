@@ -1,0 +1,49 @@
+THOOTHUKUD
+VILLAGE PANCHAY
+Reservation of Seats for Scheduled Caste/ Scheduled Trib
+Nadu
+Sl. Category to which
+Name of the Village Panchayat
+No. reservation is made
+1 2 3
+THOOTHUKUDI PANCHAYAT UNION
+1 Mullakadu SC(Women)
+2 Thimmarajapuram SC(Women)
+3 Dalavaipuram SC(General)
+4 Korampallam SC(General)
+5 Umarikottai SC(General)
+6 Kattalankulam General (Women)
+7 Keela Thattaparai General (Women)
+8 Mappillaiurani General (Women)
+9 Therkku Silukan Patti General (Women)
+10 Vadakku Silukkan Patti General (Women)
+11 Kumaragiri General (Women)
+12 Allikulam General
+13 Ayyandadaippu General
+14 Kootudankadu General
+15 Kulayankarisal General
+16 Maravanmadam General
+17 Mela Thattaparai General
+18 Mudivaithanendal General
+19 Servaikaranmadam General
+20 Varthagareddipatti General
+KARUNGULAM PANCHAYAT UNION
+1 Kaliavoor SC(Women)
+2 Karungulam SC(Women)
+3 Vittilapuram Kovilpathu SC(Women)
+4 Vada Vallanadu SC(General)
+5 Keelaputhaneri SC(General)
+6 Muthalankurichi SC(General)
+7 Singathakurichi SC(General)
+8 Vasavappapuram SC(General)
+9 Arampannai General (Women)
+10 Kalvai General (Women)
+11 Murappanadu Kovilpathu General (Women)
+12 Nanalkadu General (Women)
+13 Sekkarakudi General (Women)
+14 Seythunganallur General (Women)
+15 Vittilapuram General (Women)
+16 Vallanadu Kasba General (Women)
+17 Poovani General
+18 Alanda General
+Page 145

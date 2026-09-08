@@ -1,0 +1,2343 @@
+{
+  "source_file": "data/wb/gp_source_search/historical_expansion/s24pgs_643_Form-1B_Upa-Pradhan_1_752bf64d.pdf",
+  "source_sha256": "2270d40b82f79fb05c96fc7a6b75205d2387407f6364ab0670604be7e2209c33",
+  "review_method": "Independent single-reader visual enumeration of every named caste/category and women cell across complete pinned tables1-6. Counts formed from explicit name lists; existing extraction inspected only after visual counting. No printed counts edited.",
+  "pages_visually_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "pinned_table_paths": [
+    "data/wb/derived/office_native/ocr/2270d40b82f79fb05c96fc7a6b75205d2387407f6364ab0670604be7e2209c33/table-1.png",
+    "data/wb/derived/office_native/ocr/2270d40b82f79fb05c96fc7a6b75205d2387407f6364ab0670604be7e2209c33/table-2.png",
+    "data/wb/derived/office_native/ocr/2270d40b82f79fb05c96fc7a6b75205d2387407f6364ab0670604be7e2209c33/table-3.png",
+    "data/wb/derived/office_native/ocr/2270d40b82f79fb05c96fc7a6b75205d2387407f6364ab0670604be7e2209c33/table-4.png",
+    "data/wb/derived/office_native/ocr/2270d40b82f79fb05c96fc7a6b75205d2387407f6364ab0670604be7e2209c33/table-5.png",
+    "data/wb/derived/office_native/ocr/2270d40b82f79fb05c96fc7a6b75205d2387407f6364ab0670604be7e2209c33/table-6.png"
+  ],
+  "printed_counts_unchanged": {
+    "SC": 75,
+    "ST": 4,
+    "BC": 1,
+    "women": 38
+  },
+  "visual_counts": {
+    "SC": 68,
+    "women": 39,
+    "ST": 4,
+    "BC": 4
+  },
+  "visual_minus_printed": {
+    "SC": -7,
+    "ST": 0,
+    "BC": 3,
+    "women": 1
+  },
+  "page_counts": [
+    {
+      "page": 1,
+      "SC": 6,
+      "ST": 1,
+      "BC": 0,
+      "women": 4
+    },
+    {
+      "page": 2,
+      "SC": 14,
+      "ST": 1,
+      "BC": 0,
+      "women": 9
+    },
+    {
+      "page": 3,
+      "SC": 14,
+      "ST": 1,
+      "BC": 0,
+      "women": 7
+    },
+    {
+      "page": 4,
+      "SC": 14,
+      "ST": 0,
+      "BC": 1,
+      "women": 6
+    },
+    {
+      "page": 5,
+      "SC": 15,
+      "ST": 0,
+      "BC": 1,
+      "women": 9
+    },
+    {
+      "page": 6,
+      "SC": 5,
+      "ST": 1,
+      "BC": 2,
+      "women": 4
+    }
+  ],
+  "positive_mentions_visually_counted": 115,
+  "named_gp_rows_visually_seen": 77,
+  "missing_positive_cells_in_current_extraction": [],
+  "category_disagreements_with_current_extraction": [],
+  "name_spelling_review_items": [
+    {
+      "page": 1,
+      "table_row": 3,
+      "column": 4,
+      "block": "Basanti",
+      "name_visually_read": "Fulmalancha",
+      "category_visually_read": "ST",
+      "source_bbox": [
+        427.58,
+        357.18,
+        649.21,
+        378.78
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "41028e035df65feae562cecb",
+      "extracted_name_at_audit": "Tulmalancha",
+      "extracted_category_at_audit": "ST"
+    },
+    {
+      "page": 1,
+      "table_row": 6,
+      "column": 4,
+      "block": "Gosaba",
+      "name_visually_read": "Kachukhali",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.76,
+        420.3,
+        649.35,
+        441.89
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "3e4fe84602aceff39b5fa063",
+      "extracted_name_at_audit": "Kachukhafi",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 1,
+      "table_row": 8,
+      "column": 4,
+      "block": "Gosaba",
+      "name_visually_read": "Gosaba",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.88,
+        462.37,
+        649.45,
+        484.45
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "0a4ab771610c00d1bc654f64",
+      "extracted_name_at_audit": "Gasaba",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 1,
+      "table_row": 8,
+      "column": 5,
+      "block": "Gosaba",
+      "name_visually_read": "Gosaba",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.4,
+        461.94,
+        819.96,
+        483.9
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "24047be0356a531f7e738ac1",
+      "extracted_name_at_audit": "Gasaba",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 3,
+      "table_row": 14,
+      "column": 4,
+      "block": "Mathurapur-II",
+      "name_visually_read": "Kumrapara",
+      "category_visually_read": "ST",
+      "source_bbox": [
+        427.41,
+        356.23,
+        649.2,
+        377.87
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "5f3ffa21f29730ba7c5fbe9b",
+      "extracted_name_at_audit": "Kunitapara",
+      "extracted_category_at_audit": "ST"
+    },
+    {
+      "page": 4,
+      "table_row": 6,
+      "column": 5,
+      "block": "Baruipur",
+      "name_visually_read": "Sikharbali-I",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.11,
+        189.14,
+        820.0,
+        209.69
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "d506f96b308e38c022b0119b",
+      "extracted_name_at_audit": "Sikharbali-1",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 4,
+      "table_row": 20,
+      "column": 5,
+      "block": "Diamond Harbour-II",
+      "name_visually_read": "Sarisha",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.23,
+        484.03,
+        820.0,
+        505.11
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "c9530a88959f62b01e758e2b",
+      "extracted_name_at_audit": "Sarisha a",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 5,
+      "table_row": 23,
+      "column": 5,
+      "block": "Bishnupur-I",
+      "name_visually_read": "Dakshin Gouripur Chakdhir",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.86,
+        546.47,
+        820.5,
+        567.6
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "99146e012ae95cc15e160469",
+      "extracted_name_at_audit": "Dakshinf§Souripur Chakdhir",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 6,
+      "table_row": 2,
+      "column": 4,
+      "block": "Sonarpur",
+      "name_visually_read": "Kalikapur-I",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        425.91,
+        104.84,
+        647.97,
+        126.02
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "e5f95b6f1ccc6238dd2d9a67",
+      "extracted_name_at_audit": "Kalikapur-t",
+      "extracted_category_at_audit": "SC"
+    }
+  ],
+  "finding": "The visible named lists themselves contain 68 SC, 4 ST, 4 BC and 39 women mentions. Current extraction has all 115 positive cells with the same categories. The residual printed-total discrepancies are source-internal for this six-page document, not missing OCR rows. This does not establish completeness of the official district-wide reservation universe.",
+  "women_only_listing": {
+    "page": 5,
+    "table_row": 13,
+    "column": 5,
+    "block": "Bishnupur-II",
+    "name_visually_read": "Panchanan",
+    "category_visually_read": "women",
+    "source_bbox": [
+      648.52,
+      336.71,
+      820.12,
+      357.34
+    ],
+    "bbox_units": "PDF points, top origin",
+    "row_id": "23ec2e1a780b92fb6a6e9696",
+    "extracted_name_at_audit": "Panchanan",
+    "extracted_category_at_audit": "women"
+  },
+  "caution": "Blank/dash cells are not converted to non-reservation or winner gender. Name-spelling review items are proposed visual readings, with single-reader uncertainty.",
+  "observed_positive_cells": [
+    {
+      "page": 1,
+      "table_row": 2,
+      "column": 4,
+      "block": "Basanti",
+      "name_visually_read": "Amjhara",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.52,
+        336.14,
+        649.16,
+        357.74
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "0205ad35b7f63bc0b087aa91",
+      "extracted_name_at_audit": "Amjhara",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 1,
+      "table_row": 2,
+      "column": 5,
+      "block": "Basanti",
+      "name_visually_read": "Amjhara",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.11,
+        335.72,
+        819.72,
+        357.18
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "2bee159c494dde3a2d9e0f5f",
+      "extracted_name_at_audit": "Amjhara",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 1,
+      "table_row": 3,
+      "column": 4,
+      "block": "Basanti",
+      "name_visually_read": "Fulmalancha",
+      "category_visually_read": "ST",
+      "source_bbox": [
+        427.58,
+        357.18,
+        649.21,
+        378.78
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "41028e035df65feae562cecb",
+      "extracted_name_at_audit": "Tulmalancha",
+      "extracted_category_at_audit": "ST"
+    },
+    {
+      "page": 1,
+      "table_row": 4,
+      "column": 4,
+      "block": "Basanti",
+      "name_visually_read": "Bharatgarh",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.64,
+        378.23,
+        649.25,
+        399.82
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "2e34daec73574be5bf82de51",
+      "extracted_name_at_audit": "Bharatgarh",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 1,
+      "table_row": 4,
+      "column": 5,
+      "block": "Basanti",
+      "name_visually_read": "Bharatgarh",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.21,
+        377.8,
+        819.8,
+        399.26
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "20541f9bc93c0176cb86ef25",
+      "extracted_name_at_audit": "Bharatgarh",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 1,
+      "table_row": 6,
+      "column": 4,
+      "block": "Gosaba",
+      "name_visually_read": "Kachukhali",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.76,
+        420.3,
+        649.35,
+        441.89
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "3e4fe84602aceff39b5fa063",
+      "extracted_name_at_audit": "Kachukhafi",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 1,
+      "table_row": 6,
+      "column": 5,
+      "block": "Gosaba",
+      "name_visually_read": "Kachukhali",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.3,
+        419.87,
+        819.88,
+        441.33
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "fb42393bd10b429237dbeec6",
+      "extracted_name_at_audit": "Kachukhali",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 1,
+      "table_row": 7,
+      "column": 4,
+      "block": "Gosaba",
+      "name_visually_read": "Amtali",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.82,
+        441.33,
+        649.4,
+        462.92
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "62b082c447a72a33831b7e14",
+      "extracted_name_at_audit": "Amtali",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 1,
+      "table_row": 8,
+      "column": 4,
+      "block": "Gosaba",
+      "name_visually_read": "Gosaba",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.88,
+        462.37,
+        649.45,
+        484.45
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "0a4ab771610c00d1bc654f64",
+      "extracted_name_at_audit": "Gasaba",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 1,
+      "table_row": 8,
+      "column": 5,
+      "block": "Gosaba",
+      "name_visually_read": "Gosaba",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.4,
+        461.94,
+        819.96,
+        483.9
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "24047be0356a531f7e738ac1",
+      "extracted_name_at_audit": "Gasaba",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 1,
+      "table_row": 9,
+      "column": 4,
+      "block": "Gosaba",
+      "name_visually_read": "Bali-II",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.94,
+        483.9,
+        649.5,
+        504.98
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "9518db1bf0afaa7f36122014",
+      "extracted_name_at_audit": "Bali-II",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 2,
+      "column": 4,
+      "block": "Canning-II",
+      "name_visually_read": "Narayanpur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.67,
+        105.27,
+        648.71,
+        126.97
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "719dc1c2d876fdc6c995630b",
+      "extracted_name_at_audit": "Narayanpur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 2,
+      "column": 5,
+      "block": "Canning-II",
+      "name_visually_read": "Narayanpur",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.67,
+        105.14,
+        819.61,
+        126.8
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "74f64226f2f2deb166a163e0",
+      "extracted_name_at_audit": "Narayanpur",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 2,
+      "table_row": 3,
+      "column": 4,
+      "block": "Canning-II",
+      "name_visually_read": "Deuli-I",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.72,
+        126.8,
+        648.74,
+        148.0
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "a9712b5fef21b00633a45883",
+      "extracted_name_at_audit": "Deuli-I",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 3,
+      "column": 5,
+      "block": "Canning-II",
+      "name_visually_read": "Deuli-I",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.71,
+        126.67,
+        819.63,
+        147.82
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "71d0035bbca2157960d9652d",
+      "extracted_name_at_audit": "Deuli-I",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 2,
+      "table_row": 4,
+      "column": 4,
+      "block": "Canning-II",
+      "name_visually_read": "Sarengabad",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.77,
+        147.82,
+        648.77,
+        169.02
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "2b969e457a980ad0e591af1a",
+      "extracted_name_at_audit": "Sarengabad",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 5,
+      "column": 4,
+      "block": "Canning-II",
+      "name_visually_read": "Tambuldaha-II",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.82,
+        168.84,
+        648.81,
+        190.55
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "7a1d4c8a2ee4c549ce41e52e",
+      "extracted_name_at_audit": "Tambuldaha-II",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 5,
+      "column": 5,
+      "block": "Canning-II",
+      "name_visually_read": "Tambuldaha-II",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.77,
+        168.7,
+        819.67,
+        190.36
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "dbc4e2341689e219633301f4",
+      "extracted_name_at_audit": "Tambuldaha-II",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 2,
+      "table_row": 7,
+      "column": 4,
+      "block": "Kultali",
+      "name_visually_read": "Merigunge-II",
+      "category_visually_read": "ST",
+      "source_bbox": [
+        426.93,
+        211.38,
+        648.87,
+        232.59
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "a9172ca6d9b59dc553eafdcb",
+      "extracted_name_at_audit": "Merigunge-II",
+      "extracted_category_at_audit": "ST"
+    },
+    {
+      "page": 2,
+      "table_row": 9,
+      "column": 4,
+      "block": "Joynagar-II",
+      "name_visually_read": "Chuprijhara",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.03,
+        253.4,
+        648.94,
+        275.11
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "1a6f6e7a51365d230d87d0c4",
+      "extracted_name_at_audit": "Chuprijhara",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 9,
+      "column": 5,
+      "block": "Joynagar-II",
+      "name_visually_read": "Chuprijhara",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.91,
+        253.24,
+        819.75,
+        274.9
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "a29e7688da3cf5d9539c2ebe",
+      "extracted_name_at_audit": "Chuprijhara",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 2,
+      "table_row": 10,
+      "column": 4,
+      "block": "Joynagar-II",
+      "name_visually_read": "Moydah",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.08,
+        274.9,
+        648.97,
+        296.12
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "b6cf8dab2994e54be997ff07",
+      "extracted_name_at_audit": "Moydah",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 10,
+      "column": 5,
+      "block": "Joynagar-II",
+      "name_visually_read": "Moydah",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.94,
+        274.74,
+        819.77,
+        295.9
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "aa648327bed6ea807bd9904f",
+      "extracted_name_at_audit": "Moydah",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 2,
+      "table_row": 12,
+      "column": 4,
+      "block": "Patharpratima",
+      "name_visually_read": "Sri Narayanpur Purnachandrapur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.18,
+        316.9,
+        649.04,
+        338.13
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "1a6be2f877c76ad4bb7ea3c6",
+      "extracted_name_at_audit": "Sri Narayanpur Purnachandrapur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 13,
+      "column": 4,
+      "block": "Patharpratima",
+      "name_visually_read": "Achintyanagar",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.23,
+        337.9,
+        649.07,
+        359.12
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "0efb067a6345e2e689ff381d",
+      "extracted_name_at_audit": "Achintyanagar",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 13,
+      "column": 5,
+      "block": "Patharpratima",
+      "name_visually_read": "Achintyanagar",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.04,
+        337.73,
+        819.84,
+        358.89
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "e2d36b77197b0504c6103055",
+      "extracted_name_at_audit": "Achintyanagar",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 2,
+      "table_row": 14,
+      "column": 4,
+      "block": "Patharpratima",
+      "name_visually_read": "Sridharnagar",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.28,
+        358.89,
+        649.11,
+        380.12
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "c8a439617bc1ae8a6f897d35",
+      "extracted_name_at_audit": "Sridharnagar",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 16,
+      "column": 4,
+      "block": "Kakdwip",
+      "name_visually_read": "Bapuji",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.38,
+        401.37,
+        649.17,
+        422.6
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "2a3e055f6cb8da7c526aba39",
+      "extracted_name_at_audit": "Bapuji",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 16,
+      "column": 5,
+      "block": "Kakdwip",
+      "name_visually_read": "Bapuji",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.14,
+        401.18,
+        819.9,
+        422.35
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "b4362fff830e4a668f78b760",
+      "extracted_name_at_audit": "Bapuji",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 2,
+      "table_row": 17,
+      "column": 4,
+      "block": "Kakdwip",
+      "name_visually_read": "Swami Vivekananda",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.43,
+        422.35,
+        649.21,
+        443.58
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "90946ac42e2811fbef29f973",
+      "extracted_name_at_audit": "Swami Vivekananda",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 19,
+      "column": 4,
+      "block": "Namkhana",
+      "name_visually_read": "Budhakhali",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.53,
+        464.31,
+        649.27,
+        485.54
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "8b0f55f87018221074fdba03",
+      "extracted_name_at_audit": "Budhakhali",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 19,
+      "column": 5,
+      "block": "Namkhana",
+      "name_visually_read": "Budhakhali",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.24,
+        464.11,
+        819.96,
+        485.28
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "b13bc872a2e75ea5c3978821",
+      "extracted_name_at_audit": "Budhakhali",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 2,
+      "table_row": 20,
+      "column": 4,
+      "block": "Namkhana",
+      "name_visually_read": "Namkhana",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.58,
+        485.28,
+        649.31,
+        506.52
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "6e739d16211b3472bec6cedb",
+      "extracted_name_at_audit": "Namkhana",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 21,
+      "column": 4,
+      "block": "Namkhana",
+      "name_visually_read": "Frezarganj",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.63,
+        506.25,
+        649.34,
+        527.49
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "931d21cbb8023409f0220845",
+      "extracted_name_at_audit": "Frezarganj",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 2,
+      "table_row": 21,
+      "column": 5,
+      "block": "Namkhana",
+      "name_visually_read": "Frezarganj",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.31,
+        506.04,
+        820.0,
+        527.22
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "75f1b38e612a11ef87762028",
+      "extracted_name_at_audit": "Frezarganj",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 3,
+      "table_row": 2,
+      "column": 4,
+      "block": "Sagar",
+      "name_visually_read": "Ghoramara",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.93,
+        103.39,
+        648.99,
+        124.58
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "5a7f162a3d68f7ff0960d58f",
+      "extracted_name_at_audit": "Ghoramara",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 3,
+      "column": 4,
+      "block": "Sagar",
+      "name_visually_read": "Ramkarchar",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.97,
+        124.44,
+        649.01,
+        145.13
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "8d443c0c5ebbcc5e0a53b166",
+      "extracted_name_at_audit": "Ramkarchar",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 3,
+      "column": 5,
+      "block": "Sagar",
+      "name_visually_read": "Ramkarchar",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.99,
+        124.33,
+        820.0,
+        144.99
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "8b6c9f9072f12dfc31b20a7b",
+      "extracted_name_at_audit": "Ramkarchar",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 3,
+      "table_row": 5,
+      "column": 4,
+      "block": "Kulpi",
+      "name_visually_read": "Ramnagar Gazipur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.05,
+        166.53,
+        649.04,
+        188.21
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "5d7ef871a18064819c9e217f",
+      "extracted_name_at_audit": "Ramnagar Gazipur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 6,
+      "column": 4,
+      "block": "Kulpi",
+      "name_visually_read": "Ramkrishnapur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.09,
+        188.07,
+        649.06,
+        208.74
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "a1ea409267ff3b644a6c5570",
+      "extracted_name_at_audit": "Ramkrishnapur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 6,
+      "column": 5,
+      "block": "Kulpi",
+      "name_visually_read": "Ramkrishnapur",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.04,
+        187.96,
+        820.0,
+        208.61
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "fce3ba3c3fcfe8d248b775d0",
+      "extracted_name_at_audit": "Ramkrishnapur",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 3,
+      "table_row": 7,
+      "column": 4,
+      "block": "Kulpi",
+      "name_visually_read": "Karanjali",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.13,
+        208.61,
+        649.08,
+        229.77
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "686d5f76e3c2f27235f2a533",
+      "extracted_name_at_audit": "Karanjali",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 9,
+      "column": 4,
+      "block": "Mathurapur-I",
+      "name_visually_read": "Lalpur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.21,
+        250.66,
+        649.11,
+        272.82
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "ef3a36f42caa84d00aeae5e6",
+      "extracted_name_at_audit": "Lalpur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 9,
+      "column": 5,
+      "block": "Mathurapur-I",
+      "name_visually_read": "Lalpur",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.09,
+        250.55,
+        820.0,
+        272.68
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "aedb541e32e57644495c72f1",
+      "extracted_name_at_audit": "Lalpur",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 3,
+      "table_row": 10,
+      "column": 4,
+      "block": "Mathurapur-I",
+      "name_visually_read": "Sankarpur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.25,
+        272.68,
+        649.13,
+        293.84
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "18d3ab385dc1b41bdb903044",
+      "extracted_name_at_audit": "Sankarpur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 11,
+      "column": 4,
+      "block": "Mathurapur-I",
+      "name_visually_read": "Lakshmi Narayanpur Uttar",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.29,
+        293.7,
+        649.15,
+        314.85
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "6f706c4534059c0073182b01",
+      "extracted_name_at_audit": "Lakshmi Narayanpur Uttar",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 13,
+      "column": 4,
+      "block": "Mathurapur-II",
+      "name_visually_read": "Gilarchat",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.37,
+        335.22,
+        649.18,
+        356.37
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "c469644fe3f22dbdae1facfc",
+      "extracted_name_at_audit": "Gilarchat",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 13,
+      "column": 5,
+      "block": "Mathurapur-II",
+      "name_visually_read": "Gilarchat",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.16,
+        335.12,
+        820.0,
+        356.23
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "85f028d9e3b09099bca87ce2",
+      "extracted_name_at_audit": "Gilarchat",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 3,
+      "table_row": 14,
+      "column": 4,
+      "block": "Mathurapur-II",
+      "name_visually_read": "Kumrapara",
+      "category_visually_read": "ST",
+      "source_bbox": [
+        427.41,
+        356.23,
+        649.2,
+        377.87
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "5f3ffa21f29730ba7c5fbe9b",
+      "extracted_name_at_audit": "Kunitapara",
+      "extracted_category_at_audit": "ST"
+    },
+    {
+      "page": 3,
+      "table_row": 16,
+      "column": 4,
+      "block": "Mandirbazar",
+      "name_visually_read": "Nishapur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.49,
+        398.72,
+        649.23,
+        419.85
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "372f2e6c4e311dcdab5703ce",
+      "extracted_name_at_audit": "Nishapur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 16,
+      "column": 5,
+      "block": "Mandirbazar",
+      "name_visually_read": "Nishapur",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.21,
+        398.62,
+        820.0,
+        419.72
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "3dd3c78db2c9e651f1b7b4ca",
+      "extracted_name_at_audit": "Nishapur",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 3,
+      "table_row": 17,
+      "column": 4,
+      "block": "Mandirbazar",
+      "name_visually_read": "Dhanurhat",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.53,
+        419.72,
+        649.25,
+        440.84
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "a6133dfdd10ca2609e167d48",
+      "extracted_name_at_audit": "Dhanurhat",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 18,
+      "column": 4,
+      "block": "Mandirbazar",
+      "name_visually_read": "Jagadishpur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.57,
+        440.7,
+        649.27,
+        461.82
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "4072d056902a66d0d49a1f92",
+      "extracted_name_at_audit": "Jagadishpur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 18,
+      "column": 5,
+      "block": "Mandirbazar",
+      "name_visually_read": "Jagadishpur",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.25,
+        440.6,
+        820.0,
+        461.69
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "3a873789bf2475c493c333ee",
+      "extracted_name_at_audit": "Jagadishpur",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 3,
+      "table_row": 20,
+      "column": 4,
+      "block": "Joynagar-I",
+      "name_visually_read": "Narayanitala",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.65,
+        482.67,
+        649.3,
+        503.78
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "0c6938943c0ab481ea8a25d2",
+      "extracted_name_at_audit": "Narayanitala",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 3,
+      "table_row": 20,
+      "column": 5,
+      "block": "Joynagar-I",
+      "name_visually_read": "Narayanitala",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.28,
+        482.56,
+        820.0,
+        503.64
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "efd96a9cc952fc695eeca1ad",
+      "extracted_name_at_audit": "Narayanitala",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 3,
+      "table_row": 21,
+      "column": 4,
+      "block": "Joynagar-I",
+      "name_visually_read": "Bamangachi",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.69,
+        503.64,
+        649.32,
+        524.75
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "a56323c58d1bf4fac9b97c56",
+      "extracted_name_at_audit": "Bamangachi",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 2,
+      "column": 4,
+      "block": "Baruipur",
+      "name_visually_read": "South Garia",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.05,
+        104.62,
+        649.08,
+        125.67
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "cdf4d9e1d7ac4824b790c5c2",
+      "extracted_name_at_audit": "South Garia",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 3,
+      "column": 4,
+      "block": "Baruipur",
+      "name_visually_read": "Ramnagar-I",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.07,
+        125.64,
+        649.09,
+        146.69
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "92cf1c28f2148247a0701afb",
+      "extracted_name_at_audit": "Ramnagar-I",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 3,
+      "column": 5,
+      "block": "Baruipur",
+      "name_visually_read": "Ramnagar-I",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.08,
+        125.61,
+        820.0,
+        146.65
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "7d4853432bbc3668d1155799",
+      "extracted_name_at_audit": "Ramnagar-I",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 4,
+      "table_row": 4,
+      "column": 4,
+      "block": "Baruipur",
+      "name_visually_read": "Brindakhali",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.09,
+        146.65,
+        649.1,
+        167.71
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "fc47eb3e1f9a09972d4b548f",
+      "extracted_name_at_audit": "Brindakhali",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 5,
+      "column": 4,
+      "block": "Baruipur",
+      "name_visually_read": "Hariharpur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.11,
+        167.67,
+        649.11,
+        189.23
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "85b820a3b8e1ba0f7ca77b9f",
+      "extracted_name_at_audit": "Hariharpur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 6,
+      "column": 4,
+      "block": "Baruipur",
+      "name_visually_read": "Sikharbali-I",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.13,
+        189.18,
+        649.11,
+        209.75
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "b47c1115e2ae18fb8fd10c92",
+      "extracted_name_at_audit": "Sikharbali-I",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 6,
+      "column": 5,
+      "block": "Baruipur",
+      "name_visually_read": "Sikharbali-I",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.11,
+        189.14,
+        820.0,
+        209.69
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "d506f96b308e38c022b0119b",
+      "extracted_name_at_audit": "Sikharbali-1",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 4,
+      "table_row": 8,
+      "column": 4,
+      "block": "Canning-I",
+      "name_visually_read": "Matla-I",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.17,
+        231.2,
+        649.13,
+        252.27
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "349446fc27065cc1e51a3499",
+      "extracted_name_at_audit": "Matla-I",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 9,
+      "column": 4,
+      "block": "Canning-I",
+      "name_visually_read": "Daria",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.19,
+        252.21,
+        649.14,
+        273.78
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "394122eae7d7db7c71210267",
+      "extracted_name_at_audit": "Daria",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 9,
+      "column": 5,
+      "block": "Canning-I",
+      "name_visually_read": "Daria",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.13,
+        252.15,
+        820.0,
+        273.71
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "93cf803869edecb8cb535a7d",
+      "extracted_name_at_audit": "Daria",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 4,
+      "table_row": 10,
+      "column": 4,
+      "block": "Canning-I",
+      "name_visually_read": "Gopalpur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.22,
+        273.71,
+        649.15,
+        294.79
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "d69491b4cdd61bbf3347597a",
+      "extracted_name_at_audit": "Gopalpur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 12,
+      "column": 4,
+      "block": "Magrahat-II",
+      "name_visually_read": "Hotor Maryada",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.26,
+        315.71,
+        649.17,
+        336.8
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "18bd090eb7a7842e36367a36",
+      "extracted_name_at_audit": "Hotor Maryada",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 13,
+      "column": 4,
+      "block": "Magrahat-II",
+      "name_visually_read": "Multi",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.28,
+        336.71,
+        649.18,
+        357.8
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "df48557aaaac6d277aa64e9f",
+      "extracted_name_at_audit": "Multi",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 13,
+      "column": 5,
+      "block": "Magrahat-II",
+      "name_visually_read": "Multi",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.17,
+        336.64,
+        820.0,
+        357.71
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "3495a6c8d51268b33261da8d",
+      "extracted_name_at_audit": "Multi",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 4,
+      "table_row": 14,
+      "column": 4,
+      "block": "Magrahat-II",
+      "name_visually_read": "Gokorni",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.3,
+        357.71,
+        649.19,
+        378.8
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "b799e3eec5bc766b1ec607a7",
+      "extracted_name_at_audit": "Gokorni",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 16,
+      "column": 4,
+      "block": "Magrahat-I",
+      "name_visually_read": "Earpur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.34,
+        400.19,
+        649.21,
+        421.29
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "0239670a19b181ebb53c9201",
+      "extracted_name_at_audit": "Earpur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 16,
+      "column": 5,
+      "block": "Magrahat-I",
+      "name_visually_read": "Earpur",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.2,
+        400.1,
+        820.0,
+        421.18
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "bff6a11ff4d57753bf50cd74",
+      "extracted_name_at_audit": "Earpur",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 4,
+      "table_row": 17,
+      "column": 4,
+      "block": "Magrahat-I",
+      "name_visually_read": "Uttar Kusum",
+      "category_visually_read": "BC",
+      "source_bbox": [
+        427.36,
+        421.18,
+        649.21,
+        442.28
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "dcfd2dd98836ae5ca7d9033f",
+      "extracted_name_at_audit": "Uttar Kusum",
+      "extracted_category_at_audit": "BC"
+    },
+    {
+      "page": 4,
+      "table_row": 19,
+      "column": 4,
+      "block": "Diamond Harbour-II",
+      "name_visually_read": "Noorpur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.4,
+        463.15,
+        649.23,
+        484.26
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "6cfe54211fc97d9a554cbb5e",
+      "extracted_name_at_audit": "Noorpur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 20,
+      "column": 4,
+      "block": "Diamond Harbour-II",
+      "name_visually_read": "Sarisha",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        427.42,
+        484.13,
+        649.24,
+        505.25
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "09149ff11c108452e2fb25d0",
+      "extracted_name_at_audit": "Sarisha",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 4,
+      "table_row": 20,
+      "column": 5,
+      "block": "Diamond Harbour-II",
+      "name_visually_read": "Sarisha",
+      "category_visually_read": "women",
+      "source_bbox": [
+        649.23,
+        484.03,
+        820.0,
+        505.11
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "c9530a88959f62b01e758e2b",
+      "extracted_name_at_audit": "Sarisha a",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 5,
+      "table_row": 2,
+      "column": 4,
+      "block": "Diamond Harbour-I",
+      "name_visually_read": "Netra",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.13,
+        104.14,
+        648.18,
+        125.29
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "3248943b8a5e62946ac4c028",
+      "extracted_name_at_audit": "Netra",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 2,
+      "column": 5,
+      "block": "Diamond Harbour-I",
+      "name_visually_read": "Netra",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.15,
+        104.04,
+        819.71,
+        125.15
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "2be145ed1c82648dbf961754",
+      "extracted_name_at_audit": "Netra",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 5,
+      "table_row": 3,
+      "column": 4,
+      "block": "Diamond Harbour-I",
+      "name_visually_read": "Basuldanga",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.16,
+        125.15,
+        648.22,
+        146.3
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "774da0b7bed2905ce2a28132",
+      "extracted_name_at_audit": "Basuldanga",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 4,
+      "column": 4,
+      "block": "Diamond Harbour-I",
+      "name_visually_read": "Kanpur Dhanberia",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.18,
+        146.16,
+        648.25,
+        167.82
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "e7208a114fb89078611949a2",
+      "extracted_name_at_audit": "Kanpur Dhanberia",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 4,
+      "column": 5,
+      "block": "Diamond Harbour-I",
+      "name_visually_read": "Kanpur Dhanberia",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.22,
+        146.06,
+        819.78,
+        167.68
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "deb42af998ee1468cbf71bbe",
+      "extracted_name_at_audit": "Kanpur Dhanberia",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 5,
+      "table_row": 6,
+      "column": 4,
+      "block": "Falta",
+      "name_visually_read": "Debipur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.24,
+        188.69,
+        648.32,
+        209.84
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "a9a0d0f788ec701bf5838957",
+      "extracted_name_at_audit": "Debipur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 7,
+      "column": 4,
+      "block": "Falta",
+      "name_visually_read": "Fatepur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.27,
+        209.71,
+        648.35,
+        230.86
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "5b133b06f35b4c7faf29e51e",
+      "extracted_name_at_audit": "Fatepur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 7,
+      "column": 5,
+      "block": "Falta",
+      "name_visually_read": "Fatepur",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.32,
+        209.6,
+        819.89,
+        230.72
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "90f06f178851b907a72c4f9f",
+      "extracted_name_at_audit": "Fatepur",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 5,
+      "table_row": 8,
+      "column": 4,
+      "block": "Falta",
+      "name_visually_read": "Harindanga-I",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.3,
+        230.72,
+        648.39,
+        252.38
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "0571c9b7003cf2c80b850e9a",
+      "extracted_name_at_audit": "Harindanga-I",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 10,
+      "column": 4,
+      "block": "Bishnupur-II",
+      "name_visually_read": "Khagramuri",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.36,
+        273.76,
+        648.45,
+        294.41
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "ac3a39c5e5fd1ba877f9d2c9",
+      "extracted_name_at_audit": "Khagramuri",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 10,
+      "column": 5,
+      "block": "Bishnupur-II",
+      "name_visually_read": "Khagramuri",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.42,
+        273.65,
+        820.01,
+        294.27
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "6898a4af52f45c490d74bc9a",
+      "extracted_name_at_audit": "Khagramuri",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 5,
+      "table_row": 11,
+      "column": 4,
+      "block": "Bishnupur-II",
+      "name_visually_read": "Kanganberia",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.38,
+        294.27,
+        648.49,
+        315.43
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "11f308925cb4fa0da97a921f",
+      "extracted_name_at_audit": "Kanganberia",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 12,
+      "column": 4,
+      "block": "Bishnupur-II",
+      "name_visually_read": "Chak Enayetnagar",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.41,
+        315.29,
+        648.52,
+        336.95
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "28a1b6ad230869a8f1df4925",
+      "extracted_name_at_audit": "Chak Enayetnagar",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 12,
+      "column": 5,
+      "block": "Bishnupur-II",
+      "name_visually_read": "Chak Enayetnagar",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.49,
+        315.19,
+        820.08,
+        336.81
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "cc4345a843160425e87dfef3",
+      "extracted_name_at_audit": "Chak Enayetnagar",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 5,
+      "table_row": 13,
+      "column": 5,
+      "block": "Bishnupur-II",
+      "name_visually_read": "Panchanan",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.52,
+        336.71,
+        820.12,
+        357.34
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "23ec2e1a780b92fb6a6e9696",
+      "extracted_name_at_audit": "Panchanan",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 5,
+      "table_row": 15,
+      "column": 4,
+      "block": "Budge Budge-II",
+      "name_visually_read": "Burul",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.5,
+        378.36,
+        648.62,
+        400.02
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "d623e6bc65a01ea702195903",
+      "extracted_name_at_audit": "Burul",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 16,
+      "column": 4,
+      "block": "Budge Budge-II",
+      "name_visually_read": "Kamra",
+      "category_visually_read": "BC",
+      "source_bbox": [
+        426.53,
+        399.88,
+        648.66,
+        421.05
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "cc5ae6d2630c619c05da5536",
+      "extracted_name_at_audit": "Kamra",
+      "extracted_category_at_audit": "BC"
+    },
+    {
+      "page": 5,
+      "table_row": 16,
+      "column": 5,
+      "block": "Budge Budge-II",
+      "name_visually_read": "Kamra",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.62,
+        399.78,
+        820.23,
+        420.91
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "8efe87a7458cc322f95e12f3",
+      "extracted_name_at_audit": "Kamra",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 5,
+      "table_row": 17,
+      "column": 4,
+      "block": "Budge Budge-II",
+      "name_visually_read": "Kashipur Alampur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.55,
+        420.91,
+        648.69,
+        442.07
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "1c8ac5c51a9fb0619b99808d",
+      "extracted_name_at_audit": "Kashipur Alampur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 19,
+      "column": 4,
+      "block": "Thakurpukur Maheshtala",
+      "name_visually_read": "Rasapunja",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.61,
+        462.96,
+        648.76,
+        484.12
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "9b673eb2772462766fcc2196",
+      "extracted_name_at_audit": "Rasapunja",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 21,
+      "column": 4,
+      "block": "Bishnupur-I",
+      "name_visually_read": "Amgachia",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.67,
+        504.51,
+        648.82,
+        525.68
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "c85f8fd31b1fd05c45f8d376",
+      "extracted_name_at_audit": "Amgachia",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 21,
+      "column": 5,
+      "block": "Bishnupur-I",
+      "name_visually_read": "Amgachia",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.79,
+        504.41,
+        820.42,
+        525.54
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "d25fa64ea7c9431824f097d3",
+      "extracted_name_at_audit": "Amgachia",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 5,
+      "table_row": 22,
+      "column": 4,
+      "block": "Bishnupur-I",
+      "name_visually_read": "Julpia",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.7,
+        525.54,
+        648.86,
+        546.71
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "df51845afd88c9d8a7e06670",
+      "extracted_name_at_audit": "Julpia",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 23,
+      "column": 4,
+      "block": "Bishnupur-I",
+      "name_visually_read": "Dakshin Gouripur Chakdhir",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.72,
+        546.57,
+        648.89,
+        567.74
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "3ab5c971f4e94faf5d8b05c1",
+      "extracted_name_at_audit": "Dakshin Gouripur Chakdhir",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 5,
+      "table_row": 23,
+      "column": 5,
+      "block": "Bishnupur-I",
+      "name_visually_read": "Dakshin Gouripur Chakdhir",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.86,
+        546.47,
+        820.5,
+        567.6
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "99146e012ae95cc15e160469",
+      "extracted_name_at_audit": "Dakshinf§Souripur Chakdhir",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 6,
+      "table_row": 2,
+      "column": 4,
+      "block": "Sonarpur",
+      "name_visually_read": "Kalikapur-I",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        425.91,
+        104.84,
+        647.97,
+        126.02
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "e5f95b6f1ccc6238dd2d9a67",
+      "extracted_name_at_audit": "Kalikapur-t",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 6,
+      "table_row": 3,
+      "column": 4,
+      "block": "Sonarpur",
+      "name_visually_read": "Kheadaha-I",
+      "category_visually_read": "ST",
+      "source_bbox": [
+        425.94,
+        125.88,
+        647.99,
+        147.06
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "497c76f4c9a69078259e1f17",
+      "extracted_name_at_audit": "Kheadaha-I",
+      "extracted_category_at_audit": "ST"
+    },
+    {
+      "page": 6,
+      "table_row": 5,
+      "column": 4,
+      "block": "Bhangore-II",
+      "name_visually_read": "Beonta-I",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.01,
+        167.96,
+        648.02,
+        189.63
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "9e13f88048162e795e0d2a20",
+      "extracted_name_at_audit": "Beonta-I",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 6,
+      "table_row": 5,
+      "column": 5,
+      "block": "Bhangore-II",
+      "name_visually_read": "Beonta-I",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.0,
+        167.85,
+        819.0,
+        189.49
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "23c1e162b0ce6d520a26bd31",
+      "extracted_name_at_audit": "Beonta-I",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 6,
+      "table_row": 6,
+      "column": 4,
+      "block": "Bhangore-II",
+      "name_visually_read": "Bhagabanpur",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.04,
+        189.49,
+        648.03,
+        210.16
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "be786431221bba88f6578362",
+      "extracted_name_at_audit": "Bhagabanpur",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 6,
+      "table_row": 7,
+      "column": 4,
+      "block": "Bhangore-II",
+      "name_visually_read": "Bhogali-I",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.07,
+        210.02,
+        648.05,
+        231.68
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "5211f5f4f9620ad33837dbca",
+      "extracted_name_at_audit": "Bhogali-I",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 6,
+      "table_row": 7,
+      "column": 5,
+      "block": "Bhangore-II",
+      "name_visually_read": "Bhogali-I",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.03,
+        209.91,
+        819.0,
+        231.54
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "75f278ce17b68a99b0fef3ab",
+      "extracted_name_at_audit": "Bhogali-I",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 6,
+      "table_row": 9,
+      "column": 4,
+      "block": "Budge Budge-I",
+      "name_visually_read": "Rajibpur",
+      "category_visually_read": "BC",
+      "source_bbox": [
+        426.14,
+        252.56,
+        648.08,
+        273.72
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "bda2d19ccf5e3e48018b7d28",
+      "extracted_name_at_audit": "Rajibpur",
+      "extracted_category_at_audit": "BC"
+    },
+    {
+      "page": 6,
+      "table_row": 9,
+      "column": 5,
+      "block": "Budge Budge-I",
+      "name_visually_read": "Rajibpur",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.06,
+        252.46,
+        819.0,
+        273.58
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "f2175cb2ed4094f41033ec50",
+      "extracted_name_at_audit": "Rajibpur",
+      "extracted_category_at_audit": "women"
+    },
+    {
+      "page": 6,
+      "table_row": 10,
+      "column": 4,
+      "block": "Budge Budge-I",
+      "name_visually_read": "Uttar Roypur",
+      "category_visually_read": "BC",
+      "source_bbox": [
+        426.18,
+        273.58,
+        648.09,
+        294.73
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "462dac3062b5bcdddfe8c957",
+      "extracted_name_at_audit": "Uttar Roypur",
+      "extracted_category_at_audit": "BC"
+    },
+    {
+      "page": 6,
+      "table_row": 11,
+      "column": 4,
+      "block": "Budge Budge-I",
+      "name_visually_read": "Buita",
+      "category_visually_read": "SC",
+      "source_bbox": [
+        426.21,
+        294.6,
+        648.11,
+        315.74
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "56f889ed737ac5667a81e639",
+      "extracted_name_at_audit": "Buita",
+      "extracted_category_at_audit": "SC"
+    },
+    {
+      "page": 6,
+      "table_row": 11,
+      "column": 5,
+      "block": "Budge Budge-I",
+      "name_visually_read": "Buita",
+      "category_visually_read": "women",
+      "source_bbox": [
+        648.09,
+        294.49,
+        819.0,
+        315.61
+      ],
+      "bbox_units": "PDF points, top origin",
+      "row_id": "bda98a5944769cc0ad2738ee",
+      "extracted_name_at_audit": "Buita",
+      "extracted_category_at_audit": "women"
+    }
+  ]
+}

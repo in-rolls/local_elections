@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "sha256": "60878684c5f53a6d1a85d81c5cd3080dc30258d917a289b75070b42f1cc66812",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE\nBLOCK : TEHATTA - I\nNumber of members to be elected in the Gram Seats reserved for\nSeats allocated Seats reserved for\nPamchayat Schedule Caste or\nNumber, name & area of constituencies with to each Women against\nName of Gram Schedule Schedule Schedule Tribe\nTotal No. of Women serial numbers constituency with serial number of\nCastes Tribes against serial number\nmembers members serial number Seats.\nMembers members of Seats\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nBetai-II/I Part No. 73/1\n1 - 1, Women\nBetai-II 14 9 Nil 5 Mouza karuigachi, J.L. No. 90\na) Karuigachi Purbapara 2 - -\nBetai-II/II Part No. 73/2\nMouza karuigachi, J.L. No. 90 3 3, SC 3,SC(Women)\na) Karuigachi Pachimpara\nBetai-II/III Part No. 73/3\nMouza- Betai, J.L. No. 89 4 - -\na) Uttar Betai Jitpur\nBetai-II/IV Part No. 73/4\nMouza- Betai Jitpur, J.L. No. 92 5 5, SC -\na) Uttar Betai Jitpur (Paschim)\nBetai-II/V Part No. 73/5\n6 - 6, Women\nMouza- Betai, J.L. No. 89\na) Betai Sadhubazar (Purba)\n7 7, SC -\nb) Betai Sadhubazar (Paschim)\nBetai-II/VI Part No. 73/6\nMouza- Betai, J.L. No. 89 8 - -\na) Muktadaha Para\nBetai-II/VII Part No. 73/7\nMouza- Betai Jitpur, J.L. No. 92\na) Bisthuganj 9 9, SC 9,SC(Women)\nb) Dakshin Betai Jitpur (Gosaipara)\nc) Paschim Colony Para\nBetai-II/VIII Part No. 73/8\nMouza- Betai Jitpur, J.L. No. 92 10 10, SC -\na) Betai Jitpur Dakshinpara\nBetai-II/IX Part No. 73/9\n11 11, SC -\nMouza- Betai Jitpur, J.L. No. 92\na) Kharermath\n12 12, SC 12,SC(Women)\nb) Dakshin Betai Jitpur Kalambagan\nBetai-II/X Part No. 73/10\n13 13, SC -\nMouza- Betai Jitpur, J.L. No. 92\na) Dakshin Colony Para 14 14, SC -\nDistrict Panchayat Election Officer\nDate : 07/02/2008 & District Magistrate, Nadia\n1 of 1",
+      "tables": [
+        {
+          "bbox": [
+            15.578219999999998,
+            50.91222299999998,
+            734.435883,
+            528.012483
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of constituencies with\nserial numbers",
+              "Seats allocated\nto each\nconstituency with\nserial number",
+              "Seats reserved for\nSchedule Caste or\nSchedule Tribe\nagainst serial number\nof Seats",
+              "Seats reserved for\nWomen against\nserial number of\nSeats."
+            ],
+            [
+              null,
+              "Total No. of\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Betai-II",
+              "14",
+              "9",
+              "Nil",
+              "5",
+              "Betai-II/I Part No. 73/1\nMouza karuigachi, J.L. No. 90\na) Karuigachi Purbapara",
+              "1",
+              "-",
+              "1, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "2",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-II/II Part No. 73/2\nMouza karuigachi, J.L. No. 90\na) Karuigachi Pachimpara",
+              "3",
+              "3, SC",
+              "3,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-II/III Part No. 73/3\nMouza- Betai, J.L. No. 89\na) Uttar Betai Jitpur",
+              "4",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-II/IV Part No. 73/4\nMouza- Betai Jitpur, J.L. No. 92\na) Uttar Betai Jitpur (Paschim)",
+              "5",
+              "5, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-II/V Part No. 73/5\nMouza- Betai, J.L. No. 89\na) Betai Sadhubazar (Purba)\nb) Betai Sadhubazar (Paschim)",
+              "6",
+              "-",
+              "6, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "7",
+              "7, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-II/VI Part No. 73/6\nMouza- Betai, J.L. No. 89\na) Muktadaha Para",
+              "8",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-II/VII Part No. 73/7\nMouza- Betai Jitpur, J.L. No. 92\na) Bisthuganj\nb) Dakshin Betai Jitpur (Gosaipara)\nc) Paschim Colony Para",
+              "9",
+              "9, SC",
+              "9,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-II/VIII Part No. 73/8\nMouza- Betai Jitpur, J.L. No. 92\na) Betai Jitpur Dakshinpara",
+              "10",
+              "10, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-II/IX Part No. 73/9\nMouza- Betai Jitpur, J.L. No. 92\na) Kharermath\nb) Dakshin Betai Jitpur Kalambagan",
+              "11",
+              "11, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "12",
+              "12, SC",
+              "12,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-II/X Part No. 73/10\nMouza- Betai Jitpur, J.L. No. 92\na) Dakshin Colony Para",
+              "13",
+              "13, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "14",
+              "14, SC",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1606
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 1
+}

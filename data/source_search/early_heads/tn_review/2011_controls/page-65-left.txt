@@ -1,0 +1,35 @@
+1 2 3
+MORAPPUR PANCHAYAT UNION
+1 Puliyampatti SC (Women)
+2 Samandahalli SC (Women)
+3 Osahalli SC (Women)
+4 Gurubarahalli SC (Women)
+5 Chinthalpadi SC (General)
+6 Morappur SC (General)
+7 Dasirahalli SC (General)
+8 Kethureddipatty SC (General)
+9 Eachambadi SC (General)
+10 Thalanatham SC (General)
+11 Sungarahalli SC (General)
+12 Ramiyanahalli General (Women)
+13 Kathirnaickkanahalli General (Women)
+14 Gobichettipalayam General (Women)
+15 Maniyambadi General (Women)
+16 Vaguthupatty General (Women)
+17 Karthanoor General (Women)
+18 Ranimookanoor General (Women)
+19 Karakodahalli General (Women)
+20 Konkarapatti General (Women)
+21 Irumathur General (Women)
+22 Mottankurichi General (Women)
+23 Polayampally General
+24 Madathahalli General
+25 Navalai General
+26 Basuvapuram General
+27 Kosapatti General
+28 Thadhanur General
+29 Buddirettipatti General
+30 Regadahalli General
+31 Thenkaraikottai General
+32 Linganaickanahalli General
+Page 63

@@ -1,0 +1,6 @@
+{
+  "basis": "Direct inspection of original Nadia 2013 pages2-6: text is sideways. Rotate their cropped image90degrees clockwise, as the office parser already does.",
+  "selection_changed": false,
+  "gold_or_model_accuracy_used_to_choose_rotation": false,
+  "earlier_unrotated_model_outputs": "retained; excluded from final comparison when image fingerprint differs"
+}

@@ -1,0 +1,3287 @@
+{
+  "version": 1,
+  "sha256": "bc9ff0f153074cadd6d02b2f73f4bdd0f4d84c2c4bfbece64cda23dcc82d5b2b",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "GOVERNMENT OF WEST BENGAL\nOFFICE OF THE DISTRICT MAGISTRATE\nCOOCH BEHAR\nFORM B\n[See rule 25(1)]\nO R D E R\nNo.: PRD/1154 Date: 15/11/2017 .\nInexerciseofthepowerconferredbysections14and17oftheWestBengalPanchayatElectionsAct,2003(WestBen.ActXXIof2003),readwithrules26and27oftheWestBengalPanchayat\nElectionRules,2006,I,theDistrictPanchayatElectionOfficerandDistrictMagistrateofthedistrictofCOOCHBEHARastheprescribedauthorityappointedbytheStateGovernmentintheDepartmentof\nPanchayatsandRuralDevelopmentunderNotificationNo..................................................................dated..................................forthepurposeofrules26and27ofthesaidrules,herebypublishthedraft\nofthisordertodeterminefortheGramsspecifiedincolumn(1)oftheSchedulebelow,thenumberofmemberstobeelectedtothePanchayatSamitispecifiedinthecorrespondingentriesincolumn(2),to\ndivide the area of the Grams into constituencies specified in the corresponding entries in column (3) & (4), constituency or constituencies reserved for the SC or the ST or BC persons specified in the\ncorrespondingentriesincolumn(5),andconstituencyorconstituenciesreservedforwomenspecifiedinthecorrespondingentriesincolumn (6) ofthesaidSchedule,forinformationofpersonslikelytobe\naffected thereby\nThedraftwillbetakenupforconsiderationforconsiderationafterfifteendaysfromthisdayandanyobjectionofsuggestionwithrespectthereto,whichmaybereceivedbytheundersignedwithinthe\nsaid period, shall be duly considered.\nTHE SCHEDULE : DINHATA-I BLOCK\nm Number, Name and Area of the Constituency\na Constituency reserved for\nr G Number of Members Area of the Area of the Constituency Scheduled Castes, Scheduled Constituency reserved\nfo\ne m\nt\nP\no\na\nb\nn\ne\nc h\nel\na\ne\ny\nc\na\nte\nt\nd\nS a\nto\nm\nt\ni\nh\nty\ne\nC\nN\no\na\nn\nm\nst\ne\ni t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAr\n(\ne\nG\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\nst\ne\ni\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nch\nst\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\n(Assembly Part No.)\nP\nT\ne\nr\nr\ni\ns\nb\no\ne\nn\ns\ns\na\ns\nn\nh\nd\no w\nB\ni\na\nn\nc\ng\nk\ns\nw\ne\na\nr\nr\nia\nd\nl\nC\nnu\nla\nm\nss\nb\ne\ne\ns\nr\nfor\ns\nW\ner\no\nia\nm\nl\ne\nn\nn\nu m\nsh\nb\no\ne\nw\nr\ning\na N No.)\n1 2 3 4 5 6\nGosanimari-II/I 1 6 96\nGosanimari-II/II 2 6 97\nGosanimari-II/PS-1 1-SC\nGosanimari-II/III 3/1 6 98\nGosanimari-II/III 3/2 6 99\nGosanimari-II/IV 4 6 100\nI\nI Gosanimari-II/V 5 6 101\n-\nir\na Gosanimari-II/PS-2 Gosanimari-II/XI 11 6 107 2-W\nm\n3\nin Gosanimari-II/XII 12 6 108\na\ns\no Gosanimari-II/XIII 13 6 109\nG\nGosanimari-II/VI 6 6 102\nGosanimari-II/VII 7 6 103\nGosanimari-II/PS-3 Gosanimari-II/VIII 8 6 104 3-SC 3-SCW\nGosanimari-II/IX 9 6 105\nGosanimari-II/X 10 6 106\nPage No. 1 / 11",
+      "tables": [
+        {
+          "bbox": [
+            50.88399999999999,
+            249.63000333333335,
+            800.6550050000001,
+            520.3960133333334
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of Members\nto be elected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              null,
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency reserved\nfor Women showing\nserial number"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "I\nI\n-\nir\na\nm\nin\na\ns\no\nG",
+              "3",
+              "Gosanimari-II/PS-1",
+              "Gosanimari-II/I",
+              "1",
+              "6",
+              "96",
+              "1-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-II/II",
+              "2",
+              "6",
+              "97",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-II/III",
+              "3/1",
+              "6",
+              "98",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-II/III",
+              "3/2",
+              "6",
+              "99",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Gosanimari-II/PS-2",
+              "Gosanimari-II/IV",
+              "4",
+              "6",
+              "100",
+              "",
+              "2-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-II/V",
+              "5",
+              "6",
+              "101",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-II/XI",
+              "11",
+              "6",
+              "107",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-II/XII",
+              "12",
+              "6",
+              "108",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-II/XIII",
+              "13",
+              "6",
+              "109",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Gosanimari-II/PS-3",
+              "Gosanimari-II/VI",
+              "6",
+              "6",
+              "102",
+              "3-SC",
+              "3-SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-II/VII",
+              "7",
+              "6",
+              "103",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-II/VIII",
+              "8",
+              "6",
+              "104",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-II/IX",
+              "9",
+              "6",
+              "105",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-II/X",
+              "10",
+              "6",
+              "106",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 2306
+    },
+    {
+      "page": 2,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "m Number, Name and Area of the Constituency\na Constituency reserved for\nr G Number of Members Area of the Area of the Constituency Scheduled Castes, Scheduled Constituency reserved\nfo\ne m\nt\nP\no\na\nb\nn\ne\nc h\nel\na\ne\ny\nc\na\nte\nt\nd\nS a\nto\nm\nt\ni\nh\nty\ne\nC\nN\no\na\nn\nm\nst\ne\ni t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAr\n(\ne\nG\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\nst\ne\ni\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nch\nst\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\n(Assembly Part No.)\nP\nT\ne\nr\nr\ni\ns\nb\no\ne\nn\ns\ns\na\ns\nn\nh\nd\no w\nB\ni\na\nn\nc\ng\nk\ns\nw\ne\na\nr\nr\nia\nd\nl\nC\nnu\nla\nm\nss\nb\ne\ne\ns\nr\nfor\ns\nW\ner\no\nia\nm\nl\ne\nn\nn\nu m\nsh\nb\no\ne\nw\nr\ning\na N No.)\n1 2 3 4 5 6\nGosanimari-I/I 14 6 110\nGosanimari-I/II 15 6 111\nGosanimari-I/III 16 6 112\nGosanimari-I/PS-4 4-SC\nGosanimari-I/IV 17 6 113\nGosanimari-I/V 18 6 114\nGosanimari-I/VI 19 6 115\nGosanimari-I/VII 20 6 116\nI\n-\nir Gosanimari-I/VIII 21 6 117\na\nm\n3 Gosanimari-I/PS-5 Gosanimari-I/IX 22 6 118 5-W\nin\na s Gosanimari-I/X 23 6 119\no\nG\nGosanimari-I/XVI 29 6 126\nGosanimari-I/XI 24 6 120\nGosanimari-I/XII 25 6 121\nGosanimari-I/XIII 26 6 122\nGosanimari-I/PS-6 6-SC 6-SCW\nGosanimari-I/XIV 27 6 123\nGosanimari-I/XV 28/1 6 124\nGosanimari-I/XV 28/2 6 125\nPage No. 2 / 11",
+      "tables": [
+        {
+          "bbox": [
+            50.88399999999999,
+            14.5,
+            801.1000066666667,
+            328.1299933333334
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of Members\nto be elected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              null,
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency reserved\nfor Women showing\nserial number"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "I\n-\nir\na\nm\nin\na\ns\no\nG",
+              "3",
+              "Gosanimari-I/PS-4",
+              "Gosanimari-I/I",
+              "14",
+              "6",
+              "110",
+              "4-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/II",
+              "15",
+              "6",
+              "111",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/III",
+              "16",
+              "6",
+              "112",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/IV",
+              "17",
+              "6",
+              "113",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/V",
+              "18",
+              "6",
+              "114",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/VI",
+              "19",
+              "6",
+              "115",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Gosanimari-I/PS-5",
+              "Gosanimari-I/VII",
+              "20",
+              "6",
+              "116",
+              "",
+              "5-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/VIII",
+              "21",
+              "6",
+              "117",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/IX",
+              "22",
+              "6",
+              "118",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/X",
+              "23",
+              "6",
+              "119",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/XVI",
+              "29",
+              "6",
+              "126",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Gosanimari-I/PS-6",
+              "Gosanimari-I/XI",
+              "24",
+              "6",
+              "120",
+              "6-SC",
+              "6-SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/XII",
+              "25",
+              "6",
+              "121",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/XIII",
+              "26",
+              "6",
+              "122",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/XIV",
+              "27",
+              "6",
+              "123",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/XV",
+              "28/1",
+              "6",
+              "124",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gosanimari-I/XV",
+              "28/2",
+              "6",
+              "125",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 894
+    },
+    {
+      "page": 3,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "m Number, Name and Area of the Constituency\na Constituency reserved for\nr G Number of Members Area of the Area of the Constituency Scheduled Castes, Scheduled Constituency reserved\nfo\ne m\nt\nP\no\na\nb\nn\ne\nc h\nel\na\ne\ny\nc\na\nte\nt\nd\nS a\nto\nm\nt\ni\nh\nty\ne\nC\nN\no\na\nn\nm\nst\ne\ni t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAr\n(\ne\nG\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\nst\ne\ni\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nch\nst\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\n(Assembly Part No.)\nP\nT\ne\nr\nr\ni\ns\nb\no\ne\nn\ns\ns\na\ns\nn\nh\nd\no w\nB\ni\na\nn\nc\ng\nk\ns\nw\ne\na\nr\nr\nia\nd\nl\nC\nnu\nla\nm\nss\nb\ne\ne\ns\nr\nfor\ns\nW\ner\no\nia\nm\nl\ne\nn\nn\nu m\nsh\nb\no\ne\nw\nr\ning\na N No.)\n1 2 3 4 5 6\nMatalhat /I 30/1 6 127\nMatalhat /I 30/2 6 128\nMatalhat /II 31 6 129\nMatalhat /III 32 6 130\nMatalhat /PS-7 Matalhat /XV 44 6 144 7-SC\nMatalhat /XVI 45 6 145\nMatalhat /XVII 46/1 6 146\nMatalhat /XVII 46/2 6 147\nMatalhat /XVIII 47 6 148\nMatalhat /IV 33 6 131\nt\na\nh Matalhat /V 34 6 132\nla 3\nt Matalhat /VI 35 6 133\na\nM Matalhat /PS-8 8-SC 8-SCW\nMatalhat /VII 36/1 6 134\nMatalhat /VII 36/2 6 135\nMatalhat /VIII 37 6 136\nMatalhat /IX 38 6 137\nMatalhat /X 39 6 138\nMatalhat /XI 40 6 139\nMatalhat /PS-9 Matalhat /XII 41 6 140 9-SC\nMatalhat /XIII 42/1 6 141\nMatalhat /XIII 42/2 6 142\nMatalhat /XIV 43 6 143\nPage No. 3 / 11",
+      "tables": [
+        {
+          "bbox": [
+            50.88399999999999,
+            14.5,
+            801.1000066666667,
+            400.7300033333334
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of Members\nto be elected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              null,
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency reserved\nfor Women showing\nserial number"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "t\na\nh\nla\nt\na\nM",
+              "3",
+              "Matalhat /PS-7",
+              "Matalhat /I",
+              "30/1",
+              "6",
+              "127",
+              "7-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /I",
+              "30/2",
+              "6",
+              "128",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /II",
+              "31",
+              "6",
+              "129",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /III",
+              "32",
+              "6",
+              "130",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /XV",
+              "44",
+              "6",
+              "144",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /XVI",
+              "45",
+              "6",
+              "145",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /XVII",
+              "46/1",
+              "6",
+              "146",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /XVII",
+              "46/2",
+              "6",
+              "147",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /XVIII",
+              "47",
+              "6",
+              "148",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Matalhat /PS-8",
+              "Matalhat /IV",
+              "33",
+              "6",
+              "131",
+              "8-SC",
+              "8-SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /V",
+              "34",
+              "6",
+              "132",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /VI",
+              "35",
+              "6",
+              "133",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /VII",
+              "36/1",
+              "6",
+              "134",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /VII",
+              "36/2",
+              "6",
+              "135",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /VIII",
+              "37",
+              "6",
+              "136",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Matalhat /PS-9",
+              "Matalhat /IX",
+              "38",
+              "6",
+              "137",
+              "9-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /X",
+              "39",
+              "6",
+              "138",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /XI",
+              "40",
+              "6",
+              "139",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /XII",
+              "41",
+              "6",
+              "140",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /XIII",
+              "42/1",
+              "6",
+              "141",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /XIII",
+              "42/2",
+              "6",
+              "142",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Matalhat /XIV",
+              "43",
+              "6",
+              "143",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 942
+    },
+    {
+      "page": 4,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "m Number, Name and Area of the Constituency\na Constituency reserved for\nr G Number of Members Area of the Area of the Constituency Scheduled Castes, Scheduled Constituency reserved\nfo\ne m\nt\nP\no\na\nb\nn\ne\nc h\nel\na\ne\ny\nc\na\nte\nt\nd\nS a\nto\nm\nt\ni\nh\nty\ne\nC\nN\no\na\nn\nm\nst\ne\ni t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAr\n(\ne\nG\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\nst\ne\ni\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nch\nst\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\n(Assembly Part No.)\nP\nT\ne\nr\nr\ni\ns\nb\no\ne\nn\ns\ns\na\ns\nn\nh\nd\no w\nB\ni\na\nn\nc\ng\nk\ns\nw\ne\na\nr\nr\nia\nd\nl\nC\nnu\nla\nm\nss\nb\ne\ne\ns\nr\nfor\ns\nW\ner\no\nia\nm\nl\ne\nn\nn\nu m\nsh\nb\no\ne\nw\nr\ning\na N No.)\n1 2 3 4 5 6\nBhetaguri-II/I 48 6 149\nBhetaguri-II/II 49 6 150\nBhetaguri-II/PS-10 Bhetaguri-II/III 50 6 151 10-W\nBhetaguri-II/IV 51 6 152\nBhetaguri-II/V 52 6 153\nBhetaguri-II/VI 53/1 6 154\nI\nI\n- Bhetaguri-II/VI 53/2 6 155\nir\nu\ng 3 Bhetaguri-II/VII 54 6 156\na Bhetaguri-II/PS-11 11-SC 11-SCW\nt e Bhetaguri-II/VIII 55 6 157\nh\nB\nBhetaguri-II/IX 56 6 158\nBhetaguri-II/X 57 6 159\nBhetaguri-II/XI 58 6 160\nBhetaguri-II/XII 59 6 161\nBhetaguri-II/PS-12 12-SC\nBhetaguri-II/XIII 60 6 162\nBhetaguri-II/XIV 61 6 163\nPutimari-II/I 62/1 6 164\nPutimari-II/I 62/2 6 165\nPutimari-II/II 63 6 166\nPutimari-II/PS-13 13-SC 13-SCW\nI Putimari-II/III 64 6 167\nI\n-\nir Putimari-II/IV 65 6 168\na 2\nm\nPutimari-II/V 66 6 169\nit\nu\nP Putimari-II/VI 67 6 170\nPutimari-II/VII 68 6 171\nPutimari-II/PS-14 14-SC\nPutimari-II/VIII 69 6 172\nPutimari-II/IX 70 6 173\nPage No. 4 / 11",
+      "tables": [
+        {
+          "bbox": [
+            50.88399999999999,
+            14.5,
+            801.1000066666667,
+            444.32000333333343
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of Members\nto be elected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              null,
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency reserved\nfor Women showing\nserial number"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "I\nI\n-\nir\nu\ng\na\nt\ne\nh\nB",
+              "3",
+              "Bhetaguri-II/PS-10",
+              "Bhetaguri-II/I",
+              "48",
+              "6",
+              "149",
+              "",
+              "10-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-II/II",
+              "49",
+              "6",
+              "150",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-II/III",
+              "50",
+              "6",
+              "151",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-II/IV",
+              "51",
+              "6",
+              "152",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-II/V",
+              "52",
+              "6",
+              "153",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Bhetaguri-II/PS-11",
+              "Bhetaguri-II/VI",
+              "53/1",
+              "6",
+              "154",
+              "11-SC",
+              "11-SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-II/VI",
+              "53/2",
+              "6",
+              "155",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-II/VII",
+              "54",
+              "6",
+              "156",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-II/VIII",
+              "55",
+              "6",
+              "157",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-II/IX",
+              "56",
+              "6",
+              "158",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-II/X",
+              "57",
+              "6",
+              "159",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Bhetaguri-II/PS-12",
+              "Bhetaguri-II/XI",
+              "58",
+              "6",
+              "160",
+              "12-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-II/XII",
+              "59",
+              "6",
+              "161",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-II/XIII",
+              "60",
+              "6",
+              "162",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-II/XIV",
+              "61",
+              "6",
+              "163",
+              null,
+              null
+            ],
+            [
+              "I\nI\n-\nir\na\nm\nit\nu\nP",
+              "2",
+              "Putimari-II/PS-13",
+              "Putimari-II/I",
+              "62/1",
+              "6",
+              "164",
+              "13-SC",
+              "13-SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-II/I",
+              "62/2",
+              "6",
+              "165",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-II/II",
+              "63",
+              "6",
+              "166",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-II/III",
+              "64",
+              "6",
+              "167",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-II/IV",
+              "65",
+              "6",
+              "168",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-II/V",
+              "66",
+              "6",
+              "169",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Putimari-II/PS-14",
+              "Putimari-II/VI",
+              "67",
+              "6",
+              "170",
+              "14-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-II/VII",
+              "68",
+              "6",
+              "171",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-II/VIII",
+              "69",
+              "6",
+              "172",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-II/IX",
+              "70",
+              "6",
+              "173",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1125
+    },
+    {
+      "page": 5,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "m Number, Name and Area of the Constituency\na Constituency reserved for\nr G Number of Members Area of the Area of the Constituency Scheduled Castes, Scheduled Constituency reserved\nfo\ne m\nt\nP\no\na\nb\nn\ne\nc h\nel\na\ne\ny\nc\na\nte\nt\nd\nS a\nto\nm\nt\ni\nh\nty\ne\nC\nN\no\na\nn\nm\nst\ne\ni t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAr\n(\ne\nG\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\nst\ne\ni\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nch\nst\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\n(Assembly Part No.)\nP\nT\ne\nr\nr\ni\ns\nb\no\ne\nn\ns\ns\na\ns\nn\nh\nd\no w\nB\ni\na\nn\nc\ng\nk\ns\nw\ne\na\nr\nr\nia\nd\nl\nC\nnu\nla\nm\nss\nb\ne\ne\ns\nr\nfor\ns\nW\ner\no\nia\nm\nl\ne\nn\nn\nu m\nsh\nb\no\ne\nw\nr\ning\na N No.)\n1 2 3 4 5 6\nPetla /I 71 6 174\nPetla /II 72 6 175\nPetla /IV 74/1 6 177\nPetla /IV 74/2 6 178\nPetla /PS-15\nPetla /V 75/1 6 179\nPetla /V 75/2 6 180\nPetla /XIV 84 6 189\nPetla /XV 85 6 190\nPetla /III 73 6 176\nPetla /VI 76 6 181\nPetla /VII 77 6 182\na\nlt 3 Petla /XI 81 6 186\ne P Petla /PS-16 16-W\nPetla /XII 82 6 187\nPetla /XIII 83 6 188\nPetla /XVII 87 6 192\nPetla /XVIII 88 6 193\nPetla /VIII 78 6 183\nPetla /IX 79 6 184\nPetla /X 80 6 185\nPetla /PS-17 Petla /XVI 86 6 191 17-SC 17-SCW\nPetla /XIX 89 6 194\nPetla /XX 90 6 195\nPetla /XXI 91 6 196\nPage No. 5 / 11",
+      "tables": [
+        {
+          "bbox": [
+            50.88399999999999,
+            14.5,
+            801.1000066666667,
+            415.9699933333334
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of Members\nto be elected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              null,
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency reserved\nfor Women showing\nserial number"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "a\nlt\ne\nP",
+              "3",
+              "Petla /PS-15",
+              "Petla /I",
+              "71",
+              "6",
+              "174",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /II",
+              "72",
+              "6",
+              "175",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /IV",
+              "74/1",
+              "6",
+              "177",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /IV",
+              "74/2",
+              "6",
+              "178",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /V",
+              "75/1",
+              "6",
+              "179",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /V",
+              "75/2",
+              "6",
+              "180",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /XIV",
+              "84",
+              "6",
+              "189",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /XV",
+              "85",
+              "6",
+              "190",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Petla /PS-16",
+              "Petla /III",
+              "73",
+              "6",
+              "176",
+              "",
+              "16-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /VI",
+              "76",
+              "6",
+              "181",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /VII",
+              "77",
+              "6",
+              "182",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /XI",
+              "81",
+              "6",
+              "186",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /XII",
+              "82",
+              "6",
+              "187",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /XIII",
+              "83",
+              "6",
+              "188",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /XVII",
+              "87",
+              "6",
+              "192",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /XVIII",
+              "88",
+              "6",
+              "193",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Petla /PS-17",
+              "Petla /VIII",
+              "78",
+              "6",
+              "183",
+              "17-SC",
+              "17-SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /IX",
+              "79",
+              "6",
+              "184",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /X",
+              "80",
+              "6",
+              "185",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /XVI",
+              "86",
+              "6",
+              "191",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /XIX",
+              "89",
+              "6",
+              "194",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /XX",
+              "90",
+              "6",
+              "195",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Petla /XXI",
+              "91",
+              "6",
+              "196",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 869
+    },
+    {
+      "page": 6,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "m Number, Name and Area of the Constituency\na Constituency reserved for\nr G Number of Members Area of the Area of the Constituency Scheduled Castes, Scheduled Constituency reserved\nfo\ne m\nt\nP\no\na\nb\nn\ne\nc h\nel\na\ne\ny\nc\na\nte\nt\nd\nS a\nto\nm\nt\ni\nh\nty\ne\nC\nN\no\na\nn\nm\nst\ne\ni t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAr\n(\ne\nG\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\nst\ne\ni\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nch\nst\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\n(Assembly Part No.)\nP\nT\ne\nr\nr\ni\ns\nb\no\ne\nn\ns\ns\na\ns\nn\nh\nd\no w\nB\ni\na\nn\nc\ng\nk\ns\nw\ne\na\nr\nr\nia\nd\nl\nC\nnu\nla\nm\nss\nb\ne\ne\ns\nr\nfor\ns\nW\ner\no\nia\nm\nl\ne\nn\nn\nu m\nsh\nb\no\ne\nw\nr\ning\na N No.)\n1 2 3 4 5 6\nBaro Soulmari /I 92 6 197\nBaro Soulmari /II 93 6 198\nBaro Soulmari /PS-18 Baro Soulmari /III 94 6 199\nBaro Soulmari /IV 95 6 200\nBaro Soulmari /V 96 6 201\nir Baro Soulmari /VI 97/1 6 202\na\nm Baro Soulmari /VI 97/2 6 203\nlu\no 3 Baro Soulmari /PS-19 Baro Soulmari /VII 98 6 204 19-SC\nS\no Baro Soulmari /VIII 99 6 205\nr\na\nB Baro Soulmari /IX 100 6 206\nBaro Soulmari /X 101 6 207\nBaro Soulmari /XI 102 6 208\nBaro Soulmari /PS-20 Baro Soulmari /XII 103 6 209 20-W\nBaro Soulmari /XIII 104 6 210\nBaro Soulmari /XIV 105 6 211\nBaro Atiabari-II/I 106 6 212\nBaro Atiabari-II/II 107 6 213\nBaro Atiabari-II/PS-21 Baro Atiabari-II/III 108 6 214\nBaro Atiabari-II/IV 109 6 215\nI I Baro Atiabari-II/V 110 6 216\n-\nir\na Baro Atiabari-II/VI 111 6 217\nb\na 3 Baro Atiabari-II/VII 112 6 218\nit\nA Baro Atiabari-II/PS-22 22-W\no\nBaro Atiabari-II/IX 114 6 220\nr\na Baro Atiabari-II/X 115 6 221\nB\nBaro Atiabari-II/VIII 113 6 219\nBaro Atiabari-II/XI 116 6 222\nBaro Atiabari-II/PS-23\nBaro Atiabari-II/XII 117/1 6 223\nBaro Atiabari-II/XII 117/2 6 224\nPage No. 6 / 11",
+      "tables": [
+        {
+          "bbox": [
+            50.88399999999999,
+            14.5,
+            801.1000066666667,
+            487.8800033333334
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of Members\nto be elected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              null,
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency reserved\nfor Women showing\nserial number"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "ir\na\nm\nlu\no\nS\no\nr\na\nB",
+              "3",
+              "Baro Soulmari /PS-18",
+              "Baro Soulmari /I",
+              "92",
+              "6",
+              "197",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Soulmari /II",
+              "93",
+              "6",
+              "198",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Soulmari /III",
+              "94",
+              "6",
+              "199",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Soulmari /IV",
+              "95",
+              "6",
+              "200",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Soulmari /V",
+              "96",
+              "6",
+              "201",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Baro Soulmari /PS-19",
+              "Baro Soulmari /VI",
+              "97/1",
+              "6",
+              "202",
+              "19-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Soulmari /VI",
+              "97/2",
+              "6",
+              "203",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Soulmari /VII",
+              "98",
+              "6",
+              "204",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Soulmari /VIII",
+              "99",
+              "6",
+              "205",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Soulmari /IX",
+              "100",
+              "6",
+              "206",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Baro Soulmari /PS-20",
+              "Baro Soulmari /X",
+              "101",
+              "6",
+              "207",
+              "",
+              "20-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Soulmari /XI",
+              "102",
+              "6",
+              "208",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Soulmari /XII",
+              "103",
+              "6",
+              "209",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Soulmari /XIII",
+              "104",
+              "6",
+              "210",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Soulmari /XIV",
+              "105",
+              "6",
+              "211",
+              null,
+              null
+            ],
+            [
+              "I\nI\n-\nir\na\nb\na\nit\nA\no\nr\na\nB",
+              "3",
+              "Baro Atiabari-II/PS-21",
+              "Baro Atiabari-II/I",
+              "106",
+              "6",
+              "212",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-II/II",
+              "107",
+              "6",
+              "213",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-II/III",
+              "108",
+              "6",
+              "214",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-II/IV",
+              "109",
+              "6",
+              "215",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-II/V",
+              "110",
+              "6",
+              "216",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Baro Atiabari-II/PS-22",
+              "Baro Atiabari-II/VI",
+              "111",
+              "6",
+              "217",
+              "",
+              "22-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-II/VII",
+              "112",
+              "6",
+              "218",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-II/IX",
+              "114",
+              "6",
+              "220",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-II/X",
+              "115",
+              "6",
+              "221",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Baro Atiabari-II/PS-23",
+              "Baro Atiabari-II/VIII",
+              "113",
+              "6",
+              "219",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-II/XI",
+              "116",
+              "6",
+              "222",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-II/XII",
+              "117/1",
+              "6",
+              "223",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-II/XII",
+              "117/2",
+              "6",
+              "224",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1322
+    },
+    {
+      "page": 7,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "m Number, Name and Area of the Constituency\na Constituency reserved for\nr G Number of Members Area of the Area of the Constituency Scheduled Castes, Scheduled Constituency reserved\nfo\ne m\nt\nP\no\na\nb\nn\ne\nc h\nel\na\ne\ny\nc\na\nte\nt\nd\nS a\nto\nm\nt\ni\nh\nty\ne\nC\nN\no\na\nn\nm\nst\ne\ni t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAr\n(\ne\nG\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\nst\ne\ni\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nch\nst\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\n(Assembly Part No.)\nP\nT\ne\nr\nr\ni\ns\nb\no\ne\nn\ns\ns\na\ns\nn\nh\nd\no w\nB\ni\na\nn\nc\ng\nk\ns\nw\ne\na\nr\nr\nia\nd\nl\nC\nnu\nla\nm\nss\nb\ne\ne\ns\nr\nfor\ns\nW\ner\no\nia\nm\nl\ne\nn\nn\nu m\nsh\nb\no\ne\nw\nr\ning\na N No.)\n1 2 3 4 5 6\nBaro Atiabari-I/I 118 6 225\nBaro Atiabari-I/II 119 6 226\nBaro Atiabari-I/PS-24 24-BC 24-BCW\nBaro Atiabari-I/III 120 6 227\nBaro Atiabari-I/IV 121 6 228\nI Baro Atiabari-I/V 122 6 229\n-\nir\na Baro Atiabari-I/VI 123 6 230\nb Baro Atiabari-I/PS-25 25-W\na\nit 3 Baro Atiabari-I/VII 124 6 231\nA\no Baro Atiabari-I/VIII 125 6 232\nr\na B Baro Atiabari-I/IX 126/1 6 233\nBaro Atiabari-I/IX 126/2 6 234\nBaro Atiabari-I/PS-26 Baro Atiabari-I/X 127 6 235 26-W\nBaro Atiabari-I/XI 128 6 236\nBaro Atiabari-I/XII 129 6 237\nPage No. 7 / 11",
+      "tables": [
+        {
+          "bbox": [
+            50.88399999999999,
+            14.5,
+            801.1000066666667,
+            270.0299933333334
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of Members\nto be elected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              null,
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency reserved\nfor Women showing\nserial number"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "I\n-\nir\na\nb\na\nit\nA\no\nr\na\nB",
+              "3",
+              "Baro Atiabari-I/PS-24",
+              "Baro Atiabari-I/I",
+              "118",
+              "6",
+              "225",
+              "24-BC",
+              "24-BCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-I/II",
+              "119",
+              "6",
+              "226",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-I/III",
+              "120",
+              "6",
+              "227",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-I/IV",
+              "121",
+              "6",
+              "228",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Baro Atiabari-I/PS-25",
+              "Baro Atiabari-I/V",
+              "122",
+              "6",
+              "229",
+              "",
+              "25-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-I/VI",
+              "123",
+              "6",
+              "230",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-I/VII",
+              "124",
+              "6",
+              "231",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-I/VIII",
+              "125",
+              "6",
+              "232",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Baro Atiabari-I/PS-26",
+              "Baro Atiabari-I/IX",
+              "126/1",
+              "6",
+              "233",
+              "",
+              "26-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-I/IX",
+              "126/2",
+              "6",
+              "234",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-I/X",
+              "127",
+              "6",
+              "235",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-I/XI",
+              "128",
+              "6",
+              "236",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Baro Atiabari-I/XII",
+              "129",
+              "6",
+              "237",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 876
+    },
+    {
+      "page": 8,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "m Number, Name and Area of the Constituency\na Constituency reserved for\nr G Number of Members Area of the Area of the Constituency Scheduled Castes, Scheduled Constituency reserved\nfo\ne m\nt\nP\no\na\nb\nn\ne\nc h\nel\na\ne\ny\nc\na\nte\nt\nd\nS a\nto\nm\nt\ni\nh\nty\ne\nC\nN\no\na\nn\nm\nst\ne\ni t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAr\n(\ne\nG\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\nst\ne\ni\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nch\nst\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\n(Assembly Part No.)\nP\nT\ne\nr\nr\ni\ns\nb\no\ne\nn\ns\ns\na\ns\nn\nh\nd\no w\nB\ni\na\nn\nc\ng\nk\ns\nw\ne\na\nr\nr\nia\nd\nl\nC\nnu\nla\nm\nss\nb\ne\ne\ns\nr\nfor\ns\nW\ner\no\nia\nm\nl\ne\nn\nn\nu m\nsh\nb\no\ne\nw\nr\ning\na N No.)\n1 2 3 4 5 6\nOkrabari /I 130 6 238\nOkrabari /II 131 6 239\nOkrabari /III 132 6 240\nOkrabari /IV 133 6 241\nOkrabari / PS-27 Okrabari /V 134/1 6 242\nOkrabari /V 134/2 6 243\nOkrabari /VI 135/1 6 244\nOkrabari /VI 135/2 6 245\nOkrabari /VII 136 6 246\nOkrabari /VIII 137 6 247\nOkrabari /IX 138 6 248\nir Okrabari /X 139 6 249\na Okrabari / PS-28 28-BC\nb\na 3 Okrabari /XIII 142 6 252\nr\nk O Okrabari /XIV 143 6 253\nOkrabari /XV 144 6 254\nOkrabari /XI 140 6 250\nOkrabari /XII 141 6 251\nOkrabari /XVI 145 6 255\nOkrabari /XVII 146/1 6 256\nOkrabari /XVII 146/2 6 257\nOkrabari / PS-29 29-BC 29-BCW\nOkrabari /XVIII 147 6 258\nOkrabari /XIX 148 6 259\nOkrabari /XX 149 6 260\nOkrabari /XXI 150 6 261\nOkrabari /XXII 151 6 262\nPage No. 8 / 11",
+      "tables": [
+        {
+          "bbox": [
+            50.88399999999999,
+            14.5,
+            801.1000066666667,
+            444.32000333333343
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of Members\nto be elected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              null,
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency reserved\nfor Women showing\nserial number"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "ir\na\nb\na\nr\nk\nO",
+              "3",
+              "Okrabari / PS-27",
+              "Okrabari /I",
+              "130",
+              "6",
+              "238",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /II",
+              "131",
+              "6",
+              "239",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /III",
+              "132",
+              "6",
+              "240",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /IV",
+              "133",
+              "6",
+              "241",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /V",
+              "134/1",
+              "6",
+              "242",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /V",
+              "134/2",
+              "6",
+              "243",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /VI",
+              "135/1",
+              "6",
+              "244",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /VI",
+              "135/2",
+              "6",
+              "245",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /VII",
+              "136",
+              "6",
+              "246",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Okrabari / PS-28",
+              "Okrabari /VIII",
+              "137",
+              "6",
+              "247",
+              "28-BC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /IX",
+              "138",
+              "6",
+              "248",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /X",
+              "139",
+              "6",
+              "249",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /XIII",
+              "142",
+              "6",
+              "252",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /XIV",
+              "143",
+              "6",
+              "253",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /XV",
+              "144",
+              "6",
+              "254",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Okrabari / PS-29",
+              "Okrabari /XI",
+              "140",
+              "6",
+              "250",
+              "29-BC",
+              "29-BCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /XII",
+              "141",
+              "6",
+              "251",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /XVI",
+              "145",
+              "6",
+              "255",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /XVII",
+              "146/1",
+              "6",
+              "256",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /XVII",
+              "146/2",
+              "6",
+              "257",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /XVIII",
+              "147",
+              "6",
+              "258",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /XIX",
+              "148",
+              "6",
+              "259",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /XX",
+              "149",
+              "6",
+              "260",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /XXI",
+              "150",
+              "6",
+              "261",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Okrabari /XXII",
+              "151",
+              "6",
+              "262",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1023
+    },
+    {
+      "page": 9,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "m Number, Name and Area of the Constituency\na Constituency reserved for\nr G Number of Members Area of the Area of the Constituency Scheduled Castes, Scheduled Constituency reserved\nfo\ne m\nt\nP\no\na\nb\nn\ne\nc h\nel\na\ne\ny\nc\na\nte\nt\nd\nS a\nto\nm\nt\ni\nh\nty\ne\nC\nN\no\na\nn\nm\nst\ne\ni t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAr\n(\ne\nG\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\nst\ne\ni\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nch\nst\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\n(Assembly Part No.)\nP\nT\ne\nr\nr\ni\ns\nb\no\ne\nn\ns\ns\na\ns\nn\nh\nd\no w\nB\ni\na\nn\nc\ng\nk\ns\nw\ne\na\nr\nr\nia\nd\nl\nC\nnu\nla\nm\nss\nb\ne\ne\ns\nr\nfor\ns\nW\ner\no\nia\nm\nl\ne\nn\nn\nu m\nsh\nb\no\ne\nw\nr\ning\na N No.)\n1 2 3 4 5 6\nGitaldaha-II/I 152 6 263\nGitaldaha-II/II 153/1 6 264\nGitaldaha-II/PS-30 Gitaldaha-II/II 153/2 6 265 30-SC\nGitaldaha-II/III 154 6 266\nI\nI\n- Gitaldaha-II/IV 155 6 267\na\nh\na 2 Gitaldaha-II/V 156 6 268\nd\nla\nGitaldaha-II/VI 157 6 269\nt\niG\nGitaldaha-II/VII 158 6 270\nGitaldaha-II/PS-31 31-SC 31-SCW\nGitaldaha-II/VIII 159 6 271\nGitaldaha-II/IX 160 6 272\nGitaldaha-II/X 161 6 273\nGitaldaha-I/I 162 6 274\nGitaldaha-I/II 163 6 275\nGitaldaha-I/PS-32\nGitaldaha-I/III 164 6 276\nGitaldaha-I/IV 165 6 277\nGitaldaha-I/V 166 6 278\nI\n- a Gitaldaha-I/VI 167 6 279\nh Gitaldaha-I/PS-33\na d 3 Gitaldaha-I/VII 168 6 280\nla\nt Gitaldaha-I/VIII 169 6 281\niG\nGitaldaha-I/IX 170 6 282\nGitaldaha-I/X 171/1 6 283\nGitaldaha-I/PS-34 Gitaldaha-I/X 171/2 6 284\nGitaldaha-I/XI 172/1 6 285\nGitaldaha-I/XI 172/2 6 286\nPage No. 9 / 11",
+      "tables": [
+        {
+          "bbox": [
+            50.88399999999999,
+            14.5,
+            801.1000066666667,
+            429.79999333333336
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of Members\nto be elected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              null,
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency reserved\nfor Women showing\nserial number"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "I\nI\n-\na\nh\na\nd\nla\nt\niG",
+              "2",
+              "Gitaldaha-II/PS-30",
+              "Gitaldaha-II/I",
+              "152",
+              "6",
+              "263",
+              "30-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-II/II",
+              "153/1",
+              "6",
+              "264",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-II/II",
+              "153/2",
+              "6",
+              "265",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-II/III",
+              "154",
+              "6",
+              "266",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-II/IV",
+              "155",
+              "6",
+              "267",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Gitaldaha-II/PS-31",
+              "Gitaldaha-II/V",
+              "156",
+              "6",
+              "268",
+              "31-SC",
+              "31-SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-II/VI",
+              "157",
+              "6",
+              "269",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-II/VII",
+              "158",
+              "6",
+              "270",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-II/VIII",
+              "159",
+              "6",
+              "271",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-II/IX",
+              "160",
+              "6",
+              "272",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-II/X",
+              "161",
+              "6",
+              "273",
+              null,
+              null
+            ],
+            [
+              "I\n-\na\nh\na\nd\nla\nt\niG",
+              "3",
+              "Gitaldaha-I/PS-32",
+              "Gitaldaha-I/I",
+              "162",
+              "6",
+              "274",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-I/II",
+              "163",
+              "6",
+              "275",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-I/III",
+              "164",
+              "6",
+              "276",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-I/IV",
+              "165",
+              "6",
+              "277",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Gitaldaha-I/PS-33",
+              "Gitaldaha-I/V",
+              "166",
+              "6",
+              "278",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-I/VI",
+              "167",
+              "6",
+              "279",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-I/VII",
+              "168",
+              "6",
+              "280",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-I/VIII",
+              "169",
+              "6",
+              "281",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Gitaldaha-I/PS-34",
+              "Gitaldaha-I/IX",
+              "170",
+              "6",
+              "282",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-I/X",
+              "171/1",
+              "6",
+              "283",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-I/X",
+              "171/2",
+              "6",
+              "284",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-I/XI",
+              "172/1",
+              "6",
+              "285",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Gitaldaha-I/XI",
+              "172/2",
+              "6",
+              "286",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1103
+    },
+    {
+      "page": 10,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "m Number, Name and Area of the Constituency\na Constituency reserved for\nr G Number of Members Area of the Area of the Constituency Scheduled Castes, Scheduled Constituency reserved\nfo\ne m\nt\nP\no\na\nb\nn\ne\nc h\nel\na\ne\ny\nc\na\nte\nt\nd\nS a\nto\nm\nt\ni\nh\nty\ne\nC\nN\no\na\nn\nm\nst\ne\ni t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAr\n(\ne\nG\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\nst\ne\ni\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nch\nst\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\n(Assembly Part No.)\nP\nT\ne\nr\nr\ni\ns\nb\no\ne\nn\ns\ns\na\ns\nn\nh\nd\no w\nB\ni\na\nn\nc\ng\nk\ns\nw\ne\na\nr\nr\nia\nd\nl\nC\nnu\nla\nm\nss\nb\ne\ne\ns\nr\nfor\ns\nW\ner\no\nia\nm\nl\ne\nn\nn\nu m\nsh\nb\no\ne\nw\nr\ning\na N No.)\n1 2 3 4 5 6\nBhetaguri-I/I 173 7 222\nBhetaguri-I/II 174 7 223\nBhetaguri-I/III 175 7 224\nBhetaguri-I/PS-35 35-SC\nBhetaguri-I/IV 176 7 225\nI Bhetaguri-I/V 177/1 7 226\n-\nir\nu Bhetaguri-I/V 177/2 7 227\ng 2\na t Bhetaguri-I/VI 178 7 228\ne\nh\nB Bhetaguri-I/VII 179 7 229\nBhetaguri-I/VIII 180/1 7 230\nBhetaguri-I/PS-36\nBhetaguri-I/VIII 180/2 7 231\nBhetaguri-I/IX 181 7 232\nBhetaguri-I/X 182 7 233\nPutimari-I/I 183 7 234\nPutimari-I/II 184 7 235\nPutimari-I/VII 189 7 241\nPutimari-I/PS-37 37-W\nPutimari-I/VIII 190 7 242\nPutimari-I/IX 191/1 7 243\nPutimari-I/IX 191/2 7 244\nPutimari-I/III 185/1 7 236\nI\n- Putimari-I/III 185/2 7 237\nir\na\nm 3 Putimari-I/XII 194 7 247\nit\nu\nPutimari-I/PS-38\nPutimari-I/XIII 195 7 248\n38-SC 38-SCW\nP\nPutimari-I/XIV 196 7 249\nPutimari-I/XV 197 7 250\nPutimari-I/IV 186 7 238\nPutimari-I/V 187 7 239\nPutimari-I/PS-39 Putimari-I/VI 188 7 240\nPutimari-I/X 192 7 245\nPutimari-I/XI 193 7 246\nPage No. 10 / 11",
+      "tables": [
+        {
+          "bbox": [
+            50.88399999999999,
+            14.5,
+            801.1000066666667,
+            502.39600333333334
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of Members\nto be elected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              null,
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency reserved\nfor Women showing\nserial number"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "I\n-\nir\nu\ng\na\nt\ne\nh\nB",
+              "2",
+              "Bhetaguri-I/PS-35",
+              "Bhetaguri-I/I",
+              "173",
+              "7",
+              "222",
+              "35-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-I/II",
+              "174",
+              "7",
+              "223",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-I/III",
+              "175",
+              "7",
+              "224",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-I/IV",
+              "176",
+              "7",
+              "225",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-I/V",
+              "177/1",
+              "7",
+              "226",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-I/V",
+              "177/2",
+              "7",
+              "227",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Bhetaguri-I/PS-36",
+              "Bhetaguri-I/VI",
+              "178",
+              "7",
+              "228",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-I/VII",
+              "179",
+              "7",
+              "229",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-I/VIII",
+              "180/1",
+              "7",
+              "230",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-I/VIII",
+              "180/2",
+              "7",
+              "231",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-I/IX",
+              "181",
+              "7",
+              "232",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Bhetaguri-I/X",
+              "182",
+              "7",
+              "233",
+              null,
+              null
+            ],
+            [
+              "I\n-\nir\na\nm\nit\nu\nP",
+              "3",
+              "Putimari-I/PS-37",
+              "Putimari-I/I",
+              "183",
+              "7",
+              "234",
+              "",
+              "37-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/II",
+              "184",
+              "7",
+              "235",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/VII",
+              "189",
+              "7",
+              "241",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/VIII",
+              "190",
+              "7",
+              "242",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/IX",
+              "191/1",
+              "7",
+              "243",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/IX",
+              "191/2",
+              "7",
+              "244",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Putimari-I/PS-38",
+              "Putimari-I/III",
+              "185/1",
+              "7",
+              "236",
+              "38-SC",
+              "38-SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/III",
+              "185/2",
+              "7",
+              "237",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/XII",
+              "194",
+              "7",
+              "247",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/XIII",
+              "195",
+              "7",
+              "248",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/XIV",
+              "196",
+              "7",
+              "249",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/XV",
+              "197",
+              "7",
+              "250",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Putimari-I/PS-39",
+              "Putimari-I/IV",
+              "186",
+              "7",
+              "238",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/V",
+              "187",
+              "7",
+              "239",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/VI",
+              "188",
+              "7",
+              "240",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/X",
+              "192",
+              "7",
+              "245",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Putimari-I/XI",
+              "193",
+              "7",
+              "246",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1189
+    },
+    {
+      "page": 11,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "m Number, Name and Area of the Constituency\na Constituency reserved for\nr G Number of Members Area of the Area of the Constituency Scheduled Castes, Scheduled Constituency reserved\nfo\ne m\nt\nP\no\na\nb\nn\ne\nc h\nel\na\ne\ny\nc\na\nte\nt\nd\nS a\nto\nm\nt\ni\nh\nty\ne\nC\nN\no\na\nn\nm\nst\ne\ni t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAr\n(\ne\nG\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\nst\ne\ni\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nch\nst\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\n(Assembly Part No.)\nP\nT\ne\nr\nr\ni\ns\nb\no\ne\nn\ns\ns\na\ns\nn\nh\nd\no w\nB\ni\na\nn\nc\ng\nk\ns\nw\ne\na\nr\nr\nia\nd\nl\nC\nnu\nla\nm\nss\nb\ne\ne\ns\nr\nfor\ns\nW\ner\no\nia\nm\nl\ne\nn\nn\nu m\nsh\nb\no\ne\nw\nr\ning\na N No.)\n1 2 3 4 5 6\nDinhata Village -I/I 198 7 251\nDinhata Village -I/II 199 7 252\nI - Dinhata Village-I/PS-40 Dinhata Village -I/III 200 7 253 40-SC\ne\ng\na Dinhata Village -I/IV 201 7 254\nlliV\n2 Dinhata Village -I/V 202 7 255\na\nt a Dinhata Village -I/VI 203 7 256\nh\nn iD\nDinhata Village-I/PS-41\nDinhata Village -I/VII 204 7 257\n41-W\nDinhata Village -I/VIII 205 7 258\nDinhata Village -I/IX 206 7 259\nDinhata Village -II/I 207 7 260\nDinhata Village -II/II 208 7 261\nDinhata Village-II/PS-42 Dinhata Village -II/III 209/1 7 262\nDinhata Village -II/III 209/2 7 263\nDinhata Village -II/VI 212 7 267\nI Dinhata Village -II/IV 210 7 264\nI\n-\ne Dinhata Village -II/VII 213 7 268\ng\na\nlliV\n3\nDinhata Village-II/PS-43 Dinhata Village -II/XI 217 7 272 43-SC 43-SCW\na Dinhata Village -II/XII 218 7 273\nt\na\nh Dinhata Village -II/XIII 219 7 274\nn\niD Dinhata Village -II/V 211/1 7 265\nDinhata Village -II/V 211/2 7 266\nDinhata Village -II/VIII 214 7 269\nDinhata Village-II/PS-44 44-W\nDinhata Village -II/IX 215 7 270\nDinhata Village -II/X 216 7 271\nDinhata Village -II/XIV 220 7 275\nPage No. 11 / 11",
+      "tables": [
+        {
+          "bbox": [
+            50.88399999999999,
+            14.5,
+            801.1000066666667,
+            444.32000333333343
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of Members\nto be elected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              null,
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency reserved\nfor Women showing\nserial number"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "I\n-\ne\ng\na\nlliV\na\nt\na\nh\nn\niD",
+              "2",
+              "Dinhata Village-I/PS-40",
+              "Dinhata Village -I/I",
+              "198",
+              "7",
+              "251",
+              "40-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -I/II",
+              "199",
+              "7",
+              "252",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -I/III",
+              "200",
+              "7",
+              "253",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -I/IV",
+              "201",
+              "7",
+              "254",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -I/V",
+              "202",
+              "7",
+              "255",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Dinhata Village-I/PS-41",
+              "Dinhata Village -I/VI",
+              "203",
+              "7",
+              "256",
+              "",
+              "41-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -I/VII",
+              "204",
+              "7",
+              "257",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -I/VIII",
+              "205",
+              "7",
+              "258",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -I/IX",
+              "206",
+              "7",
+              "259",
+              null,
+              null
+            ],
+            [
+              "I\nI\n-\ne\ng\na\nlliV\na\nt\na\nh\nn\niD",
+              "3",
+              "Dinhata Village-II/PS-42",
+              "Dinhata Village -II/I",
+              "207",
+              "7",
+              "260",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/II",
+              "208",
+              "7",
+              "261",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/III",
+              "209/1",
+              "7",
+              "262",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/III",
+              "209/2",
+              "7",
+              "263",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/VI",
+              "212",
+              "7",
+              "267",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Dinhata Village-II/PS-43",
+              "Dinhata Village -II/IV",
+              "210",
+              "7",
+              "264",
+              "43-SC",
+              "43-SCW"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/VII",
+              "213",
+              "7",
+              "268",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/XI",
+              "217",
+              "7",
+              "272",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/XII",
+              "218",
+              "7",
+              "273",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/XIII",
+              "219",
+              "7",
+              "274",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Dinhata Village-II/PS-44",
+              "Dinhata Village -II/V",
+              "211/1",
+              "7",
+              "265",
+              "",
+              "44-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/V",
+              "211/2",
+              "7",
+              "266",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/VIII",
+              "214",
+              "7",
+              "269",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/IX",
+              "215",
+              "7",
+              "270",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/X",
+              "216",
+              "7",
+              "271",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Dinhata Village -II/XIV",
+              "220",
+              "7",
+              "275",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1358
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 11
+}

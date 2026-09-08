@@ -1,0 +1,51 @@
+TIRUAVANNAMA
+VILLAGE PANCHAY
+Reservation of Seat for Schedule Caste/Schedule Tribe
+Tamil Nad
+Sl. Category to which
+Name of the Village Panchayat
+No. reservtion to made
+1 2 3
+Tiruvannamalai Panchayat Union
+1 Melkachirapattu ST (Women)
+2 Palayanur ST (General)
+3 Athiyandal SC(Women)
+4 Chinnakangeyanur SC(Women)
+5 Kadagaman SC(Women)
+6 Devanandal SC(Women)
+7 Thenmathur SC(Women)
+8 Ananandal SC(Women)
+9 Thandarai SC(General)
+10 Veraiyur SC(General)
+11 Pandithapattu SC(General)
+12 Malappambadi SC(General)
+13 Kolakudi SC(General)
+14 Pavupattu SC(General)
+15 Navambattu SC(General)
+16 Naraiyur SC(General)
+17 Endal SC(General)
+18 Periyakallapadi SC(General)
+19 Isukazhikatteri General(Women)
+20 Thalayampallam General(Women)
+21 Thiruvanaimugam Valasai General(Women)
+22 Arudirapattu General(Women)
+23 Anaipirandan General(Women)
+24 Andampallam General(Women)
+25 Devanur General(Women)
+26 Kilkachirapattu General(Women)
+27 Nallanpillaipetral General(Women)
+28 Nallavanpalayam General(Women)
+29 Perumanam General(Women)
+30 So.Kilnachipattu General(Women)
+31 Thiruvarangam Valavetti General(Women)
+32 Aradapattu General(Women)
+33 T. Kalleri General(Women)
+34 Meyyur General(Women)
+35 Viruduvilanginan General
+36 Melathickan General
+37 Su.Pappambadi General
+38 Adaiyur General
+39 Parayampattu General
+40 Chinnakallapadi General
+41 Ayyampalayam General
+Page 41

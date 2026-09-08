@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "sha256": "62a01bd5357717e134a584dc75e13e50004ee72eeecffc3ec378c86c98b1cb9c",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "fo\nrebmun\nlatoT\nsrebmem\nsetsaC\ndeludehcS\nsrebmem\nsebirT\neludehcS\nsrebmem\nsrebmem\nnemoW\nThe Schedule\nForm - A1\nBlock : Karimpur-II\nNumber of Members to be elected to\nthe GramPanchayat\nName of Gram\n(1) (2a) (2b) (2c) (2d) (3) (4)\nNatidanga-I 9 Nil Nil 3 Natidanga-I/I,Part No. 69/19\nMouza-Subharajpur,J.L.No-12\n1 1 , (Women)\n(i) Subharajpur Sarderpara\n(ii) Subharajpur shaikhpara\nNatidanga-I/II, Part No. 69/20\nMouza-Saguna ,J.L.No.-13 2\n(i) Panditpur\nNatidanga-I/III, Part No. 69/21\nMouza-Saguna , J.L.No.-13 3\n(i) Kalupur,\nNatidanga-I/IV, Part No. 69/22\nMouza-Saguna ,J.L.No.-13\n(i)Laxmipur Uttarpara\n4 4 , (Women)\n(ii)Laxmipur Madhyapara\n(iii) Laxmipur Kuthipara\n(iv) Ramnagar Kuthipara\nNatidanga-I/V, Part No. 69/23\nMouza-Saguna ,J.L.No.-13\n(i) Babupara\nMouza-Natidanga,J.L.No.14 5\n(ii) Telkalpara\nMouza-subharajpur ,J.L.No.-12\n(iii) Brahamanpara\nNatidanga-I/VI, Part No. 69/24\nMouza-Subharajpur,J.L.No-12 6\n(i) Mathurapur\nNatidanga-I/VII, Part No. 69/25\nMouza-Char Adityapur ,J.L.No.-15\n(i) Adityapur\n7 7 , (Women)\nMouza-Natidanga,J,L.No.-14\n(ii) Nabinganj Dakshinpara\n(iii) Nabinganj Purbapara\nNatidanga-I/VIII, Part No. 69/26\nMouza-Natidanga ,J.L.No-14\n(i)Nabinganj Madhyapara\n8\n(ii) Nabinganj Uttarpara\nMouza-Saguna J.L.No-13\n(iii) Charpara\nfo aera\ndna\nemaN\n,rebmuN\nlaires\nhtiw\nseicneutitsnoc\nsrebmun\nhcae\not detacolla\nstaeS\nlaires\nhtiw\nycneutitsnoc\nsrebmun\nrof\ndevreser\nstaeS\ndna\nsetsaC\ndeludehcS\ntsniaga\nsebirT\neludehcS\nstaes\nfo\nrebmun\nlaires\nnemoW\nrof\ndevreser\nstaeS\nfo\nrebmun\nlaires\ntsniaga\nstaes\n(5) (6)\nFORM - A of Natidanga-I G.P. Page 1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            133.30920000000003,
+            542.2752,
+            736.61856
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of Members to be elected to\nthe GramPanchayat",
+              null,
+              null,
+              null,
+              "fo\nlaires\naera\ndna htiw\nsrebmun\nemaN seicneutitsnoc\n,rebmuN",
+              "hcae laires\not htiw\ndetacolla srebmun\nycneutitsnoc\nstaeS",
+              "tsniaga\ndna staes\nrof\nsetsaC\ndevreser fo\nsebirT\nrebmun\ndeludehcS\neludehcS\nstaeS\nlaires",
+              "nemoW\nfo\nrebmun\nrof\nstaes\ndevreser laires\ntsniaga\nstaeS"
+            ],
+            [
+              null,
+              "fo\nrebmun\nsrebmem\nlatoT",
+              "setsaC\nsrebmem\ndeludehcS",
+              "sebirT\nsrebmem\neludehcS",
+              "srebmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Natidanga-I",
+              "9",
+              "Nil",
+              "Nil",
+              "3",
+              "Natidanga-I/I,Part No. 69/19\nMouza-Subharajpur,J.L.No-12\n(i) Subharajpur Sarderpara\n(ii) Subharajpur shaikhpara",
+              "1",
+              "",
+              "1 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-I/II, Part No. 69/20\nMouza-Saguna ,J.L.No.-13\n(i) Panditpur",
+              "2",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-I/III, Part No. 69/21\nMouza-Saguna , J.L.No.-13\n(i) Kalupur,",
+              "3",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-I/IV, Part No. 69/22\nMouza-Saguna ,J.L.No.-13\n(i)Laxmipur Uttarpara\n(ii)Laxmipur Madhyapara\n(iii) Laxmipur Kuthipara\n(iv) Ramnagar Kuthipara",
+              "4",
+              "",
+              "4 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-I/V, Part No. 69/23\nMouza-Saguna ,J.L.No.-13\n(i) Babupara\nMouza-Natidanga,J.L.No.14\n(ii) Telkalpara\nMouza-subharajpur ,J.L.No.-12\n(iii) Brahamanpara",
+              "5",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-I/VI, Part No. 69/24\nMouza-Subharajpur,J.L.No-12\n(i) Mathurapur",
+              "6",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-I/VII, Part No. 69/25\nMouza-Char Adityapur ,J.L.No.-15\n(i) Adityapur\nMouza-Natidanga,J,L.No.-14\n(ii) Nabinganj Dakshinpara\n(iii) Nabinganj Purbapara",
+              "7",
+              "",
+              "7 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-I/VIII, Part No. 69/26\nMouza-Natidanga ,J.L.No-14\n(i)Nabinganj Madhyapara\n(ii) Nabinganj Uttarpara\nMouza-Saguna J.L.No-13\n(iii) Charpara",
+              "8",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1510
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "(1) (2a) (2b) (2c) (2d) (3) (4) (5) (6)\nNatidanga-I Natidanga-I/IX, Part No. 69/27\nMouza-Natidanga ,J.L.No-14 9\n(i) Natidanga Gamakhali\nDate : 07.02.2008\nDistrict Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\nFORM - A of Natidanga-I G.P. Page 2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            72.47399999999999,
+            542.2752,
+            124.7892
+          ],
+          "rows": [
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Natidanga-I",
+              "",
+              "",
+              "",
+              "",
+              "Natidanga-I/IX, Part No. 69/27\nMouza-Natidanga ,J.L.No-14\n(i) Natidanga Gamakhali",
+              "9",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 244
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

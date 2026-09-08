@@ -1,0 +1,401 @@
+{
+  "version": 1,
+  "sha256": "db5041a10ee61253da26951396b9c09054bf2b580018d17b73a6f4e5503e8a4e",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "MARG\nFO\nEMAN\nOT\nSREBMEM\nFO\nREBMUN\nEHT\nOT\nDETCELE\nEB\nITIMAS\nTAYAHCNAP\nFORM B1\nTHE SCHEDULE\nCONSTITUENC\nY RESERVED\nFOR CONSTITUEN\nSCHEDULED CY\nNUMBER AND NAME CASTES AND RESERVED\nOF THE AREA OF THE CONSTITUENCY SCHEDULED FOR WOMEN\nCONSTITUENCY TRIBES SHOWING\nPERSONS SERIAL\nSHOWING NUMBER\nSERIAL\nNUMBER\n1 2 3 4 5 6\nGopinathpur/P.S- 1 1 WOMEN\nGopinathpur/P.S- 2\n3 SC 3 SC WOMEN\n5 WOMEN\nPalsunda-I/P.S- 7\n3 8 WOMEN\nPalsunda-I/P.S- 9\nPalsunda-II/P.S- 10\nPalsunda-II/ IV, V\nPalsunda-II/P.S- 11 11 WOMEN\nI-adnuslaP\nPalsunda-I/ III, IV\nPalsunda-I/ V, VI\nPalsunda-II/ I, II, III\n2\nII-adnuslaP\nAssembly Part No. : 70/105, 70/106\nruphtanipoG\nBLOCK : TEHATTA-II PANCHAYAT SAMITY : TEHATTA-II\nGopinathpur / IV, V\n3\nGopinathpur / VI, VII\nGopinathpur/P.S- 3\nSahebnagar/ V, VI, VII, VIII\nAssembly Part No. : 70/100, 70/101\nAssembly Part No. : 70/102, 70/103,\n70/104\nraganbehaS\nGopinathpur / I, II, III\nAssembly Part No. : 70/78,70/79,70/80\nAssembly Part No. : 70/81,70/82\nAssembly Part No. : 70/83,70/84\nSahebnagrar/ I, II, III, IV\nSahebnagar/P.S- 4\nAssembly Part No. : 70/85, 70/86, 70/87,\n70/88\n3 Sahebnagar/P.S- 5\nAssembly Part No. : 70/89, 70/90, 70/91,\n70/92\nSahebnagar/ IX, X, XI,\nSahebnagar/P.S- 6\nAssembly Part No. : 70/93, 70/94, 70/95\nPalsunda-I/ I, II\nAssembly Part No. : 70/96, 70/97\nPalsunda-I/P.S- 8\nAssembly Part No. : 70/98, 70/99\nPage 1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            68.45601466666668,
+            116.35211700000002,
+            540.4574146666668,
+            702.8730585
+          ],
+          "rows": [
+            [
+              "MARG\nFO\nEMAN",
+              "OT\nSREBMEM EHT ITIMAS\nOT\nDETCELE TAYAHCNAP\nFO\nREBMUN\nEB",
+              "NUMBER AND NAME\nOF THE\nCONSTITUENCY",
+              "AREA OF THE CONSTITUENCY",
+              "CONSTITUENC\nY RESERVED\nFOR\nSCHEDULED\nCASTES AND\nSCHEDULED\nTRIBES\nPERSONS\nSHOWING\nSERIAL\nNUMBER",
+              "CONSTITUEN\nCY\nRESERVED\nFOR WOMEN\nSHOWING\nSERIAL\nNUMBER"
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "ruphtanipoG",
+              "3",
+              "Gopinathpur/P.S- 1",
+              "Gopinathpur / I, II, III",
+              "",
+              "1 WOMEN"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/78,70/79,70/80",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Gopinathpur/P.S- 2",
+              "Gopinathpur / IV, V",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/81,70/82",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Gopinathpur/P.S- 3",
+              "Gopinathpur / VI, VII",
+              "3 SC",
+              "3 SC WOMEN"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/83,70/84",
+              null,
+              null
+            ],
+            [
+              "raganbehaS",
+              "3",
+              "Sahebnagar/P.S- 4",
+              "Sahebnagrar/ I, II, III, IV",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/85, 70/86, 70/87,\n70/88",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Sahebnagar/P.S- 5",
+              "Sahebnagar/ V, VI, VII, VIII",
+              "",
+              "5 WOMEN"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/89, 70/90, 70/91,\n70/92",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Sahebnagar/P.S- 6",
+              "Sahebnagar/ IX, X, XI,",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/93, 70/94, 70/95",
+              null,
+              null
+            ],
+            [
+              "I-adnuslaP",
+              "3",
+              "Palsunda-I/P.S- 7",
+              "Palsunda-I/ I, II",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/96, 70/97",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Palsunda-I/P.S- 8",
+              "Palsunda-I/ III, IV",
+              "",
+              "8 WOMEN"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/98, 70/99",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Palsunda-I/P.S- 9",
+              "Palsunda-I/ V, VI",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/100, 70/101",
+              null,
+              null
+            ],
+            [
+              "II-adnuslaP",
+              "2",
+              "Palsunda-II/P.S- 10",
+              "Palsunda-II/ I, II, III",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/102, 70/103,\n70/104",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Palsunda-II/P.S- 11",
+              "Palsunda-II/ IV, V",
+              "",
+              "11 WOMEN"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/105, 70/106",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1287
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "MARG\nFO\nEMAN\nOT\nSREBMEM\nFO\nREBMUN\nEHT\nOT\nDETCELE\nEB\nITIMAS\nTAYAHCNAP\nCONSTITUENC\nY RESERVED\nFOR CONSTITUEN\nSCHEDULED CY\nNUMBER AND NAME CASTES AND RESERVED\nOF THE AREA OF THE CONSTITUENCY SCHEDULED FOR WOMEN\nCONSTITUENCY TRIBES SHOWING\nPERSONS SERIAL\nSHOWING NUMBER\nSERIAL\nNUMBER\n1 2 3 4 5 6\nGopinathpur / I, II, III\nPalshipara/P.S- 12\nPalshipara/P.S- 13 13 SC\nPalshipara/P.S- 14\n15 WOMEN\nHanspukuria/P.S- 16\nHanspukuria/P.S- 17\nBarnia/P.S- 18 18 WOMEN\nBarnia/ IV, V, VI\n3 Barnia/P.S- 19\nAssembly Part No. : 70/136, 70/137,\n70/138\nDistrict Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\nainraB\n3\nAssembly Part No. : 70/126, 70/127\nHanspukuria/ III, IV\nAssembly Part No. : 70/128, 70/129\nAssembly Part No. : 70/130, 70/131,\n70/132\nBarnia/ I, II, III\n19 S.C.\nBarnia/ VII, VIII, IX\nBarnia/P.S- 20\nAssembly Part No. : 70/139, 70/140,\n70/141\nDate-07.02.2008\narapihsalaP\nPalashipara/ IV, V, VI\nPalashipara/ VII, VIII, IX, X\nHanspukuria/ I, II\n3\nairukupsnaH\nPalashipara/ I, II, III\nAssembly Part No. : 70/107, 70/108,\n70/109\nAssembly Part No. : 70/110, 70/111,\n70/112\nAssembly Part No. : 70/113, 70/114,\n70/115, 70/116\nHanspukuria/P.S- 15\nHanspukuria/ V, VI, VII\nAssembly Part No. : 70/133, 70/134,\n70/135\nPage 2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            68.36388163636364,
+            72.43811699999998,
+            540.4574146666668,
+            598.8504585000001
+          ],
+          "rows": [
+            [
+              "MARG\nFO\nEMAN",
+              "OT\nSREBMEM EHT ITIMAS\nOT\nDETCELE TAYAHCNAP\nFO\nREBMUN\nEB",
+              "NUMBER AND NAME\nOF THE\nCONSTITUENCY",
+              "AREA OF THE CONSTITUENCY",
+              "CONSTITUENC\nY RESERVED\nFOR\nSCHEDULED\nCASTES AND\nSCHEDULED\nTRIBES\nPERSONS\nSHOWING\nSERIAL\nNUMBER",
+              "CONSTITUEN\nCY\nRESERVED\nFOR WOMEN\nSHOWING\nSERIAL\nNUMBER"
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "arapihsalaP",
+              "3",
+              "Palshipara/P.S- 12",
+              "Gopinathpur / I, II, III\nPalashipara/ I, II, III",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/107, 70/108,\n70/109",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Palshipara/P.S- 13",
+              "Palashipara/ IV, V, VI",
+              "13 SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/110, 70/111,\n70/112",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Palshipara/P.S- 14",
+              "Palashipara/ VII, VIII, IX, X",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/113, 70/114,\n70/115, 70/116",
+              null,
+              null
+            ],
+            [
+              "airukupsnaH",
+              "3",
+              "Hanspukuria/P.S- 15",
+              "Hanspukuria/ I, II",
+              "",
+              "15 WOMEN"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/126, 70/127",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Hanspukuria/P.S- 16",
+              "Hanspukuria/ III, IV",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/128, 70/129",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Hanspukuria/P.S- 17",
+              "Hanspukuria/ V, VI, VII",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/130, 70/131,\n70/132",
+              null,
+              null
+            ],
+            [
+              "ainraB",
+              "3",
+              "Barnia/P.S- 18",
+              "Barnia/ I, II, III",
+              "",
+              "18 WOMEN"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/133, 70/134,\n70/135",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Barnia/P.S- 19",
+              "Barnia/ IV, V, VI",
+              "19 S.C.",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/136, 70/137,\n70/138",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Barnia/P.S- 20",
+              "Barnia/ VII, VIII, IX",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Assembly Part No. : 70/139, 70/140,\n70/141",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1165
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

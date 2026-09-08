@@ -1,0 +1,40 @@
+PERAMBALU
+VILLAGE PANCHA
+Reservation of Offices of the Presidents of Village P
+Tribes and Women
+Sl. Name of the Village Category to which
+No Panchayat reservation is made
+1 2 3
+Perambalur Panchayat Union
+1 Ayyalur SC (Women)
+2 Ammapalayam SC (Women)
+3 Siruvachur SC (Women)
+4 Ladapuram SC (General)
+5 Koneripalayam SC (General)
+6 Chathiramanai SC (General)
+7 Pudunaduvalur SC (General)
+8 Kalarampatti General (Women)
+9 Kalpadi General (Women)
+10 Melapuliyur General (Women)
+11 Bommanapadi General (Women)
+12 Kavulpalayam General
+13 Velur General
+14 Esanai General
+15 Alambadi General
+16 Sengunam General
+17 Keelakarai General
+18 Elambalur General
+19 Nochiyam General
+20 Vadakkumadevi General
+Veppanthattai Panchayat Union
+1 Kariyanur SC(Women)
+2 Ayanperaiyur SC(Women)
+3 Udumbiyam SC(Women)
+4 Thevaiyur SC(General)
+5 Pasumbalur SC(General)
+6 Venbavur SC(General)
+7 Eraiyur SC(General)
+8 Thaluthalai SC(General)
+9 Neikuppai SC(General)
+10 Pimbalur General(Women)
+Page 102

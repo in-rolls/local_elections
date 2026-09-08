@@ -1,0 +1,61 @@
+1 2 3
+RISHIVANDHIYAM PANCHAYAT UNION Contd..
+25 Kaduvanur General Women
+26 Sirupanaiyur General Women
+27 Seerpadanallur General Women
+28 Pallippattu General Women
+29 Erudayampattu General Women
+30 Noorolai General
+31 Peral General
+32 Kadambur General
+33 Mandagappadi General
+34 Muttiyam General
+35 Yal General
+36 Odiyanthal General
+37 Melapalangur General
+38 Pirividayampattu General
+39 Endal General
+40 Arumbarambattu General
+41 Maniyandal General
+42 Kallippadi General
+43 Elayanarkuppam General
+44 Maiyanur General
+45 Karayanpalayam General
+46 Arkkavadi General
+47 Kunniyur General
+48 Kilpadi General
+49 Rishivandiyam General
+50 Jambadai General
+51 Pasar General
+52 Vadamamandur General
+53 Porppalampattu General
+SANKARAPURAM PANCHAYAT UNION
+1 L.N.Patti ST General
+2 Mookkanur SC Women
+3 Birmagundam SC Women
+4 Valayampattu SC Women
+5 Melapattu SC Women
+6 Arasampattu SC General
+7 Chozampattu SC General
+8 Ulagalappadi SC General
+9 S.Kolathur SC General
+10 Rangappanur SC General
+11 Vadachettiyandal SC General
+12 Nedumanur SC General
+13 Vadakeeranur General Women
+14 Ramarajapuram General Women
+15 A.Pandalam General Women
+16 Sembarampattu General Women
+17 S.V.Palayam General Women
+18 Viriyur General Women
+19 Thiyagarajapuram General Women
+20 Kidangudaiyampattu General Women
+21 Vadaponparappi General Women
+22 Moongilthuraipattu General Women
+23 Devapandalam General Women
+24 Oorangani General
+25 Puthirampattu General
+26 Vadasiruvallur General
+27 Arulampadi General
+28 Moorarbath General
+29 Sellampattu General

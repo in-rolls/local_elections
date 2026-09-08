@@ -1,0 +1,54 @@
+1 2 3
+VALAPADY PANCHAYAT UNION
+1 Thekkalpatti ST(General)
+2 Sommampatty SC(Women)
+3 Thukkiyampalayam SC(Women)
+4 Kattuveppilaipatty SC(General)
+5 Thirumanoor SC(General)
+6 Komarapalayam General(Women)
+7 Mannaickanpatty General(Women)
+8 Ponnarampatty General(Women)
+9 Puluthikuttai General(Women)
+10 Singipuram General(Women)
+11 Kurichi General
+12 Athanoorpatty General
+13 Chandrapillaivalasu General
+14 Chinnamanaickenpalayam General
+15 Kolathukombai General
+16 Mannarpalayam General
+17 Muthampatty General
+18 Neermullikuttai General
+19 Veppilaipatty General
+20 Vilaripalayam General
+VEERAPANDY PANCHAYAT UNION
+1 Veerapandi SC(Women)
+2 Inam Bairoji SC(General)
+3 Perumagoundampatti SC(General)
+4 Akkarapalayam General(Women)
+5 Anaikuttaipatti General(Women)
+6 Chennagiri General(Women)
+7 Ettimanickampatti General(Women)
+8 Mooduthurai General(Women)
+9 Periyaseeragapadi General(Women)
+10 Uthamasolapuram General(Women)
+11 Senaipalayam General(Women)
+12 Ariyagoundampatti General
+13 Kadathur Agraharam General
+14 Kalparapatti General
+15 Keerapappampadi General
+16 Maramangalathupatti General
+17 Marulayamapalayam General
+18 Murungapatti General
+19 Perumampatti General
+20 Poolavari Agraharam General
+21 Puthur Agraharam General
+22 Rajapalayam General
+23 Rakkipatti General
+24 Papparapatti General
+25 Vembadithalam General
+YERCAUD PANCHAYAT UNION
+1 Maramangalam ST(Women)
+2 Thalai cholai ST(Women)
+3 Vellakadai ST(General)
+4 Velur ST(General)
+5 Semmanatham ST(General)

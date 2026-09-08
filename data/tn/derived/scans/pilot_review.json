@@ -1,0 +1,97 @@
+{
+  "method": "Development/source-legibility pilot: four pages visually read and compared with raw text; no accuracy estimate or held-out evaluation. No OCR tuning was applied.",
+  "language_policy": "eng: printed English text directly verified on all four pilot pages and retained prior source review; this does not decode Tamil signatures or assert all future documents are English. CLI supports eng+tam with traineddata hashes and cache invalidation.",
+  "pages": [
+    {
+      "source_id": "tn_1_58_1996_401_en",
+      "source_sha256": "869ffacec087105967d17ee8f072fb417c76aae786d60ef06e63f1c6b88aec07",
+      "source_page": 1,
+      "source_page_bbox": [
+        0.0,
+        0.0,
+        595.2756,
+        841.8898
+      ],
+      "image_path": "data/tn/derived/scans/tn_1_58_1996_401_en/page_0001/attempts/560f62f6876c4d00b3b30f3fe36501ad/source.png",
+      "image_sha256": "9d6b2a0b03731c1027398de043c1fb709d44f7b888c930c265694f88ffba0de5",
+      "ocr_metadata_path": "data/tn/derived/scans/tn_1_58_1996_401_en/page_0001/latest.json",
+      "review": "Office-order cover explicitly names village presidents, union chairs and district chairs; OCR breaks lines and loses part of printed date.",
+      "decision": "usable_raw_extraction; semantic_fields_require_source_validation",
+      "elapsed_seconds": 3.877
+    },
+    {
+      "source_id": "tn_1_58_1996_401_en",
+      "source_sha256": "869ffacec087105967d17ee8f072fb417c76aae786d60ef06e63f1c6b88aec07",
+      "source_page": 3,
+      "source_page_bbox": [
+        0.0,
+        0.0,
+        595.2756,
+        841.8898
+      ],
+      "image_path": "data/tn/derived/scans/tn_1_58_1996_401_en/page_0003/attempts/4dc437c707fa41fcbf57aa7b0a58de8e/source.png",
+      "image_sha256": "2bc678567b14537fad6bd0c5e589e8b3df4783d01eb87b0c7c5660cb45f8c3c7",
+      "ocr_metadata_path": "data/tn/derived/scans/tn_1_58_1996_401_en/page_0003/latest.json",
+      "review": "English two-column village-president schedule. Faint names, garbled serials and separated column reading order prevent reliable row reconstruction from plain text.",
+      "decision": "usable_raw_extraction; semantic_fields_require_source_validation",
+      "elapsed_seconds": 9.062
+    },
+    {
+      "source_id": "tn_1_58_2001_636_en",
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 1,
+      "source_page_bbox": [
+        0,
+        0,
+        595,
+        842
+      ],
+      "image_path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0001/attempts/775de876e3194b79a548193ded753fa5/source.png",
+      "image_sha256": "cba581b8c4bbd9bdc1dd2e369f970292f83c6ff55da6255052d510013f88df9c",
+      "ocr_metadata_path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0001/latest.json",
+      "review": "English mixed-office amendment cover; OCR retains GO227 and amendment subject, but reference notification contains recognition errors.",
+      "decision": "usable_raw_extraction; semantic_fields_require_source_validation",
+      "elapsed_seconds": 6.675
+    },
+    {
+      "source_id": "tn_1_58_2001_636_en",
+      "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+      "source_page": 2,
+      "source_page_bbox": [
+        0,
+        0,
+        595,
+        842
+      ],
+      "image_path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0002/attempts/742cdb7ac96f472ebad19202b387856d/source.png",
+      "image_sha256": "02b5e8dbc51d82839eaf9862ee571d8a660350a7274922d6fe711d0deb6268b5",
+      "ocr_metadata_path": "data/tn/derived/scans/tn_1_58_2001_636_en/page_0002/latest.json",
+      "review": "English village-president amendment and replacement table. Several names and category cells survive; borders corrupt serials (printed 1 becomes 41). Must retain operations and use table geometry.",
+      "decision": "usable_raw_extraction; semantic_fields_require_source_validation",
+      "elapsed_seconds": 5.549
+    }
+  ],
+  "examples": [
+    {
+      "source_id": "tn_1_58_1996_401_en",
+      "source_page": 3,
+      "printed": "GUDIYATHAM PANCHAYAT UNION",
+      "ocr": "GUOIYATHAM PANCHAYAT UNION",
+      "meaning": "Header identity corruption; do not normalize by guess."
+    },
+    {
+      "source_id": "tn_1_58_2001_636_en",
+      "source_page": 2,
+      "printed": "1. Aravayal SC (Women)",
+      "ocr": "41. | Aravayal SC (Women)",
+      "meaning": "Name/category survive but printed serial does not; table-border contamination."
+    },
+    {
+      "source_id": "tn_1_58_2001_636_en",
+      "source_page": 2,
+      "printed": "5. Uruvatti S.C. (General)",
+      "ocr": "5. Uruvatti S.C. (General)",
+      "meaning": "Legible sampled row, not evidence of whole-page accuracy."
+    }
+  ]
+}

@@ -156,6 +156,7 @@ DIRECTORY_NAMES = {
     "up": "Uttar Pradesh",
     "madhya_pradesh": "Madhya Pradesh",
     "tamil_nadu": "Tamil Nadu",
+    "tn": "Tamil Nadu",
     "delhi": "NCT of Delhi",
     "himachal": "Himachal Pradesh",
 }
@@ -218,15 +219,19 @@ REMAINING_WORK = {
         "the other held notification is municipal"
     ),
     "Tamil Nadu": (
-        "the 12 held gazettes are urban; acquire a village-panchayat reservation roster"
+        "2011 GP-president roster and 2001 amendment operations have separate "
+        "source-specific exports; review earlier scans and subsequent amendments; "
+        "observed GP-president sex remains unavailable"
     ),
     "Telangana": (
         "the 4 unlinked PDFs are urban reservation orders or election manuals, "
         "not missing rural seats"
     ),
     "West Bengal": (
-        "the final 2018 ZP gazettes are parsed; 19 drafts and 1 election manual "
-        "are not additional final seats"
+        "Separate 1998–2023 GP office, ward and results data have source-linked "
+        "parsers and review queues ([GP data](data/wb/derived/README.md)); "
+        "the final 2018 ZP gazettes "
+        "are parsed, while their 19 drafts are not additional final seats"
     ),
 }
 
@@ -467,6 +472,30 @@ def build_rows():
                 (state, "-", "-", "-", "not applicable", "none", NO_PRI[state])
             )
             continue
+
+        if state == "Tamil Nadu":
+            exports = {
+                "2001": "amendments_2001/gp_president_amendment_operations.csv",
+                "2011": "heads_2011/gp_president_reservations.csv",
+            }
+            years = [
+                year
+                for year, path in exports.items()
+                if (DATA / "tn/derived" / path).is_file()
+            ]
+            if years:
+                table.append(
+                    (
+                        state,
+                        "GP-president office / amendment operation",
+                        ", ".join(years),
+                        "-",
+                        "source-specific exports",
+                        REMAINING_WORK[state],
+                        "[data/tn/](data/tn/); separate from pooled schema",
+                    )
+                )
+                continue
 
         directory = next(
             (d for d in raw if pretty(d) == state and d not in by_directory), None

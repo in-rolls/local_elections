@@ -1,0 +1,329 @@
+{
+  "version": 1,
+  "sha256": "629833cb10626518b3911f794680be2c12ccb4a8bc6c60fb80efa7d2fd9d1405",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "(FORM-`A1`)\n[(See rule 23 (1)]\nO R D E R.\nNo 255 (10) /P&RD Dated 07.02.2008\nIn exercise of the power Conferred by sections 12 & 17 of the West Bengal Panchayat Election Act,2003 (West Ben. Act XXI of 2003 ) , read with rules 22 & 23\nof the West Bengal Panchayat Election Rules 20006 ,I, the District Panchayat Election Officer & District Magistrate of the District of NADIA. as the prescribed\nauthority appointed by the State Government in the Department of Panchayats and Rural Development under notification No .. 623-PN/O/I/3R-3/2004 dated\n09/02/2007 for the purpose of rules 22and 23 of the said rules ,hereby publish the draft of this order to determine for the Grams specified in column (1) of the\nSchedule below, the total number of members, Scheduled Castes members, Scheduled Tribes members and women members to be elected to such Gram\nPanchayats specified in the corresponding entries in columns (2a), (2b), (2c) and (2d) respectively, to divide the area of the Grams into constituencies with serial\nnumbers assigned to them specified in the corresponding entries in column (3), to allocate to each such constituency seat or seats specified in the corresponding\nentries in column (4), seat or seats reserved for the Scheduled Castes or the scheduled tribes persons specified in the corresponding entries in column (5), and seat\nor seats reserved for women specified in the corresponding entries in column (6), of the Schedule, for information of persons likely to be affected thereby.\nThe draft will be taken up for consideration after fifteen days from this day and any objection of suggestion with respect thereto, which may be received by the\nundersigned within the said period, shall be duly considered.",
+      "tables": [],
+      "images": 0,
+      "characters": 1848
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE\nBLOCK:- HARINGHATA\nName of Number of members to be elected in the Gram Number , name & area of Seats allocated Seats reserved for Seats\nGram Panchayat Constituencies with Serial numbers to each Scheduled reserved\nTotal Scheduled Scheduled Women Constituencies Castes or Scheduled for\nnumber of Castes Tribes member with Serial Tribes Women\nmembers member member numbers against against\nSerial number of Serial\nSeats number of\nSeats\n1 2(a) 2(b) 2(c) 2(d) 3 4 5 6\nPart no 83/165 Totalvoter712\nFatepur/I 1 1 SC 1 SC\nMouza-Biharia, J.L No :-58 (Women)\nArea:- (a) Biharia Uttarpara, , (b)\nFatepur, 19 5 1 7 Biharia Majherpara,\nPart no 83/166 Totalvoter720\nFatepur/II 2 -- 2 Women\nMouza-Biharia, J.L No :-58\nArea:- Biharia Dakshinpara,\nPart no 83/167 Totalvoter782\nFatepur/III 3 -- ---\nMouza-Panchkahania,\nJ.L No :-59\nArea:- (a) Panchkahania full ,",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            118.23095999999998,
+            770.616,
+            475.8012
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number of members to be elected in the Gram\nPanchayat",
+              null,
+              null,
+              null,
+              "Number , name & area of\nConstituencies with Serial numbers",
+              "Seats allocated\nto each\nConstituencies\nwith Serial\nnumbers",
+              "Seats reserved for\nScheduled\nCastes or Scheduled\nTribes\nagainst\nSerial number of\nSeats",
+              "Seats\nreserved\nfor\nWomen\nagainst\nSerial\nnumber of\nSeats"
+            ],
+            [
+              null,
+              "Total\nnumber of\nmembers",
+              "Scheduled\nCastes\nmember",
+              "Scheduled\nTribes\nmember",
+              "Women\nmember",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2(a)",
+              "2(b)",
+              "2(c)",
+              "2(d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Fatepur,",
+              "19",
+              "5",
+              "1",
+              "7",
+              "Part no 83/165 Totalvoter712\nFatepur/I\nMouza-Biharia, J.L No :-58\nArea:- (a) Biharia Uttarpara, , (b)\nBiharia Majherpara,",
+              "1",
+              "1 SC",
+              "1 SC\n(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/166 Totalvoter720\nFatepur/II\nMouza-Biharia, J.L No :-58\nArea:- Biharia Dakshinpara,",
+              "2",
+              "--",
+              "2 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/167 Totalvoter782\nFatepur/III\nMouza-Panchkahania,\nJ.L No :-59\nArea:- (a) Panchkahania full ,",
+              "3",
+              "--",
+              "---"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 959
+    },
+    {
+      "page": 3,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A\nTHE SCHEDULE\nBLOCK:- HARINGHATA\nPart no 83/168 Totalvoter 835\nFatepur/IV 4 -- ---\nMouza-Bansbona J.L No :-63\nArea:- (a) Bansbonapaschim, (b)\nBansbonapurba,\nPart no 83/169 Totalvoter 1210\nFatepur/V 5 5 SC --\nMouza-Satyapole & Bhawanipur,\nJ.L No :-62 & 61\nArea:- (a) Satyapole Paschimpara (b)\nSatyapole Purbapara (c) Bhawanipur,\nPart no 83/170 Totalvoter752\nFatepur/VI 6 ---- 6 Women\nMouza-Fatepur J.L No :-65\nArea:- (a) Fatepurmajherpara,\nPart no 83/171 Totalvoter 928\nFatepur/VII 7 7 ST --\nMouza-Fatepur, J.L No :-65\nArea:- (a) Fatepur Uttarpara, , (b)\nFatepur Purbapara,\nPart no 83/172 Totalvoter 1399\nFatepur/VIII 8 -- ---\nMouza-Fatepur, J.L No :-65\nArea:- (a) Fatepur Paschimpara (b) 9 -- ---\nFatepur Dakshinpara,\nPart no 83/173 Totalvoter 1023\nFatepur/IX 10 10 SC 10 SC\nMouza-Malidanga, J.L No :-70 Women\nArea:- (a) Malidanga Uttarpara , (b)\nMalidanga Dakshinpara,",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            92.09080800000001,
+            770.616,
+            525.6564000000001
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Part no 83/168 Totalvoter 835\nFatepur/IV\nMouza-Bansbona J.L No :-63\nArea:- (a) Bansbonapaschim, (b)\nBansbonapurba,",
+              "4",
+              "--",
+              "---"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/169 Totalvoter 1210\nFatepur/V\nMouza-Satyapole & Bhawanipur,\nJ.L No :-62 & 61\nArea:- (a) Satyapole Paschimpara (b)\nSatyapole Purbapara (c) Bhawanipur,",
+              "5",
+              "5 SC",
+              "--"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/170 Totalvoter752\nFatepur/VI\nMouza-Fatepur J.L No :-65\nArea:- (a) Fatepurmajherpara,",
+              "6",
+              "----",
+              "6 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/171 Totalvoter 928\nFatepur/VII\nMouza-Fatepur, J.L No :-65\nArea:- (a) Fatepur Uttarpara, , (b)\nFatepur Purbapara,",
+              "7",
+              "7 ST",
+              "--"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/172 Totalvoter 1399\nFatepur/VIII\nMouza-Fatepur, J.L No :-65\nArea:- (a) Fatepur Paschimpara (b)\nFatepur Dakshinpara,",
+              "8\n9",
+              "--\n--",
+              "---\n---"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/173 Totalvoter 1023\nFatepur/IX\nMouza-Malidanga, J.L No :-70\nArea:- (a) Malidanga Uttarpara , (b)\nMalidanga Dakshinpara,",
+              "10",
+              "10 SC",
+              "10 SC\nWomen"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 949
+    },
+    {
+      "page": 4,
+      "width": 792,
+      "height": 612,
+      "text": "Part no 83/174 Totalvoter- 584\nFatepur/X 11 --- Women\nMouza-Baruni & Baikara, J.L No :-\n71 & 72\nArea:- (a) Baruni(full) (b) Baikara\n(Chand Gachi).\nPart no 83/175 Totalvoter1064\nFatepur/XI 12 -- --\nMouza-Baikara, J.L No :-72\nArea:- (a) Baikara Dewanipara , (b)\nBaikara Majherpara,\nPart no 83/176 Totalvoter- 1380\nFatepur/XII 13 --- ---\nMouza-Bamanpara & Dhopagachhi,\nJ.L No :-69 & 64\nArea:- (a) Bamanpara Uttarpara\n(b)Bamanpara Dakshinpara , c)\nBamanpara Purbapara, d)\nDhopagachhi(full),\nPart no 83/177 Totalvoter 903\nFatepur/XIII 14 14 SC ----\nMouza-Dakshin Duttapara, J.L No :-\n67\nArea:- (a) Uttarpara,\n(b) Dakshinpara,\nPart no 83/178 Totalvoter 927\nFatepur/XIV 15 15 SC ---\nMouza- Baliadanga & Garagohalia,\nJ.L No :-68 & 66\nArea:- (a) Baliadanga\n(b) Garagohalia (full).",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            53.19612000000001,
+            770.616,
+            488.15999999999997
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Part no 83/174 Totalvoter- 584\nFatepur/X\nMouza-Baruni & Baikara, J.L No :-\n71 & 72\nArea:- (a) Baruni(full) (b) Baikara\n(Chand Gachi).",
+              "11",
+              "---",
+              "Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/175 Totalvoter1064\nFatepur/XI\nMouza-Baikara, J.L No :-72\nArea:- (a) Baikara Dewanipara , (b)\nBaikara Majherpara,",
+              "12",
+              "--",
+              "--"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/176 Totalvoter- 1380\nFatepur/XII\nMouza-Bamanpara & Dhopagachhi,\nJ.L No :-69 & 64\nArea:- (a) Bamanpara Uttarpara\n(b)Bamanpara Dakshinpara , c)\nBamanpara Purbapara, d)\nDhopagachhi(full),",
+              "13",
+              "---",
+              "---"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/177 Totalvoter 903\nFatepur/XIII\nMouza-Dakshin Duttapara, J.L No :-\n67\nArea:- (a) Uttarpara,\n(b) Dakshinpara,",
+              "14",
+              "14 SC",
+              "----"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/178 Totalvoter 927\nFatepur/XIV\nMouza- Baliadanga & Garagohalia,\nJ.L No :-68 & 66\nArea:- (a) Baliadanga\n(b) Garagohalia (full).",
+              "15",
+              "15 SC",
+              "---"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 832
+    },
+    {
+      "page": 5,
+      "width": 792,
+      "height": 612,
+      "text": "Part no 83/179 Totalvoter 875\nFatepur/XV 16 ---- 16 SC\nMouza- Haripukuria, J.L No :-75 Women\nArea:- (a) Haripukuria (Kulipara)\n(b) Haripukuria Roypara,\nPart no 83/180 Totalvoter 930\nFatepur/XVI 17 --- ---\nMouza- Haripukuria & Malpara, J.L\nNo :-75 & 74\nArea:- (a) Haripukuria Muslimpara,\n(b) Malpara full,\nPart no 83/181 Totalvoter 960\nFatepur/XVII 18 --- ---\nMouza-Barasat, J.L No :-76\nArea:- (a) Barasat Uttarpara,\n(b) Barasat Majherpara,\nPart no 83/182 Totalvoter 963\nFatepur/XVIII 19 --- 19\nMouza- Barasat J.L No :-76 Women\nArea:- (a) Barasat Dakshinpara,\nDISTRICT PANCHAYAT ELECTION OFFICER\n&\nDISTRICT MAGISTRATE, NADIA\nDate : 07.02.2008",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            53.19612000000001,
+            770.616,
+            342.852
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Part no 83/179 Totalvoter 875\nFatepur/XV\nMouza- Haripukuria, J.L No :-75\nArea:- (a) Haripukuria (Kulipara)\n(b) Haripukuria Roypara,",
+              "16",
+              "----",
+              "16 SC\nWomen"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/180 Totalvoter 930\nFatepur/XVI\nMouza- Haripukuria & Malpara, J.L\nNo :-75 & 74\nArea:- (a) Haripukuria Muslimpara,\n(b) Malpara full,",
+              "17",
+              "---",
+              "---"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/181 Totalvoter 960\nFatepur/XVII\nMouza-Barasat, J.L No :-76\nArea:- (a) Barasat Uttarpara,\n(b) Barasat Majherpara,",
+              "18",
+              "---",
+              "---"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/182 Totalvoter 963\nFatepur/XVIII\nMouza- Barasat J.L No :-76\nArea:- (a) Barasat Dakshinpara,",
+              "19",
+              "---",
+              "19\nWomen"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 720
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 5
+}

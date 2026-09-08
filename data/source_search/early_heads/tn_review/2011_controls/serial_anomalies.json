@@ -1,0 +1,35 @@
+[
+  {
+    "source_page": 38,
+    "side": "left",
+    "line": 22,
+    "raw_text": "23 Minnal General (Women)",
+    "serial": "23",
+    "name": "Minnal",
+    "category": "General (Women)",
+    "expected": 22,
+    "union": "Kaveripakkam Panchayat Union"
+  },
+  {
+    "source_page": 151,
+    "side": "left",
+    "line": 10,
+    "raw_text": "33 Kodiayankulam General",
+    "serial": "33",
+    "name": "Kodiayankulam",
+    "category": "General",
+    "expected": 49,
+    "union": "OTTAPIDARAM PANCHAYAT UNION"
+  },
+  {
+    "source_page": 151,
+    "side": "left",
+    "line": 12,
+    "raw_text": "34 Kollambarambu General",
+    "serial": "34",
+    "name": "Kollambarambu",
+    "category": "General",
+    "expected": 51,
+    "union": "OTTAPIDARAM PANCHAYAT UNION"
+  }
+]

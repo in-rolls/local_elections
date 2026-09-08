@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "sha256": "60f6bc4b015f72b20d0ce767e41369bea54315271b8ea23b988023549a1444a3",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock : Chakdaha\nNumber of members to be elected in the Gram Panchayat\nName of Gram Scheduled Caste Scheduled Tribe\nTotal number of members Women members\nmembers Members\n1 (2a) (2b) (2c) (2d)\nMadanpur-II 13 8 NIL 5\nSeats reserved\nSeats allocated to for Scheduled Seats reserved\nNumber, name and area of constituencies with serial each constituency Caste or for women\nnumbers with serial Scheduled Tribe against serial\nnumbers against serial number of seats\nnumber of seats\n3 4 5 6\nMadanpur -II/I\nMouza -Sikarpur J.L No -41\n1 1 SC 1 SCW\n(a) Shikarpur Purba Partly (Ghoshpara)\nPart No. -82/85\nMadanpur -II/II\nMouza -Sikarpur J.L No -41\n2 2 SC --\n(a) Shikarpur Purba Partly\nPart No. -82/86\nMadanpur -II/III\nMouza -Sikarpur J.L No -41\n(a) Shikarpur Paschim Partly\n3,4 -- 3 W\nMouza -Chak Tarinipur J.L No -40\n(b) Chak Tarinipur\nPart No. -82/87\nMadanpur -II/IV\nMouza -Alaipur J.L No -42\n5 5 SC --\n(a) Alaipur Uttar Para Partly (Dakshin)\nPart No. -82/88\nMadanpur -II/V\nMouza -Alaipur J.L No -42\n(a) Alaipur Dakshinpara Partly 6,7 -- 7 W\n(b) Alaipur Uttar PaschimPartly(Muslimpara)\nPart No. -82/89\nMadanpur -II/VI\nMouza -Alaipur J.L No -42\n(a) Alaipur Jamadarpara Partly 8,9 8 SC 8 SCW\n(b) Alaipur Mathpara and Khristanpara 9 SC\nPart No. -82/90\nMadanpur -II/VII\nMouza -Alaipur J.L No -42\n(a) Jamadarpara Partly, Tentultala and Mathpara 10 10 SC --\n(b) Alaipur Ghoshpara\nPart No. -82/91",
+      "tables": [
+        {
+          "bbox": [
+            54.51612,
+            109.55160000000006,
+            557.5139999999999,
+            171.34560000000005
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of members",
+              "Scheduled Caste\nmembers",
+              "Scheduled Tribe\nMembers",
+              "Women members"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Madanpur-II",
+              "13",
+              "8",
+              "NIL",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            54.51612,
+            183.70463460000002,
+            557.5139999999999,
+            688.1427600000001
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial\nnumbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCaste or\nScheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Madanpur -II/I\nMouza -Sikarpur J.L No -41\n(a) Shikarpur Purba Partly (Ghoshpara)\nPart No. -82/85",
+              "1",
+              "1 SC",
+              "1 SCW"
+            ],
+            [
+              "Madanpur -II/II\nMouza -Sikarpur J.L No -41\n(a) Shikarpur Purba Partly\nPart No. -82/86",
+              "2",
+              "2 SC",
+              "--"
+            ],
+            [
+              "Madanpur -II/III\nMouza -Sikarpur J.L No -41\n(a) Shikarpur Paschim Partly\nMouza -Chak Tarinipur J.L No -40\n(b) Chak Tarinipur\nPart No. -82/87",
+              "3,4",
+              "--",
+              "3 W"
+            ],
+            [
+              "Madanpur -II/IV\nMouza -Alaipur J.L No -42\n(a) Alaipur Uttar Para Partly (Dakshin)\nPart No. -82/88",
+              "5",
+              "5 SC",
+              "--"
+            ],
+            [
+              "Madanpur -II/V\nMouza -Alaipur J.L No -42\n(a) Alaipur Dakshinpara Partly\n(b) Alaipur Uttar PaschimPartly(Muslimpara)\nPart No. -82/89",
+              "6,7",
+              "--",
+              "7 W"
+            ],
+            [
+              "Madanpur -II/VI\nMouza -Alaipur J.L No -42\n(a) Alaipur Jamadarpara Partly\n(b) Alaipur Mathpara and Khristanpara\nPart No. -82/90",
+              "8,9",
+              "8 SC\n9 SC",
+              "8 SCW"
+            ],
+            [
+              "Madanpur -II/VII\nMouza -Alaipur J.L No -42\n(a) Jamadarpara Partly, Tentultala and Mathpara\n(b) Alaipur Ghoshpara\nPart No. -82/91",
+              "10",
+              "10 SC",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2987
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Seats reserved\nSeats allocated to for Scheduled Seats reserved\nNumber, name and area of constituencies with serial each constituency Caste or for women\nnumbers with serial Scheduled Tribe against serial\nnumbers against serial number of seats\nnumber of seats\nMadanpur -II/VIII\nMouza -Alaipur J.L No -42\n11 11 SC 11 SCW\n(a) Alaipur Dakshinpara Partly(sarkarpara)\nPart No. -82/92\nMadanpur -II/IX\nMouza -Alaipur J.L No -42\n(a) Purba Part of Majdia Gram and Paschim Part of 12 12 SC --\nKarttick Saha's Shop\nPart No. -82/93\nMadanpur -II/X\nMouza -Alaipur J.L No -42\n(a) Majdia Gramer Purba Part and Dakshin Part Road\n13 -- --\nof the Shop Kartick Saha and uttar Part of of the house\nof Shyam Thakur Part\nNo. -82/94\nDate:07.02.2008 District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            54.51612,
+            72.47399999999999,
+            557.5139999999999,
+            339.93240000000003
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial\nnumbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCaste or\nScheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "Madanpur -II/VIII\nMouza -Alaipur J.L No -42\n(a) Alaipur Dakshinpara Partly(sarkarpara)\nPart No. -82/92",
+              "11",
+              "11 SC",
+              "11 SCW"
+            ],
+            [
+              "Madanpur -II/IX\nMouza -Alaipur J.L No -42\n(a) Purba Part of Majdia Gram and Paschim Part of\nKarttick Saha's Shop\nPart No. -82/93",
+              "12",
+              "12 SC",
+              "--"
+            ],
+            [
+              "Madanpur -II/X\nMouza -Alaipur J.L No -42\n(a) Majdia Gramer Purba Part and Dakshin Part Road\nof the Shop Kartick Saha and uttar Part of of the house\nof Shyam Thakur Part\nNo. -82/94",
+              "13",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1445
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

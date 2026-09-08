@@ -1,0 +1,1106 @@
+[
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Anismali_78392ea1.pdf",
+    "sha256": "92fc19b4f40618e0981365a144a1139c4f7132665bc3e29a6e83cd069293f537",
+    "cache": "data/wb/derived/native/92fc19b4f40618e0981365a144a1139c4f7132665bc3e29a6e83cd069293f537.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Anulia_96fda9db.pdf",
+    "sha256": "995c7814db06c229d51b8f771b83a2a2b3b2c638d7bd9cc9429a5f22d79a0485",
+    "cache": "data/wb/derived/native/995c7814db06c229d51b8f771b83a2a2b3b2c638d7bd9cc9429a5f22d79a0485.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_BIROHI-II_ae6e8535.pdf",
+    "sha256": "21659cc8a653c77a18b55818cdc7f4e4a7c07fe9b5e224c6be463b438d6cd7af",
+    "cache": "data/wb/derived/native/21659cc8a653c77a18b55818cdc7f4e4a7c07fe9b5e224c6be463b438d6cd7af.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_BIROHI-I_3e158079.pdf",
+    "sha256": "49611057b2633562f9db4083175d3508cb25554c6b6571edfd862459e99324f5",
+    "cache": "data/wb/derived/native/49611057b2633562f9db4083175d3508cb25554c6b6571edfd862459e99324f5.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Badkulla-II_70f5688a.pdf",
+    "sha256": "6f8772297be42efab47975930c49981d2d78c6f2ceff63454f083fd50397c555",
+    "cache": "data/wb/derived/native/6f8772297be42efab47975930c49981d2d78c6f2ceff63454f083fd50397c555.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Badkulla-I_75f86c99.pdf",
+    "sha256": "794536ec88fb9b84c9bb749e316a1df3ad78596ecae031028e76a5b24b79843d",
+    "cache": "data/wb/derived/native/794536ec88fb9b84c9bb749e316a1df3ad78596ecae031028e76a5b24b79843d.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Bagula-II_44d04588.pdf",
+    "sha256": "428daf18e3d613a594b87ada5aab0f3c73d41e32c065552f84225fcf9e0e7de8",
+    "cache": "data/wb/derived/native/428daf18e3d613a594b87ada5aab0f3c73d41e32c065552f84225fcf9e0e7de8.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Bagula-I_7133108e.pdf",
+    "sha256": "1809fae5f2d6a7fe0b751d974ca23388147b970c4d8b2bc92add94044df1480d",
+    "cache": "data/wb/derived/native/1809fae5f2d6a7fe0b751d974ca23388147b970c4d8b2bc92add94044df1480d.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Bahirgachhi_32f30d2c.pdf",
+    "sha256": "fee517313a3b152870853067d8e2c5b7615591d850a5661c46a106e172aa5a0b",
+    "cache": "data/wb/derived/native/fee517313a3b152870853067d8e2c5b7615591d850a5661c46a106e172aa5a0b.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Baidyapur-II_e86ebeb3.pdf",
+    "sha256": "14036bd8770da7a605a6546e6d6b434cec3e60f22d0ddc9fe1b481174fe5672b",
+    "cache": "data/wb/derived/native/14036bd8770da7a605a6546e6d6b434cec3e60f22d0ddc9fe1b481174fe5672b.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Baidyapur-I_1fae5b52.pdf",
+    "sha256": "9cc37a5481a4bc0e6a992d83cb7f57ad737c8045515cae8fccc990233bf4e3ad",
+    "cache": "data/wb/derived/native/9cc37a5481a4bc0e6a992d83cb7f57ad737c8045515cae8fccc990233bf4e3ad.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Barasat_0ccb3c74.pdf",
+    "sha256": "af42a1a57b46963ad9994bcd963ca94622c5abb56f1be2773351570fbf458071",
+    "cache": "data/wb/derived/native/af42a1a57b46963ad9994bcd963ca94622c5abb56f1be2773351570fbf458071.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Betai-II_c3a98bcd.pdf",
+    "sha256": "60878684c5f53a6d1a85d81c5cd3080dc30258d917a289b75070b42f1cc66812",
+    "cache": "data/wb/derived/native/60878684c5f53a6d1a85d81c5cd3080dc30258d917a289b75070b42f1cc66812.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Betai-I_646cd5d0.pdf",
+    "sha256": "5a55fd96a4f41c475e10dadc105d96056d9f6a9888d8b3dce9892d97e2bb65eb",
+    "cache": "data/wb/derived/native/5a55fd96a4f41c475e10dadc105d96056d9f6a9888d8b3dce9892d97e2bb65eb.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Bethuadahari-II_1022ffa7.pdf",
+    "sha256": "626562ef989c347f967741a1bfb9d55826f8ffac5281c42550c88045666558c8",
+    "cache": "data/wb/derived/native/626562ef989c347f967741a1bfb9d55826f8ffac5281c42550c88045666558c8.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Bethuadahari-I_9c297286.pdf",
+    "sha256": "3e795d2394bc78fa9f13ceffa2ed347ef3df3120c7cf7bd2e3d4b9fff77035f9",
+    "cache": "data/wb/derived/native/3e795d2394bc78fa9f13ceffa2ed347ef3df3120c7cf7bd2e3d4b9fff77035f9.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_BetnaGobindapur_428786c3.pdf",
+    "sha256": "49449f1517f69615b15d3da5b5c88e271995a84a1c1baf80e4a7272acd678490",
+    "cache": "data/wb/derived/native/49449f1517f69615b15d3da5b5c88e271995a84a1c1baf80e4a7272acd678490.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Bikrampur_07c43b86.pdf",
+    "sha256": "56b7e42df7cec0867cd2f71c0b850cf33cc3996bb23a9b4d30eb9314cf65bd67",
+    "cache": "data/wb/derived/native/56b7e42df7cec0867cd2f71c0b850cf33cc3996bb23a9b4d30eb9314cf65bd67.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Bilkumari_d559629b.pdf",
+    "sha256": "266f366123f471b5e70ebe41f4ab1d585ae5c0150f9f202130101b4c3f0efe6a",
+    "cache": "data/wb/derived/native/266f366123f471b5e70ebe41f4ab1d585ae5c0150f9f202130101b4c3f0efe6a.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Billwagram_2f0531ce.pdf",
+    "sha256": "305f95e9f35246d8c0aa71e2be8e84ce3bddf79aea54da96e70b8d933e04bb46",
+    "cache": "data/wb/derived/native/305f95e9f35246d8c0aa71e2be8e84ce3bddf79aea54da96e70b8d933e04bb46.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Birpur-I_fc8073f4.pdf",
+    "sha256": "6c38fd544633d8d4c0ad089b3cf368a116b520cfb1735e9dfef36ce1b78c4d80",
+    "cache": "data/wb/derived/native/6c38fd544633d8d4c0ad089b3cf368a116b520cfb1735e9dfef36ce1b78c4d80.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Chanderghat_c1e11ea3.pdf",
+    "sha256": "40c23f9259fa83244c08b68ff7c7ba57a5bddfafc5632b4caf608aeabcd1c8c6",
+    "cache": "data/wb/derived/native/40c23f9259fa83244c08b68ff7c7ba57a5bddfafc5632b4caf608aeabcd1c8c6.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Chanduria-II_61a7353a.pdf",
+    "sha256": "6e995525d640d1e97ca96b417f1d6c895c1b42fca753b8a98ff042276afdd851",
+    "cache": "data/wb/derived/native/6e995525d640d1e97ca96b417f1d6c895c1b42fca753b8a98ff042276afdd851.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Chanduria-I_6c2262a2.pdf",
+    "sha256": "0fbaa23f7a456cc3bcf3f008e94523007a718c81fb4d2116d8aa6f6fb9902ec3",
+    "cache": "data/wb/derived/native/0fbaa23f7a456cc3bcf3f008e94523007a718c81fb4d2116d8aa6f6fb9902ec3.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Chhitka_8ef41e1e.pdf",
+    "sha256": "78e19c196a80da5cb3a709a0d8b98bce096d26755a40109d28a907f377089593",
+    "cache": "data/wb/derived/native/78e19c196a80da5cb3a709a0d8b98bce096d26755a40109d28a907f377089593.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Dakshinpara-II_2ab64782.pdf",
+    "sha256": "21a7c150b832dd0fb312f69e55fbf255598bc7efbec1983ea8cb4528976d4b78",
+    "cache": "data/wb/derived/native/21a7c150b832dd0fb312f69e55fbf255598bc7efbec1983ea8cb4528976d4b78.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Dakshinpara-I_1f01c697.pdf",
+    "sha256": "d4c58b412c96ccd1a596d7687f2fc6785b0ad1549b29a535f087768af95baf44",
+    "cache": "data/wb/derived/native/d4c58b412c96ccd1a596d7687f2fc6785b0ad1549b29a535f087768af95baf44.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Debagram_ca21d926.pdf",
+    "sha256": "4ba8911f307359abee66736d8cbf0f38f22bd9acbf6ab92e383c8f2657cb4d7a",
+    "cache": "data/wb/derived/native/4ba8911f307359abee66736d8cbf0f38f22bd9acbf6ab92e383c8f2657cb4d7a.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Dewli_273789c8.pdf",
+    "sha256": "22b2bb47d74728b9eee949c8471b5bf2be6e9b65e1b458606945111e587e9ac5",
+    "cache": "data/wb/derived/native/22b2bb47d74728b9eee949c8471b5bf2be6e9b65e1b458606945111e587e9ac5.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Dh-II_caeeb1b6.pdf",
+    "sha256": "7e975d0b13e5d3411333e6ffce17cb92e20edde68e47d1db8e3f09d45d9895f0",
+    "cache": "data/wb/derived/native/7e975d0b13e5d3411333e6ffce17cb92e20edde68e47d1db8e3f09d45d9895f0.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Dhananjoypur_9961a614.pdf",
+    "sha256": "635f1f07483a730926a10e3ddda48a8a03d6fa2277aea5931c1b57ccecf8b7a8",
+    "cache": "data/wb/derived/native/635f1f07483a730926a10e3ddda48a8a03d6fa2277aea5931c1b57ccecf8b7a8.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Dharmada_46870934.pdf",
+    "sha256": "2678a8a36a1761bd50457dd7e1c73a66eaf98e199dfd76191ef176a06a805cbf",
+    "cache": "data/wb/derived/native/2678a8a36a1761bd50457dd7e1c73a66eaf98e199dfd76191ef176a06a805cbf.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Digh_50a98dda.pdf",
+    "sha256": "233b187b68983d81217b65fba76de2d582badf9cd99128583347f545c3d5074d",
+    "cache": "data/wb/derived/native/233b187b68983d81217b65fba76de2d582badf9cd99128583347f545c3d5074d.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Dogachhia_ebe0c6ed.pdf",
+    "sha256": "9d663481a09f5ce7c5303300efc0d1474391ddeb1f9d5497052d53afab4b296f",
+    "cache": "data/wb/derived/native/9d663481a09f5ce7c5303300efc0d1474391ddeb1f9d5497052d53afab4b296f.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Dubra_32235c0c.pdf",
+    "sha256": "637ddc11aacc65695a08b2b0e7ca10a17e6a8f0995ab4d022a9d6211e3aea8c5",
+    "cache": "data/wb/derived/native/637ddc11aacc65695a08b2b0e7ca10a17e6a8f0995ab4d022a9d6211e3aea8c5.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Duttapulia_ca44390b.pdf",
+    "sha256": "c7600efc0b6d37af596235dd31aee062dbffe0ebfbfb84447c8d9f9f85635f05",
+    "cache": "data/wb/derived/native/c7600efc0b6d37af596235dd31aee062dbffe0ebfbfb84447c8d9f9f85635f05.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORM-A1_4727e380.pdf",
+    "sha256": "6b5ab1bd5af1b64c226411b99306a941dc659b5f9c6ec9962caa64c5d7247b7d",
+    "cache": "data/wb/derived/native/6b5ab1bd5af1b64c226411b99306a941dc659b5f9c6ec9962caa64c5d7247b7d.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORM-A_Belpukur_161bcf81.pdf",
+    "sha256": "b3d00c8ccb5fd59e694f9fe5ff4ee297f5aebb1650a861c2a4d70d24d7563fd5",
+    "cache": "data/wb/derived/native/b3d00c8ccb5fd59e694f9fe5ff4ee297f5aebb1650a861c2a4d70d24d7563fd5.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORM-A_Dhubulia-II_128ab232.pdf",
+    "sha256": "3c522396c697c5819f284f28c055bbe957e3bcac3646e00b537e3b504e0c2375",
+    "cache": "data/wb/derived/native/3c522396c697c5819f284f28c055bbe957e3bcac3646e00b537e3b504e0c2375.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORM-A_Dhubulia-I_7f4056af.pdf",
+    "sha256": "2170abe160fa902e8021e93bd4c4394c67be197132487be8252fd190da32287a",
+    "cache": "data/wb/derived/native/2170abe160fa902e8021e93bd4c4394c67be197132487be8252fd190da32287a.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORM-A_Nawpara-II_550f8e44.pdf",
+    "sha256": "33dae8eeab176b345fcb0809dc63e86d02d85778e4a983e14c3e62cb42cc0731",
+    "cache": "data/wb/derived/native/33dae8eeab176b345fcb0809dc63e86d02d85778e4a983e14c3e62cb42cc0731.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORM-A_Nawpara-I_09c10d0a.pdf",
+    "sha256": "2238be788015349cceb11c9fe300c58a663bb6353cc36f1f82e63f0f06932344",
+    "cache": "data/wb/derived/native/2238be788015349cceb11c9fe300c58a663bb6353cc36f1f82e63f0f06932344.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORM-A_Sadhanpara-II_0939c266.pdf",
+    "sha256": "0b581aeb108ebc6d713581072f6858ec756540b9cd522a3ed0fd21e797aee7fe",
+    "cache": "data/wb/derived/native/0b581aeb108ebc6d713581072f6858ec756540b9cd522a3ed0fd21e797aee7fe.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORM-A_Sadhanpara-I_291a8549.pdf",
+    "sha256": "36a2ee601f0f0cd4b3351d2fcaa0773090c34d8917ef5bd24b77d397184a867c",
+    "cache": "data/wb/derived/native/36a2ee601f0f0cd4b3351d2fcaa0773090c34d8917ef5bd24b77d397184a867c.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORM-B1_175ed1dc.pdf",
+    "sha256": "623124a3ce5a7c636c6edfbe7d1320bc09c0c2cf37d4ad3170948f13fc7adcf9",
+    "cache": "data/wb/derived/native/623124a3ce5a7c636c6edfbe7d1320bc09c0c2cf37d4ad3170948f13fc7adcf9.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORM-B1_24cd840f.pdf",
+    "sha256": "db5041a10ee61253da26951396b9c09054bf2b580018d17b73a6f4e5503e8a4e",
+    "cache": "data/wb/derived/native/db5041a10ee61253da26951396b9c09054bf2b580018d17b73a6f4e5503e8a4e.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORMA-BARNIA_1dc50808.pdf",
+    "sha256": "9b8df947f54cf14b8d5e82ba7c6faa7ed510f532fa1658c829254fc1a03fcac4",
+    "cache": "data/wb/derived/native/9b8df947f54cf14b8d5e82ba7c6faa7ed510f532fa1658c829254fc1a03fcac4.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORMA-HANSPUKURIA_def437c4.pdf",
+    "sha256": "c026c892a062afa8bc50c1f44512c83c4a677df8e7c10953e3144171b6bc659f",
+    "cache": "data/wb/derived/native/c026c892a062afa8bc50c1f44512c83c4a677df8e7c10953e3144171b6bc659f.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORMA-PALASHIPARA_980e8c8c.pdf",
+    "sha256": "52046c8af6e3cbd8bf33e3d589eef24d23f27140f0ce6107a94d48d025f59aa5",
+    "cache": "data/wb/derived/native/52046c8af6e3cbd8bf33e3d589eef24d23f27140f0ce6107a94d48d025f59aa5.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORMA-PALSUNDA-I_60ce942a.pdf",
+    "sha256": "97900fea0ac486e7cb4f73cd08fed4fc4b243c8e601143d2eacf81241c37c3f6",
+    "cache": "data/wb/derived/native/97900fea0ac486e7cb4f73cd08fed4fc4b243c8e601143d2eacf81241c37c3f6.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORMA-SAHEBNAGAR_63bf3341.pdf",
+    "sha256": "1dad5bfe02f59da575c63336a601e42c40ebff2482b9237f7cc93bf7b96d0c05",
+    "cache": "data/wb/derived/native/1dad5bfe02f59da575c63336a601e42c40ebff2482b9237f7cc93bf7b96d0c05.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FORMA-palsunda-II_f39c35b3.pdf",
+    "sha256": "1da8291e9ca16f2d733b78358f288cdad36f571c10531adf5636910100766f73",
+    "cache": "data/wb/derived/native/1da8291e9ca16f2d733b78358f288cdad36f571c10531adf5636910100766f73.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Fatepur_59ae9e3a.pdf",
+    "sha256": "629833cb10626518b3911f794680be2c12ccb4a8bc6c60fb80efa7d2fd9d1405",
+    "cache": "data/wb/derived/native/629833cb10626518b3911f794680be2c12ccb4a8bc6c60fb80efa7d2fd9d1405.json",
+    "pages": 5,
+    "pages_with_text": 5,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Form-A1-Order_045e6a68.pdf",
+    "sha256": "982de56ef9ea8e1fcfaa1a24dfe834599c00cb11713c438d1581391edfb458d1",
+    "cache": "data/wb/derived/native/982de56ef9ea8e1fcfaa1a24dfe834599c00cb11713c438d1581391edfb458d1.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Form-A1_bc959e7a.pdf",
+    "sha256": "71169a79a0271658d7f62250b648fa96b124745f7996b3f694112c702894a5ae",
+    "cache": "data/wb/derived/native/71169a79a0271658d7f62250b648fa96b124745f7996b3f694112c702894a5ae.json",
+    "pages": 36,
+    "pages_with_text": 36,
+    "tables": 36
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Form-A1_c16eed1b.pdf",
+    "sha256": "7a19d0120c13e46a304d1b393ae6445b065ace66675fa08a7a3f4e6c45178130",
+    "cache": "data/wb/derived/native/7a19d0120c13e46a304d1b393ae6445b065ace66675fa08a7a3f4e6c45178130.json",
+    "pages": 25,
+    "pages_with_text": 25,
+    "tables": 48
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Form-B1_38a4fa5d.pdf",
+    "sha256": "f5d695f7b04ca4044944bdad5eed7593989a04e43c0909f1eaf86f59ea22e979",
+    "cache": "data/wb/derived/native/f5d695f7b04ca4044944bdad5eed7593989a04e43c0909f1eaf86f59ea22e979.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Form-B1_3b3350d2.pdf",
+    "sha256": "10ba4df134e50b5a13dd275fe6500abbfed193ca8bb20287190492cacd172dd6",
+    "cache": "data/wb/derived/native/10ba4df134e50b5a13dd275fe6500abbfed193ca8bb20287190492cacd172dd6.json",
+    "pages": 7,
+    "pages_with_text": 7,
+    "tables": 7
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Form-B1_81f7918c.pdf",
+    "sha256": "3687ac2e52cee62ff915df4d33658c9f145feaaf006f90e301f87d020303d326",
+    "cache": "data/wb/derived/native/3687ac2e52cee62ff915df4d33658c9f145feaaf006f90e301f87d020303d326.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Form-B1_c07fd23e.pdf",
+    "sha256": "7316ffebdf8fbccdfde1cefcd0a93073e10048d03d3cccdda7a21c25fc04d036",
+    "cache": "data/wb/derived/native/7316ffebdf8fbccdfde1cefcd0a93073e10048d03d3cccdda7a21c25fc04d036.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Form-B1_c7646eff.pdf",
+    "sha256": "202099fe23fb07f5e4fc0afba9002eb6682801f2c2b1224a45c5cc3a838bfb75",
+    "cache": "data/wb/derived/native/202099fe23fb07f5e4fc0afba9002eb6682801f2c2b1224a45c5cc3a838bfb75.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FormA-GOPINATHPUR_f6ebf3a9.pdf",
+    "sha256": "565d2a2ba006bd9cdec0f1a9e309515eccb698ff2506e9b5e33da8dd5f503d85",
+    "cache": "data/wb/derived/native/565d2a2ba006bd9cdec0f1a9e309515eccb698ff2506e9b5e33da8dd5f503d85.json",
+    "pages": 4,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FormABTGP_bbf62a34.pdf",
+    "sha256": "57aefe792049dc5b74455d1123acaa2fc674d97fb6809b125f44f37bf6fe7646",
+    "cache": "data/wb/derived/native/57aefe792049dc5b74455d1123acaa2fc674d97fb6809b125f44f37bf6fe7646.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FormAGOBGP_d6401c99.pdf",
+    "sha256": "0ac887d43e52ae60f17d1a063a67e30479d7e69b289656296db87646602de254",
+    "cache": "data/wb/derived/native/0ac887d43e52ae60f17d1a063a67e30479d7e69b289656296db87646602de254.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FormAJOYGP_808c9836.pdf",
+    "sha256": "32b5eac6ab339b307facc5e059ab2d2de05b97bb9af6fea7798e1626026d24f9",
+    "cache": "data/wb/derived/native/32b5eac6ab339b307facc5e059ab2d2de05b97bb9af6fea7798e1626026d24f9.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FormAKNJGP_d68f1ead.pdf",
+    "sha256": "332c1e127c8e4a81fdee9a66e93e67a55384c9329989bf6d8cec7f4a4db59f40",
+    "cache": "data/wb/derived/native/332c1e127c8e4a81fdee9a66e93e67a55384c9329989bf6d8cec7f4a4db59f40.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FormAMBGP_637807a4.pdf",
+    "sha256": "6e413a97c84f20c3cf9751aa92ea29883c980bc3fb8bae6dcaf2ad694fb459bb",
+    "cache": "data/wb/derived/native/6e413a97c84f20c3cf9751aa92ea29883c980bc3fb8bae6dcaf2ad694fb459bb.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FormASHIBGP_e587eac1.pdf",
+    "sha256": "2316bd70e37d0e5b45f7ec20fd493fc15b5be28812f8f20d3cb7d7c5ce62e731",
+    "cache": "data/wb/derived/native/2316bd70e37d0e5b45f7ec20fd493fc15b5be28812f8f20d3cb7d7c5ce62e731.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FormATMGP_e1dd3845.pdf",
+    "sha256": "c4d339c74818803804f4ab0d6afbb84cc135f5ca02a8181bcb699def61f8ef86",
+    "cache": "data/wb/derived/native/c4d339c74818803804f4ab0d6afbb84cc135f5ca02a8181bcb699def61f8ef86.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_FormB1_f7386ca2.pdf",
+    "sha256": "e89b88243e09bf76fa9e0c5921c5088246e62001cb6a3d61de7c2549eb315cf4",
+    "cache": "data/wb/derived/native/e89b88243e09bf76fa9e0c5921c5088246e62001cb6a3d61de7c2549eb315cf4.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Form_20A1_37b1730e.pdf",
+    "sha256": "e5a749cd04b80ada822983e5805c8b76ac97eb083739de0842a618e6f93ce3e6",
+    "cache": "data/wb/derived/native/e5a749cd04b80ada822983e5805c8b76ac97eb083739de0842a618e6f93ce3e6.json",
+    "pages": 26,
+    "pages_with_text": 26,
+    "tables": 26
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Gazna_79f8fca5.pdf",
+    "sha256": "c5576be1e41fa0a710c0db68b6a866522c26ce39bb70d73cdc6d0fb5fa95e285",
+    "cache": "data/wb/derived/native/c5576be1e41fa0a710c0db68b6a866522c26ce39bb70d73cdc6d0fb5fa95e285.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Ghetugachi_1418c9e2.pdf",
+    "sha256": "2708c44c3e04cd6d9efa03c89c3a5e488a693ff934813967d794dd89979221c3",
+    "cache": "data/wb/derived/native/2708c44c3e04cd6d9efa03c89c3a5e488a693ff934813967d794dd89979221c3.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Habibpur_c262795e.pdf",
+    "sha256": "327d8b8ca6b1bc5b04523f1267948b830d308013aaa2d6fc87bd9ee4d4429db5",
+    "cache": "data/wb/derived/native/327d8b8ca6b1bc5b04523f1267948b830d308013aaa2d6fc87bd9ee4d4429db5.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Haranagar_0dd258bf.pdf",
+    "sha256": "38402adb2abd6c386fd8782ccc16a57fe3b04eb73febdee8dabbf63103156d29",
+    "cache": "data/wb/derived/native/38402adb2abd6c386fd8782ccc16a57fe3b04eb73febdee8dabbf63103156d29.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Harekrishnapur_14c1cd77.pdf",
+    "sha256": "7701874f166475797c0bf184abf52a92400f743c25af3779de2df2f38e70ff27",
+    "cache": "data/wb/derived/native/7701874f166475797c0bf184abf52a92400f743c25af3779de2df2f38e70ff27.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Haringhata-II_076006f3.pdf",
+    "sha256": "69151e4e94cf9ef191128800c935d719b1f328297f149f9249896d29dff2949d",
+    "cache": "data/wb/derived/native/69151e4e94cf9ef191128800c935d719b1f328297f149f9249896d29dff2949d.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Haringhata-I_ef14eb12.pdf",
+    "sha256": "ff77cedad3a1144dad6095d2227e7c2da72143fcfcc060b483f22d12c4aa75bf",
+    "cache": "data/wb/derived/native/ff77cedad3a1144dad6095d2227e7c2da72143fcfcc060b483f22d12c4aa75bf.json",
+    "pages": 5,
+    "pages_with_text": 5,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Hingnara_f740e87d.pdf",
+    "sha256": "a7f5f574319afd2ecee51408dd9e37c053bcda937f72c6b3059122a9e8f540bd",
+    "cache": "data/wb/derived/native/a7f5f574319afd2ecee51408dd9e37c053bcda937f72c6b3059122a9e8f540bd.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Jamsherpur_6a11d54f.pdf",
+    "sha256": "35e66cbf9a77a8530cd5ee393d1b74aae1849b724ffe93a69c94d6f03aadec72",
+    "cache": "data/wb/derived/native/35e66cbf9a77a8530cd5ee393d1b74aae1849b724ffe93a69c94d6f03aadec72.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Jugalkishore_ad648d2e.pdf",
+    "sha256": "8e753c41d5bf8a06a9a91cceb9e3c828411920154357f8f5c2b3f4fe8ee5f778",
+    "cache": "data/wb/derived/native/8e753c41d5bf8a06a9a91cceb9e3c828411920154357f8f5c2b3f4fe8ee5f778.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Kamalpur_6444cbc2.pdf",
+    "sha256": "1878c34342752182347d44dff75fd0e9ceb21d16b53beed7f026366082520439",
+    "cache": "data/wb/derived/native/1878c34342752182347d44dff75fd0e9ceb21d16b53beed7f026366082520439.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Kanchrapara_ab361d0d.pdf",
+    "sha256": "9ce1eb1406132084f2c4d9ddf827b1918a1c4d8bece5816bcccd0a86d8177bef",
+    "cache": "data/wb/derived/native/9ce1eb1406132084f2c4d9ddf827b1918a1c4d8bece5816bcccd0a86d8177bef.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Karimpur-II_86bd8352.pdf",
+    "sha256": "06c438f1dd52737cd3dd7cb8a410051897fa008871c627ce21bc0bddacf32902",
+    "cache": "data/wb/derived/native/06c438f1dd52737cd3dd7cb8a410051897fa008871c627ce21bc0bddacf32902.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Karimpur-I_0d2827c6.pdf",
+    "sha256": "8d63f561ba866e95548a8742a9de1cd86bad2d4c0507add278a990c2321005f4",
+    "cache": "data/wb/derived/native/8d63f561ba866e95548a8742a9de1cd86bad2d4c0507add278a990c2321005f4.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Madanpur-II_724c533d.pdf",
+    "sha256": "60f6bc4b015f72b20d0ce767e41369bea54315271b8ea23b988023549a1444a3",
+    "cache": "data/wb/derived/native/60f6bc4b015f72b20d0ce767e41369bea54315271b8ea23b988023549a1444a3.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Madanpur-I_aaeda938.pdf",
+    "sha256": "d09edd9c0b18a50a691abbbb5861aa15854029983181f907425dd4602ea80bf2",
+    "cache": "data/wb/derived/native/d09edd9c0b18a50a691abbbb5861aa15854029983181f907425dd4602ea80bf2.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Majhergram_25ee0055.pdf",
+    "sha256": "f54f6b4c32f711d152b5163d3bc836aec450e5a7f29b2b7b2a6cc6b41c194e03",
+    "cache": "data/wb/derived/native/f54f6b4c32f711d152b5163d3bc836aec450e5a7f29b2b7b2a6cc6b41c194e03.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Majhergram_9d390213.pdf",
+    "sha256": "c1047b0288b2b1e2cebde05ed89787a221a5f820d6add576db11667acf310796",
+    "cache": "data/wb/derived/native/c1047b0288b2b1e2cebde05ed89787a221a5f820d6add576db11667acf310796.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Mamjoan_7f58bbb9.pdf",
+    "sha256": "fd9445999f3f0a841f220753e6b329823e49de9977e1223f4ee0585e1948c2f4",
+    "cache": "data/wb/derived/native/fd9445999f3f0a841f220753e6b329823e49de9977e1223f4ee0585e1948c2f4.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Mayurhat-II_d9fd6980.pdf",
+    "sha256": "8b2d9d57eb2c6d187ab72628c0eda071788ff3487c3905c1881c96abc2bf8e82",
+    "cache": "data/wb/derived/native/8b2d9d57eb2c6d187ab72628c0eda071788ff3487c3905c1881c96abc2bf8e82.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Muru_2ec52bfa.pdf",
+    "sha256": "45fa5bc552f71ff9de30793a29c76f30cffb6efcf81d3a3d9cc8f687756e188e",
+    "cache": "data/wb/derived/native/45fa5bc552f71ff9de30793a29c76f30cffb6efcf81d3a3d9cc8f687756e188e.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Nagarukhra-I_70b54b9c.pdf",
+    "sha256": "c685f17d97b978b45d02e02cead572879939fe4ef74229de5590cf7de0f24463",
+    "cache": "data/wb/derived/native/c685f17d97b978b45d02e02cead572879939fe4ef74229de5590cf7de0f24463.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_NakashiparaGP_60d11eab.pdf",
+    "sha256": "560818d6ed50b02c0ba275d0ff35aaf7adc2b0e5da4348eb8c3d40dea5c4c38e",
+    "cache": "data/wb/derived/native/560818d6ed50b02c0ba275d0ff35aaf7adc2b0e5da4348eb8c3d40dea5c4c38e.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Nand_810c5005.pdf",
+    "sha256": "0f1db5454b0061e6358b7f25348c986eaa2944e12aa99df6d4e44165f3643ac2",
+    "cache": "data/wb/derived/native/0f1db5454b0061e6358b7f25348c986eaa2944e12aa99df6d4e44165f3643ac2.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Nara-II_cdd1cab4.pdf",
+    "sha256": "89a28401c7c0aed0d750457307b31e0bc1a6482750b1ddd9b7d716bc5ed97a10",
+    "cache": "data/wb/derived/native/89a28401c7c0aed0d750457307b31e0bc1a6482750b1ddd9b7d716bc5ed97a10.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Nara-I_8b24736b.pdf",
+    "sha256": "ba7273c42279c52ac89fd76a70795cc7c55ba090cf536e5882e0ab34051c6618",
+    "cache": "data/wb/derived/native/ba7273c42279c52ac89fd76a70795cc7c55ba090cf536e5882e0ab34051c6618.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Nati-II_84283aee.pdf",
+    "sha256": "b1f8693e2d947d6779d2490d97857346ba6a1b8cab0e0c562ea3d94373eb5f7d",
+    "cache": "data/wb/derived/native/b1f8693e2d947d6779d2490d97857346ba6a1b8cab0e0c562ea3d94373eb5f7d.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Nati-I_80756371.pdf",
+    "sha256": "62a01bd5357717e134a584dc75e13e50004ee72eeecffc3ec378c86c98b1cb9c",
+    "cache": "data/wb/derived/native/62a01bd5357717e134a584dc75e13e50004ee72eeecffc3ec378c86c98b1cb9c.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Nokari_7d8a2a12.pdf",
+    "sha256": "d952474e6435348f19cfd9984385af4d848e4a41a5cc9e81e7dc01ca42473f31",
+    "cache": "data/wb/derived/native/d952474e6435348f19cfd9984385af4d848e4a41a5cc9e81e7dc01ca42473f31.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_ORDER-A1_cbbf8640.pdf",
+    "sha256": "674c7cabc4a4bdbbc6854e033fa7f1bf33352ec9689e1befea8ba491e3b0eb5e",
+    "cache": "data/wb/derived/native/674c7cabc4a4bdbbc6854e033fa7f1bf33352ec9689e1befea8ba491e3b0eb5e.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_ORDER-_20A1_d59db5cc.pdf",
+    "sha256": "0999ebe057007d49b3d495441cb408525e08efcd1f5101364d4df4184df14e3c",
+    "cache": "data/wb/derived/native/0999ebe057007d49b3d495441cb408525e08efcd1f5101364d4df4184df14e3c.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_ORDER-_20B1_6ffab169.pdf",
+    "sha256": "845f879abccd540b8f0b77097b829e7613e6a6e4b7c113c4c090a99f2c90a09f",
+    "cache": "data/wb/derived/native/845f879abccd540b8f0b77097b829e7613e6a6e4b7c113c4c090a99f2c90a09f.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_ORDER_3c53400c.pdf",
+    "sha256": "87a4d3febb9b466b9c2bc72a7d79b7716ec09872ff3b335fba4619f5574b10c9",
+    "cache": "data/wb/derived/native/87a4d3febb9b466b9c2bc72a7d79b7716ec09872ff3b335fba4619f5574b10c9.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_ORDER_A1_89e10d5b.pdf",
+    "sha256": "42ccb061bd5af5f6b48cb252cefd97901261cf5f4cc1865bfdcfc331058c11d2",
+    "cache": "data/wb/derived/native/42ccb061bd5af5f6b48cb252cefd97901261cf5f4cc1865bfdcfc331058c11d2.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_ORDER_B1_cd327206.pdf",
+    "sha256": "877d45ec4752a4a2fed8a9e7a030a21071e3fef412c04c937ebb8bafa2e7278a",
+    "cache": "data/wb/derived/native/877d45ec4752a4a2fed8a9e7a030a21071e3fef412c04c937ebb8bafa2e7278a.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Order-A1_40c0337b.pdf",
+    "sha256": "a053032d669b1217c45ff7b13237fb884a3c879022285f940dae4093430fbace",
+    "cache": "data/wb/derived/native/a053032d669b1217c45ff7b13237fb884a3c879022285f940dae4093430fbace.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Order-B1_336eee9f.pdf",
+    "sha256": "bd46d0a286778d9e7841830b3152cd7f8b6cda2894c018f9411866daeebda075",
+    "cache": "data/wb/derived/native/bd46d0a286778d9e7841830b3152cd7f8b6cda2894c018f9411866daeebda075.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Order-B1_87526c06.pdf",
+    "sha256": "d38eb9dc2e5577b0d1651410f5d7565acd2a61f5f58cebebc75e3126d0ca4734",
+    "cache": "data/wb/derived/native/d38eb9dc2e5577b0d1651410f5d7565acd2a61f5f58cebebc75e3126d0ca4734.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Order-B1_b72de417.pdf",
+    "sha256": "72ec4fd39164e00b40221f99b53ae06953572e2ac5602cc9327fc979538fe3d4",
+    "cache": "data/wb/derived/native/72ec4fd39164e00b40221f99b53ae06953572e2ac5602cc9327fc979538fe3d4.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_OrderA1_7df1ac2f.pdf",
+    "sha256": "f3c74ab20929eaccb055cf9a58028b5b925b8d005341e2744e19c4bf2a89f7b6",
+    "cache": "data/wb/derived/native/f3c74ab20929eaccb055cf9a58028b5b925b8d005341e2744e19c4bf2a89f7b6.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Order_20A1_3950681b.pdf",
+    "sha256": "2ccf8ebe5684fc8a44aea5792dac38d0a27d0454fd53ab4df0a3142e4ee9ea86",
+    "cache": "data/wb/derived/native/2ccf8ebe5684fc8a44aea5792dac38d0a27d0454fd53ab4df0a3142e4ee9ea86.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Order_20A1_3d01c8a0.pdf",
+    "sha256": "3958b53374c9b8faa5dd3eb5b2ac26d2a75eb989242d3a6d7c03fc7c5e3b02f3",
+    "cache": "data/wb/derived/native/3958b53374c9b8faa5dd3eb5b2ac26d2a75eb989242d3a6d7c03fc7c5e3b02f3.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+    "sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+    "cache": "data/wb/derived/native/238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43.json",
+    "pages": 152,
+    "pages_with_text": 151,
+    "tables": 124
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Patharghata-II_0e8021f1.pdf",
+    "sha256": "57af08e3978d3ea9bb58b4dbfd47154dab921629fa0b3dc68bd88dff99685b1b",
+    "cache": "data/wb/derived/native/57af08e3978d3ea9bb58b4dbfd47154dab921629fa0b3dc68bd88dff99685b1b.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Patharghata-I_88e201b1.pdf",
+    "sha256": "0b26755f32d3bd6efca1251ba47d224ca1f33a8ac76cc25dad7e4841b9652270",
+    "cache": "data/wb/derived/native/0b26755f32d3bd6efca1251ba47d224ca1f33a8ac76cc25dad7e4841b9652270.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Patikabari_50152de2.pdf",
+    "sha256": "e70ce1d0ec98f7c0aa1b025f2cbe3dd154c6bf4d15a02c45ee5f8c38db0ae6c9",
+    "cache": "data/wb/derived/native/e70ce1d0ec98f7c0aa1b025f2cbe3dd154c6bf4d15a02c45ee5f8c38db0ae6c9.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Payradanga_0af226ef.pdf",
+    "sha256": "ccbaa055b105c8d43d7bfd352e1a9416b3a782c1842621189df001324624cf05",
+    "cache": "data/wb/derived/native/ccbaa055b105c8d43d7bfd352e1a9416b3a782c1842621189df001324624cf05.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "cache": "data/wb/derived/native/79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339.json",
+    "pages": 7,
+    "pages_with_text": 0,
+    "tables": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_R-HIjuli-II_f1e36aa3.pdf",
+    "sha256": "fb971c8efc16fc1f46557f3b940200b7cddbe25b156a64b8b017002f48e185ff",
+    "cache": "data/wb/derived/native/fb971c8efc16fc1f46557f3b940200b7cddbe25b156a64b8b017002f48e185ff.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_R-Hijuli-I_cdaddaad.pdf",
+    "sha256": "cb81edf6eddf091071c83332da85ee4afd0047a8049f9da9c09c93f6827cde0b",
+    "cache": "data/wb/derived/native/cb81edf6eddf091071c83332da85ee4afd0047a8049f9da9c09c93f6827cde0b.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Raha_3f3eef56.pdf",
+    "sha256": "fec88af52b6f8e98a609ff9af2a85a280e61cefed722c00dfdf1a9df99cc3c12",
+    "cache": "data/wb/derived/native/fec88af52b6f8e98a609ff9af2a85a280e61cefed722c00dfdf1a9df99cc3c12.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Ramnagar-II_de95b7b3.pdf",
+    "sha256": "a2d109f3242c4cbafc5028a6734465a07809d0f52adb67b940db2073ffc4001b",
+    "cache": "data/wb/derived/native/a2d109f3242c4cbafc5028a6734465a07809d0f52adb67b940db2073ffc4001b.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Ramnagar-I_27a1c6cd.pdf",
+    "sha256": "26fcdcfb2cc1375539ca9f4f582e4f95d9c012fb731611d8d8fbbe55d60c7997",
+    "cache": "data/wb/derived/native/26fcdcfb2cc1375539ca9f4f582e4f95d9c012fb731611d8d8fbbe55d60c7997.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Ramnagar-I_373a0017.pdf",
+    "sha256": "0cc9b6f465c45c66a23dc89b3e3011bf2c62af313aecfad046a1f8e01720ee5b",
+    "cache": "data/wb/derived/native/0cc9b6f465c45c66a23dc89b3e3011bf2c62af313aecfad046a1f8e01720ee5b.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Rautari_845ce850.pdf",
+    "sha256": "86cc57181c15d93393988c8089bd4cf026e5687321b7857391fcc3348e03ce40",
+    "cache": "data/wb/derived/native/86cc57181c15d93393988c8089bd4cf026e5687321b7857391fcc3348e03ce40.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Saguna_77c14419.pdf",
+    "sha256": "dc9a5c71b7c77e7327d075f926219623babd14379a18a724a21c7c29b5be6f49",
+    "cache": "data/wb/derived/native/dc9a5c71b7c77e7327d075f926219623babd14379a18a724a21c7c29b5be6f49.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Schedule-A1_72e4ab9c.pdf",
+    "sha256": "369cbe36fc9ffd771126a5e71171b210664c8a9925fc28ea267b2677e139ee13",
+    "cache": "data/wb/derived/native/369cbe36fc9ffd771126a5e71171b210664c8a9925fc28ea267b2677e139ee13.json",
+    "pages": 28,
+    "pages_with_text": 28,
+    "tables": 28
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Schedule-B1_83189d27.pdf",
+    "sha256": "a042a305b5b4ffbeaf05aa781d2105e562807af63f70f9e34a44c00263f4d300",
+    "cache": "data/wb/derived/native/a042a305b5b4ffbeaf05aa781d2105e562807af63f70f9e34a44c00263f4d300.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 13
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_ScheduleB1_ea11276a.pdf",
+    "sha256": "2b8c24da0e5d1df68ed8163b88827ac3680f2e68411fa2b0a314519e2f507d84",
+    "cache": "data/wb/derived/native/2b8c24da0e5d1df68ed8163b88827ac3680f2e68411fa2b0a314519e2f507d84.json",
+    "pages": 4,
+    "pages_with_text": 4,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Shikarpur_43495071.pdf",
+    "sha256": "554c4d2bac5b52f2122227164a589097051f1c84abd6209e90c2abaea99fd9e7",
+    "cache": "data/wb/derived/native/554c4d2bac5b52f2122227164a589097051f1c84abd6209e90c2abaea99fd9e7.json",
+    "pages": 1,
+    "pages_with_text": 1,
+    "tables": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Shyamnagar_01ae09b5.pdf",
+    "sha256": "64c3f7ae34d4eb25fd19c10e830bf8ffbb9be4d04f95ba14ce1d64f30cf84939",
+    "cache": "data/wb/derived/native/64c3f7ae34d4eb25fd19c10e830bf8ffbb9be4d04f95ba14ce1d64f30cf84939.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Shyamnagar_6ec2319a.pdf",
+    "sha256": "b83bf95c6400d00af4f957800a2c8084a02aba7d15dad047f1f72b60ca66b319",
+    "cache": "data/wb/derived/native/b83bf95c6400d00af4f957800a2c8084a02aba7d15dad047f1f72b60ca66b319.json",
+    "pages": 3,
+    "pages_with_text": 3,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Silinda-I_7d8fc466.pdf",
+    "sha256": "8b7ab9c412f8ee47fd244bda3f72c9298c9f60b5c58a82d00443b64466e5033d",
+    "cache": "data/wb/derived/native/8b7ab9c412f8ee47fd244bda3f72c9298c9f60b5c58a82d00443b64466e5033d.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Tarapur_d8d660c2.pdf",
+    "sha256": "a400cbf6201e85a51890710a810aec406aa7065854836c13591cd05bc883ead8",
+    "cache": "data/wb/derived/native/a400cbf6201e85a51890710a810aec406aa7065854836c13591cd05bc883ead8.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Tatla-II_93e73760.pdf",
+    "sha256": "773c5da77f461df392ed8da2a434d7ab7538fc7062ef79680414a21bfb304c79",
+    "cache": "data/wb/derived/native/773c5da77f461df392ed8da2a434d7ab7538fc7062ef79680414a21bfb304c79.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Tatla-I_702c0ed1.pdf",
+    "sha256": "34a6a76d72f5bcbd889ad30bb194f23a5d2cf496063a3842a300721fbd348eea",
+    "cache": "data/wb/derived/native/34a6a76d72f5bcbd889ad30bb194f23a5d2cf496063a3842a300721fbd348eea.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Tehatta_d0cc01dc.pdf",
+    "sha256": "e83f6349be62f5e8315abdc7622a948d994393383ee377e3a825808e141a4cbc",
+    "cache": "data/wb/derived/native/e83f6349be62f5e8315abdc7622a948d994393383ee377e3a825808e141a4cbc.json",
+    "pages": 2,
+    "pages_with_text": 2,
+    "tables": 2
+  }
+]

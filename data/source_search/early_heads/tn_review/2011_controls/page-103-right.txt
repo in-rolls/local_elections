@@ -1,0 +1,40 @@
+1 2 3
+Kadavur Panchayat Union Contd.,
+4 Devarmalai SC (General)
+5 Varavanai General (Women)
+6 Pannapatti General (Women)
+7 Kadavur General (Women)
+8 Valvarmangalam General (Women)
+9 Keelapaguthi General (Women)
+10 Mavathur General
+11 Manjanaickenpatti General
+12 Vadavambadi General
+13 Mullipadi General
+14 Vellapatti General
+15 Tharagampatti General
+16 Papayambadi General
+17 Keeranur General
+18 Thennilai General
+19 Sembiyanatham General
+20 Kalayapatti General
+Thogamalai Panchayat Union
+1 Puthur SC (Women)
+2 Chinniyamapalayam SC (Women)
+3 Archampatti SC (General)
+4 Naganur SC (General)
+5 Kalugur General (Women)
+6 Mudalaipatti General (Women)
+7 Kallai General (Women)
+8 Gudalur General (Women)
+9 Vadaseri General (Women)
+10 Seplapatti General
+11 Pulutheri General
+12 Neithalur General
+13 Kalladai General
+14 Alathur General
+15 Thogamalai General
+16 Pathiripatti General
+17 Thalinji General
+18 Porunthalur General
+19 Pillur General
+20 R.T. Malai General

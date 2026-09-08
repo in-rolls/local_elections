@@ -1,0 +1,26 @@
+1 2 3
+Thalanayar Panchayat Union
+1 Kadanthethy SC (Women)
+2 Kolappadu SC (Women)
+3 Umbalachery SC (Women)
+4 Kallimedu SC (General)
+5 Sithaimoor SC (General)
+6 Thamaraipulam SC (General)
+7 Thulasapuram SC (General)
+8 Vattakkudy SC (General)
+9 Kovilpathu General (Women)
+10 Manakkudy General (Women)
+11 Nathappallam General (Women)
+12 Vellappallam General (Women)
+13 Pannatheru General (Women)
+14 Avarikkadu General
+15 Aymoor General
+16 Katchanagaram General
+17 Kothangudi General
+18 Thiruvidamarudhur General
+19 Naluvedapathy General
+20 Neermulai General
+21 Panangadi General
+22 Pangal General
+23 Puthur General
+24 Vadugoor General

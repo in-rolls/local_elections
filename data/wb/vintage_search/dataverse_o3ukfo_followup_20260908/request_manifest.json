@@ -1,0 +1,35 @@
+[
+  {
+    "name": "election_pradhan_alldist_ddi",
+    "method": "GET",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/13986379/metadata/ddi",
+    "status": 200,
+    "content_type": "text/xml;charset=UTF-8",
+    "path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/election_pradhan_alldist_ddi.body",
+    "sha256": "70f4120c449f9c75b31c514253fcfc01cd4bab5c4667648a8d29ec6b35218ae5",
+    "bytes": 21440,
+    "retrieved_utc": "2026-09-08T04:52:52.950927+00:00"
+  },
+  {
+    "name": "download_attempt",
+    "method": "GET",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/13986379",
+    "status": 400,
+    "content_type": "application/json;charset=UTF-8",
+    "path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/download_attempt.body",
+    "sha256": "e382e243e36812f920e017d39206c081b04463b9a11f356bdd2131a9c53f45af",
+    "bytes": 122,
+    "retrieved_utc": "2026-09-08T04:52:53.265420+00:00"
+  },
+  {
+    "name": "dataset",
+    "method": "GET",
+    "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/O3UKFO",
+    "status": 403,
+    "content_type": "text/html; charset=iso-8859-1",
+    "path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/dataset.body",
+    "sha256": "5b13fb5957b84ef7bb9d0b6cd509c947ff6a37d67efdac2b896ddd3b908aad10",
+    "bytes": 199,
+    "retrieved_utc": "2026-09-08T04:52:53.641560+00:00"
+  }
+]

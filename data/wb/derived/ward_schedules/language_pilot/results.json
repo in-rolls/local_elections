@@ -1,0 +1,170 @@
+[
+  {
+    "family": "malda",
+    "language": "eng",
+    "ocr_seconds": 3.3993495418690145,
+    "fields": [
+      {
+        "sample_id": "malda_name",
+        "raw": "Madnabati/PS-1",
+        "gold": "Madnabati/PS-1",
+        "normalized_exact": true
+      },
+      {
+        "sample_id": "malda_caste",
+        "raw": "Madnabati/P.S.-1 (SC)",
+        "gold": "Madnabati/P.S.-1 (SC)",
+        "normalized_exact": true
+      },
+      {
+        "sample_id": "malda_women",
+        "raw": "Madnabati/P.S.-1 (SCW)",
+        "gold": "Madnabati/P.S.-1 (SCW)",
+        "normalized_exact": true
+      }
+    ],
+    "matched": 3,
+    "ben_tokens": 0,
+    "word_count": 120
+  },
+  {
+    "family": "malda",
+    "language": "eng+ben",
+    "ocr_seconds": 4.902123249834403,
+    "fields": [
+      {
+        "sample_id": "malda_name",
+        "raw": "Madnabati/PS-1",
+        "gold": "Madnabati/PS-1",
+        "normalized_exact": true
+      },
+      {
+        "sample_id": "malda_caste",
+        "raw": "Madnabati/P.S.-1 (SC)",
+        "gold": "Madnabati/P.S.-1 (SC)",
+        "normalized_exact": true
+      },
+      {
+        "sample_id": "malda_women",
+        "raw": "Madnabati/P.S.-1 (SCW)",
+        "gold": "Madnabati/P.S.-1 (SCW)",
+        "normalized_exact": true
+      }
+    ],
+    "matched": 3,
+    "ben_tokens": 2,
+    "word_count": 120
+  },
+  {
+    "family": "birbhum",
+    "language": "eng+ben",
+    "ocr_seconds": 6.831905124941841,
+    "fields": [
+      {
+        "sample_id": "birbhum_name",
+        "raw": "Sattore/I-1",
+        "gold": "Sattore/I-1",
+        "normalized_exact": true
+      },
+      {
+        "sample_id": "birbhum_caste",
+        "raw": "1-SC",
+        "gold": "1-SC",
+        "normalized_exact": true
+      },
+      {
+        "sample_id": "birbhum_women",
+        "raw": "1-W",
+        "gold": "1-W",
+        "normalized_exact": true
+      }
+    ],
+    "matched": 3,
+    "ben_tokens": 12,
+    "word_count": 461
+  },
+  {
+    "family": "birbhum",
+    "language": "eng",
+    "ocr_seconds": 6.253940792055801,
+    "fields": [
+      {
+        "sample_id": "birbhum_name",
+        "raw": "Sattore/I-1",
+        "gold": "Sattore/I-1",
+        "normalized_exact": true
+      },
+      {
+        "sample_id": "birbhum_caste",
+        "raw": "1-SC",
+        "gold": "1-SC",
+        "normalized_exact": true
+      },
+      {
+        "sample_id": "birbhum_women",
+        "raw": "1-W",
+        "gold": "1-W",
+        "normalized_exact": true
+      }
+    ],
+    "matched": 3,
+    "ben_tokens": 0,
+    "word_count": 462
+  },
+  {
+    "family": "jalpaiguri",
+    "language": "eng",
+    "ocr_seconds": 8.260730000212789,
+    "fields": [
+      {
+        "sample_id": "jalpaiguri_name",
+        "raw": "Binnaguri/I-1",
+        "gold": "Binnaguri/I-1",
+        "normalized_exact": true
+      },
+      {
+        "sample_id": "jalpaiguri_caste",
+        "raw": "1-S\u00a2",
+        "gold": "1-SC",
+        "normalized_exact": false
+      },
+      {
+        "sample_id": "jalpaiguri_women",
+        "raw": "1-SCW",
+        "gold": "1-SCW",
+        "normalized_exact": true
+      }
+    ],
+    "matched": 2,
+    "ben_tokens": 0,
+    "word_count": 730
+  },
+  {
+    "family": "jalpaiguri",
+    "language": "eng+ben",
+    "ocr_seconds": 13.219286666950211,
+    "fields": [
+      {
+        "sample_id": "jalpaiguri_name",
+        "raw": "Binnaguri/I-1",
+        "gold": "Binnaguri/I-1",
+        "normalized_exact": true
+      },
+      {
+        "sample_id": "jalpaiguri_caste",
+        "raw": "1750",
+        "gold": "1-SC",
+        "normalized_exact": false
+      },
+      {
+        "sample_id": "jalpaiguri_women",
+        "raw": "2750",
+        "gold": "1-SCW",
+        "normalized_exact": false
+      }
+    ],
+    "matched": 1,
+    "ben_tokens": 9,
+    "word_count": 733
+  }
+]

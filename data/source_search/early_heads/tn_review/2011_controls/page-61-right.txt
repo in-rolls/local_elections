@@ -1,0 +1,42 @@
+1 2 3
+Paramathi Panchayat Union
+1 Kodur SC (Women)
+2 Nallur SC (Women)
+3 Pillur SC (General)
+4 Ramadevam SC (General)
+5 Sithampoondi SC (General)
+6 Veeranampalayam General (Women)
+7 Koodacheri General (Women)
+8 Kunnamalai General (Women)
+9 Manickkanatham General (Women)
+10 Sungakaramaptty General (Women)
+11 Iruttanai General
+12 Kolaram General
+13 Seerappalli General
+14 Serukkalai General
+15 Maniyanur General
+16 Melsathampur General
+17 Nadanthai General
+18 Pillaikalathur General
+19 Pirandagam General
+20 Villipalayam General
+Puduchatram Panchayat Union
+1 Thalambadi SC(Women)
+2 Pappinaickenpatti SC(Women)
+3 Lakkapuram SC(General)
+4 Thathaiyangarpatty SC(General)
+5 Thirumalaipatty SC(General)
+6 Minnampalli General(Women)
+7 Navani General(Women)
+8 Pachal General(Women)
+9 Sarkar Uduppam General(Women)
+10 Kadhiranallur General(Women)
+11 Karaikurichipudur General
+12 Karaikurichi General
+13 Anantha Krishna Raya Samuthram General
+14 Thathathiripuram General
+15 Elur General
+16 Kalangani General
+17 Kalyani General
+18 Kannoorpatti General
+19 Karadipatti General

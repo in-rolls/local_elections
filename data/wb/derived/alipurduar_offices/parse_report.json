@@ -1,0 +1,90 @@
+{
+  "rows": 72,
+  "by_office": {
+    "pradhan": 50,
+    "upa_pradhan": 16,
+    "sabhapati": 5,
+    "sahakari_sabhapati": 1
+  },
+  "pages_expected": 12,
+  "pages_seen": 12,
+  "source_controls": [
+    {
+      "office": "pradhan",
+      "source_page": 5,
+      "total_offices": 66,
+      "SC": 18,
+      "ST": 15,
+      "BC": 0,
+      "women": 33,
+      "listed_bodies": 50,
+      "unlisted_bodies_count": 16,
+      "observed_positive_marks": {
+        "SC": 18,
+        "ST": 15,
+        "BC": 0,
+        "women": 33
+      },
+      "status": "positive_marks_reconcile",
+      "unlisted_body_reservation": "unknown"
+    },
+    {
+      "office": "upa_pradhan",
+      "source_page": 8,
+      "total_offices": 66,
+      "SC": 6,
+      "ST": 7,
+      "BC": 0,
+      "women": 9,
+      "listed_bodies": 16,
+      "unlisted_bodies_count": 50,
+      "observed_positive_marks": {
+        "SC": 6,
+        "ST": 7,
+        "BC": 0,
+        "women": 9
+      },
+      "status": "positive_marks_reconcile",
+      "unlisted_body_reservation": "unknown"
+    },
+    {
+      "office": "sabhapati",
+      "source_page": 10,
+      "total_offices": 6,
+      "SC": 2,
+      "ST": 1,
+      "BC": 0,
+      "women": 3,
+      "listed_bodies": 5,
+      "unlisted_bodies_count": 1,
+      "observed_positive_marks": {
+        "SC": 2,
+        "ST": 1,
+        "BC": 0,
+        "women": 3
+      },
+      "status": "positive_marks_reconcile",
+      "unlisted_body_reservation": "unknown"
+    },
+    {
+      "office": "sahakari_sabhapati",
+      "source_page": 12,
+      "total_offices": 6,
+      "SC": 1,
+      "ST": 0,
+      "BC": 0,
+      "women": 1,
+      "listed_bodies": 1,
+      "unlisted_bodies_count": 5,
+      "observed_positive_marks": {
+        "SC": 1,
+        "ST": 0,
+        "BC": 0,
+        "women": 1
+      },
+      "status": "positive_marks_reconcile",
+      "unlisted_body_reservation": "unknown"
+    }
+  ],
+  "limitation": "Positive marks only. Blank axes and unlisted offices remain unknown; no complete office panel is inferred."
+}

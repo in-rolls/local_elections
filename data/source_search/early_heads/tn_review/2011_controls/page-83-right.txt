@@ -1,0 +1,55 @@
+1 2 3
+Orathanad Panchayat Union Contd.,
+48 Puthur General
+49 Raghavambalpuram General
+50 Thalaiyamangalam General
+51 Thelungankudikadu General
+52 Thennamanadu General
+53 Thondarampattu General
+54 Thirumangalakottai East General
+55 Thirumangalakottai West General
+56 Vadakkur South General
+57 Vadaseri General
+58 Vellore General
+Peravurani Panchayat Union
+1 Alivalam SC (Women)
+2 Seruvaviduthi(N) SC (General)
+3 Thennangudi SC (General)
+4 Edaiyathi General (Women)
+5 Kalagam General (Women)
+6 Kalluranikkadu General (Women)
+7 Kuruchi General (Women)
+8 Ottangadu General (Women)
+9 Poovalur General (Women)
+10 Sengamangalam General (Women)
+11 Thiruchitrambalam General (Women)
+12 Ammaiyandi General
+13 Kalathur General
+14 Madathikkadu General
+15 Mavadukuruchi General
+16 Paingal General
+17 Palayanagaram General
+18 Palathali General
+19 Periyanayagipuram General
+20 Pinnavasal General
+21 Punavasal General
+22 Seruvaviduthi(S) General
+23 Sornakkadu General
+24 Thuravikkadu General
+25 Valappiramankadu General
+26 Vattathikkottai General
+Sethubavachatram Panchayat Union
+1 Chokkanathapuram SC (Women)
+2 Thiruvathevan SC (Women)
+3 Gangatharapuram SC (General)
+4 Vilangulam SC (General)
+5 Andikkadu General (Women)
+6 Alagiyanayagipuram General (Women)
+7 Kuruvikkarambai General (Women)
+8 Manakkadu General (Women)
+9 Mudachikkadu General (Women)
+10 Nadiam General (Women)
+11 Pallathur General (Women)
+12 Poovanam General (Women)
+13 Pukkarambai General (Women)
+14 Senthalaivayal General (Women)

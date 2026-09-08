@@ -1,0 +1,8 @@
+{
+  "engine": "Surya MLX 4bit via Savitr 0.3.0",
+  "source": "Alipurduar-II GP IIA.PDF",
+  "source_page": 1,
+  "token_limit": 8192,
+  "tr_tags": 191,
+  "disposition": "Rejected: repeated rows and incomplete output; not used in data or validation."
+}

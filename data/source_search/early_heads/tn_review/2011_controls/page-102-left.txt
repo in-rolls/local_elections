@@ -1,0 +1,52 @@
+KARUR
+Village Panch
+Reservation of Seats for Scheduled Ca
+Village Panchayat Presi
+Sl.N Category to which
+Name of the Village Panchayat
+o reservation is made
+1 2 3
+Karur Panchayat Union
+1 Athurpoolampalayam SC (Women)
+2 Minnampalli Panchamadevi SC (General)
+3 Manmangalam SC (General)
+4 Nanjai Pugalur General (Women)
+5 Thirukkaduthurai General (Women)
+6 Somur General (Women)
+7 Nerur (South) General (Women)
+8 Vangal Kuppuchipalayam General
+9 Vettamangalam General
+10 Nerur (North) General
+11 Kadapparai General
+12 Nanniyur General
+13 Pungaji Kadambankurichi General
+14 Kombupalayam General
+Thanthoni Panchayat Union
+1 Jegathabi SC (Women)
+2 Emoor SC (Women)
+3 Velliyanai SC (General)
+4 Appipalayam SC (General)
+5 Manavadi General (Women)
+6 Andankovil (West) General (Women)
+7 Karuppampalayam General (Women)
+8 Paganatham General (Women)
+9 Thalapatti General
+10 Andankovil (East) General
+11 Mookanankurichi General
+12 K.Pitchampatti General
+13 Pallapalayam General
+14 Koyampalli General
+15 Melapalayam General
+16 Puthambur General
+17 Kakkavadi General
+Aravakurichi Panchayat Union
+1 Inanganur SC (Women)
+2 Nagampalli SC (Women)
+3 Kodaiyur SC (General)
+4 Lingamanaickenpatti SC (General)
+5 Modakkur (East) SC (General)
+6 Velambadi General (Women)
+7 Modakkur (West) General (Women)
+8 Venjamangudalur (East) General (Women)
+9 Pungambadi (East) General (Women)
+Page 100

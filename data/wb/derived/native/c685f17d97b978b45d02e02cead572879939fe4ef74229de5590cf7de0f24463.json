@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "sha256": "c685f17d97b978b45d02e02cead572879939fe4ef74229de5590cf7de0f24463",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "(FORM-`A1`)\n[(See rule 23 (1)]\nO R D E R.\nNo 255 (10) /P&RD Dated 07.02.2008\nIn exercise of the power Conferred by sections 12 & 17 of the West Bengal Panchayat Election Act,2003 (West Ban.ActXXI of 2003 ) , read with rules 22 & 23 of\nthe West Bengal Panchayat Election Rules 20006 ,I, the District Panchayat Election Officer & District Magistrate of the District of NADIA as the prescribed\nauthority appointed by the State Government in the Department of Panchayats and Rural Development under notification No623-PN/O/I/3R-3/2004 dated\n09/02/2007 for the purpose of rules 22and 23 of the saidrules ,hereby publish the draft of this order to determine for the Gramsspecified in column (1) of the\nSchedule below, the total number of members, Scheduled Castes members, Scheduled Tribes members and women members to be elected to such Gram\nPanchayats specified in the corresponding entries in columns (2a), (2b), (2c) and (2d) respectively, to divide the area of the Grams into constituencies with serial\nnumbers assigned to them specified in the corresponding entries in column (3), to allocate to each such constituency seat or seats specified in the corresponding\nentries in column (4), seat or seats reserved for the Scheduled Castes or the scheduled tribes persons specified in the corresponding entries in column (5), and seat\nor seats reserved for women specified in the corresponding entries in column (6), of the Schedule, for information of persons likely to be affected thereby.\nThe draft will be taken up for consideration after fifteen days from this day and any objection of suggestion with respect thereto, which may be received by the\nundersigned within the said period, shall be duly considered.",
+      "tables": [],
+      "images": 0,
+      "characters": 1839
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE\nBLOCK:- HARINGHATA\nNumber of members to be elected in the Gram Seats\nSeats reserved for\nPanchayat reserved\nSeats allocated Scheduled\nName of for\nto each Castes or Scheduled\nGram Number , name & area of Women\nTotal Scheduled Scheduled Constituencies Tribes\nWomen Constituencies with Serial numbers against\nnumber of Castes Tribes with Serial against\nmember Serial\nmembers member member numbers Serial number of\nnumber of\nSeats\nSeats\n1 2(a) 2(b) 2(c) 2(d) 3 4 5 6\nPart no 83/183 Totalvoter1397\nNagarukhra I/I 1 --- 1\nMouza ukhra J.L No :-77 Women\nArea:- Nagarukhra Medar\nNagarukhra 15 4 Nil 5 Mathpara 2 --- ----\n-1\nPart no 83/184 Total voter1189\nNagarukhra I/II\nMouza ukhra J.L No :-77 3 ---- ----\nArea:- Nagarukhra Thakur talapara\nPart no83/185 Total voter969\nNagarukhra I/III\nMouza ukhra J.L No :-77\nArea:-a) Nagarukhra Sitalatalapara 4\n4 ---\nArea:-b) Nagarukhra paschim para Women",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            124.94999999999999,
+            770.616,
+            479.5209654
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number of members to be elected in the Gram\nPanchayat",
+              null,
+              null,
+              null,
+              "Number , name & area of\nConstituencies with Serial numbers",
+              "Seats allocated\nto each\nConstituencies\nwith Serial\nnumbers",
+              "Seats reserved for\nScheduled\nCastes or Scheduled\nTribes\nagainst\nSerial number of\nSeats",
+              "Seats\nreserved\nfor\nWomen\nagainst\nSerial\nnumber of\nSeats"
+            ],
+            [
+              null,
+              "Total\nnumber of\nmembers",
+              "Scheduled\nCastes\nmember",
+              "Scheduled\nTribes\nmember",
+              "Women\nmember",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2(a)",
+              "2(b)",
+              "2(c)",
+              "2(d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Nagarukhra\n-1",
+              "15",
+              "4",
+              "Nil",
+              "5",
+              "Part no 83/183 Totalvoter1397\nNagarukhra I/I\nMouza ukhra J.L No :-77\nArea:- Nagarukhra Medar\nMathpara",
+              "1\n2",
+              "---\n---",
+              "1\nWomen\n----"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no 83/184 Total voter1189\nNagarukhra I/II\nMouza ukhra J.L No :-77\nArea:- Nagarukhra Thakur talapara",
+              "3",
+              "----",
+              "----"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no83/185 Total voter969\nNagarukhra I/III\nMouza ukhra J.L No :-77\nArea:-a) Nagarukhra Sitalatalapara\nArea:-b) Nagarukhra paschim para",
+              "4",
+              "---",
+              "4\nWomen"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 982
+    },
+    {
+      "page": 3,
+      "width": 792,
+      "height": 612,
+      "text": "Part no83/186 Total voter1128\nNagarukhra I/IV Mouza ukhra J.L\n5 SC 5 SC\nNo :-77 5\n(Women)\nArea:- Nagarukhra Kataltala para\nPart no83/187 Total voter1215\nNagarukhra I/V\n----------- -------\nMouza Goaldov J.L No :-83\n6\nArea:-a) Nagarukhra Goaldov Morol\npara\nb) Goaldov Paschim para.\nPart no83/188 Total voter1269\nNagarukhra I/VI ------\nMouza Goaldov and Chak 7 --------\nvandarkona J.L No :-83 & 84\nArea:-a) Nagarukhra Goaldov\n8\nkazipara -------- 8 Women\nb) Goaldov majher para\nc) Chak Bhandarkona (sampurna).\nPart no83/189 Total voter776\nNagarukhra I/VII\nMouza Purba Satberia ---------\nJ.L No :-34 9 ------\nArea:-\na) Purba Satberia Purba Para\nb) Purba Satberia Kuthi para\nc) Purba Satberia Uttar para\nPart no83/190 Total voter1430\nNagarukhra I/VIII\nMouza Ukhra J.L No :-77 10 -------- ---------\nArea:-a) Napit Satberia Beler Math\nPara\nb) Napti Satberia Uttar para 11 11 SC -------\nc) Napit Satberia Purbapara",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            60.03564000000001,
+            770.616,
+            512.7575999999999
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Part no83/186 Total voter1128\nNagarukhra I/IV Mouza ukhra J.L\nNo :-77\nArea:- Nagarukhra Kataltala para",
+              "5",
+              "5 SC",
+              "5 SC\n(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no83/187 Total voter1215\nNagarukhra I/V\nMouza Goaldov J.L No :-83\nArea:-a) Nagarukhra Goaldov Morol\npara\nb) Goaldov Paschim para.",
+              "6",
+              "-----------",
+              "-------"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no83/188 Total voter1269\nNagarukhra I/VI\nMouza Goaldov and Chak\nvandarkona J.L No :-83 & 84\nArea:-a) Nagarukhra Goaldov\nkazipara\nb) Goaldov majher para\nc) Chak Bhandarkona (sampurna).",
+              "7\n8",
+              "------\n--------",
+              "--------\n8 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no83/189 Total voter776\nNagarukhra I/VII\nMouza Purba Satberia\nJ.L No :-34\nArea:-\na) Purba Satberia Purba Para\nb) Purba Satberia Kuthi para\nc) Purba Satberia Uttar para",
+              "9",
+              "------",
+              "---------"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no83/190 Total voter1430\nNagarukhra I/VIII\nMouza Ukhra J.L No :-77\nArea:-a) Napit Satberia Beler Math\nPara\nb) Napti Satberia Uttar para\nc) Napit Satberia Purbapara",
+              "10\n11",
+              "--------\n11 SC",
+              "---------\n-------"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 982
+    },
+    {
+      "page": 4,
+      "width": 792,
+      "height": 612,
+      "text": "Part no83/191 Total voter864\nNagarukhra I/IX\nMouza Ukhra J.L No :-77 12 ----- ------\nArea:-\na) Hari Para Purba para\nb) Hari Para Paschim para\nPart no83/192 Total voter 859\nNagarukhra I/X\n13 13 SC 13 SC\nMouza Ukhra J.L No :-77\n(Women)\nArea:- Hari Para Uttar para.\nPart no83/193 Total voter:-568\nNagarukhra I/XI\nMouza Shimul Pukur 14 ------ -------\nJ.L No :-78\nArea:- Shimul Pukur Sampurna.\nPart no83/194 Total voter 985\nNagarukhra I/XII\nMouza Das Beria J.L No :-79 15 15 SC -----\nArea:- a) Das Beria Purba para\nb) Das Beria Paschim para.\nDISTRICT PANCHAYAT ELECTION OFFICER\nDate : 07.02.2008 &\nDISTRICT MAGISTRATE, NADIA",
+      "tables": [
+        {
+          "bbox": [
+            22.11888,
+            60.03564000000001,
+            770.616,
+            345.43199999999996
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "Part no83/191 Total voter864\nNagarukhra I/IX\nMouza Ukhra J.L No :-77\nArea:-\na) Hari Para Purba para\nb) Hari Para Paschim para",
+              "12",
+              "-----",
+              "------"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no83/192 Total voter 859\nNagarukhra I/X\nMouza Ukhra J.L No :-77\nArea:- Hari Para Uttar para.",
+              "13",
+              "13 SC",
+              "13 SC\n(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no83/193 Total voter:-568\nNagarukhra I/XI\nMouza Shimul Pukur\nJ.L No :-78\nArea:- Shimul Pukur Sampurna.",
+              "14",
+              "------",
+              "-------"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Part no83/194 Total voter 985\nNagarukhra I/XII\nMouza Das Beria J.L No :-79\nArea:- a) Das Beria Purba para\nb) Das Beria Paschim para.",
+              "15",
+              "15 SC",
+              "-----"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 699
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 4
+}

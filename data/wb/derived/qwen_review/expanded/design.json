@@ -1,0 +1,11 @@
+{
+  "seed": 20260907,
+  "sample_size": 200,
+  "eligible_frame_cells": 2921,
+  "excluded_previous_pilot_cells": 29,
+  "strata": 70,
+  "allocation": "round-robin approximately equal allocation to nonempty strata; inverse inclusion weights retained",
+  "frozen_utc": "2026-09-08T01:40:46.689139+00:00",
+  "sample_sha256": "09c4177722095647733818367d4e3ca8e061737984d625ff95e8cb20fe79f967",
+  "scope": "Acquired GP Pradhan/deputy office cells; excludes block/district offices and known block headings. Provisional positive/blank strata use parser labels, not gold."
+}

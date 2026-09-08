@@ -1,0 +1,44 @@
+1 2 3
+Narikudi Panchayat Union (Contd.)
+8 Alathur SC (General)
+9 N.Mukkulam SC (General)
+10 Kattanoor SC (General)
+11 Alagapuri General (Women)
+12 Keelakondraikulam General (Women)
+13 Isali General (Women)
+14 K.Poolankulam General (Women)
+15 Irunchirai General (Women)
+16 Varisaiyur General (Women)
+17 V.Karisalkulam General (Women)
+18 Anaikulam General (Women)
+19 Uluthimadai General (Women)
+20 T.Velankudi General (Women)
+21 Nallukuruchi General (Women)
+22 Velanoorani General
+23 Pillaiyarnatham General
+24 Panaikudi General
+25 Veerasolan General
+26 Thiruvalarnallur General
+27 Sethupuram General
+28 Nathakulam General
+29 Ulakudi General
+30 Pillaiyarkulam General
+31 Manoor General
+32 Regunathamadai General
+33 Pulvoikkarai General
+34 Thimmapuram General
+35 Velaneri General
+36 Melaparuthiyur General
+37 Minakulam General
+38 Nalloor General
+39 Poombidagai General
+40 Agathakulam General
+41 T.Kadambankulam General
+42 Kandukondanmanickam General
+43 Narikudi General
+44 Illuppaiyur General
+Virudhunagar Panchayat Union
+1 Veerarpatti SC(Women)
+2 Vadamalaikurichi SC(Women)
+3 V.Muthulingapuram SC(Women)
+4 Thulukkapatti SC(Women)

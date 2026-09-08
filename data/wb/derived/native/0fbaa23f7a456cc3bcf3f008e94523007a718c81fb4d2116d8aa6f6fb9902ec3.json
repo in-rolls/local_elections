@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "sha256": "0fbaa23f7a456cc3bcf3f008e94523007a718c81fb4d2116d8aa6f6fb9902ec3",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock : Chakdaha\nNumber of members to be elected in the Gram Panchayat\nName of Gram Scheduled Caste Scheduled Tribe\nTotal number of members Women members\nmembers Members\n1 (2a) (2b) (2c) (2d)\nChanduria-I 18 6 NIL 6\nSeats reserved for\nSeats allocated Seats reserved for\nScheduled Caste\nNumber, name and area of constituencies with serial to each women against\nor Scheduled Tribe\nnumbers constituency with serial number of\nagainst serial\nserial numbers seats\nnumber of seats\n3 4 5 6\nChanduria -I/I\nMouza - Balagarichar, J.L No. -2\n(a) Mukundanagar Para Partly(Paschim)\nMouza - Uttar Ghugia, J.L No. -3\n1 -- 1 W\n(b) Uttar Ghugia\nMouza - Balagarichar, J.L No. -2\n(c) Mukundanagar Para Partly(Purba)\nPart No. -82/1\nChanduria -I/II\nMouza - Uttar Ghugia, J.L No. -3\n(a)Jhauchar Para (Paschim) 2 -- --\n(b) Gangaprasadpur Uttar\nPart No. -82/2\nChanduria -I/III\nMouza - Balagarichar, J.L No. -2\n(a) Gangaprasadpur Dakshin 3 -- --\n(b) Duardanga Para\nPart No. -82/3\nChanduria -I/IV\nMouza - Gournagar, J.L No. -1\n4 -- 4 W\n(a) Gournagar(Poradanga)\nPart No. -82/4\nChanduria -I/V\nMouza - Malichagar, J.L No. -37\n(a) Malichagar\n5,6 -- --\nMouza - Manasapota, J.L No. -36\n(b) Manasapota Partly\nPart No. -82/5\nChanduria -I/VI\nMouza - Nauda Durgapur, J.L No. -28\n7 -- 7 W\n(a) Nauda Durgapur\nPart No. -82/6",
+      "tables": [
+        {
+          "bbox": [
+            54.51612,
+            101.27160000000003,
+            552.7149654,
+            163.06680000000006
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of members",
+              "Scheduled Caste\nmembers",
+              "Scheduled Tribe\nMembers",
+              "Women members"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Chanduria-I",
+              "18",
+              "6",
+              "NIL",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            54.51612,
+            167.38560000000007,
+            552.7149654,
+            642.7860000000001
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial\nnumbers",
+              "Seats allocated\nto each\nconstituency with\nserial numbers",
+              "Seats reserved for\nScheduled Caste\nor Scheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Chanduria -I/I\nMouza - Balagarichar, J.L No. -2\n(a) Mukundanagar Para Partly(Paschim)\nMouza - Uttar Ghugia, J.L No. -3\n(b) Uttar Ghugia\nMouza - Balagarichar, J.L No. -2\n(c) Mukundanagar Para Partly(Purba)\nPart No. -82/1",
+              "1",
+              "--",
+              "1 W"
+            ],
+            [
+              "Chanduria -I/II\nMouza - Uttar Ghugia, J.L No. -3\n(a)Jhauchar Para (Paschim)\n(b) Gangaprasadpur Uttar\nPart No. -82/2",
+              "2",
+              "--",
+              "--"
+            ],
+            [
+              "Chanduria -I/III\nMouza - Balagarichar, J.L No. -2\n(a) Gangaprasadpur Dakshin\n(b) Duardanga Para\nPart No. -82/3",
+              "3",
+              "--",
+              "--"
+            ],
+            [
+              "Chanduria -I/IV\nMouza - Gournagar, J.L No. -1\n(a) Gournagar(Poradanga)\nPart No. -82/4",
+              "4",
+              "--",
+              "4 W"
+            ],
+            [
+              "Chanduria -I/V\nMouza - Malichagar, J.L No. -37\n(a) Malichagar\nMouza - Manasapota, J.L No. -36\n(b) Manasapota Partly\nPart No. -82/5",
+              "5,6",
+              "--",
+              "--"
+            ],
+            [
+              "Chanduria -I/VI\nMouza - Nauda Durgapur, J.L No. -28\n(a) Nauda Durgapur\nPart No. -82/6",
+              "7",
+              "--",
+              "7 W"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2540
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Seats reserved for\nSeats allocated Seats reserved for\nScheduled Caste\nNumber, name and area of constituencies with serial to each women against\nor Scheduled Tribe\nnumbers constituency with serial number of\nagainst serial\nserial numbers seats\nnumber of seats\nChanduria -I/VII\nMouza - Manasapota, J.L No. -36\n8 8 SC 8 SCW\n(a) Manasapota Partly\nPart No. -82/7\nChanduria -I/VIII\nMouza - Chanduria, J.L No. -38\n(a) Chanduria Purbapara-Uttar Part (Purba part)\nMohan Colony and Nirmalpally\n9,10 9 SC --\n(b) Chanduria Purbapara-Uttar Part (Purba part)\nPaschim Part of Nirmalpally, Paschim Part of\nSukhsagar Road\nPart No. -82/8\nChanduria -I/IX\nMouza - Chanduria, J.L No. -38\n11 11 SC --\n(a) Chanduria Madhya\nPart No. -82/9\nChanduria -I/X\nMouza - Chanduria, J.L No. -38\n12 -- --\n(a) Dakshin Part of Chanduria Paschim\nPart No. -82/10\nChanduria -I/XI\nMouza - Chanduria, J.L No. -38\n(a) Chanduria Paschim Uttar 13 13 SC 13 SCW\n(b) Chanduria Nathpara\nPart No. -82/11\nChanduria -I/XII\nMouza - Chanduria, J.L No. -38\n(a) Chanduria Dakshin Paschim Purba\n14,15 14 SC 15 W\n(b)Chanduria Dakshin Paschim Partly\n(c) Chanduria Manushmarapara\nPart No. -82/12\nChanduria -I/XIII\nMouza - Chanduria, J.L No. -38\n16 16 SC --\n(a) Chanduria Dakshin Purba Para\nPart No. -82/13",
+      "tables": [
+        {
+          "bbox": [
+            54.51612,
+            72.47399999999999,
+            552.7149654,
+            665.2248
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial\nnumbers",
+              "Seats allocated\nto each\nconstituency with\nserial numbers",
+              "Seats reserved for\nScheduled Caste\nor Scheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              "Chanduria -I/VII\nMouza - Manasapota, J.L No. -36\n(a) Manasapota Partly\nPart No. -82/7",
+              "8",
+              "8 SC",
+              "8 SCW"
+            ],
+            [
+              "Chanduria -I/VIII\nMouza - Chanduria, J.L No. -38\n(a) Chanduria Purbapara-Uttar Part (Purba part)\nMohan Colony and Nirmalpally\n(b) Chanduria Purbapara-Uttar Part (Purba part)\nPaschim Part of Nirmalpally, Paschim Part of\nSukhsagar Road\nPart No. -82/8",
+              "9,10",
+              "9 SC",
+              "--"
+            ],
+            [
+              "Chanduria -I/IX\nMouza - Chanduria, J.L No. -38\n(a) Chanduria Madhya\nPart No. -82/9",
+              "11",
+              "11 SC",
+              "--"
+            ],
+            [
+              "Chanduria -I/X\nMouza - Chanduria, J.L No. -38\n(a) Dakshin Part of Chanduria Paschim\nPart No. -82/10",
+              "12",
+              "--",
+              "--"
+            ],
+            [
+              "Chanduria -I/XI\nMouza - Chanduria, J.L No. -38\n(a) Chanduria Paschim Uttar\n(b) Chanduria Nathpara\nPart No. -82/11",
+              "13",
+              "13 SC",
+              "13 SCW"
+            ],
+            [
+              "Chanduria -I/XII\nMouza - Chanduria, J.L No. -38\n(a) Chanduria Dakshin Paschim Purba\n(b)Chanduria Dakshin Paschim Partly\n(c) Chanduria Manushmarapara\nPart No. -82/12",
+              "14,15",
+              "14 SC",
+              "15 W"
+            ],
+            [
+              "Chanduria -I/XIII\nMouza - Chanduria, J.L No. -38\n(a) Chanduria Dakshin Purba Para\nPart No. -82/13",
+              "16",
+              "16 SC",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2335
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "Chanduria -I/XIV\nMouza - Brahmapara, J.L No. -106\n17 -- --\n(a) Brahmapara Partly\nPart No. -82/14\nChanduria -I/XV\nMouza - Brahmapara, J.L No. -106\n18 -- --\n(a) Brahmapara Partly\nPart No. -82/15\nDate:07.02.2008 District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            54.51612,
+            72.47399999999999,
+            552.7149654,
+            193.7844
+          ],
+          "rows": [
+            [
+              "Chanduria -I/XIV\nMouza - Brahmapara, J.L No. -106\n(a) Brahmapara Partly\nPart No. -82/14",
+              "17",
+              "--",
+              "--"
+            ],
+            [
+              "Chanduria -I/XV\nMouza - Brahmapara, J.L No. -106\n(a) Brahmapara Partly\nPart No. -82/15",
+              "18",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 627
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

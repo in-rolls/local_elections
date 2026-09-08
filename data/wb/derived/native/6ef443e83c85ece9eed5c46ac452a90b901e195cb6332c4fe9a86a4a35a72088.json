@@ -1,0 +1,1284 @@
+{
+  "version": 1,
+  "sha256": "6ef443e83c85ece9eed5c46ac452a90b901e195cb6332c4fe9a86a4a35a72088",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "GOVERNMENT OF WEST BENGAL\nOFFICE OF THE DISTRICT MAGISTRATE\nCOOCH BEHAR\nFORM B\n[See rule 25(1)]\nO R D E R\nNo.: PRD/1154 Date: 15/11/2017 .\nIn exercise of the power conferred by sections 14 and 17 of the West Bengal Panchayat Elections Act,\n2003 (West Ben. Act XXI of 2003), read with rules 26 and 27 of the West Bengal Panchayat Election Rules,\n2006, I, the District Panchayat Election Officer and District Magistrate of the district of COOCH BEHAR as the\nprescribed authority appointed by the State Government in the Department of Panchayats and Rural\nDevelopment under Notification No. ................................................................. dated .................................. for the\npurpose of rules 26 and 27 of the said rules, hereby publish the draft of this order to determine for the Grams\nspecified in column (1) of the Schedule below, the number of members to be elected to the Panchayat Samiti\nspecified in the corresponding entries in column (2), to divide the area of the Grams into constituencies specified\nin the corresponding entries in column (3) & (4), constituency or constituencies reserved for the SC or the ST or\nBC persons specified in the corresponding entries in column (5), and constituency or constituencies reserved for\nwomen specified in the corresponding entries in column (6) of the said Schedule, for information of persons\nlikely to be affected thereby\nThe draft will be taken up for consideration for consideration after fifteen days from this day and any\nobjection of suggestion with respect thereto, which may be received by the undersigned within the said period,\nshall be duly considered.\nPage No. 1 / 7",
+      "tables": [],
+      "images": 1,
+      "characters": 1435
+    },
+    {
+      "page": 2,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "THE SCHEDULE : BLOCK - HALDIBARI\nNumber, Name and Area of the Constituency\nm\na Number of Constituency reserved for Constituency\nr G Area of the\nfo\ne m Pa\nM\ne\nn\nl\ne\nc\ne\nm\nh\nct\na\nb\ne\ny\ne\nd\na\nr\nt\ns\nt o\nS\nt o\na\nth\nm\nb\ne\ne\ni t y C\nN\no\na\nn\nm\ns\ne\nti t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAre\n(G\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\ns\ne\nti\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nc\ns\nh\nt\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\nAre\n(A\na\ns\no\ns\nf\ne\nt\nm\nhe\nb l\nC\ny\no\nP\nn\na\ns\nr\nt\nt\ni t\nN\nu\no\ne\n.\nn\n)\ncy\nP\nS\nT\ne\nc\nr\nr\ni\nh\ns\nb\ne\no\ne\nd\nn\ns\nu\ns\na\nl\ns\ne\nn\nh\nd\nd\no\nC\nB\nw\na\na\ni\ns\nn\nc\nt\ng\nk\ne\nw\ns\ns\n,\na\ne\nr\nr\nS\nd\nia\nc\nC\nl\nh\nn\nl\ne\na\nu\nd\ns\nm\nu\ns\nl\ne\nb\ne\ns\ne\nd\nr\nres\ns\ne\nh\nrv\no\ne\nn\nw\nd\nu\ni n\nm\nfo\ng\nb\nr\ns\ne\nW\ne\nr\nr\no\nia\nm\nl\nen\na No.)\nN\n1 2 3 4 5 6\nBOXIGANJ /I 1 AC PART NO. 1/97\nBOXIGANJ /II 2 AC PART NO. 1/98\nBOXIGANJ /PS-1 BOXIGANJ /III 3 AC PART NO. 1/99 1-SC\nBOXIGANJ /XI 11 AC PART NO. 1/109\nBOXIGANJ /XII 12 AC PART NO. 1/110\nJ BOXIGANJ /IV 4 AC PART NO. 1/100\nN\nBOXIGANJ /V 5 AC PART NO. 1/101\nA BOXIGANJ /PS-2 2-SC 2-W\nG 3 BOXIGANJ /VI 6 AC PART NO. 1/102\nI\nX BOXIGANJ /XIII 13 AC PART NO. 1/111\nO\nB BOXIGANJ /VII 7(1),7(2) AC PART NO. 1/103\nAC PART NO. 1/104\nBOXIGANJ /VIII 8 AC PART NO. 1/105\nBOXIGANJ/PS-3 3-SC\nBOXIGANJ /IX 9 AC PART NO. 1/106\nAC PART NO. 1/107\nBOXIGANJ /X 10(1),10(2)\nAC PART NO. 1/108\nDate\nPage No. 2 / 7",
+      "tables": [
+        {
+          "bbox": [
+            18.004,
+            46.78000000000005,
+            825.525005,
+            384.55000000000007
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of\nMembers to be\nelected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency\nreserved for Women\nshowing serial\nnumber"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "J\nN\nA\nG\nI\nX\nO\nB",
+              "3",
+              "BOXIGANJ /PS-1",
+              "BOXIGANJ /I",
+              "1",
+              "AC PART NO. 1/97",
+              "1-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "BOXIGANJ /II",
+              "2",
+              "AC PART NO. 1/98",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "BOXIGANJ /III",
+              "3",
+              "AC PART NO. 1/99",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "BOXIGANJ /XI",
+              "11",
+              "AC PART NO. 1/109",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "BOXIGANJ /XII",
+              "12",
+              "AC PART NO. 1/110",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "BOXIGANJ /PS-2",
+              "BOXIGANJ /IV",
+              "4",
+              "AC PART NO. 1/100",
+              "2-SC",
+              "2-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "BOXIGANJ /V",
+              "5",
+              "AC PART NO. 1/101",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "BOXIGANJ /VI",
+              "6",
+              "AC PART NO. 1/102",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "BOXIGANJ /XIII",
+              "13",
+              "AC PART NO. 1/111",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "BOXIGANJ/PS-3",
+              "BOXIGANJ /VII",
+              "7(1),7(2)",
+              "AC PART NO. 1/103",
+              "3-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "AC PART NO. 1/104",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "BOXIGANJ /VIII",
+              "8",
+              "AC PART NO. 1/105",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "BOXIGANJ /IX",
+              "9",
+              "AC PART NO. 1/106",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "BOXIGANJ /X",
+              "10(1),10(2)",
+              "AC PART NO. 1/107",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "AC PART NO. 1/108",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "",
+              null,
+              null
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            491.87999833333333,
+            402.55600000000004,
+            825.525005,
+            438.94000000000005
+          ],
+          "rows": [
+            [
+              ""
+            ],
+            [
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1014
+    },
+    {
+      "page": 3,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "THE SCHEDULE : BLOCK - HALDIBARI\nNumber, Name and Area of the Constituency\nm\na Number of Constituency reserved for Constituency\nr G Area of the\nfo\ne m Pa\nM\ne\nn\nl\ne\nc\ne\nm\nh\nct\na\nb\ne\ny\ne\nd\na\nr\nt\ns\nt o\nS\nt o\na\nth\nm\nb\ne\ne\ni t y C\nN\no\na\nn\nm\ns\ne\nti t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAre\n(G\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\ns\ne\nti\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nc\ns\nh\nt\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\nAre\n(A\na\ns\no\ns\nf\ne\nt\nm\nhe\nb l\nC\ny\no\nP\nn\na\ns\nr\nt\nt\ni t\nN\nu\no\ne\n.\nn\n)\ncy\nP\nS\nT\ne\nc\nr\nr\ni\nh\ns\nb\ne\no\ne\nd\nn\ns\nu\ns\na\nl\ns\ne\nn\nh\nd\nd\no\nC\nB\nw\na\na\ni\ns\nn\nc\nt\ng\nk\ne\nw\ns\ns\n,\na\ne\nr\nr\nS\nd\nia\nc\nC\nl\nh\nn\nl\ne\na\nu\nd\ns\nm\nu\ns\nl\ne\nb\ne\ns\ne\nd\nr\nres\ns\ne\nh\nrv\no\ne\nn\nw\nd\nu\ni n\nm\nfo\ng\nb\nr\ns\ne\nW\ne\nr\nr\no\nia\nm\nl\nen\na No.)\nN\n1 2 3 4 5 6\nUBHDB/I 14 AC PART NO. 1/112\nUBHDB/II 15 AC PART NO. 1/113\nUTTAR BARA\nUBHDB/III 16 AC PART NO. 1/114 4-SC 4-W\nHALDIBARI/PS-4\nUBHDB/IV 17 AC PART NO. 1/115\nUBHDB/V 18 AC PART NO. 1/116\nI\nR AC PART NO. 1/117\nA UBHDB/VI 19(1),19(2)\nB AC PART NO. 1/118\nI\nD\nL UTTAR BARA UBHDB/IX 22 AC PART NO. 1/121\nA\nH HALDIBARI/PS-5 UBHDB/X 23 AC PART NO. 1/122\nA 3\nR UBHDB/XV 28 AC PART NO. 1/128\nA\nB UBHDB/XVI 29 AC PART NO. 1/129\nR\nA UBHDB/VII 20 AC PART NO. 1/119\nT\nT UBHDB/VIII 21 AC PART NO. 1/120\nU\nUBHDB/XI 24 AC PART NO. 1/123\nUTTAR BARA\nAC PART NO. 1/124 6-W\nHALDIBARI/PS-6 UBHDB/XII 25(1), 25(2)\nAC PART NO. 1/125\nUBHDB/XIII 26 AC PART NO. 1/126\nUBHDB/XIV 27 AC PART NO. 1/127\nDate\nPage No. 3 / 7",
+      "tables": [
+        {
+          "bbox": [
+            18.004,
+            46.78000000000005,
+            825.4971485714286,
+            547.9200000000001
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of\nMembers to be\nelected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency\nreserved for Women\nshowing serial\nnumber"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "I\nR\nA\nB\nI\nD\nL\nA\nH\nA\nR\nA\nB\nR\nA\nT\nT\nU",
+              "3",
+              "UTTAR BARA\nHALDIBARI/PS-4",
+              "UBHDB/I",
+              "14",
+              "AC PART NO. 1/112",
+              "4-SC",
+              "4-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/II",
+              "15",
+              "AC PART NO. 1/113",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/III",
+              "16",
+              "AC PART NO. 1/114",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/IV",
+              "17",
+              "AC PART NO. 1/115",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/V",
+              "18",
+              "AC PART NO. 1/116",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "UTTAR BARA\nHALDIBARI/PS-5",
+              "UBHDB/VI",
+              "19(1),19(2)",
+              "AC PART NO. 1/117",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "AC PART NO. 1/118",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/IX",
+              "22",
+              "AC PART NO. 1/121",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/X",
+              "23",
+              "AC PART NO. 1/122",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/XV",
+              "28",
+              "AC PART NO. 1/128",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/XVI",
+              "29",
+              "AC PART NO. 1/129",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "UTTAR BARA\nHALDIBARI/PS-6",
+              "UBHDB/VII",
+              "20",
+              "AC PART NO. 1/119",
+              "",
+              "6-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/VIII",
+              "21",
+              "AC PART NO. 1/120",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/XI",
+              "24",
+              "AC PART NO. 1/123",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/XII",
+              "25(1), 25(2)",
+              "AC PART NO. 1/124",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "AC PART NO. 1/125",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/XIII",
+              "26",
+              "AC PART NO. 1/126",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "UBHDB/XIV",
+              "27",
+              "AC PART NO. 1/127",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 1100
+    },
+    {
+      "page": 4,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "THE SCHEDULE : BLOCK - HALDIBARI\nNumber, Name and Area of the Constituency\nm\na Number of Constituency reserved for Constituency\nr G Area of the\nfo\ne m Pa\nM\ne\nn\nl\ne\nc\ne\nm\nh\nct\na\nb\ne\ny\ne\nd\na\nr\nt\ns\nt o\nS\nt o\na\nth\nm\nb\ne\ne\ni t y C\nN\no\na\nn\nm\ns\ne\nti t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAre\n(G\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\ns\ne\nti\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nc\ns\nh\nt\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\nAre\n(A\na\ns\no\ns\nf\ne\nt\nm\nhe\nb l\nC\ny\no\nP\nn\na\ns\nr\nt\nt\ni t\nN\nu\no\ne\n.\nn\n)\ncy\nP\nS\nT\ne\nc\nr\nr\ni\nh\ns\nb\ne\no\ne\nd\nn\ns\nu\ns\na\nl\ns\ne\nn\nh\nd\nd\no\nC\nB\nw\na\na\ni\ns\nn\nc\nt\ng\nk\ne\nw\ns\ns\n,\na\ne\nr\nr\nS\nd\nia\nc\nC\nl\nh\nn\nl\ne\na\nu\nd\ns\nm\nu\ns\nl\ne\nb\ne\ns\ne\nd\nr\nres\ns\ne\nh\nrv\no\ne\nn\nw\nd\nu\ni n\nm\nfo\ng\nb\nr\ns\ne\nW\ne\nr\nr\no\nia\nm\nl\nen\na No.)\nN\n1 2 3 4 5 6\nDBHDB/ I 30 AC PART NO. 1/142\nI R DAKSHIN BARA DBHDB/ II 31 AC PART NO. 1/143\nA\nB HALDIBARI/PS-7\nI DBHDB/ III 32 AC PART NO. 1/144\nD\nL\nA\nDBHDB/ IV 33 AC PART NO. 1/145\nH\nA\nR 2 DBHDB/ V 34 AC PART NO. 1/146\nA\nB\nDBHDB/ VI 35 AC PART NO. 1/147\nN\nI\nH DAKSHIN BARA\nS DBHDB/ VII 36 AC PART NO. 1/148 8-SC\nK HALDIBARI/PS-8\nA\nD DBHDB/ VIII 37 AC PART NO. 1/149\nDBHDB/ IX 38 AC PART NO. 1/150\nDate\nPage No. 4 / 7",
+      "tables": [
+        {
+          "bbox": [
+            18.004,
+            46.78000000000005,
+            825.4971485714286,
+            489.46000000000004
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of\nMembers to be\nelected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency\nreserved for Women\nshowing serial\nnumber"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "I\nR\nA\nB\nI\nD\nL\nA\nH\nA\nR\nA\nB\nN\nI\nH\nS\nK\nA\nD",
+              "2",
+              "DAKSHIN BARA\nHALDIBARI/PS-7",
+              "DBHDB/ I",
+              "30",
+              "AC PART NO. 1/142",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "DBHDB/ II",
+              "31",
+              "AC PART NO. 1/143",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DBHDB/ III",
+              "32",
+              "AC PART NO. 1/144",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DBHDB/ IV",
+              "33",
+              "AC PART NO. 1/145",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DAKSHIN BARA\nHALDIBARI/PS-8",
+              "DBHDB/ V",
+              "34",
+              "AC PART NO. 1/146",
+              "8-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "DBHDB/ VI",
+              "35",
+              "AC PART NO. 1/147",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DBHDB/ VII",
+              "36",
+              "AC PART NO. 1/148",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DBHDB/ VIII",
+              "37",
+              "AC PART NO. 1/149",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DBHDB/ IX",
+              "38",
+              "AC PART NO. 1/150",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 838
+    },
+    {
+      "page": 5,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "THE SCHEDULE : BLOCK - HALDIBARI\nNumber, Name and Area of the Constituency\nm\na Number of Constituency reserved for Constituency\nr G Area of the\nfo\ne m Pa\nM\ne\nn\nl\ne\nc\ne\nm\nh\nct\na\nb\ne\ny\ne\nd\na\nr\nt\ns\nt o\nS\nt o\na\nth\nm\nb\ne\ne\ni t y C\nN\no\na\nn\nm\ns\ne\nti t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAre\n(G\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\ns\ne\nti\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nc\ns\nh\nt\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\nAre\n(A\na\ns\no\ns\nf\ne\nt\nm\nhe\nb l\nC\ny\no\nP\nn\na\ns\nr\nt\nt\ni t\nN\nu\no\ne\n.\nn\n)\ncy\nP\nS\nT\ne\nc\nr\nr\ni\nh\ns\nb\ne\no\ne\nd\nn\ns\nu\ns\na\nl\ns\ne\nn\nh\nd\nd\no\nC\nB\nw\na\na\ni\ns\nn\nc\nt\ng\nk\ne\nw\ns\ns\n,\na\ne\nr\nr\nS\nd\nia\nc\nC\nl\nh\nn\nl\ne\na\nu\nd\ns\nm\nu\ns\nl\ne\nb\ne\ns\ne\nd\nr\nres\ns\ne\nh\nrv\no\ne\nn\nw\nd\nu\ni n\nm\nfo\ng\nb\nr\ns\ne\nW\ne\nr\nr\no\nia\nm\nl\nen\na No.)\nN\n1 2 3 4 5 6\nAC PART NO. 1/151\nDEWANGANJ/I 39 (1), 39 (2)\nAC PART NO. 1/152\nDEWANGANJ/ PS-9 DEWANGANJ/II 40 AC PART NO. 1/153 9-W\nDEWANGANJ/III 41 AC PART NO. 1/154\nJ DEWANGANJ/IV 42 AC PART NO. 1/155\nN\nA DEWANGANJ/V 43 AC PART NO. 1/156\nG\nN 3 DEWANGANJ/VI 44 AC PART NO. 1/157\nA DEWANGANJ/ PS-10\nW\nDEWANGANJ/IX 47 AC PART NO. 1/160\nE\nD\nDEWANGANJ/XII 50 AC PART NO. 1/163\nDEWANGANJ/VII 45 AC PART NO. 1/158\nDEWANGANJ/VIII 46 AC PART NO. 1/159\nDEWANGANJ/ PS-11 11-W\nDEWANGANJ/X 48 AC PART NO. 1/161\nDEWANGANJ/ XI 49 AC PART NO. 1/162\nDate\nPage No. 5 / 7",
+      "tables": [
+        {
+          "bbox": [
+            18.004,
+            46.78000000000005,
+            825.4971485714286,
+            500.73600000000005
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of\nMembers to be\nelected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency\nreserved for Women\nshowing serial\nnumber"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "J\nN\nA\nG\nN\nA\nW\nE\nD",
+              "3",
+              "DEWANGANJ/ PS-9",
+              "DEWANGANJ/I",
+              "39 (1), 39 (2)",
+              "AC PART NO. 1/151",
+              "",
+              "9-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "AC PART NO. 1/152",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANGANJ/II",
+              "40",
+              "AC PART NO. 1/153",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANGANJ/III",
+              "41",
+              "AC PART NO. 1/154",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANGANJ/IV",
+              "42",
+              "AC PART NO. 1/155",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DEWANGANJ/ PS-10",
+              "DEWANGANJ/V",
+              "43",
+              "AC PART NO. 1/156",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANGANJ/VI",
+              "44",
+              "AC PART NO. 1/157",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANGANJ/IX",
+              "47",
+              "AC PART NO. 1/160",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANGANJ/XII",
+              "50",
+              "AC PART NO. 1/163",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "DEWANGANJ/ PS-11",
+              "DEWANGANJ/VII",
+              "45",
+              "AC PART NO. 1/158",
+              "",
+              "11-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANGANJ/VIII",
+              "46",
+              "AC PART NO. 1/159",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANGANJ/X",
+              "48",
+              "AC PART NO. 1/161",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "DEWANGANJ/ XI",
+              "49",
+              "AC PART NO. 1/162",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 971
+    },
+    {
+      "page": 6,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "THE SCHEDULE : BLOCK - HALDIBARI\nNumber, Name and Area of the Constituency\nm\na Number of Constituency reserved for Constituency\nr G Area of the\nfo\ne m Pa\nM\ne\nn\nl\ne\nc\ne\nm\nh\nct\na\nb\ne\ny\ne\nd\na\nr\nt\ns\nt o\nS\nt o\na\nth\nm\nb\ne\ne\ni t y C\nN\no\na\nn\nm\ns\ne\nti t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAre\n(G\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\ns\ne\nti\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nc\ns\nh\nt\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\nAre\n(A\na\ns\no\ns\nf\ne\nt\nm\nhe\nb l\nC\ny\no\nP\nn\na\ns\nr\nt\nt\ni t\nN\nu\no\ne\n.\nn\n)\ncy\nP\nS\nT\ne\nc\nr\nr\ni\nh\ns\nb\ne\no\ne\nd\nn\ns\nu\ns\na\nl\ns\ne\nn\nh\nd\nd\no\nC\nB\nw\na\na\ni\ns\nn\nc\nt\ng\nk\ne\nw\ns\ns\n,\na\ne\nr\nr\nS\nd\nia\nc\nC\nl\nh\nn\nl\ne\na\nu\nd\ns\nm\nu\ns\nl\ne\nb\ne\ns\ne\nd\nr\nres\ns\ne\nh\nrv\no\ne\nn\nw\nd\nu\ni n\nm\nfo\ng\nb\nr\ns\ne\nW\ne\nr\nr\no\nia\nm\nl\nen\na No.)\nN\n1 2 3 4 5 6\nAC PART NO. 1/164\nPMG/ I 51 (1), 51 (2)\nAC PART NO. 1/165\nPMG/ II 52 AC PART NO. 1/166\nPMG/PS-12\nJ PMG/ III 53 AC PART NO. 1/167\nN\nA\nPMG/ IV 54 AC PART NO. 1/168\nG\nI\nL PMG/ V 55 AC PART NO. 1/169\nH 2\nK\nPMG /VI 56 AC PART NO. 1/170\nE\nM\nR PMG /VII 57 AC PART NO. 1/171\nE\nP AC PART NO. 1/172\nPMG/PS-13 PMG /VIII 58(1), 58 (2) 13-SC 13-W\nAC PART NO. 1/173\nPMG /IX 59 AC PART NO. 1/174\nPMG / X 60 AC PART NO. 1/175\nDate\nPage No. 6 / 7",
+      "tables": [
+        {
+          "bbox": [
+            18.004,
+            46.78000000000005,
+            825.4971485714286,
+            491.9800000000001
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of\nMembers to be\nelected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency\nreserved for Women\nshowing serial\nnumber"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "J\nN\nA\nG\nI\nL\nH\nK\nE\nM\nR\nE\nP",
+              "2",
+              "PMG/PS-12",
+              "PMG/ I",
+              "51 (1), 51 (2)",
+              "AC PART NO. 1/164",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "AC PART NO. 1/165",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PMG/ II",
+              "52",
+              "AC PART NO. 1/166",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PMG/ III",
+              "53",
+              "AC PART NO. 1/167",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PMG/ IV",
+              "54",
+              "AC PART NO. 1/168",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PMG/ V",
+              "55",
+              "AC PART NO. 1/169",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "PMG/PS-13",
+              "PMG /VI",
+              "56",
+              "AC PART NO. 1/170",
+              "13-SC",
+              "13-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "PMG /VII",
+              "57",
+              "AC PART NO. 1/171",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PMG /VIII",
+              "58(1), 58 (2)",
+              "AC PART NO. 1/172",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "AC PART NO. 1/173",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PMG /IX",
+              "59",
+              "AC PART NO. 1/174",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "PMG / X",
+              "60",
+              "AC PART NO. 1/175",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 863
+    },
+    {
+      "page": 7,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "THE SCHEDULE : BLOCK - HALDIBARI\nNumber, Name and Area of the Constituency\nm\na Number of Constituency reserved for Constituency\nr G Area of the\nfo\ne m Pa\nM\ne\nn\nl\ne\nc\ne\nm\nh\nct\na\nb\ne\ny\ne\nd\na\nr\nt\ns\nt o\nS\nt o\na\nth\nm\nb\ne\ne\ni t y C\nN\no\na\nn\nm\ns\ne\nti t\no\nu\nf\ne\nt\nn\nh\nc\ne\ny\nAre\n(G\na\n.\no\nP\nf\n.\nt\nC\nh\no\ne\nn\nC\ns\no\nti\nn\ntu\ns\ne\nti\nn\ntu\nc\ne\ny\nn\n)\ncy\n(P\nC\na\no\nn\nn\nc\ns\nh\nt\na\nit\ny\nu\na\ne\nt\nn\nP\nc\na\ny\nrt\nAre\n(A\na\ns\no\ns\nf\ne\nt\nm\nhe\nb l\nC\ny\no\nP\nn\na\ns\nr\nt\nt\ni t\nN\nu\no\ne\n.\nn\n)\ncy\nP\nS\nT\ne\nc\nr\nr\ni\nh\ns\nb\ne\no\ne\nd\nn\ns\nu\ns\na\nl\ns\ne\nn\nh\nd\nd\no\nC\nB\nw\na\na\ni\ns\nn\nc\nt\ng\nk\ne\nw\ns\ns\n,\na\ne\nr\nr\nS\nd\nia\nc\nC\nl\nh\nn\nl\ne\na\nu\nd\ns\nm\nu\ns\nl\ne\nb\ne\ns\ne\nd\nr\nres\ns\ne\nh\nrv\no\ne\nn\nw\nd\nu\ni n\nm\nfo\ng\nb\nr\ns\ne\nW\ne\nr\nr\no\nia\nm\nl\nen\na No.)\nN\n1 2 3 4 5 6\nHEM/ I 61 AC PART NO. 1/216\nHEM/ II 62 AC PART NO. 1/217\nHEM /PS-14 14-SC\nHEM/ III 63 AC PART NO. 1/218\nHEM/ IV 64 AC PART NO. 1/219\nAC PART NO. 1/220\nHEM/ V 65(1),65(2)\nAC PART NO. 1/221\nI\nR HEM/ VI 66 AC PART NO. 1/222\nA HEM /PS-15 15-W\nM HEM/ VII 67 AC PART NO. 1/223\nU 3\nK AC PART NO. 1/224\nM HEM/ X 70(1),70(2)\nE AC PART NO. 1/225\nH\nHEM/ VIII 68 AC PART NO. 1/226\nHEM/ IX 69 AC PART NO. 1/227\nHEM/ XI 71 AC PART NO. 1/228\nHEM /PS-16 16-SC 16-W\nHEM/ XII 72 AC PART NO. 1/229\nAC PART NO. 1/230\nHEM/ XIII 73(1),73(2)\nAC PART NO. 1/231\nDate:\nPage No. 7 / 7",
+      "tables": [
+        {
+          "bbox": [
+            18.004,
+            46.78000000000005,
+            825.4600066666667,
+            399.23500250000006
+          ],
+          "rows": [
+            [
+              "m\na\nr\nG\nfo\ne\nm\na\nN",
+              "Number of\nMembers to be\nelected to the\nPanchayat Samity",
+              "Number, Name and Area of the Constituency",
+              null,
+              null,
+              "Area of the Constituency\n(Assembly Part No.)",
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward Classes\nPersons showing serial number",
+              "Constituency\nreserved for Women\nshowing serial\nnumber"
+            ],
+            [
+              null,
+              null,
+              "Name of the\nConstituency",
+              "Area of the Constituency\n(G.P. Constituency)",
+              "Area of the\nConstituency\n(Panchayat Part\nNo.)",
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              null,
+              null,
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "I\nR\nA\nM\nU\nK\nM\nE\nH",
+              "3",
+              "HEM /PS-14",
+              "HEM/ I",
+              "61",
+              "AC PART NO. 1/216",
+              "14-SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "HEM/ II",
+              "62",
+              "AC PART NO. 1/217",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "HEM/ III",
+              "63",
+              "AC PART NO. 1/218",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "HEM/ IV",
+              "64",
+              "AC PART NO. 1/219",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "HEM /PS-15",
+              "HEM/ V",
+              "65(1),65(2)",
+              "AC PART NO. 1/220",
+              "",
+              "15-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "AC PART NO. 1/221",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "HEM/ VI",
+              "66",
+              "AC PART NO. 1/222",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "HEM/ VII",
+              "67",
+              "AC PART NO. 1/223",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "HEM/ X",
+              "70(1),70(2)",
+              "AC PART NO. 1/224",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "AC PART NO. 1/225",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "HEM /PS-16",
+              "HEM/ VIII",
+              "68",
+              "AC PART NO. 1/226",
+              "16-SC",
+              "16-W"
+            ],
+            [
+              null,
+              null,
+              null,
+              "HEM/ IX",
+              "69",
+              "AC PART NO. 1/227",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "HEM/ XI",
+              "71",
+              "AC PART NO. 1/228",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "HEM/ XII",
+              "72",
+              "AC PART NO. 1/229",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "HEM/ XIII",
+              "73(1),73(2)",
+              "AC PART NO. 1/230",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "AC PART NO. 1/231",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 982
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 7
+}

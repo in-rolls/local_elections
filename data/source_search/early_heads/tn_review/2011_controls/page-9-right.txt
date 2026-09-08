@@ -1,0 +1,49 @@
+1 2 3
+LATHUR PANCHAYAT UNION Contd.,
+11 Kadalur SC (General)
+12 Thenpattinam SC (General)
+13 Anaicut SC (General)
+14 Iranyasithi SC (General)
+15 Veerabogam SC (General)
+16 Kanathur SC (General)
+17 Mugaiyur SC (General)
+18 Vettakarakuppam SC (General)
+19 Perumbakkam General (Women)
+20 Keelacheri General (Women)
+21 Periyavelikadu General (Women)
+22 Kadugupattu General (Women)
+23 Thattambattu General (Women)
+24 Seekinankuppam General (Women)
+25 Kodur General (Women)
+26 Vadakkuvayalur General (Women)
+27 Adayalacheri General
+28 Pavinjur General
+29 Sembur General
+30 Paramankeni General
+31 Nerkunapattu General
+32 Neelamangalam General
+33 Lathur General
+34 Nelvoy General
+35 Thondamanallur General
+36 Koovathur General
+37 Siruvangunam General
+38 Cheyyur General
+39 Pachambakkam General
+40 Ammanoor General
+41 Seevadi General
+ST.THOMAS MOUNT PANCHAYAT UNION
+1 Sithalapakkam SC (Women)
+2 Vengaivasal SC (Women)
+3 Ottiyambakkam SC (General)
+4 Pozhichalur General (Women)
+5 Nanmangalam General (Women)
+6 Moovarasampattu General (Women)
+7 Madurapakkam General (Women)
+8 Agaramthen General (Women)
+9 Medavakkam General
+10 Mudichur General
+11 Kovilambakkam General
+12 Cowelbazzar General
+13 Tirisulam General
+14 Thiruvanjeri General
+15 Perumbakkam General

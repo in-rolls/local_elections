@@ -1,0 +1,56 @@
+1 2 3
+VALANGAIMAN PANCHAYAT UNION Contd.,
+15 Adhichamangalam SC (General)
+16 83, Regunathapuram SC (General)
+17 Uthukkadu SC (General)
+18 Mathur SC (General)
+19 85, Kiliyur SC (General)
+20 Vilathur SC (General)
+21 Moolavancheri SC (General)
+22 Nallur SC (General)
+23 Maruvathur General (Women)
+24 Govindagudi General (Women)
+25 Thenkuvalaveli General (Women)
+26 Chandrasekarapuram General (Women)
+27 Muniyur General (Women)
+28 Manalur General (Women)
+29 Poonaiyiruppu General (Women)
+30 Therkkupattam General (Women)
+31 Aravoor General (Women)
+32 Avalivanallur General
+33 44, Regunathapuram General
+34 Perungudi General
+35 Poonthottam General
+36 Veeramangalam General
+37 Padagachery General
+38 Avoor General
+39 Sithanvazhur General
+40 Keelavidayal General
+41 Puliyakudi General
+42 Saranatham General
+43 Maligaithidal General
+44 Pappakudy General
+45 Manickamangalam General
+46 Uthamathanapuram General
+47 Madhakaram General
+48 Annukudi General
+49 Manakkal General
+50 Narthangudi General
+KORADACHERY PANCHAYAT UNION
+1 Devarkandanallur SC (Women)
+2 Neikkuppai SC (Women)
+3 Keerangudi SC (Women)
+4 Engan SC (Women)
+5 Semmangudi SC (Women)
+6 Peruntharagudi SC (Women)
+7 Agarathirunallur SC (General)
+8 Abivirthiswaram SC (General)
+9 Viswanathapuram SC (General)
+10 Perumalagaram SC (General)
+11 Kankoduthavanitham SC (General)
+12 Kattur SC (General)
+13 Thirukkannamangai SC (General)
+14 Kalathur SC (General)
+15 Vadakandam SC (General)
+16 Manakkal SC (General)
+17 Ayikudi SC (General)

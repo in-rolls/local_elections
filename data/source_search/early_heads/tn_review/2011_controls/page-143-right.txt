@@ -1,0 +1,46 @@
+1 2 3
+ALANGULAM PANCHAYAT UNION Contd.,
+22 Mayamankurichi General
+23 Mela Kalangal General
+24 Mela Maruthappapuram General
+25 Naranapuram General
+26 Nettur General
+27 Sivalarkulam General
+28 Subbiahpuram General
+MANUR PANCHAYAT UNION
+1 Kodaganallur SC (Women)
+2 Pillayarkurlam SC (Women)
+3 Seethaparpanallur SC (Women)
+4 Thalaiyuthu SC (Women)
+5 Narasinganallur SC (Women)
+6 Alagiapandiapuram SC (General)
+7 Alangaraperi SC (General)
+8 Ettankulam SC (General)
+9 Kuppakkurichi SC (General)
+10 Pallikottai SC (General)
+11 Piranjeri SC (General)
+12 Pudur SC (General)
+13 Thiruppanikarisalkulam SC (General)
+14 Chittarchatram General (Women)
+15 Kalakudi General (Women)
+16 Kurichikulam General (Women)
+17 Madavakurichi General (Women)
+18 Manur General (Women)
+19 Nanjankulam General (Women)
+20 Tenkalam General (Women)
+21 Vagaikulam General (Women)
+22 Vellalankulam General (Women)
+23 Konda nagaram General
+24 Gangaikondan General
+25 Kanarpatti General
+26 Karunkadu General
+27 Kattarankulam General
+28 Mavadi General
+29 Melakkallur General
+30 Palamadai General
+31 Palavoor General
+32 Pettai Rural General
+33 Sanganthiradu General
+34 Selianallur General
+35 Sethurayanpudur General
+36 Suthamalli General

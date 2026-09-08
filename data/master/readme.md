@@ -107,7 +107,7 @@ Supplemental tables retain useful source grains that are neither seats nor candi
 | [`supplemental_rajasthan_nomination_stats.parquet`](supplemental_rajasthan_nomination_stats.parquet) | 13,473 | source-specific table at its declared grain |
 | [`master_extras.parquet`](master_extras.parquet) | — | the state-specific columns, long-form as (row_id, column, value), so the master stays a fixed schema without losing anything |
 | [`master_key_collisions.csv`](master_key_collisions.csv) | 3,054 | rows that do not identify a distinct seat |
-| [`master_dropped.csv`](master_dropped.csv) | 10,181 | every input row that did not become an output row, with a reason. `make master` fails if these do not add up |
+| [`master_dropped.csv`](master_dropped.csv) | 10,635 | every input row that did not become an output row, with a reason. `make master` fails if these do not add up |
 
 ## Scope
 

@@ -1,0 +1,54 @@
+1 2 3
+Budalur Panchayat Union Contd.,
+29 Maraneri General
+30 Michaelpatti General
+31 Megalathur General
+32 Muthuveerakandiyanpatti General
+33 Nemam General
+34 Orathur General
+35 Pazhamaneri General
+36 Pudupatti General
+37 Ranganathapuram General
+38 Sellappanpettai General
+39 Sengipatti General
+40 Thondarayampadi General
+41 Vishnampettai General
+42 Vittalapuram General
+Ammapet Panchayat Union
+1 Devarayanpet SC (Women)
+2 Neikunnam SC (Women)
+3 Ukkadai SC (Women)
+4 Serumakkanallur SC (Women)
+5 Keelakovilpathu SC (Women)
+6 Kambarnatham SC (Women)
+7 Pulavarnatham SC (General)
+8 Neduvasal SC (General)
+9 Kalancheri SC (General)
+10 Agaramangudi SC (General)
+11 Vadakkumangudi SC (General)
+12 Kumilagudi SC (General)
+13 Poondi SC (General)
+14 Suraikayur SC (General)
+15 Thirukarukavur SC (General)
+16 Kovathagudi SC (General)
+17 Irumputhalai General (Women)
+18 Kavalur General (Women)
+19 Karuppamudaliyarkottai General (Women)
+20 Perumakkanallur General (Women)
+21 Saliyamangalam General (Women)
+22 Thirupuvanam General (Women)
+23 Vadapathi General (Women)
+24 Vaiyacheri General (Women)
+25 Raramuthirakottai General (Women)
+26 Palliyur General (Women)
+27 Thiruvaiyathukudi General
+28 Alangudi General
+29 Annappanpettai General
+30 Arumalakottai General
+31 Arunthavapuram General
+32 Edairuppu General
+33 Edavagudi General
+34 Jenbagapuram General
+35 Kathirinatham General
+36 Kothangudi General
+37 Mahimalai General

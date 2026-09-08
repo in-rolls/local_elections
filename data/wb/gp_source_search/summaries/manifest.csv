@@ -1,0 +1,11 @@
+file,url,title,retrieved_at,bytes,sha256
+sec_home.html,https://wbsec.org/PublicPages/Home.aspx,2018 summary,2026-09-07,35601,9a71e0be7c9aec7fcf1724f5fbcedaaaeaa0845e57b1b67cff961713b1b0f9d0
+sec_district.html,https://wbsec.org/PublicPages/DistrictwiseResult.aspx,2018 summary,2026-09-07,150295,0621550a46a0419698bbcd8ec1063edba293b22536d843b11c7f294e187d2f01
+sec_detail.html,https://wbsec.org/PublicPages/VotingResult2018.aspx,Mixed metadata: 2018 header but 2022 Siliguri selector; no candidate rows,2026-09-07,12319,32cd42969f82aeb8d7995d17f8f5249636f04468a2950e3e284722c359bdf423
+hooghly_2003_aniva.htm,https://web.archive.org/web/20041117101744id_/http://hooghly.nic.in:80/hzp/Panch_election1/aniva.htm,Hooghly 2003 summary: inspect tier,2026-09-07,63938,90dc0eb614800519895152a8c48754f39574b7672a7e2b626874fb4df1f381a9
+hooghly_2003_anvb.htm,https://web.archive.org/web/20041117101744id_/http://hooghly.nic.in:80/hzp/Panch_election1/anvb.htm,Hooghly 2003 summary: inspect tier,2026-09-07,53317,a43fc8688264ba7c2574eb85cb678fd4224fffb1cde61ad97b1086bb70f5b85e
+hooghly_2003_anvib.htm,https://web.archive.org/web/20041117101744id_/http://hooghly.nic.in:80/hzp/Panch_election1/anvib.htm,Hooghly 2003 summary: inspect tier,2026-09-07,16977,4b3bfc6301ed1f96ea7f2740fa092f5702872c8e800ef119d09256b7c0eb58c7
+cooch_behar_2018_landing.html,https://coochbehar.gov.in/pge-2018/,District PGE 2018 results downloads,2026-09-07,137120,67304da699be5f3acae5623c3e2ed4900247b46cdc02f57a8bc5bd9a108c53a7
+cooch_behar_2023020714.pdf,https://cdn.s3waas.gov.in/s3fbd7939d674997cdb4692d34de8633c4/uploads/2023/02/2023020714.pdf,Gram Panchayat,2026-09-07,105721,9084e88feda8537a1d991cad2f8ce735e4a26c8710fd6817ae84dbe6ec6e76ce
+cooch_behar_2023020713.pdf,https://cdn.s3waas.gov.in/s3fbd7939d674997cdb4692d34de8633c4/uploads/2023/02/2023020713.pdf,Zilla Parishad,2026-09-07,104443,70735151967b0d420a8c7508a9c22bfe2f9be3ba0042fac510a4d073b363017f
+cooch_behar_2023020711.pdf,https://cdn.s3waas.gov.in/s3fbd7939d674997cdb4692d34de8633c4/uploads/2023/02/2023020711.pdf,"Panchayat Samity results, 2018",2026-09-07,105502,244123b2defca821890e0fcdfe22f850878651807cbbf76e6c714214ea1fc0fb

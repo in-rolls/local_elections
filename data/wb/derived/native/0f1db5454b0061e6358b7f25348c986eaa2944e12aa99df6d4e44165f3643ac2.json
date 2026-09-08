@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "sha256": "0f1db5454b0061e6358b7f25348c986eaa2944e12aa99df6d4e44165f3643ac2",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "fo\nrebmun\nlatoT\nsrebmem\nsetsaC\ndeludehcS\nsrebmem\nsebirT\neludehcS\nsrebmem\nsrebmem\nnemoW\nThe Schedule\nForm - A1\nBlock : Karimpur-II\nNumber of Members to be elected to\nthe GramPanchayat\nName of Gram\n(1) (2a) (2b) (2c) (2d) (3) (4)\nNandanpur 21 10 Nil 7\n(SC\n1, 2 1 , (SC) 1 ,\nWomen)\n2 , (S.C)\nNandanpur/II, Part No. 70/21\nMouza: Joynabad ,J.L.No.29\n3 3 , (S.C)\n(i) Jounabad Purbapara\n(ii)Joynabad Paschimpara\nNandanpur/III, Part No. 70/22\nMouza: Joynabad ,J.L.No.29\n(SC\n(i) Santipurpara 4 4 , (SC) 4 ,\nWomen)\nMouza: Chak Mirjanagar ,J.L.No-31\n(ii) Chak Mirjanagar\nNandanpur/IV, Part No. 70/23\nMouza : Kishorepur ,J.L.No-26\n5 5 , (S.C)\n(i) Halderpara\n(ii) Madhyapara\nNandanpur/V, Part No. 70/24\nMouza : Kishorepur ,J.L.No-26\n6 6 , (Women)\n(i) Kishorepur Ghoshpara\n(ii) Kishorepur Nutanpara\nNandanpur/VI, Part No. 70/25\nMouza: Ratanpur ,J.L.No-33 7\n(i) Ratanpur\nNandanpur/VII, Part No. 70/26\nMouza: Ramnagar ,J.L.No-34\n(i) Ramnagar Paschimpara (ii)Ramnagar 8, 9 9 , (Women)\nMadhyapara\n(iii) Ramnagar Purbapara\nNandanpur/VIII, Part No. 70/27\nMouza: Dakshin Gopalpur ,J.L.No-32\n(i) Kanaikhalipara 10 10 , (S.C)\n(ii) Biswaspara\n(iii) Dakshin Gopalpur (Dakshin)\nNandanpur/IX, Part No. 70/28\nMouza: Dakshin Gopalpur ,J.L.No-32\n11\n(i) Dakshin Gopalpur\n(ii) Salkepara\nfo aera\ndna\nemaN\n,rebmuN\nlaires\nhtiw\nseicneutitsnoc\nsrebmun\nhcae\not detacolla\nstaeS\nlaires\nhtiw\nycneutitsnoc\nsrebmun\nrof\ndevreser\nstaeS\ndna\nsetsaC\ndeludehcS\ntsniaga\nsebirT\neludehcS\nstaes\nfo\nrebmun\nlaires\nnemoW\nrof\ndevreser\nstaeS\nfo\nrebmun\nlaires\ntsniaga\nstaes\n(5) (6)\nNandanpur/I, Part No. 70/20\nMouza: Mahishakhola ,J.L.No.-27\n(i) Mahishakhola\nMouza: Moktarpur ,J.L.No-28,\n(ii) Moktarpur\nFORM - A of Nandanpur G.P. Page 1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            118.19040000000007,
+            561.1139999999999,
+            741.05808
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of Members to be elected to\nthe GramPanchayat",
+              null,
+              null,
+              null,
+              "fo\nlaires\naera\ndna htiw\nsrebmun\nemaN seicneutitsnoc\n,rebmuN",
+              "hcae laires\not htiw\ndetacolla srebmun\nycneutitsnoc\nstaeS",
+              "tsniaga\ndna staes\nrof\nsetsaC\ndevreser fo\nsebirT\nrebmun\ndeludehcS\neludehcS\nstaeS\nlaires",
+              "nemoW\nfo\nrebmun\nrof\nstaes\ndevreser laires\ntsniaga\nstaeS"
+            ],
+            [
+              null,
+              "fo\nrebmun\nsrebmem\nlatoT",
+              "setsaC\nsrebmem\ndeludehcS",
+              "sebirT\nsrebmem\neludehcS",
+              "srebmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Nandanpur",
+              "21",
+              "10",
+              "Nil",
+              "7",
+              "Nandanpur/I, Part No. 70/20\nMouza: Mahishakhola ,J.L.No.-27\n(i) Mahishakhola\nMouza: Moktarpur ,J.L.No-28,\n(ii) Moktarpur",
+              "1, 2",
+              "1 , (SC)\n2 , (S.C)",
+              "(SC\n1 ,\nWomen)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/II, Part No. 70/21\nMouza: Joynabad ,J.L.No.29\n(i) Jounabad Purbapara\n(ii)Joynabad Paschimpara",
+              "3",
+              "3 , (S.C)",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/III, Part No. 70/22\nMouza: Joynabad ,J.L.No.29\n(i) Santipurpara\nMouza: Chak Mirjanagar ,J.L.No-31\n(ii) Chak Mirjanagar",
+              "4",
+              "4 , (SC)",
+              "(SC\n4 ,\nWomen)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/IV, Part No. 70/23\nMouza : Kishorepur ,J.L.No-26\n(i) Halderpara\n(ii) Madhyapara",
+              "5",
+              "5 , (S.C)",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/V, Part No. 70/24\nMouza : Kishorepur ,J.L.No-26\n(i) Kishorepur Ghoshpara\n(ii) Kishorepur Nutanpara",
+              "6",
+              "",
+              "6 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/VI, Part No. 70/25\nMouza: Ratanpur ,J.L.No-33\n(i) Ratanpur",
+              "7",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/VII, Part No. 70/26\nMouza: Ramnagar ,J.L.No-34\n(i) Ramnagar Paschimpara (ii)Ramnagar\nMadhyapara\n(iii) Ramnagar Purbapara",
+              "8, 9",
+              "",
+              "9 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/VIII, Part No. 70/27\nMouza: Dakshin Gopalpur ,J.L.No-32\n(i) Kanaikhalipara\n(ii) Biswaspara\n(iii) Dakshin Gopalpur (Dakshin)",
+              "10",
+              "10 , (S.C)",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/IX, Part No. 70/28\nMouza: Dakshin Gopalpur ,J.L.No-32\n(i) Dakshin Gopalpur\n(ii) Salkepara",
+              "11",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1615
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "(1) (2a) (2b) (2c) (2d) (3) (4) (5) (6)\nNandanpur Nandanpur/X, Part No. 70/29\nMouza: Dakshin Gopalpur ,J.L.No-32\n(i) Uttar Gopalpur Uttarpara 12\n(ii) Uttar Gopalpur Baganpara\n(iii) Idgatalapara\nNandanpur/XI, Part No. 70/30\nMouza: Dakshin Gopalpur ,J.L.No-32\n13 13 , (Women)\n(i) Uttar Gopalpur beltalapara\n(ii) Majherpara\nNandanpur/XII, Part No. 70/31\nMouza: Dakshin Gopalpur ,J.L.No-32\n(SC\n(i) Garaimari uttarpara 14 14 , (SC) 14 ,\nWomen)\n(ii) Garaimari Dakshinpara, Purba\n(iii) Garaimari Dakshinpara, Paschim\nNandanpur/XIII, Part No. 70/32\nMouza: Nandanpur J.L.No-56\n(i) Schoolpara\n(ii) Palpara\n(iii) Halderpara\n(iv) Ghatpara 15\n(v)Bhairabpara\n(vi) Madhyapara\n(viii) Nandanpurpara\n(viii) Daspara\n(ix) Musalmanpara\nNandanpur/XIV, Part No. 70/33\nMouza: Routbati ,J.L.No-57\n(i) Pahariapara\n(ii) Halderpara\n(iii) Mondalpara 16\n(iv) Nathpara\n(v)Palpara\n(vi) Muslimpara\n(viii) Mathpara\nNandanpur/XV, Part No. 70/34\n17, 18 17 , (S.C)\nMouza: Kanthalia ,J.L.No.55\n(i) Kanthalia Purbapara (Uttar)\n18 , (S.C)\n(ii) Kanthalia Purbapara (Dakshin)\nNandanpur/XVI, Part No. 70/35\n(SC\nMouza: Kanthalia ,J.L.No.55 19 19 , (SC) 19 ,\nWomen)\n(i) Kanthalia Paschimpara\nNandanpur/XVII, Part No. 70/36\nMouza: Kanthalia ,J.L.No.55 20\n(i) Kanthalia\nNandanpur/XVIII, Part No. 70/37\nMouza: Chak Hatishala , J.L.No-54\n21\n(i) Tarakganj\n(ii) Bilpar Tarakganj.\nDate : 07.02.2008\nDistrict Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\nFORM - A of Nandanpur G.P. Page 2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            54.47543460000003,
+            561.1139999999999,
+            668.7048
+          ],
+          "rows": [
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Nandanpur",
+              "",
+              "",
+              "",
+              "",
+              "Nandanpur/X, Part No. 70/29\nMouza: Dakshin Gopalpur ,J.L.No-32\n(i) Uttar Gopalpur Uttarpara\n(ii) Uttar Gopalpur Baganpara\n(iii) Idgatalapara",
+              "12",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/XI, Part No. 70/30\nMouza: Dakshin Gopalpur ,J.L.No-32\n(i) Uttar Gopalpur beltalapara\n(ii) Majherpara",
+              "13",
+              "",
+              "13 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/XII, Part No. 70/31\nMouza: Dakshin Gopalpur ,J.L.No-32\n(i) Garaimari uttarpara\n(ii) Garaimari Dakshinpara, Purba\n(iii) Garaimari Dakshinpara, Paschim",
+              "14",
+              "14 , (SC)",
+              "(SC\n14 ,\nWomen)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/XIII, Part No. 70/32\nMouza: Nandanpur J.L.No-56\n(i) Schoolpara\n(ii) Palpara\n(iii) Halderpara\n(iv) Ghatpara\n(v)Bhairabpara\n(vi) Madhyapara\n(viii) Nandanpurpara\n(viii) Daspara\n(ix) Musalmanpara",
+              "15",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/XIV, Part No. 70/33\nMouza: Routbati ,J.L.No-57\n(i) Pahariapara\n(ii) Halderpara\n(iii) Mondalpara\n(iv) Nathpara\n(v)Palpara\n(vi) Muslimpara\n(viii) Mathpara",
+              "16",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/XV, Part No. 70/34\nMouza: Kanthalia ,J.L.No.55\n(i) Kanthalia Purbapara (Uttar)\n(ii) Kanthalia Purbapara (Dakshin)",
+              "17, 18",
+              "17 , (S.C)\n18 , (S.C)",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/XVI, Part No. 70/35\nMouza: Kanthalia ,J.L.No.55\n(i) Kanthalia Paschimpara",
+              "19",
+              "19 , (SC)",
+              "(SC\n19 ,\nWomen)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/XVII, Part No. 70/36\nMouza: Kanthalia ,J.L.No.55\n(i) Kanthalia",
+              "20",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Nandanpur/XVIII, Part No. 70/37\nMouza: Chak Hatishala , J.L.No-54\n(i) Tarakganj\n(ii) Bilpar Tarakganj.",
+              "21",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1399
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

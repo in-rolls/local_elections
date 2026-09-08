@@ -1,0 +1,58 @@
+[
+  {
+    "source_id": "raj_voters_research",
+    "state": "Rajasthan",
+    "requested_url": "https://www.povertyactionlab.org/sites/default/files/research-paper/2024-07-29%20Rajasthan%20Voters.pdf",
+    "discovery": "Author paper: election data source/coverage lead, not acquired microdata",
+    "parent_url": null
+  },
+  {
+    "source_id": "raj_hanumangarh_gazetteer",
+    "state": "Rajasthan",
+    "requested_url": "https://jankalyanfile.rajasthan.gov.in/Content/UploadFolder/DepartmentMaster/100/2023/Sep/30409/100f28a40a7-1e4e-4e8c-bf4d-2578bca7930a.pdf",
+    "discovery": "Official gazetteer: early election counts; inspect appendices before calling GP data",
+    "parent_url": null
+  },
+  {
+    "source_id": "bihar_sharan_kumar_paper",
+    "state": "Bihar",
+    "requested_url": "https://chinmayakumar.com/research/reservation_paper.pdf",
+    "discovery": "Author paper: source chronology and no-Mukhiya-reservation2001 claim, not raw roster",
+    "parent_url": null
+  },
+  {
+    "source_id": "mp_fao_case_study",
+    "state": "Madhya Pradesh",
+    "requested_url": "https://www.fao.org/4/ac158e/ac158e0a.htm",
+    "discovery": "FAO case account: named1994GP example; not representative administrative series",
+    "parent_url": null
+  },
+  {
+    "source_id": "odisha_gp_act",
+    "state": "Odisha",
+    "requested_url": "https://panchayat.odisha.gov.in/sites/default/files/2021-05/ORISSA%20GP%20ACT%201964.pdf",
+    "discovery": "Official compiled statute: allocation rule/context, not observed assignment",
+    "parent_url": null
+  },
+  {
+    "source_id": "up_sec_analysis_index",
+    "state": "Uttar Pradesh",
+    "requested_url": "https://sec.up.nic.in/site/electionanalysis.aspx",
+    "discovery": "Official statistical-report index: early aggregate verification, not namedGP coverage",
+    "parent_url": null
+  },
+  {
+    "source_id": "odisha_election_history",
+    "state": "Odisha",
+    "requested_url": "https://magazines.odisha.gov.in/Orissareview/2017/Feb-March/engpdf/122-129.pdf",
+    "discovery": "Official publication:1997/2002 election history, not namedGP roster",
+    "parent_url": null
+  },
+  {
+    "source_id": "mp_pri_research",
+    "state": "Madhya Pradesh",
+    "requested_url": "https://gala.gre.ac.uk/id/eprint/11657/1/Doc-0279.pdf",
+    "discovery": "Primary field-research report: historical source leads, scope requires inspection",
+    "parent_url": null
+  }
+]

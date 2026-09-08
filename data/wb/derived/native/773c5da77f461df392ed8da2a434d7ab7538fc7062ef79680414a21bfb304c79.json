@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "sha256": "773c5da77f461df392ed8da2a434d7ab7538fc7062ef79680414a21bfb304c79",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A 1)\nBlock : Chakdaha\nNumber of members to be elected in the Gram Panchayat\nName of Gram Scheduled Caste Scheduled Tribe\nTotal number of members Women members\nmembers Members\n1 (2a) (2b) (2c) (2d)\nTatla-II 17 4 NIL 6\nSeats reserved for\nSeats allocated to Scheduled Caste or Seats reserved for\nNumber, name and area of constituencies with serial\neach constituency Scheduled Tribe women against serial\nnumbers\nwith serial numbers against serial number number of seats\nof seats\n3 4 5 6\nTatla-II/ I\nMouza :Lalpur , J.L. No.20, (a) Lalpur Padmapukur Para and\n1 - 1W\nDurlav Para\nPart No.83/1\nTatla-II/II\nMouza :Lalpur , J.L. No.20,(a) Lalur Paschim and Ranjan\n2,3 - -\nPalli and Paschim Part\nPart No.83/2\nTatla-II/III\nMouza : Lalpur, J.L. No.20,(a) West part of Lalpur west 4 - 4 W\nPart No.83/3\nTatla-II/IV\nMouza :Lalpur , J.L. No20.,(a) Lalpur Purba and Dakshin\n5,6 - -\nPart of C.B. Road(Ranjanpalli)\nPart No.83/4\nTatla-II/V\nMouza : Pumlia, J.L. No.14,(a) Pumlia Sebagram Para 7 - 7 W\nPart No.83/5\nTatla-II/VI\nMouza : Pumlia, J.L. No14.,(a) Pumlia Purbapara(West part\nof N.H.-34 alongwith Daspara)\n8,9 - -\nMouza : Pumlia, J.L. No14.,(b) Pumlia Paschim\nChatkatalapara\nPart No.83/6\nTatla-II/VII\nMouza :Pumlia , J.L. No.14,(a) Barapumlia Elec: Officepara\n10 10 SC 10 SCW\nand Talikholapara\nPart No.83/7\nTatla-IIVIII\nMouza :Kamalpur , J.L. No.15,(a) Kamalpur Purbapara\nMouza :Kamalpur , J.L. No.15,(b) Kamalpur Paschimpara\n11,12 11SC 12(W)\n(Partly)\nMouza Jagadishpur, J.L. No. 17, (c) Jagadishpur\nPart No.83/8",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            109.55160000000006,
+            589.5516,
+            171.34560000000005
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of members",
+              "Scheduled Caste\nmembers",
+              "Scheduled Tribe\nMembers",
+              "Women members"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Tatla-II",
+              "17",
+              "4",
+              "NIL",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            18.5191254,
+            183.70463460000002,
+            589.5516,
+            716.2204800000001
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial\nnumbers",
+              "Seats allocated to\neach constituency\nwith serial numbers",
+              "Seats reserved for\nScheduled Caste or\nScheduled Tribe\nagainst serial number\nof seats",
+              "Seats reserved for\nwomen against serial\nnumber of seats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Tatla-II/ I\nMouza :Lalpur , J.L. No.20, (a) Lalpur Padmapukur Para and\nDurlav Para\nPart No.83/1",
+              "1",
+              "-",
+              "1W"
+            ],
+            [
+              "Tatla-II/II\nMouza :Lalpur , J.L. No.20,(a) Lalur Paschim and Ranjan\nPalli and Paschim Part\nPart No.83/2",
+              "2,3",
+              "-",
+              "-"
+            ],
+            [
+              "Tatla-II/III\nMouza : Lalpur, J.L. No.20,(a) West part of Lalpur west\nPart No.83/3",
+              "4",
+              "-",
+              "4 W"
+            ],
+            [
+              "Tatla-II/IV\nMouza :Lalpur , J.L. No20.,(a) Lalpur Purba and Dakshin\nPart of C.B. Road(Ranjanpalli)\nPart No.83/4",
+              "5,6",
+              "-",
+              "-"
+            ],
+            [
+              "Tatla-II/V\nMouza : Pumlia, J.L. No.14,(a) Pumlia Sebagram Para\nPart No.83/5",
+              "7",
+              "-",
+              "7 W"
+            ],
+            [
+              "Tatla-II/VI\nMouza : Pumlia, J.L. No14.,(a) Pumlia Purbapara(West part\nof N.H.-34 alongwith Daspara)\nMouza : Pumlia, J.L. No14.,(b) Pumlia Paschim\nChatkatalapara\nPart No.83/6",
+              "8,9",
+              "-",
+              "-"
+            ],
+            [
+              "Tatla-II/VII\nMouza :Pumlia , J.L. No.14,(a) Barapumlia Elec: Officepara\nand Talikholapara\nPart No.83/7",
+              "10",
+              "10 SC",
+              "10 SCW"
+            ],
+            [
+              "Tatla-IIVIII\nMouza :Kamalpur , J.L. No.15,(a) Kamalpur Purbapara\nMouza :Kamalpur , J.L. No.15,(b) Kamalpur Paschimpara\n(Partly)\nMouza Jagadishpur, J.L. No. 17, (c) Jagadishpur\nPart No.83/8",
+              "11,12",
+              "11SC",
+              "12(W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2467
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Seats reserved for\nSeats allocated to Scheduled Caste or Seats reserved for\nNumber, name and area of constituencies with serial\neach constituency Scheduled Tribe women against serial\nnumbers\nwith serial numbers against serial number number of seats\nof seats\nTatla-II/IX\nMouza : Kamalpur, J.L. No15.,(a)Kamalpur\n13 - -\nPaschimpara(Partly)\nPart No.83/9\nTatla-II/X\nMouza :Joykrishnapur , J.L. No.31,(a)Joykrishnapur Full 1 4 14 SC 14 SCW\nPart No.83/10\nTatla-II/XI\nMouza : Sarmastapur, J.L. No.18,(a)Sarmastapur Full 15 15 SC -\nPart No.83/11\nTatla-II/XII\nMouza : Chhatimtala, J.L. No.19,(a) Chatimtala Partly\nMouza : Chhatimtala, J.L. No.19,(b) ChatimtalaPartly(Uttar\n16,17 - -\nChatimtala Link Road, Purba Kamalpur, Dakshin Chatimtala\nRoad,West of 34-No. N.H.)\nPart No.83/12\nDate:07.02.2008 District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            72.47399999999999,
+            589.5516,
+            365.25
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial\nnumbers",
+              "Seats allocated to\neach constituency\nwith serial numbers",
+              "Seats reserved for\nScheduled Caste or\nScheduled Tribe\nagainst serial number\nof seats",
+              "Seats reserved for\nwomen against serial\nnumber of seats"
+            ],
+            [
+              "Tatla-II/IX\nMouza : Kamalpur, J.L. No15.,(a)Kamalpur\nPaschimpara(Partly)\nPart No.83/9",
+              "13",
+              "-",
+              "-"
+            ],
+            [
+              "Tatla-II/X\nMouza :Joykrishnapur , J.L. No.31,(a)Joykrishnapur Full\nPart No.83/10",
+              "1 4",
+              "14 SC",
+              "14 SCW"
+            ],
+            [
+              "Tatla-II/XI\nMouza : Sarmastapur, J.L. No.18,(a)Sarmastapur Full\nPart No.83/11",
+              "15",
+              "15 SC",
+              "-"
+            ],
+            [
+              "Tatla-II/XII\nMouza : Chhatimtala, J.L. No.19,(a) Chatimtala Partly\nMouza : Chhatimtala, J.L. No.19,(b) ChatimtalaPartly(Uttar\nChatimtala Link Road, Purba Kamalpur, Dakshin Chatimtala\nRoad,West of 34-No. N.H.)\nPart No.83/12",
+              "16,17",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1253
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}
