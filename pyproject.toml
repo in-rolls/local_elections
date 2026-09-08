@@ -167,6 +167,8 @@ build-backend = "uv_build"
 # copy, so docs/ and its workflow are out too.
 skip_checks = [
     "changelog", "deps", "depgroups", "audit", "links", "pydoclint",
+    # OCR tests require apt packages; the reusable CI has no system-dependency hook.
+    "workflows",
     # codespell is run over the whole repository regardless of .codespellrc or
     # [tool.codespell], and 830,000 rows of Indian place and personal names -
     # transliterated several ways, plus Kruti Dev mojibake kept as evidence -
