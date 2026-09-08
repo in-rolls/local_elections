@@ -1,11 +1,11 @@
 {
   "assets": [
     {
-      "bytes": 471297938,
+      "bytes": 471298020,
       "members": 1153,
       "name": "source-evidence-001.tar.gz",
-      "sha256": "40de0ae1f601da16be0dc4970af20283671c68d3a54f809afbee85e585379133",
-      "uncompressed_bytes": 536835411
+      "sha256": "fbed93cb656c601766726ecc4a2f0a231a2fd61d2bdaf14bedefab78b3a3efcc",
+      "uncompressed_bytes": 536835342
     },
     {
       "bytes": 517216510,
@@ -37,8 +37,8 @@
     }
   ],
   "builder_sha256": "2809b79fcef6265a2170d6bd677577bb6b5b96f626f1ba9c1c1c23b2f9a03d07",
-  "built_from_commit": "4b14ed10dea82e498121bbfe0ddf64455ceb8c71",
-  "dirty": true,
+  "built_from_commit": "42fbd4c4b832f55acdd597f14a62cf4bbd923e90",
+  "dirty": false,
   "excluded_names": [
     ".DS_Store"
   ],
@@ -46,9 +46,9 @@
     {
       "artifact_role": "source_metadata_or_supporting_material",
       "asset": "source-evidence-001.tar.gz",
-      "bytes": 6740,
+      "bytes": 6671,
       "path": "data/source_search/early_heads/README.md",
-      "sha256": "69e3e98bd9c16fee27efebd17d534a0242f3e341c44eeffb3b334aac116b3411"
+      "sha256": "603d281de37c8ddee18c0236641b5507e7bee661ec3e2a6dc752922b6d74de64"
     },
     {
       "artifact_role": "source_metadata_or_supporting_material",
@@ -96136,7 +96136,7 @@
   ],
   "totals": {
     "assets": 5,
-    "bytes": 2551995359,
+    "bytes": 2551995290,
     "files": 13726
   }
 }
