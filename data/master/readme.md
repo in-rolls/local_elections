@@ -6,7 +6,7 @@
 
 ## What a row is
 
-Rows are standardized at seat-event grain. Most sources identify an event by election year; where a source names general and by-election periods, those remain separate rather than collapsing repeated elections. 1,051,560 rows (100.0%) have keys that identify a distinct seat; the other 0 lack enough source detail to distinguish every record and are listed in [master_key_collisions.csv](master_key_collisions.csv) rather than hidden behind a promise the data does not support.
+Rows are standardized at seat-event grain. Most sources identify an event by election year; where a source names general and by-election periods, those remain separate rather than collapsing repeated elections. 1,048,506 rows (99.7%) have keys that identify a distinct seat; the other 3,054 lack enough source detail to distinguish every record and are listed in [master_key_collisions.csv](master_key_collisions.csv) rather than hidden behind a promise the data does not support.
 
 | State | Seat events |
 |---|---|
@@ -85,10 +85,6 @@ Supplemental tables retain useful source grains that are neither seats nor candi
 
 | File | Rows | What |
 |---|---|---|
-| [`candidates_bihar.parquet`](candidates_bihar.parquet) | 644,507 | one state, one row per candidate |
-| [`candidates_rajasthan.parquet`](candidates_rajasthan.parquet) | 68,202 | one state, one row per candidate |
-| [`candidates_uttar_pradesh.parquet`](candidates_uttar_pradesh.parquet) | 373,096 | one state, one row per candidate |
-| [`candidates_uttarakhand.parquet`](candidates_uttarakhand.parquet) | 116,514 | one state, one row per candidate |
 | [`master_andhra_pradesh.parquet`](master_andhra_pradesh.parquet) | 80,021 | one state, one row per seat event |
 | [`master_assam.parquet`](master_assam.parquet) | 1,678 | one state, one row per seat event |
 | [`master_bihar.parquet`](master_bihar.parquet) | 219,117 | one state, one row per seat event |
@@ -104,16 +100,16 @@ Supplemental tables retain useful source grains that are neither seats nor candi
 | [`master_uttar_pradesh.parquet`](master_uttar_pradesh.parquet) | 212,524 | one state, one row per seat event |
 | [`master_uttarakhand.parquet`](master_uttarakhand.parquet) | 29,592 | one state, one row per seat event |
 | [`master_west_bengal.parquet`](master_west_bengal.parquet) | 825 | one state, one row per seat event |
+| [`candidates_bihar.parquet`](candidates_bihar.parquet) | 644,507 | one state, one row per candidate |
+| [`candidates_rajasthan.parquet`](candidates_rajasthan.parquet) | 68,202 | one state, one row per candidate |
+| [`candidates_uttar_pradesh.parquet`](candidates_uttar_pradesh.parquet) | 373,096 | one state, one row per candidate |
+| [`candidates_uttarakhand.parquet`](candidates_uttarakhand.parquet) | 116,514 | one state, one row per candidate |
 | [`supplemental_rajasthan_nomination_stats.parquet`](supplemental_rajasthan_nomination_stats.parquet) | 13,473 | source-specific table at its declared grain |
 | [`master_extras.parquet`](master_extras.parquet) | — | the state-specific columns, long-form as (row_id, column, value), so the master stays a fixed schema without losing anything |
-| [`master_key_collisions.csv`](master_key_collisions.csv) | 0 | rows that do not identify a distinct seat |
+| [`master_key_collisions.csv`](master_key_collisions.csv) | 3,054 | rows that do not identify a distinct seat |
 | [`master_dropped.csv`](master_dropped.csv) | 10,635 | every input row that did not become an output row, with a reason. `make master` fails if these do not add up |
 
 ## Scope
 
 Rural bodies only for now — urban local bodies are held by the Trivedi Centre and are filtered by `canon.RURAL_TIERS`, which has to be a row-level filter because Kerala ships urban wards in the same file as rural ones.
 
-
-## UP partial rebuild, 2026-09-10
-
-The 2015 addition is pinned to its state-repository Parquet hash, with one-based source-row locators in `master_extras.parquet`. The 2021 `winner_markers_conflict` flag identifies one contest with two publisher-marked winners; its winner and all 25 candidate elected values remain unknown. Other states were not rebuilt. Source checkouts have uncommitted changes, so this is a working dataset, not a clean tagged release. The build receipt is in `data/integration/uttar_pradesh/2026-09-10/pooled_build`.
