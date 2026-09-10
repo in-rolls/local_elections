@@ -31,6 +31,7 @@ unjoinable to the same panchayat printed without one in 2005 and 2010.
 """
 
 import csv
+import gzip
 import hashlib
 import io
 import json
@@ -49,12 +50,16 @@ SEAT_FILES = {
     "2010": "data/up_gp_sarpanch_2010_fixed.csv",
     "2015": "data/fin/up_gp_sarpanch_2015_fixed_with_transliteration.parquet",
 }
-CANDIDATE_FILE = ("2021", "data/up_gram_panchayat_pradhan_2021.csv")
+CANDIDATE_FILE = (
+    "2021",
+    "data/raw/2021/gram_panchayat_pradhan_candidates.csv.gz",
+)
 
 DECLARED = {"2005": 51872, "2010": 51861, "2015": 59019, "2021": 373096}
 
 SOURCE_SHA256 = {
     "2015": "2e7cde2ad328d9a7f7d8ad078295e47ef274f48f22b0272a6aaf10ed00cf9b45",
+    "2021": "8a7075bee6b59ebd0fc26c0630de2aadad1aec9edfdea34390661c754967c179",
 }
 
 # 2021 collapses; the other three are already seat-level records.
@@ -118,6 +123,7 @@ def slices(root):
     )
     check(year, len(seats), SEATS[year], "seats")
     for seat in seats:
+        seat["source_sha256"] = SOURCE_SHA256[year]
         marked = [r for r in seat["seat_members"] if r.get("result") == WINNER]
         if len(marked) > 1:
             seat["winner_markers_conflict"] = 1
@@ -140,19 +146,19 @@ def slices(root):
 
 def read(path, year, expected):
     if not path.exists():
-        if year in SOURCE_SHA256:
-            raise FileNotFoundError(f"Required pinned UP release input: {path}")
-        return None
+        raise FileNotFoundError(f"Required UP release input for {year}: {path}")
+    payload = path.read_bytes()
+    expected_sha = SOURCE_SHA256.get(year)
+    if expected_sha and hashlib.sha256(payload).hexdigest() != expected_sha:
+        raise SystemExit(f"{REPO}: {year} published input hash changed: {path}")
     if path.suffix == ".parquet":
         import pyarrow.parquet as pq
 
-        payload = path.read_bytes()
-        expected_sha = SOURCE_SHA256.get(year)
-        if expected_sha and hashlib.sha256(payload).hexdigest() != expected_sha:
-            raise SystemExit(f"{REPO}: {year} published input hash changed: {path}")
         rows = pq.read_table(io.BytesIO(payload)).to_pylist()
     else:
-        with path.open(encoding="utf-8", errors="replace") as fh:
+        if path.suffix == ".gz":
+            payload = gzip.decompress(payload)
+        with io.StringIO(payload.decode("utf-8", errors="replace"), newline=None) as fh:
             rows = list(csv.DictReader(fh))
     for number, row in enumerate(rows, 1):
         row["source_row_number"] = str(number)
