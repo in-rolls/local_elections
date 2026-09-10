@@ -858,6 +858,41 @@ COLUMNS = [
     ),
 ]
 
+COLUMNS.extend(
+    [
+        column(
+            "source_row_number",
+            "integer",
+            range=(1, 100000000),
+            severity=INFO,
+            note="One-based record ordinal in source_path, excluding a CSV header. "
+            "This is not a PDF page number or a geographic identifier.",
+        ),
+        column(
+            "source_sha256",
+            "string",
+            pattern=r"^[0-9a-f]{64}$",
+            length=(64, 64),
+            severity=INFO,
+            note="SHA-256 of the pinned input bytes identified by source_path.",
+        ),
+        column(
+            "winner_markers_conflict",
+            "boolean",
+            severity=INFO,
+            note="Multiple candidates under one source seat key are marked as "
+            "winners. No winner is selected and elected remains unknown.",
+        ),
+        column(
+            "winner_marked_candidate_ids",
+            "string",
+            severity=INFO,
+            note="JSON array of publisher candidate IDs carrying conflicting "
+            "winner markers. candidate_no retains these IDs in the long table.",
+        ),
+    ]
+)
+
 BY_NAME = {c["name"]: c for c in COLUMNS}
 ALIAS_OF = {alias: c["name"] for c in COLUMNS for alias in c["aliases"]}
 
