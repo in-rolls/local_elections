@@ -66,10 +66,12 @@ SIBLINGS = {
     },
     "Bihar": {
         "repo": "local_elections_bihar",
-        "years": "2016",
+        "years": "2016, 2021",
         "tiers": "gp_head, gp_ward, block_member, zp_member, kachahari_head, kachahari_member",  # noqa: E501
+        "remaining": "2021 mukhiya education and dated reservation linkage incomplete",
         "files": [
             "data/mukhiya.csv",
+            "data/release/2021/gp_head_candidates_2021.parquet",
             "data/ward_member.csv",
             "data/sarpanch.csv",
             "data/panch.csv",

@@ -55,6 +55,7 @@ import pathlib
 import re
 
 from local_reservations.common import collapse, normalize
+from local_reservations.common.adapters import bihar_2021
 from local_reservations.common.normalize import label
 
 REPO = "local_elections_bihar"
@@ -206,6 +207,8 @@ def slices(root):
             "provenance_level": "dataset",
             "unit_of_observation": "seat_from_candidates",
         }
+
+    yield from bihar_2021.slices(root)
 
 
 def fold(candidates):
