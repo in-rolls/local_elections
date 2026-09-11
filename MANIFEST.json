@@ -1,5 +1,5 @@
 {
-  "built_from_commit": "06359198a31c8b6de2c322714e6b4780ac2a05e5",
+  "built_from_commit": "aa641956b69475ce1d964d908bd96196e44e0081",
   "candidate_columns": [
     "dataset_id",
     "candidate_id",
@@ -43,14 +43,15 @@
     "source_path",
     "source_page"
   ],
-  "committed_utc": "2026-09-08T00:11:30-07:00",
+  "committed_utc": "2026-09-10T22:14:28-07:00",
   "dirty": false,
   "files": [
     {
-      "bytes": 19269581,
+      "bytes": 20854976,
       "dataset_ids": [
         "bihar/block_member/2016",
         "bihar/gp_head/2016",
+        "bihar/gp_head/2021",
         "bihar/gp_ward/2016",
         "bihar/kachahari_head/2016",
         "bihar/kachahari_member/2016",
@@ -58,8 +59,8 @@
       ],
       "kind": "candidates",
       "path": "data/master/candidates_bihar.parquet",
-      "rows": 644507,
-      "sha256": "6deab80b25ac050b2beb49506e5a6082bad1e4e960602e6774f7fe6750390cee",
+      "rows": 710937,
+      "sha256": "15b83fee3467ec7bd18aed3157305418491ef3c6b9f94ec1f73103ab5b4ca14d",
       "states": [
         "Bihar"
       ],
@@ -72,7 +73,8 @@
         "zp_member"
       ],
       "years": [
-        2016
+        2016,
+        2021
       ]
     },
     {
@@ -224,10 +226,11 @@
       ]
     },
     {
-      "bytes": 7898516,
+      "bytes": 8242224,
       "dataset_ids": [
         "bihar/block_member/2016",
         "bihar/gp_head/2016",
+        "bihar/gp_head/2021",
         "bihar/gp_ward/2016",
         "bihar/kachahari_head/2016",
         "bihar/kachahari_member/2016",
@@ -241,9 +244,9 @@
       "provenance_level": [
         "dataset"
       ],
-      "rows": 219117,
-      "rows_identifying_a_distinct_seat": 219117,
-      "sha256": "ca13d31a6bf07333b6a5e3a3a93075943883fa1cf5928d20b5e891b26f127bb5",
+      "rows": 227184,
+      "rows_identifying_a_distinct_seat": 227184,
+      "sha256": "e17271cad73e38c891c04ce195ad7bbc25c05663caff2140722f8d78aa0a730c",
       "states": [
         "Bihar"
       ],
@@ -256,7 +259,8 @@
         "zp_member"
       ],
       "years": [
-        2016
+        2016,
+        2021
       ]
     },
     {
@@ -276,11 +280,11 @@
       "sha256": "ec653b917aba1f11d439f142d9aed4d2e44afd2086c085a4ef1e81d3c94b5786"
     },
     {
-      "bytes": 17362858,
+      "bytes": 17421743,
       "kind": "master",
       "path": "data/master/master_extras.parquet",
-      "rows": 4738955,
-      "sha256": "8eb09537e72ed9d0b50faa0a767e52c8e2adcd583c52a4b427f0b50d9e1d32ca"
+      "rows": 4755089,
+      "sha256": "9b39b7506789402e3f6df6b95163250789c7e3c9c4e2682895885f0dba161fc1"
     },
     {
       "bytes": 88442,
@@ -1430,8 +1434,8 @@
   "schema_version": 4,
   "sibling_repos": [
     {
-      "commit": "1aed34904558720abe88826c999eaf8ee1704d5c",
-      "committed_utc": "2025-04-20T05:15:39Z",
+      "commit": "c418fefa5f29647e7265c624111a35371a9c8f43",
+      "committed_utc": "2026-09-10T22:02:08-07:00",
       "dirty": false,
       "present": true,
       "repo": "local_elections_bihar",
@@ -1485,8 +1489,8 @@
     }
   ],
   "totals": {
-    "candidate_rows": 1202319,
-    "master_rows": 992541,
+    "candidate_rows": 1268749,
+    "master_rows": 1000608,
     "master_states": 15,
     "parsed_rows": 238091,
     "supplemental_rows": 13473
