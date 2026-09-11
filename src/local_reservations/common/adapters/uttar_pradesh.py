@@ -1,6 +1,6 @@
 """Uttar Pradesh, from local_elections_up.
 
-Gram panchayat heads for three cycles - 2005, 2010 and 2021 - and the only
+Gram panchayat heads for four cycles - 2005, 2010, 2015 and 2021 - and the only
 sibling whose rows can claim page-level provenance: the 2010 parse kept both
 `original_filename` and `page`, so a row points at the sheet it was read from.
 2005 kept the page but not the file, so it is `document`.
@@ -31,6 +31,10 @@ unjoinable to the same panchayat printed without one in 2005 and 2010.
 """
 
 import csv
+import gzip
+import hashlib
+import io
+import json
 import pathlib
 import re
 
@@ -44,13 +48,22 @@ STATE = "Uttar Pradesh"
 SEAT_FILES = {
     "2005": "data/up_gp_sarpanch_2005_fixed.csv",
     "2010": "data/up_gp_sarpanch_2010_fixed.csv",
+    "2015": "data/fin/up_gp_sarpanch_2015_fixed_with_transliteration.parquet",
 }
-CANDIDATE_FILE = ("2021", "data/up_gram_panchayat_pradhan_2021.csv")
+CANDIDATE_FILE = (
+    "2021",
+    "data/raw/2021/gram_panchayat_pradhan_candidates.csv.gz",
+)
 
-DECLARED = {"2005": 51872, "2010": 51861, "2021": 373096}
+DECLARED = {"2005": 51872, "2010": 51861, "2015": 59019, "2021": 373096}
 
-# 2021 collapses; the other two are already seats.
-SEATS = {"2005": 51872, "2010": 51861, "2021": 49772}
+SOURCE_SHA256 = {
+    "2015": "2e7cde2ad328d9a7f7d8ad078295e47ef274f48f22b0272a6aaf10ed00cf9b45",
+    "2021": "8a7075bee6b59ebd0fc26c0630de2aadad1aec9edfdea34390661c754967c179",
+}
+
+# 2021 collapses; the other three are already seat-level records.
+SEATS = {"2005": 51872, "2010": 51861, "2015": 59019, "2021": 49772}
 
 WINNER, RUNNER_UP = "विजेता", "उपविजेता"
 
@@ -73,7 +86,12 @@ def slices(root):
         rows = read(root / relative, year, DECLARED[year])
         if rows is None:
             continue
-        seats = [seat_row(r, year, relative) for r in rows]
+        convert = seat_row_2015 if year == "2015" else seat_row
+        seats = [convert(r, year, relative) for r in rows]
+        for seat, source in zip(seats, rows, strict=True):
+            seat["source_row_number"] = source["source_row_number"]
+            if year in SOURCE_SHA256:
+                seat["source_sha256"] = SOURCE_SHA256[year]
         check(year, len(seats), SEATS[year], "seats")
         yield {
             "dataset_id": f"uttar_pradesh/gp_head/{year}",
@@ -81,7 +99,13 @@ def slices(root):
             "rows": seats,
             # 2010 kept the file and the page it was read from; 2005 kept only
             # the page, so it can be traced to a document and no further
-            "provenance_level": "page" if year == "2010" else "document",
+            "provenance_level": (
+                "page"
+                if year == "2010"
+                else "document"
+                if year == "2005"
+                else "dataset"
+            ),
             "unit_of_observation": "seat",
         }
 
@@ -99,6 +123,15 @@ def slices(root):
     )
     check(year, len(seats), SEATS[year], "seats")
     for seat in seats:
+        seat["source_sha256"] = SOURCE_SHA256[year]
+        marked = [r for r in seat["seat_members"] if r.get("result") == WINNER]
+        if len(marked) > 1:
+            seat["winner_markers_conflict"] = 1
+            seat["winner_marked_candidate_ids"] = json.dumps(
+                [r.get("candidate_no", "") for r in marked]
+            )
+            for member in seat["seat_members"]:
+                member["elected"] = ""
         for row in [seat] + seat["seat_members"]:
             row.pop("_key", None)
     yield {
@@ -113,9 +146,22 @@ def slices(root):
 
 def read(path, year, expected):
     if not path.exists():
-        return None
-    with path.open(encoding="utf-8", errors="replace") as fh:
-        rows = list(csv.DictReader(fh))
+        raise FileNotFoundError(f"Required UP release input for {year}: {path}")
+    payload = path.read_bytes()
+    expected_sha = SOURCE_SHA256.get(year)
+    if expected_sha and hashlib.sha256(payload).hexdigest() != expected_sha:
+        raise SystemExit(f"{REPO}: {year} published input hash changed: {path}")
+    if path.suffix == ".parquet":
+        import pyarrow.parquet as pq
+
+        rows = pq.read_table(io.BytesIO(payload)).to_pylist()
+    else:
+        if path.suffix == ".gz":
+            payload = gzip.decompress(payload)
+        with io.StringIO(payload.decode("utf-8", errors="replace"), newline=None) as fh:
+            rows = list(csv.DictReader(fh))
+    for number, row in enumerate(rows, 1):
+        row["source_row_number"] = str(number)
     check(year, len(rows), expected, "records")
     return rows
 
@@ -126,6 +172,46 @@ def check(year, got, expected, what):
             f"{REPO}: {year} holds {got:,} {what}, {expected:,} "
             f"declared - the sibling changed"
         )
+
+
+def seat_row_2015(row, year, relative):
+    """Published seat results; contested/unopposed is not a winner filter."""
+    raw = row.get("gp_reservation_status") or ""
+    caste = normalize.caste_of(raw)
+    woman = None if caste is None else normalize.woman_of(raw)
+    winner = (row.get("elected_sarpanch_name") or "").strip()
+    return {
+        "state": STATE,
+        "year": year,
+        "tier": "gp_head",
+        "tier_local": "pradhan",
+        "district": (row.get("district_name") or "").strip(),
+        "block": (row.get("block_name") or "").strip(),
+        "gp_no": str(row.get("gp_num") or "").strip(),
+        "gram_panchayat": (row.get("gp_name") or "").strip(),
+        "caste_reservation": caste or "",
+        "caste_reservation_local": raw,
+        "woman_reserved": "" if caste is None else int(woman == 1),
+        "gender_stated": "0" if caste is None else "1",
+        "reservation": label(caste, woman == 1) if caste else "",
+        "reservation_raw": raw,
+        "winner": winner,
+        "winner_basis": "published" if winner else "",
+        "winner_caste": row.get("candidate_reservation_status") or "",
+        "winner_gender": row.get("sex") or "",
+        "winner_education": row.get("educational_qualification") or "",
+        "relation_name": row.get("father_husband") or "",
+        "votes": collapse.votes_of(row.get("valid_votes_received")),
+        "vote_percentage": row.get("votes_received_percent") or "",
+        "poll_percentage": row.get("voting_percent") or "",
+        "unopposed": {"निर्विरोध": 1, "सविरोध": 0}.get(row.get("result"), ""),
+        "result_remark": row.get("result") or "",
+        "script": normalize.script_of(
+            winner, row.get("district_name"), row.get("block_name"), row.get("gp_name")
+        ),
+        "source_path": relative,
+        "source_page": "",
+    }
 
 
 def seat_row(row, year, relative):
@@ -230,6 +316,8 @@ def candidate_row(row, year, relative):
         "source_page": "",
         # the long form
         "candidate_name": (row.get("candidate_name_2021") or "").strip(),
+        "candidate_no": (row.get("id") or "").strip(),
+        "source_row_number": row.get("source_row_number", ""),
         "relation_name": (row.get("father_husband_name_2021") or "").strip(),
         "candidate_gender": (row.get("gender_2021") or "").strip(),
         "candidate_woman": WOMAN.get((row.get("gender_2021") or "").strip(), ""),
