@@ -61,7 +61,16 @@ jobs:
           uv venv /tmp/wheel-test
           uv pip install --python /tmp/wheel-test/bin/python dist/*.whl
           cd /tmp
-          /tmp/wheel-test/bin/python -P -c 'import local_reservations'
+          LOCAL_RESERVATIONS_ROOT="$GITHUB_WORKSPACE" /tmp/wheel-test/bin/python -P - <<'PY'
+          import os
+          from pathlib import Path
+          from local_reservations.common import datasets
+          from local_reservations.paths import ROOT
+
+          assert "site-packages" in datasets.__file__
+          assert ROOT == Path(os.environ["LOCAL_RESERVATIONS_ROOT"]).resolve()
+          assert datasets.state_directories()
+          PY
 
   workflow-security:
     runs-on: ubuntu-latest

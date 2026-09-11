@@ -184,6 +184,20 @@ seats. The state readme linked in `Where` gives the file-level inventory.
 
 <!-- coverage:end -->
 
+### Installed-wheel data location
+
+The wheel contains code, not the corpus. Point `LOCAL_RESERVATIONS_ROOT` at a
+separate checkout when running data utilities from a standalone installation:
+
+```sh
+LOCAL_RESERVATIONS_ROOT=/path/to/local_reservations verify-manifest
+```
+
+The selected directory must contain this project's `pyproject.toml` and `data/`.
+An invalid setting raises an error rather than silently selecting another
+repository. Editable installations still discover their own checkout without
+this setting.
+
 
 ### Other Sources
 

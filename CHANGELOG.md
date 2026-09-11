@@ -7,6 +7,28 @@ is worse than one that does not change at all.
 Corrections are listed first in each release, not last. The most useful thing
 here is usually the thing that was wrong.
 
+## v0.5.1 - 2026-09-10
+
+### Corrected
+
+- UP's pooled adapter now includes the missing 59,019 GP-head records from 2015.
+  Each record retains its source-file SHA-256 and one-based source-row locator.
+  UP has 212,524 seat records across four election years; the pooled total is
+  1,051,560. This does not add new states or establish complete UP coverage.
+- One 2021 UP contest has two publisher-marked winners. The winner remains
+  unknown, all 25 candidates are retained, and their elected indicators are null.
+  The conflict flag and marked publisher IDs make the ambiguity explicit.
+- The candidate table retains publisher candidate IDs instead of replacing them
+  with within-contest positions. UP still has 373,096 candidate records.
+
+### Source stewardship
+
+- State repositories own state-specific evidence and parsers; the central
+  repository consumes pinned outputs. The UP discovery archive preserves source
+  bytes and acquisition receipts outside ordinary Git storage, with compact
+  catalogs and member hashes retained in the state repository.
+- Unfinished Haryana OCR and the experimental Sitapur parser are excluded.
+
 ## v0.5.0 — 2026-09-08
 
 ### Corrected

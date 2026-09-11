@@ -138,6 +138,10 @@ than a defect.
 | `serial_not_unique` | integer | info | range 0–1 | One serial number carrying two different candidates. Not resolvable from the file, so both are kept. |
 | `winner_candidate_ambiguous` | integer | info | range 0–1 | More than one candidate in the contest has the published winner's exact normalized name, so the seat winner is known but the winning candidate serial is not. |
 | `shared_place_name` | integer | info | range 0–1 | Two places in one block printed under one name, told apart only by being reserved differently. |
+| `source_row_number` | integer | info | range 1–100000000 | One-based record ordinal in source_path, excluding a CSV header. This is not a PDF page number or a geographic identifier. |
+| `source_sha256` | string | info | length 64–64 | SHA-256 of the pinned input bytes identified by source_path. |
+| `winner_markers_conflict` | boolean | info | — | Multiple candidates under one source seat key are marked as winners. No winner is selected and elected remains unknown. |
+| `winner_marked_candidate_ids` | string | info | — | JSON array of publisher candidate IDs carrying conflicting winner markers. candidate_no retains these IDs in the long table. |
 
 ## Plausible row counts
 
