@@ -115,7 +115,7 @@ are still in the legacy font they were printed in.
 | Jammu & Kashmir | 2010 | `gp_ward` | 13,016 | 34% | 10 | — | no winner published | [data/jk/](data/jk/) |
 | Jammu & Kashmir | 2016 | `gp_head` | 1,763 | 35% | 10 | — | no winner published | [data/jk/](data/jk/) |
 | Jammu & Kashmir | 2016 | `gp_ward` | 12,300 | 34% | 10 | — | no winner published | [data/jk/](data/jk/) |
-| Jammu & Kashmir | 2018 | `gp_ward` | 1,432 | 82% | 12 | — | no winner published; **reserved seats only** — shares are a property of the document, not of the state | [data/jk/](data/jk/) |
+| Jammu & Kashmir | 2018 | `gp_ward` | 1,419 | 82% | 12 | — | no winner published; **reserved seats only** — shares are a property of the document, not of the state | [data/jk/](data/jk/) |
 | Jharkhand | 2015 | `block_member` | 5,132 | 52% | 24 | 95% of 5,423 seats | — | [data/jharkhand/](data/jharkhand/) |
 | Jharkhand | 2015 | `gp_head` | 3,972 | 52% | 24 | 91% of 4,345 gram panchayats | — | [data/jharkhand/](data/jharkhand/) |
 | Jharkhand | 2015 | `gp_ward` | 19,781 | 53% | 11 | — | partial: 11 of 24 districts | [data/jharkhand/](data/jharkhand/) |
@@ -165,7 +165,7 @@ seats. The state readme linked in `Where` gives the file-level inventory.
 | Gujarat | block_member, zp_member | 2020 | 1,178 | parsed | — | [data/gujarat/](data/gujarat/) |
 | Haryana | gp_head, gp_ward | 2016, 2022 | 135,073 | parsed | see sibling repository | [local_elections_haryana](https://github.com/in-rolls/local_elections_haryana) |
 | Himachal Pradesh | - | - | - | no parsed rows | 1 held scan needs a seat-level scope review and OCR | [data/himachal/](data/himachal/) - 1 scan |
-| Jammu & Kashmir | gp_head, gp_ward | 2010, 2016, 2018 | 28,511 | parsed | 2016 is parsed from all 25 held PDFs; 13 files from 2010 and 2018 produce no rows | [data/jk/](data/jk/) |
+| Jammu & Kashmir | gp_head, gp_ward | 2010, 2016, 2018 | 28,498 | parsed | 2016 is parsed from all 25 held PDFs; 13 files from 2010 and 2018 produce no rows | [data/jk/](data/jk/) |
 | Jharkhand | block_member, gp_head, gp_ward, zp_member | 2015 | 29,111 | parsed | GP-ward and ZP coverage reaches 11 of 24 districts; 29 rural and 3 municipal PDFs are not linked to parsed rows | [data/jharkhand/](data/jharkhand/) |
 | Karnataka | block_member, gp_head, zp_member | 1993, 2000, 2002, 2005, 2007, 2016 | 30,914 | parsed | 244 of 248 unlinked PDFs were reviewed as duplicate reservation statements or aggregate forms, not missing seats; 4 produce no rows | [data/karnataka/](data/karnataka/) |
 | Kerala | gp_ward, block_member, zp_member, ulb_ward | 2010, 2015, 2020 | 65,296 | parsed | see sibling repository | [local_elections_kerala](https://github.com/in-rolls/local_elections_kerala) |
