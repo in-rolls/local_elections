@@ -1,0 +1,28 @@
+{
+  "local_elections_up": {
+    "ref": "9f051cd607b9a42aa3afc498e57737200ef22024",
+    "files": {
+      "data/up_gp_sarpanch_2005_fixed.csv": "bb313b7ef074c550d40c89818351c7aeda47daceadcd3d9fd3048a667b426e90",
+      "data/up_gp_sarpanch_2010_fixed.csv": "7b98b1a5106cb055c43c4fcee7e7dbba41408a9cfa5a6c08abacfa8524e77b7d",
+      "data/fin/up_gp_sarpanch_2015_fixed_with_transliteration.parquet": "2e7cde2ad328d9a7f7d8ad078295e47ef274f48f22b0272a6aaf10ed00cf9b45",
+      "data/raw/2021/gram_panchayat_pradhan_candidates.csv.gz": "8a7075bee6b59ebd0fc26c0630de2aadad1aec9edfdea34390661c754967c179"
+    }
+  },
+  "local_elections_rajasthan": {
+    "ref": "b543c4759519dd44682fbd278d81bdccaa152e99",
+    "files": {
+      "data/fin/source_2005_std.parquet": "488ecf8e08225417e8f293f8edd596a57c2860439cd421a4ec82095e3b716d8d",
+      "data/fin/source_2010_std.parquet": "8e4e4780fc6379a8367031c223d3321843e6c3ee8d9cc40aa5b153e58128d1be",
+      "data/fin/source_2015_std.parquet": "077acbf06cc1c66cabd4a584414afa95e414b2c3de08e8d3f8f24b8a34518397",
+      "data/fin/source_2020_std.parquet": "ea0c2fca01cad3b599db29d11f637be7a0f1314d2a9c014638eefab5aefe81f6",
+      "data/ContestingSarpanch.csv.gz": "d0360d37c63c5f0984fd25e5695af9c7958797ff435da8d1a0aefae9d7dcc889",
+      "data/WinnerSarpanch.csv.gz": "34c6092ac0b2dc0d2bbfcf2e7b77f16cc1436aa8bf0144f163093e4e070a5aa2",
+      "data/WarnWinningPanch.csv.gz": "0d9d385b09cae7b27fec230dac801f7345d0781ec0456747d09daf0920b9a5f1",
+      "data/StatsNomination.csv.gz": "28919f7dd41a1709379713fd6549f34c02a48f346d6ec6ff928494364bf3084a",
+      "data/fin/panchayat_samiti_2005_std.parquet": "d9c43b56a0cc4cf90b4ecd27e4e8877972f1773047e1772ef81b0a26aa377bf4",
+      "data/fin/panchayat_samiti_2010_std.parquet": "4962f1596fa8b38a6565605d169c483db1ff0015619312de4c28d657c0ec0011",
+      "data/fin/zila_parishad_2005_std.parquet": "6b9d0357fa3e6c495816d0400cca2da4631e5143e9fce1772454de6fd640a705",
+      "data/fin/zila_parishad_2010_std.parquet": "ed8dab80debe95c46a4a96ed0a4d276ec938b087cad93f2536d4901608724d3f"
+    }
+  }
+}
