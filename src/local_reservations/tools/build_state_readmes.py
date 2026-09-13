@@ -693,17 +693,24 @@ def render_sibling(directory, state, years, tiers, url, standardized, remaining)
         f"readme](../../README.md) but has no rows here."
     )
     out.append("")
-    out.append(
-        f"What is in this directory is source material: {len(files)} "
-        f"{'file' if len(files) == 1 else 'files'}"
-        + (
-            f", {', '.join(f'{n} {k}' for k, n in kinds.most_common())}"
-            + (f", {pages:,} pages" if pages else "")
-            if kinds
-            else ""
+    if files:
+        out.append(
+            f"What is in this directory is source material: {len(files)} "
+            f"{'file' if len(files) == 1 else 'files'}"
+            + (
+                f", {', '.join(f'{n} {k}' for k, n in kinds.most_common())}"
+                + (f", {pages:,} pages" if pages else "")
+                if kinds
+                else ""
+            )
+            + "."
         )
-        + "."
-    )
+    else:
+        out.append(
+            "Source documents and historical tables are maintained in "
+            f"[{name}]({url}). "
+            "This directory keeps no duplicate inputs."
+        )
     out.append("")
     out.append(
         "The pooled adapter reads the sibling's declared parsed files into "

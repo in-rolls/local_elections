@@ -5,7 +5,15 @@ for India's local bodies. Coverage varies by state, year and tier; the tables
 below state those limits rather than implying nationwide completeness.
 
 For comparable rural data with one row per seat event, start with the generated
-**[pooled master guide](data/master/readme.md)**. State directories also retain
+**[pooled master guide](data/master/readme.md)**. UP and Rajasthan builds use the
+published commits and SHA256 checksums in
+[`data/sources.json`](data/sources.json). Inputs are shared through
+`INDIA_DATA_HOME` (default `~/data`), under `<provider>/<commit>/<relative path>`;
+matching sibling files can populate this cache. Cross-year GP links are produced
+in the state repositories. This pooled table combines election events across
+states; it does not rematch GPs across years.
+
+State directories also retain
 source-specific fields and urban rows that do not enter the rural master.
 
 See **[SOURCES.md](SOURCES.md)** for a state-by-state feasibility survey: where
