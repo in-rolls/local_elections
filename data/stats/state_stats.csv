@@ -5,7 +5,7 @@ Bihar,6,219117,2016,"block_member,gp_head,gp_ward,kachahari_head,kachahari_membe
 Goa,3,2948,"2012,2017,2022",gp_ward,0.3277,sc_st_bc
 Gujarat,2,1178,2020,"block_member,zp_member",0.5,sc_st_bc
 Haryana,4,135073,"2016,2022","gp_head,gp_ward",0.4192,sc_st_bca_only
-Jammu & Kashmir,4,28511,"2010,2016,2018","gp_head,gp_ward",0.3653,sc_st_only
+Jammu & Kashmir,4,28498,"2010,2016,2018","gp_head,gp_ward",0.365,sc_st_only
 Jharkhand,4,29111,2015,"block_member,gp_head,gp_ward,zp_member",0.5253,sc_st_bc
 Karnataka,7,30914,"1993,2000,2002,2005,2007,2016","block_member,gp_head,zp_member",0.3614,sc_st_bca_bcb
 Kerala,9,55725,"2010,2015,2020","block_member,gp_ward,zp_member",0.5159,sc_st_only

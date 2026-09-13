@@ -42,7 +42,7 @@ we get it" but "what is in it".
 | **Jharkhand** | 108 | 28 | 0 | 8 | 4,970 | **2015 mukhiya (GP head) reservation by district; 2022 Form-23 ZP members** |
 | West Bengal | 279 | 285 | 0 | 4 | 4,149 | 2018 ZP gazettes parsed with drafts separate; named Birbhum 1998/2003 research reservations and 2013/2018/2023 office schedules parsed; ward, results and reference outputs retain review flags; [reservation gaps](data/wb/vintage_search/README.md); [GP source search](data/wb/gp_source_search.md), [derived GP data and review](data/wb/derived/README.md) |
 | **Karnataka** | 236 | 202 | 0 | 2 | 1,552 | **2016 taluk & zilla panchayat winners with party**; plus `Karnataka_GP_ReservationHistory.dta`. 244 of the documents are deliberately unread - see data/karnataka/readme.md |
-| **Jammu & Kashmir** | 105 | 8 | 0 | 0 | 1,488 | **2010/2016/2018 block-wise, panch-ward reservation with SC/ST/OC population** |
+| **Jammu & Kashmir** | 104 | 8 | 0 | 0 | 1,469 | **2010/2016/2018 block-wise, panch-ward reservation with SC/ST/OC population** |
 | **Andhra Pradesh** | 15 | 17 | 0 | 13 | 1,243 | **2020 district gazettes: GP, MPTC, ZPTC, MPP reservation** |
 | Assam | 1 | 31 | 0 | 0 | 1,026 | 2020 municipal reservation parsed; all 27 district PRI notifications for 2025 acquired; 4 district notifications parsed |
 | Chandigarh, Puducherry, Delhi | 7 | 2 | 0 | 0 | 707 | mostly urban local bodies |

@@ -1,5 +1,5 @@
 {
-  "built_from_commit": "89a922a8996aa36ac86ef16413678f34f15d1eae",
+  "built_from_commit": "f9f6d5f7a7ba559b1c0a0ad6b1cac54a5238658c",
   "candidate_columns": [
     "dataset_id",
     "candidate_id",
@@ -43,7 +43,7 @@
     "source_path",
     "source_page"
   ],
-  "committed_utc": "2026-09-10T22:19:23-07:00",
+  "committed_utc": "2026-09-13T15:30:21-07:00",
   "dirty": false,
   "files": [
     {
@@ -377,7 +377,7 @@
       ]
     },
     {
-      "bytes": 842413,
+      "bytes": 842112,
       "dataset_ids": [
         "jammu_and_kashmir/gp_head/2016",
         "jammu_and_kashmir/gp_ward/2010",
@@ -393,9 +393,9 @@
       "provenance_level": [
         "page"
       ],
-      "rows": 28511,
-      "rows_identifying_a_distinct_seat": 28497,
-      "sha256": "ef95481eb6d5a9e14a1a3906443bc1fdde226155d8c1fe00b370627e9c6cd754",
+      "rows": 28498,
+      "rows_identifying_a_distinct_seat": 28484,
+      "sha256": "bb768ac66002bb8c250d8b1793c683da27b12c6cd671fb52c01af3b172fe2ddd",
       "states": [
         "Jammu & Kashmir"
       ],
@@ -1166,14 +1166,14 @@
       ]
     },
     {
-      "bytes": 250808,
+      "bytes": 248271,
       "kind": "parsed",
       "listing_scopes": [
         "reserved_only"
       ],
       "path": "data/jk/ward_reservation_2018.csv",
-      "rows": 1432,
-      "sha256": "3f1efd4a56bf86611e26c78ddbf779325bce59666ca89901e3e81bd61223fc4c",
+      "rows": 1419,
+      "sha256": "a7c9e2afc387f548dfc22b6a8cefce5482663bf912dcd06110ae880cc648b7d9",
       "states": [
         "Jammu & Kashmir"
       ],
@@ -1432,7 +1432,7 @@
     "provenance_level",
     "quality_flags"
   ],
-  "release": "v0.5.1",
+  "release": "",
   "schema_version": 4,
   "sibling_repos": [
     {
@@ -1492,9 +1492,9 @@
   ],
   "totals": {
     "candidate_rows": 1268749,
-    "master_rows": 1059627,
+    "master_rows": 1059614,
     "master_states": 15,
-    "parsed_rows": 238091,
+    "parsed_rows": 238078,
     "supplemental_rows": 13473
   },
   "written_by": "pyarrow 23.0.1"
