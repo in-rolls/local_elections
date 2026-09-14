@@ -59,7 +59,7 @@ test = ["pytest", { include-group = "table-ocr" }]
 # Reading the scans. Apple Silicon only; Savitr's MLX runtime has no CPU
 # fallback. Kept separate so parser-only work does not install the model stack.
 ocr = ["savitr==0.3.0"]
-table-ocr = ["opencv-python==5.0.0.93", "numpy==2.5.2", "pillow==12.3.0"]
+table-ocr = ["opencv-python==5.0.0.93", "numpy==2.5.3", "pillow==12.3.0"]
 
 # Console scripts, so the Makefile and anyone else name a command rather than a
 # file path. verify-manifest is deliberately also runnable as a bare file: it
