@@ -68,7 +68,8 @@ only and imports nothing else here, so it works from a bare checkout or an
 unpacked tarball.
 
 **[SOURCE_MANIFEST.json](SOURCE_MANIFEST.json)** separately inventories WB,
-Tamil Nadu and the early-source search evidence, including original documents,
+Tamil Nadu, the national and early-source searches, and the pinned historical
+Haryana build input, including original documents,
 OCR readings and review images. Its archive map preserves files too large for
 ordinary Git storage. After downloading source-evidence assets, verify every
 archive member with `python3 src/local_reservations/tools/verify_manifest.py
