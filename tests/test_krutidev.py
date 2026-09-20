@@ -90,6 +90,20 @@ def test_longest_match_wins():
     assert krutidev.to_unicode("/k") == "ध"
 
 
+@pytest.mark.parametrize(
+    ("raw", "expected"),
+    [
+        pytest.param('lq"kek', "सुषमा", id="up-2005-page-1-row-32"),
+        pytest.param('lq"ek', "सुष्मा", id="up-2005-page-734-row-16"),
+        pytest.param("d'ehjh", "कश्मीरी", id="up-2005-page-12-row-18"),
+        pytest.param("d'kehjh", "कशमीरी", id="up-2005-page-41-row-31"),
+    ],
+)
+def test_half_consonants_preserve_source_name_distinctions(raw, expected):
+    """Preserve the four visually reviewed readings in UP's 2005 mem_kp.pdf."""
+    assert krutidev.to_unicode(raw) == expected
+
+
 def test_already_converted_text_is_recognised():
     assert krutidev.looks_converted("धनबाद")
     assert not krutidev.looks_converted("/kuckn")

@@ -84,8 +84,8 @@ MAP = {
     "o": "व",
     "l": "स",
     "g": "ह",
-    "'": "श",
-    '"': "ष",
+    "'": "श्",
+    '"': "ष्",
     "\\": "ॉ",
     # Half consonants. Kruti Dev puts them on the shifted keys, so a capital is
     # usually a consonant with its halant already attached - "L" is स्, not स.
