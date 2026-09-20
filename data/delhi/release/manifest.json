@@ -1,0 +1,14 @@
+[
+  {
+    "path": "winner_source_audit.parquet",
+    "sha256": "2317d77103537a772d3cafeb82749c321c29149dfe599c394774b64aee9fc8aa",
+    "rows": 794,
+    "bytes": 115992
+  },
+  {
+    "path": "winners.parquet",
+    "sha256": "e975369320e2cdf4dc4ed20c37d49e787d153577678904ec01e92749b373ebf9",
+    "rows": 794,
+    "bytes": 95186
+  }
+]
