@@ -7,7 +7,7 @@ is worse than one that does not change at all.
 Corrections are listed first in each release, not last. The most useful thing
 here is usually the thing that was wrong.
 
-## Unreleased
+## v0.6.0 — release candidate
 
 ### Corrected
 
@@ -29,6 +29,8 @@ here is usually the thing that was wrong.
   letters. सुषमा and सुष्मा are different names, and so are कश्मीरी and कशमीरी.
 
 ### Added
+
+- UP inputs now come from its v2 release, with the exact state manifest and file hashes pinned. The separate office observations retain their provisional status and are not added to pooled seat counts.
 
 - **Bihar 2021 enters as all six offices with the reservations it states**:
   247,671 seats, 924,708 candidates and 244,475 winners, against 8,067 mukhiya
@@ -59,7 +61,9 @@ here is usually the thing that was wrong.
   exactly one code carries results and the other answers "Record not Found".
   Both rows are kept, flagged, and recorded in the collision ledger.
 
-## v0.5.1 - 2026-09-10
+## v0.5.1 preparation — unpublished, included in v0.6.0
+
+These notes record the September 10 preparation; its pooled total predates the Bihar additions above.
 
 ### Corrected
 
