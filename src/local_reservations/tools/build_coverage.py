@@ -66,10 +66,12 @@ SIBLINGS = {
     },
     "Bihar": {
         "repo": "local_elections_bihar",
-        "years": "2016",
+        "years": "2016, 2021",
         "tiers": "gp_head, gp_ward, block_member, zp_member, kachahari_head, kachahari_member",  # noqa: E501
+        "remaining": "2021 mukhiya education and dated reservation linkage incomplete",
         "files": [
             "data/mukhiya.csv",
+            "data/release/2021/gp_head_candidates_2021.parquet",
             "data/ward_member.csv",
             "data/sarpanch.csv",
             "data/panch.csv",
@@ -88,10 +90,10 @@ SIBLINGS = {
         "years": "2005, 2010, 2015, 2021",
         "tiers": "gp_head",
         "files": [
-            "data/fin/up_gp_sarpanch_2005_fixed_with_transliteration.parquet",
-            "data/fin/up_gp_sarpanch_2010_fixed_with_transliteration.parquet",
-            "data/fin/up_gp_sarpanch_2015_fixed_with_transliteration.parquet",
-            "data/fin/up_gp_sarpanch_2021_fixed_with_transliteration.parquet",
+            "data/release/gp/gp_head_winner_records_2005.parquet",
+            "data/release/gp/gp_head_winner_records_2010.parquet",
+            "data/release/gp/gp_head_winner_records_2015.parquet",
+            "data/release/gp/gp_head_candidates_2021.parquet",
         ],
     },
     "Uttarakhand": {
