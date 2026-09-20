@@ -1039,6 +1039,22 @@ Uttar Pradesh,2010,gp_head,reservation_constant_within_seat,internal,skip,,,"the
 Uttar Pradesh,2010,gp_head,plausible_vs_registry,external,pass,88%,,"51,861 against 58,757 in the register (2019-20)"
 Uttar Pradesh,2010,gp_head,year_constant,internal,pass,2010,2010,
 Uttar Pradesh,2010,gp_head,provenance_resolves,internal,pass,0,0,1 documents
+Uttar Pradesh,2015,gp_head,rows_in_band,declared,pass,59019,45000..60000,
+Uttar Pradesh,2015,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
+Uttar Pradesh,2015,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Uttar Pradesh,2015,gp_head,coverage_vs_published,external,skip,59019,,no published total for this slice
+Uttar Pradesh,2015,gp_head,women_share_vs_statute,external,pass,33.8%,floor 33%,
+Uttar Pradesh,2015,gp_head,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Uttar Pradesh,2015,gp_head,caste_share_vs_population,external,skip,0,,no population columns in this source
+Uttar Pradesh,2015,gp_head,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Uttar Pradesh,2015,gp_head,winner_caste_is_not_the_seats,internal,pass,"49,611/59,019 agree (84%)",under 99%,the winner's own category and the seat's reservation are different facts; identical columns mean one was copied
+Uttar Pradesh,2015,gp_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Uttar Pradesh,2015,gp_head,seat_key_unique,internal,pass,0,0,
+Uttar Pradesh,2015,gp_head,tier_local_maps_to_one_tier,internal,pass,pradhan,gp_head,
+Uttar Pradesh,2015,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Uttar Pradesh,2015,gp_head,plausible_vs_registry,external,warn,100%,<=100%,"59,019 against 58,757 in the register (2019-20) - above the register, which is either growth since it was compiled or rows that are not distinct bodies"
+Uttar Pradesh,2015,gp_head,year_constant,internal,pass,2015,2015,
+Uttar Pradesh,2015,gp_head,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
 Uttar Pradesh,2021,gp_head,rows_in_band,declared,pass,49772,45000..60000,
 Uttar Pradesh,2021,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Uttar Pradesh,2021,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance

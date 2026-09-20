@@ -34,7 +34,8 @@ REQUIRED = {"state", "year", "tier", "reservation", "caste_reservation"}
 # a name to its Latin reading, keyed on the name rather than on any row, so it
 # has no state, year or tier and never will.
 # source_search holds cross-state acquisition evidence, not a state dataset.
-DERIVED = {"master", "stats", "transliteration", "source_search"}
+# integration holds sibling-input receipts, not another state parse.
+DERIVED = {"master", "stats", "transliteration", "source_search", "integration"}
 
 
 def state_directories(exclude=DERIVED):

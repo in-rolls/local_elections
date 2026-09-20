@@ -11,6 +11,6 @@ Karnataka,7,30914,"1993,2000,2002,2005,2007,2016","block_member,gp_head,zp_membe
 Kerala,9,55725,"2010,2015,2020","block_member,gp_ward,zp_member",0.5159,sc_st_only
 Rajasthan,13,162502,"2005,2010,2015,2020,2021,2022","block_member,gp_head,gp_ward,zp_member",0.4385,sc_st_obc
 Telangana,2,61841,2019,"gp_head,gp_ward",0.5088,sc_st_bc
-Uttar Pradesh,3,153505,"2005,2010,2021",gp_head,0.3743,sc_st_obc
+Uttar Pradesh,4,212524,"2005,2010,2015,2021",gp_head,0.3641,sc_st_obc
 Uttarakhand,15,29592,"2008,2010,2014,2015,2019","block_member,gp_head,zp_member",0.4995,sc_st_obc
 West Bengal,1,825,2018,zp_member,0.4945,sc_st_bc

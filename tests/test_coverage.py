@@ -9,12 +9,30 @@ from local_reservations.tools import build_coverage, build_sources, build_state_
 
 
 def test_cross_state_search_is_not_a_state(tmp_path, monkeypatch):
-    for name in ["source_search", "tn", "tamil_nadu", "master"]:
+    for name in ["source_search", "integration", "tn", "tamil_nadu", "master"]:
         (tmp_path / name).mkdir()
     monkeypatch.setattr(datasets, "DATA", tmp_path)
     assert {path.name for path in datasets.state_directories()} == {"tn", "tamil_nadu"}
     assert build_coverage.pretty("tn") == build_coverage.pretty("tamil_nadu")
     assert build_coverage.pretty("tn") == "Tamil Nadu"
+
+
+def test_integration_receipts_are_excluded_without_hiding_unknown_states(
+    tmp_path, monkeypatch
+):
+    for name in ["integration", "ap", "unknown_state"]:
+        (tmp_path / name).mkdir()
+    contents = (
+        "state,year,tier,reservation,caste_reservation\n"
+        "Andhra Pradesh,2020,gp_head,General,NONE\n"
+    )
+    source = tmp_path / "ap/seats.csv"
+    source.write_text(contents)
+    (tmp_path / "integration/receipt.csv").write_text(contents)
+    monkeypatch.setattr(datasets, "DATA", tmp_path)
+    monkeypatch.setattr(build_coverage, "DATA", tmp_path)
+    assert list(datasets.paths()) == [source]
+    assert build_coverage.unmapped_directories() == ["unknown_state"]
 
 
 def test_nested_tn_exports_have_separate_coverage_without_pooled_rows(
@@ -39,7 +57,8 @@ def test_state_readme_dispatch_preserves_nested_tn_guide(tmp_path, monkeypatch):
     guide = tmp_path / "tn/derived/heads_2011/README.md"
     guide.parent.mkdir(parents=True)
     guide.write_text("source-specific guide\n")
-    (tmp_path / "source_search").mkdir()
+    for name in ["source_search", "integration"]:
+        (tmp_path / name).mkdir()
     monkeypatch.setattr(build_state_readmes, "DATA", tmp_path)
     monkeypatch.setattr(build_state_readmes, "slices_by_directory", dict)
     monkeypatch.setattr(build_state_readmes, "render_tn", lambda: "overview\n")
