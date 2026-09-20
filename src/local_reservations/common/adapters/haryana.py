@@ -143,7 +143,12 @@ def convert(row, year, tier, tier_local, path, root):
         "script": "devanagari"
         if row.get("script") == "krutidev"
         else row.get("script", "latin"),
-        "printings_agree": row.get("printings_agree", ""),
+        # The sibling compares the two GP-head reservation printings, keyed by
+        # PDF and GP serial, then carries that comparison onto every row for the
+        # GP. It is evidence about the head reservation, not each ward seat.
+        # Passing it through on ward rows produced 1,392 false ward-level
+        # `printings_disagree` flags in the pooled master.
+        "printings_agree": row.get("printings_agree", "") if tier == "gp_head" else "",
         "source_path": str(
             (path.parent / "pdfs" / row.get("source_pdf", "")).relative_to(root)
         ),
