@@ -80,30 +80,22 @@ jobs:
       - uses: astral-sh/setup-uv@bec219d24cd3e171d82865faccec33120bb574f4 # v10.1.0
       - run: uvx zizmor --min-severity high .github/workflows/
 
-  dependency-review:
-    if: github.event_name == 'pull_request'
+  dependency-audit:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - uses: actions/dependency-review-action@a1d282b36b6f3519aa1f3fc636f609c47dddb294 # v5.0.0
-        with:
-          fail-on-severity: high
-          comment-summary-in-pr: never
+      - uses: astral-sh/setup-uv@bec219d24cd3e171d82865faccec33120bb574f4 # v10.1.0
+      - run: make audit
 
   gate:
     if: always()
-    needs: [lint, test, wheel, workflow-security, dependency-review]
+    needs: [lint, test, wheel, workflow-security, dependency-audit]
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
       - name: Assert all required jobs succeeded
         env:
           RESULTS: ${{ toJSON(needs) }}
-          EVENT_NAME: ${{ github.event_name }}
         run: |
-          printf '%s\n' "$RESULTS" | jq -e --arg event "$EVENT_NAME" '
-            to_entries | all(
-              .value.result == "success" or
-              (.key == "dependency-review" and $event != "pull_request" and .value.result == "skipped")
-            )'
+          printf '%s\n' "$RESULTS" | jq -e 'to_entries | all(.value.result == "success")'
