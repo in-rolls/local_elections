@@ -6,13 +6,41 @@ asserting on the configuration object only proves it was typed correctly.
 """
 
 import http.server
+import json
 import threading
 import time
+from pathlib import Path
 
 import pytest
 import requests
 
 from local_reservations.common import fetch
+from local_reservations.tools import historical_harvest
+
+
+def test_historical_download_pool_shares_limits_and_reuses_receipts(tmp_path):
+    body = (
+        Path(__file__).parent / "fixtures/haryana_historical/assandh_ps.pdf"
+    ).read_bytes()
+    with Server([(200, {"Content-Type": "application/pdf"}, body)]) as server:
+        seeds = [
+            {"url": f"{server.url}/{index}.pdf", "family": "block_member"}
+            for index in range(3)
+        ]
+        seeds.append(seeds[0])
+        historical_harvest.harvest(seeds, tmp_path, depth=0, workers=3)
+        assert len(server.seen) == 3
+        assert server.seen[-1] - server.seen[0] >= 1.8
+        receipts = [
+            json.loads(line)
+            for line in (tmp_path / "requests.jsonl").read_text().splitlines()
+        ]
+        assert len(receipts) == 3
+        assert all(r["status"] == "ok_pdf" and r["pages"] == 1 for r in receipts)
+        assert all((tmp_path / r["path"]).read_bytes() == body for r in receipts)
+        historical_harvest.harvest(seeds, tmp_path, depth=0, workers=3)
+        assert len(server.seen) == 3
+        assert len((tmp_path / "requests.jsonl").read_text().splitlines()) == 3
 
 
 class Server:

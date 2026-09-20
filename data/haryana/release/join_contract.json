@@ -1,0 +1,20 @@
+{
+  "cardinality": "no join performed",
+  "historical_append_forbidden": true,
+  "left": "modern_seats.parquet",
+  "left_key": [
+    "year",
+    "tier",
+    "district",
+    "block",
+    "source_path",
+    "source_notification_raw",
+    "source_gp_serial_raw",
+    "source_gram_panchayat_raw",
+    "source_ward_raw"
+  ],
+  "left_key_unique": true,
+  "left_rows": 133871,
+  "reason": "Historical rows are source occurrences, not the modern unique-seat unit.",
+  "right": null
+}

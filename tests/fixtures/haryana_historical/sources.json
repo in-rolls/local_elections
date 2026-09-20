@@ -1,0 +1,67 @@
+[
+  {
+    "url": "https://web.archive.org/web/20090410050827id_/http://secharyana.nic.in/html/PCRESULTPDF/ASSANDH.pdf",
+    "retrieved_utc": "2026-09-09T04:23:21.516698+00:00",
+    "final_url": "https://web.archive.org/web/20090410050827id_/http://secharyana.nic.in/html/PCRESULTPDF/ASSANDH.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "raw/f8f291d9b28cc65d72eb.pdf",
+    "bytes": 93287,
+    "sha256": "158d4545fefec3557c5fa5d608284a13f430c07c70ce82fef0d84ded8e737f73",
+    "status": "ok_pdf",
+    "pages": 13,
+    "fixture": "assandh_gp.pdf"
+  },
+  {
+    "url": "https://web.archive.org/web/20090410053648id_/http://secharyana.nic.in/html/PSRESULTPDF/ASSANDH.pdf",
+    "retrieved_utc": "2026-09-09T04:23:27.269853+00:00",
+    "final_url": "https://web.archive.org/web/20090410053648id_/http://secharyana.nic.in/html/PSRESULTPDF/ASSANDH.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "raw/4244379cab63a7705b94.pdf",
+    "bytes": 53563,
+    "sha256": "7a1db4ebb9c4db9e170737f8d00ee6cbe3ec7c3f8ce5c424e346a82ec8e9782a",
+    "status": "ok_pdf",
+    "pages": 1,
+    "fixture": "assandh_ps.pdf"
+  },
+  {
+    "url": "https://web.archive.org/web/20090410052043id_/http://secharyana.nic.in/html/PCRESULTPDF/SAMALKHA.pdf",
+    "retrieved_utc": "2026-09-09T04:28:42.530905+00:00",
+    "final_url": "https://web.archive.org/web/20090410052043id_/http://secharyana.nic.in/html/PCRESULTPDF/SAMALKHA.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "raw/b72f4da7e63085f11a98.pdf",
+    "bytes": 100529,
+    "sha256": "202d55b1f43e99206cf9582cffa89850b70eaa9102706b8f5218613592c3d53e",
+    "status": "ok_pdf",
+    "pages": 16,
+    "fixture": "samalkha_gp.pdf"
+  },
+  {
+    "url": "https://web.archive.org/web/20090410050749id_/http://secharyana.nic.in/html/PCRESULTPDF/BADHRA.pdf",
+    "retrieved_utc": "2026-09-09T04:26:53.124832+00:00",
+    "final_url": "https://web.archive.org/web/20090410050749id_/http://secharyana.nic.in/html/PCRESULTPDF/BADHRA.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "raw/10ee8c0b7e57da6a0837.pdf",
+    "bytes": 93783,
+    "sha256": "01da1fba21c00b15dade9f0da32b2d0841c0728d611d6758b2d9fce282f4e6f6",
+    "status": "ok_pdf",
+    "pages": 14,
+    "fixture": "badhra_gp.pdf"
+  },
+  {
+    "url": "https://web.archive.org/web/20090410051609id_/http://secharyana.nic.in/html/PCRESULTPDF/RAIPURRANI.pdf",
+    "retrieved_utc": "2026-09-09T04:28:31.216422+00:00",
+    "final_url": "https://web.archive.org/web/20090410051609id_/http://secharyana.nic.in/html/PCRESULTPDF/RAIPURRANI.pdf",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "raw/de7d787a18a7917f17b4.pdf",
+    "bytes": 75984,
+    "sha256": "7ade1bc64861e2325ad73778b8b80930a0ec48eba91b19cba3f27d9ed25dde29",
+    "status": "ok_pdf",
+    "pages": 7,
+    "fixture": "raipur_rani_gp.pdf"
+  }
+]
