@@ -73,6 +73,10 @@ POSTS = {
 # parishad row carries a territorial constituency number and no panchayat.
 WARD_TIERS = {"gp_ward", "kachahari_member"}
 PANCHAYAT_TIERS = {"gp_head", "kachahari_head", "gp_ward", "kachahari_member"}
+# Samiti and zila parishad seats are numbered territorial constituencies. A
+# mukhiya's or sarpanch's seat is the panchayat itself and carries no number,
+# which is why the release leaves seat_no null on 16,134 of them.
+NUMBERED_TIERS = {"block_member", "zp_member"}
 # The sibling's basis for naming a winner, in this corpus's vocabulary. A sole
 # nominee with no result records is not a published result and not a vote count.
 BASIS = {"result_flag": "published", "sole_candidate": "sole_candidate"}
@@ -162,8 +166,11 @@ def convert(tables):
             "district": unit["district"],
             "block": unit["block"],
             "gram_panchayat": unit["panchayat"] if tier in PANCHAYAT_TIERS else "",
+            "gp_no": (
+                "" if unit["panchayat_id"] is None else str(unit["panchayat_id"])
+            ),
             "ward_no": str(unit["seat_no"]) if tier in WARD_TIERS else "",
-            "seat_no": "" if tier in WARD_TIERS else str(unit["seat_no"]),
+            "seat_no": str(unit["seat_no"]) if tier in NUMBERED_TIERS else "",
             "caste_reservation": caste,
             "caste_reservation_local": stated.strip(),
             "woman_reserved": int(woman == 1),

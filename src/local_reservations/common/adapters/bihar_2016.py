@@ -27,6 +27,13 @@ having drawn the lot, or the highest vote. Where two candidates share the top
 vote and no lot is marked, the release names nobody and says why in
 `winner_note`; 402 seats are in that position and carry no winner here either.
 
+**Twenty-one samiti and zila parishad seat numbers are listed twice**, under
+dropdown codes differing only in how the number is padded - "Tardih/01" and
+"Tardih/1". In nineteen of them exactly one code carries results and the other
+answers "Record not Found", which is what one seat entered twice looks like; in
+two, both carry results. Which code is the seat cannot be settled from the form,
+so both rows are kept and the corpus's collision ledger records them.
+
 Bihar elects a gram kachahari - a village court - beside the gram panchayat, so
 its sarpanch and panch are not this state's gram panchayat head and ward.
 """
@@ -68,6 +75,10 @@ OFFICES = {
 }
 WARD_TIERS = {"gp_ward", "kachahari_member"}
 PANCHAYAT_TIERS = {"gp_head", "kachahari_head", "gp_ward", "kachahari_member"}
+# Samiti and zila parishad seats are numbered territorial constituencies; a
+# mukhiya's or sarpanch's seat is the panchayat itself and carries no number.
+NUMBERED_TIERS = {"block_member", "zp_member"}
+HEAD_TIERS = {"gp_head", "kachahari_head"}
 # How the release says a winner was decided, in this corpus's vocabulary.
 BASIS = {
     "uncontested": "uncontested",
@@ -117,6 +128,19 @@ def text(value):
     return "" if value is None else str(value).strip()
 
 
+def serial(code):
+    """The seat's number off the end of its code.
+
+    Samiti seats are coded by the block they sit in and their number within it,
+    "Piprasi/01", so the number has to be taken off the end; every other office
+    codes the seat by its number alone. The printed code is kept whole in
+    `seat_id_printed`.
+    """
+    # One samiti code pads its number: "Jehanabad/    10".
+    digits = text(code).rsplit("/", 1)[-1].strip().lstrip("0")
+    return digits or text(code)
+
+
 def convert(tables):
     """Seat rows for every office, with the candidates the form listed.
 
@@ -130,6 +154,15 @@ def convert(tables):
     members = collections.defaultdict(list)
     for row in tables["candidates.parquet"]:
         members[seat_key(row)].append(row)
+
+    # Seat numbers listed under more than one form code in the same parent; the
+    # key cannot tell them apart, so they are flagged rather than merged.
+    padded = collections.defaultdict(set)
+    for unit in tables["seats.parquet"]:
+        tier = OFFICES[unit["office"]][0]
+        if tier in NUMBERED_TIERS:
+            place = (unit["office"], unit["district_code"], unit["block_code"])
+            padded[(*place, serial(unit["unit_code"]))].add(unit["unit_code"])
 
     seats, unstated = [], collections.Counter()
     seen = set()
@@ -164,12 +197,19 @@ def convert(tables):
             "tier_local": tier_local,
             "district": text(unit["district"]),
             "block": text(unit["block"]),
+            # A mukhiya's or sarpanch's seat is the panchayat, so the form
+            # names it in the unit column and leaves the panchayat column empty;
+            # a ward seat sits inside a named panchayat.
             "gram_panchayat": (
-                text(unit["panchayat"]) if tier in PANCHAYAT_TIERS else ""
+                text(unit["unit"])
+                if tier in HEAD_TIERS
+                else (text(unit["panchayat"]) if tier in PANCHAYAT_TIERS else "")
             ),
-            "ward_no": unit["unit_code"] if tier in WARD_TIERS else "",
+            "gp_no": text(unit["panchayat_code"])
+            or (text(unit["unit_code"]) if tier in HEAD_TIERS else ""),
+            "ward_no": serial(unit["unit_code"]) if tier in WARD_TIERS else "",
             "ward_name": text(unit["unit"]) if tier in WARD_TIERS else "",
-            "seat_no": "" if tier in WARD_TIERS else unit["unit_code"],
+            "seat_no": serial(unit["unit_code"]) if tier in NUMBERED_TIERS else "",
             "caste_reservation": caste,
             "caste_reservation_local": stated,
             # The vocabulary is paired: every category is printed plain and with
@@ -196,8 +236,22 @@ def convert(tables):
             "district_code": unit["district_code"],
             "block_code": text(unit["block_code"]),
             "panchayat_code": text(unit["panchayat_code"]),
-            "seat_id_printed": text(unit["seat_label"]),
+            "seat_id_printed": text(unit["seat_label"]) or text(unit["unit_code"]),
             "code_repeated": int(bool(unit["code_repeated"])),
+            "shared_place_name": int(
+                tier in NUMBERED_TIERS
+                and len(
+                    padded[
+                        (
+                            unit["office"],
+                            unit["district_code"],
+                            unit["block_code"],
+                            serial(unit["unit_code"]),
+                        )
+                    ]
+                )
+                > 1
+            ),
             "winner_status": text(unit["winner_note"]) or text(unit["status"]),
             "seat_members": [],
         }

@@ -60,6 +60,9 @@ KD_OTHER_THAN = "flok;"  # sivay - "other than"
 DEV_ST = re.compile(r"अनु\S*\s*जन[\s\-–—]*जाति|जन[\s\-–—]*जाति|ज[०0]\s*जा")
 DEV_SC = re.compile(r"अनु\S*\s*जाति|अनु[०0\s]*जा")
 DEV_BC = re.compile(r"पिछ\S*\s*वर्ग|पि[०0]\s*व")
+# The backward-class phrase with "अन्य" in front of it, which is the caste
+# Other Backward Class rather than a statement about gender.
+DEV_OBC = re.compile(r"अन्य\s*(?:पिछ\S*\s*वर्ग|पि[०0]\s*व)")
 DEV_NONE = re.compile(r"अनारक्षित|अनारछित")
 # म्हिला is महिला with the vowel sign misplaced, 75 rows of it
 DEV_WOMAN = re.compile(r"महिला|म्हिला")
@@ -301,9 +304,12 @@ def woman_of(text):
     # genuinely silent cell returns.
     if DEV_WOMAN.search(s):
         return 1
-    # "अन्य पिछड़ा वर्ग" is a caste, not a gender, so the backward-class phrase
-    # is still ruled out before "अन्य" is read as "other than woman".
-    if DEV_BC.search(s):
+    # "अन्य पिछड़ा वर्ग" is a caste, so an अन्य that opens the backward-class
+    # phrase is ruled out before it is read as "other than woman". Bihar prints
+    # "पिछड़ा वर्ग  (अन्य)", where the अन्य stands apart from the phrase and does
+    # mark gender; ruling out every backward-class label, as this did, returned
+    # None for all 23,365 of those and the seat lost its stated gender.
+    if DEV_OBC.search(s):
         return None
     if DEV_OTHER in s:
         return 0

@@ -45,11 +45,11 @@ into a national missing-seat total.
 
 | | Entries | Rows affected |
 |---|---|---|
-| [Open gaps](WORKLIST.md) | 60 | 82,340 |
+| [Open gaps](WORKLIST.md) | 59 | 82,055 |
 | [Blocked](WORKLIST.md) | 0 | 0 |
 | [Parked](WORKLIST.md) | 9 | 1,653 |
-| [Undetermined](WORKLIST.md) | 17 | 72,402 |
-| [Accepted properties of the sources](WORKLIST.md) | 24 | 141,056 |
+| [Undetermined](WORKLIST.md) | 23 | 11,663 |
+| [Accepted properties of the sources](WORKLIST.md) | 24 | 141,030 |
 
 <!-- worklist:end -->
 
@@ -155,7 +155,7 @@ seats. The state readme linked in `Where` gives the file-level inventory.
 | Andhra Pradesh | gp_head, gp_ward | 2020 | 80,021 | parsed | all 13 GP district gazettes are held; 8 are parsed and 5 remain unparsed; 32 held PDFs cover MPTC, ZPTC, MPP, and MPL tiers and remain unparsed | [data/ap/](data/ap/) |
 | Arunachal Pradesh | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Assam | block_head, block_member, block_vice_head, gp_head, gp_vice_head, gp_ward, ulb_head, ulb_ward, zp_member | 2020, 2025 | 2,288 | parsed | 23 held 2025 district PRI scans remain unparsed | [data/assam/](data/assam/) |
-| Bihar | gp_head, gp_ward, block_member, zp_member, kachahari_head, kachahari_member | 2016, 2021 | 712,035 | parsed | 2021 mukhiya education and dated reservation linkage incomplete | [local_elections_bihar](https://github.com/in-rolls/local_elections_bihar) |
+| Bihar | gp_head, gp_ward, block_member, zp_member, kachahari_head, kachahari_member | 2016, 2021 | 2,778,202 | parsed | 30,764 seats of 2016 answer 'Record not Found' and print no reservation; 2021 winner education is transcribed for Arwal only | [local_elections_bihar](https://github.com/in-rolls/local_elections_bihar) |
 | Chandigarh | - | - | - | no parsed rows | 5 held municipal and election-report PDFs need a rural-scope review | [data/chandigarh/](data/chandigarh/) - 4 digital-text, 1 scan |
 | Chhattisgarh | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Dadra & Nagar Haveli and Daman & Diu | - | - | - | not held | acquire and assess a seat-level rural source | - |

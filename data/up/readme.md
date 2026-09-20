@@ -4,6 +4,6 @@
 
 **The parsed data for Uttar Pradesh is in [local_elections_up](https://github.com/in-rolls/local_elections_up)** — gp_head, 2005, 2010, 2015, 2021. It was split into its own repository, so it is counted in the [top-level readme](../../README.md) but has no rows here.
 
-What is in this directory is source material: 0 files, 1 other.
+Source documents and historical tables are maintained in [local_elections_up](https://github.com/in-rolls/local_elections_up). This directory keeps no duplicate inputs.
 
 The pooled adapter reads the sibling's declared parsed files into the shared seat and candidate schemas. Files held only in this local source directory do not enter that adapter automatically.

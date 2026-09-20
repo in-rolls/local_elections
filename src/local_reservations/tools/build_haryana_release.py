@@ -42,7 +42,9 @@ SIBLING_PARSER = SIBLING / "scripts/parse.py"
 SIBLING_VALIDATOR = SIBLING / "scripts/validate.py"
 
 EXPECTED = {
-    MASTER: "ec5ccc5832f9c086ba6f3764a4cf45892497ba2670f88e25ce51d529a114fccc",
+    # The pooled master carries the sibling's commit on every row, so this pin
+    # moves whenever the sibling does even though the 135,073 rows do not.
+    MASTER: "415355bc220dda6ff34ee5e4548233812ab8ca80841a1b01260a9a0f83ebcbbf",
     OBSERVATIONS: "6e4aced101ffd3ded738830dc2a31075f66fa19cabb39637557b3803bcc72218",
     MISSING_HEADINGS: "f5bbbf70907e340aa17b9fa7225e1d26971f869b7c7a1a97278b0b5f8990d0df",
     SIBLING / "data/2016/gp_reservation.csv": (

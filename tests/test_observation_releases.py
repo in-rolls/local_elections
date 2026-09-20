@@ -21,7 +21,10 @@ def test_up_observation_release_contains_all_offices():
     index = json.loads((OBSERVATIONS / "index.json").read_text())
     entry = index["states"]["Uttar Pradesh"]
     assert entry["rows"] == 1423278
-    assert entry["files"] == 40
+    # Uttar Pradesh now comes from its tagged release, which groups the upper
+    # tiers as declared winners rather than candidate records: four files where
+    # there were five, over the same 1,423,278 rows.
+    assert entry["files"] == 39
     path = OBSERVATIONS / entry["path"]
     manifest = json.loads((path / "source_manifest.json").read_text())
     assert len(manifest["offices"]) == 14

@@ -68,15 +68,18 @@ SIBLINGS = {
         "repo": "local_elections_bihar",
         "years": "2016, 2021",
         "tiers": "gp_head, gp_ward, block_member, zp_member, kachahari_head, kachahari_member",  # noqa: E501
-        "remaining": "2021 mukhiya education and dated reservation linkage incomplete",
+        "remaining": (
+            "30,764 seats of 2016 answer 'Record not Found' and print no "
+            "reservation; 2021 winner education is transcribed for Arwal only"
+        ),
         "files": [
-            "data/mukhiya.csv",
-            "data/release/2021/gp_head_candidates_2021.parquet",
-            "data/ward_member.csv",
-            "data/sarpanch.csv",
-            "data/panch.csv",
-            "data/panchayat_samiti_member.csv",
-            "data/zila_parishad_member.csv",
+            "data/release/2016_panchayat/seats.parquet",
+            "data/release/2016_panchayat/candidates.parquet",
+            "data/release/2016_panchayat/winners.parquet",
+            "data/release/2021_panchayat/seats.parquet",
+            "data/release/2021_panchayat/candidates.parquet",
+            "data/release/2021_panchayat/winners.parquet",
+            "data/release/2021_panchayat/current_reservations.parquet",
         ],
     },
     "Kerala": {

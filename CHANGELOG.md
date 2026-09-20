@@ -7,6 +7,58 @@ is worse than one that does not change at all.
 Corrections are listed first in each release, not last. The most useful thing
 here is usually the thing that was wrong.
 
+## Unreleased
+
+### Corrected
+
+- **Seats reserved for Scheduled Tribes were reading as open seats.** Bihar's
+  2021 feed prints the category as "अनुसूचित जन - जाति", and the shared reader
+  only allowed the two halves of *janjati* to be adjacent or separated by a
+  space. A dash between them fell through to the unreserved test: 2,033 tribal
+  seats carried no reservation and 672 reserved for tribal women read as open.
+  If you counted ST seats in Bihar 2021, redo it.
+- **A backward-class seat lost its stated gender.** "पिछड़ा वर्ग  (अन्य)" marks a
+  seat as not reserved for a woman, but every backward-class label was ruled out
+  before that word was read, because "अन्य पिछड़ा वर्ग" is itself a caste. Only
+  the label that opens with अन्य is ruled out now. Uttarakhand's abbreviated
+  "अन्य पि0वर्ग" still states no gender, which is correct.
+- Haryana's comparison of its two GP-head reservation printings was carried onto
+  every ward row of the GP, raising 1,392 ward-level `printings_disagree` flags
+  for a comparison never made about a ward seat.
+- Kruti Dev's shifted quote keys are स् and ष्, the half consonants, not the bare
+  letters. सुषमा and सुष्मा are different names, and so are कश्मीरी and कशमीरी.
+
+### Added
+
+- **Bihar 2021 enters as all six offices with the reservations it states**:
+  247,671 seats, 924,708 candidates and 244,475 winners, against 8,067 mukhiya
+  seats carrying no reservation at all before. The reservation comes from the
+  portal's 2021-2026 term feed, which is undated; reservations are fixed for the
+  term, and the adapter says so rather than letting the year pass unexamined.
+- **Bihar 2016 is read from the sibling's re-collection** rather than the six
+  loose CSVs: 227,317 seats against 219,117, each identified by the codes the
+  form itself uses and pointing at the saved page it was read from. The scrape's
+  651 double-captured seats are settled at the source, which fetches each form
+  code once.
+- Bihar is now the corpus's largest state at 474,988 seat events; the pooled
+  total is 1,307,418 across 15 states.
+- `winner_basis` gains `uncontested`, `lot` and `sole_candidate`. A seat nobody
+  contested, a tie decided by drawing lots and a seat won by one vote are
+  different facts, and calling them all `argmax_votes` said the count decided
+  something it did not.
+
+### Known limits
+
+- 30,764 of Bihar's 2016 seats answer "Record not Found" and print no
+  reservation. They are counted per tier and left out rather than entering as
+  open seats.
+- 402 of its 2016 seats name no winner: a shared top vote with no lot drawn, a
+  serial listed twice with different counts, or two uncontested candidates.
+- 21 samiti and zila parishad seat numbers are listed under two dropdown codes
+  differing only in zero padding ("Tardih/01" and "Tardih/1"). In nineteen,
+  exactly one code carries results and the other answers "Record not Found".
+  Both rows are kept, flagged, and recorded in the collision ledger.
+
 ## v0.5.1 - 2026-09-10
 
 ### Corrected
