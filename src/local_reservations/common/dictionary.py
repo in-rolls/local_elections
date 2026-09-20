@@ -311,9 +311,24 @@ COLUMNS = [
     column(
         "winner_basis",
         "enum",
-        allowed=["published", "argmax_votes"],
+        allowed=[
+            "published",
+            "argmax_votes",
+            "uncontested",
+            "lot",
+            "sole_candidate",
+        ],
         severity=INFO,
-        note="Why the person is treated as the winner rather than merely a candidate.",
+        note=(
+            "Why the person is treated as the winner rather than merely a "
+            "candidate. `published` is a source that names the winner. The rest "
+            "are readings of a source that does not: `argmax_votes` counted the "
+            "votes, `uncontested` is the only nominee the source marks as "
+            "returned unopposed, `sole_candidate` is the only nominee on a seat "
+            "with no result records at all, and `lot` is a tie the source shows "
+            "as decided by drawing lots. They are kept apart because a seat "
+            "nobody contested and a seat won by one vote are different facts."
+        ),
     ),
     column(
         "votes",
