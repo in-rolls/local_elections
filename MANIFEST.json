@@ -1,5 +1,5 @@
 {
-  "built_from_commit": "91614f8ff325a2660f2548a62ba5349814045ff6",
+  "built_from_commit": "8114e54d33bbf3b6ba4655b98ba1c90c51720252",
   "candidate_columns": [
     "dataset_id",
     "candidate_id",
@@ -43,7 +43,7 @@
     "source_path",
     "source_page"
   ],
-  "committed_utc": "2026-09-20T01:01:56-07:00",
+  "committed_utc": "2026-09-20T01:12:36-07:00",
   "dirty": false,
   "files": [
     {
@@ -1445,7 +1445,7 @@
     "provenance_level",
     "quality_flags"
   ],
-  "release": "",
+  "release": "v0.6.0",
   "schema_version": 4,
   "sibling_repos": [
     {
