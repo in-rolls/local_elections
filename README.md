@@ -4,15 +4,18 @@ A versioned, checksummed data package of reservation and election-result data
 for India's local bodies. Coverage varies by state, year and tier; the tables
 below state those limits rather than implying nationwide completeness.
 
+Download the pooled Parquet tables from the [GitHub releases](https://github.com/in-rolls/local_reservations/releases)
+(`pooled_data_*.tar.gz`). The Python distributions contain code; source-evidence
+archives are separate downloads for auditing and rebuilding.
+
 For comparable rural data with one row per seat event, start with the generated
 **[pooled master guide](data/master/readme.md)**. UP and Rajasthan builds use the
-published commits and SHA256 checksums in
+published commits and SHA-256 checksums in
 [`data/sources.json`](data/sources.json). Inputs are shared through
 `INDIA_DATA_HOME` (default `~/data`), under `<provider>/<commit>/<relative path>`;
 matching sibling files can populate this cache. Cross-year GP links are produced
 in the state repositories. This pooled table combines election events across
 states; it does not rematch GPs across years.
-
 State directories also retain
 source-specific fields and urban rows that do not enter the rural master.
 
@@ -47,11 +50,11 @@ into a national missing-seat total.
 
 | | Entries | Rows affected |
 |---|---|---|
-| [Open gaps](WORKLIST.md) | 60 | 82,340 |
+| [Open gaps](WORKLIST.md) | 59 | 82,055 |
 | [Blocked](WORKLIST.md) | 0 | 0 |
 | [Parked](WORKLIST.md) | 9 | 1,653 |
-| [Undetermined](WORKLIST.md) | 17 | 72,402 |
-| [Accepted properties of the sources](WORKLIST.md) | 24 | 141,056 |
+| [Undetermined](WORKLIST.md) | 23 | 11,663 |
+| [Accepted properties of the sources](WORKLIST.md) | 24 | 141,030 |
 
 <!-- worklist:end -->
 
@@ -69,7 +72,8 @@ only and imports nothing else here, so it works from a bare checkout or an
 unpacked tarball.
 
 **[SOURCE_MANIFEST.json](SOURCE_MANIFEST.json)** separately inventories WB,
-Tamil Nadu and the early-source search evidence, including original documents,
+Tamil Nadu, the national and early-source searches, and the pinned historical
+Haryana build input, including original documents,
 OCR readings and review images. Its archive map preserves files too large for
 ordinary Git storage. After downloading source-evidence assets, verify every
 archive member with `python3 src/local_reservations/tools/verify_manifest.py
@@ -157,7 +161,7 @@ seats. The state readme linked in `Where` gives the file-level inventory.
 | Andhra Pradesh | gp_head, gp_ward | 2020 | 80,021 | parsed | all 13 GP district gazettes are held; 8 are parsed and 5 remain unparsed; 32 held PDFs cover MPTC, ZPTC, MPP, and MPL tiers and remain unparsed | [data/ap/](data/ap/) |
 | Arunachal Pradesh | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Assam | block_head, block_member, block_vice_head, gp_head, gp_vice_head, gp_ward, ulb_head, ulb_ward, zp_member | 2020, 2025 | 2,288 | parsed | 23 held 2025 district PRI scans remain unparsed | [data/assam/](data/assam/) |
-| Bihar | gp_head, gp_ward, block_member, zp_member, kachahari_head, kachahari_member | 2016, 2021 | 712,035 | parsed | 2021 mukhiya education and dated reservation linkage incomplete | [local_elections_bihar](https://github.com/in-rolls/local_elections_bihar) |
+| Bihar | gp_head, gp_ward, block_member, zp_member, kachahari_head, kachahari_member | 2016, 2021 | 2,778,202 | parsed | 30,764 seats of 2016 answer 'Record not Found' and print no reservation; 2021 winner education is transcribed for Arwal only | [local_elections_bihar](https://github.com/in-rolls/local_elections_bihar) |
 | Chandigarh | - | - | - | no parsed rows | 5 held municipal and election-report PDFs need a rural-scope review | [data/chandigarh/](data/chandigarh/) - 4 digital-text, 1 scan |
 | Chhattisgarh | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Dadra & Nagar Haveli and Daman & Diu | - | - | - | not held | acquire and assess a seat-level rural source | - |
@@ -191,20 +195,6 @@ seats. The state readme linked in `Where` gives the file-level inventory.
 | West Bengal | zp_member | 2018 | 825 | parsed | Separate 1998–2023 GP office, ward and results data have source-linked parsers and review queues ([GP data](data/wb/derived/README.md)); the final 2018 ZP gazettes are parsed, while their 19 drafts are not additional final seats | [data/wb/](data/wb/) |
 
 <!-- coverage:end -->
-
-### Installed-wheel data location
-
-The wheel contains code, not the corpus. Point `LOCAL_RESERVATIONS_ROOT` at a
-separate checkout when running data utilities from a standalone installation:
-
-```sh
-LOCAL_RESERVATIONS_ROOT=/path/to/local_reservations verify-manifest
-```
-
-The selected directory must contain this project's `pyproject.toml` and `data/`.
-An invalid setting raises an error rather than silently selecting another
-repository. Editable installations still discover their own checkout without
-this setting.
 
 
 ### Other Sources

@@ -1,0 +1,54 @@
+{
+  "format_version": 1,
+  "sources": [
+    {
+      "manifest_path": "data/release/offices/manifest.json",
+      "manifest_sha256": "c8e539b075fd93185d9222ea979de0390d54c4f438c1140d6ab8aad52a310626",
+      "row_semantics": "Source observations partitioned by office and record kind; overlapping winner, candidate and reservation scopes; not a unique-seat denominator.",
+      "slug": "uttar_pradesh",
+      "source_repo": "local_elections_up",
+      "state": "Uttar Pradesh",
+      "status": "standardized_source_observations_pending_validation",
+      "source_release": "v2.0"
+    },
+    {
+      "files": [
+        {
+          "path": "data/haryana/release/modern_seats.parquet",
+          "rows": 133871,
+          "sha256": "36c35494c753e98f1552b2d3f2a791b397115acf60bfda88bd00afedc986d0e6"
+        },
+        {
+          "path": "data/haryana/release/modern_quarantine.parquet",
+          "rows": 1202,
+          "sha256": "31658e5b722a957ae29b779246fda03f7d20c81af4cae6a20d43a915554747ce"
+        },
+        {
+          "path": "data/haryana/release/historical_reviewed_occurrences.parquet",
+          "rows": 2761,
+          "sha256": "b904b39c854e267aa0a5fc50c01a6acb701a4645aba7e1a665759e81e628313c"
+        },
+        {
+          "path": "data/haryana/release/historical_quarantine.parquet",
+          "rows": 61,
+          "sha256": "ab6d489e0041389aa226e2c3088856f231c4e54e22b9cdbfb1db6eebe12b4b94"
+        },
+        {
+          "path": "data/haryana/release/historical_provisional_observations.parquet",
+          "rows": 67770,
+          "sha256": "0d6cc959d17b25dea284d288657f4a69ac2b6c682a781c8c87806e895aba1c24"
+        },
+        {
+          "path": "data/haryana/release/printing_reconciliation.parquet",
+          "rows": 1536,
+          "sha256": "4ecc05ca1607b81e7884209e9b133109ad975fe89c3ecc69e1fd9dc1dcf102cc"
+        }
+      ],
+      "row_semantics": "Separate modern clean and quarantine records, reviewed and provisional historical occurrences, and a complete printing-status reconciliation ledger; scopes overlap and are not one unique-seat denominator.",
+      "slug": "haryana",
+      "source_repo": "local_elections",
+      "state": "Haryana",
+      "status": "release_ready_with_explicit_quarantines"
+    }
+  ]
+}

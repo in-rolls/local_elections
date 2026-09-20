@@ -4,5 +4,7 @@ title: "local-reservations"
 authors:
   - family-names: "Sood"
     given-names: "Gaurav"
-repository-code: "https://github.com/in-rolls/local-reservations"
+repository-code: "https://github.com/in-rolls/local_reservations"
 license: MIT
+version: "0.6.0"
+date-released: "2026-09-20"

@@ -1,7 +1,7 @@
 state,slices,rows,years,tiers,women_share,caste_scheme
 Andhra Pradesh,2,80021,2020,"gp_head,gp_ward",0.4871,sc_st_bc
 Assam,7,1678,2025,"block_head,block_member,block_vice_head,gp_head,gp_vice_head,gp_ward,zp_member",0.6126,sc_st_only
-Bihar,6,219117,2016,"block_member,gp_head,gp_ward,kachahari_head,kachahari_member,zp_member",0.4344,sc_st_obc
+Bihar,12,474988,"2016,2021","block_member,gp_head,gp_ward,kachahari_head,kachahari_member,zp_member",0.4413,sc_st_obc
 Goa,3,2948,"2012,2017,2022",gp_ward,0.3277,sc_st_bc
 Gujarat,2,1178,2020,"block_member,zp_member",0.5,sc_st_bc
 Haryana,4,135073,"2016,2022","gp_head,gp_ward",0.4192,sc_st_bca_only

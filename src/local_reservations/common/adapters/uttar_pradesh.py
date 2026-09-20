@@ -46,21 +46,22 @@ URL = "https://github.com/in-rolls/local_elections_up"
 STATE = "Uttar Pradesh"
 
 SEAT_FILES = {
-    "2005": "data/up_gp_sarpanch_2005_fixed.csv",
-    "2010": "data/up_gp_sarpanch_2010_fixed.csv",
-    "2015": "data/fin/up_gp_sarpanch_2015_fixed_with_transliteration.parquet",
+    "2005": "data/release/gp/gp_head_winner_records_2005.parquet",
+    "2010": "data/release/gp/gp_head_winner_records_2010.parquet",
+    "2015": "data/release/gp/gp_head_winner_records_2015.parquet",
 }
-CANDIDATE_FILE = (
-    "2021",
-    "data/raw/2021/gram_panchayat_pradhan_candidates.csv.gz",
-)
-
+CANDIDATE_FILE = ("2021", "data/release/gp/gp_head_candidates_2021.parquet")
 DECLARED = {"2005": 51872, "2010": 51861, "2015": 59019, "2021": 373096}
+RELEASE_PIN = pathlib.Path(__file__).with_name("uttar_pradesh_release.json")
+PIN = json.loads(RELEASE_PIN.read_text())
+SOURCE_SHA256 = PIN["source_sha256"]
 
-SOURCE_SHA256 = {
-    "2015": "2e7cde2ad328d9a7f7d8ad078295e47ef274f48f22b0272a6aaf10ed00cf9b45",
-    "2021": "8a7075bee6b59ebd0fc26c0630de2aadad1aec9edfdea34390661c754967c179",
-}
+
+def verify_release(root):
+    manifest = pathlib.Path(root) / "data/release/manifest.json"
+    if hashlib.sha256(manifest.read_bytes()).hexdigest() != PIN["manifest_sha256"]:
+        raise ValueError("UP release manifest differs from the pinned artifact")
+
 
 # 2021 collapses; the other three are already seat-level records.
 SEATS = {"2005": 51872, "2010": 51861, "2015": 59019, "2021": 49772}
@@ -80,6 +81,7 @@ def unnumber(value):
 
 def slices(root):
     root = pathlib.Path(root)
+    verify_release(root)
     csv.field_size_limit(10**7)
 
     for year, relative in sorted(SEAT_FILES.items()):
@@ -154,7 +156,11 @@ def read(path, year, expected):
     if path.suffix == ".parquet":
         import pyarrow.parquet as pq
 
-        rows = pq.read_table(io.BytesIO(payload)).to_pylist()
+        raw_rows = pq.read_table(io.BytesIO(payload)).to_pylist()
+        rows = [
+            {key: "" if value is None else str(value) for key, value in row.items()}
+            for row in raw_rows
+        ]
     else:
         if path.suffix == ".gz":
             payload = gzip.decompress(payload)
@@ -284,6 +290,21 @@ def seat_row(row, year, relative):
 
 def candidate_row(row, year, relative):
     """2021: one candidate, in the shape `collapse.to_seats` reads."""
+    row = dict(row)
+    for target, source in {
+        "reservation": "gp_reservation_status",
+        "gram_panchayat": "gp",
+        "zila": "district_name",
+        "block": "block_name",
+        "candidate_name_2021": "candidate",
+        "father_husband_name_2021": "father_husband",
+        "gender_2021": "sex",
+        "age_2021": "age",
+        "caste_2021": "candidate_reservation_status",
+        "education_2021": "education",
+    }.items():
+        if source in row:
+            row[target] = row[source]
     stated = (row.get("reservation") or "").strip()
     caste = normalize.caste_of(stated)
     woman = normalize.woman_of(stated)

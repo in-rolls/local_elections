@@ -34,7 +34,13 @@ import sys
 import pyarrow as pa
 import pyarrow.parquet as pq
 
-from local_reservations.common import adapters, datasets, dictionary, sources
+from local_reservations.common import (
+    adapters,
+    datasets,
+    dictionary,
+    observations,
+    sources,
+)
 from local_reservations.common import master as M
 from local_reservations.common.runlog import command, get_logger
 from local_reservations.paths import ROOT
@@ -511,6 +517,13 @@ def render_readme(rows, dropped, candidates, counts, written):
         "",
         "## Companion tables",
         "",
+        "All-office source observations, including UP urban offices and Haryana "
+        "2000 OCR, are listed in the "
+        "[source registry](observation_sources.json). The registry identifies "
+        "the separate upstream outputs and their provenance. They retain their "
+        "source schemas and provisional status, overlap the pooled tables, "
+        "and must not be added to the seat-event counts above.",
+        "",
         "Candidate tables keep one row per person who stood and join to the "
         "seat event on `row_id`. They retain non-contact attributes such as "
         "gender, age, caste, education, occupation, marital status and assets; "
@@ -560,11 +573,25 @@ def render_readme(rows, dropped, candidates, counts, written):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", nargs="*", help="build only these sibling states")
+    ap.add_argument(
+        "--observations-only",
+        action="store_true",
+        help="import pinned all-office observations without rebuilding seat tables",
+    )
     args = ap.parse_args()
+
+    if args.observations_only:
+        for entry in observations.sync(ROOT, OUT, args.only):
+            print(
+                f"{entry['state']}: {entry['rows']:,} provisional observations, "
+                f"{entry['files']} files -> observations/{entry['path']}"
+            )
+        return 0
 
     rows, extras, dropped, candidates, supplemental, counts = build(args.only)
     reconcile(counts, dropped)
     written = write(rows, extras, dropped, candidates, supplemental)
+    observations.sync(ROOT, OUT, args.only)
     (OUT / "readme.md").write_text(
         render_readme(rows, dropped, candidates, counts, written), encoding="utf-8"
     )

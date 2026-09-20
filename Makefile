@@ -298,3 +298,9 @@ delhi-harvest:
 delhi:
 	$(PY) -m local_reservations.states.delhi.parse --root data/delhi/qualification_audit --gazette data/delhi/delhi_2022.pdf
 	$(PY) -m local_reservations.states.delhi.validate --release data/delhi/release
+
+.PHONY: audit
+audit:
+	mkdir -p dist
+	uv export --frozen --no-default-groups --group dev --all-extras --no-emit-project --format requirements-txt --output-file dist/audit-requirements.txt > /dev/null
+	uvx pip-audit==2.10.1 --require-hashes --disable-pip -r dist/audit-requirements.txt

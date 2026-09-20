@@ -5,7 +5,7 @@ readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 requires-python = ">=3.12"
-version = "0.5.1"
+version = "0.6.0"
 authors = [{ name = "Gaurav Sood", email = "contact@gsood.com" }]
 keywords = ["india", "panchayat", "elections", "reservation", "local government"]
 classifiers = [

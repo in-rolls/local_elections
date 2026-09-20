@@ -4,6 +4,6 @@
 
 **The parsed data for Uttarakhand is in [local_elections_uttarakhand](https://github.com/in-rolls/local_elections_uttarakhand)** — gp_head, block_member, zp_member, 2008, 2014, 2019. It was split into its own repository, so it is counted in the [top-level readme](../../README.md) but has no rows here.
 
-What is in this directory is source material: 0 files, 1 other.
+Source documents and historical tables are maintained in [local_elections_uttarakhand](https://github.com/in-rolls/local_elections_uttarakhand). This directory keeps no duplicate inputs.
 
 The pooled adapter reads the sibling's declared parsed files into the shared seat and candidate schemas. Files held only in this local source directory do not enter that adapter automatically.

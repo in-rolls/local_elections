@@ -143,27 +143,27 @@ Assam,2025,zp_member,reservation_constant_within_seat,internal,skip,,,"the sourc
 Assam,2025,zp_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Assam,2025,zp_member,year_constant,internal,pass,2025,2025,
 Assam,2025,zp_member,provenance_resolves,internal,pass,0,0,4 documents
-Bihar,2016,block_member,rows_in_band,declared,pass,10837,8000..13000,
+Bihar,2016,block_member,rows_in_band,declared,pass,11142,8000..13000,
 Bihar,2016,block_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Bihar,2016,block_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
-Bihar,2016,block_member,coverage_vs_published,external,skip,10837,,As above.
-Bihar,2016,block_member,women_share_vs_statute,external,pass,45.2%,floor 33%,
+Bihar,2016,block_member,coverage_vs_published,external,skip,11142,,As above.
+Bihar,2016,block_member,women_share_vs_statute,external,pass,45.1%,floor 33%,
 Bihar,2016,block_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
 Bihar,2016,block_member,caste_share_vs_population,external,skip,0,,no population columns in this source
 Bihar,2016,block_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
 Bihar,2016,block_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
 Bihar,2016,block_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
-Bihar,2016,block_member,seat_key_unique,internal,pass,0,0,
+Bihar,2016,block_member,seat_key_unique,internal,warn,39,0,"largest group 3 at ('Bihar', '2016', '', '', 'block_member', '10 - KATIHAR', '001 - Falka', '', '', '', '', '', '8')"
 Bihar,2016,block_member,tier_local_maps_to_one_tier,internal,pass,panchayat samiti member,block_member,
-Bihar,2016,block_member,reservation_constant_within_seat,internal,pass,0,0,"10,837 seats, all internally consistent"
+Bihar,2016,block_member,reservation_constant_within_seat,internal,pass,0,0,"39 row(s) excluded as shared_place_name - places this key cannot tell apart, already flagged"
 Bihar,2016,block_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Bihar,2016,block_member,year_constant,internal,pass,2016,2016,
-Bihar,2016,block_member,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
-Bihar,2016,gp_head,rows_in_band,declared,pass,7997,6000..9500,
-Bihar,2016,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc; 1 rows state no category
-Bihar,2016,gp_head,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; gender_stated 0%>0%; reservation 0%>0%,,4 column(s) over tolerance
-Bihar,2016,gp_head,coverage_vs_published,external,skip,7997,,"Bihar SEC's published per-tier totals are for the 2021 cycle (8,067 gram panchayats), not 2016. No 2016 total recovered."
-Bihar,2016,gp_head,women_share_vs_statute,external,pass,43.1%,floor 33%,"over the 7,996 rows whose gender the source states; 43.1% over all 7,997"
+Bihar,2016,block_member,provenance_resolves,internal,pass,0,0,1 documents
+Bihar,2016,gp_head,rows_in_band,declared,pass,8132,6000..9500,
+Bihar,2016,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
+Bihar,2016,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Bihar,2016,gp_head,coverage_vs_published,external,skip,8132,,"Bihar SEC's published per-tier totals are for the 2021 cycle (8,067 gram panchayats), not 2016. No 2016 total recovered."
+Bihar,2016,gp_head,women_share_vs_statute,external,pass,43.2%,floor 33%,
 Bihar,2016,gp_head,women_share_by_block,external,skip,,,only applies where the share is an exact split
 Bihar,2016,gp_head,caste_share_vs_population,external,skip,0,,no population columns in this source
 Bihar,2016,gp_head,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
@@ -171,15 +171,15 @@ Bihar,2016,gp_head,winner_caste_is_not_the_seats,internal,skip,0,,this source st
 Bihar,2016,gp_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
 Bihar,2016,gp_head,seat_key_unique,internal,pass,0,0,
 Bihar,2016,gp_head,tier_local_maps_to_one_tier,internal,pass,mukhiya,gp_head,
-Bihar,2016,gp_head,reservation_constant_within_seat,internal,pass,0,0,"7,997 seats, all internally consistent"
-Bihar,2016,gp_head,plausible_vs_registry,external,pass,95%,,"7,997 against 8,387 in the register (2019-20)"
+Bihar,2016,gp_head,reservation_constant_within_seat,internal,pass,0,0,"8,132 seats, all internally consistent"
+Bihar,2016,gp_head,plausible_vs_registry,external,pass,97%,,"8,132 against 8,387 in the register (2019-20)"
 Bihar,2016,gp_head,year_constant,internal,pass,2016,2016,
-Bihar,2016,gp_head,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
-Bihar,2016,gp_ward,rows_in_band,declared,pass,98131,80000..125000,
-Bihar,2016,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc; 12 rows state no category
-Bihar,2016,gp_ward,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; gender_stated 0%>0%; reservation 0%>0%,,4 column(s) over tolerance
-Bihar,2016,gp_ward,coverage_vs_published,external,skip,98131,,As above.
-Bihar,2016,gp_ward,women_share_vs_statute,external,pass,43.5%,floor 33%,"over the 98,119 rows whose gender the source states; 43.5% over all 98,131"
+Bihar,2016,gp_head,provenance_resolves,internal,pass,0,0,1 documents
+Bihar,2016,gp_ward,rows_in_band,declared,pass,103459,80000..125000,
+Bihar,2016,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
+Bihar,2016,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Bihar,2016,gp_ward,coverage_vs_published,external,skip,103459,,As above.
+Bihar,2016,gp_ward,women_share_vs_statute,external,pass,43.5%,floor 33%,
 Bihar,2016,gp_ward,women_share_by_block,external,skip,,,only applies where the share is an exact split
 Bihar,2016,gp_ward,caste_share_vs_population,external,skip,0,,no population columns in this source
 Bihar,2016,gp_ward,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
@@ -187,14 +187,14 @@ Bihar,2016,gp_ward,winner_caste_is_not_the_seats,internal,skip,0,,this source st
 Bihar,2016,gp_ward,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
 Bihar,2016,gp_ward,seat_key_unique,internal,pass,0,0,
 Bihar,2016,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward member,gp_ward,
-Bihar,2016,gp_ward,reservation_constant_within_seat,internal,pass,0,0,"98,111 seats, all internally consistent"
+Bihar,2016,gp_ward,reservation_constant_within_seat,internal,pass,0,0,"103,459 seats, all internally consistent"
 Bihar,2016,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Bihar,2016,gp_ward,year_constant,internal,pass,2016,2016,
-Bihar,2016,gp_ward,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
-Bihar,2016,kachahari_head,rows_in_band,declared,pass,7916,6000..9500,
+Bihar,2016,gp_ward,provenance_resolves,internal,pass,0,0,1 documents
+Bihar,2016,kachahari_head,rows_in_band,declared,pass,8138,6000..9500,
 Bihar,2016,kachahari_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Bihar,2016,kachahari_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
-Bihar,2016,kachahari_head,coverage_vs_published,external,skip,7916,,As above.
+Bihar,2016,kachahari_head,coverage_vs_published,external,skip,8138,,As above.
 Bihar,2016,kachahari_head,women_share_vs_statute,external,pass,43.4%,floor 33%,
 Bihar,2016,kachahari_head,women_share_by_block,external,skip,,,only applies where the share is an exact split
 Bihar,2016,kachahari_head,caste_share_vs_population,external,skip,0,,no population columns in this source
@@ -203,15 +203,15 @@ Bihar,2016,kachahari_head,winner_caste_is_not_the_seats,internal,skip,0,,this so
 Bihar,2016,kachahari_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
 Bihar,2016,kachahari_head,seat_key_unique,internal,pass,0,0,
 Bihar,2016,kachahari_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,kachahari_head,
-Bihar,2016,kachahari_head,reservation_constant_within_seat,internal,pass,0,0,"7,916 seats, all internally consistent"
+Bihar,2016,kachahari_head,reservation_constant_within_seat,internal,pass,0,0,"8,138 seats, all internally consistent"
 Bihar,2016,kachahari_head,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Bihar,2016,kachahari_head,year_constant,internal,pass,2016,2016,
-Bihar,2016,kachahari_head,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
-Bihar,2016,kachahari_member,rows_in_band,declared,pass,93341,80000..125000,
-Bihar,2016,kachahari_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc; 314 rows state no category
-Bihar,2016,kachahari_member,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; gender_stated 0%>0%; reservation 0%>0%,,6 column(s) over tolerance
-Bihar,2016,kachahari_member,coverage_vs_published,external,skip,93341,,As above.
-Bihar,2016,kachahari_member,women_share_vs_statute,external,pass,43.3%,floor 33%,"over the 93,027 rows whose gender the source states; 43.2% over all 93,341"
+Bihar,2016,kachahari_head,provenance_resolves,internal,pass,0,0,1 documents
+Bihar,2016,kachahari_member,rows_in_band,declared,pass,95463,80000..125000,
+Bihar,2016,kachahari_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
+Bihar,2016,kachahari_member,blank_share_within_tolerance,declared,warn,votes 63%>60%,,1 column(s) over tolerance
+Bihar,2016,kachahari_member,coverage_vs_published,external,skip,95463,,As above.
+Bihar,2016,kachahari_member,women_share_vs_statute,external,pass,43.2%,floor 33%,
 Bihar,2016,kachahari_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
 Bihar,2016,kachahari_member,caste_share_vs_population,external,skip,0,,no population columns in this source
 Bihar,2016,kachahari_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
@@ -219,26 +219,122 @@ Bihar,2016,kachahari_member,winner_caste_is_not_the_seats,internal,skip,0,,this 
 Bihar,2016,kachahari_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
 Bihar,2016,kachahari_member,seat_key_unique,internal,pass,0,0,
 Bihar,2016,kachahari_member,tier_local_maps_to_one_tier,internal,pass,panch,kachahari_member,
-Bihar,2016,kachahari_member,reservation_constant_within_seat,internal,pass,0,0,"93,337 seats, all internally consistent"
+Bihar,2016,kachahari_member,reservation_constant_within_seat,internal,pass,0,0,"95,463 seats, all internally consistent"
 Bihar,2016,kachahari_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Bihar,2016,kachahari_member,year_constant,internal,pass,2016,2016,
-Bihar,2016,kachahari_member,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
-Bihar,2016,zp_member,rows_in_band,declared,pass,895,500..1400,
+Bihar,2016,kachahari_member,provenance_resolves,internal,pass,0,0,1 documents
+Bihar,2016,zp_member,rows_in_band,declared,pass,983,500..1400,
 Bihar,2016,zp_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Bihar,2016,zp_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
-Bihar,2016,zp_member,coverage_vs_published,external,skip,895,,"As above. The scrape is visibly short here in a way the other five tiers are not: Sheikhpura holds 1 seat and Nawada 2, against 44 for Patna and 55 for Madhubani."
-Bihar,2016,zp_member,women_share_vs_statute,external,pass,44.9%,floor 33%,
+Bihar,2016,zp_member,coverage_vs_published,external,skip,983,,"As above. The scrape is visibly short here in a way the other five tiers are not: Sheikhpura holds 1 seat and Nawada 2, against 44 for Patna and 55 for Madhubani."
+Bihar,2016,zp_member,women_share_vs_statute,external,pass,44.7%,floor 33%,
 Bihar,2016,zp_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
 Bihar,2016,zp_member,caste_share_vs_population,external,skip,0,,no population columns in this source
 Bihar,2016,zp_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
 Bihar,2016,zp_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
 Bihar,2016,zp_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
-Bihar,2016,zp_member,seat_key_unique,internal,pass,0,0,
+Bihar,2016,zp_member,seat_key_unique,internal,warn,4,0,"largest group 2 at ('Bihar', '2016', '', '', 'zp_member', '15 - GOPALGANJ', '', '', '', '', '', '', '7')"
 Bihar,2016,zp_member,tier_local_maps_to_one_tier,internal,pass,zila parishad member,zp_member,
-Bihar,2016,zp_member,reservation_constant_within_seat,internal,pass,0,0,"895 seats, all internally consistent"
+Bihar,2016,zp_member,reservation_constant_within_seat,internal,pass,0,0,"4 row(s) excluded as shared_place_name - places this key cannot tell apart, already flagged"
 Bihar,2016,zp_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Bihar,2016,zp_member,year_constant,internal,pass,2016,2016,
-Bihar,2016,zp_member,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
+Bihar,2016,zp_member,provenance_resolves,internal,pass,0,0,1 documents
+Bihar,2021,block_member,rows_in_band,declared,pass,11095,8000..13000,
+Bihar,2021,block_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
+Bihar,2021,block_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Bihar,2021,block_member,coverage_vs_published,external,skip,11095,,no published total for this slice
+Bihar,2021,block_member,women_share_vs_statute,external,pass,46.3%,floor 33%,
+Bihar,2021,block_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2021,block_member,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2021,block_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2021,block_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2021,block_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2021,block_member,seat_key_unique,internal,pass,0,0,
+Bihar,2021,block_member,tier_local_maps_to_one_tier,internal,pass,panchayat samiti member,block_member,
+Bihar,2021,block_member,reservation_constant_within_seat,internal,pass,0,0,"11,095 seats, all internally consistent"
+Bihar,2021,block_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Bihar,2021,block_member,year_constant,internal,pass,2021,2021,
+Bihar,2021,block_member,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
+Bihar,2021,gp_head,rows_in_band,declared,pass,8067,6000..9500,
+Bihar,2021,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
+Bihar,2021,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Bihar,2021,gp_head,coverage_vs_published,external,skip,8067,,no published total for this slice
+Bihar,2021,gp_head,women_share_vs_statute,external,pass,44.4%,floor 33%,
+Bihar,2021,gp_head,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2021,gp_head,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2021,gp_head,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2021,gp_head,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2021,gp_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2021,gp_head,seat_key_unique,internal,pass,0,0,
+Bihar,2021,gp_head,tier_local_maps_to_one_tier,internal,pass,mukhiya,gp_head,
+Bihar,2021,gp_head,reservation_constant_within_seat,internal,pass,0,0,"8,067 seats, all internally consistent"
+Bihar,2021,gp_head,plausible_vs_registry,external,pass,96%,,"8,067 against 8,387 in the register (2019-20)"
+Bihar,2021,gp_head,year_constant,internal,pass,2021,2021,
+Bihar,2021,gp_head,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
+Bihar,2021,gp_ward,rows_in_band,declared,pass,109641,80000..125000,
+Bihar,2021,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
+Bihar,2021,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Bihar,2021,gp_ward,coverage_vs_published,external,skip,109641,,no published total for this slice
+Bihar,2021,gp_ward,women_share_vs_statute,external,pass,44.7%,floor 33%,
+Bihar,2021,gp_ward,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2021,gp_ward,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2021,gp_ward,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2021,gp_ward,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2021,gp_ward,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2021,gp_ward,seat_key_unique,internal,pass,0,0,
+Bihar,2021,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward member,gp_ward,
+Bihar,2021,gp_ward,reservation_constant_within_seat,internal,pass,0,0,"109,641 seats, all internally consistent"
+Bihar,2021,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Bihar,2021,gp_ward,year_constant,internal,pass,2021,2021,
+Bihar,2021,gp_ward,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
+Bihar,2021,kachahari_head,rows_in_band,declared,pass,8067,6000..9500,
+Bihar,2021,kachahari_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
+Bihar,2021,kachahari_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Bihar,2021,kachahari_head,coverage_vs_published,external,skip,8067,,no published total for this slice
+Bihar,2021,kachahari_head,women_share_vs_statute,external,pass,44.5%,floor 33%,
+Bihar,2021,kachahari_head,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2021,kachahari_head,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2021,kachahari_head,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2021,kachahari_head,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2021,kachahari_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2021,kachahari_head,seat_key_unique,internal,pass,0,0,
+Bihar,2021,kachahari_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,kachahari_head,
+Bihar,2021,kachahari_head,reservation_constant_within_seat,internal,pass,0,0,"8,067 seats, all internally consistent"
+Bihar,2021,kachahari_head,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Bihar,2021,kachahari_head,year_constant,internal,pass,2021,2021,
+Bihar,2021,kachahari_head,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
+Bihar,2021,kachahari_member,rows_in_band,declared,pass,109641,80000..125000,
+Bihar,2021,kachahari_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
+Bihar,2021,kachahari_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Bihar,2021,kachahari_member,coverage_vs_published,external,skip,109641,,no published total for this slice
+Bihar,2021,kachahari_member,women_share_vs_statute,external,pass,44.7%,floor 33%,
+Bihar,2021,kachahari_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2021,kachahari_member,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2021,kachahari_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2021,kachahari_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2021,kachahari_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2021,kachahari_member,seat_key_unique,internal,pass,0,0,
+Bihar,2021,kachahari_member,tier_local_maps_to_one_tier,internal,pass,panch,kachahari_member,
+Bihar,2021,kachahari_member,reservation_constant_within_seat,internal,pass,0,0,"109,641 seats, all internally consistent"
+Bihar,2021,kachahari_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Bihar,2021,kachahari_member,year_constant,internal,pass,2021,2021,
+Bihar,2021,kachahari_member,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
+Bihar,2021,zp_member,rows_in_band,declared,pass,1160,500..1400,
+Bihar,2021,zp_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
+Bihar,2021,zp_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Bihar,2021,zp_member,coverage_vs_published,external,skip,1160,,no published total for this slice
+Bihar,2021,zp_member,women_share_vs_statute,external,pass,47.2%,floor 33%,
+Bihar,2021,zp_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2021,zp_member,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2021,zp_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2021,zp_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2021,zp_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2021,zp_member,seat_key_unique,internal,pass,0,0,
+Bihar,2021,zp_member,tier_local_maps_to_one_tier,internal,pass,zila parishad member,zp_member,
+Bihar,2021,zp_member,reservation_constant_within_seat,internal,pass,0,0,"1,160 seats, all internally consistent"
+Bihar,2021,zp_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Bihar,2021,zp_member,year_constant,internal,pass,2021,2021,
+Bihar,2021,zp_member,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
 Goa,2012,gp_ward,rows_in_band,declared,pass,1471,400..1800,
 Goa,2012,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,ST","BC,NONE,SC,ST",sc_st_bc
 Goa,2012,gp_ward,blank_share_within_tolerance,declared,warn,unopposed 99%>0%,,1 column(s) over tolerance

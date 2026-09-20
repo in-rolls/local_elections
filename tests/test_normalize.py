@@ -326,3 +326,43 @@ def test_a_bare_caste_is_not_turned_into_a_womans_seat():
     assert (caste_of("Scheduled Caste"), woman_of("Scheduled Caste")) == ("SC", None)
     assert (caste_of("SC Woman"), woman_of("SC Woman")) == ("SC", 1)
     assert caste_of("Unknown") is None
+
+
+@pytest.mark.parametrize(
+    ("label", "caste", "woman"),
+    [
+        # Bihar's two printings of its own vocabulary, closed and paired in both
+        # years. 2021 spaces and dashes janjati; 2016 runs it together.
+        ("अनारक्षित  (अन्य)", "NONE", 0),
+        ("अनारक्षित  (महिला)", "NONE", 1),
+        ("अनुसूचित जाति  (अन्य)", "SC", 0),
+        ("अनुसूचित जाति  (महिला)", "SC", 1),
+        ("अनुसूचित जन - जाति  (अन्य)", "ST", 0),
+        ("अनुसूचित जन - जाति  (महिला)", "ST", 1),
+        ("पिछड़ा वर्ग  (महिला)", "BC", 1),
+        ("अनारक्षित", "NONE", None),
+        ("अनारक्षित(महिला)", "NONE", 1),
+        ("अनुसूचित जाति(महिला)", "SC", 1),
+        ("अनुसूचित जनजाति", "ST", None),
+        ("अनुसूचित जनजाति(महिला)", "ST", 1),
+        ("पिछड़ा वर्ग(महिला)", "BC", 1),
+    ],
+)
+def test_bihar_prints_the_same_seats_two_ways(label, caste, woman):
+    assert caste_of(label) == caste
+    assert woman_of(label) == woman
+
+
+@pytest.mark.parametrize(
+    ("label", "caste", "woman"),
+    [
+        # The word that marks a gender is also the first word of a caste.
+        ("पिछड़ा वर्ग  (अन्य)", "BC", 0),
+        ("अन्य पिछड़ा वर्ग", "BC", None),
+        ("अन्य पि0वर्ग", "BC", None),
+        ("अन्य पिछड़ा वर्ग महिला", "BC", 1),
+    ],
+)
+def test_other_marks_a_gender_unless_it_opens_the_caste(label, caste, woman):
+    assert caste_of(label) == caste
+    assert woman_of(label) == woman

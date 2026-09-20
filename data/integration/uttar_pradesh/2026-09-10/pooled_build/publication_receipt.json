@@ -1,0 +1,92 @@
+{
+  "status": "published_working_dataset",
+  "wave_counts": {
+    "2005": 51872,
+    "2010": 51861,
+    "2015": 59019,
+    "2021": 49772
+  },
+  "seat_rows": 212524,
+  "candidate_rows": 373096,
+  "extra_rows": 1605955,
+  "winner_conflict_seats": 1,
+  "conflict_candidates_retained": 25,
+  "source_commits": [
+    "3e19684df019-dirty"
+  ],
+  "source_sha256_2015": "2e7cde2ad328d9a7f7d8ad078295e47ef274f48f22b0272a6aaf10ed00cf9b45",
+  "checks": [
+    "exact_wave_counts",
+    "candidate_retention",
+    "ambiguous_winner_blank",
+    "ambiguous_elected_unknown",
+    "publisher_candidate_ids_retained",
+    "2015_pinned_hash",
+    "2015_source_row_locators",
+    "strict_parquet_types"
+  ],
+  "files": [
+    "master_uttar_pradesh.parquet",
+    "candidates_uttar_pradesh.parquet"
+  ],
+  "built_utc": "2026-09-10T10:18:00.569632+00:00",
+  "source_repository": {
+    "commit": "3e19684df019be328664f2f98362d789874855d9",
+    "committed_utc": "2026-09-01T08:48:20-07:00",
+    "dirty": true
+  },
+  "source_hashes": {
+    "data/up_gp_sarpanch_2005_fixed.csv": "bb313b7ef074c550d40c89818351c7aeda47daceadcd3d9fd3048a667b426e90",
+    "data/up_gp_sarpanch_2010_fixed.csv": "7b98b1a5106cb055c43c4fcee7e7dbba41408a9cfa5a6c08abacfa8524e77b7d",
+    "data/fin/up_gp_sarpanch_2015_fixed_with_transliteration.parquet": "2e7cde2ad328d9a7f7d8ad078295e47ef274f48f22b0272a6aaf10ed00cf9b45",
+    "data/up_gram_panchayat_pradhan_2021.csv": "d7d0990f2aa64e2b886924483f5bef8acebb30d734b39961a6b0f6b5252f4547"
+  },
+  "implementation_hashes": {
+    "src/local_reservations/common/adapters/uttar_pradesh.py": "ef27a79c7375715550d0faf24ee22d3b7814765475cd9cf392c0ef8ccdc9d2e8",
+    "src/local_reservations/common/master.py": "0c98faecd6f0528b0af7cf3fdd376d4e4a1666b9ef62dd78f9996e6a2c87d38b",
+    "src/local_reservations/common/dictionary.py": "799287353dd7382f70d7eb2bebb923175f7a03bf0dc9af8da7d919098f980c96"
+  },
+  "changed_files": [
+    {
+      "path": "data/master/master_uttar_pradesh.parquet",
+      "old_rows": 153505,
+      "new_rows": 212524,
+      "previous_manifest_sha256": "83ab73656d174c6e3fa00e4fa472d7e5a0bc326c3e2f5c16ffe503aaf2529640",
+      "sha256": "e61090a9d3dc760ab9234620f55c34892c7c2aaacdcbf4f9b72646984871b335"
+    },
+    {
+      "path": "data/master/candidates_uttar_pradesh.parquet",
+      "old_rows": 373096,
+      "new_rows": 373096,
+      "previous_manifest_sha256": "ec44b79ddc50cda9fa633ed03f8045311468a2941c0ba0ece71f52e1afd8720b",
+      "sha256": "c958c665f53e1418766ecec66961a9bdcd1d05e7521a0e091cab3256c78c8356"
+    },
+    {
+      "path": "data/master/master_extras.parquet",
+      "old_rows": 4738955,
+      "new_rows": 5423633,
+      "previous_manifest_sha256": "8eb09537e72ed9d0b50faa0a767e52c8e2adcd583c52a4b427f0b50d9e1d32ca",
+      "sha256": "8f8ae23707dd4e00294821f0eb4e0f443d0bd5d7a1514500ef9879bd1fc3408c"
+    },
+    {
+      "path": "data/master/master_key_collisions.csv",
+      "old_rows": 3054,
+      "new_rows": 3054,
+      "previous_manifest_sha256": "0139abf06d6d31b0b78da63a92982b4e342effcd5bb5c8786aab97df7d566917",
+      "sha256": "0139abf06d6d31b0b78da63a92982b4e342effcd5bb5c8786aab97df7d566917"
+    }
+  ],
+  "previous_year_values_unchanged": true,
+  "non_up_extras_preserved": 3817678,
+  "up_collision_rows": 4,
+  "targeted_tests_passed": 29,
+  "lint": "passed",
+  "formatting": "passed",
+  "clean_release": false,
+  "backup_directory": "data/integration/uttar_pradesh/2026-09-10/pooled_build/previous_outputs",
+  "published_checks": {
+    "changed_file_hashes_match_receipt_and_manifest": true,
+    "pooled_count_matches_manifest": 1051560,
+    "ambiguous_candidate_elected_values_null": 25
+  }
+}

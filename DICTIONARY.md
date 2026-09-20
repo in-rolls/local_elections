@@ -45,7 +45,7 @@ than a defect.
 | `listing_scope` | enum | warn | one of `all_seats`, `reserved_only`, `partial` | J&K's 2018 documents list only reserved wards; Goa's 2017 and 2022 files are partial rosters. Absent means all_seats. |
 | `winner` | string | warn | length 2–60; ≤60% blank | Only some states publish the elected member. |
 | `winner_address` | string | info | length 2–200 | Address printed for the elected member, where published. |
-| `winner_basis` | enum | info | one of `published`, `argmax_votes` | Why the person is treated as the winner rather than merely a candidate. |
+| `winner_basis` | enum | info | one of `published`, `argmax_votes`, `uncontested`, `lot`, `sole_candidate` | Why the person is treated as the winner rather than merely a candidate. `published` is a source that names the winner. The rest are readings of a source that does not: `argmax_votes` counted the votes, `uncontested` is the only nominee the source marks as returned unopposed, `sole_candidate` is the only nominee on a seat with no result records at all, and `lot` is a tie the source shows as decided by drawing lots. They are kept apart because a seat nobody contested and a seat won by one vote are different facts. |
 | `votes` | integer | warn | range 0–100000; ≤60% blank | Goa 2012 only. |
 | `vacant` | boolean | warn | ≤0% blank | Seat unfilled or the election countermanded. Official 'elected' totals exclude these. |
 | `unopposed` | boolean | warn | ≤0% blank | A '*' against the name in the source. |

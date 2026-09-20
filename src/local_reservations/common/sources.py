@@ -12,8 +12,9 @@ import requests
 from local_reservations.paths import ROOT
 
 
-def resolve(provider):
-    specifications = json.loads((ROOT / "data" / "sources.json").read_text())
+def resolve(provider, root=None):
+    root = ROOT if root is None else pathlib.Path(root)
+    specifications = json.loads((root / "data" / "sources.json").read_text())
     specification = specifications.get(provider)
     if specification is None:
         return None
@@ -30,7 +31,7 @@ def resolve(provider):
                 raise ValueError(f"Cached source checksum mismatch: {destination}")
             continue
         destination.parent.mkdir(parents=True, exist_ok=True)
-        sibling = ROOT.parent / provider / relative
+        sibling = root.parent / provider / relative
         with tempfile.NamedTemporaryFile(
             dir=destination.parent, delete=False
         ) as handle:

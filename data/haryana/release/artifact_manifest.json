@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "data_dictionary.md",
+      "bytes": 1477,
+      "sha256": "b053552a07899c381428e63774d1fe01ee70b5ace93441e5be7379ba60114499"
+    },
+    {
+      "path": "flag_reconciliation.json",
+      "bytes": 19272,
+      "sha256": "b28a87454951b24cfc68c95769833c202aefe27ae7c17d34e78d958fad6bcc30"
+    },
+    {
+      "path": "historical_provisional_observations.parquet",
+      "bytes": 1368305,
+      "sha256": "0d6cc959d17b25dea284d288657f4a69ac2b6c682a781c8c87806e895aba1c24"
+    },
+    {
+      "path": "historical_quarantine.parquet",
+      "bytes": 106540,
+      "sha256": "ab6d489e0041389aa226e2c3088856f231c4e54e22b9cdbfb1db6eebe12b4b94"
+    },
+    {
+      "path": "historical_reviewed_occurrences.parquet",
+      "bytes": 405467,
+      "sha256": "b904b39c854e267aa0a5fc50c01a6acb701a4645aba7e1a665759e81e628313c"
+    },
+    {
+      "path": "join_contract.json",
+      "bytes": 476,
+      "sha256": "189017468d68b9c04ed47e937fe0eb6d9fa32bd7c40500b0ed1aa7ab2412ff0c"
+    },
+    {
+      "path": "modern_quarantine.parquet",
+      "bytes": 110161,
+      "sha256": "31658e5b722a957ae29b779246fda03f7d20c81af4cae6a20d43a915554747ce"
+    },
+    {
+      "path": "modern_seats.parquet",
+      "bytes": 6615863,
+      "sha256": "36c35494c753e98f1552b2d3f2a791b397115acf60bfda88bd00afedc986d0e6"
+    },
+    {
+      "path": "printing_reconciliation.parquet",
+      "bytes": 144022,
+      "sha256": "4ecc05ca1607b81e7884209e9b133109ad975fe89c3ecc69e1fd9dc1dcf102cc"
+    },
+    {
+      "path": "recode_ledger.md",
+      "bytes": 1058,
+      "sha256": "b40bb0c68c978f56604fecd08c28a95bd5f07d9f442ffb3855c6101303240d6b"
+    },
+    {
+      "path": "release_receipt.json",
+      "bytes": 5403,
+      "sha256": "c3f6509fca5dd03fd5eed7e67487ec816b10e946b5291e9660c80f1f49b5522c"
+    }
+  ]
+}

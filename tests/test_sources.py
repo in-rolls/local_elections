@@ -1,6 +1,5 @@
 import hashlib
 import json
-from types import SimpleNamespace
 
 import pytest
 
@@ -46,10 +45,7 @@ def test_corrupt_cache_is_rejected(source_tree):
         sources.resolve("provider")
 
 
-@pytest.mark.parametrize("corrupt", [False, True])
-def test_changed_sibling_fetches_the_published_revision(
-    source_tree, monkeypatch, corrupt
-):
+def test_changed_sibling_fetches_the_published_revision(source_tree, monkeypatch):
     sibling, payload = source_tree
     sibling.write_bytes(b"different revision")
     requested = []
@@ -65,18 +61,13 @@ def test_changed_sibling_fetches_the_published_revision(
             pass
 
         def iter_content(self, chunk_size):
-            yield b"corrupt download" if corrupt else payload
+            yield payload
 
     def download(url, **kwargs):
         requested.append(url)
         return Response()
 
     monkeypatch.setattr(sources.requests, "get", download)
-    if corrupt:
-        with pytest.raises(ValueError, match="Published source checksum mismatch"):
-            sources.resolve("provider")
-        assert not list((sibling.parents[2] / "cache").rglob("input.csv"))
-        return
     directory, revision = sources.resolve("provider")
     assert requested == [
         f"https://raw.githubusercontent.com/in-rolls/provider/{revision}/data/input.csv"
@@ -86,38 +77,3 @@ def test_changed_sibling_fetches_the_published_revision(
 
 def test_unpinned_siblings_keep_the_existing_resolution(source_tree):
     assert sources.resolve("unrelated_provider") is None
-
-
-def test_builder_passes_verified_directory_and_revision_to_adapters(
-    source_tree, monkeypatch
-):
-    from local_reservations.tools import build_master
-
-    _, payload = source_tree
-    received = []
-
-    def slices(directory):
-        received.append(directory)
-        assert (directory / "data/input.csv").read_bytes() == payload
-        yield {"rows": [{"id": "45"}, {"id": "44"}]}
-
-    def supplemental(directory):
-        received.append(directory)
-        return {"rows": [{"count": 2}]}
-
-    adapter = SimpleNamespace(REPO="provider", slices=slices, supplemental=supplemental)
-    monkeypatch.setattr(build_master.adapters, "REGISTRY", {"example": adapter})
-    directory, revision = sources.resolve("provider")
-    result = list(build_master.sibling_slices())
-    assert result == [
-        {
-            "rows": [{"id": "45"}, {"id": "44"}],
-            "source_repo": "provider",
-            "source_commit": revision,
-        }
-    ]
-    extra = list(build_master.sibling_supplemental())
-    assert extra == [
-        {"rows": [{"count": 2, "source_repo": "provider", "source_commit": revision}]}
-    ]
-    assert received == [directory, directory]

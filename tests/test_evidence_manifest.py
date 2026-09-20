@@ -214,3 +214,17 @@ def test_make_archive_gate_checks_real_assets(tmp_path):
         command, cwd=root, capture_output=True, text=True, check=False
     )
     assert missing.returncode != 0
+
+
+def test_default_inventory_preserves_national_and_haryana_build_inputs(tmp_path):
+    for scope in build.SCOPES:
+        (tmp_path / scope).mkdir(parents=True)
+    national = "data/source_search/national/haryana/source.pdf"
+    historical = build.HARYANA_HISTORICAL_INPUT + "/seat_rows.parquet"
+    for name in (national, historical):
+        path = tmp_path / name
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(b"pinned evidence")
+    manifest = build.build(tmp_path, build.SCOPES, 100, tmp_path / "archives")
+    assert {row["path"] for row in manifest["files"]} == {national, historical}
+    assert verify.verify_archives(manifest, tmp_path / "archives") == 2
