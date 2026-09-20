@@ -20,8 +20,9 @@ like success:
                 Kerala ships urban wards in the same file as rural ones, so
                 this cannot be done by choosing files.
 
-Siblings are read from ROOT.parent, never vendored, and their git commit is
-recorded on every row.
+UP and Rajasthan inputs are checksum-verified against published revisions in
+data/sources.json and shared through INDIA_DATA_HOME. Other siblings are read
+from ROOT.parent. The producing revision is recorded on every row.
 """
 
 import argparse
@@ -33,7 +34,13 @@ import sys
 import pyarrow as pa
 import pyarrow.parquet as pq
 
-from local_reservations.common import adapters, datasets, dictionary
+from local_reservations.common import (
+    adapters,
+    datasets,
+    dictionary,
+    observations,
+    sources,
+)
 from local_reservations.common import master as M
 from local_reservations.common.runlog import command, get_logger
 from local_reservations.paths import ROOT
@@ -129,7 +136,8 @@ def sibling_slices(only=None):
     for name, adapter in sorted(adapters.REGISTRY.items()):
         if only and name not in only:
             continue
-        directory = ROOT.parent / adapter.REPO
+        pinned = sources.resolve(adapter.REPO)
+        directory = pinned[0] if pinned else ROOT.parent / adapter.REPO
         if not directory.exists():
             LOGGER.warning(
                 "Sibling repository not checked out",
@@ -140,7 +148,7 @@ def sibling_slices(only=None):
                 },
             )
             continue
-        commit, dirty = git_commit(directory)
+        commit, dirty = (pinned[1], False) if pinned else git_commit(directory)
         if dirty:
             LOGGER.warning(
                 "Sibling repository has uncommitted changes",
@@ -167,10 +175,11 @@ def sibling_supplemental(only=None):
         build_table = getattr(adapter, "supplemental", None)
         if build_table is None:
             continue
-        directory = ROOT.parent / adapter.REPO
+        pinned = sources.resolve(adapter.REPO)
+        directory = pinned[0] if pinned else ROOT.parent / adapter.REPO
         if not directory.exists():
             continue
-        commit, _ = git_commit(directory)
+        commit, _ = (pinned[1], False) if pinned else git_commit(directory)
         table = build_table(directory)
         for row in table["rows"]:
             row["source_repo"] = adapter.REPO
@@ -508,6 +517,12 @@ def render_readme(rows, dropped, candidates, counts, written):
         "",
         "## Companion tables",
         "",
+        "All-office source observations, including UP urban offices and Haryana "
+        "2000 OCR, are published separately in "
+        "[observations/readme.md](observations/readme.md). They retain their "
+        "source schemas and provisional status, overlap the pooled tables, "
+        "and must not be added to the seat-event counts above.",
+        "",
         "Candidate tables keep one row per person who stood and join to the "
         "seat event on `row_id`. They retain non-contact attributes such as "
         "gender, age, caste, education, occupation, marital status and assets; "
@@ -557,11 +572,25 @@ def render_readme(rows, dropped, candidates, counts, written):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", nargs="*", help="build only these sibling states")
+    ap.add_argument(
+        "--observations-only",
+        action="store_true",
+        help="import pinned all-office observations without rebuilding seat tables",
+    )
     args = ap.parse_args()
+
+    if args.observations_only:
+        for entry in observations.sync(ROOT, OUT, args.only):
+            print(
+                f"{entry['state']}: {entry['rows']:,} provisional observations, "
+                f"{entry['files']} files -> observations/{entry['path']}"
+            )
+        return 0
 
     rows, extras, dropped, candidates, supplemental, counts = build(args.only)
     reconcile(counts, dropped)
     written = write(rows, extras, dropped, candidates, supplemental)
+    observations.sync(ROOT, OUT, args.only)
     (OUT / "readme.md").write_text(
         render_readme(rows, dropped, candidates, counts, written), encoding="utf-8"
     )
