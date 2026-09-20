@@ -1,0 +1,32 @@
+{
+  "status": "staged_and_contract_checked",
+  "wave_counts": {
+    "2005": 51872,
+    "2010": 51861,
+    "2015": 59019,
+    "2021": 49772
+  },
+  "seat_rows": 212524,
+  "candidate_rows": 373096,
+  "extra_rows": 1605955,
+  "winner_conflict_seats": 1,
+  "conflict_candidates_retained": 25,
+  "source_commits": [
+    "3e19684df019-dirty"
+  ],
+  "source_sha256_2015": "2e7cde2ad328d9a7f7d8ad078295e47ef274f48f22b0272a6aaf10ed00cf9b45",
+  "checks": [
+    "exact_wave_counts",
+    "candidate_retention",
+    "ambiguous_winner_blank",
+    "ambiguous_elected_unknown",
+    "publisher_candidate_ids_retained",
+    "2015_pinned_hash",
+    "2015_source_row_locators",
+    "strict_parquet_types"
+  ],
+  "files": [
+    "master_uttar_pradesh.parquet",
+    "candidates_uttar_pradesh.parquet"
+  ]
+}
