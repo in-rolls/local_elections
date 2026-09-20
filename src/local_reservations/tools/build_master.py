@@ -518,8 +518,9 @@ def render_readme(rows, dropped, candidates, counts, written):
         "## Companion tables",
         "",
         "All-office source observations, including UP urban offices and Haryana "
-        "2000 OCR, are published separately in "
-        "[observations/readme.md](observations/readme.md). They retain their "
+        "2000 OCR, are listed in the "
+        "[source registry](observation_sources.json). The registry identifies "
+        "the separate upstream outputs and their provenance. They retain their "
         "source schemas and provisional status, overlap the pooled tables, "
         "and must not be added to the seat-event counts above.",
         "",
