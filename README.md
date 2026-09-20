@@ -4,6 +4,10 @@ A versioned, checksummed data package of reservation and election-result data
 for India's local bodies. Coverage varies by state, year and tier; the tables
 below state those limits rather than implying nationwide completeness.
 
+Download the pooled Parquet tables from the [GitHub releases](https://github.com/in-rolls/local_reservations/releases)
+(`pooled_data_*.tar.gz`). The Python distributions contain code; source-evidence
+archives are separate downloads for auditing and rebuilding.
+
 For comparable rural data with one row per seat event, start with the generated
 **[pooled master guide](data/master/readme.md)**. UP and Rajasthan builds use the
 published commits and SHA-256 checksums in
