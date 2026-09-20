@@ -14,6 +14,12 @@ from local_reservations.tools import parse_haryana_report as report
 from local_reservations.tools.bench_up_history import category, score
 
 FIXTURES = Path(__file__).parent / "fixtures/haryana_historical"
+REVIEW_FIXTURES = Path(__file__).parent / "fixtures/haryana_reviews"
+REPORT = (
+    Path(__file__).resolve().parents[1]
+    / "data/source_search/national/haryana/gap_recovery/raw"
+    / "f425f720471d64267d6a.pdf"
+)
 
 
 def test_history_benchmark_does_not_reward_filling_unknown_categories():
@@ -93,6 +99,10 @@ def test_badhra_printed_category_typo_preserves_raw_evidence():
     assert all(r["winner_gender"] is None for r in records)
 
 
+@pytest.mark.skipif(
+    not REPORT.is_file(),
+    reason="requires the externally archived Haryana annexure PDF",
+)
 def test_report_presidents_match_the_reviewed_office_categories():
     records = report.parse_presidents()
     assert len(records) == 19
@@ -161,7 +171,7 @@ def test_assandh_samiti_has_thirty_separate_offices():
 
 @pytest.fixture
 def samalkha_review():
-    path = Path("data/source_search/national/haryana/gap_recovery/layout_reviews.csv")
+    path = REVIEW_FIXTURES / "layout_reviews.csv"
     with path.open() as stream:
         return list(csv.DictReader(stream))
 
@@ -190,7 +200,7 @@ def section_evidence(samalkha_review):
         FIXTURES / "samalkha_gp.pdf", "gp_head_and_ward", samalkha_review
     )
     right, _ = parse.parse_document(FIXTURES / "raipur_rani_gp.pdf", "gp_head_and_ward")
-    path = Path("data/source_search/national/haryana/gap_recovery/section_reviews.csv")
+    path = REVIEW_FIXTURES / "section_reviews.csv"
     with path.open() as stream:
         reviews = list(csv.DictReader(stream))
     frame = pd.DataFrame(

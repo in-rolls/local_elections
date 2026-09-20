@@ -3,11 +3,22 @@
 from pathlib import Path
 
 import pyarrow.parquet as pq
+import pytest
 
 from local_reservations.common.adapters.haryana import convert
 from local_reservations.tools.build_haryana_release import (
     build,
     printing_classification,
+)
+
+ROOT = Path(__file__).resolve().parents[1]
+OBSERVATIONS = ROOT / "data/master/observations"
+SIBLING_SOURCE = ROOT.parent / "local_elections_haryana/data/2016/gp_reservation.csv"
+requires_full_haryana_release = pytest.mark.skipif(
+    not (OBSERVATIONS / "index.json").is_file() or not SIBLING_SOURCE.is_file(),
+    reason=(
+        "requires materialized observations and the external Haryana source repository"
+    ),
 )
 
 
@@ -50,6 +61,7 @@ def test_printing_disagreement_scope_is_explicit():
     assert printing_classification("gp_head", "0").startswith("gp_head_source")
 
 
+@requires_full_haryana_release
 def test_haryana_release_reconciles_every_row(tmp_path: Path):
     receipt = build(tmp_path)
     assert receipt["release_ready"] is True

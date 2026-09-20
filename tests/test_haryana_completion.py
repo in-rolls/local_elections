@@ -8,11 +8,14 @@ import pytest
 
 from local_reservations.tools.parse_haryana_historical import apply_reservation_reviews
 
-BASE = Path(__file__).resolve().parents[1] / "data/source_search/national/haryana"
+ROOT = Path(__file__).resolve().parents[1]
+BASE = ROOT / "data/source_search/national/haryana"
+FIXTURES = Path(__file__).parent / "fixtures/haryana_reviews"
+REPORT = BASE / "gap_recovery/raw/f425f720471d64267d6a.pdf"
 
 
 def review_frame():
-    with (BASE / "gap_recovery/reservation_reviews.csv").open() as stream:
+    with (FIXTURES / "reservation_reviews.csv").open() as stream:
         reviews = list(csv.DictReader(stream))
     frame = pd.DataFrame(reviews)[
         ["source_sha256", "source_page", "source_row_on_page", "reservation_raw"]
@@ -60,6 +63,10 @@ def test_changed_or_repeated_source_decision_is_rejected():
         apply_reservation_reviews(frame, reviews + reviews[:1])
 
 
+@pytest.mark.skipif(
+    not REPORT.is_file(),
+    reason="requires the externally archived Haryana annexure PDF",
+)
 def test_samiti_chair_reservations_reconcile_to_printed_totals():
     from local_reservations.tools.parse_haryana_report import parse_chair_reservations
 
@@ -144,13 +151,9 @@ def test_ocr_receipt_reuse_checks_bytes_and_preserves_engine_provenance(
 
     from local_reservations.tools import ocr_haryana_gazettes as ocr
 
-    folder = (
-        BASE
-        / "early_cycles/ocr"
-        / "c8f102d6c73e8443a9817930f5ad34bbeffcc1783fa399d021ca6673399d8151"
-    )
+    folder = FIXTURES / "ocr_page"
     receipt = json.loads((folder / "page_0001.tsv.json").read_text())
-    target_folder = tmp_path / folder.name
+    target_folder = tmp_path / receipt["source_sha256"]
     target_folder.mkdir()
     for name in ["page_0001.tsv.gz", "page_0001.tsv.json"]:
         shutil.copyfile(folder / name, target_folder / name)
@@ -164,7 +167,10 @@ def test_ocr_receipt_reuse_checks_bytes_and_preserves_engine_provenance(
 
     monkeypatch.setattr(ocr.subprocess, "run", no_reread)
     result = ocr.read_page(
-        {"sha256": folder.name, "path": "unused.pdf"}, 1, tmp_path, settings
+        {"sha256": receipt["source_sha256"], "path": "unused.pdf"},
+        1,
+        tmp_path,
+        settings,
     )
     assert result["output_sha256"] == receipt["output_sha256"]
     assert result["code_sha256"] == receipt["code_sha256"]
@@ -172,7 +178,10 @@ def test_ocr_receipt_reuse_checks_bytes_and_preserves_engine_provenance(
     (target_folder / "page_0001.tsv.gz").write_bytes(b"corrupt")
     with pytest.raises(RuntimeError, match="OCR invoked"):
         ocr.read_page(
-            {"sha256": folder.name, "path": "unused.pdf"}, 1, tmp_path, settings
+            {"sha256": receipt["source_sha256"], "path": "unused.pdf"},
+            1,
+            tmp_path,
+            settings,
         )
 
 

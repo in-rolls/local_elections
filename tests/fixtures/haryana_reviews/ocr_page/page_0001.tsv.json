@@ -1,0 +1,17 @@
+{
+  "source_sha256": "c8f102d6c73e8443a9817930f5ad34bbeffcc1783fa399d021ca6673399d8151",
+  "page": 1,
+  "scale_to": 3000,
+  "language": "eng",
+  "psm": 6,
+  "tesseract_version": "tesseract 5.5.2",
+  "code_sha256": "6756a0353c681e420b0829f48e875c87f8f77deeb812ff66b43de07053f9d3fe",
+  "status": "ocr_complete_unvalidated",
+  "output": "c8f102d6c73e8443a9817930f5ad34bbeffcc1783fa399d021ca6673399d8151/page_0001.tsv.gz",
+  "output_sha256": "6b1358c593cd971ba60b85480122c72a84def2b3732896f2d8e3db59c8bf4d38",
+  "words": 329,
+  "width": 2159,
+  "height": 3000,
+  "stderr": "",
+  "receipt_parser_sha256": "7b8b99d1e698751b2e14fe7a0d6cc95e6fcd094c9c9582d33fd3b0ee2e7e0067"
+}

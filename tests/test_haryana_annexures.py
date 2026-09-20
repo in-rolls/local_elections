@@ -1,4 +1,5 @@
 import json
+from pathlib import Path
 
 import pytest
 
@@ -10,9 +11,21 @@ from local_reservations.tools.parse_haryana_annexures import (
     read_district_vice_heads,
 )
 
+REPORT = (
+    Path(__file__).resolve().parents[1]
+    / "data/source_search/national/haryana/gap_recovery/raw"
+    / "f425f720471d64267d6a.pdf"
+)
+requires_report = pytest.mark.skipif(
+    not REPORT.is_file(),
+    reason="requires the externally archived Haryana annexure PDF",
+)
+
 
 @pytest.fixture(scope="module")
 def chairs():
+    if not REPORT.is_file():
+        pytest.skip("requires the externally archived Haryana annexure PDF")
     return read_chairs()
 
 
@@ -33,6 +46,7 @@ def test_blank_and_vacant_chair_names_are_preserved(chairs):
     assert blank["category_column_raw"] == vacant["category_column_raw"] == "Gen"
 
 
+@requires_report
 def test_vice_chair_cross_page_continuation_keeps_provenance():
     rows = read_chairs(vice=True)
     row = next(r for r in rows if body_key(r["body_raw"]) == "TAORU")
@@ -114,6 +128,7 @@ def test_duplicate_barwala_uses_category_without_claiming_independent_agreement(
         chair_concordance(rows, [reservations[0], reservations[0]], [])
 
 
+@requires_report
 def test_district_vice_head_columns_preserve_continuations_and_open_border():
     rows = {r["district_raw"]: r for r in read_district_vice_heads()}
     assert len(rows) == 19
@@ -127,6 +142,7 @@ def test_district_vice_head_columns_preserve_continuations_and_open_border():
     assert all(r["category_column_raw"] == "Un-reserved" for r in rows.values())
 
 
+@requires_report
 def test_vice_president_date_does_not_match_samiti_office():
     row = read_district_vice_heads()[0]
     head = row | {
@@ -139,6 +155,7 @@ def test_vice_president_date_does_not_match_samiti_office():
     assert date_archived_offices([wrong], [row])[0]["year_corroborated"] is None
 
 
+@requires_report
 def test_reviewed_district_typo_requires_corroborating_body():
     row = next(
         r for r in read_district_vice_heads() if r["district_raw"] == "FARIDABAD"

@@ -5,10 +5,15 @@ import json
 from pathlib import Path
 
 import pyarrow.parquet as pq
+import pytest
 
 from local_reservations.paths import ROOT
 
 OBSERVATIONS = ROOT / "data/master/observations"
+requires_observation_release = pytest.mark.skipif(
+    not (OBSERVATIONS / "index.json").is_file(),
+    reason="requires materialized full-state observation releases",
+)
 
 
 def verify_snapshot(path: Path) -> None:
@@ -17,6 +22,7 @@ def verify_snapshot(path: Path) -> None:
         assert hashlib.sha256((path / name).read_bytes()).hexdigest() == expected
 
 
+@requires_observation_release
 def test_up_observation_release_contains_all_offices():
     index = json.loads((OBSERVATIONS / "index.json").read_text())
     entry = index["states"]["Uttar Pradesh"]
@@ -35,6 +41,7 @@ def test_up_observation_release_contains_all_offices():
     verify_snapshot(path)
 
 
+@requires_observation_release
 def test_haryana_observation_release_preserves_every_partition():
     index = json.loads((OBSERVATIONS / "index.json").read_text())
     entry = index["states"]["Haryana"]
