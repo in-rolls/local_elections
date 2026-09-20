@@ -7,9 +7,13 @@ is worse than one that does not change at all.
 Corrections are listed first in each release, not last. The most useful thing
 here is usually the thing that was wrong.
 
-## v0.6.0 — release candidate
+## v0.6.0 — 2026-09-20
 
 ### Corrected
+
+- The evidence archives now include the national source collection and the
+  pinned historical Haryana build input: 39,317 files in total. Earlier
+  archives omitted these inputs despite the repository documentation.
 
 - Bihar 2016 candidate rows now identify the 210,717 resolved winners by both
   source serial and row. Other candidates on those seats receive `elected=0`;
