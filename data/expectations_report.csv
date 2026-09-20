@@ -12,10 +12,10 @@ warn,jharkhand/mukhiya_reservation_2015.csv,column,gp_no,blank share 75% above t
 warn,jharkhand/panchayat_samiti_reservation_2015.csv,column,gram_panchayat,blank share 46% above the 10% tolerated,2359,0.4597, |  | ,data/jharkhand/2015/1. GARHWA MUKHIYA PSS/GARHWA PSS.pdf,4
 warn,jharkhand/mukhiya_reservation_2015.csv,column,block,blank share 54% above the 35% tolerated,2135,0.5375, |  | ,data/jharkhand/2015/1. GARHWA MUKHIYA PSS/GARHWA MUKHIYA.pdf,2
 warn,goa/ward_reservation_2012.csv,column,unopposed,blank share 99% above the 0% tolerated,1452,0.9871, |  | ,data/goa/2012/panres_2012_Bardez.pdf,1
-warn,jk/ward_reservation_2018.csv,column,ward_no,neither a number nor a Roman numeral,1432,1.0,Number & Name of Panch Constit | PC-II | PC-V,data/jk/2018/2018_Anantnag.pdf,1
+warn,jk/ward_reservation_2018.csv,column,ward_no,neither a number nor a Roman numeral,1419,1.0,Number & Name of Panch Constit | PC-II | PC-V,data/jk/2018/2018_Anantnag.pdf,1
 warn,jharkhand/ward_member_reservation_2015.csv,row,ward_no,ward row has no ward number,504,0.0255, |  | ,data/jharkhand/2015/15. BOKARO ZP PSS MUKHIYA GPS/Chandankiyari_GPS_GPM_GPVM.pdf,17
 warn,ap/ward_reservation_2020.csv,column,serial,not an integer,276,0.0038,5S | 5S | 5S,data/ap/2020_res_gp/atp_res_gp.pdf,78
-warn,jk/ward_reservation_2018.csv,column,ward_no,length outside 1..6,235,0.1641,Number & Name of Panch Constit | PC-VIII | PC-VIII,data/jk/2018/2018_Anantnag.pdf,1
+warn,jk/ward_reservation_2018.csv,column,ward_no,length outside 1..6,232,0.1635,Number & Name of Panch Constit | PC-VIII | PC-VIII,data/jk/2018/2018_Anantnag.pdf,1
 warn,jharkhand/zila_parishad_reservation_2015.csv,column,ward_no,blank share 89% above the 30% tolerated,201,0.8894, |  | ,data/jharkhand/2015/13. JAMTARA MUKHIYA PSS/JAMTARA ZP MUKHIYA PSS GPS.pdf,2
 warn,jharkhand/zila_parishad_reservation_2015.csv,column,gram_panchayat,blank share 61% above the 10% tolerated,138,0.6106, |  | ,data/jharkhand/2015/13. JAMTARA MUKHIYA PSS/JAMTARA ZP MUKHIYA PSS GPS.pdf,2
 warn,ap/ward_reservation_2020.csv,column,block,length outside 2..40,112,0.0015,K | K | K,data/ap/2020_res_gp/est_res_gp.pdf,66

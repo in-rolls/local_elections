@@ -39,11 +39,10 @@ we get it" but "what is in it".
 | state | text | scan | encoded | mixed | pages | what is held |
 |---|---|---|---|---|---|---|
 | Bihar | 290 | 0 | 0 | 0 | 9,193 | PRI winners 2006-2016; also `local_elections_bihar` |
-| Rajasthan | 23 | 9 | 0 | 5 | 7,888 | panchayat 2005-2021 |
 | **Jharkhand** | 108 | 28 | 0 | 8 | 4,970 | **2015 mukhiya (GP head) reservation by district; 2022 Form-23 ZP members** |
 | West Bengal | 279 | 285 | 0 | 4 | 4,149 | 2018 ZP gazettes parsed with drafts separate; named Birbhum 1998/2003 research reservations and 2013/2018/2023 office schedules parsed; ward, results and reference outputs retain review flags; [reservation gaps](data/wb/vintage_search/README.md); [GP source search](data/wb/gp_source_search.md), [derived GP data and review](data/wb/derived/README.md) |
 | **Karnataka** | 236 | 202 | 0 | 2 | 1,552 | **2016 taluk & zilla panchayat winners with party**; plus `Karnataka_GP_ReservationHistory.dta`. 244 of the documents are deliberately unread - see data/karnataka/readme.md |
-| **Jammu & Kashmir** | 105 | 8 | 0 | 0 | 1,488 | **2010/2016/2018 block-wise, panch-ward reservation with SC/ST/OC population** |
+| **Jammu & Kashmir** | 104 | 8 | 0 | 0 | 1,469 | **2010/2016/2018 block-wise, panch-ward reservation with SC/ST/OC population** |
 | **Andhra Pradesh** | 15 | 17 | 0 | 13 | 1,243 | **2020 district gazettes: GP, MPTC, ZPTC, MPP reservation** |
 | Assam | 1 | 31 | 0 | 0 | 1,026 | 2020 municipal reservation parsed; all 27 district PRI notifications for 2025 acquired; 4 district notifications parsed |
 | Chandigarh, Puducherry, Delhi | 7 | 2 | 0 | 0 | 707 | mostly urban local bodies |
@@ -53,6 +52,7 @@ we get it" but "what is in it".
 | Odisha | 6 | 0 | 0 | 0 | 254 | 2017 reservation of sarpanch/ward member - **district totals, not seat-level** |
 | Tamil Nadu | 11 | 1 | 0 | 0 | 74 | municipal/corporation gazettes plus GP-president reservations; [2011 roster and 2001 amendment exports](data/tn/readme.md) remain separate from pooled rows; originals and earlier leads are in the [cross-state source ledger](data/source_search/early_heads/README.md) |
 | Himachal Pradesh | 0 | 1 | 0 | 0 | 3 | one source PDF |
+| Rajasthan | 0 | 0 | 0 | 0 | 0 | sources and parsed data in [`local_elections_rajasthan`](https://github.com/in-rolls/local_elections_rajasthan) |
 <!-- holdings:end -->
 
 An India-egress review on 26 August 2026 changed two acquisition findings:

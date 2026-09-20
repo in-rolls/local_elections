@@ -53,7 +53,8 @@ GROUPS = {
 # The half a directory listing cannot tell you.
 HELD = {
     "Bihar": "PRI winners 2006-2016; also `local_elections_bihar`",
-    "Rajasthan": "panchayat 2005-2021",
+    "Rajasthan": "sources and parsed data in "
+    "[`local_elections_rajasthan`](https://github.com/in-rolls/local_elections_rajasthan)",
     "**Jharkhand**": "**2015 mukhiya (GP head) reservation by district; 2022 "
     "Form-23 ZP members**",
     "**Jammu & Kashmir**": "**2010/2016/2018 block-wise, panch-ward "

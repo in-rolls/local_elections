@@ -431,11 +431,11 @@ Jammu & Kashmir,2016,gp_ward,reservation_constant_within_seat,internal,skip,,,"t
 Jammu & Kashmir,2016,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Jammu & Kashmir,2016,gp_ward,year_constant,internal,pass,2016,2016,
 Jammu & Kashmir,2016,gp_ward,provenance_resolves,internal,pass,0,0,25 documents
-Jammu & Kashmir,2018,gp_ward,rows_in_band,declared,pass,1432,500..35000,
+Jammu & Kashmir,2018,gp_ward,rows_in_band,declared,pass,1419,500..35000,
 Jammu & Kashmir,2018,gp_ward,caste_scheme_respected,declared,pass,"NONE,ST","NONE,SC,ST",sc_st_only
 Jammu & Kashmir,2018,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
-Jammu & Kashmir,2018,gp_ward,coverage_vs_published,external,skip,1432,,"As above, and these documents list only the reserved wards, so a completeness figure would not mean what it looks like."
-Jammu & Kashmir,2018,gp_ward,women_share_vs_statute,external,skip,1181/1432,,"the document is a reserved_only listing, so its share is a property of the document rather than of the state"
+Jammu & Kashmir,2018,gp_ward,coverage_vs_published,external,skip,1419,,"As above, and these documents list only the reserved wards, so a completeness figure would not mean what it looks like."
+Jammu & Kashmir,2018,gp_ward,women_share_vs_statute,external,skip,1168/1419,,"the document is a reserved_only listing, so its share is a property of the document rather than of the state"
 Jammu & Kashmir,2018,gp_ward,women_share_by_block,external,skip,,,only applies where the share is an exact split
 Jammu & Kashmir,2018,gp_ward,caste_share_vs_population,external,skip,0,,no population columns in this source
 Jammu & Kashmir,2018,gp_ward,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
@@ -446,7 +446,7 @@ Jammu & Kashmir,2018,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward,gp_w
 Jammu & Kashmir,2018,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Jammu & Kashmir,2018,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Jammu & Kashmir,2018,gp_ward,year_constant,internal,pass,2018,2018,
-Jammu & Kashmir,2018,gp_ward,provenance_resolves,internal,pass,0,0,13 documents
+Jammu & Kashmir,2018,gp_ward,provenance_resolves,internal,pass,0,0,12 documents
 Jharkhand,2015,block_member,rows_in_band,declared,pass,5132,1000..5500,
 Jharkhand,2015,block_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_bc
 Jharkhand,2015,block_member,blank_share_within_tolerance,declared,warn,gram_panchayat 46%>10%; gp_no 91%>60%; ward_no 98%>30%,,3 column(s) over tolerance

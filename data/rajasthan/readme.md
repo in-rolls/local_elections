@@ -4,7 +4,7 @@
 
 **The parsed data for Rajasthan is in [local_elections_rajasthan](https://github.com/in-rolls/local_elections_rajasthan)** — gp_head, gp_ward, block_member, zp_member, 2005, 2010, 2015, 2020, 2021, 2022. It was split into its own repository, so it is counted in the [top-level readme](../../README.md) but has no rows here.
 
-What is in this directory is source material: 66 files, 25 tabular, 23 digital-text, 9 scan, 5 mixed, 3 other, 2 doc, 7,888 pages.
+Source documents and historical tables are maintained in [local_elections_rajasthan](https://github.com/in-rolls/local_elections_rajasthan). This directory keeps no duplicate inputs.
 
 The pooled adapter reads the sibling's declared parsed files into the shared seat and candidate schemas. Files held only in this local source directory do not enter that adapter automatically.
 

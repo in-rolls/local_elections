@@ -290,3 +290,11 @@ ci-docker:
 			uvx preen check --strict --skip tests && \
 			uv run pytest tests -q -p no:cacheprovider && \
 			uv build --out-dir /tmp/dist'
+
+.PHONY: delhi delhi-harvest
+delhi-harvest:
+	$(PY) -m local_reservations.states.delhi.harvest --root data/delhi/qualification_audit
+
+delhi:
+	$(PY) -m local_reservations.states.delhi.parse --root data/delhi/qualification_audit --gazette data/delhi/delhi_2022.pdf
+	$(PY) -m local_reservations.states.delhi.validate --release data/delhi/release
