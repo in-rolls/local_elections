@@ -187,6 +187,15 @@ def convert(tables):
         if len(contestants) != unit["candidate_rows"]:
             raise ValueError(f"Bihar candidate coverage does not reconcile: {key}")
         won = winners.get(key)
+        winner_identity = (won["sr_no"], won["row"]) if won else None
+        if (
+            won
+            and sum(
+                (row["sr_no"], row["row"]) == winner_identity for row in contestants
+            )
+            != 1
+        ):
+            raise ValueError(f"Bihar winner does not identify one candidate: {key}")
         vacant = bool(contestants) and all(
             row["remarks"] == "Vacant" for row in contestants
         )
@@ -270,7 +279,11 @@ def convert(tables):
                     "candidate_education": text(row["education"]),
                     "party": "",
                     "votes": row["votes"],
-                    "elected": "",
+                    "elected": (
+                        int((row["sr_no"], row["row"]) == winner_identity)
+                        if won
+                        else ""
+                    ),
                     "result": text(row["remarks"]),
                     # Every row names the saved page it was read from, which the
                     # original scrape could not do.

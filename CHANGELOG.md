@@ -11,6 +11,11 @@ here is usually the thing that was wrong.
 
 ### Corrected
 
+- Bihar 2016 candidate rows now identify the 210,717 resolved winners by both
+  source serial and row. Other candidates on those seats receive `elected=0`;
+  unresolved seats retain missing flags. Previously all 2016 candidate elected
+  flags were missing, although seat-level winners were retained.
+
 - **Seats reserved for Scheduled Tribes were reading as open seats.** Bihar's
   2021 feed prints the category as "अनुसूचित जन - जाति", and the shared reader
   only allowed the two halves of *janjati* to be adjacent or separated by a
