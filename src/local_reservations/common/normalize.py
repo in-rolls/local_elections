@@ -53,7 +53,11 @@ KD_OTHER_THAN = "flok;"  # sivay - "other than"
 # the wrong category: अनु0ज0जाति is *jan*jati abbreviated, and the jati pattern
 # matched it first, filing a scheduled tribe seat as a scheduled caste one.
 # Hence the standalone ज before जा here, tested with the rest of janjati.
-DEV_ST = re.compile(r"अनु\S*\s*जन\s*जाति|जनजाति|ज[०0]\s*जा")
+# Bihar 2021 prints Scheduled Tribe as "अनुसूचित जन - जाति", so the two halves of
+# janjati can be held apart by a dash as well as a space. Without the dash the
+# label fell through to the unreserved test and 672 seats reserved for tribal
+# women read as open seats.
+DEV_ST = re.compile(r"अनु\S*\s*जन[\s\-–—]*जाति|जन[\s\-–—]*जाति|ज[०0]\s*जा")
 DEV_SC = re.compile(r"अनु\S*\s*जाति|अनु[०0\s]*जा")
 DEV_BC = re.compile(r"पिछ\S*\s*वर्ग|पि[०0]\s*व")
 DEV_NONE = re.compile(r"अनारक्षित|अनारछित")
