@@ -18,6 +18,7 @@ import pandas as pd
 import pyarrow as pa
 import pyarrow.parquet as pq
 
+from local_reservations.common.runlog import command
 from local_reservations.paths import ROOT
 
 SIBLING = ROOT.parent / "local_elections_haryana"
@@ -600,6 +601,7 @@ No source literal, reservation category, winner, ward, or body heading is recode
     return receipt
 
 
+@command("build", state="Haryana", vintage="release")
 def main() -> None:
     """Build the local Haryana release."""
     parser = argparse.ArgumentParser(description=__doc__)
