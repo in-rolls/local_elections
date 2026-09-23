@@ -66,6 +66,12 @@ ORDERS = {
         "source": "scan",
         "printed": {"offices": 185, "SC": 59, "ST": 5, "BC": 28, "women": 92},
     },
+    ("Nadia", 2013): {
+        "order": "Memo No. 404/P&RD, dated 15.03.2013; codes from the handbook",
+        "mnrega_district": "NADIA",
+        "source": "handbook",
+        "printed": {"offices": 187, "SC": 60, "ST": 5, "BC": 28, "women": 93},
+    },
     ("Malda", 2013): {
         "order": "No. 334/P/PGE'13, dated 15/03/2013",
         "mnrega_district": "MALDAH",
@@ -73,6 +79,12 @@ ORDERS = {
         "printed": {"offices": 146, "SC": 35, "ST": 9, "BC": 29, "women": 73},
     },
 }
+
+# Handbook rows whose printed code is blank, and what the order settles them to.
+# Taldaha Majdia (serial 123): the other 186 codes already exhaust the order's
+# printed totals on both axes (SC 60, ST 5, BC 28, women 93), and the name is
+# absent from the order's Pradhan pages, so the office is unreserved.
+BLANK_CODES = {("Nadia", 2013, 123): (None, False)}
 
 # What an empty cell OCRs as: a printed dash, or specks.
 DASH = {"", "-", "“", "”", ".", ":", "'", ",", "—", "_", "~"}
@@ -301,6 +313,40 @@ def alipurduar_entries(district, term):
     ]
 
 
+def handbook_entries(district, term):
+    """The 2013 handbook prints every GP with its code; no inference is needed."""
+    rows = pd.read_csv(
+        WB / "derived" / "nadia_2013_handbook" / "office_reservations.csv"
+    )
+    rows = rows[(rows.tier == "gp_head") & (rows.year == term)]
+    entries = []
+    for r in rows.itertuples():
+        code = r.reservation if isinstance(r.reservation, str) else ""
+        if code:
+            if code not in {"UR", "W", "SC", "SCW", "ST", "STW", "OBC", "OBCW"}:
+                raise ValueError(f"unexpected handbook code {code!r}")
+            caste = {"SC": "SC", "ST": "ST", "OBC": "BC"}.get(code.removesuffix("W"))
+            women = code.endswith("W")
+        elif (district, term, r.source_gp_serial) in BLANK_CODES:
+            caste, women = BLANK_CODES[(district, term, r.source_gp_serial)]
+        else:
+            raise ValueError(f"blank handbook code, serial {r.source_gp_serial}")
+        entries.append(
+            _entry(
+                district,
+                term,
+                os.path.basename(r.source_path),
+                r.source_page,
+                r.source_gp_serial,
+                None,
+                [r.gram_panchayat],
+                caste,
+                women,
+            )
+        )
+    return entries
+
+
 def scan_entries(district, term, gps):
     cells = pd.read_csv(OUT / "scan_cells.csv", dtype=str, keep_default_na=False)
     cells = cells[(cells.district == district) & (cells.term == str(term))]
@@ -451,6 +497,8 @@ def build_order(district, term, gp_lists, overrides):
         entries = native_entries(district, term)
     elif spec["source"] == "alipurduar_offices":
         entries = alipurduar_entries(district, term)
+    elif spec["source"] == "handbook":
+        entries = handbook_entries(district, term)
     else:
         entries = scan_entries(district, term, gps)
     resolved = resolve(entries, gps, overrides)

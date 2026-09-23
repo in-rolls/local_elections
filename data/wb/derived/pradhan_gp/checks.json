@@ -80,6 +80,26 @@
     "agrees": true
   },
   {
+    "district": "Nadia",
+    "term": 2013,
+    "printed": {
+      "offices": 187,
+      "SC": 60,
+      "ST": 5,
+      "BC": 28,
+      "women": 93
+    },
+    "parsed": {
+      "offices": 187,
+      "SC": 60,
+      "ST": 5,
+      "BC": 28,
+      "women": 93
+    },
+    "named_in_order": 187,
+    "agrees": true
+  },
+  {
     "district": "Malda",
     "term": 2013,
     "printed": {

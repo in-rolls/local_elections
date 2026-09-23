@@ -10,14 +10,19 @@ where a final Form 1B order for Pradhan offices is held. Built by `make wb-pradh
 | Purulia | 2018 | 170 | 128 | No. 95(170)/Panch' Elec./Prl', 06/03/2018 |
 | Alipurduar | 2018 | 66 | 50 | Form 1B, signed 06/03/2018 |
 | Malda | 2013 | 146 | 146 | No. 334/P/PGE'13, 15/03/2013 |
+| Nadia | 2013 | 187 | 187 | Memo No. 404/P&RD, 15.03.2013; codes from the election handbook |
 
-Nadia 2013 is in `../nadia_2013_handbook/`, which lists every GP.
+The 2013 Nadia handbook prints every GP with its code, and its codes add up to the order's
+printed totals. One code (Taldaha Majdia) is blank. The other 186 already exhaust every printed
+total, and the order does not name it, so it is coded unreserved (`BLANK_CODES` in
+`pradhan_gp.py`). Three GP names occur in two blocks each; the handbook's block-by-block serial
+order assigns them (see the overrides).
 
 **The inference.** A Form 1B names the offices it reserves: column 4 for SC/ST/BC, column 5 for
 women. A GP it does not name is unreserved on both axes. The GP universe is the MNREGA R3 list for
 the same year (`../../reference/mnrega_gp_lists.csv`, from doi:10.7910/DVN/ZHF9WC). In each
-district its count equals the total printed in column 2. Malda prints every GP, so nothing is
-inferred there.
+district its count equals the total printed in column 2. Malda and the Nadia handbook print every
+GP, so nothing is inferred there.
 
 **The checks.** The build fails unless every named office resolves to a distinct GP, and the
 parsed counts of offices, SC, ST, BC and women equal the printed totals (`checks.json`). A swap of

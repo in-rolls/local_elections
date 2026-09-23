@@ -43,9 +43,19 @@ def test_unnamed_gps_carry_no_quota(built):
     assert (unnamed.match == "not_named").all()
 
 
-def test_malda_prints_every_gp(built):
+def test_complete_listings_name_every_gp(built):
     table, _ = built
-    assert table[table.district == "Malda"].named_in_order.all()
+    for district, term in [("Malda", 2013), ("Nadia", 2013)]:
+        rows = table[(table.district == district) & (table.term == term)]
+        assert rows.named_in_order.all(), district
+
+
+def test_blank_handbook_code_is_the_one_resolved_by_totals(built):
+    table, _ = built
+    row = table[(table.term == 2013) & (table.gram_panchayat == "TALDAH MAJDIA")]
+    assert len(row) == 1
+    assert row.caste_reservation.item() == "UR"
+    assert not row.woman_reserved.item()
 
 
 def test_committed_output_is_current(built):
