@@ -1,0 +1,17 @@
+district,term,source_file,source_page,source_row,printed,gram_panchayat,block,reason
+South 24 Parganas,2018,s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf,6,13,Chandpur Chaitanyapur,CHANDPUR,MANDIRBAZAR,The order joins the GP name with a village name; CHANDPUR is the only unmatched Mandirbazar GP it can be.
+South 24 Parganas,2018,s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf,6,14,South Bishnupur,DAKSHIN BISHNUPUR,MANDIRBAZAR,South translates Dakshin.
+South 24 Parganas,2018,s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf,5,20,Lakshmi Narayanpur Dakshin,DAKSHIN LAKSHMINARAYANPUR,MATHURAPUR I,Dakshin written after the name; Uttar Lakshminarayanpur is a separate GP.
+Nadia,2018,nadia_FORM_1B_Prodhan_Upa-Prodhan-06032018_29b77844.pdf,4,20,Arbandi II(SC) | Arbandi I,ARBANDI-II,SANTIPUR,"Source contradicts itself: column 4 reads Arbandi II and column 5 Arbandi I. Arbandi-I is already named in column 5 on row 13, and the printed women total counts this row as a separate office."
+Purulia,2018,1B_Pradhan_Raghunathpur-I.pdf,1,2,NATUNDIH,NUTANDI,RAGHUNATH PUR-I,Same GP in MNREGA spelling; the block file is Raghunathpur-I.
+Purulia,2018,1B_Pradhan_Raghunathpur-II.pdf,1,4,NATUNDIH,NUTANDIH,RAGHUNATHPUR-II,Same GP in MNREGA spelling; the block file is Raghunathpur-II.
+Malda,2013,malda_Office_Bearer_of_ZP_PS_GP_d4c3b045.pdf,7,19,SRIRAMPUR,SREERAMPUR,HABIBPUR,Transliteration; the only such GP in the district.
+Malda,2013,malda_Office_Bearer_of_ZP_PS_GP_d4c3b045.pdf,8,6,BOROI,BARUI,HARISHCHANDRAPUR-I,Boroi/Barui: listed among the Harishchandrapur GPs and the only unmatched name there.
+Malda,2013,malda_Office_Bearer_of_ZP_PS_GP_d4c3b045.pdf,8,13,BHAGABANPUR (Ch-I),BHAGABANPUR,CHANCHAL-I,The order tells same-name GPs apart by block tag: Ch-I is Chanchal-I.
+Malda,2013,malda_Office_Bearer_of_ZP_PS_GP_d4c3b045.pdf,8,32,JALALPUR (Ch-II),JALALPUR,CHANCHAL-II,Block tag Ch-II is Chanchal-II.
+Malda,2013,malda_Office_Bearer_of_ZP_PS_GP_d4c3b045.pdf,8,54,HIRANANDAPUR,HEERANANDAPUR,MANIKCHAK,Transliteration.
+Malda,2013,malda_Office_Bearer_of_ZP_PS_GP_d4c3b045.pdf,9,28,U PANCHANANDAPUR-II,UTTAR PACHANANDAPUR-II,KALIACHAK-II,U abbreviates Uttar; MNREGA drops an n.
+Malda,2013,malda_Office_Bearer_of_ZP_PS_GP_d4c3b045.pdf,9,41,JALALPUR (Kck-I),JALALPUR,KALIACHAK-I,Block tag Kck-I is Kaliachak-I.
+Malda,2013,malda_Office_Bearer_of_ZP_PS_GP_d4c3b045.pdf,10,6,LAXMIPUR,LAKSHMIPUR,KALIACHAK-III,Transliteration.
+Malda,2013,malda_Office_Bearer_of_ZP_PS_GP_d4c3b045.pdf,10,8,BHAGABANPUR (Kck-III),BHAGABANPUR,KALIACHAK-III,Block tag Kck-III is Kaliachak-III.
+South 24 Parganas,2018,s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf,12,3,Beonta-II,BENTTATA-II,BHANGAR-II,MNREGA spells Beonta as Benttata; the only unmatched numeral-II GP in Bhangar-II.

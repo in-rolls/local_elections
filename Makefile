@@ -171,6 +171,18 @@ wb-gp-parse:
 wb-gp-validate:
 	$(PY) -m local_elections.states.wb.validate_gp
 
+.PHONY: wb-office-sweep wb-pradhan-gp
+# Inventory of archived district documents; downloads nothing.
+wb-office-sweep:
+	$(PY) -m local_elections.tools.wb_office_sweep
+
+# Pradhan reservation for every GP in the filled districts. The GP lists come
+# from the MNREGA R3 files on Dataverse (network); the scan OCR needs tesseract.
+wb-pradhan-gp:
+	$(PY) -m local_elections.tools.wb_mnrega_gp_lists
+	$(TABLE_OCR_PY) -m local_elections.states.wb.pradhan_scans
+	$(PY) -m local_elections.states.wb.pradhan_gp
+
 .PHONY: wb-parse-all wb-ocr-all wb-parsing-inventory
 wb-parse-all:
 	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_base_drafts

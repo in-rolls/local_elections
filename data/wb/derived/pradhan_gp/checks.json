@@ -1,0 +1,102 @@
+[
+  {
+    "district": "South 24 Parganas",
+    "term": 2018,
+    "printed": {
+      "offices": 310,
+      "SC": 105,
+      "ST": 4,
+      "BC": 46,
+      "women": 155
+    },
+    "parsed": {
+      "offices": 310,
+      "SC": 105,
+      "ST": 4,
+      "BC": 46,
+      "women": 155
+    },
+    "named_in_order": 233,
+    "agrees": true
+  },
+  {
+    "district": "Purulia",
+    "term": 2018,
+    "printed": {
+      "offices": 170,
+      "SC": 31,
+      "ST": 34,
+      "BC": 20,
+      "women": 85
+    },
+    "parsed": {
+      "offices": 170,
+      "SC": 31,
+      "ST": 34,
+      "BC": 20,
+      "women": 85
+    },
+    "named_in_order": 128,
+    "agrees": true
+  },
+  {
+    "district": "Alipurduar",
+    "term": 2018,
+    "printed": {
+      "offices": 66,
+      "SC": 18,
+      "ST": 15,
+      "BC": 0,
+      "women": 33
+    },
+    "parsed": {
+      "offices": 66,
+      "SC": 18,
+      "ST": 15,
+      "BC": 0,
+      "women": 33
+    },
+    "named_in_order": 50,
+    "agrees": true
+  },
+  {
+    "district": "Nadia",
+    "term": 2018,
+    "printed": {
+      "offices": 185,
+      "SC": 59,
+      "ST": 5,
+      "BC": 28,
+      "women": 92
+    },
+    "parsed": {
+      "offices": 185,
+      "SC": 59,
+      "ST": 5,
+      "BC": 28,
+      "women": 92
+    },
+    "named_in_order": 138,
+    "agrees": true
+  },
+  {
+    "district": "Malda",
+    "term": 2013,
+    "printed": {
+      "offices": 146,
+      "SC": 35,
+      "ST": 9,
+      "BC": 29,
+      "women": 73
+    },
+    "parsed": {
+      "offices": 146,
+      "SC": 35,
+      "ST": 9,
+      "BC": 29,
+      "women": 73
+    },
+    "named_in_order": 146,
+    "agrees": true
+  }
+]
