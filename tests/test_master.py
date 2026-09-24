@@ -4,8 +4,8 @@ import subprocess
 
 import pytest
 
-from local_reservations.common import master as M
-from local_reservations.tools import build_master
+from local_elections.common import master as M
+from local_elections.tools import build_master
 
 BASE = {
     "state": "Goa",
@@ -266,7 +266,7 @@ def test_every_rows_script_matches_its_own_text():
 
     import pyarrow.parquet as pq
 
-    from local_reservations.paths import ROOT
+    from local_elections.paths import ROOT
 
     devanagari = re.compile(r"[ऀ-ॿ]")
     bengali = re.compile(r"[ঀ-৿]")

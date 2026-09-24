@@ -6,8 +6,8 @@ anything, rather than the arithmetic inside any one of them.
 
 import pytest
 
-from local_reservations.common import checks, master, notes
-from local_reservations.common import slice_checks as sc
+from local_elections.common import checks, master, notes
+from local_elections.common import slice_checks as sc
 
 # Slice wants a root; these fixtures never read from it.
 ROOT = "."

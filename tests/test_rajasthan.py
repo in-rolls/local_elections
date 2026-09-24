@@ -2,9 +2,9 @@ import collections
 
 import pytest
 
-from local_reservations.common import canon, reference
-from local_reservations.common.adapters import rajasthan
-from local_reservations.paths import ROOT
+from local_elections.common import canon, reference
+from local_elections.common.adapters import rajasthan
+from local_elections.paths import ROOT
 
 
 @pytest.fixture(scope="module")

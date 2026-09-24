@@ -6,7 +6,7 @@ dropped, a row split in two, a category refused by a rule that was right about
 a different vocabulary.
 """
 
-from local_reservations.states.karnataka import tables
+from local_elections.states.karnataka import tables
 
 
 def test_the_four_reservation_families_are_read():

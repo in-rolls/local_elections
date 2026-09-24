@@ -8,7 +8,7 @@ Uttar Pradesh or Uttarakhand.
 
 import pytest
 
-from local_reservations.common import collapse
+from local_elections.common import collapse
 
 
 def rows(*specs):
@@ -152,7 +152,7 @@ def test_the_candidate_rows_are_a_table_of_their_own():
     """The long form is not an appendage. Each candidate row carries the place,
     the office and the seat's reservation, so it reads without reconstructing
     the seat first, and `row_id` joins it back to the wide table."""
-    from local_reservations.common import master
+    from local_elections.common import master
 
     seats = collapse.to_seats(
         rows(("A", "X", "SC", "0", "10", "One"), ("A", "X", "SC", "0", "30", "Two")),
@@ -227,7 +227,7 @@ def test_a_tie_for_second_leaves_the_runner_up_blank():
 
 def test_a_seat_level_source_contributes_no_candidate_rows():
     """Haryana states seats directly. Nothing to keep, and nothing to invent."""
-    from local_reservations.common import master
+    from local_elections.common import master
 
     assert master.candidates({"gram_panchayat": "X"}, {"row_id": "abc"}) == []
 

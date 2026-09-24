@@ -4,7 +4,7 @@ A versioned, checksummed data package of reservation and election-result data
 for India's local bodies. Coverage varies by state, year and tier; the tables
 below state those limits rather than implying nationwide completeness.
 
-Download the pooled Parquet tables from the [GitHub releases](https://github.com/in-rolls/local_reservations/releases)
+Download the pooled Parquet tables from the [GitHub releases](https://github.com/in-rolls/local_elections/releases)
 (`pooled_data_*.tar.gz`). The Python distributions contain code; source-evidence
 archives are separate downloads for auditing and rebuilding.
 
@@ -67,7 +67,7 @@ parsed and pooled tables, the exact master column order, and the commit each
 sibling repository was read at. Supplemental exports and raw source evidence
 also have source-specific inventories and manifests; consult the state source
 guides for their locations. Verify a checkout with `python3
-src/local_reservations/tools/verify_manifest.py`, which is standard library
+src/local_elections/tools/verify_manifest.py`, which is standard library
 only and imports nothing else here, so it works from a bare checkout or an
 unpacked tarball.
 
@@ -76,7 +76,7 @@ Tamil Nadu, the national and early-source searches, and the pinned historical
 Haryana build input, including original documents,
 OCR readings and review images. Its archive map preserves files too large for
 ordinary Git storage. After downloading source-evidence assets, verify every
-archive member with `python3 src/local_reservations/tools/verify_manifest.py
+archive member with `python3 src/local_elections/tools/verify_manifest.py
 --manifest SOURCE_MANIFEST.json --archives /path/to/assets`. See the
 [Tamil Nadu extract](data/tn/readme.md) and [source ledger](data/source_search/early_heads/README.md)
 for parsed coverage and unresolved readings. Release changes are recorded in the [changelog](CHANGELOG.md).

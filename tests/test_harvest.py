@@ -3,7 +3,7 @@ import hashlib
 
 import pytest
 
-from local_reservations.common import harvest
+from local_elections.common import harvest
 
 
 def document():

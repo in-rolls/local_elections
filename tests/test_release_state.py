@@ -6,7 +6,7 @@ import subprocess
 
 import pytest
 
-from local_reservations.tools import release_check
+from local_elections.tools import release_check
 
 
 def git(path, *args):

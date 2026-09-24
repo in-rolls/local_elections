@@ -8,7 +8,7 @@ Devanagari word, not an error, and nobody reading the output would spot it.
 
 import pytest
 
-from local_reservations.common import krutidev
+from local_elections.common import krutidev
 
 # The reservation vocabulary, whose meanings are pinned in test_normalize.py
 PHRASES = [

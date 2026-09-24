@@ -4,7 +4,7 @@ from types import SimpleNamespace
 
 import pytest
 
-from local_reservations.tools.pilot_haryana_hosted import (
+from local_elections.tools.pilot_haryana_hosted import (
     FIELDS,
     MAX_OUTPUT,
     MAX_REQUEST_USD,

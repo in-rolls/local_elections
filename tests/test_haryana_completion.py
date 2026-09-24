@@ -6,7 +6,7 @@ from pathlib import Path
 import pandas as pd
 import pytest
 
-from local_reservations.tools.parse_haryana_historical import apply_reservation_reviews
+from local_elections.tools.parse_haryana_historical import apply_reservation_reviews
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = ROOT / "data/source_search/national/haryana"
@@ -68,7 +68,7 @@ def test_changed_or_repeated_source_decision_is_rejected():
     reason="requires the externally archived Haryana annexure PDF",
 )
 def test_samiti_chair_reservations_reconcile_to_printed_totals():
-    from local_reservations.tools.parse_haryana_report import parse_chair_reservations
+    from local_elections.tools.parse_haryana_report import parse_chair_reservations
 
     rows = parse_chair_reservations()
     assert len(rows) == 114
@@ -86,7 +86,7 @@ def test_samiti_chair_reservations_reconcile_to_printed_totals():
 def test_tesseract_literal_quotes_do_not_consume_following_rows(tmp_path):
     import gzip
 
-    from local_reservations.tools.parse_haryana_gazettes import lines_from_tsv
+    from local_elections.tools.parse_haryana_gazettes import lines_from_tsv
 
     text = (
         "level\tpage_num\tblock_num\tpar_num\tline_num\tword_num\tleft\ttop\twidth\theight\tconf\ttext\n"
@@ -102,7 +102,7 @@ def test_tesseract_literal_quotes_do_not_consume_following_rows(tmp_path):
 
 
 def test_benchmark_counts_wrong_keys_and_duplicate_keys_as_failures():
-    from local_reservations.tools.bench_haryana_gazettes import score_candidates
+    from local_elections.tools.bench_haryana_gazettes import score_candidates
 
     label = {
         "source_sha256": "sha",
@@ -136,7 +136,7 @@ def test_benchmark_counts_wrong_keys_and_duplicate_keys_as_failures():
 
 
 def test_honorific_removal_does_not_strip_personal_name_prefixes():
-    from local_reservations.tools.audit_haryana_historical import name_key
+    from local_elections.tools.audit_haryana_historical import name_key
 
     assert name_key("SH. RAM SINGH") == "RAMSINGH"
     assert name_key("SHRI RAM SINGH") == "RAMSINGH"
@@ -149,7 +149,7 @@ def test_ocr_receipt_reuse_checks_bytes_and_preserves_engine_provenance(
     import json
     import shutil
 
-    from local_reservations.tools import ocr_haryana_gazettes as ocr
+    from local_elections.tools import ocr_haryana_gazettes as ocr
 
     folder = FIXTURES / "ocr_page"
     receipt = json.loads((folder / "page_0001.tsv.json").read_text())
@@ -186,7 +186,7 @@ def test_ocr_receipt_reuse_checks_bytes_and_preserves_engine_provenance(
 
 
 def test_identical_pdf_cannot_become_offices_in_two_districts():
-    from local_reservations.tools.parse_haryana_gazettes import unique_sources
+    from local_elections.tools.parse_haryana_gazettes import unique_sources
 
     first = {
         "sha256": "same",
@@ -210,7 +210,7 @@ def test_identical_pdf_cannot_become_offices_in_two_districts():
 def test_vision_response_must_finish_and_preserve_null_cells():
     import json
 
-    from local_reservations.tools.ocr_haryana_members import validate_response
+    from local_elections.tools.ocr_haryana_members import validate_response
 
     response = {
         "done": True,
@@ -227,7 +227,7 @@ def test_vision_response_must_finish_and_preserve_null_cells():
 
 
 def test_member_review_preserves_source_blank_and_rejects_incomplete_frame():
-    from local_reservations.tools.parse_haryana_members import checked_rows
+    from local_elections.tools.parse_haryana_members import checked_rows
 
     page = {
         "source_sha256": "pdf",
@@ -261,7 +261,7 @@ def test_member_review_preserves_source_blank_and_rejects_incomplete_frame():
 
 
 def test_member_model_audit_counts_false_keys_and_source_blank_inventions():
-    from local_reservations.tools.parse_haryana_members import compare_model
+    from local_elections.tools.parse_haryana_members import compare_model
 
     cells = [
         {

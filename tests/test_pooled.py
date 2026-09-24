@@ -15,9 +15,9 @@ from, not instead of it.
 
 import pytest
 
-from local_reservations.common import datasets, master
-from local_reservations.common.adapters import haryana, kerala, uttar_pradesh
-from local_reservations.states.telangana import parse as telangana
+from local_elections.common import datasets, master
+from local_elections.common.adapters import haryana, kerala, uttar_pradesh
+from local_elections.states.telangana import parse as telangana
 
 
 def test_blank_winners_have_no_published_basis(tmp_path):
@@ -64,7 +64,7 @@ def test_the_projection_does_not_replace_the_source_row():
 
 
 def test_pooled_prefers_row_observation_grain(monkeypatch):
-    from local_reservations.tools import build_master
+    from local_elections.tools import build_master
 
     row = {
         "state": "Rajasthan",

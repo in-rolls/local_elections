@@ -3,8 +3,8 @@
 import json
 from types import SimpleNamespace
 
-from local_reservations.states.wb import parse_ward_schedules
-from local_reservations.states.wb.parse_ancillary import (
+from local_elections.states.wb import parse_ward_schedules
+from local_elections.states.wb.parse_ancillary import (
     parse_candidate_reports,
     parse_polling_infrastructure,
     parse_single_nomination_rows,

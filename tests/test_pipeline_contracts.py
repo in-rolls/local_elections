@@ -1,8 +1,8 @@
 import ast
 
-from local_reservations.paths import ROOT
+from local_elections.paths import ROOT
 
-SOURCE = ROOT / "src" / "local_reservations"
+SOURCE = ROOT / "src" / "local_elections"
 NETWORK_MODULES = {"requests", "httpx", "urllib.request"}
 
 
@@ -27,7 +27,7 @@ def test_parsers_and_validators_are_network_free():
         forbidden = {
             name
             for name in imported
-            if name in NETWORK_MODULES or name == "local_reservations.common.fetch"
+            if name in NETWORK_MODULES or name == "local_elections.common.fetch"
         }
         if forbidden:
             offenders.append((path.relative_to(ROOT), sorted(forbidden)))

@@ -5,8 +5,8 @@ from types import SimpleNamespace
 
 import pytest
 
-from local_reservations.states.wb.parse_nadia import allocated, reservation
-from local_reservations.states.wb.parse_ward_schedules import (
+from local_elections.states.wb.parse_nadia import allocated, reservation
+from local_elections.states.wb.parse_ward_schedules import (
     allocation,
     category,
     parse_native,
@@ -164,7 +164,7 @@ def test_selection_does_not_take_office_orders():
 
 
 def test_block_reservation_on_merged_constituency_continuation():
-    from local_reservations.states.wb.parse_ward_schedules import parse_other_tiers
+    from local_elections.states.wb.parse_ward_schedules import parse_other_tiers
 
     record = {
         "sha256": "hash",
@@ -205,7 +205,7 @@ def test_block_reservation_on_merged_constituency_continuation():
 
 
 def test_rotated_scan_preserves_original_word_boxes():
-    from local_reservations.states.wb.parse_ward_schedules import orient_ocr_words
+    from local_elections.states.wb.parse_ward_schedules import orient_ocr_words
 
     words = [
         {"text": text, "left": "100", "top": str(y), "width": "10", "height": "10"}
@@ -218,7 +218,7 @@ def test_rotated_scan_preserves_original_word_boxes():
 
 
 def test_crosswalk_does_not_create_reservation_data():
-    from local_reservations.states.wb.parse_ward_schedules import (
+    from local_elections.states.wb.parse_ward_schedules import (
         parse_constituency_crosswalk,
     )
 
@@ -254,7 +254,7 @@ def test_crosswalk_does_not_create_reservation_data():
 
 
 def test_language_routing_requires_page_evidence(tmp_path, monkeypatch):
-    from local_reservations.states.wb import parse_ward_schedules
+    from local_elections.states.wb import parse_ward_schedules
 
     monkeypatch.setattr(parse_ward_schedules, "OUT", tmp_path)
     evidence = tmp_path / "language_pilot"
@@ -268,7 +268,7 @@ def test_language_routing_requires_page_evidence(tmp_path, monkeypatch):
 
 
 def test_failed_ocr_is_retried_and_failure_history_retained(tmp_path, monkeypatch):
-    from local_reservations.states.wb import parse_ward_schedules as ward
+    from local_elections.states.wb import parse_ward_schedules as ward
 
     monkeypatch.setattr(ward, "ROOT", tmp_path)
     monkeypatch.setattr(ward, "OUT", tmp_path)
@@ -444,7 +444,7 @@ def test_gp_headerless_reader_abstains_on_conflicting_names_and_codes():
 def test_page_pinned_rotation_invalidates_cache_and_preserves_attempt(
     tmp_path, monkeypatch
 ):
-    from local_reservations.states.wb import parse_ward_schedules as ward
+    from local_elections.states.wb import parse_ward_schedules as ward
 
     monkeypatch.setattr(ward, "ROOT", tmp_path)
     monkeypatch.setattr(ward, "OUT", tmp_path)

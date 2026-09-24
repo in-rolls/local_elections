@@ -7,8 +7,8 @@ from types import SimpleNamespace
 import pandas as pd
 import pytest
 
-from local_reservations.tools import pilot_haryana_hosted as pilot
-from local_reservations.tools import rollout_haryana_hosted as rollout
+from local_elections.tools import pilot_haryana_hosted as pilot
+from local_elections.tools import rollout_haryana_hosted as rollout
 
 
 def completion(rows):

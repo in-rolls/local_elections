@@ -8,5 +8,5 @@ default_branch: main
 description: Reservation and results data for India's local electoral bodies
 needs_cli: true
 org: in-rolls
-package_name: local_reservations
-project_name: local-reservations
+package_name: local_elections
+project_name: local-elections

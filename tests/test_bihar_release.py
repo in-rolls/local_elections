@@ -8,7 +8,7 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 import pytest
 
-from local_reservations.common.adapters import bihar_2021 as bihar
+from local_elections.common.adapters import bihar_2021 as bihar
 
 
 def tables():

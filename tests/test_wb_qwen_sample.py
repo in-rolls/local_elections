@@ -5,12 +5,12 @@ import sys
 import pytest
 from PIL import Image
 
-from local_reservations.states.wb.qwen_sample import ensure_crop, stratified_sample
+from local_elections.states.wb.qwen_sample import ensure_crop, stratified_sample
 
 
 @pytest.mark.parametrize("change", ["replace", "reorder", "unchanged"])
 def test_frozen_sample_hash_is_checked_before_crop_work(tmp_path, monkeypatch, change):
-    from local_reservations.states.wb import qwen_sample
+    from local_elections.states.wb import qwen_sample
 
     source = tmp_path / "source.pdf"
     source.write_bytes(b"preserved source bytes")

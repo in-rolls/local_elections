@@ -2,7 +2,7 @@
 
 import json
 
-from local_reservations.states.wb import parsing_inventory as inventory
+from local_elections.states.wb import parsing_inventory as inventory
 
 
 def test_base_gazettes_have_complete_ocr_page_coverage():

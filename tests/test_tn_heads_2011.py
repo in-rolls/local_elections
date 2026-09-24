@@ -7,7 +7,7 @@ import json
 import pyarrow.parquet as pq
 import pytest
 
-from local_reservations.states.tn import parse_heads_2011 as parser
+from local_elections.states.tn import parse_heads_2011 as parser
 
 
 @pytest.fixture(scope="module")

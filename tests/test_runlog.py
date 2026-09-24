@@ -2,7 +2,7 @@ import io
 import json
 import logging
 
-from local_reservations.common import runlog
+from local_elections.common import runlog
 
 
 def reset_logger():
@@ -17,7 +17,7 @@ def test_json_log_has_stable_event_and_context(monkeypatch):
     stream = io.StringIO()
     runlog.configure(stream)
 
-    logger = logging.getLogger("local_reservations.test")
+    logger = logging.getLogger("local_elections.test")
     logger.info(
         "downloaded source",
         extra={"event": "source_fetched", "state": "Assam", "bytes": 42},

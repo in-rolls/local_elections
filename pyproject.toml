@@ -1,11 +1,11 @@
 [project]
-name = "local-reservations"
+name = "local-elections"
 description = "Reservation and results data for India's local electoral bodies"
 readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 requires-python = ">=3.12"
-version = "0.6.0"
+version = "0.7.0"
 authors = [{ name = "Gaurav Sood", email = "contact@gsood.com" }]
 keywords = ["india", "panchayat", "elections", "reservation", "local government"]
 classifiers = [
@@ -42,10 +42,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/in-rolls/local_reservations"
-Repository = "https://github.com/in-rolls/local_reservations"
-Issues = "https://github.com/in-rolls/local_reservations/issues"
-Changelog = "https://github.com/in-rolls/local_reservations/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/in-rolls/local_elections"
+Repository = "https://github.com/in-rolls/local_elections"
+Issues = "https://github.com/in-rolls/local_elections/issues"
+Changelog = "https://github.com/in-rolls/local_elections/blob/main/CHANGELOG.md"
 
 [dependency-groups]
 dev = [
@@ -119,11 +119,11 @@ convention = "google"
 # is how they are installed.
 # proof_page and compare_readers write an HTML file to /tmp and open it; they
 # are for putting a rendered page in front of a human, not for shipping.
-"src/local_reservations/tools/**" = ["T201", "S603", "S607", "S108"]
+"src/local_elections/tools/**" = ["T201", "S603", "S607", "S108"]
 # S310: the AP harvester opens an https URL built from a CDX response.
 # S105: RE_MUKHIYA_TOKEN is a regex for a Kruti Dev word, not a password.
-"src/local_reservations/states/**" = ["T201", "S603", "S607", "S310", "S105", "S101"]
-"src/local_reservations/common/**" = ["T201", "S603", "S607"]
+"src/local_elections/states/**" = ["T201", "S603", "S607", "S310", "S105", "S101"]
+"src/local_elections/common/**" = ["T201", "S603", "S607"]
 
 [tool.pyright]
 # The shared layer only. These modules have real interfaces - every state's
@@ -131,7 +131,7 @@ convention = "google"
 # here is wrong in twelve places. The per-state parsers each have one caller and
 # one document; annotating 16,000 lines of them would be a large diff for no
 # reader. This is the scope, not a staging post.
-include = ["src/local_reservations/common", "src/local_reservations/paths.py"]
+include = ["src/local_elections/common", "src/local_elections/paths.py"]
 typeCheckingMode = "standard"
 
 [tool.pydoclint]
@@ -142,10 +142,10 @@ check-class-attributes = false
 allow-init-docstring = true
 exclude = '\.venv|tests|docs'
 [project.scripts]
-build-master = "local_reservations.tools.build_master:main"
-build-manifest = "local_reservations.tools.build_manifest:main"
-verify-manifest = "local_reservations.tools.verify_manifest:main"
-release-check = "local_reservations.tools.release_check:main"
+build-master = "local_elections.tools.build_master:main"
+build-manifest = "local_elections.tools.build_manifest:main"
+verify-manifest = "local_elections.tools.verify_manifest:main"
+release-check = "local_elections.tools.release_check:main"
 
 [build-system]
 requires = ["uv_build>=0.12.5,<0.13"]

@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "local-reservations"
+title: "local-elections"
 authors:
   - family-names: "Sood"
     given-names: "Gaurav"
-repository-code: "https://github.com/in-rolls/local_reservations"
+repository-code: "https://github.com/in-rolls/local_elections"
 license: MIT
-version: "0.6.0"
+version: "0.7.0"
 date-released: "2026-09-20"

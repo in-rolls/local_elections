@@ -5,8 +5,8 @@ from pathlib import Path
 import pyarrow.parquet as pq
 import pytest
 
-from local_reservations.common.adapters.haryana import convert
-from local_reservations.tools.build_haryana_release import (
+from local_elections.common.adapters.haryana import convert
+from local_elections.tools.build_haryana_release import (
     build,
     printing_classification,
 )

@@ -8,10 +8,10 @@ from typing import ClassVar
 import pandas as pd
 import pytest
 
-from local_reservations.tools import historical_harvest as harvest
-from local_reservations.tools import parse_haryana_historical as parse
-from local_reservations.tools import parse_haryana_report as report
-from local_reservations.tools.bench_up_history import category, score
+from local_elections.tools import historical_harvest as harvest
+from local_elections.tools import parse_haryana_historical as parse
+from local_elections.tools import parse_haryana_report as report
+from local_elections.tools.bench_up_history import category, score
 
 FIXTURES = Path(__file__).parent / "fixtures/haryana_historical"
 REVIEW_FIXTURES = Path(__file__).parent / "fixtures/haryana_reviews"

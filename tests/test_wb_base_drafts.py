@@ -4,7 +4,7 @@ import json
 
 import pytest
 
-from local_reservations.states.wb import parse_base_drafts as parser
+from local_elections.states.wb import parse_base_drafts as parser
 
 
 @pytest.fixture(scope="module")

@@ -7,7 +7,7 @@ perfectly plausible value, so nothing raises and nothing looks wrong.
 
 import pytest
 
-from local_reservations.common.normalize import (
+from local_elections.common.normalize import (
     caste_of,
     is_krutidev,
     is_vacant,
@@ -17,7 +17,7 @@ from local_reservations.common.normalize import (
     strip_unopposed,
     woman_of,
 )
-from local_reservations.paths import ROOT
+from local_elections.paths import ROOT
 
 # ---------------------------------------------------------------- Jharkhand
 # Caste and gender sit in separate columns, so these are tested separately.

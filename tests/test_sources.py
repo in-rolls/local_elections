@@ -3,7 +3,7 @@ import json
 
 import pytest
 
-from local_reservations.common import sources
+from local_elections.common import sources
 
 
 @pytest.fixture

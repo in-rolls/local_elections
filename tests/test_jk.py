@@ -1,8 +1,8 @@
 import collections
 import csv
 
-from local_reservations.common import canon
-from local_reservations.states.jk import extract_2010, extract_2016, parse
+from local_elections.common import canon
+from local_elections.states.jk import extract_2010, extract_2016, parse
 
 
 def page(source_pdf, table):
