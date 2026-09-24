@@ -3,14 +3,14 @@ import json
 
 from PIL import Image
 
-from local_reservations.states.wb.evaluate_qwen import (
+from local_elections.states.wb.evaluate_qwen import (
     compare,
     find_reading,
     processed_image,
     reading_fields,
     summarize,
 )
-from local_reservations.tools.wb_qwen_review import PROMPT, fingerprint
+from local_elections.tools.wb_qwen_review import PROMPT, fingerprint
 
 
 def test_cell_comparison_preserves_roman_suffix_errors_and_blank_hallucinations():
@@ -124,7 +124,7 @@ def test_truncated_model_json_is_retained_as_failed_extraction(tmp_path):
 def test_duplicate_ids_cannot_silently_overwrite_a_reference():
     import pytest
 
-    from local_reservations.states.wb.evaluate_qwen import indexed
+    from local_elections.states.wb.evaluate_qwen import indexed
 
     with pytest.raises(ValueError, match="duplicate sample ID"):
         indexed([{"sample_id": 1}, {"sample_id": 1}], "gold")
@@ -135,7 +135,7 @@ def test_duplicate_ids_cannot_silently_overwrite_a_reference():
 def test_manifest_links_source_geometry_and_frozen_image(tmp_path):
     import pytest
 
-    from local_reservations.states.wb.evaluate_qwen import validated_manifest
+    from local_elections.states.wb.evaluate_qwen import validated_manifest
 
     Image.new("RGB", (3, 7), "white").save(tmp_path / "crop.png")
     source = {
@@ -179,7 +179,7 @@ def test_manifest_links_source_geometry_and_frozen_image(tmp_path):
 
 
 def test_broad_ambiguity_cannot_be_counted_as_a_known_negative_category():
-    from local_reservations.states.wb.evaluate_qwen import canonical_reference
+    from local_elections.states.wb.evaluate_qwen import canonical_reference
 
     reference = canonical_reference(
         {
@@ -199,7 +199,7 @@ def test_broad_ambiguity_cannot_be_counted_as_a_known_negative_category():
 def test_sampling_weights_must_match_frozen_allocation():
     import pytest
 
-    from local_reservations.states.wb.evaluate_qwen import validate_weights
+    from local_elections.states.wb.evaluate_qwen import validate_weights
 
     rows = {1: {"stratum": "a", "frame_n": 10, "sample_n": 1, "sampling_weight": 10}}
     design = {"sample_size": 1, "strata": 1, "eligible_frame_cells": 10}
@@ -212,7 +212,7 @@ def test_sampling_weights_must_match_frozen_allocation():
 def test_gold_and_adjudication_require_matching_image_hash():
     import pytest
 
-    from local_reservations.states.wb.evaluate_qwen import validate_reference_image
+    from local_elections.states.wb.evaluate_qwen import validate_reference_image
 
     manifest = {1: {"image_sha256": "frozen", "axis": "women"}}
     with pytest.raises(ValueError, match="hash missing or changed"):

@@ -1,7 +1,7 @@
 from types import SimpleNamespace
 
-from local_reservations.states.jharkhand import ocr_seats
-from local_reservations.tools import compare_readers
+from local_elections.states.jharkhand import ocr_seats
+from local_elections.tools import compare_readers
 
 
 def test_packaged_ocr_helpers_import() -> None:

@@ -4,15 +4,15 @@ import json
 
 import pytest
 
-from local_reservations.paths import ROOT
-from local_reservations.states.wb import parse_hooghly, parse_nadia, parse_results
+from local_elections.paths import ROOT
+from local_elections.states.wb import parse_hooghly, parse_nadia, parse_results
 
 
 @pytest.mark.parametrize("cached_digest", [None, "0" * 64, "matching"])
 def test_native_cache_requires_matching_source_identity(
     tmp_path, monkeypatch, cached_digest
 ):
-    from local_reservations.states.wb import extract_native
+    from local_elections.states.wb import extract_native
 
     source = tmp_path / "source.pdf"
     source.write_bytes(b"original PDF bytes")

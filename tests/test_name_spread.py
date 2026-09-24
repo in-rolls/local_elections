@@ -27,7 +27,7 @@ import re
 
 import pytest
 
-from local_reservations.paths import ROOT
+from local_elections.paths import ROOT
 
 DEVANAGARI = re.compile(r"[ऀ-ॿ]")
 

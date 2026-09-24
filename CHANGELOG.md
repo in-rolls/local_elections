@@ -7,6 +7,19 @@ is worse than one that does not change at all.
 Corrections are listed first in each release, not last. The most useful thing
 here is usually the thing that was wrong.
 
+## v0.7.0 — unreleased
+
+### Changed
+
+- The repository, distribution and import package are renamed to match the
+  state repositories: GitHub `in-rolls/local_elections`, distribution
+  `local-elections`, import `local_elections`. The old GitHub name
+  `in-rolls/local_reservations` redirects. Commands are now
+  `python -m local_elections...`.
+- Nothing under `data/` was rewritten. Logs, audit records and generated
+  files made before this release name the modules that produced them as
+  `local_reservations.*`; those names are historical and refer to the same code.
+
 ## v0.6.0 — 2026-09-20
 
 ### Corrected

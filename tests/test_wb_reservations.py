@@ -1,8 +1,8 @@
 import pandas as pd
 import pytest
 
-from local_reservations.states.wb import parse_birbhum as parser
-from local_reservations.states.wb import reservation_coverage as coverage
+from local_elections.states.wb import parse_birbhum as parser
+from local_elections.states.wb import reservation_coverage as coverage
 
 
 @pytest.fixture(scope="module")

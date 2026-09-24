@@ -7,8 +7,8 @@ from pathlib import Path
 import pdfplumber
 import pytest
 
-from local_reservations.paths import ROOT
-from local_reservations.states.wb import parse_office_native as parser
+from local_elections.paths import ROOT
+from local_elections.states.wb import parse_office_native as parser
 
 
 def curated_rows(tmp_path, monkeypatch, corrections):

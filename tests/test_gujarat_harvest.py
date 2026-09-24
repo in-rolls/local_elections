@@ -1,6 +1,6 @@
 """Contracts for the Gujarat 2020 source harvester."""
 
-from local_reservations.states.gujarat import geography, harvest
+from local_elections.states.gujarat import geography, harvest
 
 
 def test_only_pdf_links_are_collected_and_resolved():

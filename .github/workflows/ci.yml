@@ -64,8 +64,8 @@ jobs:
           LOCAL_RESERVATIONS_ROOT="$GITHUB_WORKSPACE" /tmp/wheel-test/bin/python -P - <<'PY'
           import os
           from pathlib import Path
-          from local_reservations.common import datasets
-          from local_reservations.paths import ROOT
+          from local_elections.common import datasets
+          from local_elections.paths import ROOT
 
           assert "site-packages" in datasets.__file__
           assert ROOT == Path(os.environ["LOCAL_RESERVATIONS_ROOT"]).resolve()

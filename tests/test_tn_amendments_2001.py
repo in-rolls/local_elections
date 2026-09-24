@@ -6,7 +6,7 @@ import json
 import pyarrow.parquet as pq
 import pytest
 
-from local_reservations.states.tn.parse_amendments_2001 import (
+from local_elections.states.tn.parse_amendments_2001 import (
     OUT,
     digest,
     flatten_operations,

@@ -9,7 +9,7 @@ from types import SimpleNamespace
 import pytest
 from PIL import Image
 
-from local_reservations.states.tn import extract_scans as scans
+from local_elections.states.tn import extract_scans as scans
 
 
 @pytest.fixture

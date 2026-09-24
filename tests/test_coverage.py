@@ -4,8 +4,8 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 import pytest
 
-from local_reservations.common import datasets, notes, slice_checks
-from local_reservations.tools import build_coverage, build_sources, build_state_readmes
+from local_elections.common import datasets, notes, slice_checks
+from local_elections.tools import build_coverage, build_sources, build_state_readmes
 
 
 def test_cross_state_search_is_not_a_state(tmp_path, monkeypatch):
@@ -70,7 +70,7 @@ def test_sibling_parquet_rows_are_counted_from_metadata(tmp_path, monkeypatch):
     sibling = tmp_path / "sibling"
     sibling.mkdir()
     pq.write_table(pa.table({"seat": [1, 2, 3]}), sibling / "seats.parquet")
-    monkeypatch.setattr(build_coverage, "ROOT", tmp_path / "local_reservations")
+    monkeypatch.setattr(build_coverage, "ROOT", tmp_path / "local_elections")
     spec = {"repo": "sibling", "files": ["seats.parquet"]}
     assert build_coverage.sibling_rows(spec) == "3"
 

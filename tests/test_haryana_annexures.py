@@ -3,7 +3,7 @@ from pathlib import Path
 
 import pytest
 
-from local_reservations.tools.parse_haryana_annexures import (
+from local_elections.tools.parse_haryana_annexures import (
     body_key,
     chair_concordance,
     date_archived_offices,

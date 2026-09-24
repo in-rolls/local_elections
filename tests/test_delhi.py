@@ -4,13 +4,13 @@ from pathlib import Path
 import pandas as pd
 import pytest
 
-from local_reservations.states.delhi.html import (
+from local_elections.states.delhi.html import (
     case_entries,
     expand_rows,
     profile,
     winner_links,
 )
-from local_reservations.states.delhi.parse import official_2022
+from local_elections.states.delhi.parse import official_2022
 
 ROOT = Path(__file__).parents[1]
 
@@ -121,7 +121,7 @@ def test_2022_profiles_match_adr_published_education_and_case_totals():
 
 
 def test_validator_rejects_a_changed_release(tmp_path):
-    from local_reservations.states.delhi.validate import validate
+    from local_elections.states.delhi.validate import validate
 
     release = ROOT / "data/delhi/release"
     assert validate(release) == {2012: 272, 2017: 272, 2022: 250}

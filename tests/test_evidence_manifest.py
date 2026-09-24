@@ -9,9 +9,9 @@ import tarfile
 
 import pytest
 
-from local_reservations.paths import ROOT
-from local_reservations.tools import build_evidence as build
-from local_reservations.tools import verify_manifest as verify
+from local_elections.paths import ROOT
+from local_elections.tools import build_evidence as build
+from local_elections.tools import verify_manifest as verify
 
 
 def corpus(tmp_path):
@@ -47,7 +47,7 @@ def test_verifier_runs_without_package_and_detects_unlisted_files(tmp_path):
     command = [
         sys.executable,
         "-I",
-        str(ROOT / "src/local_reservations/tools/verify_manifest.py"),
+        str(ROOT / "src/local_elections/tools/verify_manifest.py"),
         "--manifest",
         str(path),
         "--root",
@@ -72,7 +72,7 @@ def test_missing_and_changed_local_source_fail(tmp_path):
         [
             sys.executable,
             "-I",
-            str(ROOT / "src/local_reservations/tools/verify_manifest.py"),
+            str(ROOT / "src/local_elections/tools/verify_manifest.py"),
             "--manifest",
             str(path),
             "--root",

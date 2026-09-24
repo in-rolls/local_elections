@@ -10,10 +10,10 @@ import json
 import subprocess
 import sys
 
-from local_reservations.paths import ROOT
+from local_elections.paths import ROOT
 
-BUILD = ROOT / "src" / "local_reservations" / "tools" / "build_manifest.py"
-VERIFY = ROOT / "src" / "local_reservations" / "tools" / "verify_manifest.py"
+BUILD = ROOT / "src" / "local_elections" / "tools" / "build_manifest.py"
+VERIFY = ROOT / "src" / "local_elections" / "tools" / "verify_manifest.py"
 MANIFEST = ROOT / "MANIFEST.json"
 MANIFEST_MD = ROOT / "MANIFEST.md"
 
@@ -52,7 +52,7 @@ def test_two_builds_from_one_tree_are_byte_identical():
 
 
 def test_manifest_only_commits_do_not_advance_the_build_commit(tmp_path):
-    from local_reservations.tools import build_manifest
+    from local_elections.tools import build_manifest
 
     subprocess.run(["git", "init", "-q", tmp_path], check=True)
     subprocess.run(
@@ -87,8 +87,8 @@ def test_the_manifest_records_the_exact_column_order():
     diffing a header."""
     if not MANIFEST.exists():
         return
-    from local_reservations.common import master as M
-    from local_reservations.tools import build_manifest
+    from local_elections.common import master as M
+    from local_elections.tools import build_manifest
 
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
     assert manifest["schema_version"] == build_manifest.SCHEMA_VERSION == 4

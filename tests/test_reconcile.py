@@ -14,7 +14,7 @@ reports few problems and reads as though there are few.
 import collections
 import csv
 
-from local_reservations.paths import ROOT
+from local_elections.paths import ROOT
 
 WORKLIST = ROOT / "data" / "worklist.csv"
 COLLISIONS = ROOT / "data" / "master" / "master_key_collisions.csv"

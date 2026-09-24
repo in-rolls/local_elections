@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pyarrow.parquet as pq
 
-from local_reservations.common import datasets, dictionary, expectations
+from local_elections.common import datasets, dictionary, expectations
 
 
 def generated_values(column):

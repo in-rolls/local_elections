@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pytest
 
-from local_reservations.states.wb import parse_results
+from local_elections.states.wb import parse_results
 
 
 @pytest.fixture(scope="module")
@@ -110,7 +110,7 @@ def test_all_archive_pages_keep_office_scope(result_pages):
 
 @pytest.fixture(scope="module")
 def office_rows():
-    from local_reservations.states.wb import parse_alipurduar_offices
+    from local_elections.states.wb import parse_alipurduar_offices
 
     evidence = json.loads(parse_alipurduar_offices.EVIDENCE.read_text())
     return parse_alipurduar_offices.parse(evidence)
@@ -147,7 +147,7 @@ def test_office_axes_are_read_from_the_same_printed_row(office_rows):
 
 
 def test_independent_office_controls_detect_a_missing_mark():
-    from local_reservations.states.wb import parse_alipurduar_offices
+    from local_elections.states.wb import parse_alipurduar_offices
 
     evidence = json.loads(parse_alipurduar_offices.EVIDENCE.read_text())
     evidence["rows"][0]["women_mark_printed"] = None
@@ -182,7 +182,7 @@ def test_consolidated_counts_are_not_named_seats_or_imputed_zeroes(result_pages)
 def test_tesseract_quote_is_a_word_not_a_tsv_quote(monkeypatch, tmp_path):
     from types import SimpleNamespace
 
-    from local_reservations.states.wb import extract_results
+    from local_elections.states.wb import extract_results
 
     raw = (
         "level\tpage_num\tblock_num\tpar_num\tline_num\tword_num\tleft\ttop\twidth\theight\tconf\ttext\n"

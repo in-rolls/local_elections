@@ -7,7 +7,7 @@ from pathlib import Path
 import pyarrow.parquet as pq
 import pytest
 
-from local_reservations.paths import ROOT
+from local_elections.paths import ROOT
 
 OBSERVATIONS = ROOT / "data/master/observations"
 requires_observation_release = pytest.mark.skipif(

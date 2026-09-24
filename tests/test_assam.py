@@ -6,8 +6,8 @@ import json
 
 import pytest
 
-from local_reservations.common import reference
-from local_reservations.states.assam import (
+from local_elections.common import reference
+from local_elections.states.assam import (
     controls_2025,
     delimitation_2024,
     extract_2025,

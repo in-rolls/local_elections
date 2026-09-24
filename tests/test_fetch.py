@@ -14,8 +14,8 @@ from pathlib import Path
 import pytest
 import requests
 
-from local_reservations.common import fetch
-from local_reservations.tools import historical_harvest
+from local_elections.common import fetch
+from local_elections.tools import historical_harvest
 
 
 def test_historical_download_pool_shares_limits_and_reuses_receipts(tmp_path):

@@ -7,7 +7,7 @@ from copy import deepcopy
 import pyarrow.parquet as pq
 import pytest
 
-from local_reservations.states.wb import parse_nadia_handbook as nadia
+from local_elections.states.wb import parse_nadia_handbook as nadia
 
 
 @pytest.fixture(scope="module")

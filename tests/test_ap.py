@@ -18,11 +18,11 @@ from collections import Counter
 
 import pytest
 
-from local_reservations.common import parsers
-from local_reservations.paths import ROOT
-from local_reservations.states.ap import harvest
-from local_reservations.states.ap.extract import parse_word_pages
-from local_reservations.states.ap.parse_kadapa import abstract_controls
+from local_elections.common import parsers
+from local_elections.paths import ROOT
+from local_elections.states.ap import harvest
+from local_elections.states.ap.extract import parse_word_pages
+from local_elections.states.ap.parse_kadapa import abstract_controls
 
 ap = parsers.load("ap")
 apply_layout, as_category = ap.apply_layout, ap.as_category
@@ -377,7 +377,7 @@ def test_a_repair_never_changes_the_width_of_a_line():
     the women's share moving toward the statutory half - while Alurupadu
     quietly lost three of its eight wards, because "[URW" -> "UR(W)" is one
     character wider and slid the rest of the row left."""
-    from local_reservations.states.ap.ocr import apply_repairs
+    from local_elections.states.ap.ocr import apply_repairs
 
     line = "| [URW    | sc)     | IBC)    |"
     fixed = apply_repairs(line, {"[URW": "UR(W)", "sc)": "SC(W)", "IBC)": "BC(W)"})
@@ -391,7 +391,7 @@ def test_a_repair_with_no_room_is_declined_rather_than_shifted():
     """A cell that cannot be widened keeps its bare code and stays flagged. An
     unknown gender is recoverable later; a ward number silently shifted by one
     is not."""
-    from local_reservations.states.ap.ocr import apply_repairs
+    from local_elections.states.ap.ocr import apply_repairs
 
     tight = "a sc) b"
     assert apply_repairs(tight, {"sc)": "SC(W)"}) == tight
@@ -400,7 +400,7 @@ def test_a_repair_with_no_room_is_declined_rather_than_shifted():
 def test_only_a_whole_cell_is_repaired():
     """The match that builds the table is positional; str.replace is not.
     "sc)" appearing inside another token must not be rewritten."""
-    from local_reservations.states.ap.ocr import apply_repairs
+    from local_elections.states.ap.ocr import apply_repairs
 
     text = "URW)x  |URW)  "
     fixed = apply_repairs(text, {"|URW)": "UR(W)"})

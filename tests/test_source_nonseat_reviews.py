@@ -4,7 +4,7 @@ import json
 import pandas as pd
 import pytest
 
-from local_reservations.tools.source_nonseat_reviews import (
+from local_elections.tools.source_nonseat_reviews import (
     NORMALIZED_FIELDS,
     RAW_FIELDS,
     apply_source_nonseat_reviews,

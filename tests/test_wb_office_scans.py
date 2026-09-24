@@ -5,7 +5,7 @@ from pathlib import Path
 
 import pytest
 
-from local_reservations.states.wb.parse_office_scans import (
+from local_elections.states.wb.parse_office_scans import (
     cell_fingerprint,
     parse_reading,
     read_cell,
@@ -93,7 +93,7 @@ def test_source_manifest_selects_exact_scanned_scope():
 
 
 def test_changed_crop_invalidates_cached_reading(tmp_path, monkeypatch):
-    from local_reservations.states.wb import parse_office_scans as parser
+    from local_elections.states.wb import parse_office_scans as parser
 
     crop, cache = tmp_path / "crop.png", tmp_path / "cache.json"
     crop.write_bytes(b"old geometry")
@@ -122,7 +122,7 @@ def test_changed_crop_invalidates_cached_reading(tmp_path, monkeypatch):
 def frozen_scan_cell(sample_id):
     import csv
 
-    from local_reservations.states.wb import parse_office_scans as parser
+    from local_elections.states.wb import parse_office_scans as parser
 
     overrides = json.loads((parser.OUT / "cell_overrides.json").read_text())
     correction = next(row for row in overrides if row.get("sample_id") == sample_id)
@@ -145,7 +145,7 @@ def frozen_scan_cell(sample_id):
 
 
 def test_ambiguous_exact_name_retains_clear_women_category_and_original_ocr(tmp_path):
-    from local_reservations.states.wb import parse_office_scans as parser
+    from local_elections.states.wb import parse_office_scans as parser
 
     row, correction = frozen_scan_cell(128)
     (tmp_path / "cell_overrides.json").write_text(json.dumps([correction]))
@@ -161,7 +161,7 @@ def test_ambiguous_exact_name_retains_clear_women_category_and_original_ocr(tmp_
 
 
 def test_visual_blank_clears_ocr_name_without_inventing_negative_reservation(tmp_path):
-    from local_reservations.states.wb import parse_office_scans as parser
+    from local_elections.states.wb import parse_office_scans as parser
 
     row, correction = frozen_scan_cell(2)
     (tmp_path / "cell_overrides.json").write_text(json.dumps([correction]))
@@ -174,7 +174,7 @@ def test_visual_blank_clears_ocr_name_without_inventing_negative_reservation(tmp
 
 
 def test_frozen_reference_rejects_changed_cell_bbox(tmp_path):
-    from local_reservations.states.wb import parse_office_scans as parser
+    from local_elections.states.wb import parse_office_scans as parser
 
     row, correction = frozen_scan_cell(128)
     (tmp_path / "cell_overrides.json").write_text(json.dumps([correction]))
@@ -184,7 +184,7 @@ def test_frozen_reference_rejects_changed_cell_bbox(tmp_path):
 
 
 def test_frozen_reference_rejects_changed_gold_file(tmp_path):
-    from local_reservations.states.wb import parse_office_scans as parser
+    from local_elections.states.wb import parse_office_scans as parser
 
     row, correction = frozen_scan_cell(128)
     correction["reference_evidence"][0]["gold_sha256"] = "changed"

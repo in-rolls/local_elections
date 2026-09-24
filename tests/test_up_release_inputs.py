@@ -5,7 +5,7 @@ import hashlib
 
 import pytest
 
-from local_reservations.common.adapters import uttar_pradesh as up
+from local_elections.common.adapters import uttar_pradesh as up
 
 
 def test_gzip_candidate_input_preserves_values_and_source_ordinals(

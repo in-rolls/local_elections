@@ -7,7 +7,7 @@ counts stay plausible whichever way it goes.
 
 import pytest
 
-from local_reservations.common import canon, datasets, dictionary
+from local_elections.common import canon, datasets, dictionary
 
 # --------------------------------------------------------------- the tiers
 

@@ -7,7 +7,7 @@ read as plausible had it gone wrong.
 
 import pytest
 
-from local_reservations.states.maharashtra import parse
+from local_elections.states.maharashtra import parse
 
 SHEET_PHRASES = {
     "Open": ("NONE", 0, "Other than Woman"),

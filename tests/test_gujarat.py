@@ -3,8 +3,8 @@
 import pytest
 from PIL import Image, ImageDraw
 
-from local_reservations.common import dictionary, reference
-from local_reservations.states.gujarat import controls, geography, ocr, parse
+from local_elections.common import dictionary, reference
+from local_elections.states.gujarat import controls, geography, ocr, parse
 
 
 def test_every_held_filename_has_a_declared_geography():

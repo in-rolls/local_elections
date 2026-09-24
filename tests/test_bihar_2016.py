@@ -2,7 +2,7 @@
 
 import pytest
 
-from local_reservations.common.adapters.bihar_2016 import convert
+from local_elections.common.adapters.bihar_2016 import convert
 
 
 def tables(winner=True):

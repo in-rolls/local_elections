@@ -43,44 +43,44 @@ help:
 	@echo "make sources        rebuild SOURCES.md's holdings table from disk"
 
 inventory:
-	$(PY) -m local_reservations.tools.inventory
+	$(PY) -m local_elections.tools.inventory
 
 probe:
-	$(PY) -m local_reservations.tools.probe_sources --skip-unreachable
+	$(PY) -m local_elections.tools.probe_sources --skip-unreachable
 
 assam: assam-2025-extract
-	$(PY) -m local_reservations.states.assam.parse
-	$(PY) -m local_reservations.states.assam.parse_2025
-	$(PY) -m local_reservations.states.assam.validate
+	$(PY) -m local_elections.states.assam.parse
+	$(PY) -m local_elections.states.assam.parse_2025
+	$(PY) -m local_elections.states.assam.validate
 
 assam-harvest:
-	$(PY) -m local_reservations.states.assam.harvest
+	$(PY) -m local_elections.states.assam.harvest
 
 assam-2025-extract:
-	$(PY) -m local_reservations.states.assam.extract_2025
+	$(PY) -m local_elections.states.assam.extract_2025
 
 assam-2025-ocr:
-	$(OCR_PY) -m local_reservations.states.assam.ocr_2025 --district "$(DISTRICT)"
+	$(OCR_PY) -m local_elections.states.assam.ocr_2025 --district "$(DISTRICT)"
 
 assam-2025: assam-2025-extract
-	$(PY) -m local_reservations.states.assam.parse_2025
-	$(PY) -m local_reservations.states.assam.validate
+	$(PY) -m local_elections.states.assam.parse_2025
+	$(PY) -m local_elections.states.assam.validate
 
 gujarat-harvest:
-	$(PY) -m local_reservations.states.gujarat.harvest
+	$(PY) -m local_elections.states.gujarat.harvest
 
 gujarat-ocr:
-	$(PY) -m local_reservations.states.gujarat.ocr
+	$(PY) -m local_elections.states.gujarat.ocr
 
 gujarat:
-	$(PY) -m local_reservations.states.gujarat.parse
-	$(PY) -m local_reservations.states.gujarat.validate
+	$(PY) -m local_elections.states.gujarat.parse
+	$(PY) -m local_elections.states.gujarat.validate
 
 gujarat-validate:
-	$(PY) -m local_reservations.states.gujarat.validate
+	$(PY) -m local_elections.states.gujarat.validate
 
 sweep:
-	$(PY) -m local_reservations.tools.archive_sweep
+	$(PY) -m local_elections.tools.archive_sweep
 
 # Both resume. The OCR skips documents it has already cached and, within a
 # document, pages it has already read; the harvest skips files whose bytes on
@@ -91,183 +91,183 @@ sweep:
 # --with indicate rather than a dependency group: it pulls torch and is needed
 # only when the table is regenerated, which is rarely.
 transliterate:
-	uv run --with indicate python -m local_reservations.tools.transliterate
+	uv run --with indicate python -m local_elections.tools.transliterate
 
 karnataka-ocr:
-	$(OCR_PY) -m local_reservations.states.karnataka.ocr
+	$(OCR_PY) -m local_elections.states.karnataka.ocr
 
 goa:
-	$(PY) -m local_reservations.states.goa.parse
-	$(PY) -m local_reservations.states.goa.validate
+	$(PY) -m local_elections.states.goa.parse
+	$(PY) -m local_elections.states.goa.validate
 
 jharkhand:
-	$(PY) -m local_reservations.states.jharkhand.parse
-	$(PY) -m local_reservations.states.jharkhand.validate
+	$(PY) -m local_elections.states.jharkhand.parse
+	$(PY) -m local_elections.states.jharkhand.validate
 
 # The gates a parser change has to clear, against data/stats/jharkhand_bench.json.
 # `make jharkhand-bench-record` stores what the code does now; run it only when
 # you have decided the current numbers are the ones to defend.
 jharkhand-bench:
-	$(PY) -m local_reservations.states.jharkhand.bench
+	$(PY) -m local_elections.states.jharkhand.bench
 
 jharkhand-bench-record:
-	$(PY) -m local_reservations.states.jharkhand.bench --record
+	$(PY) -m local_elections.states.jharkhand.bench --record
 
 # Not part of `make jharkhand`, and not a dependency of anything. Its output is
 # committed, it takes about six hours, and it needs an interpreter the rest of
 # the repository cannot share, so uv runs it from the isolated OCR group.
 jharkhand-ocr:
-	$(OCR_PY) -m local_reservations.states.jharkhand.ocr
-	$(PY) -m local_reservations.states.jharkhand.ocr_seats
+	$(OCR_PY) -m local_elections.states.jharkhand.ocr
+	$(PY) -m local_elections.states.jharkhand.ocr_seats
 
 jk-2010-extract:
-	$(PY) -m local_reservations.states.jk.extract_2010
+	$(PY) -m local_elections.states.jk.extract_2010
 
 jk-2016-extract:
-	$(PY) -m local_reservations.states.jk.extract_2016
+	$(PY) -m local_elections.states.jk.extract_2016
 
 jk: jk-2010-extract jk-2016-extract
-	$(PY) -m local_reservations.states.jk.parse
-	$(PY) -m local_reservations.states.jk.validate
+	$(PY) -m local_elections.states.jk.parse
+	$(PY) -m local_elections.states.jk.validate
 
 ap:
-	$(PY) -m local_reservations.states.ap.parse
-	$(PY) -m local_reservations.states.ap.validate
+	$(PY) -m local_elections.states.ap.parse
+	$(PY) -m local_elections.states.ap.validate
 
 karnataka:
-	$(PY) -m local_reservations.states.karnataka.parse
-	$(PY) -m local_reservations.states.karnataka.parse_tzp
-	$(PY) -m local_reservations.states.karnataka.validate
+	$(PY) -m local_elections.states.karnataka.parse
+	$(PY) -m local_elections.states.karnataka.parse_tzp
+	$(PY) -m local_elections.states.karnataka.validate
 
 maharashtra:
-	$(PY) -m local_reservations.states.maharashtra.parse
-	$(PY) -m local_reservations.states.maharashtra.validate
+	$(PY) -m local_elections.states.maharashtra.parse
+	$(PY) -m local_elections.states.maharashtra.validate
 
 maharashtra-harvest:
-	$(PY) -m local_reservations.states.maharashtra.harvest
+	$(PY) -m local_elections.states.maharashtra.harvest
 
 telangana:
-	$(PY) -m local_reservations.states.telangana.parse
-	$(PY) -m local_reservations.states.telangana.validate
+	$(PY) -m local_elections.states.telangana.parse
+	$(PY) -m local_elections.states.telangana.validate
 
 wb:
-	$(PY) -m local_reservations.states.wb.parse
-	$(PY) -m local_reservations.states.wb.validate
+	$(PY) -m local_elections.states.wb.parse
+	$(PY) -m local_elections.states.wb.validate
 
 .PHONY: wb-gp-extract wb-gp-parse wb-gp-validate wb-gp-reservations
 wb-gp-reservations:
-	$(PY) -m local_reservations.states.wb.parse_birbhum
-	$(PY) -m local_reservations.states.wb.reservation_coverage
+	$(PY) -m local_elections.states.wb.parse_birbhum
+	$(PY) -m local_elections.states.wb.reservation_coverage
 
 wb-gp-extract:
-	$(PY) -m local_reservations.states.wb.extract_native
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.extract_results
+	$(PY) -m local_elections.states.wb.extract_native
+	$(TABLE_OCR_PY) -m local_elections.states.wb.extract_results
 
 wb-gp-parse:
-	$(PY) -m local_reservations.states.wb.parse_hooghly
-	$(PY) -m local_reservations.states.wb.parse_nadia
-	$(PY) -m local_reservations.states.wb.parse_results
+	$(PY) -m local_elections.states.wb.parse_hooghly
+	$(PY) -m local_elections.states.wb.parse_nadia
+	$(PY) -m local_elections.states.wb.parse_results
 
 wb-gp-validate:
-	$(PY) -m local_reservations.states.wb.validate_gp
+	$(PY) -m local_elections.states.wb.validate_gp
 
 .PHONY: wb-parse-all wb-ocr-all wb-parsing-inventory
 wb-parse-all:
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_base_drafts
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_birbhum
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_hooghly
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_nadia
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_nadia_handbook
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_alipurduar_offices
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_office_native --workers 2
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_office_scans --workers 2
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_ward_schedules
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_ancillary
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_reference_tables
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parse_results
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.validate_gp
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.reservation_coverage
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parsing_inventory
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_base_drafts
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_birbhum
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_hooghly
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_nadia
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_nadia_handbook
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_alipurduar_offices
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_office_native --workers 2
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_office_scans --workers 2
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_ward_schedules
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_ancillary
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_reference_tables
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parse_results
+	$(TABLE_OCR_PY) -m local_elections.states.wb.validate_gp
+	$(TABLE_OCR_PY) -m local_elections.states.wb.reservation_coverage
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parsing_inventory
 
 wb-ocr-all:
-	OMP_THREAD_LIMIT=1 $(TABLE_OCR_PY) -m local_reservations.states.wb.parse_ward_schedules --ocr --workers 2
-	OMP_THREAD_LIMIT=1 $(TABLE_OCR_PY) -m local_reservations.states.wb.parse_ancillary --ocr
-	OMP_THREAD_LIMIT=1 $(TABLE_OCR_PY) -m local_reservations.states.wb.parse_reference_tables --ocr --workers 1
+	OMP_THREAD_LIMIT=1 $(TABLE_OCR_PY) -m local_elections.states.wb.parse_ward_schedules --ocr --workers 2
+	OMP_THREAD_LIMIT=1 $(TABLE_OCR_PY) -m local_elections.states.wb.parse_ancillary --ocr
+	OMP_THREAD_LIMIT=1 $(TABLE_OCR_PY) -m local_elections.states.wb.parse_reference_tables --ocr --workers 1
 	$(MAKE) wb-parse-all
 
 wb-parsing-inventory:
-	$(TABLE_OCR_PY) -m local_reservations.states.wb.parsing_inventory
+	$(TABLE_OCR_PY) -m local_elections.states.wb.parsing_inventory
 
 validate:
-	$(PY) -m local_reservations.states.ap.validate
-	$(PY) -m local_reservations.states.assam.validate
-	$(PY) -m local_reservations.states.goa.validate
-	$(PY) -m local_reservations.states.gujarat.validate
-	$(PY) -m local_reservations.states.jharkhand.validate
-	$(PY) -m local_reservations.states.jk.validate
-	$(PY) -m local_reservations.states.karnataka.validate
-	$(PY) -m local_reservations.states.maharashtra.validate
-	$(PY) -m local_reservations.states.telangana.validate
-	$(PY) -m local_reservations.states.wb.validate
+	$(PY) -m local_elections.states.ap.validate
+	$(PY) -m local_elections.states.assam.validate
+	$(PY) -m local_elections.states.goa.validate
+	$(PY) -m local_elections.states.gujarat.validate
+	$(PY) -m local_elections.states.jharkhand.validate
+	$(PY) -m local_elections.states.jk.validate
+	$(PY) -m local_elections.states.karnataka.validate
+	$(PY) -m local_elections.states.maharashtra.validate
+	$(PY) -m local_elections.states.telangana.validate
+	$(PY) -m local_elections.states.wb.validate
 
 master:
-	$(PY) -m local_reservations.tools.build_master
+	$(PY) -m local_elections.tools.build_master
 
 manifest:
-	$(PY) -m local_reservations.tools.build_manifest
+	$(PY) -m local_elections.tools.build_manifest
 
 verify:
-	$(PY) -m local_reservations.tools.verify_manifest
+	$(PY) -m local_elections.tools.verify_manifest
 
 .PHONY: tn evidence evidence-archives verify-evidence verify-evidence-archives
 tn:
-	$(PY) -m local_reservations.states.tn.parse_heads_2011
-	$(PY) -m local_reservations.states.tn.parse_amendments_2001
+	$(PY) -m local_elections.states.tn.parse_heads_2011
+	$(PY) -m local_elections.states.tn.parse_amendments_2001
 
 evidence:
-	$(PY) -m local_reservations.tools.build_evidence
+	$(PY) -m local_elections.tools.build_evidence
 
 evidence-archives:
-	$(PY) -m local_reservations.tools.build_evidence --archive-dir "$(CURDIR)/dist/source-evidence"
-	$(PY) -m local_reservations.tools.verify_manifest --manifest SOURCE_MANIFEST.json
-	$(PY) -m local_reservations.tools.verify_manifest --manifest SOURCE_MANIFEST.json --archives "$(CURDIR)/dist/source-evidence"
+	$(PY) -m local_elections.tools.build_evidence --archive-dir "$(CURDIR)/dist/source-evidence"
+	$(PY) -m local_elections.tools.verify_manifest --manifest SOURCE_MANIFEST.json
+	$(PY) -m local_elections.tools.verify_manifest --manifest SOURCE_MANIFEST.json --archives "$(CURDIR)/dist/source-evidence"
 
 verify-evidence:
-	$(PY) -m local_reservations.tools.verify_manifest --manifest SOURCE_MANIFEST.json
+	$(PY) -m local_elections.tools.verify_manifest --manifest SOURCE_MANIFEST.json
 
 verify-evidence-archives:
-	$(PY) -m local_reservations.tools.verify_manifest --manifest SOURCE_MANIFEST.json --archives "$(CURDIR)/dist/source-evidence"
+	$(PY) -m local_elections.tools.verify_manifest --manifest SOURCE_MANIFEST.json --archives "$(CURDIR)/dist/source-evidence"
 
 # Prepares and checks a release. It deliberately does not tag: a tag is one of
 # the few things you cannot take back, so this prints the command and a human
 # runs it.
 release-check: test validate master stats worklist coverage manifest verify verify-evidence verify-evidence-archives
-	@$(PY) -m local_reservations.tools.release_check $(VERSION)
+	@$(PY) -m local_elections.tools.release_check $(VERSION)
 
 stats:
-	$(PY) -m local_reservations.tools.build_stats --quiet
+	$(PY) -m local_elections.tools.build_stats --quiet
 
 worklist:
-	$(PY) -m local_reservations.tools.build_worklist
+	$(PY) -m local_elections.tools.build_worklist
 
 coverage: stats worklist state-readmes sources
-	$(PY) -m local_reservations.tools.build_coverage --check
+	$(PY) -m local_elections.tools.build_coverage --check
 
 # SOURCES.md is a feasibility survey and most of it is judgement, which stays
 # hand-written. Its holdings table is not: it is a count of what is on disk,
 # and it drifted to "1 scan, 7 pages" for a state holding 649 documents.
 sources:
-	$(PY) -m local_reservations.tools.build_sources
+	$(PY) -m local_elections.tools.build_sources
 
 state-readmes:
-	$(PY) -m local_reservations.tools.build_state_readmes
+	$(PY) -m local_elections.tools.build_state_readmes
 
 expect:
-	$(PY) -m local_reservations.common.expectations
+	$(PY) -m local_elections.common.expectations
 
 dictionary:
-	$(PY) -m local_reservations.common.make_dictionary
+	$(PY) -m local_elections.common.make_dictionary
 
 test:
 	$(PY) -m pytest tests -q
@@ -276,7 +276,7 @@ ci-docker:
 	docker run --rm --pull=always \
 		--mount type=bind,source="$(CURDIR)",target=/workspace \
 		--workdir /workspace \
-		--env UV_PROJECT_ENVIRONMENT=/tmp/local-reservations-venv \
+		--env UV_PROJECT_ENVIRONMENT=/tmp/local-elections-venv \
 		--env UV_CACHE_DIR=/tmp/uv-cache \
 		--env RUFF_CACHE_DIR=/tmp/ruff-cache \
 		$(UV_DOCKER_IMAGE) \
@@ -293,11 +293,11 @@ ci-docker:
 
 .PHONY: delhi delhi-harvest
 delhi-harvest:
-	$(PY) -m local_reservations.states.delhi.harvest --root data/delhi/qualification_audit
+	$(PY) -m local_elections.states.delhi.harvest --root data/delhi/qualification_audit
 
 delhi:
-	$(PY) -m local_reservations.states.delhi.parse --root data/delhi/qualification_audit --gazette data/delhi/delhi_2022.pdf
-	$(PY) -m local_reservations.states.delhi.validate --release data/delhi/release
+	$(PY) -m local_elections.states.delhi.parse --root data/delhi/qualification_audit --gazette data/delhi/delhi_2022.pdf
+	$(PY) -m local_elections.states.delhi.validate --release data/delhi/release
 
 .PHONY: audit
 audit:

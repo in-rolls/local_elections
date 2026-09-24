@@ -4,9 +4,9 @@ import collections
 
 import pytest
 
-from local_reservations.common import canon
-from local_reservations.common.adapters import uttar_pradesh
-from local_reservations.paths import ROOT
+from local_elections.common import canon
+from local_elections.common.adapters import uttar_pradesh
+from local_elections.paths import ROOT
 
 
 @pytest.fixture(scope="module")

@@ -16,7 +16,7 @@ Every case below is copied out of a notification.
 
 import pytest
 
-from local_reservations.common import parsers
+from local_elections.common import parsers
 
 jharkhand = parsers.load("jharkhand")
 fill_block_names = jharkhand.fill_block_names

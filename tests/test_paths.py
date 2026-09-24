@@ -2,10 +2,10 @@
 
 import pytest
 
-from local_reservations import paths
+from local_elections import paths
 
 
-def make_repository(directory, name="local-reservations"):
+def make_repository(directory, name="local-elections"):
     directory.mkdir()
     (directory / "data").mkdir()
     (directory / "pyproject.toml").write_text(f'[project]\nname = "{name}"\n')

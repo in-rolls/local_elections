@@ -5,8 +5,8 @@ import shutil
 
 import pytest
 
-from local_reservations.paths import ROOT
-from local_reservations.states.wb.parse_reference_tables import (
+from local_elections.paths import ROOT
+from local_elections.states.wb.parse_reference_tables import (
     SOURCES,
     additional_sources,
     check_equality,
@@ -127,7 +127,7 @@ def test_additional_inventory_distinguishes_manual_maps_and_unrelated_paper():
 def test_additional_native_extraction_retains_words_tables_and_resumes(
     tmp_path, monkeypatch
 ):
-    from local_reservations.states.wb import parse_reference_tables as reference
+    from local_elections.states.wb import parse_reference_tables as reference
 
     source, _ = reference_source("Birbhum")
     shutil.copyfile(ROOT / source["source_path"], tmp_path / "reference.pdf")

@@ -1,6 +1,6 @@
 import pytest
 
-from local_reservations.tools.link_haryana_chairs import link_chairs
+from local_elections.tools.link_haryana_chairs import link_chairs
 
 
 def chair(name, bbox="[0, 0, 10, 10]"):

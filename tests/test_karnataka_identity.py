@@ -5,9 +5,9 @@ import csv
 
 import pytest
 
-from local_reservations.common import canon
-from local_reservations.paths import ROOT
-from local_reservations.states.karnataka import parse
+from local_elections.common import canon
+from local_elections.paths import ROOT
+from local_elections.states.karnataka import parse
 
 
 @pytest.mark.parametrize("year", parse.YEARS)

@@ -1,6 +1,6 @@
 """Keep generated table structure from silently becoming source office identity."""
 
-from local_reservations.tools.parse_haryana_surya import parse_samiti, score_rows
+from local_elections.tools.parse_haryana_surya import parse_samiti, score_rows
 
 
 def payload(text):
