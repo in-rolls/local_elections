@@ -4,7 +4,7 @@
 
 **The parsed data for Bihar is in [local_elections_bihar](https://github.com/in-rolls/local_elections_bihar)** — gp_head, gp_ward, block_member, zp_member, kachahari_head, kachahari_member, 2016, 2021. It was split into its own repository, so it is counted in the [top-level readme](../../README.md) but has no rows here.
 
-What is in this directory is source material: 406 files, 290 digital-text, 105 tabular, 12 other, 9,193 pages.
+Source documents and historical tables are maintained in [local_elections_bihar](https://github.com/in-rolls/local_elections_bihar). This directory keeps no duplicate inputs.
 
 The pooled adapter reads the sibling's declared parsed files into the shared seat and candidate schemas. Files held only in this local source directory do not enter that adapter automatically.
 

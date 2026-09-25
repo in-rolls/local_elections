@@ -166,6 +166,10 @@ def build():
         files.append(dict(describe(path, rows), kind="parsed"))
         totals["parsed_rows"] += len(rows)
 
+    # A pinned sibling is read from its commit in data/sources.json, with every
+    # file hash-checked, so that commit - not whatever the neighbouring checkout
+    # has at HEAD - is where its rows came from.
+    pins = json.loads((ROOT / "data" / "sources.json").read_text())
     siblings = []
     for name, adapter in sorted(adapters.REGISTRY.items()):
         directory = ROOT.parent / adapter.REPO
@@ -175,7 +179,14 @@ def build():
             "url": adapter.URL,
             "present": directory.exists(),
         }
-        if directory.exists():
+        if adapter.REPO in pins:
+            ref = pins[adapter.REPO]["ref"]
+            entry.update({"commit": ref, "dirty": False, "pinned": True})
+            if directory.exists():
+                entry["committed_utc"] = git(
+                    directory, "show", "-s", "--format=%cI", ref
+                )
+        elif directory.exists():
             entry.update(repo_state(directory))
         siblings.append(entry)
 

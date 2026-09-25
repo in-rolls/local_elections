@@ -18,16 +18,11 @@ from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 from local_elections.tools.build_manifest import RELEASE_INPUTS, digest, repo_state
 
-HARYANA_HISTORICAL_INPUT = (
-    "data/master/observations/haryana/"
-    "6ad3161f4b7c750e4446542bc4cf48dc5acd822c7897c4efeffdfbc56021da34"
-)
 SCOPES = (
     "data/wb",
     "data/tn",
     "data/source_search/early_heads",
     "data/source_search/national",
-    HARYANA_HISTORICAL_INPUT,
 )
 EXCLUDED_NAMES = (".DS_Store",)
 DEFAULT_MANIFEST = ROOT / "SOURCE_MANIFEST.json"

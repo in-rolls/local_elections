@@ -84,7 +84,7 @@ These held PDFs are not cited by any parsed row. A source series remains distinc
 make maharashtra
 ```
 
-Parses from the committed documents and rewrites the files above, then runs `src/local_reservations/states/maharashtra/validate.py`.
+Parses from the committed documents and rewrites the files above, then runs `src/local_elections/states/maharashtra/validate.py`.
 
 ## What is checked
 

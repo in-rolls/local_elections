@@ -4,10 +4,10 @@
 
 **Status: documents, no parser.** Nothing in this directory is in the repository's schema yet, so it does not appear in the per-slice table in the [top-level readme](../../README.md).
 
-13 files on disk.
+14 files on disk.
 
 Inventory: 11 digital-text, 2 other, 1 scan, 74 pages total.
 
 ## What it would take
 
-See [../../SOURCES.md](../../SOURCES.md) for where this state publishes its reservation data and what parsing it involves. A parser lands in `src/local_reservations/states/<state>/parse.py`, writes through `local_reservations/common/emit.py` so every row carries its source document and page, and is paired with a `validate.py` that checks the result against something outside the data — a published total, a statutory share, a population.
+See [../../SOURCES.md](../../SOURCES.md) for where this state publishes its reservation data and what parsing it involves. A parser lands in `src/local_elections/states/<state>/parse.py`, writes through `local_elections/common/emit.py` so every row carries its source document and page, and is paired with a `validate.py` that checks the result against something outside the data — a published total, a statutory share, a population.

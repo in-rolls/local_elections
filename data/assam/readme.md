@@ -114,7 +114,7 @@ These held PDFs are not cited by any parsed row. A source series remains distinc
 make assam
 ```
 
-Parses from the committed documents and rewrites the files above, then runs `src/local_reservations/states/assam/validate.py`.
+Parses from the committed documents and rewrites the files above, then runs `src/local_elections/states/assam/validate.py`.
 
 ## What is checked
 

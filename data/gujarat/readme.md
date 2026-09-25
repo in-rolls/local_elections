@@ -60,7 +60,7 @@ Inventory for this directory: 48 other, 45 encoded-text, 4 tabular, 605 pages to
 make gujarat
 ```
 
-Parses from the committed documents and rewrites the files above, then runs `src/local_reservations/states/gujarat/validate.py`.
+Parses from the committed documents and rewrites the files above, then runs `src/local_elections/states/gujarat/validate.py`.
 
 ## What is checked
 

@@ -61,14 +61,14 @@ jobs:
           uv venv /tmp/wheel-test
           uv pip install --python /tmp/wheel-test/bin/python dist/*.whl
           cd /tmp
-          LOCAL_RESERVATIONS_ROOT="$GITHUB_WORKSPACE" /tmp/wheel-test/bin/python -P - <<'PY'
+          LOCAL_ELECTIONS_ROOT="$GITHUB_WORKSPACE" /tmp/wheel-test/bin/python -P - <<'PY'
           import os
           from pathlib import Path
           from local_elections.common import datasets
           from local_elections.paths import ROOT
 
           assert "site-packages" in datasets.__file__
-          assert ROOT == Path(os.environ["LOCAL_RESERVATIONS_ROOT"]).resolve()
+          assert ROOT == Path(os.environ["LOCAL_ELECTIONS_ROOT"]).resolve()
           assert datasets.state_directories()
           PY
 

@@ -4,6 +4,6 @@
 
 **The parsed data for Kerala is in [local_elections_kerala](https://github.com/in-rolls/local_elections_kerala)** — gp_ward, block_member, zp_member, ulb_ward, 2010, 2015, 2020. It was split into its own repository, so it is counted in the [top-level readme](../../README.md) but has no rows here.
 
-What is in this directory is source material: 1043 files, 1043 other, 1 digital-text, 37 pages.
+Source documents and historical tables are maintained in [local_elections_kerala](https://github.com/in-rolls/local_elections_kerala). This directory keeps no duplicate inputs.
 
 The pooled adapter reads the sibling's declared parsed files into the shared seat and candidate schemas. Files held only in this local source directory do not enter that adapter automatically.

@@ -10,7 +10,7 @@ directory that does not exist, or worse, one that does.
 Found by walking up for the marker rather than by counting, so it survives the
 next move as well as this one.
 
-An installed wheel contains code, not the corpus. LOCAL_RESERVATIONS_ROOT may
+An installed wheel contains code, not the corpus. LOCAL_ELECTIONS_ROOT may
 point to a separate checkout. An invalid explicit root never falls back to a
 different repository.
 """
@@ -39,17 +39,17 @@ def _find_root(start):
             return directory
     raise RuntimeError(
         f"no repository root above {start}: looked for {_MARKERS}; "
-        "set LOCAL_RESERVATIONS_ROOT to a local-elections checkout"
+        "set LOCAL_ELECTIONS_ROOT to a local-elections checkout"
     )
 
 
 def _resolve_root(start):
-    configured = os.environ.get("LOCAL_RESERVATIONS_ROOT")
+    configured = os.environ.get("LOCAL_ELECTIONS_ROOT")
     if configured is not None:
         root = pathlib.Path(configured).expanduser().resolve()
         if not configured.strip() or not _is_repository(root):
             raise RuntimeError(
-                "LOCAL_RESERVATIONS_ROOT must name a local-elections checkout "
+                "LOCAL_ELECTIONS_ROOT must name a local-elections checkout "
                 "with pyproject.toml and a data directory"
             )
         return root

@@ -148,3 +148,13 @@ def test_a_changed_byte_is_caught():
     finally:
         target.write_bytes(original)
     assert run(VERIFY, "--quiet").returncode == 0
+
+
+def test_pinned_siblings_are_recorded_at_their_pinned_commit():
+    manifest = json.loads((ROOT / "MANIFEST.json").read_text())
+    pins = json.loads((ROOT / "data" / "sources.json").read_text())
+    recorded = {s["repo"]: s for s in manifest["sibling_repos"]}
+    for repo, pin in pins.items():
+        assert recorded[repo]["commit"] == pin["ref"], repo
+        assert recorded[repo]["pinned"] is True
+        assert recorded[repo]["dirty"] is False

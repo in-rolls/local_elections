@@ -4,6 +4,6 @@
 
 **The parsed data for Haryana is in [local_elections_haryana](https://github.com/in-rolls/local_elections_haryana)** — gp_head, gp_ward, 2016, 2022. It was split into its own repository, so it is counted in the [top-level readme](../../README.md) but has no rows here.
 
-What is in this directory is source material: 14 files, 1 digital-text, 1 other, 13 pages.
+Source documents and historical tables are maintained in [local_elections_haryana](https://github.com/in-rolls/local_elections_haryana). This directory keeps no duplicate inputs.
 
 The pooled adapter reads the sibling's declared parsed files into the shared seat and candidate schemas. Files held only in this local source directory do not enter that adapter automatically.

@@ -46,8 +46,8 @@ def test_haryana_observation_release_preserves_every_partition():
     index = json.loads((OBSERVATIONS / "index.json").read_text())
     entry = index["states"]["Haryana"]
     assert entry["status"] == "release_ready_with_explicit_quarantines"
-    assert entry["rows"] == 207201
-    assert entry["files"] == 6
+    assert entry["rows"] == 70592
+    assert entry["files"] == 3
     path = OBSERVATIONS / entry["path"]
     provenance = json.loads((path / "provenance.json").read_text())
     rows = {
@@ -58,8 +58,5 @@ def test_haryana_observation_release_preserves_every_partition():
         "historical_provisional_observations.parquet": 67770,
         "historical_quarantine.parquet": 61,
         "historical_reviewed_occurrences.parquet": 2761,
-        "modern_quarantine.parquet": 1202,
-        "modern_seats.parquet": 133871,
-        "printing_reconciliation.parquet": 1536,
     }
     verify_snapshot(path)
