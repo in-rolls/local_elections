@@ -71,7 +71,7 @@ These held PDFs are not cited by any parsed row. A source series remains distinc
 make jk
 ```
 
-Parses from the committed documents and rewrites the files above, then runs `src/local_reservations/states/jk/validate.py`.
+Parses from the committed documents and rewrites the files above, then runs `src/local_elections/states/jk/validate.py`.
 
 ## What is checked
 

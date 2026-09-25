@@ -10,4 +10,4 @@ Inventory: 1 digital-text, 1 scan, 1 other, 68 pages total.
 
 ## What it would take
 
-See [../../SOURCES.md](../../SOURCES.md) for where this state publishes its reservation data and what parsing it involves. A parser lands in `src/local_reservations/states/<state>/parse.py`, writes through `local_reservations/common/emit.py` so every row carries its source document and page, and is paired with a `validate.py` that checks the result against something outside the data — a published total, a statutory share, a population.
+See [../../SOURCES.md](../../SOURCES.md) for where this state publishes its reservation data and what parsing it involves. A parser lands in `src/local_elections/states/<state>/parse.py`, writes through `local_elections/common/emit.py` so every row carries its source document and page, and is paired with a `validate.py` that checks the result against something outside the data — a published total, a statutory share, a population.

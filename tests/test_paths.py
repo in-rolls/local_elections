@@ -13,14 +13,14 @@ def make_repository(directory, name="local-elections"):
 
 
 def test_editable_install_finds_its_repository(tmp_path, monkeypatch):
-    monkeypatch.delenv("LOCAL_RESERVATIONS_ROOT", raising=False)
+    monkeypatch.delenv("LOCAL_ELECTIONS_ROOT", raising=False)
     root = make_repository(tmp_path / "checkout")
     assert paths._resolve_root(root / "src/package/paths.py") == root
 
 
 def test_installed_wheel_uses_explicit_checkout(tmp_path, monkeypatch):
     root = make_repository(tmp_path / "checkout")
-    monkeypatch.setenv("LOCAL_RESERVATIONS_ROOT", str(root))
+    monkeypatch.setenv("LOCAL_ELECTIONS_ROOT", str(root))
     monkeypatch.chdir(tmp_path)
     assert paths._resolve_root(tmp_path / "venv/site-packages/paths.py") == root
 
@@ -28,7 +28,7 @@ def test_installed_wheel_uses_explicit_checkout(tmp_path, monkeypatch):
 def test_explicit_checkout_overrides_module_ancestor(tmp_path, monkeypatch):
     first = make_repository(tmp_path / "first")
     second = make_repository(tmp_path / "second")
-    monkeypatch.setenv("LOCAL_RESERVATIONS_ROOT", str(second))
+    monkeypatch.setenv("LOCAL_ELECTIONS_ROOT", str(second))
     assert paths._resolve_root(first / "src/package/paths.py") == second
 
 
@@ -44,21 +44,21 @@ def test_invalid_explicit_root_never_falls_back(tmp_path, monkeypatch, invalid):
         "nested": str(nested),
         "empty": "",
     }
-    monkeypatch.setenv("LOCAL_RESERVATIONS_ROOT", settings[invalid])
-    with pytest.raises(RuntimeError, match="LOCAL_RESERVATIONS_ROOT"):
+    monkeypatch.setenv("LOCAL_ELECTIONS_ROOT", settings[invalid])
+    with pytest.raises(RuntimeError, match="LOCAL_ELECTIONS_ROOT"):
         paths._resolve_root(valid / "src/package/paths.py")
 
 
 def test_unrelated_project_is_not_a_repository(tmp_path, monkeypatch):
-    monkeypatch.delenv("LOCAL_RESERVATIONS_ROOT", raising=False)
+    monkeypatch.delenv("LOCAL_ELECTIONS_ROOT", raising=False)
     foreign = make_repository(tmp_path / "foreign", name="another-project")
-    with pytest.raises(RuntimeError, match="LOCAL_RESERVATIONS_ROOT"):
+    with pytest.raises(RuntimeError, match="LOCAL_ELECTIONS_ROOT"):
         paths._resolve_root(foreign / "src/package/paths.py")
 
 
 def test_malformed_project_metadata_is_not_a_repository(tmp_path, monkeypatch):
-    monkeypatch.delenv("LOCAL_RESERVATIONS_ROOT", raising=False)
+    monkeypatch.delenv("LOCAL_ELECTIONS_ROOT", raising=False)
     root = make_repository(tmp_path / "checkout")
     (root / "pyproject.toml").write_text("[broken")
-    with pytest.raises(RuntimeError, match="LOCAL_RESERVATIONS_ROOT"):
+    with pytest.raises(RuntimeError, match="LOCAL_ELECTIONS_ROOT"):
         paths._resolve_root(root / "src/package/paths.py")

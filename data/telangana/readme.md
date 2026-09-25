@@ -53,7 +53,7 @@ These held PDFs are not cited by any parsed row. A source series remains distinc
 make telangana
 ```
 
-Parses from the committed documents and rewrites the files above, then runs `src/local_reservations/states/telangana/validate.py`.
+Parses from the committed documents and rewrites the files above, then runs `src/local_elections/states/telangana/validate.py`.
 
 ## What is checked
 

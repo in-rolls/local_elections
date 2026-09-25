@@ -11,6 +11,22 @@ here is usually the thing that was wrong.
 
 ### Changed
 
+- Every sibling state repository is now pinned in `data/sources.json`: Bihar,
+  Haryana, Kerala and Uttarakhand join UP and Rajasthan. The build reads each
+  from a stated commit, with the SHA-256 of every file its adapter opens,
+  rather than from whatever is checked out next door. The rebuilt master is
+  identical except `source_commit`, which now names the pinned commits.
+- Haryana's 2000/2005 gazette pipeline (15 tools, 6 source-review modules and
+  their tests) moved to `local_elections_haryana`, with its 2000 release and
+  a 3.8 GB raw-data archive. The observation registry now reads Haryana's
+  historical tables from that repository; the release no longer re-publishes
+  the pooled modern seats.
+- `data/bihar`, `data/haryana` and `data/kerala` hold only generated stubs.
+  Bihar's unparsed 2006/2011 lists and a Haryana 2022 notification went to
+  their state repositories' raw-data archives; Kerala's copy was a duplicate.
+- Environment variables are renamed `LOCAL_ELECTIONS_ROOT`,
+  `LOCAL_ELECTIONS_LOG_LEVEL` and `LOCAL_ELECTIONS_LOG_FORMAT`.
+
 - The repository, distribution and import package are renamed to match the
   state repositories: GitHub `in-rolls/local_elections`, distribution
   `local-elections`, import `local_elections`. The old GitHub name

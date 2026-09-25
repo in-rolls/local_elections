@@ -66,5 +66,44 @@
       "data/fin/zila_parishad_2005_std.parquet": "6b9d0357fa3e6c495816d0400cca2da4631e5143e9fce1772454de6fd640a705",
       "data/fin/zila_parishad_2010_std.parquet": "ed8dab80debe95c46a4a96ed0a4d276ec938b087cad93f2536d4901608724d3f"
     }
+  },
+  "local_elections_bihar": {
+    "ref": "5d56ac4be8a24dda6a4b46f8d5c092b9ba67df77",
+    "files": {
+      "data/release/2016_panchayat/MANIFEST.json": "2ff0bf19c5c6ed1f161458331bc465d4f1b87294aad55d9ea892778322daef83",
+      "data/release/2016_panchayat/candidates.parquet": "0b73373fce5b29292c61399b3308d44b95f850f17127f5c2e6bfef3e162f65ca",
+      "data/release/2016_panchayat/seats.parquet": "5f234dad9afc7603e37aa34401ff4210fee31e6448cb8f94d79737a667d1761c",
+      "data/release/2016_panchayat/winners.parquet": "1f1712f0a91370cb3db6a4b891d419a60cd81a4a7dbc00c57ea04e4fc14aeb13",
+      "data/release/2021_panchayat/MANIFEST.json": "a328a8562811cedc0810823635789d972f3b42f5ce15052d5f8205545c48a46b",
+      "data/release/2021_panchayat/candidates.parquet": "3971775d2e2593e7aba39b154e60402a1f619219fd809d0e2de95c01f6fd63ef",
+      "data/release/2021_panchayat/current_reservations.parquet": "a432377012f1d55f5862f44fe3f9f8a4b391b1b215fc44c5d5d626f96dc71073",
+      "data/release/2021_panchayat/seats.parquet": "690f4e18e5e73558bb578f539b1c957c09dd17469b49726f69961c636b3d1fab",
+      "data/release/2021_panchayat/winners.parquet": "6ac618e92b7bf9f22a0b95211a8fcdb9d1f605aa870a2d729986cddfe635c217"
+    }
+  },
+  "local_elections_haryana": {
+    "ref": "eec6ed1de671adf81f8c8b242ba3dbeaefcc81ec",
+    "files": {
+      "data/2016/gp_reservation.csv": "04c29db08e4ee1b851d88c46c75d367f76f1ad9111b8dd0b5d5b7eea558fdb5a",
+      "data/2016/ward_reservation.csv": "13a9dd409a880ae1682abef5812595a378875b7a0820eddfa87e85ba076d2402",
+      "data/2022/gp_reservation.csv": "bd82388b42fa6e4c0975743fb9cc409441844cce4aecd96c8a672d9fb1d6efe5",
+      "data/2022/ward_reservation.csv": "fc67e6e77641fa8130dcb8a6133dde995bddd177b8f3d731796f0e90e230ab1d",
+      "data/release/historical/historical_reviewed_occurrences.parquet": "512cc30cfaed8a374c86193f30d6f59a7179c6b54dbc3ccb9e63b8c294967073",
+      "data/release/historical/historical_quarantine.parquet": "3ec45f267c968a736b23c3832394ad30c98319eda366759f9958570a8fe6c27f",
+      "data/release/historical/historical_provisional_observations.parquet": "5cd24230018c8746f207fae44e641137dceefb62dd73332138e8504c34da13a6"
+    }
+  },
+  "local_elections_kerala": {
+    "ref": "03481733ef0b1bb796ecaef01d99cc148fc29348",
+    "files": {
+      "data/lsgi-election-kerala.csv": "b7772cf45b3f27d7160c6a8f1209df793281fdcf009a46a03687272d8826fdd0"
+    }
+  },
+  "local_elections_uttarakhand": {
+    "ref": "e9e79ae49b29dfa934699a783bc8f4a877173b3e",
+    "files": {
+      "data/uttarakhand-panchayat-elections.csv": "cf95e7c91ed41910c79f596c4634f7e2e67107f047676fb90c5ecdc88decbf21",
+      "data/uttarakhand-panchayat-elections-haridwar.csv": "a1575bd1d8acb93ad1dd340a3e90a19b891f12a5f4726ed9e3993107e26799b1"
+    }
   }
 }

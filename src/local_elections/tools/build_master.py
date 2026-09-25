@@ -20,9 +20,11 @@ like success:
                 Kerala ships urban wards in the same file as rural ones, so
                 this cannot be done by choosing files.
 
-UP and Rajasthan inputs are checksum-verified against published revisions in
-data/sources.json and shared through INDIA_DATA_HOME. Other siblings are read
-from ROOT.parent. The producing revision is recorded on every row.
+Every sibling state repository is pinned in data/sources.json: a commit and the
+SHA-256 of each file its adapter reads. Pinned files are fetched once into
+INDIA_DATA_HOME (or copied from a matching sibling checkout) and verified, so a
+build does not depend on what happens to be checked out next door. The
+producing revision is recorded on every row.
 """
 
 import argparse
