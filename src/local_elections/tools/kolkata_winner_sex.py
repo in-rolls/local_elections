@@ -3,15 +3,20 @@
     uv run --with naampy python -m local_elections.tools.kolkata_winner_sex
 
 The Lok Dhaba files OpenCity republishes leave `Gender` blank for Kolkata, so
-sex here is inferred, not recorded, and the output says so in every row.
+sex here is inferred, not recorded. The output follows the `name-sex-inference`
+standard: `winner_female_probability_from_name` with its method on every row.
 
-A winner on a seat reserved for women is coded female: the law allows nobody
-else to stand. Every other winner is coded from the first name after titles.
-naampy's first-name score decides the clear cases (0.8 or more is female, 0.35
-or less male), surname markers (Begum, Khatoon, Devi, Bibi) mark women, and
-every name between the thresholds was read by hand; the decisions are in
-REVIEWED. Names that can belong to either sex in Bengal stay `uncertain`, so an
-analysis can drop them or bound the result both ways.
+Every winner is coded from the name alone. A seat reserved for women says the
+winner is a woman by law, but that is the seat's reservation, not the name, and
+it stays in `ward_reservation` for the analysis to apply. The first name after
+titles is scored by naampy: 0.8 or more is 1, 0.35 or less is 0. Surname markers
+(Begum, Khatoon, Devi, Bibi) give 1. Open-seat winners between the thresholds
+were read by hand; the decisions are in REVIEWED. Names that can belong to
+either sex in Bengal, and women's-seat winners between the thresholds, are left
+blank, so an analysis can drop them or bound the result both ways.
+
+Women's-seat winners also check naampy here: 20 of 94 score below 0.8 and 8
+below 0.35 (Javed Rafat, Ashoka Mondal; Basu Anita prints the surname first).
 
 Writes data/opencity/kolkata_winner_sex.csv.
 """
@@ -21,6 +26,7 @@ import re
 
 import pandas as pd
 
+from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
 DIR = ROOT / "data" / "opencity"
@@ -107,32 +113,47 @@ def winners():
     return pd.DataFrame(rows)
 
 
-def code(row):
-    if "Women" in row.ward_reservation:
-        return "female", "women_seat"
+PROBABILITY = {"female": 1.0, "male": 0.0, "uncertain": None}
+
+
+def code(row, naampy):
+    """The name-based probability and how it was made."""
     if row.winner in REVIEWED:
-        return REVIEWED[row.winner], "name_reviewed"
+        decision = REVIEWED[row.winner]
+        return PROBABILITY[decision], f"manual review: {decision}"
     if set(words(row.winner)) & FEMALE_SURNAMES:
-        return "female", "name_marker"
+        return 1.0, "surname marker (begum, khatoon, khatun, devi, bibi)"
+    rule = f"naampy {naampy} first-name score: >= {FEMALE_AT} is 1, <= {MALE_AT} is 0"
     if row.naampy_score >= FEMALE_AT:
-        return "female", "name_score"
+        return 1.0, rule
     if row.naampy_score <= MALE_AT:
-        return "male", "name_score"
+        return 0.0, rule
+    if "Women" in row.ward_reservation:
+        return None, f"{rule}; between thresholds, not reviewed (women's seat)"
     raise SystemExit(
         f"{row.winner} ({row.naampy_score:.2f}) needs a decision in REVIEWED"
     )
 
 
+@command("transform", artifact="kolkata_winner_sex")
 def main():
+    from importlib.metadata import version
+
     from naampy import estimate_first_name_pattern
 
     w = winners()
     w["first_name"] = w.winner.map(first_name)
     est = estimate_first_name_pattern(w.first_name.tolist())
     w["naampy_score"] = est["female_label_score"].to_numpy(dtype=float).round(4)
-    w[["winner_sex_from_name", "basis"]] = [code(r) for r in w.itertuples()]
+    coded = [code(r, version("naampy")) for r in w.itertuples()]
+    w["winner_female_probability_from_name"] = [p for p, _ in coded]
+    w["winner_female_probability_method"] = [m for _, m in coded]
     w.to_csv(OUT, index=False, quoting=csv.QUOTE_MINIMAL, lineterminator="\n")
-    print(w.groupby(["year", "basis", "winner_sex_from_name"]).size().to_string())
+    summary = w.assign(
+        women_seat=w.ward_reservation.str.contains("Women"),
+        p=w.winner_female_probability_from_name.astype(str),
+    )
+    print(summary.groupby(["year", "women_seat", "p"]).size().to_string())
 
 
 if __name__ == "__main__":

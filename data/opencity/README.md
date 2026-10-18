@@ -20,10 +20,13 @@ electorates correlate at 0.96 between the two elections by ward number, against 
 neighbouring number. Councillors do move between wards, usually when their own ward's category
 changes.
 
-`kolkata_winner_sex.csv` codes each Kolkata winner's sex. It is inferred, not recorded:
-the tool is `uv run --with naampy python -m local_elections.tools.kolkata_winner_sex`. A winner
-on a women's seat is female by law; other winners are coded from their first name, and the
-`basis` column says how. Names that serve either sex stay `uncertain`.
+`kolkata_winner_sex.csv` gives each Kolkata winner's `winner_female_probability_from_name`,
+inferred from the name alone, never recorded: the tool is
+`uv run --with naampy python -m local_elections.tools.kolkata_winner_sex`. Values are 1 or 0,
+from naampy's first-name score, surname markers or a hand review, and
+`winner_female_probability_method` says which. Names that serve either sex are blank. A
+women's-seat winner is a woman by law, but that comes from `ward_reservation`, not from this
+column; an analysis applies it.
 
 Known defects in the Delhi 2022 file: in four wards the candidates' votes do not sum to the valid
 votes. Ward 41 prints 3,070 valid votes for 30,704 cast; in ward 157 an independent repeats the
