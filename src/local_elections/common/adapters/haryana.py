@@ -30,6 +30,8 @@ the worklist rather than papered over.
 import csv
 import pathlib
 
+import pyarrow.parquet as pq
+
 from local_elections.common import krutidev
 from local_elections.common.normalize import label
 
@@ -63,7 +65,12 @@ TIERS = {
 # over one grid, so every seat there was emitted a second time with the father
 # read as the winner and no ward - 68 panchayats in a block that has 34. The 26
 # affected pages are now read by Surya, and the phantom printing is gone.
+# 2010 entered with the sibling's v0.3 release: 22 district notifications,
+# against an official 6,075 panchayats and 58,608 panches. Bhuna's printing is
+# incomplete and Hassanpur and Nissing are missing, which is most of the gap.
 DECLARED = {
+    ("2010", "gp_head"): 5924,
+    ("2010", "gp_ward"): 57856,
     ("2016", "gp_head"): 6090,
     ("2016", "gp_ward"): 61879,
     ("2022", "gp_head"): 6123,
@@ -71,8 +78,68 @@ DECLARED = {
 }
 
 
+# The sibling reviewed every 2010 block whose printed women's seats fall far
+# below the statutory third. In seven, the commission's own reservation table
+# and the winners' names both contradict the printed sarpanch categories, and
+# the Hindi printing repeats the English one, so the notification itself is in
+# conflict. Those rows keep their printed category and carry a flag.
+DEFECTS = "data/2010/reference/category_defects.csv"
+INFERRED = "data/inferred/winner_female_probability_{year}.parquet"
+LINKS = {
+    ("2010", "2016"): "data/linkage/gp_2010_2016.parquet",
+    ("2016", "2022"): "data/linkage/gp_2016_2022.parquet",
+}
+
+
+def unreliable_blocks(root):
+    path = root / DEFECTS
+    if not path.exists():
+        return set()
+    with path.open(encoding="utf-8") as fh:
+        return {
+            (r["district"], r["block"])
+            for r in csv.DictReader(fh)
+            if r["decision"] == "reservation_unreliable"
+        }
+
+
+def inferred_sex(root, year):
+    """The sibling's name-based probability that each elected sarpanch is a woman.
+
+    Haryana's notifications record no sex, so this is the only reading of it,
+    and it travels under its own name: winner_gender stays blank.
+    """
+    path = root / INFERRED.format(year=year)
+    if not path.exists():
+        return {}
+    out = {}
+    # A few notifications print one serial twice in a block (Hisar-2 serial 22
+    # names Ishwar and Bhal Singh for Kirtan), so the printed winner is part of
+    # the key.
+    for r in pq.read_table(path).to_pylist():
+        probability = r["winner_female_probability_from_name"]
+        if probability is None or probability != probability:
+            continue
+        key = (r["district"], r["block"], str(r["sr_no"]), r["winner"])
+        if key in out:
+            raise SystemExit(f"{REPO}: {year} inferred sex repeats {key}")
+        out[key] = {
+            "winner_female_probability_from_name": f"{probability:.6f}",
+            "winner_female_probability_method": r["winner_female_probability_method"],
+        }
+    return out
+
+
+def locator(district, block, sr_no, gram_panchayat, ward_no=""):
+    # The serial alone repeats: Gurgaon/Sohna prints 21 for both Johlaka and
+    # Kadarpur. The sibling's links are keyed on serial and name together.
+    parts = (district, block, sr_no, gram_panchayat, ward_no)
+    return "/".join(str(x) for x in parts if str(x))
+
+
 def slices(root):
     root = pathlib.Path(root)
+    unreliable = unreliable_blocks(root)
     for year_dir in sorted(p for p in (root / "data").iterdir() if p.is_dir()):
         year = year_dir.name
         if not year.isdigit():
@@ -81,11 +148,20 @@ def slices(root):
             path = year_dir / f"{stem}.csv"
             if not path.exists():
                 continue
+            inferred = inferred_sex(root, year) if tier == "gp_head" else {}
             with path.open(encoding="utf-8", errors="replace") as fh:
                 rows = [
                     convert(r, year, tier, tier_local, path, root)
                     for r in csv.DictReader(fh)
                 ]
+            for row in rows:
+                place = (row["district"], row["block"])
+                if tier == "gp_head":
+                    row.update(
+                        inferred.get((*place, row["sr_no"], row["printed_winner"]), {})
+                    )
+                    if year == "2010" and place in unreliable:
+                        row["reservation_source_conflict"] = 1
             expected = DECLARED.get((year, tier))
             if expected is not None and len(rows) != expected:
                 raise SystemExit(
@@ -104,6 +180,8 @@ def slices(root):
 
 def convert(row, year, tier, tier_local, path, root):
     local = row.get("caste_reservation", "")
+    printed_winner = row.get("winner", "")
+    printed_place = row.get("gram_panchayat", "")
     if row.get("script") == "krutidev":
         row = dict(row)
         for column in TRANSLITERATE:
@@ -118,6 +196,11 @@ def convert(row, year, tier, tier_local, path, root):
         "district": row.get("district", ""),
         "block": row.get("block", ""),
         "gram_panchayat": row.get("gram_panchayat", ""),
+        # Not gp_no: that would enter the seat key and move every Haryana
+        # row_id. It is kept for the joins below and in source_locator.
+        "sr_no": row.get("sr_no", ""),
+        # before Kruti Dev conversion, as the sibling's inferred table keys it
+        "printed_winner": printed_winner,
         "ward_no": row.get("ward_no", ""),
         # Block A of the Backward Classes list, which is not the same set as
         # another state's BC - the fold is kept reversible
@@ -153,4 +236,42 @@ def convert(row, year, tier, tier_local, path, root):
             (path.parent / "pdfs" / row.get("source_pdf", "")).relative_to(root)
         ),
         "source_page": "",
+        # the notification's own serial within its block, which is what the
+        # sibling's seat links are keyed on
+        "source_locator": locator(
+            row.get("district", ""),
+            row.get("block", ""),
+            row.get("sr_no", ""),
+            printed_place,
+            row.get("ward_no", "") if tier == "gp_ward" else "",
+        ),
     }
+
+
+def links(root):
+    """The sibling's sarpanch seat links, keyed by both seats' locators."""
+    root = pathlib.Path(root)
+    for (a, b), relative in LINKS.items():
+        path = root / relative
+        if not path.exists():
+            continue
+        for r in pq.read_table(path).to_pylist():
+            yield {
+                "from_dataset_id": f"haryana/gp_head/{a}",
+                "from_locator": locator(
+                    r[f"district_{a}"],
+                    r[f"block_{a}"],
+                    r[f"sr_no_{a}"],
+                    r[f"gram_panchayat_{a}"],
+                ),
+                "to_dataset_id": f"haryana/gp_head/{b}",
+                "to_locator": locator(
+                    r[f"district_{b}"],
+                    r[f"block_{b}"],
+                    r[f"sr_no_{b}"],
+                    r[f"gram_panchayat_{b}"],
+                ),
+                "link_pass": r["link_pass"],
+                "name_score": r["name_score"],
+                "source_path": relative,
+            }

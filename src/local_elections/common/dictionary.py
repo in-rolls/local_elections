@@ -742,11 +742,63 @@ COLUMNS = [
     ),
     column(
         "winner_gender",
+        "enum",
+        allowed=["female", "male", "other"],
+        severity=ERROR,
+        note="The elected person's own sex as a record states it, in one "
+        "vocabulary. Never inferred: not from a name, and not from the seat's "
+        "reservation - a woman can win an open seat, and a record that marks "
+        "only women says nothing about the rest. Blank where no record states "
+        "it. Not woman_reserved, which says what the seat was reserved for.",
+    ),
+    column(
+        "winner_gender_raw",
         "string",
-        length=(1, 24),
+        length=(1, 60),
         severity=INFO,
-        note="The elected person's own gender. Not woman_reserved, which "
-        "says whether the seat was reserved for a woman.",
+        note="The source value winner_gender was read from, untouched. Present "
+        "even where winner_gender is blank, so a value that is not a sex - "
+        "Uttar Pradesh 2005 has winner names in its sex column - stays "
+        "findable rather than disappearing.",
+    ),
+    column(
+        "winner_gender_basis",
+        "enum",
+        allowed=["seat_record", "winning_candidate_record", "winner_category_record"],
+        severity=ERROR,
+        note="Which record winner_gender_raw comes from: the seat's own row, the "
+        "winning candidate's row in the source's candidate list, or the "
+        "winner's printed category where that category names women "
+        "('OBC (Woman)'). A category without a women's mark is not read as "
+        "male: in Rajasthan's 2020 ward results 6,307 winners of women-only "
+        "seats carry a plain category.",
+    ),
+    column(
+        "winner_female_probability_from_name",
+        "string",
+        pattern=r"^(0(\.\d+)?|1(\.0+)?)$",
+        severity=INFO,
+        note="A probability that the winner is a woman, inferred from the "
+        "printed name - never a record, and never written to winner_gender. "
+        "For aggregate use: averaged over seats it estimates a share of women. "
+        "winner_female_probability_method says how each value was made.",
+    ),
+    column(
+        "winner_female_probability_method",
+        "string",
+        length=(5, 200),
+        severity=INFO,
+        note="How winner_female_probability_from_name was made, with versions: "
+        "a model and its training labels, or a manual coding of names.",
+    ),
+    column(
+        "reservation_source_conflict",
+        "boolean",
+        severity=INFO,
+        note="The seat's printed reservation disagrees with other evidence from "
+        "the same commission - its reservation table or the statutory share "
+        "within the block - and the state repository reviewed the block and "
+        "marked its printed categories unreliable. The printed value is kept.",
     ),
     column(
         "winner_caste",
@@ -870,6 +922,15 @@ COLUMNS = [
         severity=INFO,
         note="Two places in one block printed under one name, told apart "
         "only by being reserved differently.",
+    ),
+    column(
+        "code_repeated",
+        "integer",
+        range=(0, 1),
+        severity=INFO,
+        note="The source form reuses this seat's code for a second place in the "
+        "same parent, so the page could belong to either; the row enters once. "
+        "Bihar 2016.",
     ),
 ]
 

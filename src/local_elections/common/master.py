@@ -272,6 +272,10 @@ def quality_flags(row):
         flags.append("margin_not_below_votes")
     if str(row.get("winner_category_sex_agree", "")) == "0":
         flags.append("winner_category_sex_disagree")
+    # the state reviewed the block and found its printed categories in conflict
+    # with the commission's own reservation table; the printed value is kept
+    if str(row.get("reservation_source_conflict") or "0") not in ("0", ""):
+        flags.append("reservation_source_conflict")
     # two places in one block printed under one name, told apart only by the
     # fact that they are reserved differently
     if str(row.get("shared_place_name") or "0") not in ("0", ""):
@@ -291,6 +295,48 @@ def quality_flags(row):
     ) and not (row.get("winner_latin") or row.get("gram_panchayat_latin")):
         flags.append("name_untransliterated")
     return ";".join(flags)
+
+
+def winner_gender_fields(row):
+    """The winner's recorded sex, its source value and which record it came from.
+
+    A seat row that states the winner's sex is read first. Where it does not,
+    the winning candidate's own record in the source's candidate list is used,
+    provided exactly one listed candidate is marked elected. Nothing here infers
+    a sex: a value outside the recorded vocabulary keeps its raw form and leaves
+    winner_gender blank, and a name-based probability travels in its own,
+    differently named column.
+    """
+    raw = row.get("winner_gender_raw") or row.get("winner_gender") or ""
+    basis = row.get("winner_gender_basis") or ""
+    canonical = row.get("winner_gender") or ""
+    if not str(raw).strip():
+        elected = [
+            member
+            for member in row.get("seat_members") or ()
+            if str(member.get("elected", "")) == "1"
+        ]
+        if (
+            len(elected) != 1
+            or not str(elected[0].get("candidate_gender") or "").strip()
+        ):
+            return {
+                "winner_gender": "",
+                "winner_gender_raw": "",
+                "winner_gender_basis": "",
+            }
+        raw, basis, canonical = (
+            elected[0]["candidate_gender"],
+            "winning_candidate_record",
+            "",
+        )
+    if canonical not in ("female", "male", "other"):
+        canonical = normalize.recorded_gender(raw)
+    return {
+        "winner_gender": canonical,
+        "winner_gender_raw": str(raw).strip(),
+        "winner_gender_basis": basis or "seat_record",
+    }
 
 
 def gp_term(row):

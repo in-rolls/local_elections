@@ -114,7 +114,7 @@ def read_release(root):
             raise ValueError(f"Bihar release count changed: {name}")
         # Compared by name and order; the types cannot move without the bytes
         # moving, and the bytes are pinned above.
-        if table.schema.names != list(info["schema"]):
+        if table.schema.names != list(info["columns"]):
             raise ValueError(f"Bihar release columns changed: {name}")
         data[name] = table.to_pylist()
     return data

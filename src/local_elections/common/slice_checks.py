@@ -354,8 +354,16 @@ def label_agrees(s):
 
     # A row that states no category has no label to agree with. Bihar's 328
     # "--select--" rows are blank in all three columns, which is consistent.
+    # A row that states a caste but not whether the seat is a woman's - 867 of
+    # Bihar's 2011 winner reports print "अनारक्षित" alone - must leave the label
+    # blank: reading the silence as "Other than Woman" would assert a fact.
     stated = [r for r in s.rows if (r.get("caste_reservation") or "").strip()]
-    bad = [r for r in stated if r.get("reservation") != expected(r)]
+    bad = [
+        r
+        for r in stated
+        if r.get("reservation")
+        != (expected(r) if str(r.get("woman_reserved", "")) in ("0", "1") else "")
+    ]
     return result(
         FAIL if bad else PASS,
         len(bad),

@@ -33,13 +33,59 @@ Found" and therefore prints no reservation - 30,764 of them, counted per tier in
 each slice's notes rather than admitted as open seats.
 """
 
-from local_elections.common.adapters import bihar_2016, bihar_2021
+import pyarrow.parquet as pq
+
+from local_elections.common.adapters import bihar_2011, bihar_2016, bihar_2021
 
 REPO = "local_elections_bihar"
 URL = "https://github.com/in-rolls/local_elections_bihar"
 STATE = "Bihar"
 
+# The sibling's mukhiya seat links. 2016 and 2021 are joined on panchayat names
+# inside matched blocks, with ward counts as a second pass; 2011 records are
+# joined to 2016 seats on names alone, inside a reviewed block crosswalk.
+LINKS = {
+    "2011_2016": "data/linkage/mukhiya_2011_2016.parquet",
+    "2016_2021": "data/linkage/mukhiya_2016_2021.parquet",
+}
+
 
 def slices(root):
+    yield from bihar_2011.slices(root)
     yield from bihar_2016.slices(root)
     yield from bihar_2021.slices(root)
+
+
+def locator_2016(r):
+    # bihar_2016's key is office/district/block/panchayat/unit, and a mukhiya's
+    # panchayat code is empty: the seat is the panchayat itself.
+    return "/".join(
+        ["mukhiya", r["district_code"], r["block_code"], "", r["unit_code"]]
+    )
+
+
+def links(root):
+    """The sibling's mukhiya seat links, keyed by both seats' locators."""
+    path = root / LINKS["2011_2016"]
+    for r in pq.read_table(path).to_pylist():
+        yield {
+            "from_dataset_id": "bihar/gp_head/2011",
+            "from_locator": r["record_id_2011"],
+            "to_dataset_id": "bihar/gp_head/2016",
+            "to_locator": locator_2016(r),
+            "link_pass": "name",
+            "name_score": r["name_score"],
+            "source_path": LINKS["2011_2016"],
+        }
+    path = root / LINKS["2016_2021"]
+    for r in pq.read_table(path).to_pylist():
+        yield {
+            "from_dataset_id": "bihar/gp_head/2016",
+            "from_locator": locator_2016(r),
+            "to_dataset_id": "bihar/gp_head/2021",
+            # bihar_2021's key is post/unit, and post 3 is the mukhiya
+            "to_locator": f"3/{r['unit_id_2021']}",
+            "link_pass": r["link_pass"],
+            "name_score": r["name_score"],
+            "source_path": LINKS["2016_2021"],
+        }

@@ -113,7 +113,7 @@ def read_release(root):
         # file reads back in Arrow's ("large_string"), so the columns are
         # compared by name and order. The types cannot move without the bytes
         # moving, and the bytes are pinned above.
-        if table.schema.names != list(info["schema"]):
+        if table.schema.names != list(info["columns"]):
             raise ValueError(f"Bihar release columns changed: {name}")
         data[name] = table.to_pylist()
     return data

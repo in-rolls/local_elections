@@ -30,6 +30,7 @@ producing revision is recorded on every row.
 import argparse
 import collections
 import csv
+import hashlib
 import subprocess
 import sys
 
@@ -191,6 +192,7 @@ def sibling_supplemental(only=None):
 
 def build(only=None):
     rows, extras, dropped, candidates = [], [], [], []
+    located = collections.defaultdict(list)
     seen = collections.Counter()
     counts = collections.Counter()
     # Read once. to_master runs 829,628 times and this is 154,700 entries.
@@ -199,6 +201,7 @@ def build(only=None):
     for slice_ in list(local_slices()) + list(sibling_slices(only)):
         for row in slice_["rows"]:
             counts["input"] += 1
+            row = dict(row, **M.winner_gender_fields(row))
             got = M.to_master(
                 row,
                 slice_["dataset_id"],
@@ -224,6 +227,10 @@ def build(only=None):
             key = got["seat_key"]
             seen[key] += 1
             got["row_id"] = M.row_id(got, seen[key])
+            if row.get("source_locator"):
+                located[(slice_["dataset_id"], row["source_locator"])].append(
+                    got["row_id"]
+                )
             rows.append(got)
             extras += M.extras(row, got["row_id"])
             candidates += M.candidates(row, got)
@@ -235,7 +242,84 @@ def build(only=None):
         row["seat_key_unique"] = int(seen[row["seat_key"]] == 1)
 
     supplemental = list(sibling_supplemental(only))
+    supplemental.append(seat_links(located, only))
     return rows, extras, dropped, candidates, supplemental, counts
+
+
+SEAT_LINK_COLUMNS = [
+    "link_id",
+    "state",
+    "tier",
+    "from_year",
+    "to_year",
+    "from_row_id",
+    "to_row_id",
+    "link_pass",
+    "name_score",
+    "source_repo",
+    "source_commit",
+    "source_path",
+]
+
+
+def seat_links(located, only=None):
+    """The same seat in two elections, as the state repositories linked it.
+
+    A link is the sibling's claim that two records name one seat: names matched
+    inside a reviewed block pair, by a stated pass, with its score. It is not an
+    official identifier. Links are carried here only once both ends resolve to
+    exactly one pooled row; a link whose end is not a pooled row - a seat left
+    out for stating no reservation, say - is counted and dropped, and a locator
+    naming two rows stops the build, since either choice would be a guess.
+    """
+    out, unresolved = [], collections.Counter()
+    for name, adapter in sorted(adapters.REGISTRY.items()):
+        read_links = getattr(adapter, "links", None)
+        if read_links is None or (only and name not in only):
+            continue
+        pinned = sources.resolve(adapter.REPO)
+        directory = pinned[0] if pinned else ROOT.parent / adapter.REPO
+        commit = pinned[1] if pinned else git_commit(directory)[0]
+        for link in read_links(directory):
+            ends = []
+            for side in ("from", "to"):
+                key = (link[f"{side}_dataset_id"], link[f"{side}_locator"])
+                found = located.get(key, [])
+                if len(found) > 1:
+                    raise SystemExit(f"seat link end names {len(found)} rows: {key}")
+                ends.append(found[0] if found else None)
+            if None in ends:
+                unresolved[(adapter.REPO, link["source_path"])] += 1
+                continue
+            _, tier, from_year = link["from_dataset_id"].split("/")
+            to_year = link["to_dataset_id"].split("/")[2]
+            out.append(
+                {
+                    "link_id": hashlib.sha1("|".join(ends).encode()).hexdigest()[:12],
+                    "state": adapter.STATE,
+                    "tier": tier,
+                    "from_year": from_year,
+                    "to_year": to_year,
+                    "from_row_id": ends[0],
+                    "to_row_id": ends[1],
+                    "link_pass": link["link_pass"],
+                    "name_score": f"{link['name_score']:.4f}",
+                    "source_repo": adapter.REPO,
+                    "source_commit": commit,
+                    "source_path": link["source_path"],
+                }
+            )
+    for (repo, path), n in sorted(unresolved.items()):
+        LOGGER.warning(
+            "Seat links whose ends are not pooled rows",
+            extra={"event": "seat_links_unresolved", "repository": repo,
+                   "path": path, "links": n},
+        )  # fmt: skip
+    return {
+        "name": "supplemental_seat_links.parquet",
+        "columns": SEAT_LINK_COLUMNS,
+        "rows": out,
+    }
 
 
 def reconcile(counts, dropped):
