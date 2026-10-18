@@ -50,10 +50,10 @@ into a national missing-seat total.
 
 | | Entries | Rows affected |
 |---|---|---|
-| [Open gaps](WORKLIST.md) | 59 | 82,055 |
+| [Open gaps](WORKLIST.md) | 65 | 85,218 |
 | [Blocked](WORKLIST.md) | 0 | 0 |
 | [Parked](WORKLIST.md) | 9 | 1,653 |
-| [Undetermined](WORKLIST.md) | 23 | 11,663 |
+| [Undetermined](WORKLIST.md) | 24 | 15,636 |
 | [Accepted properties of the sources](WORKLIST.md) | 24 | 141,030 |
 
 <!-- worklist:end -->
@@ -160,18 +160,18 @@ seats. The state readme linked in `Where` gives the file-level inventory.
 | Andhra Pradesh | gp_head, gp_ward | 2020 | 80,021 | parsed | all 13 GP district gazettes are held; 8 are parsed and 5 remain unparsed; 32 held PDFs cover MPTC, ZPTC, MPP, and MPL tiers and remain unparsed | [data/ap/](data/ap/) |
 | Arunachal Pradesh | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Assam | block_head, block_member, block_vice_head, gp_head, gp_vice_head, gp_ward, ulb_head, ulb_ward, zp_member | 2020, 2025 | 2,288 | parsed | 23 held 2025 district PRI scans remain unparsed | [data/assam/](data/assam/) |
-| Bihar | gp_head, gp_ward, block_member, zp_member, kachahari_head, kachahari_member | 2016, 2021 | 2,778,202 | parsed | 30,764 seats of 2016 answer 'Record not Found' and print no reservation; 2021 winner education is transcribed for Arwal only | [local_elections_bihar](https://github.com/in-rolls/local_elections_bihar) |
+| Bihar | gp_head, gp_ward, block_member, zp_member, kachahari_head, kachahari_member | 2016, 2021 | - | parsed | 30,764 seats of 2016 answer 'Record not Found' and print no reservation; 2021 winner education is transcribed for Arwal only | [local_elections_bihar](https://github.com/in-rolls/local_elections_bihar) |
 | Chandigarh | - | - | - | no parsed rows | 5 held municipal and election-report PDFs need a rural-scope review | [data/chandigarh/](data/chandigarh/) - 4 digital-text, 1 scan |
 | Chhattisgarh | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Dadra & Nagar Haveli and Daman & Diu | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Goa | gp_ward | 2012, 2017, 2022 | 2,948 | parsed | the 2017 and 2022 rosters are incomplete; 10 held cycle files are not linked to parsed rows | [data/goa/](data/goa/) |
 | Gujarat | block_member, zp_member | 2020 | 1,178 | parsed | — | [data/gujarat/](data/gujarat/) |
-| Haryana | gp_head, gp_ward | 2016, 2022 | 135,073 | parsed | see sibling repository | [local_elections_haryana](https://github.com/in-rolls/local_elections_haryana) |
+| Haryana | gp_head, gp_ward | 2016, 2022 | - | parsed | see sibling repository | [local_elections_haryana](https://github.com/in-rolls/local_elections_haryana) |
 | Himachal Pradesh | - | - | - | no parsed rows | 1 held scan needs a seat-level scope review and OCR | [data/himachal/](data/himachal/) - 1 scan |
 | Jammu & Kashmir | gp_head, gp_ward | 2010, 2016, 2018 | 28,498 | parsed | 2016 is parsed from all 25 held PDFs; 13 files from 2010 and 2018 produce no rows | [data/jk/](data/jk/) |
 | Jharkhand | block_member, gp_head, gp_ward, zp_member | 2015 | 29,111 | parsed | GP-ward and ZP coverage reaches 11 of 24 districts; 29 rural and 3 municipal PDFs are not linked to parsed rows | [data/jharkhand/](data/jharkhand/) |
 | Karnataka | block_member, gp_head, zp_member | 1993, 2000, 2002, 2005, 2007, 2016 | 30,914 | parsed | 244 of 248 unlinked PDFs were reviewed as duplicate reservation statements or aggregate forms, not missing seats; 4 produce no rows | [data/karnataka/](data/karnataka/) |
-| Kerala | gp_ward, block_member, zp_member, ulb_ward | 2010, 2015, 2020 | 65,296 | parsed | see sibling repository | [local_elections_kerala](https://github.com/in-rolls/local_elections_kerala) |
+| Kerala | gp_ward, block_member, zp_member, ulb_ward | 2010, 2015, 2020 | - | parsed | see sibling repository | [local_elections_kerala](https://github.com/in-rolls/local_elections_kerala) |
 | Ladakh | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Lakshadweep | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Madhya Pradesh | - | - | - | no parsed rows | 2 held scans need a seat-level scope review and OCR | [data/madhya_pradesh/](data/madhya_pradesh/) - 2 scan |
@@ -184,13 +184,13 @@ seats. The state readme linked in `Where` gives the file-level inventory.
 | Odisha | - | - | - | no parsed rows | the 6 held PDFs are district aggregates, not seat rosters; acquire seat-level rural data | [data/odisha/](data/odisha/) - 6 digital-text |
 | Puducherry | - | - | - | no parsed rows | the 2021 panchayat notification is a 60-page scan that needs OCR; the other held notification is municipal | [data/puducherry/](data/puducherry/) - 1 digital-text, 1 scan |
 | Punjab | - | - | - | not held | acquire and assess a seat-level rural source | - |
-| Rajasthan | gp_head, gp_ward, block_member, zp_member | 2005, 2010, 2015, 2020, 2021, 2022 | 255,474 | parsed | 162,502 rural seat events, 68,202 candidates, and 13,473 GP-event nomination summaries are standardized; the 2015 Panchayat Samiti book and the 2015 and 2020 Zila Parishad books remain unparsed; municipal material is held outside the rural master | [local_elections_rajasthan](https://github.com/in-rolls/local_elections_rajasthan) |
+| Rajasthan | gp_head, gp_ward, block_member, zp_member | 2005, 2010, 2015, 2020, 2021, 2022 | - | parsed | 162,502 rural seat events, 68,202 candidates, and 13,473 GP-event nomination summaries are standardized; the 2015 Panchayat Samiti book and the 2015 and 2020 Zila Parishad books remain unparsed; municipal material is held outside the rural master | [local_elections_rajasthan](https://github.com/in-rolls/local_elections_rajasthan) |
 | Sikkim | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Tamil Nadu | GP-president office / amendment operation | 2001, 2011 | - | source-specific exports | 2011 GP-president roster and 2001 amendment operations have separate source-specific exports; review earlier scans and subsequent amendments; observed GP-president sex remains unavailable | [data/tn/](data/tn/); separate from pooled schema |
 | Telangana | gp_head, gp_ward | 2019 | 61,841 | parsed | the 4 unlinked PDFs are urban reservation orders or election manuals, not missing rural seats | [data/telangana/](data/telangana/) |
 | Tripura | - | - | - | not held | acquire and assess a seat-level rural source | - |
-| Uttar Pradesh | gp_head | 2005, 2010, 2015, 2021 | 535,848 | parsed | see sibling repository | [local_elections_up](https://github.com/in-rolls/local_elections_up) |
-| Uttarakhand | gp_head, block_member, zp_member | 2008, 2014, 2019 | 116,514 | parsed | see sibling repository | [local_elections_uttarakhand](https://github.com/in-rolls/local_elections_uttarakhand) |
+| Uttar Pradesh | gp_head | 2005, 2010, 2015, 2021 | - | parsed | see sibling repository | [local_elections_up](https://github.com/in-rolls/local_elections_up) |
+| Uttarakhand | gp_head, block_member, zp_member | 2008, 2014, 2019 | - | parsed | see sibling repository | [local_elections_uttarakhand](https://github.com/in-rolls/local_elections_uttarakhand) |
 | West Bengal | zp_member | 2018 | 825 | parsed | Separate 1998–2023 GP office, ward and results data have source-linked parsers and review queues ([GP data](data/wb/derived/README.md)); the final 2018 ZP gazettes are parsed, while their 19 drafts are not additional final seats | [data/wb/](data/wb/) |
 
 <!-- coverage:end -->
