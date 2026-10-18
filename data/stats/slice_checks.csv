@@ -431,6 +431,70 @@ Gujarat,2020,zp_member,reservation_constant_within_seat,internal,skip,,,"the sou
 Gujarat,2020,zp_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Gujarat,2020,zp_member,year_constant,internal,pass,2020,2020,
 Gujarat,2020,zp_member,provenance_resolves,internal,pass,0,0,16 documents
+Haryana,2000,gp_head,rows_in_band,declared,pass,5932,4000..8000,
+Haryana,2000,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only; 38 rows state no category
+Haryana,2000,gp_head,blank_share_within_tolerance,declared,warn,caste_reservation 1%>0%; woman_reserved 1%>0%; reservation 1%>0%,,3 column(s) over tolerance
+Haryana,2000,gp_head,coverage_vs_published,external,skip,5932,,no published total for this slice
+Haryana,2000,gp_head,women_share_vs_statute,external,pass,33.0%,floor 33%,
+Haryana,2000,gp_head,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Haryana,2000,gp_head,caste_share_vs_population,external,skip,0,,no population columns in this source
+Haryana,2000,gp_head,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Haryana,2000,gp_head,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Haryana,2000,gp_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Haryana,2000,gp_head,seat_key_unique,internal,warn,33,0,"largest group 8 at ('Haryana', '2000', '', '', 'gp_head', 'Karnal', 'Assandh', '', '', '', '', '', '')"
+Haryana,2000,gp_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,gp_head,
+Haryana,2000,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Haryana,2000,gp_head,plausible_vs_registry,external,pass,96%,,"5,932 against 6,197 in the register (2019-20)"
+Haryana,2000,gp_head,year_constant,internal,pass,2000,2000,
+Haryana,2000,gp_head,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2000,gp_ward,rows_in_band,declared,pass,53701,40000..80000,
+Haryana,2000,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only; 175 rows state no category
+Haryana,2000,gp_ward,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; reservation 0%>0%,,3 column(s) over tolerance
+Haryana,2000,gp_ward,coverage_vs_published,external,skip,53701,,no published total for this slice
+Haryana,2000,gp_ward,women_share_vs_statute,external,pass,33.2%,floor 33%,
+Haryana,2000,gp_ward,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Haryana,2000,gp_ward,caste_share_vs_population,external,skip,0,,no population columns in this source
+Haryana,2000,gp_ward,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Haryana,2000,gp_ward,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Haryana,2000,gp_ward,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Haryana,2000,gp_ward,seat_key_unique,internal,warn,614,0,"largest group 12 at ('Haryana', '2000', '', '', 'gp_ward', 'Jind', 'Julana', '', '', 'GATOLI', '', '', '')"
+Haryana,2000,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward,gp_ward,
+Haryana,2000,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Haryana,2000,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Haryana,2000,gp_ward,year_constant,internal,pass,2000,2000,
+Haryana,2000,gp_ward,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2005,gp_head,rows_in_band,declared,pass,6198,4000..8000,
+Haryana,2005,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only; 12 rows state no category
+Haryana,2005,gp_head,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; reservation 0%>0%,,3 column(s) over tolerance
+Haryana,2005,gp_head,coverage_vs_published,external,skip,6198,,no published total for this slice
+Haryana,2005,gp_head,women_share_vs_statute,external,pass,33.0%,floor 33%,
+Haryana,2005,gp_head,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Haryana,2005,gp_head,caste_share_vs_population,external,skip,0,,no population columns in this source
+Haryana,2005,gp_head,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Haryana,2005,gp_head,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Haryana,2005,gp_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Haryana,2005,gp_head,seat_key_unique,internal,warn,34,0,"largest group 12 at ('Haryana', '2005', '', '', 'gp_head', 'Mewat', 'Nuh', '', '', 'Badka Alimuddin', '', '', '')"
+Haryana,2005,gp_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,gp_head,
+Haryana,2005,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Haryana,2005,gp_head,plausible_vs_registry,external,warn,100%,<=100%,"6,198 against 6,197 in the register (2019-20) - above the register, which is either growth since it was compiled or rows that are not distinct bodies"
+Haryana,2005,gp_head,year_constant,internal,pass,2005,2005,
+Haryana,2005,gp_head,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2005,gp_ward,rows_in_band,declared,pass,60425,40000..80000,
+Haryana,2005,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only; 47 rows state no category
+Haryana,2005,gp_ward,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; reservation 0%>0%,,3 column(s) over tolerance
+Haryana,2005,gp_ward,coverage_vs_published,external,skip,60425,,no published total for this slice
+Haryana,2005,gp_ward,women_share_vs_statute,external,pass,36.5%,floor 33%,
+Haryana,2005,gp_ward,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Haryana,2005,gp_ward,caste_share_vs_population,external,skip,0,,no population columns in this source
+Haryana,2005,gp_ward,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Haryana,2005,gp_ward,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Haryana,2005,gp_ward,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Haryana,2005,gp_ward,seat_key_unique,internal,warn,164,0,"largest group 2 at ('Haryana', '2005', '', '', 'gp_ward', 'Bhiwani', 'Badhra', '', '', 'Ka. Hukmi', '11', '', '')"
+Haryana,2005,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward,gp_ward,
+Haryana,2005,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Haryana,2005,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Haryana,2005,gp_ward,year_constant,internal,pass,2005,2005,
+Haryana,2005,gp_ward,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
 Haryana,2010,gp_head,rows_in_band,declared,pass,5924,4000..8000,
 Haryana,2010,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only
 Haryana,2010,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
