@@ -50,10 +50,10 @@ into a national missing-seat total.
 
 | | Entries | Rows affected |
 |---|---|---|
-| [Open gaps](WORKLIST.md) | 72 | 86,957 |
+| [Open gaps](WORKLIST.md) | 72 | 86,965 |
 | [Blocked](WORKLIST.md) | 0 | 0 |
 | [Parked](WORKLIST.md) | 9 | 1,653 |
-| [Undetermined](WORKLIST.md) | 24 | 15,636 |
+| [Undetermined](WORKLIST.md) | 26 | 15,644 |
 | [Accepted properties of the sources](WORKLIST.md) | 24 | 141,030 |
 
 <!-- worklist:end -->

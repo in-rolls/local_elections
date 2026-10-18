@@ -19,7 +19,7 @@ Actionable gaps in what was acquired, parsed, or linked. Each line says what wou
 | 760 | Jharkhand | 2015 | `gp_ward` | some rows do not identify a distinct seat | largest group 57 rows |
 | 692 | Haryana | 2016 | `gp_ward` | some rows do not identify a distinct seat | largest group 6 rows |
 | 614 | Haryana | 2000 | `gp_ward` | some rows do not identify a distinct seat | largest group 12 rows |
-| 554 | Haryana | 2000 | `gp_ward` | the row does not say which panchayat | Sonepat 112, Karnal 107, Faridabad 62 |
+| 560 | Haryana | 2000 | `gp_ward` | the row does not say which panchayat | Sonepat 116, Karnal 107, Faridabad 62 |
 | 504 | Jharkhand | 2015 | `gp_ward` | the row does not say which seat | Deoghar 252, Ranchi 115, Lohardaga 57 |
 | 500 | Jharkhand | 2015 | `block_member` | some rows do not identify a distinct seat | largest group 43 rows |
 | 304 | Haryana | 2000 | `gp_ward` | the row does not say which seat | Faridabad 71, Bhiwani 37, Jind 33 |
@@ -39,7 +39,7 @@ Actionable gaps in what was acquired, parsed, or linked. Each line says what wou
 | 83 | Jharkhand | 2015 | `block_member` | the row does not say which seat | East Singhbhum 43, Ramgarh 14, West Singhbhum 10 |
 | 55 | Jharkhand | 2015 | `block_member` | the seat identifier is an image, not text | — |
 | 39 | Bihar | 2016 | `block_member` | some rows do not identify a distinct seat | largest group 3 rows |
-| 36 | Haryana | 2000 | `gp_head` | the row does not say which panchayat | Karnal 11, Sonepat 7, Faridabad 6 |
+| 38 | Haryana | 2000 | `gp_head` | the row does not say which panchayat | Karnal 11, Sonepat 8, Faridabad 6 |
 | 34 | Haryana | 2005 | `gp_head` | some rows do not identify a distinct seat | largest group 12 rows |
 | 34 | Karnataka | 1993 | `gp_head` | the row does not say which panchayat | CHIKMAGALUR 7, MYSORE 7, TUMKUR 3 |
 | 33 | Haryana | 2000 | `gp_head` | some rows do not identify a distinct seat | largest group 8 rows |
@@ -153,7 +153,7 @@ This note used to say the gap was Jharkhand's scans, naming 34% of OCR'd rows ag
 **some rows do not identify a distinct seat** — Two rows sharing every standardized seat-identity field cannot be told apart. Usually one printed identifier did not parse.
   *Closes with:* parsing whichever identifier is blank on the colliding rows. For the Jharkhand scans that means re-OCR: Surya keeps the block and panchayat numbers - the 1 and 2 of 'IVचतरा/1/2/जोगीडीह' - that tesseract drops, and those numbers are exactly what these rows are short of.
 
-## Undetermined (24)
+## Undetermined (26)
 
 We have not established whether these are properties of the sources or gaps in our collecting. That question is itself the work - asserting "no results document exists" is a claim about everything a state published, not about the file in hand.
 
@@ -185,9 +185,11 @@ So the seat-level results exist and the archive does not hold them. Reaching the
 | 10 | Bihar | 2021 | `block_member` | some result rows do not identify a winner | 10 of 11,095 rows |
 | 9 | Uttarakhand | 2014 | `block_member` | some result rows do not identify a winner | 9 of 2,885 rows |
 | 8 | Bihar | 2021 | `zp_member` | some result rows do not identify a winner | 8 of 1,160 rows |
+| 6 | Haryana | 2000 | `gp_ward` | some result rows do not identify a winner | 6 of 53,701 rows |
 | 5 | Karnataka | 2016 | `block_member` | some result rows do not identify a winner | 5 of 3,478 rows |
 | 5 | Uttarakhand | 2008 | `block_member` | some result rows do not identify a winner | 5 of 2,943 rows |
 | 5 | Uttarakhand | 2019 | `block_member` | some result rows do not identify a winner | 5 of 2,674 rows |
+| 2 | Haryana | 2000 | `gp_head` | some result rows do not identify a winner | 2 of 5,932 rows |
 | 1 | Uttarakhand | 2010 | `block_member` | some result rows do not identify a winner | 1 of 219 rows |
 
 **some result rows do not identify a winner** — A blank winner inside a result-stage slice is not the same as a pre-poll roster that names nobody. Vacant seats are excluded; the remaining blanks need a result source or an explicit source reason.

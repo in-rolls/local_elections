@@ -44,7 +44,7 @@
     "source_page"
   ],
   "committed_utc": "2026-10-18T00:26:55-07:00",
-  "dirty": false,
+  "dirty": true,
   "files": [
     {
       "bytes": 47937805,
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "bytes": 1263675,
+      "bytes": 1263754,
       "dataset_ids": [
         "andhra_pradesh/gp_head/2020",
         "andhra_pradesh/gp_ward/2020"
@@ -179,7 +179,7 @@
       ],
       "rows": 80021,
       "rows_identifying_a_distinct_seat": 80021,
-      "sha256": "727df0b6f7c0d06346875cf93ae4b2d333644bb0bf69efa2c6b98a9c272d1997",
+      "sha256": "b2ae3bf2c299dd05d84de18dec20795b14aa0d92f415cec322b384a02b3c6888",
       "states": [
         "Andhra Pradesh"
       ],
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "bytes": 54017,
+      "bytes": 54047,
       "dataset_ids": [
         "assam/block_head/2025",
         "assam/block_member/2025",
@@ -213,7 +213,7 @@
       ],
       "rows": 1678,
       "rows_identifying_a_distinct_seat": 1678,
-      "sha256": "ba263739f2e693d3cf08da7792c324b3df18b500785020af1da60edd5321da2f",
+      "sha256": "df3598e9217f8d749fb14f39f3581b5baf580edf6085807a3be84e3e8a054f72",
       "states": [
         "Assam"
       ],
@@ -294,14 +294,14 @@
       "sha256": "ec653b917aba1f11d439f142d9aed4d2e44afd2086c085a4ef1e81d3c94b5786"
     },
     {
-      "bytes": 25665437,
+      "bytes": 25664564,
       "kind": "master",
       "path": "data/master/master_extras.parquet",
-      "rows": 9025409,
-      "sha256": "32bd39e21b08bd9edb7ebbb68d8995c04ff81aef2343db219bc75bc30c244b41"
+      "rows": 9025397,
+      "sha256": "dce9b128893074a872c427b24efe91042d49a92d25de091209d26831aebe673b"
     },
     {
-      "bytes": 88442,
+      "bytes": 88472,
       "dataset_ids": [
         "goa/gp_ward/2012",
         "goa/gp_ward/2017",
@@ -318,7 +318,7 @@
       ],
       "rows": 2948,
       "rows_identifying_a_distinct_seat": 2948,
-      "sha256": "4fed1e2d4ad63ae49f1a4280f0e33058b0e232219b79640999f9b4bfefe37ca7",
+      "sha256": "83e382c4ab595cd7e390af82e07f1d5ca2e478751f58568453a8431dc7e57783",
       "states": [
         "Goa"
       ],
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "bytes": 62511,
+      "bytes": 62541,
       "dataset_ids": [
         "gujarat/block_member/2020",
         "gujarat/zp_member/2020"
@@ -347,7 +347,7 @@
       ],
       "rows": 1178,
       "rows_identifying_a_distinct_seat": 1178,
-      "sha256": "e4fcb0bb001c6c6214efb29a2448ff8ede088cec13fa0c1d2a32eca5ff97c1b8",
+      "sha256": "abae15fbb81935cf2a327c687a8d71c34b2c6a18a5efc011a0b75d4034f2b1df",
       "states": [
         "Gujarat"
       ],
@@ -360,7 +360,7 @@
       ]
     },
     {
-      "bytes": 5328655,
+      "bytes": 5330072,
       "dataset_ids": [
         "haryana/gp_head/2000",
         "haryana/gp_head/2005",
@@ -383,7 +383,7 @@
       ],
       "rows": 325109,
       "rows_identifying_a_distinct_seat": 321332,
-      "sha256": "4b47b6ef5e5653688e755236c6555e70c3716534b0d64f7bdf1802d30cc8e9b1",
+      "sha256": "36fd48afcc71bb77269761ed40ed73229a094fa2e3e9d1a81283a733e184ba8a",
       "states": [
         "Haryana"
       ],
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "bytes": 842112,
+      "bytes": 842154,
       "dataset_ids": [
         "jammu_and_kashmir/gp_head/2016",
         "jammu_and_kashmir/gp_ward/2010",
@@ -418,7 +418,7 @@
       ],
       "rows": 28498,
       "rows_identifying_a_distinct_seat": 28484,
-      "sha256": "2a549cd4a0f3978ce8380da926270941387db8f3f33a3117405a1fa25902ffac",
+      "sha256": "0bbd08343127ebb7ff5ba1820ee06bab408aef07344ef0da0daeb999f102d45e",
       "states": [
         "Jammu & Kashmir"
       ],
@@ -433,7 +433,7 @@
       ]
     },
     {
-      "bytes": 995586,
+      "bytes": 995628,
       "dataset_ids": [
         "jharkhand/block_member/2015",
         "jharkhand/gp_head/2015",
@@ -450,7 +450,7 @@
       ],
       "rows": 29111,
       "rows_identifying_a_distinct_seat": 27696,
-      "sha256": "1d9d6c11dc49a6a9eb3a400e622af322e614efd6bec61980804ae7a488665aca",
+      "sha256": "29e136a64ccab91c21e43bae334e81e1ce56a4c4f3da5e298845658618ac6b59",
       "states": [
         "Jharkhand"
       ],
@@ -465,7 +465,7 @@
       ]
     },
     {
-      "bytes": 812769,
+      "bytes": 812811,
       "dataset_ids": [
         "karnataka/block_member/2016",
         "karnataka/gp_head/1993",
@@ -485,7 +485,7 @@
       ],
       "rows": 30914,
       "rows_identifying_a_distinct_seat": 30901,
-      "sha256": "231418f43f48e7edb08b647baae2d1ff58e8dc60df69d0bd47c5cfd17882f2df",
+      "sha256": "478ddabe413caf4a13ca0c35dfdea3834414abca768bb0f7f2376a08fd4a0acd",
       "states": [
         "Karnataka"
       ],
@@ -624,7 +624,7 @@
       ]
     },
     {
-      "bytes": 1693802,
+      "bytes": 1693869,
       "dataset_ids": [
         "telangana/gp_head/2019",
         "telangana/gp_ward/2019"
@@ -639,7 +639,7 @@
       ],
       "rows": 61841,
       "rows_identifying_a_distinct_seat": 61801,
-      "sha256": "ad5a6f72be123f4d6898f6a78c9875f88110cb07df866de153b9b5fdcb60056b",
+      "sha256": "802dcd90c96013afb10f8cf3128e800329a99c73d312c21493110b9c5782ebd5",
       "states": [
         "Telangana"
       ],
@@ -732,7 +732,7 @@
       ]
     },
     {
-      "bytes": 32167,
+      "bytes": 32197,
       "dataset_ids": [
         "west_bengal/zp_member/2018"
       ],
@@ -746,7 +746,7 @@
       ],
       "rows": 825,
       "rows_identifying_a_distinct_seat": 825,
-      "sha256": "9a5051ee380ac1a82a1a6a75833d9f60d392d91c0816528f22438e44e97c5751",
+      "sha256": "1c5230fb3079a060ad94a61bc2264dbfdd6bb9d4b50d5cb42b8ee0f51d982de9",
       "states": [
         "West Bengal"
       ],
@@ -781,11 +781,11 @@
       ]
     },
     {
-      "bytes": 891962,
+      "bytes": 891963,
       "kind": "supplemental",
       "path": "data/master/supplemental_seat_links.parquet",
       "rows": 33667,
-      "sha256": "7dcf4b571a406cab4540e458f1a9d8476dbd75e7cdc18f6b5678d2e8f2465be7",
+      "sha256": "de9d1c74a0cb285f9d1ebe37646e73a601a6edaf7961231ddfa35993ebc60548",
       "states": [
         "Bihar",
         "Haryana"
@@ -1491,7 +1491,7 @@
       "url": "https://github.com/in-rolls/local_elections_bihar"
     },
     {
-      "commit": "77e6f7f8cf34bf2ddcf0a4bb3bf0ffad11b62c7a",
+      "commit": "4b33a98861b6e41e8b0050595e380baa1f304ce5",
       "dirty": false,
       "pinned": true,
       "present": false,
