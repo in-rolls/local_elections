@@ -113,8 +113,23 @@ LOCAL_INPUTS = [
 ]
 
 
+def superseded():
+    """(state, year, tier) slices a sibling repository now supplies.
+
+    A state moved to its own repository can take over a slice this repository
+    parsed first. The adapter says so in SUPERSEDES, and the in-tree slice is
+    then left out of the master, so one election is never pooled twice. The
+    in-tree file stays where it is; the coverage and the state readmes still
+    describe it.
+    """
+    out = set()
+    for adapter in adapters.REGISTRY.values():
+        out |= set(getattr(adapter, "SUPERSEDES", ()))
+    return out
+
+
 def local_slices():
-    """The states parsed in this repository."""
+    """The states parsed in this repository, less what a sibling supersedes."""
     commit, _ = git_commit(ROOT, LOCAL_INPUTS)
     grouped = collections.defaultdict(list)
     for _, rows in datasets.parsed():
@@ -122,7 +137,10 @@ def local_slices():
             grouped[
                 (row.get("state", ""), row.get("year", ""), row.get("tier", ""))
             ].append(row)
+    skip = superseded()
     for (state, year, tier), rows in sorted(grouped.items()):
+        if (state, year, tier) in skip:
+            continue
         yield {
             "dataset_id": f"{state.lower().replace(' ', '_').replace('&', 'and')}"
             f"/{tier}/{year}",

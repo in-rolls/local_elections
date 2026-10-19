@@ -177,5 +177,15 @@
       "data/linkage/vp_2011_2019.parquet": "4fecda05b10c0217adfaca8eb712d30d65ae1b08f449e48bb3695cb1ade9708f",
       "data/linkage/vp_2011_2021.parquet": "283520d220be730d63a300a33c64ec5c84f83e221d5f3dd13e1ed38f98c20a2e"
     }
+  },
+  "local_elections_jharkhand": {
+    "ref": "de71ebbfac47bd59c4302b3361aab1343811049d",
+    "files": {
+      "data/2015/mukhiya_results.parquet": "e4a377e1da56a67907b33df7742b8aba2bd6c5c169b7f0af4ecbddbed2759778",
+      "data/2022/mukhiya_results.parquet": "5fa3ee21c0f9bf477c19da938b4c6603753aded5b467ff031704219fb57e8eb1",
+      "data/linkage/gp_2015_2022.parquet": "8ac41eb2150bdc4df18ed0fb9b74c4cb41b99cd48bb0ca9f1ccb40dd39f2da93",
+      "data/inferred/winner_female_probability_2015.parquet": "5a04015277df5199ebcf761bb3d0cea0969f8bee5aa2fa466b4c2ea6c64abf3f",
+      "data/inferred/winner_female_probability_2022.parquet": "6f99532e2921e1cc1207f8872b2321533b96af79721a042aaea2d48ad81c527d"
+    }
   }
 }
