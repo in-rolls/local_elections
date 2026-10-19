@@ -187,5 +187,13 @@
       "data/inferred/winner_female_probability_2015.parquet": "5a04015277df5199ebcf761bb3d0cea0969f8bee5aa2fa466b4c2ea6c64abf3f",
       "data/inferred/winner_female_probability_2022.parquet": "6f99532e2921e1cc1207f8872b2321533b96af79721a042aaea2d48ad81c527d"
     }
+  },
+  "local_elections_telangana": {
+    "ref": "ce37369bed28143b1af898c7518d10235d04ddc6",
+    "files": {
+      "data/2019/sarpanch_results.parquet": "5f3feeb7f61a0dccc1203ef4295de9d2567163339648e702c592ca022328d720",
+      "data/2025/sarpanch_results.parquet": "ebfa1647820de6cedb74780bdc67e8a4323c24c9f0ec663ffe6bd421814f7c88",
+      "data/linkage/gp_2019_2025.parquet": "5aadd70d572176c5182d70e2e1fcf9b449b49fa1cf96f2cff67b474ec43e8ff9"
+    }
   }
 }
