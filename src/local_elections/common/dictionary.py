@@ -530,6 +530,7 @@ COLUMNS = [
             "bengali",
             "kannada",
             "gujarati",
+            "tamil",
         ],
         max_blank=0.0,
         note="Which typesetting the row was read from.",

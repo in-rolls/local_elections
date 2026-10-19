@@ -167,6 +167,9 @@ CASTE_SCHEME = {
     "Karnataka": "sc_st_bca_bcb",
     "Kerala": "sc_st_only",
     "Jammu & Kashmir": "sc_st_only",
+    # Village panchayat presidents are reserved for SC, ST and women only; no
+    # backward-class seats in 2011, 2019 or 2021.
+    "Tamil Nadu": "sc_st_only",
     # The 2018 delimitation gazettes head column (4) "Constituencies reserved
     # for ST/SC/BC persons" and print all three.
     "West Bengal": "sc_st_bc",

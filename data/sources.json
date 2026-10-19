@@ -163,5 +163,19 @@
       "data/inferred/winner_female_probability_2015.parquet": "ae3473da54b740e54468801785f7f9d13d5f6c1af3f325a118747ad2c8e85862",
       "data/inferred/winner_female_probability_2019.parquet": "b04ba6d92d15f25c32d9434dd0b24fd1e3ba05219b6f171d93e3adcb6fc06ea0"
     }
+  },
+  "local_elections_tamil_nadu": {
+    "ref": "12a8f3b7045b9f764d765ab82e01b33d9bd9816e",
+    "files": {
+      "data/2011/vp_president_results.parquet": "da99b29454d3914e7e5c8b3759b1487086edbec598f0932a25c87206f9f0d2c0",
+      "data/2011/vp_president_candidates.parquet": "0d20369d7cbaf5e81c61f419e7d73066f1fc810cca286395a1fb160ba10ec3f0",
+      "data/2019/vp_president_results.parquet": "f544d79a48b26c03fad8b50ad86a25b7438c0b1d5565ed8b35799bd279ae46ef",
+      "data/2019/vp_president_candidates.parquet": "1e2091b5523c421c1c475216ec2964c8b55eacd958228dd16389c17cc630b25c",
+      "data/2021/vp_president_results.parquet": "0b1c7ccfde11fa1862a23eba454d2479e9ef8c8059315f80c5b47ffa810c5331",
+      "data/2021/vp_president_candidates.parquet": "29512e5bb38619cb6c71a106c749f9f55eccc79bab5413ca7eb47583e8f5b471",
+      "data/reference/districts.csv": "412939b99b98918730945ba0fc14bef2e16063dbd1cac2dbb695df424c15507e",
+      "data/linkage/vp_2011_2019.parquet": "4fecda05b10c0217adfaca8eb712d30d65ae1b08f449e48bb3695cb1ade9708f",
+      "data/linkage/vp_2011_2021.parquet": "283520d220be730d63a300a33c64ec5c84f83e221d5f3dd13e1ed38f98c20a2e"
+    }
   }
 }
