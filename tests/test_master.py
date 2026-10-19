@@ -272,6 +272,7 @@ def test_every_rows_script_matches_its_own_text():
     bengali = re.compile(r"[ঀ-৿]")
     gujarati = re.compile(r"[઀-૿]")
     kannada = re.compile(r"[ಀ-೿]")
+    tamil = re.compile(r"[஀-௿]")
     columns = ["winner", "gram_panchayat", "district", "block", "ward_name"]
     wrong = []
     for path in sorted((ROOT / "data" / "master").glob("master_*.parquet")):
@@ -287,6 +288,8 @@ def test_every_rows_script_matches_its_own_text():
             want = (
                 "kannada"
                 if kannada.search(text)
+                else "tamil"
+                if tamil.search(text)
                 else "gujarati"
                 if gujarati.search(text)
                 else "bengali"
