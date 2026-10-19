@@ -20,6 +20,7 @@ Siblings are read where they sit and never vendored - the pack here is already
 from . import (
     bihar,
     haryana,
+    jharkhand,
     kerala,
     rajasthan,
     tamil_nadu,
@@ -30,6 +31,7 @@ from . import (
 REGISTRY = {
     "Bihar": bihar,
     "Haryana": haryana,
+    "Jharkhand": jharkhand,
     "Kerala": kerala,
     "Rajasthan": rajasthan,
     "Tamil Nadu": tamil_nadu,
