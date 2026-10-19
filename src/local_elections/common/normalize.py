@@ -170,6 +170,7 @@ _DEVANAGARI = re.compile(r"[\u0900-\u097f]")
 _BENGALI = re.compile(r"[\u0980-\u09ff]")
 _GUJARATI = re.compile(r"[\u0a80-\u0aff]")
 _KANNADA = re.compile(r"[\u0c80-\u0cff]")
+_TAMIL = re.compile(r"[\u0b80-\u0bff]")
 
 
 def script_of(*values):
@@ -197,6 +198,8 @@ def script_of(*values):
     joined = " ".join(v for v in values if v)
     if _KANNADA.search(joined):
         return "kannada"
+    if _TAMIL.search(joined):
+        return "tamil"
     if _GUJARATI.search(joined):
         return "gujarati"
     if _BENGALI.search(joined):
