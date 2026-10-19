@@ -237,6 +237,31 @@ def old_panel_slices(root):
         }
 
 
+# The sibling's 2015 sarpanch sex is not a source field: its README says the
+# coding "was inferred from candidate names and manually reviewed". So it is
+# carried as a name-based value under its own name, never as a recorded sex.
+MANUAL_2015_METHOD = (
+    "manual coding of the winner's name, reviewed (local_elections_rajasthan "
+    "data/source/sarpanch/sarpanch_2015_manual_sex.csv)"
+)
+
+
+def panel_winner_sex(winner_female, year):
+    if not winner_female:
+        return {}
+    if str(year) == "2015":
+        return {
+            "winner_female_probability_from_name": winner_female,
+            "winner_female_probability_method": MANUAL_2015_METHOD,
+        }
+    # 2005 and 2010 read the source's own sex column into this 0/1 flag.
+    return {
+        "winner_gender": "female" if winner_female == "1" else "male",
+        "winner_gender_raw": f"winner_female={winner_female}",
+        "winner_gender_basis": "seat_record",
+    }
+
+
 def old_panel_row(record, year, relative):
     local = blank(record.get("caste_category")).upper()
     caste = CASTE.get(local)
@@ -267,9 +292,7 @@ def old_panel_row(record, year, relative):
         "reservation_raw": blank(record.get("reservation_raw")),
         "winner": blank(record.get("winner_name")),
         "winner_basis": "published" if blank(record.get("winner_name")) else "",
-        "winner_gender": ("Woman" if winner_female == "1" else "Other than Woman")
-        if winner_female
-        else "",
+        **panel_winner_sex(winner_female, year),
         "script": "latin",
         "source_path": relative,
         "source_page": "",
@@ -331,7 +354,6 @@ def block_member_row(record, year, relative):
             f"{REPO}: {year} block member has unknown winner caste {winner_local!r}"
         )
     woman = integer(record.get("female_reserved"))
-    winner_female = integer(record.get("winner_female"))
     category_sex_agree = integer(record.get("winner_category_sex_agree"))
     return {
         "state": STATE,
@@ -352,8 +374,10 @@ def block_member_row(record, year, relative):
         "reservation_raw": blank(record.get("reservation_raw")),
         "winner": blank(record.get("winner_name")),
         "winner_basis": "published" if blank(record.get("winner_name")) else "",
-        "winner_gender": ("Woman" if winner_female == "1" else "Other than Woman")
-        if winner_female
+        # The result books print the winner's sex; the cell is kept as read.
+        "winner_gender_raw": blank(record.get("winner_sex_raw")),
+        "winner_gender_basis": "seat_record"
+        if blank(record.get("winner_sex_raw"))
         else "",
         "winner_caste": winner_caste or "",
         "winner_category_raw": blank(record.get("winner_category_raw")),
@@ -430,7 +454,6 @@ def zp_member_row(record, year, relative):
             f"{REPO}: {year} ZP member has unknown winner caste {winner_local!r}"
         )
     woman = integer(record.get("female_reserved"))
-    winner_female = integer(record.get("winner_female"))
     return {
         "state": STATE,
         "year": year,
@@ -451,8 +474,10 @@ def zp_member_row(record, year, relative):
         "reservation_raw": blank(record.get("reservation_raw")),
         "winner": blank(record.get("winner_name")),
         "winner_basis": "published" if blank(record.get("winner_name")) else "",
-        "winner_gender": ("Woman" if winner_female == "1" else "Other than Woman")
-        if winner_female
+        # The result books print the winner's sex; the cell is kept as read.
+        "winner_gender_raw": blank(record.get("winner_sex_raw")),
+        "winner_gender_basis": "seat_record"
+        if blank(record.get("winner_sex_raw"))
         else "",
         "winner_caste": winner_caste or "",
         "winner_category_raw": blank(record.get("winner_category_raw")),
@@ -615,7 +640,10 @@ def head_row(candidate_rows, winner, nomination):
         )
         got.update(
             {
-                "winner_gender": winning_member.get("candidate_gender", ""),
+                "winner_gender_raw": winning_member.get("candidate_gender", ""),
+                "winner_gender_basis": "winning_candidate_record"
+                if winning_member.get("candidate_gender")
+                else "",
                 "winner_caste": winning_member.get("candidate_caste", ""),
                 "winner_age": winning_member.get("candidate_age", ""),
                 "winner_education": winning_member.get("candidate_education", ""),
@@ -734,12 +762,17 @@ def ward_row(row):
         else 0,
         "vacant": int(not winner),
         "winner_caste": winner_category if winner else "",
-        "winner_gender": (
-            "Woman"
+        # The winner's category names women ("OBC (Woman)"), so a woman's
+        # category is a record of her sex. A plain category is not a record of
+        # a man's: 6,307 winners of women-only wards carry one.
+        **(
+            {
+                "winner_gender": "female",
+                "winner_gender_raw": winner_category,
+                "winner_gender_basis": "winner_category_record",
+            }
             if winner and normalize.woman_of(winner_category) == 1
-            else "Other than Woman"
-            if winner
-            else ""
+            else {}
         ),
         "winner_category_raw": winner_category,
         "electorate": integer(row.get("TotalNoOfVotes")),

@@ -1,7 +1,7 @@
 """Transliterate the corpus's Indic names into Latin, as a stage of its own.
 
-    uv run --with indicate python -m local_elections.tools.transliterate
-    uv run --with indicate python -m local_elections.tools.transliterate --check
+    uv run --with "indicate>=0.10" python -m local_elections.tools.transliterate
+    uv run --with "indicate>=0.10" python -m local_elections.tools.transliterate --check
 
 Two fifths of this corpus is not in Latin script - 328,539 rows of Devanagari,
 4,366 of Kannada - so those names cannot be searched, joined, or compared
@@ -174,11 +174,11 @@ def transliterate(script, missing, batch=256):
     if script != "devanagari":
         return {}
     try:
-        from indicate.hindi2english import HindiToEnglish
+        import indicate
     except ImportError:
         sys.exit(
             "indicate is not installed. Run this with "
-            "`uv run --with indicate python -m "
+            "`uv run --with 'indicate>=0.10' python -m "
             "local_elections.tools.transliterate`"
         )
     out = {}
@@ -193,7 +193,9 @@ def transliterate(script, missing, batch=256):
             continue
         # strict: a batch that comes back a different length than it went in
         # would silently pair names with the wrong readings
-        readings = HindiToEnglish.transliterate_batch([n for _, n in keep])
+        readings = indicate.transliterate_batch(
+            [n for _, n in keep], source="hindi", engine=["model"]
+        )
         for (source, _), latin in zip(keep, readings, strict=True):
             out[source] = latin.strip()
         LOGGER.info(

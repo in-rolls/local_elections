@@ -149,7 +149,7 @@ def test_release_reader_rejects_changed_source_bytes(tmp_path, monkeypatch):
         monkeypatch.setitem(bihar.SHA256, name, checksum)
         monkeypatch.setitem(bihar.DECLARED, name, 1)
         files.append(
-            {"path": name, "rows": 1, "sha256": checksum, "schema": {"id": "Int64"}}
+            {"path": name, "rows": 1, "sha256": checksum, "columns": {"id": "Int64"}}
         )
     (directory / "MANIFEST.json").write_text(
         json.dumps(
