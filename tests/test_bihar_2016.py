@@ -2,7 +2,7 @@
 
 import pytest
 
-from local_elections.common.adapters.bihar_2016 import convert
+from local_elections.common.adapters.bihar_2016 import REVIEWED, RULING, convert
 
 
 def tables(winner=True):
@@ -84,3 +84,31 @@ def test_winner_must_match_exactly_one_candidate(ambiguous):
         inputs["candidates.parquet"][1]["row"] = 4
     with pytest.raises(ValueError, match="does not identify one candidate"):
         convert(inputs)
+
+
+def ruled(serial):
+    inputs = tables(winner=False)
+    inputs[REVIEWED] = {("mukhiya", "01", "001", "01"): serial}
+    return inputs
+
+
+def test_a_reviewed_ruling_fills_a_seat_the_release_names_no_winner_for():
+    seats, _ = convert(ruled(1))
+    assert seats[0]["winner"] == "Candidate 1"
+    assert seats[0]["winner_basis"] == "argmax_votes"
+    assert seats[0]["winner_ruling"] == RULING
+    assert seats[0]["votes"] is None
+    # both printed rows of the ruled candidate are that one person
+    assert [r["elected"] for r in seats[0]["seat_members"]] == [1, 1]
+
+
+def test_a_ruling_never_overrides_a_release_winner():
+    inputs = tables()
+    inputs[REVIEWED] = {("mukhiya", "01", "001", "01"): 1}
+    with pytest.raises(ValueError, match="rulings applied to 0 of 1"):
+        convert(inputs)
+
+
+def test_a_ruling_naming_no_listed_candidate_stops_the_build():
+    with pytest.raises(ValueError, match="names no listed candidate"):
+        convert(ruled(9))

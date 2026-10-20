@@ -34,12 +34,23 @@ answers "Record not Found", which is what one seat entered twice looks like; in
 two, both carry results. Which code is the seat cannot be settled from the form,
 so both rows are kept and the corpus's collision ledger records them.
 
+**A reviewed ruling fills a winner only where the release has none.** On 41
+mukhiya seats the form prints candidates twice with different counts and the
+release names no winner. The sibling's review
+(`winner_list/no_winner_reviewed.csv`) accepts a winner on 29 of them, where
+the leader's lowest printed count beats every rival's counts added together;
+those seats take that candidate with basis `argmax_votes`, no vote count (the
+two printed counts disagree), and `winner_ruling` saying so. The other 12 stay
+without a winner.
+
 Bihar elects a gram kachahari - a village court - beside the gram panchayat, so
 its sarpanch and panch are not this state's gram panchayat head and ward.
 """
 
 import collections
+import csv
 import hashlib
+import io
 import json
 
 import pyarrow.parquet as pq
@@ -59,6 +70,12 @@ SHA256 = {
         "1f1712f0a91370cb3db6a4b891d419a60cd81a4a7dbc00c57ea04e4fc14aeb13"
     ),
 }
+# The sibling's hand review of the mukhiya seats the release names no winner
+# for; read beside the release because the release manifest predates it.
+REVIEWED = "winner_list/no_winner_reviewed.csv"
+REVIEWED_SHA256 = "7093df1c3d4e8891b6a2224699ac9235071efd04b9341ff1cb9e879f0bb17ac2"
+REVIEWED_ROWS = 41
+RULING = "reviewed: leader wins however the repeated rows are read"
 DECLARED = {
     "seats.parquet": 258095,
     "candidates.parquet": 644865,
@@ -117,7 +134,25 @@ def read_release(root):
         if table.schema.names != list(info["columns"]):
             raise ValueError(f"Bihar release columns changed: {name}")
         data[name] = table.to_pylist()
+    data[REVIEWED] = read_reviewed(directory)
     return data
+
+
+def read_reviewed(directory):
+    """{mukhiya seat key: accepted candidate serial}, refused if it moved."""
+    raw = (directory / REVIEWED).read_bytes()
+    if hashlib.sha256(raw).hexdigest() != REVIEWED_SHA256:
+        raise ValueError(f"Bihar reviewed rulings checksum changed: {REVIEWED}")
+    rows = list(csv.DictReader(io.StringIO(raw.decode("utf-8"))))
+    if len(rows) != REVIEWED_ROWS:
+        raise ValueError("Bihar reviewed rulings count changed")
+    return {
+        ("mukhiya", r["district_code"], r["block_code"], r["unit_code"]): int(
+            r["winner_sr_no"]
+        )
+        for r in rows
+        if r["decision"] == "accept"
+    }
 
 
 def seat_key(row):
@@ -146,6 +181,9 @@ def convert(tables):
 
     Returns the rows and the seats left out for want of a stated reservation.
     """
+    # read_release always supplies the rulings; hand-built tables may omit them
+    reviewed = tables.get(REVIEWED, {})
+    used_rulings = set()
     winners = {}
     for row in tables["winners.parquet"]:
         if seat_key(row) in winners:
@@ -187,6 +225,21 @@ def convert(tables):
         if len(contestants) != unit["candidate_rows"]:
             raise ValueError(f"Bihar candidate coverage does not reconcile: {key}")
         won = winners.get(key)
+        ruled = None
+        if not won:
+            serial_no = reviewed.get(
+                (
+                    unit["office"],
+                    unit["district_code"],
+                    unit["block_code"],
+                    unit["unit_code"],
+                )
+            )
+            if serial_no is not None:
+                ruled = [row for row in contestants if row["sr_no"] == serial_no]
+                if not ruled:
+                    raise ValueError(f"Bihar ruling names no listed candidate: {key}")
+                used_rulings.add(key)
         winner_identity = (won["sr_no"], won["row"]) if won else None
         if (
             won
@@ -228,8 +281,15 @@ def convert(tables):
             "gender_stated": 1,
             "reservation": label(caste, woman == 1),
             "reservation_raw": stated,
-            "winner": text(won["candidate_name"]) if won else "",
-            "winner_basis": BASIS[won["winner_basis"]] if won else "",
+            "winner": (
+                text(won["candidate_name"])
+                if won
+                else (text(ruled[0]["candidate_name"]) if ruled else "")
+            ),
+            "winner_basis": (
+                BASIS[won["winner_basis"]] if won else ("argmax_votes" if ruled else "")
+            ),
+            "winner_ruling": RULING if ruled else "",
             "votes": won["votes"] if won else None,
             "vacant": int(vacant),
             "unopposed": int(bool(won) and won["winner_basis"] == "uncontested"),
@@ -282,7 +342,7 @@ def convert(tables):
                     "elected": (
                         int((row["sr_no"], row["row"]) == winner_identity)
                         if won
-                        else ""
+                        else (int(row["sr_no"] == ruled[0]["sr_no"]) if ruled else "")
                     ),
                     "result": text(row["remarks"]),
                     # Every row names the saved page it was read from, which the
@@ -294,6 +354,10 @@ def convert(tables):
                 }
             )
         seats.append(seat)
+    if len(used_rulings) != len(reviewed):
+        raise ValueError(
+            f"Bihar rulings applied to {len(used_rulings)} of {len(reviewed)} seats"
+        )
     return seats, unstated
 
 

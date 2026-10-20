@@ -95,7 +95,7 @@
     }
   },
   "local_elections_bihar": {
-    "ref": "fda20d495e7824cde6d968f97f51b0943133ba73",
+    "ref": "3bdfd9d6a8a361e35a1bd7aae58e42de576e553b",
     "files": {
       "data/2016/MANIFEST.json": "013b0aaf61b09f27bb9203038ae843de029380ba08d9f32eb59c1218fea1d084",
       "data/2016/candidates.parquet": "0b73373fce5b29292c61399b3308d44b95f850f17127f5c2e6bfef3e162f65ca",
@@ -110,7 +110,8 @@
       "data/2011/mukhiya_reports/winner_records.parquet": "3cdb740e116412a27d059df0b42c0dd05523069de636683f7c0d997a73437c56",
       "data/linkage/MANIFEST.json": "55be8523f18a465262837cc323bb8590949f96e76ae7e7ad998bb339ee188223",
       "data/linkage/mukhiya_2011_2016.parquet": "1418380db13ff5c8baba151f08ef97fef565252345f2ade50b628d6857b569d8",
-      "data/linkage/mukhiya_2016_2021.parquet": "c53cf34d82629bf4012046f5bdf59421e2845a28d900ed71ff6863e8c16d9985"
+      "data/linkage/mukhiya_2016_2021.parquet": "c53cf34d82629bf4012046f5bdf59421e2845a28d900ed71ff6863e8c16d9985",
+      "data/2016/winner_list/no_winner_reviewed.csv": "7093df1c3d4e8891b6a2224699ac9235071efd04b9341ff1cb9e879f0bb17ac2"
     }
   },
   "local_elections_haryana": {
