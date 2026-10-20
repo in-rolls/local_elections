@@ -73,8 +73,11 @@ MASTER_COLUMNS = [
     # was flagged, on the same principle as party: a value that does not settle
     # the question is left empty rather than filled with a plausible one.
     "district_latin",
+    "district_latin_method",
     "block_latin",
+    "block_latin_method",
     "gram_panchayat_latin",
+    "gram_panchayat_latin_method",
     # office
     "tier",
     "tier_local",
@@ -95,6 +98,7 @@ MASTER_COLUMNS = [
     # lives in the candidate table.
     "winner",
     "winner_latin",
+    "winner_latin_method",
     "winner_basis",
     "votes",
     "runner_up",
@@ -111,6 +115,48 @@ MASTER_COLUMNS = [
     "provenance_level",
     "quality_flags",
 ]
+
+# The published names (docs/naming.md). Parsers and adapters emit the row vocabulary
+# on the left; the tables are written under the names on the right, here and
+# only here (build_master.write, contract.py). The in-tree parsers keep the old
+# words until their restructure lands; then the left side goes.
+PUBLISHED = {
+    "caste_reservation": "reserved_caste",
+    "caste_reservation_local": "reserved_caste_local",
+    "caste_scheme": "reserved_caste_scheme",
+    "woman_reserved": "reserved_woman",
+    "gender_stated": "reserved_woman_stated",
+    "reservation": "reserved_label",
+    "reservation_raw": "reserved_raw",
+    "reservation_raw_original": "reserved_raw_original",
+    "reservation_match_score": "reserved_match_score",
+    "reservation_source_conflict": "reserved_source_conflict",
+    "sc_reserved_ward_count": "reserved_sc_ward_count",
+    "st_reserved_ward_count": "reserved_st_ward_count",
+    "women_reserved_ward_count": "reserved_woman_ward_count",
+    "winner_gender": "winner_woman",
+    "winner_gender_raw": "winner_woman_raw",
+    "winner_gender_basis": "winner_woman_basis",
+    "winner_female_probability_from_name": "winner_woman_probability",
+    "winner_female_probability_method": "winner_woman_probability_method",
+    "winner_category_raw": "winner_caste_raw",
+    "candidate_gender": "candidate_woman_raw",
+    "pop_female": "pop_woman",
+}
+# winner_gender's text becomes winner_woman's 1 / 0; "other" is blank there and
+# stays readable in winner_woman_raw.
+WOMAN_OF_GENDER = {"female": "1", "male": "0"}
+
+
+def published(column):
+    return PUBLISHED.get(column, column)
+
+
+def published_value(column, value):
+    if column == "winner_gender":
+        return WOMAN_OF_GENDER.get(str(value), "")
+    return value
+
 
 # Columns that the master carries under its own name, so an adapter's leftovers
 # can be identified as extras rather than silently dropped.
@@ -273,6 +319,10 @@ def quality_flags(row):
         flags.append("margin_not_below_votes")
     if str(row.get("winner_category_sex_agree", "")) == "0":
         flags.append("winner_category_sex_disagree")
+    # the state reviewed the block and found its printed categories in conflict
+    # with the commission's own reservation table; the printed value is kept
+    if str(row.get("reservation_source_conflict") or "0") not in ("0", ""):
+        flags.append("reservation_source_conflict")
     # two places in one block printed under one name, told apart only by the
     # fact that they are reserved differently
     if str(row.get("shared_place_name") or "0") not in ("0", ""):
@@ -292,6 +342,48 @@ def quality_flags(row):
     ) and not (row.get("winner_latin") or row.get("gram_panchayat_latin")):
         flags.append("name_untransliterated")
     return ";".join(flags)
+
+
+def winner_gender_fields(row):
+    """The winner's recorded sex, its source value and which record it came from.
+
+    A seat row that states the winner's sex is read first. Where it does not,
+    the winning candidate's own record in the source's candidate list is used,
+    provided exactly one listed candidate is marked elected. Nothing here infers
+    a sex: a value outside the recorded vocabulary keeps its raw form and leaves
+    winner_gender blank, and a name-based probability travels in its own,
+    differently named column.
+    """
+    raw = row.get("winner_gender_raw") or row.get("winner_gender") or ""
+    basis = row.get("winner_gender_basis") or ""
+    canonical = row.get("winner_gender") or ""
+    if not str(raw).strip():
+        elected = [
+            member
+            for member in row.get("seat_members") or ()
+            if str(member.get("elected", "")) == "1"
+        ]
+        if (
+            len(elected) != 1
+            or not str(elected[0].get("candidate_gender") or "").strip()
+        ):
+            return {
+                "winner_gender": "",
+                "winner_gender_raw": "",
+                "winner_gender_basis": "",
+            }
+        raw, basis, canonical = (
+            elected[0]["candidate_gender"],
+            "winning_candidate_record",
+            "",
+        )
+    if canonical not in ("female", "male", "other"):
+        canonical = normalize.recorded_gender(raw)
+    return {
+        "winner_gender": canonical,
+        "winner_gender_raw": str(raw).strip(),
+        "winner_gender_basis": basis or "seat_record",
+    }
 
 
 def gp_term(row):
@@ -334,7 +426,7 @@ def transliterations(root):
         with path.open(encoding="utf-8") as fh:
             for row in csv.DictReader(fh):
                 if not row.get("suspect") and row.get("latin"):
-                    out[row["source"]] = row["latin"]
+                    out[row["source"]] = (row["latin"], row["method"])
     return out
 
 
@@ -449,9 +541,11 @@ def to_master(
     # replace_the_source_row says so. Blank is the honest value where the name
     # was already Latin or its reading was withheld.
     for source_column, latin_column in LATIN_OF.items():
-        out[latin_column] = (latin or {}).get(
-            out.get(source_column) or row.get(source_column) or "", ""
+        reading, method = (latin or {}).get(
+            out.get(source_column) or row.get(source_column) or "", ("", "")
         )
+        out[latin_column] = reading
+        out[latin_column + "_method"] = method
 
     out["quality_flags"] = quality_flags(dict(row, **out))
     out["seat_key"] = seat_key(out)

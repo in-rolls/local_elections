@@ -47,9 +47,9 @@ def tables():
         {
             "post_id": 3,
             "unit_id": "u1",
-            "seat_reservation": "अनुसूचित जन - जाति  (महिला)",
+            "reserved_raw": "अनुसूचित जन - जाति  (महिला)",
         },
-        {"post_id": 1, "unit_id": "u2", "seat_reservation": "पिछड़ा वर्ग  (अन्य)"},
+        {"post_id": 1, "unit_id": "u2", "reserved_raw": "पिछड़ा वर्ग  (अन्य)"},
     ]
     candidates = [
         {
@@ -59,7 +59,8 @@ def tables():
             "candidate_serial": i,
             "candidate_name": str(i),
             "guardian_name": "G",
-            "candidate_gender": "female",
+            "candidate_woman": 1,
+            "candidate_woman_raw": "महिला",
             "candidate_age": 40,
             "votes": 100 if i == 1 else None,
             "elected": True if i == 1 else None,
@@ -149,7 +150,7 @@ def test_release_reader_rejects_changed_source_bytes(tmp_path, monkeypatch):
         monkeypatch.setitem(bihar.SHA256, name, checksum)
         monkeypatch.setitem(bihar.DECLARED, name, 1)
         files.append(
-            {"path": name, "rows": 1, "sha256": checksum, "schema": {"id": "Int64"}}
+            {"path": name, "rows": 1, "sha256": checksum, "columns": {"id": "Int64"}}
         )
     (directory / "MANIFEST.json").write_text(
         json.dumps(

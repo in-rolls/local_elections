@@ -1,0 +1,411 @@
+{
+  "title": "Pooled candidates",
+  "description": "One row per candidate in a contest (data/master/candidates_<state>.parquet).",
+  "fields": [
+    {
+      "name": "dataset_id",
+      "type": "string",
+      "description": "state_slug/tier/year: the slice the row belongs to.",
+      "constraints": {
+        "required": true,
+        "pattern": "[a-z_]+/[a-z_]+/\\d{4}"
+      }
+    },
+    {
+      "name": "candidate_id",
+      "type": "string",
+      "description": "Stable candidate-row identifier.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{12}"
+      }
+    },
+    {
+      "name": "row_id",
+      "type": "string",
+      "description": "Stable row identifier: sha1 of source repository, path, page, seat key and occurrence, first 12 hex digits. Changes when provenance changes.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{12}"
+      }
+    },
+    {
+      "name": "seat_key",
+      "type": "string",
+      "description": "The ten seat-identity parts joined by '|' ('|' and '%' escaped). Not unique: a source can state a seat twice.",
+      "constraints": {
+        "required": true,
+        "minLength": 1
+      }
+    },
+    {
+      "name": "candidate_no",
+      "type": "string",
+      "description": "Candidate serial as printed.",
+      "constraints": {
+        "required": true,
+        "maxLength": 10
+      }
+    },
+    {
+      "name": "state",
+      "type": "string",
+      "description": "Printed name of the state.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "Andhra Pradesh",
+          "Assam",
+          "Bihar",
+          "Goa",
+          "Gujarat",
+          "Haryana",
+          "Jammu & Kashmir",
+          "Jharkhand",
+          "Karnataka",
+          "Kerala",
+          "Maharashtra",
+          "Rajasthan",
+          "Tamil Nadu",
+          "Telangana",
+          "Uttar Pradesh",
+          "Uttarakhand",
+          "West Bengal"
+        ]
+      }
+    },
+    {
+      "name": "year",
+      "type": "integer",
+      "description": "Election year.",
+      "constraints": {
+        "required": true,
+        "minimum": 1990,
+        "maximum": 2030
+      }
+    },
+    {
+      "name": "election_type",
+      "type": "string",
+      "description": "General or by-election, where the source names it (Rajasthan).",
+      "constraints": {
+        "enum": [
+          "General Election",
+          "By Election"
+        ]
+      }
+    },
+    {
+      "name": "election_duration",
+      "type": "string",
+      "description": "The polling period as the source prints it.",
+      "constraints": {
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "district",
+      "type": "string",
+      "description": "District as printed.",
+      "constraints": {
+        "required": true,
+        "minLength": 2,
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "block",
+      "type": "string",
+      "description": "Block, mandal or taluk as printed.",
+      "constraints": {
+        "maxLength": 100
+      }
+    },
+    {
+      "name": "body",
+      "type": "string",
+      "description": "Local body name where the source names one.",
+      "constraints": {
+        "maxLength": 60
+      }
+    },
+    {
+      "name": "gp_no",
+      "type": "string",
+      "description": "Panchayat number as printed.",
+      "constraints": {
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "gram_panchayat",
+      "type": "string",
+      "description": "Panchayat as printed.",
+      "constraints": {
+        "maxLength": 160
+      }
+    },
+    {
+      "name": "ward_no",
+      "type": "string",
+      "description": "Ward number as printed (may carry a suffix).",
+      "constraints": {
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "seat_no",
+      "type": "integer",
+      "description": "Seat number within a multi-member ward.",
+      "constraints": {
+        "minimum": 1
+      }
+    },
+    {
+      "name": "tier",
+      "type": "string",
+      "description": "Canonical office (canon.py maps local names onto it).",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "gp_head",
+          "gp_vice_head",
+          "gp_ward",
+          "block_member",
+          "block_head",
+          "block_vice_head",
+          "zp_member",
+          "zp_head",
+          "kachahari_head",
+          "kachahari_member",
+          "ulb_ward",
+          "ulb_head"
+        ]
+      }
+    },
+    {
+      "name": "tier_local",
+      "type": "string",
+      "description": "The office as the state names it.",
+      "constraints": {
+        "required": true,
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "reserved_caste",
+      "type": "string",
+      "description": "Caste category the seat is reserved for; NONE = unreserved. A property of the seat, never of the winner.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "SC",
+          "ST",
+          "BC",
+          "NONE"
+        ]
+      }
+    },
+    {
+      "name": "reserved_woman",
+      "type": "integer",
+      "description": "1 if the seat is reserved for a woman, 0 if not. Never filled from a name.",
+      "constraints": {
+        "minimum": 0,
+        "maximum": 1,
+        "required": true
+      },
+      "arrow": "int8"
+    },
+    {
+      "name": "candidate_name",
+      "type": "string",
+      "description": "Candidate as printed.",
+      "constraints": {
+        "required": true,
+        "minLength": 1,
+        "maxLength": 255
+      }
+    },
+    {
+      "name": "relation_name",
+      "type": "string",
+      "description": "Father's or husband's name as printed.",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 255
+      }
+    },
+    {
+      "name": "candidate_woman_raw",
+      "type": "string",
+      "description": "The candidate's sex as the source printed it.",
+      "constraints": {
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "candidate_woman",
+      "type": "integer",
+      "description": "1 if candidate_woman_raw records a woman, 0 a man; blank otherwise.",
+      "constraints": {
+        "minimum": 0,
+        "maximum": 1
+      },
+      "arrow": "int8"
+    },
+    {
+      "name": "candidate_age",
+      "type": "integer",
+      "description": "Age as stated.",
+      "constraints": {
+        "minimum": 18,
+        "maximum": 120
+      }
+    },
+    {
+      "name": "candidate_caste",
+      "type": "string",
+      "description": "Candidate's own caste category as printed.",
+      "constraints": {
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "candidate_education",
+      "type": "string",
+      "description": "Education as printed.",
+      "constraints": {
+        "maxLength": 60
+      }
+    },
+    {
+      "name": "candidate_marital_status",
+      "type": "string",
+      "description": "Marital status as printed.",
+      "constraints": {
+        "maxLength": 20
+      }
+    },
+    {
+      "name": "candidate_occupation",
+      "type": "string",
+      "description": "Occupation as printed.",
+      "constraints": {
+        "maxLength": 80
+      }
+    },
+    {
+      "name": "candidate_total_assets",
+      "type": "integer",
+      "description": "Declared assets, rupees.",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "candidate_children_before_1995_11_27",
+      "type": "integer",
+      "description": "As declared.",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "candidate_children_after_1995_11_27",
+      "type": "integer",
+      "description": "As declared.",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "party",
+      "type": "string",
+      "description": "Party as printed.",
+      "constraints": {
+        "maxLength": 80
+      }
+    },
+    {
+      "name": "votes",
+      "type": "integer",
+      "description": "Votes received.",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "candidate_rank",
+      "type": "integer",
+      "description": "Rank by votes within the contest.",
+      "constraints": {
+        "minimum": 1
+      }
+    },
+    {
+      "name": "elected",
+      "type": "boolean",
+      "description": "The candidate won."
+    },
+    {
+      "name": "result",
+      "type": "string",
+      "description": "Result as printed.",
+      "constraints": {
+        "maxLength": 20
+      }
+    },
+    {
+      "name": "source_repo",
+      "type": "string",
+      "description": "Repository the row was read from.",
+      "constraints": {
+        "required": true,
+        "pattern": "local_elections(_[a-z_]+)?"
+      }
+    },
+    {
+      "name": "source_commit",
+      "type": "string",
+      "description": "Full commit of source_repo the row was read at.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{40}"
+      }
+    },
+    {
+      "name": "source_path",
+      "type": "string",
+      "description": "File within source_repo.",
+      "constraints": {
+        "required": true,
+        "minLength": 1
+      }
+    },
+    {
+      "name": "source_page",
+      "type": "integer",
+      "description": "1-based page of source_path, for documents.",
+      "constraints": {
+        "minimum": 1
+      }
+    }
+  ],
+  "primaryKey": [
+    "candidate_id"
+  ],
+  "foreignKeys": [
+    {
+      "fields": [
+        "row_id"
+      ],
+      "reference": {
+        "resource": "master",
+        "fields": [
+          "row_id"
+        ]
+      }
+    }
+  ]
+}

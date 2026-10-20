@@ -27,17 +27,32 @@ def test_up_observation_release_contains_all_offices():
     index = json.loads((OBSERVATIONS / "index.json").read_text())
     entry = index["states"]["Uttar Pradesh"]
     assert entry["rows"] == 1423278
-    # Uttar Pradesh now comes from its tagged release, which groups the upper
-    # tiers as declared winners rather than candidate records: four files where
-    # there were five, over the same 1,423,278 rows.
-    assert entry["files"] == 39
+    # UP v3.0 publishes one table per office, record kind and election cycle:
+    # 67 files over the same 1,423,278 rows its v2.0 release held in 39.
+    assert entry["files"] == 67
     path = OBSERVATIONS / entry["path"]
-    manifest = json.loads((path / "source_manifest.json").read_text())
-    assert len(manifest["offices"]) == 14
-    assert {source["id"] for source in manifest["sources"]} >= {
-        "ballia_samiti_head_historical_reservations",
-        "ballia_zilla_parishad_member_historical_reservations",
+    provenance = json.loads((path / "provenance.json").read_text())
+    names = [item["path"].removesuffix(".parquet") for item in provenance["files"]]
+    years = {name.split("_", 1)[0] for name in names}
+    tables = {name.split("_", 1)[1] for name in names}
+    kinds = (
+        "seat_reservation",
+        "declared_winner",
+        "candidate_record",
+        "elected_official",
+        "reported_official",
+        "source_status_notice",
+    )
+    offices = {
+        table.removesuffix("_" + kind)
+        for table in tables
+        for kind in kinds
+        if table.endswith("_" + kind)
     }
+    assert len(tables) == 39
+    assert len(offices) == 14
+    # Ballia's reservation history is the only source reaching back to 1995.
+    assert {"1995", "2000"} <= years
     verify_snapshot(path)
 
 

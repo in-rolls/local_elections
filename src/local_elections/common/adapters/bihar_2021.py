@@ -44,13 +44,13 @@ SHA256 = {
         "690f4e18e5e73558bb578f539b1c957c09dd17469b49726f69961c636b3d1fab"
     ),
     "current_reservations.parquet": (
-        "a432377012f1d55f5862f44fe3f9f8a4b391b1b215fc44c5d5d626f96dc71073"
+        "45341aeecf7157e8028e4d96275d2f62b596da0d36190d6cbb4012c30347c142"
     ),
     "winners.parquet": (
-        "32c40abc700179c19c8ff0c36ce860c34640e22a3be534f51fb77f78031b3c10"
+        "28674c909f05c179cfaf93c942cfed17561f6ea1ba10251b083d290db2f3d9f6"
     ),
     "candidates.parquet": (
-        "8e6fda01045edf245cc0c7d46665f3496c5e41323775a3900300a9ae0b9537be"
+        "e5679156c18bd8ae44d8983484f27fac26fcda1d658d17bf1aff67a8c14f5768"
     ),
 }
 DECLARED = {
@@ -113,7 +113,7 @@ def read_release(root):
         # file reads back in Arrow's ("large_string"), so the columns are
         # compared by name and order. The types cannot move without the bytes
         # moving, and the bytes are pinned above.
-        if table.schema.names != list(info["schema"]):
+        if table.schema.names != list(info["columns"]):
             raise ValueError(f"Bihar release columns changed: {name}")
         data[name] = table.to_pylist()
     return data
@@ -140,7 +140,7 @@ def convert(tables):
     seats = []
     for unit in tables["seats.parquet"]:
         key = seat_key(unit)
-        stated = reservations[key]["seat_reservation"] if key in reservations else ""
+        stated = reservations[key]["reserved_raw"] if key in reservations else ""
         if not stated:
             raise ValueError(f"Bihar seat with no reservation feed row: {key}")
         caste = normalize.caste_of(stated)
@@ -206,7 +206,7 @@ def convert(tables):
             "seat_members": [],
         }
         for row in contestants:
-            gender = (row["candidate_gender"] or "").strip()
+            gender = (row["candidate_woman_raw"] or "").strip()
             seat["seat_members"].append(
                 {
                     **{k: v for k, v in seat.items() if k != "seat_members"},
@@ -215,7 +215,9 @@ def convert(tables):
                     "in_candidate_list": int(bool(row["in_candidate_list"])),
                     "relation_name": (row["guardian_name"] or "").strip(),
                     "candidate_gender": gender,
-                    "candidate_woman": {"female": 1, "male": 0}.get(gender, ""),
+                    "candidate_woman": ""
+                    if row["candidate_woman"] is None
+                    else row["candidate_woman"],
                     "candidate_age": (
                         ""
                         if row["candidate_age"] is None

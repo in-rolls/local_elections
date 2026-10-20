@@ -2,9 +2,8 @@ PY ?= uv run python
 # The Apple-Silicon model stack stays out of parser-only environments.
 OCR_PY ?= uv run --no-default-groups --group ocr python
 TABLE_OCR_PY ?= uv run --group table-ocr python
-UV_DOCKER_IMAGE ?= ghcr.io/astral-sh/uv:0.12.7-python3.12-trixie
 
-.PHONY: help inventory probe assam assam-2025 assam-2025-extract assam-2025-ocr assam-harvest gujarat gujarat-ocr gujarat-harvest gujarat-validate goa jharkhand jharkhand-ocr jharkhand-bench jharkhand-bench-record jk jk-2010-extract jk-2016-extract ap karnataka maharashtra maharashtra-harvest telangana wb validate test ci-docker coverage state-readmes stats worklist master manifest verify release-check expect dictionary
+.PHONY: help inventory probe assam assam-2025 assam-2025-extract assam-2025-ocr assam-harvest gujarat gujarat-ocr gujarat-harvest gujarat-validate goa jharkhand jharkhand-ocr jharkhand-bench jharkhand-bench-record jk jk-2010-extract jk-2016-extract ap karnataka maharashtra maharashtra-harvest wb validate test  coverage state-readmes stats worklist master manifest verify release-check expect dictionary contract naming
 
 help:
 	@echo "make inventory   classify the source documents already in data/"
@@ -29,14 +28,12 @@ help:
 	@echo "make karnataka   parse + validate Karnataka's held source series"
 	@echo "make maharashtra parse + validate Mumbai (BMC) ward seats"
 	@echo "make maharashtra-harvest  fetch the Karekurve-Ramachandra & Lee Dataverse deposit"
-	@echo "make telangana   parse + validate Telangana"
 	@echo "make wb          parse + validate West Bengal"
 	@echo "make validate    run every state validator without reparsing"
 	@echo "make coverage    regenerate the readme table and check every link"
 	@echo "make expect      triage every column against the data dictionary"
 	@echo "make dictionary  regenerate docs/dictionary.md from the declarations"
 	@echo "make test        unit tests for the shared normalizer"
-	@echo "make ci-docker   run the release checks in a clean Python 3.12 container"
 	@echo "make sweep       what the web archive holds, per state commission"
 	@echo "make karnataka-ocr  read the Kannada scans; resumable, ~10 hours"
 	@echo "make transliterate  Indic names -> Latin, into a committed table"
@@ -146,10 +143,6 @@ maharashtra:
 maharashtra-harvest:
 	$(PY) -m local_elections.states.maharashtra.harvest
 
-telangana:
-	$(PY) -m local_elections.states.telangana.parse
-	$(PY) -m local_elections.states.telangana.validate
-
 wb:
 	$(PY) -m local_elections.states.wb.parse
 	$(PY) -m local_elections.states.wb.validate
@@ -220,11 +213,15 @@ validate:
 	$(PY) -m local_elections.states.jk.validate
 	$(PY) -m local_elections.states.karnataka.validate
 	$(PY) -m local_elections.states.maharashtra.validate
-	$(PY) -m local_elections.states.telangana.validate
 	$(PY) -m local_elections.states.wb.validate
 
 master:
 	$(PY) -m local_elections.tools.build_master
+
+# The published tables' contract: write schemas/*.json and validate data/master/
+# against them, reporting to data/master/contract_report.csv.
+contract:
+	$(PY) -m local_elections.tools.contract validate
 
 manifest:
 	$(PY) -m local_elections.tools.build_manifest
@@ -254,7 +251,7 @@ verify-evidence-archives:
 # Prepares and checks a release. It deliberately does not tag: a tag is one of
 # the few things you cannot take back, so this prints the command and a human
 # runs it.
-release-check: test validate master stats worklist coverage manifest verify verify-evidence verify-evidence-archives
+release-check: test validate master naming stats worklist coverage manifest verify verify-evidence verify-evidence-archives
 	@$(PY) -m local_elections.tools.release_check $(VERSION)
 
 stats:
@@ -276,6 +273,10 @@ sources:
 state-readmes:
 	$(PY) -m local_elections.tools.build_state_readmes
 
+# Column names against docs/naming.md, in the pooled tables and every pinned sibling file.
+naming:
+	$(PY) -m local_elections.tools.naming --strict
+
 expect:
 	$(PY) -m local_elections.common.expectations
 
@@ -284,25 +285,6 @@ dictionary:
 
 test:
 	$(PY) -m pytest tests -q
-
-ci-docker:
-	docker run --rm --pull=always \
-		--mount type=bind,source="$(CURDIR)",target=/workspace \
-		--workdir /workspace \
-		--env UV_PROJECT_ENVIRONMENT=/tmp/local-elections-venv \
-		--env UV_CACHE_DIR=/tmp/uv-cache \
-		--env RUFF_CACHE_DIR=/tmp/ruff-cache \
-		$(UV_DOCKER_IMAGE) \
-		sh -c 'apt-get update && \
-			apt-get install -y --no-install-recommends poppler-utils tesseract-ocr tesseract-ocr-ben libgl1 && \
-			uv sync --no-default-groups --frozen --group dev --all-extras && \
-			uv run ruff check . && \
-			uv run ruff format --check . && \
-			uv run pyright && \
-			uvx --from pydoclint==0.9.1 pydoclint src/ && \
-			uvx preen check --strict --skip tests && \
-			uv run pytest tests -q -p no:cacheprovider && \
-			uv build --out-dir /tmp/dist'
 
 .PHONY: delhi delhi-harvest
 delhi-harvest:

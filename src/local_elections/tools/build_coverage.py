@@ -78,13 +78,13 @@ SIBLINGS = {
             "reservation; 2021 winner education is transcribed for Arwal only"
         ),
         "files": [
-            "data/release/2016_panchayat/seats.parquet",
-            "data/release/2016_panchayat/candidates.parquet",
-            "data/release/2016_panchayat/winners.parquet",
-            "data/release/2021_panchayat/seats.parquet",
-            "data/release/2021_panchayat/candidates.parquet",
-            "data/release/2021_panchayat/winners.parquet",
-            "data/release/2021_panchayat/current_reservations.parquet",
+            "data/2016/seats.parquet",
+            "data/2016/candidates.parquet",
+            "data/2016/winners.parquet",
+            "data/2021/seats.parquet",
+            "data/2021/candidates.parquet",
+            "data/2021/winners.parquet",
+            "data/2021/current_reservations.parquet",
         ],
     },
     "Kerala": {
@@ -98,10 +98,10 @@ SIBLINGS = {
         "years": "2005, 2010, 2015, 2021",
         "tiers": "gp_head",
         "files": [
-            "data/release/gp/gp_head_winner_records_2005.parquet",
-            "data/release/gp/gp_head_winner_records_2010.parquet",
-            "data/release/gp/gp_head_winner_records_2015.parquet",
-            "data/release/gp/gp_head_candidates_2021.parquet",
+            "data/2005/gram_panchayat_head_winner_list.parquet",
+            "data/2010/gram_panchayat_head_winner_list.parquet",
+            "data/2015/gram_panchayat_head_winner_list.parquet",
+            "data/2021/gram_panchayat_head_candidate_record.parquet",
         ],
     },
     "Uttarakhand": {
@@ -139,13 +139,27 @@ SIBLINGS = {
         "Zila Parishad books remain unparsed; municipal material is held "
         "outside the rural master",
     },
+    "Telangana": {
+        "repo": "local_elections_telangana",
+        "years": "2019, 2025",
+        "tiers": "gp_head, gp_ward",
+        "files": [
+            "data/2019/sarpanch_results.parquet",
+            "data/2019/ward_results.parquet",
+            "data/2025/sarpanch_results.parquet",
+            "data/linkage/gp_2019_2025.parquet",
+        ],
+        "standardized": "24,753 sarpanch seats (2019 and 2025), 49,823 2019 "
+        "ward seats and 11,464 seat links are standardized",
+        "remaining": "2025 ward seats are not collected; 2020-21 municipal "
+        "results are held in the sibling but not parsed",
+    },
 }
 
 # Held here, in someone else's column layout, and nobody has parsed it. This is
 # a different thing from SIBLINGS and must not share a label with it: these are
 # open work, not coverage already achieved.
 LEGACY = {
-    "Telangana": ("gram panchayat + ward 2019, municipal 2020-21", "telangana"),
     "West Bengal": (
         "2018 delimitation-and-reservation gazettes, 20 districts",
         "west_bengal",

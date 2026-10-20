@@ -30,6 +30,7 @@ producing revision is recorded on every row.
 import argparse
 import collections
 import csv
+import hashlib
 import subprocess
 import sys
 
@@ -112,8 +113,23 @@ LOCAL_INPUTS = [
 ]
 
 
+def superseded():
+    """(state, year, tier) slices a sibling repository now supplies.
+
+    A state moved to its own repository can take over a slice this repository
+    parsed first. The adapter says so in SUPERSEDES, and the in-tree slice is
+    then left out of the master, so one election is never pooled twice. The
+    in-tree file stays where it is; the coverage and the state readmes still
+    describe it.
+    """
+    out = set()
+    for adapter in adapters.REGISTRY.values():
+        out |= set(getattr(adapter, "SUPERSEDES", ()))
+    return out
+
+
 def local_slices():
-    """The states parsed in this repository."""
+    """The states parsed in this repository, less what a sibling supersedes."""
     commit, _ = git_commit(ROOT, LOCAL_INPUTS)
     grouped = collections.defaultdict(list)
     for _, rows in datasets.parsed():
@@ -121,7 +137,10 @@ def local_slices():
             grouped[
                 (row.get("state", ""), row.get("year", ""), row.get("tier", ""))
             ].append(row)
+    skip = superseded()
     for (state, year, tier), rows in sorted(grouped.items()):
+        if (state, year, tier) in skip:
+            continue
         yield {
             "dataset_id": f"{state.lower().replace(' ', '_').replace('&', 'and')}"
             f"/{tier}/{year}",
@@ -191,6 +210,7 @@ def sibling_supplemental(only=None):
 
 def build(only=None):
     rows, extras, dropped, candidates = [], [], [], []
+    located = collections.defaultdict(list)
     seen = collections.Counter()
     counts = collections.Counter()
     # Read once. to_master runs 829,628 times and this is 154,700 entries.
@@ -199,6 +219,7 @@ def build(only=None):
     for slice_ in list(local_slices()) + list(sibling_slices(only)):
         for row in slice_["rows"]:
             counts["input"] += 1
+            row = dict(row, **M.winner_gender_fields(row))
             got = M.to_master(
                 row,
                 slice_["dataset_id"],
@@ -224,6 +245,10 @@ def build(only=None):
             key = got["seat_key"]
             seen[key] += 1
             got["row_id"] = M.row_id(got, seen[key])
+            if row.get("source_locator"):
+                located[(slice_["dataset_id"], row["source_locator"])].append(
+                    got["row_id"]
+                )
             rows.append(got)
             extras += M.extras(row, got["row_id"])
             candidates += M.candidates(row, got)
@@ -235,7 +260,84 @@ def build(only=None):
         row["seat_key_unique"] = int(seen[row["seat_key"]] == 1)
 
     supplemental = list(sibling_supplemental(only))
+    supplemental.append(seat_links(located, only))
     return rows, extras, dropped, candidates, supplemental, counts
+
+
+SEAT_LINK_COLUMNS = [
+    "link_id",
+    "state",
+    "tier",
+    "from_year",
+    "to_year",
+    "from_row_id",
+    "to_row_id",
+    "link_pass",
+    "name_score",
+    "source_repo",
+    "source_commit",
+    "source_path",
+]
+
+
+def seat_links(located, only=None):
+    """The same seat in two elections, as the state repositories linked it.
+
+    A link is the sibling's claim that two records name one seat: names matched
+    inside a reviewed block pair, by a stated pass, with its score. It is not an
+    official identifier. Links are carried here only once both ends resolve to
+    exactly one pooled row; a link whose end is not a pooled row - a seat left
+    out for stating no reservation, say - is counted and dropped, and a locator
+    naming two rows stops the build, since either choice would be a guess.
+    """
+    out, unresolved = [], collections.Counter()
+    for name, adapter in sorted(adapters.REGISTRY.items()):
+        read_links = getattr(adapter, "links", None)
+        if read_links is None or (only and name not in only):
+            continue
+        pinned = sources.resolve(adapter.REPO)
+        directory = pinned[0] if pinned else ROOT.parent / adapter.REPO
+        commit = pinned[1] if pinned else git_commit(directory)[0]
+        for link in read_links(directory):
+            ends = []
+            for side in ("from", "to"):
+                key = (link[f"{side}_dataset_id"], link[f"{side}_locator"])
+                found = located.get(key, [])
+                if len(found) > 1:
+                    raise SystemExit(f"seat link end names {len(found)} rows: {key}")
+                ends.append(found[0] if found else None)
+            if None in ends:
+                unresolved[(adapter.REPO, link["source_path"])] += 1
+                continue
+            _, tier, from_year = link["from_dataset_id"].split("/")
+            to_year = link["to_dataset_id"].split("/")[2]
+            out.append(
+                {
+                    "link_id": hashlib.sha1("|".join(ends).encode()).hexdigest()[:12],
+                    "state": adapter.STATE,
+                    "tier": tier,
+                    "from_year": from_year,
+                    "to_year": to_year,
+                    "from_row_id": ends[0],
+                    "to_row_id": ends[1],
+                    "link_pass": link["link_pass"],
+                    "name_score": f"{link['name_score']:.4f}",
+                    "source_repo": adapter.REPO,
+                    "source_commit": commit,
+                    "source_path": link["source_path"],
+                }
+            )
+    for (repo, path), n in sorted(unresolved.items()):
+        LOGGER.warning(
+            "Seat links whose ends are not pooled rows",
+            extra={"event": "seat_links_unresolved", "repository": repo,
+                   "path": path, "links": n},
+        )  # fmt: skip
+    return {
+        "name": "supplemental_seat_links.parquet",
+        "columns": SEAT_LINK_COLUMNS,
+        "rows": out,
+    }
 
 
 def reconcile(counts, dropped):
@@ -275,7 +377,9 @@ def write(rows, extras, dropped, candidates, supplemental):
             )
         )
 
-    write_parquet("master_extras.parquet", ["row_id", "column", "value"], extras)
+    write_parquet(
+        "master_extras.parquet", ["row_id", "column", "value"], published_extras(extras)
+    )
 
     for table in supplemental:
         written.append(write_parquet(table["name"], table["columns"], table["rows"]))
@@ -302,6 +406,23 @@ def write(rows, extras, dropped, candidates, supplemental):
             writer.writeheader()
             writer.writerows(data)
     return written
+
+
+def published_extras(extras):
+    """The long-form extras under their published names and values. A
+    winner_gender of "other" has no winner_woman value; it stays readable in
+    winner_woman_raw, so its row is not written.
+    """
+    out = []
+    for row in extras:
+        value = M.published_value(row["column"], row["value"])
+        if str(value).strip():
+            out.append(dict(row, column=M.published(row["column"]), value=value))
+    return out
+
+
+# 1 / 0 / null integers, as docs/naming.md types every *_woman column.
+INT8 = {"reserved_woman", "reserved_woman_stated", "candidate_woman", "winner_woman"}
 
 
 def slug_of(state):
@@ -345,7 +466,9 @@ def write_parquet(name, columns, rows):
     corpus altered. The manifest records the writer version so that reads as
     what it is rather than as data drift.
     """
-    table = pa.table({column: cast(name, column, rows) for column in columns})
+    table = pa.table(
+        {M.published(column): published_type(name, column, rows) for column in columns}
+    )
     path = OUT / name
     pq.write_table(table, path, compression="zstd")
     return (path, len(rows))
@@ -363,6 +486,24 @@ ARROW_TYPES = {
 }
 
 TRUE, FALSE = {"1", "true", "True", "yes"}, {"0", "false", "False", "no"}
+
+
+def published_type(filename, column, rows):
+    """The column as published: an *_woman flag as Int8, the rest as declared."""
+    if M.published(column) not in INT8:
+        return cast(filename, column, rows)
+    values = []
+    for row in rows:
+        text = str(row.get(column, "") if row.get(column) is not None else "").strip()
+        if text in TRUE:
+            values.append(1)
+        elif text in FALSE:
+            values.append(0)
+        elif text == "":
+            values.append(None)
+        else:
+            raise SystemExit(f"{filename}: {column} holds {text!r}, not 1/0")
+    return pa.array(values, type=pa.int8())
 
 
 def cast(filename, column, rows):
@@ -480,12 +621,12 @@ def render_readme(rows, dropped, candidates, counts, written):
         "offices. Bihar's *sarpanch* heads a village court, not the "
         "panchayat. Group on `tier`; check against a gazette with "
         "`tier_local`.",
-        "- **`caste_reservation`, `caste_reservation_local` and "
-        "`caste_scheme`** — the fold to `BC` is lossy and is not the same "
+        "- **`reserved_caste`, `reserved_caste_local` and "
+        "`reserved_caste_scheme`** — the fold to `BC` is lossy and is not the same "
         "fold everywhere. Haryana reserves only Block A of its Backward "
         "Classes list and prints `BC_A`; Kerala reserves no backward-class "
         "seat at all, so zero BC rows there is the law rather than a "
-        "parsing failure. `caste_scheme` is what makes those "
+        "parsing failure. `reserved_caste_scheme` is what makes those "
         "distinguishable.",
         "- **`unit_of_observation` and `seat_candidates`** — some sources "
         "are candidate-level and are collapsed to seats. A row that came "
@@ -500,7 +641,7 @@ def render_readme(rows, dropped, candidates, counts, written):
         "`seat_number_inferred`, `reservation_control_disagree`, "
         "`margin_not_below_votes`, `name_untransliterated`, and "
         "`printings_disagree`. "
-        "`gender_not_stated` in particular means `woman_reserved=0` is a "
+        "`gender_not_stated` in particular means `reserved_woman=0` is a "
         "default rather than a reading.",
         "",
         "`provenance_level` says how far back a row can be traced:",

@@ -26,6 +26,8 @@ import csv
 import pathlib
 import re
 
+import pyarrow.parquet as pq
+
 from local_elections.common import collapse, normalize
 from local_elections.common.normalize import label
 
@@ -73,6 +75,43 @@ C = {
     "votes": "प्राप्‍त मत.2",
     "serial": "क्रमांक",
 }
+
+# The sibling's pradhan seat links between consecutive elections, keyed by
+# district, block and printed panchayat name on each side.
+LINKS = {
+    ("2008", "2014"): "data/linkage/gp_2008_2014.parquet",
+    ("2014", "2019"): "data/linkage/gp_2014_2019.parquet",
+}
+
+
+# The sibling's name-based probability that each elected pradhan is a woman. The
+# portal records no sex, so winner_gender stays blank and this travels under its
+# own name.
+INFERRED = "data/inferred/winner_woman_probability_{year}.parquet"
+
+
+def inferred_sex(root, year):
+    path = root / INFERRED.format(year=year)
+    if not path.exists():
+        return {}
+    out = {}
+    for r in pq.read_table(path).to_pylist():
+        probability = r["winner_woman_probability"]
+        if probability is None or probability != probability:
+            continue
+        key = (r["district"], r["block"], r["gram_panchayat"], r["winner"])
+        if key in out:
+            raise SystemExit(f"{REPO}: {year} inferred sex repeats {key}")
+        out[key] = {
+            "winner_female_probability_from_name": f"{probability:.6f}",
+            "winner_female_probability_method": r["winner_woman_probability_method"],
+        }
+    return out
+
+
+def locator(district, block, panchayat):
+    return "/".join((district, block, panchayat))
+
 
 # What the two files collapse to, per (year, tier). Declared because a wrong
 # seat key produces a plausible number either way.
@@ -130,10 +169,13 @@ def slices(root):
                 f"{REPO}: {year}/{tier} collapses to {len(seats):,} seats, "
                 f"{expected:,} declared - the seat key changed"
             )
+        inferred = inferred_sex(root, year) if tier == "gp_head" else {}
         for seat in seats:
             # The result is stated on every row of the seat, so it is read off
             # rather than worked out from the votes.
             seat["winner_basis"] = "published" if seat["winner"] else ""
+            place = (seat["district"], seat["block"], seat["gram_panchayat"])
+            seat.update(inferred.get((*place, seat["winner"]), {}))
             for row in [seat] + seat["seat_members"]:
                 row.pop("_key", None)
         yield {
@@ -258,9 +300,35 @@ def convert(row, relative):
         "margin": collapse.votes_of(row.get(C["margin"])),
         "source_path": relative,
         "source_page": "",
+        "source_locator": (
+            locator(district, block, panchayat) if tier == "gp_head" else ""
+        ),
         # the long form
         "candidate_name": (row.get(C["candidate"]) or "").strip(),
         "relation_name": (row.get(C["relation"]) or "").strip(),
         "party": (row.get(C["symbol"]) or "").strip(),
         "votes": collapse.votes_of(row.get(C["votes"])),
     }
+
+
+def links(root):
+    """The sibling's pradhan seat links, keyed by both seats' locators."""
+    root = pathlib.Path(root)
+    for (a, b), relative in LINKS.items():
+        path = root / relative
+        if not path.exists():
+            continue
+        for r in pq.read_table(path).to_pylist():
+            yield {
+                "from_dataset_id": f"uttarakhand/gp_head/{a}",
+                "from_locator": locator(
+                    r[f"district_{a}"], r[f"block_{a}"], r[f"gram_panchayat_{a}"]
+                ),
+                "to_dataset_id": f"uttarakhand/gp_head/{b}",
+                "to_locator": locator(
+                    r[f"district_{b}"], r[f"block_{b}"], r[f"gram_panchayat_{b}"]
+                ),
+                "link_pass": "name",
+                "name_score": r["name_score"],
+                "source_path": relative,
+            }

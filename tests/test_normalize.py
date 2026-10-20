@@ -227,7 +227,7 @@ def test_the_bihar_vocabulary_is_closed_and_counted():
     # ROOT, not a count of parents. The count was right while this file lived
     # in scripts/common/ and wrong the moment it moved to tests/ - and it did
     # not fail, it skipped, reporting a sibling that is checked out as absent.
-    root = ROOT.parent / "local_elections_bihar" / "data" / "raw" / "legacy_2016"
+    root = ROOT.parent / "local_elections_bihar" / "data" / "2016" / "raw" / "legacy"
     if not root.exists():
         pytest.skip("local_elections_bihar is not checked out")
     csv.field_size_limit(10**7)

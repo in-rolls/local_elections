@@ -73,7 +73,7 @@ than a defect.
 | `gender_stated` | boolean | warn | ≤0% blank | Whether the source actually stated this seat's gender. Where a document marks only the women's seats a bare code is a man; where it marks both, a bare code is a marker that did not survive the scan, and woman_reserved=0 there is a guess. Filter on this before computing a women's share. |
 | `printings_agree` | boolean | warn | — | Whether the gazette's separate statements of this seat say the same thing. Blank where the seat is stated only once - which is not the same as agreeing. Two independent typesettings agreeing is the strongest evidence available here that a row was read correctly. |
 | `text_source` | enum | info | one of `ocr`, `embedded`, `embedded_positioned` | Whether the row came from our own OCR or the PDF's embedded text layer. `embedded_positioned` means word coordinates, not line order, determine the table cells. |
-| `script` | enum | error | one of `latin`, `krutidev`, `devanagari`, `bengali`, `kannada`, `gujarati`; ≤0% blank | Which typesetting the row was read from. |
+| `script` | enum | error | one of `latin`, `krutidev`, `devanagari`, `bengali`, `kannada`, `gujarati`, `tamil`; ≤0% blank | Which typesetting the row was read from. |
 | `source_pdf` | string | error | length 4–80; ≤0% blank |  |
 | `source_path` | path | error | ≤0% blank | Relative to data/, and checked by opening it rather than by matching a pattern - a first attempt at a filename regex rejected 1,783 perfectly good Jharkhand rows because one file is called 'Gomia_GPS, GPM & GPVM.pdf'. What matters is that the document is there, not what it is called. |
 | `source_page` | integer | error | range 1–2000; ≤0% blank |  |
@@ -107,7 +107,12 @@ than a defect.
 | `candidate_total_assets` | string | info | length 1–30 |  |
 | `candidate_children_before_1995_11_27` | string | info | length 1–4 |  |
 | `candidate_children_after_1995_11_27` | string | info | length 1–4 |  |
-| `winner_gender` | string | info | length 1–24 | The elected person's own gender. Not woman_reserved, which says whether the seat was reserved for a woman. |
+| `winner_gender` | enum | error | one of `female`, `male`, `other` | The elected person's own sex as a record states it, in one vocabulary. Never inferred: not from a name, and not from the seat's reservation - a woman can win an open seat, and a record that marks only women says nothing about the rest. Blank where no record states it. Not woman_reserved, which says what the seat was reserved for. |
+| `winner_gender_raw` | string | info | length 1–60 | The source value winner_gender was read from, untouched. Present even where winner_gender is blank, so a value that is not a sex - Uttar Pradesh 2005 has winner names in its sex column - stays findable rather than disappearing. |
+| `winner_gender_basis` | enum | error | one of `seat_record`, `winning_candidate_record`, `winner_category_record` | Which record winner_gender_raw comes from: the seat's own row, the winning candidate's row in the source's candidate list, or the winner's printed category where that category names women ('OBC (Woman)'). A category without a women's mark is not read as male: in Rajasthan's 2020 ward results 6,307 winners of women-only seats carry a plain category. |
+| `winner_female_probability_from_name` | string | info | — | A probability that the winner is a woman, inferred from the printed name - never a record, and never written to winner_gender. For aggregate use: averaged over seats it estimates a share of women. winner_female_probability_method says how each value was made. |
+| `winner_female_probability_method` | string | info | length 5–200 | How winner_female_probability_from_name was made, with versions: a model and its training labels, or a manual coding of names. |
+| `reservation_source_conflict` | boolean | info | — | The seat's printed reservation disagrees with other evidence from the same commission - its reservation table or the statutory share within the block - and the state repository reviewed the block and marked its printed categories unreliable. The printed value is kept. |
 | `winner_caste` | string | info | length 1–60 | The elected person's **own** category, where the source states it alongside the seat's. Not caste_reservation: that is what the seat was reserved for. Uttar Pradesh 2005 and 2010 are the only seat-level slices that carry both, and they disagree on 63% of rows - which is what makes them worth holding separately rather than a redundancy. |
 | `winner_category_raw` | string | info | length 1–60 | The source's untouched winning-candidate category, retained even on a result row where the winner name is blank. |
 | `election_type` | enum | info | one of `General Election`, `By Election` | Whether Rajasthan SEC labels the event as a general or by-election. |
@@ -139,6 +144,7 @@ than a defect.
 | `serial_not_unique` | integer | info | range 0–1 | One serial number carrying two different candidates. Not resolvable from the file, so both are kept. |
 | `winner_candidate_ambiguous` | integer | info | range 0–1 | More than one candidate in the contest has the published winner's exact normalized name, so the seat winner is known but the winning candidate serial is not. |
 | `shared_place_name` | integer | info | range 0–1 | Two places in one block printed under one name, told apart only by being reserved differently. |
+| `code_repeated` | integer | info | range 0–1 | The source form reuses this seat's code for a second place in the same parent, so the page could belong to either; the row enters once. Bihar 2016. |
 | `source_row_number` | integer | info | range 1–100000000 | One-based record ordinal in source_path, excluding a CSV header. This is not a PDF page number or a geographic identifier. |
 | `source_sha256` | string | info | length 64–64 | SHA-256 of the pinned input bytes identified by source_path. |
 | `winner_markers_conflict` | boolean | info | — | Multiple candidates under one source seat key are marked as winners. No winner is selected and elected remains unknown. |

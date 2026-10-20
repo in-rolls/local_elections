@@ -38,7 +38,6 @@ warn,ap/ward_reservation_2020.csv,column,gram_panchayat,length outside 2..45,12,
 warn,ap/sarpanch_reservation_2020.csv,column,block,length outside 2..40,10,0.0014,K | h | a,data/ap/2020_res_gp/est_res_gp.pdf,66
 warn,assam/gp_ward_reservation_2025.csv,column,ward_name,length outside 2..40,7,0.0056,"Khangkar Gaon, Khangkar No. 2, | Hajobori, Borchapori, Hajobori | Missamari Gaon, No.2 Missamari",data/assam/2025_reservation/reservation_kamrup_m.pdf,5
 warn,jk/ward_reservation_2016.csv,column,pop_oc,outside 0..100000,7,0.0006,-273 | -301 | -303,data/jk/2016/Publication Jammu B.pdf,38
-warn,telangana/gp_ward_2019.csv,column,gram_panchayat,length outside 2..45,6,0.0001,Ab Thanda @ Addabata Thanda@Ma | Ab Thanda @ Addabata Thanda@Ma | Ab Thanda @ Addabata Thanda@Ma,data/telangana/2019_ward/2019_ward_Warangal Rural.csv,
 warn,ap/sarpanch_reservation_2020.csv,column,gram_panchayat,length outside 2..45,5,0.0007,Chigicherla De (G) zee Dharmav | Chilamakuru B.C (G) _ S.C (W)  | Kunavaram 16 8 8 16 0 0 0 0 0 ,data/ap/2020_res_gp/atp_res_gp.pdf,7
 warn,jk/ward_reservation_2016.csv,column,gp_no,length outside 1..10,4,0.0003,6. Patyari Kattlian | 8. Sangwali | 2.Chak dulma,data/jk/2016/PDF Samba Distt.pdf,5
 warn,jk/ward_reservation_2016.csv,column,pop_sc,not an integer,3,0.0002,NIL | NIL | 1 0 5,data/jk/2016/Publication Udhampur A.pdf,31
@@ -47,7 +46,6 @@ warn,ap/sarpanch_reservation_2020.csv,column,serial,outside 1..9999,2,0.0003,0 |
 warn,gujarat/zp_member_reservation_2020.csv,column,ward_name,length outside 2..40,2,0.0038,જ | ગ,data/gujarat/2020_reservation/zp_member_bharuch_dp_2020.pdf,9
 warn,jharkhand/panchayat_samiti_reservation_2015.csv,column,winner,length outside 2..60,2,0.0004,– | –,data/jharkhand/2015/23. SERAIKELA KHARSAWAN MUKHIYA PSS/SERAIKELA KHARSAWAN PSS/Prapatra 23 Chandil  Panchayat Samiti.pdf,2
 warn,karnataka/block_member_2016.csv,column,ward_name,length outside 2..40,2,0.0006,9 | 9,data/karnataka/tzp_2016_elected/TZP_Elected_Members_2016_TP_Koppal_Gangavathi.pdf,2
-warn,telangana/gp_head_2019.csv,column,gram_panchayat,length outside 2..45,2,0.0002,Nazrulnagar ( Name To Be Chang | Ab Thanda @ Addabata Thanda@Ma,data/telangana/2019_gp_sarpanch.csv,
 warn,goa/ward_reservation_2012.csv,column,winner,length outside 2..60,1,0.0007,Stael Piedade Ana Michael Anto,data/goa/2012/panres_2012_Salcete.pdf,6
 warn,gujarat/block_member_reservation_2020.csv,column,ward_name,length outside 2..40,1,0.0015,2,data/gujarat/2020_reservation/block_member_patan_tps_2020.pdf,6
 warn,maharashtra/ulb_ward_2012.csv,dataset,ulb_ward,227 rows outside the plausible band 454..454,1,0.0044,227,data/maharashtra/mumbai/BMC-2007_raw.xlsx,
@@ -115,7 +113,3 @@ info,karnataka/zp_member_2016.csv,column,block,not present in this source (entir
 info,maharashtra/ulb_ward_2012.csv,column,source_page,not present in this source (entirely blank),1,0.0044,,data/maharashtra/mumbai/BMC-2007_raw.xlsx,
 info,maharashtra/ulb_ward_2017.csv,column,ward_name,not present in this source (entirely blank),1,0.0044,,data/maharashtra/mumbai/dataverse_IO9SLQ/mumbai_full.tab,
 info,maharashtra/ulb_ward_2017.csv,column,source_page,not present in this source (entirely blank),1,0.0044,,data/maharashtra/mumbai/dataverse_IO9SLQ/mumbai_full.tab,
-info,telangana/gp_head_2019.csv,column,ward_no,not present in this source (entirely blank),1,0.0001,,data/telangana/2019_gp_sarpanch.csv,
-info,telangana/gp_head_2019.csv,column,unopposed,not present in this source (entirely blank),1,0.0001,,data/telangana/2019_gp_sarpanch.csv,
-info,telangana/gp_head_2019.csv,column,source_page,not present in this source (entirely blank),1,0.0001,,data/telangana/2019_gp_sarpanch.csv,
-info,telangana/gp_ward_2019.csv,column,source_page,not present in this source (entirely blank),1,0.0,,data/telangana/2019_ward/2019_ward_Bhadradri.csv,

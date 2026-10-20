@@ -1,0 +1,175 @@
+{
+  "title": "Seat links between consecutive elections",
+  "description": "A state repository's claim that two rows name one seat (data/master/supplemental_seat_links.parquet). Not an official identifier.",
+  "fields": [
+    {
+      "name": "link_id",
+      "type": "string",
+      "description": "sha1 of the two row_ids, 12 hex digits.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{12}"
+      }
+    },
+    {
+      "name": "state",
+      "type": "string",
+      "description": "Printed name of the state.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "Andhra Pradesh",
+          "Assam",
+          "Bihar",
+          "Goa",
+          "Gujarat",
+          "Haryana",
+          "Jammu & Kashmir",
+          "Jharkhand",
+          "Karnataka",
+          "Kerala",
+          "Maharashtra",
+          "Rajasthan",
+          "Tamil Nadu",
+          "Telangana",
+          "Uttar Pradesh",
+          "Uttarakhand",
+          "West Bengal"
+        ]
+      }
+    },
+    {
+      "name": "tier",
+      "type": "string",
+      "description": "Canonical office (canon.py maps local names onto it).",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "gp_head",
+          "gp_vice_head",
+          "gp_ward",
+          "block_member",
+          "block_head",
+          "block_vice_head",
+          "zp_member",
+          "zp_head",
+          "kachahari_head",
+          "kachahari_member",
+          "ulb_ward",
+          "ulb_head"
+        ]
+      }
+    },
+    {
+      "name": "from_year",
+      "type": "integer",
+      "description": "Earlier election.",
+      "constraints": {
+        "required": true,
+        "minimum": 1990,
+        "maximum": 2030
+      }
+    },
+    {
+      "name": "to_year",
+      "type": "integer",
+      "description": "Later election.",
+      "constraints": {
+        "required": true,
+        "minimum": 1990,
+        "maximum": 2030
+      }
+    },
+    {
+      "name": "from_row_id",
+      "type": "string",
+      "description": "Earlier seat's master row_id.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{12}"
+      }
+    },
+    {
+      "name": "to_row_id",
+      "type": "string",
+      "description": "Later seat's master row_id.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{12}"
+      }
+    },
+    {
+      "name": "link_pass",
+      "type": "string",
+      "description": "The matching rule that made the link.",
+      "constraints": {
+        "required": true,
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "name_score",
+      "type": "number",
+      "description": "Name similarity, 0-1.",
+      "constraints": {
+        "required": true,
+        "minimum": 0,
+        "maximum": 1
+      }
+    },
+    {
+      "name": "source_repo",
+      "type": "string",
+      "description": "Repository the row was read from.",
+      "constraints": {
+        "required": true,
+        "pattern": "local_elections(_[a-z_]+)?"
+      }
+    },
+    {
+      "name": "source_commit",
+      "type": "string",
+      "description": "Full commit of source_repo the row was read at.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{40}"
+      }
+    },
+    {
+      "name": "source_path",
+      "type": "string",
+      "description": "File within source_repo.",
+      "constraints": {
+        "required": true,
+        "minLength": 1
+      }
+    }
+  ],
+  "primaryKey": [
+    "link_id"
+  ],
+  "foreignKeys": [
+    {
+      "fields": [
+        "from_row_id"
+      ],
+      "reference": {
+        "resource": "master",
+        "fields": [
+          "row_id"
+        ]
+      }
+    },
+    {
+      "fields": [
+        "to_row_id"
+      ],
+      "reference": {
+        "resource": "master",
+        "fields": [
+          "row_id"
+        ]
+      }
+    }
+  ]
+}

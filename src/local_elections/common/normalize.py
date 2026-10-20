@@ -170,6 +170,7 @@ _DEVANAGARI = re.compile(r"[\u0900-\u097f]")
 _BENGALI = re.compile(r"[\u0980-\u09ff]")
 _GUJARATI = re.compile(r"[\u0a80-\u0aff]")
 _KANNADA = re.compile(r"[\u0c80-\u0cff]")
+_TAMIL = re.compile(r"[\u0b80-\u0bff]")
 
 
 def script_of(*values):
@@ -197,6 +198,8 @@ def script_of(*values):
     joined = " ".join(v for v in values if v)
     if _KANNADA.search(joined):
         return "kannada"
+    if _TAMIL.search(joined):
+        return "tamil"
     if _GUJARATI.search(joined):
         return "gujarati"
     if _BENGALI.search(joined):
@@ -371,3 +374,35 @@ def label(caste, woman):
     prefix = {"SC": "SC", "ST": "ST", "BC": "BC", "NONE": ""}[caste or "NONE"]
     suffix = "Woman" if woman else "Other than Woman"
     return f"{prefix} {suffix}".strip()
+
+
+# A person's recorded sex, in every vocabulary the sources use for it. Exact
+# matches only: a value outside these sets is not a sex - Uttar Pradesh 2005 has
+# winners' names in its sex column - and stays in the raw column. "अन्य" is left
+# out on purpose: in this corpus it is the "other than woman" of a reservation
+# label, not a third sex.
+RECORDED_GENDER = {
+    "female": "female",
+    "f": "female",
+    "woman": "female",
+    "महिला": "female",
+    "male": "male",
+    "m": "male",
+    "man": "male",
+    "पुरुष": "male",
+    "पुरूष": "male",
+    "other": "other",
+    "third gender": "other",
+    "transgender": "other",
+    "तृतीय लिंग": "other",
+    "अन्य": "other",
+    "பெண்": "female",
+    "ஆண்": "male",
+    "மற்றவர்": "other",
+    "o": "other",
+}
+
+
+def recorded_gender(value):
+    """Return female, male or other for a recorded sex; "" when it is not one."""
+    return RECORDED_GENDER.get(" ".join(str(value or "").split()).lower(), "")

@@ -46,11 +46,11 @@ URL = "https://github.com/in-rolls/local_elections_up"
 STATE = "Uttar Pradesh"
 
 SEAT_FILES = {
-    "2005": "data/release/gp/gp_head_winner_records_2005.parquet",
-    "2010": "data/release/gp/gp_head_winner_records_2010.parquet",
-    "2015": "data/release/gp/gp_head_winner_records_2015.parquet",
+    "2005": "data/2005/gram_panchayat_head_winner_list.parquet",
+    "2010": "data/2010/gram_panchayat_head_winner_list.parquet",
+    "2015": "data/2015/gram_panchayat_head_winner_list.parquet",
 }
-CANDIDATE_FILE = ("2021", "data/release/gp/gp_head_candidates_2021.parquet")
+CANDIDATE_FILE = ("2021", "data/2021/gram_panchayat_head_candidate_record.parquet")
 DECLARED = {"2005": 51872, "2010": 51861, "2015": 59019, "2021": 373096}
 RELEASE_PIN = pathlib.Path(__file__).with_name("uttar_pradesh_release.json")
 PIN = json.loads(RELEASE_PIN.read_text())
@@ -58,7 +58,7 @@ SOURCE_SHA256 = PIN["source_sha256"]
 
 
 def verify_release(root):
-    manifest = pathlib.Path(root) / "data/release/manifest.json"
+    manifest = pathlib.Path(root) / "data/manifest.json"
     if hashlib.sha256(manifest.read_bytes()).hexdigest() != PIN["manifest_sha256"]:
         raise ValueError("UP release manifest differs from the pinned artifact")
 
@@ -182,7 +182,7 @@ def check(year, got, expected, what):
 
 def seat_row_2015(row, year, relative):
     """Published seat results; contested/unopposed is not a winner filter."""
-    raw = row.get("gp_reservation_status") or ""
+    raw = row.get("reserved_raw") or ""
     caste = normalize.caste_of(raw)
     woman = None if caste is None else normalize.woman_of(raw)
     winner = (row.get("elected_sarpanch_name") or "").strip()
@@ -203,8 +203,8 @@ def seat_row_2015(row, year, relative):
         "reservation_raw": raw,
         "winner": winner,
         "winner_basis": "published" if winner else "",
-        "winner_caste": row.get("candidate_reservation_status") or "",
-        "winner_gender": row.get("sex") or "",
+        "winner_caste": row.get("candidate_caste_raw") or "",
+        "winner_gender": row.get("winner_woman_raw") or "",
         "winner_education": row.get("educational_qualification") or "",
         "relation_name": row.get("father_husband") or "",
         "votes": collapse.votes_of(row.get("valid_votes_received")),
@@ -222,7 +222,7 @@ def seat_row_2015(row, year, relative):
 
 def seat_row(row, year, relative):
     """2005 and 2010: the seat, with its winner already on it."""
-    stated = (row.get("gp_res_status_fin_eng") or "").strip()
+    stated = (row.get("reserved_raw_cleaned_english") or "").strip()
     # "Unknown" means the cell did not survive the scan. Not a category, and
     # not unreserved.
     caste = None if stated.lower() == "unknown" else normalize.caste_of(stated)
@@ -241,7 +241,7 @@ def seat_row(row, year, relative):
         "woman_reserved": "" if caste is None else int(woman == 1),
         "gender_stated": "" if caste is None else 1,
         "reservation": label(caste, woman == 1) if caste else "",
-        "reservation_raw": (row.get("gp_reservation_status") or "").strip(),
+        "reservation_raw": (row.get("reserved_raw") or "").strip(),
         "winner": (row.get("elected_sarpanch_name") or "").strip(),
         "winner_basis": (
             "published" if (row.get("elected_sarpanch_name") or "").strip() else ""
@@ -253,9 +253,13 @@ def seat_row(row, year, relative):
         # scheduled-caste person won", which is most of what these data are
         # for.
         "winner_caste": (
-            row.get("candidate_res_status_fin") or row.get("candidate_res_status") or ""
+            row.get("candidate_caste_raw_cleaned")
+            or row.get("candidate_caste_raw")
+            or ""
         ).strip(),
-        "winner_gender": (row.get("cand_sex_fin") or row.get("sex") or "").strip(),
+        "winner_gender": (
+            row.get("winner_woman_raw_cleaned") or row.get("winner_woman_raw") or ""
+        ).strip(),
         "winner_age": (
             row.get("age_fin") or row.get("age_t2") or row.get("age") or ""
         ).strip(),
@@ -292,15 +296,15 @@ def candidate_row(row, year, relative):
     """2021: one candidate, in the shape `collapse.to_seats` reads."""
     row = dict(row)
     for target, source in {
-        "reservation": "gp_reservation_status",
+        "reservation": "reserved_raw",
         "gram_panchayat": "gp",
         "zila": "district_name",
         "block": "block_name",
         "candidate_name_2021": "candidate",
         "father_husband_name_2021": "father_husband",
-        "gender_2021": "sex",
+        "gender_2021": "candidate_woman_raw",
         "age_2021": "age",
-        "caste_2021": "candidate_reservation_status",
+        "caste_2021": "candidate_caste_raw",
         "education_2021": "education",
     }.items():
         if source in row:

@@ -1,0 +1,49 @@
+{
+  "title": "State-specific extras",
+  "description": "Long-form columns a state carries beyond the master (data/master/master_extras.parquet).",
+  "fields": [
+    {
+      "name": "row_id",
+      "type": "string",
+      "description": "Stable row identifier: sha1 of source repository, path, page, seat key and occurrence, first 12 hex digits. Changes when provenance changes.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{12}"
+      }
+    },
+    {
+      "name": "column",
+      "type": "string",
+      "description": "Column name, as in DICTIONARY.md.",
+      "constraints": {
+        "required": true,
+        "pattern": "[a-z0-9_]+"
+      }
+    },
+    {
+      "name": "value",
+      "type": "string",
+      "description": "Value as text.",
+      "constraints": {
+        "required": true
+      }
+    }
+  ],
+  "primaryKey": [
+    "row_id",
+    "column"
+  ],
+  "foreignKeys": [
+    {
+      "fields": [
+        "row_id"
+      ],
+      "reference": {
+        "resource": "master",
+        "fields": [
+          "row_id"
+        ]
+      }
+    }
+  ]
+}

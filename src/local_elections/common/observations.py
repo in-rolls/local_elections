@@ -73,7 +73,9 @@ def publish_source(root, output, spec):
         published = []
         names = set()
         for item in files:
-            name = Path(item["path"]).name
+            # Per-election tables share a base name across years; a declared
+            # name keeps the flat snapshot unambiguous.
+            name = item.get("name", Path(item["path"]).name)
             if not name.endswith(".parquet") or name in names:
                 raise ValueError(f"Invalid or repeated observation filename: {name}")
             names.add(name)

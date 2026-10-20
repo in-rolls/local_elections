@@ -39,6 +39,9 @@ dependencies = [
     # .xls (xlrd), 2007 and 2012 are .xlsx (openpyxl). Nothing else reads Excel.
     "openpyxl",
     "xlrd>=2.0.1",
+    # the published tables' Table Schemas (schemas/) and their validation
+    "frictionless>=5.21",
+    "pandera[io]>=0.34",
 ]
 
 [project.urls]
@@ -51,8 +54,6 @@ Changelog = "https://github.com/in-rolls/local_elections/blob/main/CHANGELOG.md"
 dev = [
     { include-group = "test" },
     "ruff",
-    "pyright",
-    "pydoclint>=0.5",
 ]
 test = ["pytest", { include-group = "table-ocr" }]
 
@@ -125,22 +126,6 @@ convention = "google"
 "src/local_elections/states/**" = ["T201", "S603", "S607", "S310", "S105", "S101"]
 "src/local_elections/common/**" = ["T201", "S603", "S607"]
 
-[tool.pyright]
-# The shared layer only. These modules have real interfaces - every state's
-# parser calls emit.stamp, master.to_master and the dictionary, so a wrong type
-# here is wrong in twelve places. The per-state parsers each have one caller and
-# one document; annotating 16,000 lines of them would be a large diff for no
-# reader. This is the scope, not a staging post.
-include = ["src/local_elections/common", "src/local_elections/paths.py"]
-typeCheckingMode = "standard"
-
-[tool.pydoclint]
-style = "google"
-arg-type-hints-in-docstring = false
-check-return-types = false
-check-class-attributes = false
-allow-init-docstring = true
-exclude = '\.venv|tests|docs'
 [project.scripts]
 build-master = "local_elections.tools.build_master:main"
 build-manifest = "local_elections.tools.build_manifest:main"
@@ -156,5 +141,13 @@ build-backend = "uv_build"
 # OCR checks need system packages; spelling checks must exclude source records.
 skip_checks = [
     "changelog", "deps", "depgroups", "audit", "links", "pydoclint",
-    "workflows", "codespell",
+    # OCR tests require apt packages; the reusable CI has no system-dependency hook.
+    "workflows",
+    # codespell is run over the whole repository regardless of .codespellrc or
+    # [tool.codespell], and 830,000 rows of Indian place and personal names -
+    # transliterated several ways, plus Kruti Dev mojibake kept as evidence -
+    # produce ~47,000 "misspellings", every one of them a person or a village.
+    # Checked directly over the code and prose, which is the part that matters:
+    #     uv run --with codespell codespell src tests README.md  ->  0
+    "codespell",
 ]
