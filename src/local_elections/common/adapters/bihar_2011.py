@@ -31,7 +31,7 @@ from local_elections.common.normalize import label
 
 RELEASE = "data/2011/mukhiya_reports"
 FILE = "winner_records.parquet"
-SHA256 = "3cdb740e116412a27d059df0b42c0dd05523069de636683f7c0d997a73437c56"
+SHA256 = "83b07aed81343393692d866067f5c3b75295067027e803bc70f7ab3942428104"
 DECLARED = 3973
 YEAR = "2011"
 STATE = "Bihar"
@@ -59,12 +59,20 @@ def text(value):
     return "" if value is None else str(value).strip()
 
 
+# The sibling's candidate_woman is 1 / 0 / null; this repository's gender text
+# keeps "other", which the sibling leaves null and prints in candidate_woman_raw.
+def gender_text(woman, raw):
+    if woman is not None:
+        return {1: "female", 0: "male"}[int(woman)]
+    return "other" if (raw or "").strip() == "अन्य" else ""
+
+
 def convert(r):
-    local = text(r["reservation_category"])
+    local = text(r["reserved_caste"])
     caste = CASTE.get(local, "")
     if local and not caste:
         raise ValueError(f"Bihar 2011 reservation not read: {local!r}")
-    woman = r["reservation_women"]
+    woman = r["reserved_woman"]
     return {
         "state": STATE,
         "year": YEAR,
@@ -79,14 +87,14 @@ def convert(r):
         "woman_reserved": "" if woman is None else int(woman),
         "gender_stated": 0 if woman is None else 1,
         "reservation": label(caste, bool(woman)) if caste and woman is not None else "",
-        "reservation_raw": text(r["reservation_raw"]),
+        "reservation_raw": text(r["reserved_raw"]),
         "winner": text(r["candidate_name"]),
         "winner_basis": "published",
         "relation_name": text(r["relative_name"]),
-        "winner_gender": text(r["gender"]),
-        "winner_gender_raw": text(r["gender_raw"]),
-        "winner_gender_basis": "seat_record" if text(r["gender_raw"]) else "",
-        "winner_caste": text(r["category_raw"]),
+        "winner_gender": gender_text(r["candidate_woman"], r["candidate_woman_raw"]),
+        "winner_gender_raw": text(r["candidate_woman_raw"]),
+        "winner_gender_basis": "seat_record" if text(r["candidate_woman_raw"]) else "",
+        "winner_caste": text(r["candidate_caste_raw"]),
         "winner_age": text(r["age"]),
         "winner_education": text(r["education_raw"]),
         "winner_occupation": text(r["occupation_raw"]),

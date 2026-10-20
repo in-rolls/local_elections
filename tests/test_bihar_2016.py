@@ -15,7 +15,7 @@ def tables(winner=True):
     }
     unit = dict(
         **key,
-        seat_reservation="अनारक्षित",
+        reserved_raw="अनारक्षित",
         candidate_rows=2,
         district="District",
         block="Block",
@@ -33,10 +33,10 @@ def tables(winner=True):
             row=i,
             candidate_name=f"Candidate {i}",
             remarks="0",
-            gender_raw="",
+            candidate_woman_raw="",
             father_husband_name="",
             age=None,
-            category="",
+            candidate_caste_raw="",
             education="",
             votes=10,
             page_sha256="source",

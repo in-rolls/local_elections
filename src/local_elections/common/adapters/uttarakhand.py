@@ -87,7 +87,7 @@ LINKS = {
 # The sibling's name-based probability that each elected pradhan is a woman. The
 # portal records no sex, so winner_gender stays blank and this travels under its
 # own name.
-INFERRED = "data/inferred/winner_female_probability_{year}.parquet"
+INFERRED = "data/inferred/winner_woman_probability_{year}.parquet"
 
 
 def inferred_sex(root, year):
@@ -96,7 +96,7 @@ def inferred_sex(root, year):
         return {}
     out = {}
     for r in pq.read_table(path).to_pylist():
-        probability = r["winner_female_probability_from_name"]
+        probability = r["winner_woman_probability"]
         if probability is None or probability != probability:
             continue
         key = (r["district"], r["block"], r["gram_panchayat"], r["winner"])
@@ -104,7 +104,7 @@ def inferred_sex(root, year):
             raise SystemExit(f"{REPO}: {year} inferred sex repeats {key}")
         out[key] = {
             "winner_female_probability_from_name": f"{probability:.6f}",
-            "winner_female_probability_method": r["winner_female_probability_method"],
+            "winner_female_probability_method": r["winner_woman_probability_method"],
         }
     return out
 

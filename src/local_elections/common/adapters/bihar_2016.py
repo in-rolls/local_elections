@@ -61,13 +61,13 @@ from local_elections.common.normalize import label
 RELEASE = "data/2016"
 SHA256 = {
     "seats.parquet": (
-        "5f234dad9afc7603e37aa34401ff4210fee31e6448cb8f94d79737a667d1761c"
+        "b6687ac806078cbc5280de07d1d5e7d8938873405785a779ad078066a61fef98"
     ),
     "candidates.parquet": (
-        "0b73373fce5b29292c61399b3308d44b95f850f17127f5c2e6bfef3e162f65ca"
+        "af592cfa5e5c35782c84da40fa5a89166a89e59f1980112d681e0304172915fd"
     ),
     "winners.parquet": (
-        "1f1712f0a91370cb3db6a4b891d419a60cd81a4a7dbc00c57ea04e4fc14aeb13"
+        "acb1f400882c12fa87a05d45cdf4bd63a35b96312f44e70ee65f049ea97161dd"
     ),
 }
 # The sibling's hand review of the mukhiya seats the release names no winner
@@ -207,7 +207,7 @@ def convert(tables):
     for unit in tables["seats.parquet"]:
         key = seat_key(unit)
         tier, tier_local = OFFICES[unit["office"]]
-        stated = text(unit["seat_reservation"])
+        stated = text(unit["reserved_raw"])
         if not stated:
             unstated[tier] += 1
             continue
@@ -325,7 +325,7 @@ def convert(tables):
             "seat_members": [],
         }
         for row in contestants:
-            gender = text(row["gender_raw"])
+            gender = text(row["candidate_woman_raw"])
             seat["seat_members"].append(
                 {
                     **{k: v for k, v in seat.items() if k != "seat_members"},
@@ -335,7 +335,7 @@ def convert(tables):
                     "candidate_gender": gender,
                     "candidate_woman": {"महिला": 1, "पुरुष": 0}.get(gender, ""),
                     "candidate_age": text(row["age"]),
-                    "candidate_caste": text(row["category"]),
+                    "candidate_caste": text(row["candidate_caste_raw"]),
                     "candidate_education": text(row["education"]),
                     "party": "",
                     "votes": row["votes"],

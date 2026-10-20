@@ -61,6 +61,10 @@ def locator(district_code, block, panchayat):
     return "/".join((district_code, block, panchayat))
 
 
+# the sibling's 1/0 *_woman values, as this repository's gender text
+GENDER_OF = {"1": "female", "0": "male"}
+
+
 def text(value):
     if value is None or value != value:  # None or NaN
         return ""
@@ -91,7 +95,10 @@ def district_names(root):
 
 
 def member(c):
-    gender = text(c.get("candidate_gender"))
+    # மற்றவர் ("other") is null in candidate_woman; its printed text says so
+    gender = GENDER_OF.get(text(c.get("candidate_woman"))) or (
+        "other" if text(c.get("candidate_woman_raw")) == "மற்றவர்" else ""
+    )
     return {
         "candidate_no": text(c.get("candidate_no")),
         "candidate_name": text(c.get("candidate_name")),
@@ -105,8 +112,8 @@ def member(c):
 
 
 def seat(r, names, members):
-    caste = text(r.get("caste_reservation"))
-    woman = text(r.get("woman_reserved"))
+    caste = text(r.get("reserved_caste"))
+    woman = text(r.get("reserved_woman"))
     stated = caste != "" and woman != ""
     return {
         "state": STATE,
@@ -119,14 +126,14 @@ def seat(r, names, members):
         "gram_panchayat": text(r.get("gram_panchayat")),
         "gp_no": text(r.get("block_seq")),
         "caste_reservation": caste,
-        "caste_reservation_local": text(r.get("caste_reservation_local")),
+        "caste_reservation_local": text(r.get("reserved_caste_local")),
         "woman_reserved": woman,
         # a blank bracket on the sheet states no reservation; left unknown
         "gender_stated": "1" if stated else "0",
         "reservation": label(caste, woman == "1") if stated else "",
-        "reservation_raw": text(r.get("reservation_raw")),
+        "reservation_raw": text(r.get("reserved_raw")),
         "winner": text(r.get("winner")),
-        "winner_gender": text(r.get("winner_gender")),
+        "winner_gender": GENDER_OF.get(text(r.get("winner_woman")), ""),
         "winner_basis": text(r.get("winner_basis")),
         "votes": text(r.get("votes")),
         "runner_up": text(r.get("runner_up")),
