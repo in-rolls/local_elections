@@ -132,13 +132,6 @@
       "release/heads_2011/union_counts.csv"
     ]
   },
-  "telangana": {
-    "pooled": [
-      "release/gp_head_2019.csv",
-      "release/gp_ward_2019.csv"
-    ],
-    "supplemental": []
-  },
   "west_bengal": {
     "pooled": [
       "release/zp_member_2018.csv"
