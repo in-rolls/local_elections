@@ -3,7 +3,7 @@ PY ?= uv run python
 OCR_PY ?= uv run --no-default-groups --group ocr python
 TABLE_OCR_PY ?= uv run --group table-ocr python
 
-.PHONY: help inventory probe assam assam-2025 assam-2025-extract assam-2025-ocr assam-harvest gujarat gujarat-ocr gujarat-harvest gujarat-validate goa jharkhand jharkhand-ocr jharkhand-bench jharkhand-bench-record jk jk-2010-extract jk-2016-extract ap karnataka maharashtra maharashtra-harvest wb validate test  coverage state-readmes stats worklist master manifest verify release-check expect dictionary contract
+.PHONY: help inventory probe assam assam-2025 assam-2025-extract assam-2025-ocr assam-harvest gujarat gujarat-ocr gujarat-harvest gujarat-validate goa jharkhand jharkhand-ocr jharkhand-bench jharkhand-bench-record jk jk-2010-extract jk-2016-extract ap karnataka maharashtra maharashtra-harvest wb validate test  coverage state-readmes stats worklist master manifest verify release-check expect dictionary contract naming
 
 help:
 	@echo "make inventory   classify the source documents already in data/"
@@ -271,6 +271,10 @@ sources:
 
 state-readmes:
 	$(PY) -m local_elections.tools.build_state_readmes
+
+# Column names against NAMING.md; reports until every repository is renamed.
+naming:
+	$(PY) -m local_elections.tools.naming
 
 expect:
 	$(PY) -m local_elections.common.expectations
