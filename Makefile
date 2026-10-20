@@ -3,7 +3,7 @@ PY ?= uv run python
 OCR_PY ?= uv run --no-default-groups --group ocr python
 TABLE_OCR_PY ?= uv run --group table-ocr python
 
-.PHONY: help inventory probe assam assam-2025 assam-2025-extract assam-2025-ocr assam-harvest gujarat gujarat-ocr gujarat-harvest gujarat-validate goa jharkhand jharkhand-ocr jharkhand-bench jharkhand-bench-record jk jk-2010-extract jk-2016-extract ap karnataka maharashtra maharashtra-harvest telangana wb validate test  coverage state-readmes stats worklist master manifest verify release-check expect dictionary contract
+.PHONY: help inventory probe assam assam-2025 assam-2025-extract assam-2025-ocr assam-harvest gujarat gujarat-ocr gujarat-harvest gujarat-validate goa jharkhand jharkhand-ocr jharkhand-bench jharkhand-bench-record jk jk-2010-extract jk-2016-extract ap karnataka maharashtra maharashtra-harvest wb validate test  coverage state-readmes stats worklist master manifest verify release-check expect dictionary contract
 
 help:
 	@echo "make inventory   classify the source documents already in data/"
@@ -28,7 +28,6 @@ help:
 	@echo "make karnataka   parse + validate Karnataka's held source series"
 	@echo "make maharashtra parse + validate Mumbai (BMC) ward seats"
 	@echo "make maharashtra-harvest  fetch the Karekurve-Ramachandra & Lee Dataverse deposit"
-	@echo "make telangana   parse + validate Telangana"
 	@echo "make wb          parse + validate West Bengal"
 	@echo "make validate    run every state validator without reparsing"
 	@echo "make coverage    regenerate the readme table and check every link"
@@ -144,10 +143,6 @@ maharashtra:
 maharashtra-harvest:
 	$(PY) -m local_elections.states.maharashtra.harvest
 
-telangana:
-	$(PY) -m local_elections.states.telangana.parse
-	$(PY) -m local_elections.states.telangana.validate
-
 wb:
 	$(PY) -m local_elections.states.wb.parse
 	$(PY) -m local_elections.states.wb.validate
@@ -218,7 +213,6 @@ validate:
 	$(PY) -m local_elections.states.jk.validate
 	$(PY) -m local_elections.states.karnataka.validate
 	$(PY) -m local_elections.states.maharashtra.validate
-	$(PY) -m local_elections.states.telangana.validate
 	$(PY) -m local_elections.states.wb.validate
 
 master:
