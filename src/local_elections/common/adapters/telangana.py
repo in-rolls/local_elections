@@ -3,9 +3,10 @@
 Two elections, both from the State Election Commission's own "Know your
 Public Representative - Rural" reports:
 
-- 2019: the elected listing (12,018 seats) with each seat's reservation code.
-  It is the same file this repository parsed into data/telangana/, which the
-  sibling now supersedes; the in-tree ward slice stays.
+- 2019: the elected sarpanch listing (12,018 seats) and the ward-member
+  listing (49,823 seats, 30 district files), each with the seat's reservation
+  code. This repository used to parse both from its own copies in
+  data/telangana/; the sibling now holds and parses them.
 - 2025: the per-mandal "Only Elected" and "All Contested" reports (12,735
   GPs, the commission's full count), with reservation, winner and votes. 33
   GPs have no declared result (no nominations, no result, or a court stay):
@@ -38,19 +39,21 @@ STATE = "Telangana"
 
 YEARS = ("2019", "2025")
 RESULTS = "data/{year}/sarpanch_results.parquet"
+WARDS = "data/2019/ward_results.parquet"
 LINKS = {("2019", "2025"): "data/linkage/gp_2019_2025.parquet"}
 INFERRED = "data/inferred/winner_female_probability_{year}.parquet"
 
 DECLARED = {
     "data/2019/sarpanch_results.parquet": 12018,
     "data/2025/sarpanch_results.parquet": 12735,
+    "data/2019/ward_results.parquet": 49823,
     "data/linkage/gp_2019_2025.parquet": 11464,
     "data/inferred/winner_female_probability_2019.parquet": 12018,
     "data/inferred/winner_female_probability_2025.parquet": 12702,
 }
 
 # This repository's own 2019 sarpanch parse, replaced by the sibling's.
-SUPERSEDES = {("Telangana", "2019", "gp_head")}
+SUPERSEDES = {("Telangana", "2019", "gp_head"), ("Telangana", "2019", "gp_ward")}
 
 CASTES = {"SC", "ST", "BC", "NONE"}
 
@@ -109,7 +112,7 @@ def seat(r, inferred):
     row = {
         "state": STATE,
         "year": text(r.get("year")),
-        "tier": "gp_head",
+        "tier": text(r.get("tier")) or "gp_head",
         "tier_local": text(r.get("tier_local")),
         "district": text(r.get("district")),
         "block": text(r.get("block")),
@@ -126,6 +129,9 @@ def seat(r, inferred):
         "source_path": text(r.get("source_path")),
         "source_locator": locator(r.get("source_path"), r.get("source_locator")),
     }
+    if row["tier"] == "gp_ward":
+        row["ward_no"] = text(r.get("ward_no"))
+        row["unopposed"] = text(r.get("unopposed"))
     if row["year"] == "2025":
         # the commission's codes; a GP code is unique only within its mandal
         row["gp_no"] = f"{text(r.get('mandal_id'))}/{text(r.get('gp_code'))}"
@@ -146,6 +152,15 @@ def slices(root):
             "dataset_id": f"telangana/gp_head/{year}",
             "state": STATE,
             "rows": [seat(r, inferred) for r in results],
+            "provenance_level": "page",
+            "unit_of_observation": "seat",
+        }
+    wards = read(root, WARDS)
+    if wards is not None:
+        yield {
+            "dataset_id": "telangana/gp_ward/2019",
+            "state": STATE,
+            "rows": [seat(r, {}) for r in wards],
             "provenance_level": "page",
             "unit_of_observation": "seat",
         }

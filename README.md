@@ -50,10 +50,10 @@ into a national missing-seat total.
 
 | | Entries | Rows affected |
 |---|---|---|
-| [Open gaps](WORKLIST.md) | 72 | 86,965 |
+| [Open gaps](WORKLIST.md) | 76 | 86,948 |
 | [Blocked](WORKLIST.md) | 0 | 0 |
 | [Parked](WORKLIST.md) | 9 | 1,653 |
-| [Undetermined](WORKLIST.md) | 26 | 15,644 |
+| [Undetermined](WORKLIST.md) | 28 | 15,649 |
 | [Accepted properties of the sources](WORKLIST.md) | 24 | 141,030 |
 
 <!-- worklist:end -->
@@ -133,8 +133,6 @@ are still in the legacy font they were printed in.
 | Karnataka | 2016 | `zp_member` | 888 | 48% | 26 | — | — | [data/karnataka/](data/karnataka/) |
 | Maharashtra | 2012 | `ulb_ward` | 227 | 51% | 1 | — | — | [data/maharashtra/](data/maharashtra/) |
 | Maharashtra | 2017 | `ulb_ward` | 227 | 50% | 1 | — | — | [data/maharashtra/](data/maharashtra/) |
-| Telangana | 2019 | `gp_head` | 12,018 | 50% | 30 | 94% of 12,728 seats | — | [data/telangana/](data/telangana/) |
-| Telangana | 2019 | `gp_ward` | 49,823 | 51% | 30 | 44% of 112,242 seats | — | [data/telangana/](data/telangana/) |
 | West Bengal | 2018 | `zp_member` | 825 | 49% | 20 | — | no winner published | [data/wb/](data/wb/) |
 
 <!-- slices:end -->
@@ -187,7 +185,7 @@ seats. The state readme linked in `Where` gives the file-level inventory.
 | Rajasthan | gp_head, gp_ward, block_member, zp_member | 2005, 2010, 2015, 2020, 2021, 2022 | - | parsed | 162,502 rural seat events, 68,202 candidates, and 13,473 GP-event nomination summaries are standardized; the 2015 Panchayat Samiti book and the 2015 and 2020 Zila Parishad books remain unparsed; municipal material is held outside the rural master | [local_elections_rajasthan](https://github.com/in-rolls/local_elections_rajasthan) |
 | Sikkim | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Tamil Nadu | GP-president office / amendment operation | 2001, 2011 | - | source-specific exports | 2011 GP-president roster and 2001 amendment operations have separate source-specific exports; review earlier scans and subsequent amendments; observed GP-president sex remains unavailable | [data/tn/](data/tn/); separate from pooled schema |
-| Telangana | gp_head, gp_ward | 2019 | 61,841 | parsed | the 4 unlinked PDFs are urban reservation orders or election manuals, not missing rural seats | [data/telangana/](data/telangana/) |
+| Telangana | gp_head, gp_ward | 2019, 2025 | - | parsed | 24,753 sarpanch seats (2019 and 2025), 49,823 2019 ward seats and 11,464 seat links are standardized; 2025 ward seats are not collected; 2020-21 municipal results are held in the sibling but not parsed | [local_elections_telangana](https://github.com/in-rolls/local_elections_telangana) |
 | Tripura | - | - | - | not held | acquire and assess a seat-level rural source | - |
 | Uttar Pradesh | gp_head | 2005, 2010, 2015, 2021 | - | parsed | see sibling repository | [local_elections_up](https://github.com/in-rolls/local_elections_up) |
 | Uttarakhand | gp_head, block_member, zp_member | 2008, 2014, 2019 | - | parsed | see sibling repository | [local_elections_uttarakhand](https://github.com/in-rolls/local_elections_uttarakhand) |

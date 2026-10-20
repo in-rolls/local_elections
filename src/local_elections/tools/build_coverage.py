@@ -133,6 +133,20 @@ SIBLINGS = {
         "remaining": "the 2015 Panchayat Samiti book and the 2015 and 2020 "
         "Zila Parishad books remain unparsed; municipal material is held "
         "outside the rural master",
+    },    "Telangana": {
+        "repo": "local_elections_telangana",
+        "years": "2019, 2025",
+        "tiers": "gp_head, gp_ward",
+        "files": [
+            "data/2019/sarpanch_results.parquet",
+            "data/2019/ward_results.parquet",
+            "data/2025/sarpanch_results.parquet",
+            "data/linkage/gp_2019_2025.parquet",
+        ],
+        "standardized": "24,753 sarpanch seats (2019 and 2025), 49,823 2019 "
+        "ward seats and 11,464 seat links are standardized",
+        "remaining": "2025 ward seats are not collected; 2020-21 municipal "
+        "results are held in the sibling but not parsed",
     },
 }
 
@@ -140,7 +154,6 @@ SIBLINGS = {
 # a different thing from SIBLINGS and must not share a label with it: these are
 # open work, not coverage already achieved.
 LEGACY = {
-    "Telangana": ("gram panchayat + ward 2019, municipal 2020-21", "telangana"),
     "West Bengal": ("2018 delimitation-and-reservation gazettes, 20 districts", "wb"),
     "Karnataka": ("gram panchayat head, 1993/2000/2002/2005/2007", "karnataka"),
 }
