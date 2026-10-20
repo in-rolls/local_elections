@@ -189,11 +189,13 @@
     }
   },
   "local_elections_telangana": {
-    "ref": "ce37369bed28143b1af898c7518d10235d04ddc6",
+    "ref": "535ddd32a93e6c76dbb052cce5da21b857e11caf",
     "files": {
       "data/2019/sarpanch_results.parquet": "5f3feeb7f61a0dccc1203ef4295de9d2567163339648e702c592ca022328d720",
       "data/2025/sarpanch_results.parquet": "ebfa1647820de6cedb74780bdc67e8a4323c24c9f0ec663ffe6bd421814f7c88",
-      "data/linkage/gp_2019_2025.parquet": "5aadd70d572176c5182d70e2e1fcf9b449b49fa1cf96f2cff67b474ec43e8ff9"
+      "data/linkage/gp_2019_2025.parquet": "5aadd70d572176c5182d70e2e1fcf9b449b49fa1cf96f2cff67b474ec43e8ff9",
+      "data/inferred/winner_female_probability_2019.parquet": "04a9f4db0bd69e0eea3dc6c252c420f0350c9ba22921496bad564ae9650b5889",
+      "data/inferred/winner_female_probability_2025.parquet": "09b3927190f8cf4fd596ccfeafa4edf458f28fee83d3de4559325ed5a6bff24a"
     }
   }
 }

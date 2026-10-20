@@ -11,8 +11,10 @@ Public Representative - Rural" reports:
   GPs have no declared result (no nominations, no result, or a court stay):
   their seats carry a reservation and no winner.
 
-Neither year prints the winner's sex. The seat's reservation is a label only
-where it reserves the seat for a woman.
+Neither year prints the winner's sex. Where the sibling has inferred it from
+the name (naampy and fixed name endings, calibrated on Telangana assembly
+candidates' recorded sex), the probability travels under its own name
+(winner_female_probability_from_name); winner_gender stays blank.
 
 Women's seats are half of each category's seats per mandal, rounded down, in
 2025 (45.9% statewide); 2019 sits at 50.0%.
@@ -37,11 +39,14 @@ STATE = "Telangana"
 YEARS = ("2019", "2025")
 RESULTS = "data/{year}/sarpanch_results.parquet"
 LINKS = {("2019", "2025"): "data/linkage/gp_2019_2025.parquet"}
+INFERRED = "data/inferred/winner_female_probability_{year}.parquet"
 
 DECLARED = {
     "data/2019/sarpanch_results.parquet": 12018,
     "data/2025/sarpanch_results.parquet": 12735,
     "data/linkage/gp_2019_2025.parquet": 11464,
+    "data/inferred/winner_female_probability_2019.parquet": 12018,
+    "data/inferred/winner_female_probability_2025.parquet": 12702,
 }
 
 # This repository's own 2019 sarpanch parse, replaced by the sibling's.
@@ -79,7 +84,23 @@ def read(root, relative):
     return rows
 
 
-def seat(r):
+def inferred_sex(root, year):
+    """{seat locator: probability fields}, from the sibling's inferred file."""
+    out = {}
+    for r in read(root, INFERRED.format(year=year)) or []:
+        key = locator(r["source_path"], r["source_locator"])
+        if key in out:
+            raise SystemExit(f"{REPO}: {year} inferred sex repeats {key}")
+        out[key] = {
+            "winner_female_probability_from_name": (
+                f"{r['winner_female_probability_from_name']:.6f}"
+            ),
+            "winner_female_probability_method": r["winner_female_probability_method"],
+        }
+    return out
+
+
+def seat(r, inferred):
     caste = text(r.get("caste_reservation"))
     caste = caste if caste in CASTES else ""
     woman = text(r.get("woman_reserved"))
@@ -110,6 +131,7 @@ def seat(r):
         row["gp_no"] = f"{text(r.get('mandal_id'))}/{text(r.get('gp_code'))}"
         row["unopposed"] = text(r.get("unopposed"))
         row["total_valid_votes"] = text(r.get("total_valid_votes"))
+    row.update(inferred.get(row["source_locator"], {}))
     return row
 
 
@@ -119,10 +141,11 @@ def slices(root):
         results = read(root, RESULTS.format(year=year))
         if results is None:
             continue
+        inferred = inferred_sex(root, year)
         yield {
             "dataset_id": f"telangana/gp_head/{year}",
             "state": STATE,
-            "rows": [seat(r) for r in results],
+            "rows": [seat(r, inferred) for r in results],
             "provenance_level": "page",
             "unit_of_observation": "seat",
         }
