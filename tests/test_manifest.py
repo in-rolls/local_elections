@@ -91,9 +91,11 @@ def test_the_manifest_records_the_exact_column_order():
     from local_elections.tools import build_manifest
 
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
-    assert manifest["schema_version"] == build_manifest.SCHEMA_VERSION == 4
-    assert manifest["master_columns"] == M.MASTER_COLUMNS
-    assert manifest["candidate_columns"] == M.CANDIDATE_COLUMNS
+    assert manifest["schema_version"] == build_manifest.SCHEMA_VERSION == 5
+    assert manifest["master_columns"] == [M.published(c) for c in M.MASTER_COLUMNS]
+    assert manifest["candidate_columns"] == [
+        M.published(c) for c in M.CANDIDATE_COLUMNS
+    ]
 
 
 def test_every_recorded_digest_matches_the_file():

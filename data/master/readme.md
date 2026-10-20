@@ -62,12 +62,12 @@ assert len(seats) == 1543813
 ## Three columns where one would have lost something
 
 - **`tier` and `tier_local`** — states print the same office under different names, and worse, the same name means different offices. Bihar's *sarpanch* heads a village court, not the panchayat. Group on `tier`; check against a gazette with `tier_local`.
-- **`caste_reservation`, `caste_reservation_local` and `caste_scheme`** — the fold to `BC` is lossy and is not the same fold everywhere. Haryana reserves only Block A of its Backward Classes list and prints `BC_A`; Kerala reserves no backward-class seat at all, so zero BC rows there is the law rather than a parsing failure. `caste_scheme` is what makes those distinguishable.
+- **`reserved_caste`, `reserved_caste_local` and `reserved_caste_scheme`** — the fold to `BC` is lossy and is not the same fold everywhere. Haryana reserves only Block A of its Backward Classes list and prints `BC_A`; Kerala reserves no backward-class seat at all, so zero BC rows there is the law rather than a parsing failure. `reserved_caste_scheme` is what makes those distinguishable.
 - **`unit_of_observation` and `seat_candidates`** — some sources are candidate-level and are collapsed to seats. A row that came from a collapse says so, with the denominator visible.
 
 ## Before you use it
 
-`quality_flags` carries what a row cannot be trusted for: `ocr_repaired`, `gender_not_stated`, `ward_list_incomplete`, `winner_inferred`, `winner_candidate_ambiguous`, `winner_category_sex_disagree`, `winner_name_missing`, `seat_number_inferred`, `reservation_control_disagree`, `margin_not_below_votes`, `name_untransliterated`, and `printings_disagree`. `gender_not_stated` in particular means `woman_reserved=0` is a default rather than a reading.
+`quality_flags` carries what a row cannot be trusted for: `ocr_repaired`, `gender_not_stated`, `ward_list_incomplete`, `winner_inferred`, `winner_candidate_ambiguous`, `winner_category_sex_disagree`, `winner_name_missing`, `seat_number_inferred`, `reservation_control_disagree`, `margin_not_below_votes`, `name_untransliterated`, and `printings_disagree`. `gender_not_stated` in particular means `reserved_woman=0` is a default rather than a reading.
 
 `provenance_level` says how far back a row can be traced:
 
