@@ -20,7 +20,7 @@ def main():
         validation.apply(
             report,
             validation.DatasetExpectation(
-                path=DATA / f"{tier}_{YEAR}.csv",
+                path=DATA / "release" / f"{tier}_{YEAR}.csv",
                 state="Telangana",
                 year=YEAR,
                 tier=tier,

@@ -28,15 +28,15 @@ Every file is written twice: `.csv` for a spreadsheet, `.jsonl` for a reader tha
 
 | File | Rows | Columns | Source documents |
 |---|---|---|---|
-| [`block_head_reservation_2025.csv`](block_head_reservation_2025.csv) | 13 | 24 | 4 |
-| [`block_member_reservation_2025.csv`](block_member_reservation_2025.csv) | 127 | 24 | 4 |
-| [`block_vice_head_reservation_2025.csv`](block_vice_head_reservation_2025.csv) | 13 | 24 | 4 |
-| [`chairperson_reservation_2020.csv`](chairperson_reservation_2020.csv) | 46 | 19 | 1 |
-| [`gp_head_reservation_2025.csv`](gp_head_reservation_2025.csv) | 124 | 24 | 4 |
-| [`gp_vice_head_reservation_2025.csv`](gp_vice_head_reservation_2025.csv) | 125 | 24 | 4 |
-| [`gp_ward_reservation_2025.csv`](gp_ward_reservation_2025.csv) | 1,254 | 24 | 4 |
-| [`ward_reservation_2020.csv`](ward_reservation_2020.csv) | 564 | 21 | 1 |
-| [`zp_member_reservation_2025.csv`](zp_member_reservation_2025.csv) | 22 | 24 | 4 |
+| [`release/block_head_reservation_2025.csv`](release/block_head_reservation_2025.csv) | 13 | 24 | 4 |
+| [`release/block_member_reservation_2025.csv`](release/block_member_reservation_2025.csv) | 127 | 24 | 4 |
+| [`release/block_vice_head_reservation_2025.csv`](release/block_vice_head_reservation_2025.csv) | 13 | 24 | 4 |
+| [`release/chairperson_reservation_2020.csv`](release/chairperson_reservation_2020.csv) | 46 | 19 | 1 |
+| [`release/gp_head_reservation_2025.csv`](release/gp_head_reservation_2025.csv) | 124 | 24 | 4 |
+| [`release/gp_vice_head_reservation_2025.csv`](release/gp_vice_head_reservation_2025.csv) | 125 | 24 | 4 |
+| [`release/gp_ward_reservation_2025.csv`](release/gp_ward_reservation_2025.csv) | 1,254 | 24 | 4 |
+| [`release/ward_reservation_2020.csv`](release/ward_reservation_2020.csv) | 564 | 21 | 1 |
+| [`release/zp_member_reservation_2025.csv`](release/zp_member_reservation_2025.csv) | 22 | 24 | 4 |
 
 ## Stats
 
@@ -94,14 +94,14 @@ Every row carries `source_path` and `source_page` — the document it was read f
 
 All 5 cited documents are present.
 
-Inventory for this directory: 31 scan, 21 other, 13 tabular, 1 digital-text, 1,026 pages total.
+Inventory for this directory: 31 scan, 2 tabular, 1 digital-text, 1,026 pages total.
 
 ## Acquired sources outside the parsed slices
 
 These held PDFs are not cited by any parsed row. A source series remains distinct from the state-level status, so parsed work in one year or government level cannot hide unparsed holdings in another.
 
-- `2024_delimitation`: 4 PDFs
-- `2025_reservation`: 23 PDFs
+- `raw/2024_delimitation`: 4 PDFs
+- `raw/2025_reservation`: 23 PDFs
 
 | Source series | Year | Government level | Tier | Documents | Format | Landing page |
 |---|---|---|---|---|---|---|
@@ -155,4 +155,4 @@ Every state runs a shared battery first — the seat key is unique, the reservat
 
 Each check declares what it **appeals to**. Only an external appeal - a published total, a statutory share, a population - reliably catches silent corruption; an internal check confirms the file agrees with itself, which it does whether or not a category was misread.
 
-Column meanings are in [../../DICTIONARY.md](../../DICTIONARY.md). Expectation violations across every state are triaged into [../expectations_report.csv](../expectations_report.csv).
+Column meanings are in [../../docs/dictionary.md](../../docs/dictionary.md). Expectation violations across every state are triaged into [../stats/expectations_report.csv](../stats/expectations_report.csv).

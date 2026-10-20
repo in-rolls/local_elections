@@ -8,8 +8,8 @@ import statistics
 
 from local_elections.paths import ROOT
 
-TEXT = ROOT / "data" / "ap" / "extracted" / "kdp_res_gp.txt"
-WORDS = ROOT / "data" / "ap" / "extracted" / "kdp_res_gp.words.jsonl"
+TEXT = ROOT / "data/andhra_pradesh/interim/extracted/kdp_res_gp.txt"
+WORDS = ROOT / "data/andhra_pradesh/interim/extracted/kdp_res_gp.words.jsonl"
 
 MAX_WARDS = 20
 ROW_TOLERANCE = 5.5

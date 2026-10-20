@@ -10,11 +10,11 @@ import json
 from html.parser import HTMLParser
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path
 from local_elections.states.wb.parse_results import write_table
 
-SOURCE = ROOT / "data/wb/gp_source_search/hooghly_2003_total.htm"
-OUT = ROOT / "data/wb/derived/hooghly_2003"
+SOURCE = ROOT / "data/west_bengal/discovery/gp_source_search/hooghly_2003_total.htm"
+OUT = ROOT / "data/west_bengal/release/hooghly_2003"
 URL = "https://web.archive.org/web/20041117101744/http://hooghly.nic.in:80/hzp/Panch_election1/total.htm"
 PARTIES = ["AIFB", "AITC", "BJP", "BSP", "CPI", "CPI(M)", "INC", "MFB", "RSP", "OTHERS"]
 
@@ -107,7 +107,7 @@ def main():
     digest = hashlib.sha256(raw).hexdigest()
     for row in rows:
         row.update(
-            source_path=str(SOURCE.relative_to(ROOT)),
+            source_path=historical_path(SOURCE, ROOT),
             source_sha256=digest,
             source_url=URL,
         )

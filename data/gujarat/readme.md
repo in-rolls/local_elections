@@ -19,8 +19,8 @@ Every file is written twice: `.csv` for a spreadsheet, `.jsonl` for a reader tha
 
 | File | Rows | Columns | Source documents |
 |---|---|---|---|
-| [`block_member_reservation_2020.csv`](block_member_reservation_2020.csv) | 646 | 28 | 29 |
-| [`zp_member_reservation_2020.csv`](zp_member_reservation_2020.csv) | 532 | 28 | 16 |
+| [`release/block_member_reservation_2020.csv`](release/block_member_reservation_2020.csv) | 646 | 28 | 29 |
+| [`release/zp_member_reservation_2020.csv`](release/zp_member_reservation_2020.csv) | 532 | 28 | 16 |
 
 ## Stats
 
@@ -52,7 +52,7 @@ Every row carries `source_path` and `source_page` — the document it was read f
 
 All 45 cited documents are present.
 
-Inventory for this directory: 48 other, 45 encoded-text, 4 tabular, 605 pages total.
+Inventory for this directory: 45 encoded-text, 1 tabular, 605 pages total.
 
 ## Reproducing
 
@@ -94,4 +94,4 @@ Every state runs a shared battery first — the seat key is unique, the reservat
 
 Each check declares what it **appeals to**. Only an external appeal - a published total, a statutory share, a population - reliably catches silent corruption; an internal check confirms the file agrees with itself, which it does whether or not a category was misread.
 
-Column meanings are in [../../DICTIONARY.md](../../DICTIONARY.md). Expectation violations across every state are triaged into [../expectations_report.csv](../expectations_report.csv).
+Column meanings are in [../../docs/dictionary.md](../../docs/dictionary.md). Expectation violations across every state are triaged into [../stats/expectations_report.csv](../stats/expectations_report.csv).

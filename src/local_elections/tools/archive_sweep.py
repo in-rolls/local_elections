@@ -36,8 +36,8 @@ from local_elections.common import fetch
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-OUT = ROOT / "data" / "archive_inventory.csv"
-HOSTS = ROOT / "data" / "archive_hosts.csv"
+OUT = ROOT / "data/source_search/archive_inventory.csv"
+HOSTS = ROOT / "data/source_search/archive_hosts.csv"
 
 COLUMNS = [
     "state",

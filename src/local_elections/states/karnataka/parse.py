@@ -36,7 +36,7 @@ from local_elections.common.normalize import label
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-SOURCE = "data/karnataka/Karnataka_GP_ReservationHistory.dta"
+SOURCE = "data/karnataka/raw/Karnataka_GP_ReservationHistory.dta"
 OUT = ROOT / "data" / "karnataka"
 
 YEARS = ["1993", "2000", "2002", "2005", "2007"]
@@ -153,11 +153,14 @@ def main():
             "the source changes"
         ) from exc
 
-    frame = pandas.read_stata(ROOT / SOURCE, convert_categoricals=False)
+    frame = pandas.read_stata(
+        ROOT / "data/karnataka/raw/Karnataka_GP_ReservationHistory.dta",
+        convert_categoricals=False,
+    )
     OUT.mkdir(parents=True, exist_ok=True)
     for year in YEARS:
         rows, unreadable = rows_for(frame, year)
-        path = OUT / f"gp_head_{year}.csv"
+        path = OUT / "release" / f"gp_head_{year}.csv"
         with path.open("w", newline="", encoding="utf-8") as fh:
             writer = csv.DictWriter(
                 fh, fieldnames=COLUMNS, extrasaction="ignore", lineterminator="\n"

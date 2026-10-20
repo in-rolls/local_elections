@@ -17,10 +17,10 @@ import pdfplumber
 from PIL import Image
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 
-BASE = ROOT / "data/wb/derived"
-OUT = BASE / "qwen_review/expanded"
+BASE = ROOT / "data/west_bengal/release"
+OUT = ROOT / "data/west_bengal/interim/qwen_review/expanded"
 
 
 def read_csv(path):
@@ -206,9 +206,9 @@ def main():
     else:
         excluded = set()
         for path in [
-            BASE / "qwen_review/pilot_manifest.json",
-            BASE / "qwen_review/highres_manifest.json",
-            BASE / "qwen_review/s24_targeted/manifest.json",
+            ROOT / "data/west_bengal/interim/qwen_review/pilot_manifest.json",
+            ROOT / "data/west_bengal/interim/qwen_review/highres_manifest.json",
+            ROOT / "data/west_bengal/interim/qwen_review/s24_targeted/manifest.json",
         ]:
             if path.exists():
                 excluded.update(r["row_id"] for r in json.loads(path.read_text()))
@@ -245,7 +245,7 @@ def main():
     pdfs = {}
     try:
         for row in sample:
-            path = ROOT / row["source_path"]
+            path = resolve_path(row["source_path"], ROOT)
             if path not in pdfs:
                 if (
                     hashlib.sha256(path.read_bytes()).hexdigest()

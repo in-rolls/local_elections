@@ -1,6 +1,7 @@
 """Build a reservation-only search matrix using historical district boundaries.
 
-Writes data/wb/vintage_search/reservation_gaps.csv and .parquet from the
+Writes data/west_bengal/discovery/vintage_search/reservation_gaps.csv and .parquet
+from the
 curated holdings.csv and the Birbhum observation audit. Results tables and
 district/block reservation percentages cannot fill a named-GP reservation gap.
 """
@@ -12,11 +13,11 @@ from collections import defaultdict
 import pandas as pd
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path, resolve_path
 from local_elections.states.wb.parse_birbhum import BASE, OUT
 
 YEARS = (1978, 1983, 1988, 1993, 1998, 2003, 2008, 2013, 2018, 2023)
-DERIVED = ROOT / "data/wb/derived"
+DERIVED = ROOT / "data/west_bengal/release"
 
 
 def parsed_office_coverage():
@@ -82,7 +83,7 @@ def parsed_office_coverage():
                     "resolved_name_visually_reviewed": bool(name)
                     and visually_reviewed
                     and not name_unresolved,
-                    "output": str(path.relative_to(ROOT)),
+                    "output": historical_path(path, ROOT),
                 }
             )
     result = []
@@ -163,7 +164,9 @@ def build():
     office_coverage = parsed_office_coverage()
     for r in court.to_dict("records"):
         if (
-            hashlib.sha256((ROOT / r["source_file"]).read_bytes()).hexdigest()
+            hashlib.sha256(
+                (resolve_path(r["source_file"], ROOT)).read_bytes()
+            ).hexdigest()
             != r["source_sha256"]
         ):
             raise ValueError("Court source checksum changed")
@@ -228,7 +231,7 @@ def build():
                 row.update(
                     head_source_status="judgment_partial_year_inferred",
                     head_gp_judgment_evidence=int(court_subset.gp_raw.nunique()),
-                    source_reference="data/wb/vintage_search/court_observations.jsonl",
+                    source_reference="data/west_bengal/discovery/vintage_search/court_observations.jsonl",
                     next_action="Recover dated district office-reservation orders",
                     notes=(
                         "Named Pradhan category stated in judgment; cycle inferred. "
@@ -246,7 +249,7 @@ def build():
                             "parsed_office_sources_review_status_varies"
                         )
                         row["source_reference"] += (
-                            ";data/wb/vintage_search/office_parsing_by_source.csv"
+                            ";data/west_bengal/discovery/vintage_search/office_parsing_by_source.csv"
                         )
                         row["next_action"] = (
                             "Review source-pinned office readings; "

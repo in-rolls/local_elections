@@ -27,10 +27,10 @@ from local_elections.common import datasets as DS
 from local_elections.common import dictionary as D
 from local_elections.common import reference
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 
 DATA = ROOT / "data"
-REPORT = DATA / "expectations_report.csv"
+REPORT = DATA / "stats/expectations_report.csv"
 
 REPORT_COLUMNS = [
     "severity",
@@ -165,7 +165,7 @@ def check_column(findings, path, rows, name, values):
             severity, path, "column", name, f"outside {sorted(allowed)[:6]}", bad, total
         )
     elif dtype == "path":
-        missing = [(r, v) for r, v in values if not (ROOT / v).exists()]
+        missing = [(r, v) for r, v in values if not (resolve_path(v, ROOT)).exists()]
         findings.add(
             severity, path, "column", name, "document not on disk", missing, total
         )

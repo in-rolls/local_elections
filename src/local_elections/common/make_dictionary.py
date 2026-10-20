@@ -1,4 +1,4 @@
-"""Generate DICTIONARY.md from dictionary.py, so the docs cannot drift.
+"""Generate docs/dictionary.md from dictionary.py, so the docs cannot drift.
 
 The readme in this repo drifted twice while it was written by hand. The column
 rules are checked by expectations.py and described here from the same
@@ -11,15 +11,16 @@ from local_elections.common import dictionary as D
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-OUT = ROOT / "DICTIONARY.md"
+OUT = ROOT / "docs/dictionary.md"
 
 HEAD = """# Data dictionary
 
-Generated from `scripts/common/dictionary.py` by `make dictionary` — edit the
+Generated from `src/local_elections/common/dictionary.py` by `make dictionary` — edit
+the
 declarations, not this file.
 
 Every column is checked against these rules by `make expect`, which writes
-`data/expectations_report.csv`: one row per violated expectation, with the count
+`data/stats/expectations_report.csv`: one row per violated expectation, with the count
 and the source document and page of the first offender, so a finding points at a
 gazette page rather than at a number.
 

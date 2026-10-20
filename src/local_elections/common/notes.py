@@ -22,7 +22,7 @@ hand; asserting it as a source property is asserting something nobody checked.
 
 Every note is detected from the rows, so a note cannot be marked done while the
 condition still holds, and cannot linger once it stops holding. Fix Jharkhand's
-image-only column and the line disappears from WORKLIST.md on the next build.
+image-only column and the line disappears from docs/worklist.md on the next build.
 """
 
 import collections

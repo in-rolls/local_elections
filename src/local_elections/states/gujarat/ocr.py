@@ -22,7 +22,7 @@ from local_elections.paths import ROOT
 from local_elections.states.gujarat import controls, geography, harvest
 
 LOGGER = get_logger(__name__)
-OCR = ROOT / "data" / "gujarat" / "ocr"
+OCR = ROOT / "data/gujarat/interim/ocr"
 DISCOVERY_DPI = 150
 OCR_DPI = 300
 ROSTER_PAGE_OVERRIDES = {

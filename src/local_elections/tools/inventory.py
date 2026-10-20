@@ -9,7 +9,7 @@ an image. The Haryana build turned entirely on this - its notifications were
 digitally generated text, which is why no OCR was needed. Almost everything else
 published by Indian states is a scan.
 
-Writes data/inventory.csv, one row per document.
+Writes data/source_search/inventory.csv, one row per document.
 """
 
 import argparse
@@ -18,6 +18,7 @@ import csv
 import re
 import subprocess
 
+from local_elections.common import datasets
 from local_elections.common.runlog import command, get_logger
 from local_elections.paths import ROOT
 
@@ -132,22 +133,21 @@ def classify(path):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--state", help="limit to one state directory")
-    ap.add_argument("--out", default=str(DATA / "inventory.csv"))
+    ap.add_argument("--out", default=str(DATA / "source_search/inventory.csv"))
     args = ap.parse_args()
 
-    states = (
-        [DATA / args.state]
-        if args.state
-        else sorted(p for p in DATA.iterdir() if p.is_dir())
-    )
+    states = [DATA / args.state] if args.state else datasets.state_directories()
     formats = reviewed_formats()
 
     rows = []
     for state_dir in states:
         files = [
             p
-            for p in sorted(state_dir.rglob("*"))
-            if p.is_file() and p.name != ".DS_Store"
+            for area in ("raw", "discovery")
+            for p in sorted((state_dir / area).rglob("*"))
+            if p.is_file()
+            and p.name != ".DS_Store"
+            and (p.suffix.lower() != ".md" or "raw" in p.relative_to(state_dir).parts)
         ]
         for path in files:
             row = {"state": state_dir.name, "path": str(path.relative_to(DATA))}

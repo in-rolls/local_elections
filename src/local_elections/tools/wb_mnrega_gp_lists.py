@@ -12,7 +12,7 @@ settles the join at the same time.
 The R3 files are the published copies in doi:10.7910/DVN/ZHF9WC. They are
 fetched by datafile id, checked against the md5 Dataverse records, cached under
 INDIA_DATA_HOME, and never committed. Only the West Bengal GP rows are kept, in
-data/wb/reference/mnrega_gp_lists.csv.
+data/west_bengal/interim/reference/mnrega_gp_lists.csv.
 """
 
 import argparse
@@ -29,7 +29,7 @@ import requests
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-OUT = ROOT / "data" / "wb" / "reference" / "mnrega_gp_lists.csv"
+OUT = ROOT / "data/west_bengal/interim/reference/mnrega_gp_lists.csv"
 
 DOI = "doi:10.7910/DVN/ZHF9WC"
 

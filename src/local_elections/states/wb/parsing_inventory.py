@@ -12,11 +12,11 @@ from collections import Counter, defaultdict
 import pyarrow.parquet as pq
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path, resolve_path
 from local_elections.states.wb.parse_results import write_table
 
-BASE = ROOT / "data/wb/derived"
-OUT = BASE / "parsing_inventory"
+BASE = ROOT / "data/west_bengal/release"
+OUT = ROOT / "data/west_bengal/interim/parsing_inventory"
 
 
 def read(path):
@@ -109,7 +109,7 @@ def build_inventory(sources, native, audits, base_sources, reference_sources=())
             {},
         )
         cached = next((alias for alias in aliases if alias.get("cache")), None)
-        document = (read(ROOT / cached["cache"]) or {}) if cached else {}
+        document = (read(resolve_path(cached["cache"], ROOT)) or {}) if cached else {}
         extracted = {p["page"]: p for p in document.get("pages", [])}
         expected = max(
             int(document.get("expected_pages") or 0),
@@ -187,7 +187,7 @@ def raw_pdf_coverage(documents):
     known = {row["source_sha256"] for row in documents}
     files = [
         path
-        for path in (ROOT / "data/wb").rglob("*")
+        for path in (ROOT / "data/west_bengal").rglob("*")
         if path.is_file() and path.suffix.lower() == ".pdf"
     ]
     hashes = {path: hashlib.sha256(path.read_bytes()).hexdigest() for path in files}
@@ -195,7 +195,7 @@ def raw_pdf_coverage(documents):
         "physical_pdf_paths_on_disk": len(files),
         "unique_pdf_hashes_on_disk": len(set(hashes.values())),
         "unindexed_pdf_paths": [
-            str(path.relative_to(ROOT))
+            historical_path(path, ROOT)
             for path, sha in hashes.items()
             if sha not in known
         ],
@@ -205,8 +205,10 @@ def raw_pdf_coverage(documents):
 
 @command("validate", state="West Bengal", source="all_wb_pdf_inventory")
 def main():
-    sources = read(ROOT / "data/wb/gp_source_search/manual_entry_index.csv")
-    native = read(BASE / "native/index.json")
+    sources = read(
+        ROOT / "data/west_bengal/discovery/gp_source_search/manual_entry_index.csv"
+    )
+    native = read(ROOT / "data/west_bengal/interim/native/index.json")
     base_sources = read(BASE / "base_drafts/sources.csv")
     reference_sources = read(BASE / "reference_tables/additional_sources.json")
     pages, file_rows = build_inventory(
@@ -219,7 +221,7 @@ def main():
         table = pq.read_table(path)
         outputs.append(
             {
-                "output": str(path.relative_to(ROOT)),
+                "output": historical_path(path, ROOT),
                 "rows": table.num_rows,
                 "columns": table.num_columns,
                 "unit": (

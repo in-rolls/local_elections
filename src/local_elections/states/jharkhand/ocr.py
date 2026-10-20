@@ -28,7 +28,7 @@ Surya emits HTML. The cache keeps it as HTML rather than flattening it, because
 the table's cell boundaries are exactly what the whitespace layout of the old
 text cache made everyone guess at.
 
-Cached to data/jharkhand/ocr/<stem>.txt, form-feed separated so page numbers
+Cached to data/jharkhand/interim/ocr/<stem>.txt, form-feed separated so page numbers
 survive, and **committed**, unlike the tesseract cache it replaces. That cache
 was gitignored on the grounds that it was reproducible from the committed PDFs
 in about forty minutes; this one takes ~4 hours and an Apple-Silicon Mac, so
@@ -55,8 +55,8 @@ from local_elections.common import ocr_engine
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-JHARKHAND = ROOT / "data" / "jharkhand" / "2015"
-CACHE = ROOT / "data" / "jharkhand" / "ocr"
+JHARKHAND = ROOT / "data/jharkhand/raw/2015"
+CACHE = ROOT / "data/jharkhand/interim/ocr"
 
 # The default lives in common/ocr_engine.py; this only forwards an override,
 # because the default is a path inside one person's home directory and a recipe

@@ -20,10 +20,13 @@ from PIL import Image
 
 from local_elections.common.ocr_engine import page_count
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path, resolve_path
 
-SOURCE = ROOT / "data/wb/gp_source_search/alipurduar_2018_results/extracted"
-CACHE = ROOT / "data/wb/derived/alipurduar_2018/ocr"
+SOURCE = (
+    ROOT
+    / "data/west_bengal/discovery/gp_source_search/alipurduar_2018_results/extracted"
+)
+CACHE = ROOT / "data/west_bengal/interim/alipurduar_2018/ocr"
 VERSION = 3
 
 
@@ -153,7 +156,7 @@ def repair_tsv(cache_path):
     backup = evidence / "before.json"
     if not backup.exists():
         backup.write_bytes(cache_path.read_bytes())
-    source = ROOT / record["source_path"]
+    source = resolve_path(record["source_path"], ROOT)
     if hashlib.sha256(source.read_bytes()).hexdigest() != record["source_sha256"]:
         raise ValueError("Source changed before targeted TSV repair")
     with tempfile.TemporaryDirectory() as scratch_dir:
@@ -287,7 +290,7 @@ def extract(path, number, dpi=300, force=False):
         "version": VERSION,
         "grid_revision": 2,
         "tsv_quoting": "none",
-        "source_path": str(path.relative_to(ROOT)),
+        "source_path": historical_path(path, ROOT),
         "source_sha256": source_hash,
         "source_page": number,
         "dpi": dpi,

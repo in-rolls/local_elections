@@ -25,9 +25,10 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 
 from local_elections.common.runlog import command
+from local_elections.paths import ROOT, resolve_path
 
-BASE = Path("data/wb")
-OUT = BASE / "derived/office_scans"
+BASE = ROOT / "data/west_bengal"
+OUT = BASE / "release/office_scans"
 
 
 def select_sources(index: Path) -> list[dict]:
@@ -287,8 +288,8 @@ def cell_fingerprint(path: Path) -> dict:
 
 
 def read_cell(row: dict) -> dict:
-    cache = Path(row["cache_path"])
-    crop = Path(row["crop_path"])
+    cache = resolve_path(row["cache_path"])
+    crop = resolve_path(row["crop_path"])
     fingerprint = cell_fingerprint(crop)
     payload = json.loads(cache.read_text()) if cache.exists() else {}
     if payload.get("fingerprint") == fingerprint:
@@ -350,7 +351,7 @@ def annotate_rows(rows: list[dict], output: Path) -> list[dict]:
     reference_hashes = {}
     for correction in overrides:
         for evidence in correction.get("reference_evidence", []):
-            path = Path(evidence["gold_path"])
+            path = resolve_path(evidence["gold_path"])
             if path not in reference_hashes:
                 reference_hashes[path] = hashlib.sha256(path.read_bytes()).hexdigest()
             if reference_hashes[path] != evidence["gold_sha256"]:
@@ -526,7 +527,7 @@ def run(base: Path = BASE, output: Path = OUT, workers: int = 6) -> dict:
     from PIL import Image
 
     output.mkdir(parents=True, exist_ok=True)
-    sources = select_sources(base / "gp_source_search/manual_entry_index.csv")
+    sources = select_sources(base / "discovery/gp_source_search/manual_entry_index.csv")
     (output / "sources.json").write_text(json.dumps(sources, indent=2))
     all_cells, pages, curated_entries = [], [], []
     curated_file = output / "curated_schedules.json"
@@ -534,7 +535,7 @@ def run(base: Path = BASE, output: Path = OUT, workers: int = 6) -> dict:
         curated_file = OUT / "curated_schedules.json"
     curated = json.loads(curated_file.read_text()) if curated_file.exists() else []
     for source in sources:
-        original = base / source["file"]
+        original = resolve_path("data/wb/" + source["file"], ROOT)
         if hashlib.sha256(original.read_bytes()).hexdigest() != source["sha256"]:
             raise ValueError(f"Source hash mismatch: {original}")
         directory = output / source["sha256"]

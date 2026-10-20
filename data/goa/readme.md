@@ -22,9 +22,9 @@ Every file is written twice: `.csv` for a spreadsheet, `.jsonl` for a reader tha
 
 | File | Rows | Columns | Source documents |
 |---|---|---|---|
-| [`ward_reservation_2012.csv`](ward_reservation_2012.csv) | 1,471 | 19 | 12 |
-| [`ward_reservation_2017.csv`](ward_reservation_2017.csv) | 684 | 19 | 10 |
-| [`ward_reservation_2022.csv`](ward_reservation_2022.csv) | 793 | 19 | 9 |
+| [`release/ward_reservation_2012.csv`](release/ward_reservation_2012.csv) | 1,471 | 19 | 12 |
+| [`release/ward_reservation_2017.csv`](release/ward_reservation_2017.csv) | 684 | 19 | 10 |
+| [`release/ward_reservation_2022.csv`](release/ward_reservation_2022.csv) | 793 | 19 | 9 |
 
 ## Stats
 
@@ -51,15 +51,15 @@ Every row carries `source_path` and `source_page` — the document it was read f
 
 All 31 cited documents are present.
 
-Inventory for this directory: 37 digital-text, 4 scan, 4 other, 3 tabular, 687 pages total.
+Inventory for this directory: 37 digital-text, 4 scan, 687 pages total.
 
 ## Acquired sources outside the parsed slices
 
 These held PDFs are not cited by any parsed row. A source series remains distinct from the state-level status, so parsed work in one year or government level cannot hide unparsed holdings in another.
 
-- `2012`: 1 PDF
-- `2017`: 4 PDFs
-- `2022`: 5 PDFs
+- `raw/2012`: 1 PDF
+- `raw/2017`: 4 PDFs
+- `raw/2022`: 5 PDFs
 
 ## Reproducing
 
@@ -101,4 +101,4 @@ Every state runs a shared battery first — the seat key is unique, the reservat
 
 Each check declares what it **appeals to**. Only an external appeal - a published total, a statutory share, a population - reliably catches silent corruption; an internal check confirms the file agrees with itself, which it does whether or not a category was misread.
 
-Column meanings are in [../../DICTIONARY.md](../../DICTIONARY.md). Expectation violations across every state are triaged into [../expectations_report.csv](../expectations_report.csv).
+Column meanings are in [../../docs/dictionary.md](../../docs/dictionary.md). Expectation violations across every state are triaged into [../stats/expectations_report.csv](../stats/expectations_report.csv).

@@ -40,8 +40,8 @@ PRI_KEYS = {
 }
 
 
-def load(name):
-    path = DATA / name
+def load(name, area="release"):
+    path = DATA / area / name
     if not path.exists():
         return []
     with path.open(encoding="utf-8") as fh:
@@ -105,7 +105,7 @@ def validate_2025(report):
         rows_by_tier[tier] = validation.apply(
             report,
             validation.DatasetExpectation(
-                path=DATA / f"{tier}_reservation_2025.csv",
+                path=DATA / "release" / f"{tier}_reservation_2025.csv",
                 state="Assam",
                 year="2025",
                 tier=tier,
@@ -390,7 +390,7 @@ def validate_2025(report):
         "GP 45 follows the ward-table and final-gazette hierarchy",
         f"block={gp_45['block']}",
     )
-    diagnostics = load("2025_extracted/scan_parse_diagnostics.csv")
+    diagnostics = load("scan_parse_diagnostics.csv", "interim/2025_extracted")
     hailakandi_diagnostics = [
         row
         for row in diagnostics

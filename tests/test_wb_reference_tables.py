@@ -5,7 +5,7 @@ import shutil
 
 import pytest
 
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 from local_elections.states.wb.parse_reference_tables import (
     SOURCES,
     additional_sources,
@@ -19,14 +19,14 @@ from local_elections.states.wb.parse_reference_tables import (
 
 
 def reference_source(district):
-    index_path = ROOT / "data/wb/derived/native/index.json"
+    index_path = ROOT / "data/west_bengal/interim/native/index.json"
     if not index_path.exists():
         pytest.skip("Acquired reference PDFs are unavailable")
     filename = next(k for k, v in SOURCES.items() if v[0] == district)
     index = json.loads(index_path.read_text())
     source = dict(next(s for s in index if s["source_path"].endswith("/" + filename)))
     source["district"] = district
-    return source, json.loads((ROOT / source["cache"]).read_text())
+    return source, json.loads((resolve_path(source["cache"], ROOT)).read_text())
 
 
 @pytest.mark.parametrize("raw", [None, "", "—", "1 4", "four"])
@@ -114,7 +114,9 @@ def test_book_retains_printed_conflicts_and_distinguishes_years_and_units():
 
 
 def test_additional_inventory_distinguishes_manual_maps_and_unrelated_paper():
-    if not (ROOT / "data/wb/vintage_search/artifact_index.csv").exists():
+    if not (
+        ROOT / "data/west_bengal/discovery/vintage_search/artifact_index.csv"
+    ).exists():
         pytest.skip("Acquired reference index is unavailable")
     sources = additional_sources()
     assert len(sources) == 11
@@ -130,7 +132,9 @@ def test_additional_native_extraction_retains_words_tables_and_resumes(
     from local_elections.states.wb import parse_reference_tables as reference
 
     source, _ = reference_source("Birbhum")
-    shutil.copyfile(ROOT / source["source_path"], tmp_path / "reference.pdf")
+    shutil.copyfile(
+        resolve_path(source["source_path"], ROOT), tmp_path / "reference.pdf"
+    )
     source["source_path"] = "reference.pdf"
     monkeypatch.setattr(reference, "ROOT", tmp_path)
     monkeypatch.setattr(reference, "OUT", tmp_path / "derived")

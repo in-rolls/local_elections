@@ -1,7 +1,7 @@
 """What every column is supposed to look like.
 
 One declaration per column, and it is the single source of truth for two things:
-the expectations that get checked, and DICTIONARY.md, which is generated from
+the expectations that get checked, and docs/dictionary.md, which is generated from
 these entries. Documentation written separately from the rules it describes
 drifts away from them - the readme in this repo did exactly that, twice.
 

@@ -11,7 +11,7 @@ from local_elections.states.wb import parse_results
 def result_pages():
     return {
         (Path(record["source_path"]).name, record["source_page"]): record
-        for path in (parse_results.OUT / "ocr").glob("*.json")
+        for path in parse_results.CACHE.glob("*.json")
         if (record := json.loads(path.read_text()))
     }
 

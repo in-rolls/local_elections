@@ -13,10 +13,10 @@ import json
 import pdfplumber
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 from local_elections.states.wb.parse_results import write_table
 
-OUT = ROOT / "data/wb/derived/alipurduar_offices"
+OUT = ROOT / "data/west_bengal/release/alipurduar_offices"
 EVIDENCE = OUT / "source_transcription.json"
 TIERS = {
     "pradhan": "gp_head",
@@ -55,7 +55,7 @@ def check_controls(evidence):
 
 
 def parse(evidence):
-    source = ROOT / evidence["source_path"]
+    source = resolve_path(evidence["source_path"], ROOT)
     if hashlib.sha256(source.read_bytes()).hexdigest() != evidence["source_sha256"]:
         raise ValueError("Office source hash changed; re-review transcription")
     controls = check_controls(evidence)

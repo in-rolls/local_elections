@@ -1,6 +1,6 @@
 """Parse cached Alipurduar GP result cells into seats and candidates.
 
-Outputs are review-stage Parquet, CSV and JSONL under data/wb/derived/.
+Outputs are review-stage Parquet, CSV and JSONL under data/west_bengal/interim/derived/.
 No row enters the pooled reservation corpus through this parser. Conflicting
 numeric readings stay null; printed winners are retained even when tied.
 """
@@ -17,9 +17,10 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path, resolve_path
 
-OUT = ROOT / "data/wb/derived/alipurduar_2018"
+OUT = ROOT / "data/west_bengal/release/alipurduar_2018"
+CACHE = ROOT / "data/west_bengal/interim/alipurduar_2018/ocr"
 BLOCKS = {
     "APD-I": "Alipurduar-I",
     "APD-II": "Alipurduar-II",
@@ -822,11 +823,15 @@ def main():
     from local_elections.states.wb.extract_results import SOURCE, VERSION, page_count
 
     ap = argparse.ArgumentParser()
-    ap.add_argument("--cache", type=Path, default=OUT / "ocr")
+    ap.add_argument(
+        "--cache",
+        type=Path,
+        default=CACHE,
+    )
     args = ap.parse_args()
     seats, candidates, pages, records = [], [], [], []
     expected = {
-        (str(path.relative_to(ROOT)), page)
+        (historical_path(path, ROOT), page)
         for path in SOURCE.rglob("*")
         if path.suffix.lower() == ".pdf"
         for page in range(1, page_count(path) + 1)
@@ -839,7 +844,9 @@ def main():
             raise ValueError(f"Stale OCR cache: {cache}; resume extraction first")
         path = record["source_path"]
         if path not in hashes:
-            hashes[path] = hashlib.sha256((ROOT / path).read_bytes()).hexdigest()
+            hashes[path] = hashlib.sha256(
+                (resolve_path(path, ROOT)).read_bytes()
+            ).hexdigest()
         if hashes[path] != record["source_sha256"]:
             raise ValueError(f"OCR source changed: {path}")
         key = (path, record["source_page"])

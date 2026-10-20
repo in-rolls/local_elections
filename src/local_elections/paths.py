@@ -1,20 +1,11 @@
-"""Where the repository is, worked out once.
+"""Locate the corpus and resolve historical source identities after file moves.
 
-Forty-two modules each computed this for themselves, as
-``pathlib.Path(__file__).resolve().parent.parent`` or ``.parent.parent.parent``
-depending on how deep they sat. That is duplication with teeth: the count is a
-silent assertion about directory depth, so moving a file two levels changes
-where it thinks ``data/`` is, and nothing fails loudly - it just resolves to a
-directory that does not exist, or worse, one that does.
-
-Found by walking up for the marker rather than by counting, so it survives the
-next move as well as this one.
-
-An installed wheel contains code, not the corpus. LOCAL_ELECTIONS_ROOT may
-point to a separate checkout. An invalid explicit root never falls back to a
-different repository.
+An installed wheel contains code, not the corpus. LOCAL_ELECTIONS_ROOT selects
+an explicit checkout; an invalid root never falls back to another repository.
 """
 
+import csv
+import functools
 import os
 import pathlib
 import tomllib
@@ -58,3 +49,56 @@ def _resolve_root(start):
 
 ROOT = _resolve_root(pathlib.Path(__file__).resolve())
 DATA = ROOT / "data"
+
+
+def _relocations(root):
+    """Read historical source identities and their current physical locations."""
+    ledger = root / "data" / "relocations.csv"
+    if not ledger.exists():
+        return {}, {}
+    forward, reverse = {}, {}
+    with ledger.open(encoding="utf-8", newline="") as stream:
+        for row in csv.DictReader(stream):
+            if row["source_repo"] != "local_elections":
+                continue
+            old, new = row["historical_path"], row["current_path"]
+            if old in forward or new in reverse:
+                raise ValueError(f"Duplicate relocation: {old} -> {new}")
+            for value in (old, new):
+                path = pathlib.PurePosixPath(value)
+                if path.is_absolute() or ".." in path.parts:
+                    raise ValueError(f"Invalid relocation path: {value}")
+            forward[old] = new
+            reverse[new] = old
+    return forward, reverse
+
+
+def resolve_path(path, root=None):
+    """Locate retained evidence without changing its historical source identity."""
+    root = ROOT if root is None else pathlib.Path(root)
+    path = pathlib.Path(path)
+    try:
+        relative = path.relative_to(root) if path.is_absolute() else path
+    except ValueError:
+        return path
+    forward, _ = relocation_index(root)
+    return root / forward.get(relative.as_posix(), relative.as_posix())
+
+
+def historical_path(path, root=None):
+    """Return the original repository-relative identity of a relocated source."""
+    if str(path) == "":
+        return ""
+    root = ROOT if root is None else pathlib.Path(root)
+    path = pathlib.Path(path)
+    try:
+        relative = path.relative_to(root) if path.is_absolute() else path
+    except ValueError:
+        return str(path)
+    _, reverse = relocation_index(root)
+    return reverse.get(relative.as_posix(), relative.as_posix())
+
+
+@functools.lru_cache(maxsize=16)
+def relocation_index(root):
+    return _relocations(pathlib.Path(root))

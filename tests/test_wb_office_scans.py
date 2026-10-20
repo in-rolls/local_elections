@@ -84,7 +84,7 @@ def test_mixed_document_tiers():
 
 
 def test_source_manifest_selects_exact_scanned_scope():
-    index = Path("data/wb/gp_source_search/manual_entry_index.csv")
+    index = Path("data/west_bengal/discovery/gp_source_search/manual_entry_index.csv")
     rows = select_sources(index)
     assert len(rows) == 15
     assert sum(int(r["pages"]) for r in rows) == 50

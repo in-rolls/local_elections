@@ -28,9 +28,9 @@ from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 from local_elections.states.jk import extract_2010, extract_2016, parse
 
-JK = ROOT / "data" / "jk"
-CONTROLS_2010 = JK / "2010_extracted" / "controls.csv"
-CONTROLS_2016 = JK / "2016_extracted" / "controls.csv"
+JK = ROOT / "data/jammu_and_kashmir"
+CONTROLS_2010 = JK / "interim/2010_extracted/controls.csv"
+CONTROLS_2016 = JK / "interim/2016_extracted/controls.csv"
 
 # The 73rd Amendment, and J&K's own Act, reserve "not less than one-third" of
 # seats for women. That is a floor, not a target - unlike Haryana's 50%, which
@@ -42,7 +42,7 @@ YEARS = ["2010", "2016", "2018"]
 
 
 def load(tier, year):
-    path = JK / f"{tier}_reservation_{year}.csv"
+    path = JK / "release" / f"{tier}_reservation_{year}.csv"
     if not path.exists():
         return None
     with path.open(encoding="utf-8") as fh:
@@ -66,7 +66,7 @@ def extraction_controls_2010(rows):
         districts[row["source_pdf"]].add(row["district"])
 
     failures = 0
-    held = {path.name for path in (JK / "2010").glob("*.pdf")}
+    held = {path.name for path in (JK / "raw/2010").glob("*.pdf")}
     ok = set(controls) == held == set(pages)
     failures += not ok
     print(
@@ -91,7 +91,7 @@ def extraction_controls_2010(rows):
             bad_rows.append(source_pdf)
         if expected_rows and districts[source_pdf] != {control["expected_district"]}:
             bad_districts.append(source_pdf)
-        source_path = JK / "2010" / source_pdf
+        source_path = JK / "raw/2010" / source_pdf
         if digests[source_pdf] != {extract_2010.sha256(source_path)}:
             bad_bytes.append(source_pdf)
 
@@ -130,7 +130,7 @@ def extraction_controls_2016(wards, heads):
     parse.parse_2016_records(records, diagnostics)
 
     failures = 0
-    held = {path.name for path in (JK / "2016").glob("*.pdf")}
+    held = {path.name for path in (JK / "raw/2016").glob("*.pdf")}
     ok = set(controls) == held == set(pages)
     failures += not ok
     print(
@@ -156,7 +156,7 @@ def extraction_controls_2016(wards, heads):
             bad_rows.append(source_pdf)
         if districts[source_pdf] != {control["expected_district"]}:
             bad_districts.append(source_pdf)
-        source_path = JK / "2016" / source_pdf
+        source_path = JK / "raw/2016" / source_pdf
         if digests[source_pdf] != {extract_2016.sha256(source_path)}:
             bad_bytes.append(source_pdf)
         skipped = int(control["unparsed_identity_rows"] or 0)

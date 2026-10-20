@@ -29,7 +29,7 @@ def test_duplicate_hash_keeps_both_scopes_and_only_real_native_pages(tmp_path):
     native = [
         {
             "sha256": "same-pdf",
-            "source_path": "data/wb/gp_source_search/alias.pdf",
+            "source_path": "data/west_bengal/discovery/gp_source_search/alias.pdf",
             "pages": 2,
             "cache": str(cache),
         }
@@ -37,7 +37,7 @@ def test_duplicate_hash_keeps_both_scopes_and_only_real_native_pages(tmp_path):
     base = [
         {
             "source_sha256": "same-pdf",
-            "source_path": "data/wb/2018/draft/original.pdf",
+            "source_path": "data/west_bengal/raw/2018/draft/original.pdf",
             "district": "Example",
             "stage": "draft",
             "pages": "2",
@@ -62,7 +62,7 @@ def test_missing_base_ocr_is_not_extraction_evidence():
     base = [
         {
             "source_sha256": "missing-cache",
-            "source_path": "data/wb/2018/draft/missing.pdf",
+            "source_path": "data/west_bengal/raw/2018/draft/missing.pdf",
             "district": "Example",
             "stage": "draft",
             "pages": "1",
@@ -82,7 +82,7 @@ def test_missing_base_ocr_is_not_extraction_evidence():
 def test_reference_publication_year_is_not_an_election_year(tmp_path):
     reference = {
         "source_sha256": "manual",
-        "source_path": "data/wb/manual.pdf",
+        "source_path": "data/west_bengal/manual.pdf",
         "expected_pages": 2,
         "native_cache": str(tmp_path / "not-yet-extracted.json"),
         "document_reference_year": 2022,
@@ -98,7 +98,7 @@ def test_reference_publication_year_is_not_an_election_year(tmp_path):
 
 def test_raw_pdf_inventory_includes_uppercase_extensions(tmp_path, monkeypatch):
     monkeypatch.setattr(inventory, "ROOT", tmp_path)
-    directory = tmp_path / "data/wb"
+    directory = tmp_path / "data/west_bengal"
     directory.mkdir(parents=True)
     (directory / "one.pdf").write_bytes(b"same")
     (directory / "alias.PDF").write_bytes(b"same")
@@ -107,7 +107,7 @@ def test_raw_pdf_inventory_includes_uppercase_extensions(tmp_path, monkeypatch):
     assert report["physical_pdf_paths_on_disk"] == 3
     assert report["unique_pdf_hashes_on_disk"] == 2
     assert set(report["unindexed_pdf_paths"]) == {
-        "data/wb/one.pdf",
-        "data/wb/alias.PDF",
-        "data/wb/extra.pdf",
+        "data/west_bengal/one.pdf",
+        "data/west_bengal/alias.PDF",
+        "data/west_bengal/extra.pdf",
     }

@@ -12,7 +12,7 @@ from local_elections.states.karnataka import parse
 
 @pytest.mark.parametrize("year", parse.YEARS)
 def test_gp_code_is_promoted_into_the_shared_identity(year):
-    path = ROOT / "data" / "karnataka" / f"gp_head_{year}.csv"
+    path = ROOT / "data" / "karnataka" / "release" / f"gp_head_{year}.csv"
     with path.open(encoding="utf-8") as fh:
         rows = list(csv.DictReader(fh))
 

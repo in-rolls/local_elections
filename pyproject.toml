@@ -68,7 +68,7 @@ table-ocr = ["opencv-python==5.0.0.93", "numpy==2.5.3", "pillow==12.3.0"]
 [tool.ruff]
 line-length = 88
 target-version = "py312"
-extend-exclude = ["data/wb/vintage_search/raw"]
+extend-exclude = ["data/west_bengal/discovery/vintage_search/raw"]
 
 [tool.ruff.lint]
 external = ["DOC"]
@@ -152,28 +152,9 @@ requires = ["uv_build>=0.12.5,<0.13"]
 build-backend = "uv_build"
 
 [tool.preen]
-# What this repository does not take from the fleet standard, and why.
-#
-# py-canon is built for PyPI packages. This is a data corpus: a release here
-# means MANIFEST.json pinning a SHA-256 for every data file and the commit of
-# each of five sibling repositories, gated by release_check.py, which refuses
-# on a dirty tree or a dirty sibling. Nothing is published to PyPI, so the
-# release workflow was removed rather than left to fire on the next v* tag -
-# and our tags are v0.2.1, so it would have fired.
-#
-# The documentation is README.md plus a generated readme in every state
-# directory, both rebuilt by `make coverage` and checked by
-# build_state_readmes.py --check. A Sphinx site would be a second, unchecked
-# copy, so docs/ and its workflow are out too.
+# This corpus uses pinned data releases and generated Markdown guides.
+# OCR checks need system packages; spelling checks must exclude source records.
 skip_checks = [
     "changelog", "deps", "depgroups", "audit", "links", "pydoclint",
-    # OCR tests require apt packages; the reusable CI has no system-dependency hook.
-    "workflows",
-    # codespell is run over the whole repository regardless of .codespellrc or
-    # [tool.codespell], and 830,000 rows of Indian place and personal names -
-    # transliterated several ways, plus Kruti Dev mojibake kept as evidence -
-    # produce ~47,000 "misspellings", every one of them a person or a village.
-    # Checked directly over the code and prose, which is the part that matters:
-    #     uv run --with codespell codespell src tests README.md  ->  0
-    "codespell",
+    "workflows", "codespell",
 ]

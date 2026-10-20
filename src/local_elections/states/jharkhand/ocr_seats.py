@@ -30,7 +30,7 @@ repository. Surya reads them: a Koderma page returns 48 of 48 identifiers with
 the gram panchayat numbers running 8,9,10...23 unbroken. The ordering fallback
 is gone, and with it the risk that a row lost to OCR shifts every seat after it.
 
-Writes data/jharkhand/2015/image_seats.csv, which parse.py reads. Cached and
+Writes data/jharkhand/raw/2015/image_seats.csv, which parse.py reads. Cached and
 committed, because OCR is slow and its output should be reviewable rather than
 regenerated silently on every parse.
 
@@ -54,7 +54,7 @@ from local_elections.states.jharkhand import parse
 
 LOGGER = get_logger(__name__)
 
-JHARKHAND = ROOT / "data" / "jharkhand" / "2015"
+JHARKHAND = ROOT / "data/jharkhand/raw/2015"
 OUT = JHARKHAND / "image_seats.csv"
 
 COLUMNS = [

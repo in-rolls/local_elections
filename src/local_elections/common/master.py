@@ -45,6 +45,7 @@ support.
 import hashlib
 
 from local_elections.common import canon, dictionary, normalize, reference
+from local_elections.paths import historical_path
 
 MASTER_COLUMNS = [
     # grain
@@ -432,7 +433,11 @@ def to_master(
         ),
         "source_repo": source_repo,
         "source_commit": source_commit,
-        "source_path": row.get("source_path", ""),
+        "source_path": (
+            historical_path(row.get("source_path", ""))
+            if source_repo in {"", "local_elections"}
+            else row.get("source_path", "")
+        ),
         "source_page": row.get("source_page", ""),
         "provenance_level": provenance_level,
     }

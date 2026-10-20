@@ -12,6 +12,7 @@ import pdfplumber
 import pyarrow.parquet as pq
 
 from local_elections.common.runlog import command
+from local_elections.paths import resolve_path
 
 from .html import profile
 
@@ -145,7 +146,7 @@ def build(root, gazette):
     frame = pd.read_parquet(root / "frame.parquet")
     records = []
     for row in frame.to_dict("records"):
-        with gzip.open(root / row["profile_path"], "rt") as handle:
+        with gzip.open(resolve_path(row["profile_path"], root), "rt") as handle:
             response = json.load(handle)
         if hashlib.sha256(response["body"].encode()).hexdigest() != response["sha256"]:
             raise ValueError("Cached profile hash changed")

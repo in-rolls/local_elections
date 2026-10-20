@@ -1,6 +1,6 @@
 """Mumbai's Brihanmumbai Municipal Corporation: 227 ward seats, five councils.
 
-Everything under ``data/maharashtra/mumbai/`` arrived as result tables assembled
+Everything under ``data/maharashtra/raw/mumbai/`` arrived as result tables assembled
 for research (Bhavnani's 1997 and 2002 sheets; Karekurve-Ramachandra's 2007,
 2012 and 2017 files), not as the Maharashtra State Election Commission's own
 reservation rosters. That shapes what can honestly be emitted:
@@ -51,7 +51,7 @@ import re
 from local_elections.common import emit, normalize
 from local_elections.common.normalize import label
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 
 STATE = "Maharashtra"
 DISTRICT = "Mumbai"
@@ -59,13 +59,13 @@ BODY = "Brihanmumbai Municipal Corporation"
 WARDS = 227
 
 DATA = ROOT / "data" / "maharashtra"
-MUMBAI = DATA / "mumbai"
-SHEET_2007 = "data/maharashtra/mumbai/BMC-2007_raw.xlsx"
-SCAN_2012 = "data/maharashtra/mumbai/2012_scanned_data.xlsx"
-CSV_2017 = "data/maharashtra/mumbai/mumbai_2017.csv"
-XLS_1997 = "data/maharashtra/mumbai/BMC 1997.xls"
-XLS_2002 = "data/maharashtra/mumbai/BMC 2002.xls"
-DEPOSIT_DIR = "data/maharashtra/mumbai/dataverse_IO9SLQ"
+MUMBAI = DATA / "raw/mumbai"
+SHEET_2007 = "data/maharashtra/raw/mumbai/BMC-2007_raw.xlsx"
+SCAN_2012 = "data/maharashtra/raw/mumbai/2012_scanned_data.xlsx"
+CSV_2017 = "data/maharashtra/raw/mumbai/mumbai_2017.csv"
+XLS_1997 = "data/maharashtra/raw/mumbai/BMC 1997.xls"
+XLS_2002 = "data/maharashtra/raw/mumbai/BMC 2002.xls"
+DEPOSIT_DIR = "data/maharashtra/raw/mumbai/dataverse_IO9SLQ"
 DEPOSIT = f"{DEPOSIT_DIR}/mumbai_full.tab"
 DEPOSIT_DAYS = f"{DEPOSIT_DIR}/fulldata_reshaped.tab"
 
@@ -213,14 +213,14 @@ def read_excel(path, sheet: int | str = 0):
     """A spreadsheet as a list of dicts keyed by its header row."""
     import pandas
 
-    frame = pandas.read_excel(ROOT / path, sheet_name=sheet, header=0)
+    frame = pandas.read_excel(resolve_path(path, ROOT), sheet_name=sheet, header=0)
     frame.columns = [clean(c) for c in frame.columns]
     return [{k: clean(v) for k, v in row.items()} for row in frame.to_dict("records")]
 
 
 def read_tsv(path):
     """The deposit's tab-separated tables."""
-    with (ROOT / path).open(encoding="utf-8", newline="") as fh:
+    with (resolve_path(path, ROOT)).open(encoding="utf-8", newline="") as fh:
         return list(csv.DictReader(fh, delimiter="\t"))
 
 
@@ -347,7 +347,9 @@ def rows_2012():
 
 
 def candidates_2017():
-    with (ROOT / CSV_2017).open(encoding="utf-8", newline="") as fh:
+    with (ROOT / "data/maharashtra/raw/mumbai/mumbai_2017.csv").open(
+        encoding="utf-8", newline=""
+    ) as fh:
         rows = list(csv.DictReader(fh))
     by_ward = collections.defaultdict(list)
     for r in rows:
@@ -555,7 +557,7 @@ def main():
     args = ap.parse_args()
 
     deposit = read_tsv(DEPOSIT)
-    archive = emit.archived(ROOT / DEPOSIT_DIR)
+    archive = emit.archived(ROOT / "data/maharashtra/raw/mumbai/dataverse_IO9SLQ")
 
     for year, rows in (("2012", rows_2012()), ("2017", rows_2017(deposit))):
         for row in rows:
@@ -563,7 +565,7 @@ def main():
                 url, capture = archive.get("mumbai_full.tab", ("", ""))
                 row["source_url"], row["source_capture"] = url, capture
             row["source_pdf"] = row["source_path"].rsplit("/", 1)[-1]
-        emit.write(rows, DATA / f"ulb_ward_{year}", COLUMNS)
+        emit.write(rows, DATA / "release" / f"ulb_ward_{year}", COLUMNS)
         if not args.quiet:
             women = sum(int(r["woman_reserved"]) for r in rows)
             print(f"  ulb_ward_{year}: {len(rows)} seats, {women} reserved for women")
@@ -578,7 +580,7 @@ def main():
         "praja_admin_ward_complaint_days_2013_2018.csv": complaint_days(),
     }
     for name, rows in supplemental.items():
-        write_csv(rows, MUMBAI / name)
+        write_csv(rows, DATA / "release/mumbai" / name)
         if not args.quiet:
             print(f"  {name}: {len(rows):,} rows")
 

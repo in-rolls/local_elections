@@ -107,7 +107,7 @@ LOCAL_INPUTS = [
     "data",
     ":(exclude)data/master",
     ":(exclude)data/stats",
-    ":(exclude)data/expectations_report.csv",
+    ":(exclude)data/stats/expectations_report.csv",
     ":(glob,exclude)data/*/readme.md",
 ]
 

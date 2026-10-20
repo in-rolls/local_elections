@@ -70,7 +70,7 @@ def test_static_row_decoder_preserves_winner_links():
 
 
 def test_official_gazette_has_every_2022_ward_and_statutory_counts():
-    roster = official_2022(ROOT / "data/delhi/delhi_2022.pdf")
+    roster = official_2022(ROOT / "data/delhi/raw/delhi_2022.pdf")
     assert roster.reservation_raw.value_counts().to_dict() == {
         "WOMAN": 104,
         "GENERAL": 104,

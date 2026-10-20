@@ -3,7 +3,7 @@
 from local_elections.common import harvest
 from local_elections.paths import ROOT
 
-OUT = ROOT / "data" / "assam" / "2024_delimitation"
+OUT = ROOT / "data/assam/raw/2024_delimitation"
 MANIFEST = OUT / "manifest.csv"
 SOURCE_ID = "assam_pnrd_final_delimitation_2024"
 EXPECTED_DOCUMENTS = 4

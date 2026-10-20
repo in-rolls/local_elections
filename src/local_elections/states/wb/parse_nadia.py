@@ -13,12 +13,12 @@ import json
 import re
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 from local_elections.states.wb.extract_native import OUT as CACHE
 from local_elections.states.wb.parse_results import write_table
 
-OUT = ROOT / "data/wb/derived/nadia_2008"
-SOURCE = ROOT / "data/wb/gp_source_search/historical_expansion"
+OUT = ROOT / "data/west_bengal/release/nadia_2008"
+SOURCE = ROOT / "data/west_bengal/discovery/gp_source_search/historical_expansion"
 
 
 def tidy(value):
@@ -234,7 +234,10 @@ def main():
             continue
         digest = metadata["sha256"]
         path = str((SOURCE / metadata["file"]).relative_to(ROOT))
-        if hashlib.sha256((ROOT / path).read_bytes()).hexdigest() != digest:
+        if (
+            hashlib.sha256((resolve_path(path, ROOT)).read_bytes()).hexdigest()
+            != digest
+        ):
             raise ValueError(f"Source manifest hash differs: {path}")
         if digest in seen:
             audits.append(

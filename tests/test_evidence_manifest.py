@@ -16,7 +16,7 @@ from local_elections.tools import verify_manifest as verify
 
 def corpus(tmp_path):
     root = tmp_path / "corpus"
-    scope = root / "data/wb"
+    scope = root / "data/west_bengal"
     scope.mkdir(parents=True)
     (scope / "original.pdf").write_bytes(b"%PDF-original\x00\xff")
     review = scope / "ignored_review"
@@ -28,20 +28,20 @@ def corpus(tmp_path):
 
 def test_archives_preserve_every_byte_and_are_deterministic(tmp_path):
     root = corpus(tmp_path)
-    first = build.build(root, ["data/wb"], 20, tmp_path / "one")
-    second = build.build(root, ["data/wb"], 20, tmp_path / "two")
+    first = build.build(root, ["data/west_bengal"], 20, tmp_path / "one")
+    second = build.build(root, ["data/west_bengal"], 20, tmp_path / "two")
     assert first == second
     assert first["totals"] == {"files": 2, "bytes": 29, "assets": 2}
     assert verify.verify_archives(first, tmp_path / "one") == 2
     assert {f["path"] for f in first["files"]} == {
-        "data/wb/original.pdf",
-        "data/wb/ignored_review/page.png",
+        "data/west_bengal/original.pdf",
+        "data/west_bengal/ignored_review/page.png",
     }
 
 
 def test_verifier_runs_without_package_and_detects_unlisted_files(tmp_path):
     root = corpus(tmp_path)
-    manifest = build.build(root, ["data/wb"], 100)
+    manifest = build.build(root, ["data/west_bengal"], 100)
     path = tmp_path / "manifest.json"
     path.write_text(json.dumps(manifest))
     command = [
@@ -55,19 +55,19 @@ def test_verifier_runs_without_package_and_detects_unlisted_files(tmp_path):
     ]
     good = subprocess.run(command, capture_output=True, text=True, check=False)
     assert good.returncode == 0, good.stdout + good.stderr
-    (root / "data/wb/new_source.pdf").write_bytes(b"additional original")
+    (root / "data/west_bengal/new_source.pdf").write_bytes(b"additional original")
     bad = subprocess.run(command, capture_output=True, text=True, check=False)
     assert bad.returncode == 1
-    assert "UNLISTED  data/wb/new_source.pdf" in bad.stdout
+    assert "UNLISTED  data/west_bengal/new_source.pdf" in bad.stdout
 
 
 def test_missing_and_changed_local_source_fail(tmp_path):
     root = corpus(tmp_path)
-    manifest = build.build(root, ["data/wb"], 100)
+    manifest = build.build(root, ["data/west_bengal"], 100)
     path = tmp_path / "manifest.json"
     path.write_text(json.dumps(manifest))
-    (root / "data/wb/original.pdf").write_bytes(b"tampered")
-    (root / "data/wb/ignored_review/page.png").unlink()
+    (root / "data/west_bengal/original.pdf").write_bytes(b"tampered")
+    (root / "data/west_bengal/ignored_review/page.png").unlink()
     result = subprocess.run(
         [
             sys.executable,
@@ -89,7 +89,7 @@ def test_missing_and_changed_local_source_fail(tmp_path):
 def test_archive_member_tamper_fails_even_with_updated_container_hash(tmp_path):
     root = corpus(tmp_path)
     archives = tmp_path / "archives"
-    manifest = build.build(root, ["data/wb"], 100, archives)
+    manifest = build.build(root, ["data/west_bengal"], 100, archives)
     asset = manifest["assets"][0]
     path = archives / asset["name"]
     with tarfile.open(path, "w:gz") as archive:
@@ -107,7 +107,7 @@ def test_archive_member_tamper_fails_even_with_updated_container_hash(tmp_path):
 def test_missing_archive_or_member_is_not_complete(tmp_path):
     root = corpus(tmp_path)
     archives = tmp_path / "archives"
-    manifest = build.build(root, ["data/wb"], 20, archives)
+    manifest = build.build(root, ["data/west_bengal"], 20, archives)
     removed = manifest["assets"].pop()
     (archives / removed["name"]).unlink()
     with pytest.raises(ValueError, match="coverage incomplete"):
@@ -132,8 +132,8 @@ def test_empty_or_duplicate_manifests_fail(tmp_path):
 
 def test_source_changed_after_inventory_is_not_packaged(tmp_path):
     root = corpus(tmp_path)
-    records = build.inventory(root, ["data/wb"], 100)
-    (root / "data/wb/original.pdf").write_bytes(b"different bytes")
+    records = build.inventory(root, ["data/west_bengal"], 100)
+    (root / "data/west_bengal/original.pdf").write_bytes(b"different bytes")
     with pytest.raises(ValueError, match="changed while packaging"):
         build.write_archive(root, tmp_path, "test.tar.gz", records)
     assert not (tmp_path / "test.tar.gz").exists()
@@ -143,25 +143,25 @@ def test_source_changed_after_inventory_is_not_packaged(tmp_path):
 def test_source_symlinks_and_overlapping_scopes_fail(tmp_path):
     root = corpus(tmp_path)
     with pytest.raises(ValueError, match="Overlapping"):
-        build.inventory(root, ["data", "data/wb"], 100)
-    (root / "data/wb/link").symlink_to(root / "data/wb/original.pdf")
+        build.inventory(root, ["data", "data/west_bengal"], 100)
+    (root / "data/west_bengal/link").symlink_to(root / "data/west_bengal/original.pdf")
     with pytest.raises(ValueError, match="symbolic link"):
-        build.inventory(root, ["data/wb"], 100)
+        build.inventory(root, ["data/west_bengal"], 100)
 
 
 def test_stale_numbered_assets_cannot_be_certified(tmp_path):
     root = corpus(tmp_path)
     archives = tmp_path / "archives"
-    build.build(root, ["data/wb"], 20, archives)
-    (root / "data/wb/original.pdf").unlink()
+    build.build(root, ["data/west_bengal"], 20, archives)
+    (root / "data/west_bengal/original.pdf").unlink()
     with pytest.raises(ValueError, match=r"[Ss]tale|[Uu]nlisted"):
-        build.build(root, ["data/wb"], 20, archives)
+        build.build(root, ["data/west_bengal"], 20, archives)
 
 
 def test_unlisted_archive_is_rejected_by_verifier(tmp_path):
     root = corpus(tmp_path)
     archives = tmp_path / "archives"
-    manifest = build.build(root, ["data/wb"], 100, archives)
+    manifest = build.build(root, ["data/west_bengal"], 100, archives)
     (archives / "source-evidence-999.tar.gz").write_bytes(b"obsolete content")
     with pytest.raises(ValueError, match=r"[Ss]tale|[Uu]nlisted"):
         verify.verify_archives(manifest, archives)
@@ -169,8 +169,8 @@ def test_unlisted_archive_is_rejected_by_verifier(tmp_path):
 
 def test_same_byte_symlink_replacement_fails(tmp_path):
     root = corpus(tmp_path)
-    manifest = build.build(root, ["data/wb"], 100)
-    original = root / "data/wb/original.pdf"
+    manifest = build.build(root, ["data/west_bengal"], 100)
+    original = root / "data/west_bengal/original.pdf"
     copy = root / "same_bytes.pdf"
     copy.write_bytes(original.read_bytes())
     original.unlink()
@@ -185,18 +185,18 @@ def test_new_source_during_packaging_cannot_be_omitted(tmp_path, monkeypatch):
 
     def concurrent_write(*args):
         result = original(*args)
-        (root / "data/wb/new.pdf").write_bytes(b"new source during packaging")
+        (root / "data/west_bengal/new.pdf").write_bytes(b"new source during packaging")
         return result
 
     monkeypatch.setattr(build, "write_archive", concurrent_write)
     with pytest.raises(ValueError, match=r"changed during|changed while"):
-        build.build(root, ["data/wb"], 100, tmp_path / "archives")
+        build.build(root, ["data/west_bengal"], 100, tmp_path / "archives")
 
 
 def test_make_archive_gate_checks_real_assets(tmp_path):
     root = corpus(tmp_path)
     archives = root / "dist/source-evidence"
-    manifest = build.build(root, ["data/wb"], 100, archives)
+    manifest = build.build(root, ["data/west_bengal"], 100, archives)
     (root / "SOURCE_MANIFEST.json").write_text(json.dumps(manifest))
     command = [
         "make",

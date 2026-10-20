@@ -15,9 +15,9 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 
-OUT = ROOT / "data/tn/derived/amendments_2001"
+OUT = ROOT / "data/tamil_nadu/release/amendments_2001"
 SOURCE_SHA = "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3"
 CATEGORIES = {
     "General": ("UR", False),
@@ -38,7 +38,7 @@ def read_document(readings, source):
     if data["source_sha256"] != SOURCE_SHA or digest(source) != SOURCE_SHA:
         raise ValueError("Manual readings do not match the audited source PDF")
     for evidence in data.get("page_visual_evidence", []):
-        image = ROOT / evidence["image_path"]
+        image = resolve_path(evidence["image_path"], ROOT)
         if evidence["source_sha256"] != SOURCE_SHA:
             raise ValueError("Visual evidence source identity mismatch")
         if digest(image) != evidence["image_sha256"]:
@@ -168,7 +168,7 @@ def write_table(path, rows):
 def machine_evidence(root):
     """Pin existing machine OCR independently; never use it as curated values."""
     evidence = []
-    base = root / "data/tn/derived/scans/tn_1_58_2001_636_en"
+    base = root / "data/tamil_nadu/interim/scans/tn_1_58_2001_636_en"
     for page in range(1, 19):
         directory = base / f"page_{page:04d}"
         latest = directory / "latest.json"

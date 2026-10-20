@@ -13,7 +13,8 @@ inferred there.
 
 Each name in an order is matched to one MNREGA GP, within its block where the
 order gives one, and the I/II/III numeral must agree. Hand decisions live in
-data/wb/reference/pradhan_match_overrides.csv, each with its reason. The build
+data/west_bengal/interim/reference/pradhan_match_overrides.csv, each with its reason.
+The build
 fails unless every named office resolves to a distinct GP and the parsed counts
 of offices, SC, ST, BC and women equal the totals printed in the order - a
 misread category or a dropped row changes a count. A swap of two GPs within a
@@ -36,10 +37,10 @@ import pandas as pd
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-WB = ROOT / "data" / "wb"
-OUT = WB / "derived" / "pradhan_gp"
-GP_LISTS = WB / "reference" / "mnrega_gp_lists.csv"
-OVERRIDES = WB / "reference" / "pradhan_match_overrides.csv"
+WB = ROOT / "data/west_bengal"
+OUT = WB / "release/pradhan_gp"
+GP_LISTS = WB / "interim/reference/mnrega_gp_lists.csv"
+OVERRIDES = WB / "interim/reference/pradhan_match_overrides.csv"
 
 ORDERS = {
     ("South 24 Parganas", 2018): {
@@ -262,7 +263,7 @@ def _entry(district, term, file, page, row, block, readings, caste, women):
 
 
 def native_entries(district, term):
-    cells = pd.read_csv(WB / "derived" / "office_native" / "cell_review.csv")
+    cells = pd.read_csv(WB / "release/office_native/cell_review.csv")
     cells = cells[
         (cells.district == district)
         & (cells.election_year == term)
@@ -293,9 +294,7 @@ def native_entries(district, term):
 
 
 def alipurduar_entries(district, term):
-    rows = pd.read_csv(
-        WB / "derived" / "alipurduar_offices" / "office_reservations.csv"
-    )
+    rows = pd.read_csv(WB / "release/alipurduar_offices/office_reservations.csv")
     rows = rows[(rows.tier == "gp_head") & (rows.year == term)].reset_index(drop=True)
     return [
         _entry(
@@ -315,9 +314,7 @@ def alipurduar_entries(district, term):
 
 def handbook_entries(district, term):
     """The 2013 handbook prints every GP with its code; no inference is needed."""
-    rows = pd.read_csv(
-        WB / "derived" / "nadia_2013_handbook" / "office_reservations.csv"
-    )
+    rows = pd.read_csv(WB / "release/nadia_2013_handbook/office_reservations.csv")
     rows = rows[(rows.tier == "gp_head") & (rows.year == term)]
     entries = []
     for r in rows.itertuples():

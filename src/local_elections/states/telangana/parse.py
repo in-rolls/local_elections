@@ -38,8 +38,8 @@ from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
 DATA = ROOT / "data" / "telangana"
-SARPANCH = "data/telangana/2019_gp_sarpanch.csv"
-WARDS = "data/telangana/2019_ward"
+SARPANCH = "data/telangana/raw/2019_gp_sarpanch.csv"
+WARDS = "data/telangana/raw/2019_ward"
 
 YEAR = "2019"
 
@@ -93,7 +93,7 @@ def convert(stated, **rest):
 
 
 def sarpanch_rows():
-    path = ROOT / SARPANCH
+    path = ROOT / "data/telangana/raw/2019_gp_sarpanch.csv"
     if not path.exists():
         return []
     with path.open(encoding="utf-8", errors="replace") as fh:
@@ -118,7 +118,7 @@ def sarpanch_rows():
 
 
 def ward_rows():
-    directory = ROOT / WARDS
+    directory = ROOT / "data/telangana/raw/2019_ward"
     if not directory.exists():
         return []
     out = []
@@ -169,7 +169,7 @@ def main():
     for tier, rows in (("gp_head", sarpanch_rows()), ("gp_ward", ward_rows())):
         if not rows:
             continue
-        path = DATA / f"{tier}_{YEAR}.csv"
+        path = DATA / "release" / f"{tier}_{YEAR}.csv"
         with path.open("w", newline="", encoding="utf-8") as fh:
             writer = csv.DictWriter(
                 fh, fieldnames=COLUMNS, extrasaction="ignore", lineterminator="\n"

@@ -11,7 +11,8 @@ Three sources feed it:
     than their filenames - `jharkhand data 2010_reservation_pop_for web.csv` is
     a pre-existing file that matches any sensible filename glob but is not one
     of ours;
-  * **raw holdings** from `data/inventory.csv`, so a state with documents but no
+  * **raw holdings** from `data/source_search/inventory.csv`, so a state with
+documents but no
     parser reads "raw, unparsed" instead of looking empty;
   * **sibling repos**, for the states that were split out.
 
@@ -25,16 +26,20 @@ import argparse
 import collections
 import csv
 import gzip
+import hashlib
+import json
+import os
 import re
 import sys
+from pathlib import Path
 
 import pyarrow.parquet as pq
 
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path
 from local_elections.states.assam import controls_2025 as assam_controls
 
 DATA = ROOT / "data"
-README = ROOT / "README.md"
+README = ROOT / "docs/coverage.md"
 
 START, END = "<!-- coverage:start -->", "<!-- coverage:end -->"
 SLICE_START, SLICE_END = "<!-- slices:start -->", "<!-- slices:end -->"
@@ -141,7 +146,10 @@ SIBLINGS = {
 # open work, not coverage already achieved.
 LEGACY = {
     "Telangana": ("gram panchayat + ward 2019, municipal 2020-21", "telangana"),
-    "West Bengal": ("2018 delimitation-and-reservation gazettes, 20 districts", "wb"),
+    "West Bengal": (
+        "2018 delimitation-and-reservation gazettes, 20 districts",
+        "west_bengal",
+    ),
     "Karnataka": ("gram panchayat head, 1993/2000/2002/2005/2007", "karnataka"),
 }
 
@@ -155,15 +163,14 @@ URBAN_ONLY = {
 
 # Directory name in data/ -> printed state name.
 DIRECTORY_NAMES = {
-    "ap": "Andhra Pradesh",
-    "jk": "Jammu & Kashmir",
-    "wb": "West Bengal",
-    "up": "Uttar Pradesh",
+    "andhra_pradesh": "Andhra Pradesh",
+    "jammu_and_kashmir": "Jammu & Kashmir",
+    "west_bengal": "West Bengal",
+    "uttar_pradesh": "Uttar Pradesh",
     "madhya_pradesh": "Madhya Pradesh",
     "tamil_nadu": "Tamil Nadu",
-    "tn": "Tamil Nadu",
     "delhi": "NCT of Delhi",
-    "himachal": "Himachal Pradesh",
+    "himachal_pradesh": "Himachal Pradesh",
 }
 
 # States with no panchayati raj reservation to collect. Recording why is
@@ -234,7 +241,7 @@ REMAINING_WORK = {
     ),
     "West Bengal": (
         "Separate 1998–2023 GP office, ward and results data have source-linked "
-        "parsers and review queues ([GP data](data/wb/derived/README.md)); "
+        "parsers and review queues ([GP data](data/west_bengal/release/README.md)); "
         "the final 2018 ZP gazettes "
         "are parsed, while their 19 drafts are not additional final seats"
     ),
@@ -307,9 +314,9 @@ def parsed_datasets():
         lambda: {"years": set(), "tiers": set(), "rows": 0, "dir": None}
     )
     for path, rows in datasets.parsed():
-        state = rows[0]["state"] or pretty(path.parent.name)
+        state = rows[0]["state"] or pretty(path.parent.parent.name)
         entry = found[state]
-        entry["dir"] = path.parent.name
+        entry["dir"] = path.parent.parent.name
         entry["rows"] += len(rows)
         entry["years"] |= {r["year"] for r in rows if r["year"]}
         entry["tiers"] |= {r["tier"] for r in rows if r["tier"]}
@@ -318,7 +325,7 @@ def parsed_datasets():
 
 def raw_holdings():
     """States with source documents but no parsed output yet."""
-    path = DATA / "inventory.csv"
+    path = DATA / "source_search/inventory.csv"
     if not path.exists():
         return {}
     holdings = collections.defaultdict(lambda: collections.Counter())
@@ -330,19 +337,19 @@ def raw_holdings():
 
 def unlinked_source_pdfs():
     """Held PDFs not linked from any parsed row, keyed by state directory."""
-    inventory = DATA / "inventory.csv"
+    inventory = DATA / "source_search/inventory.csv"
     if not inventory.exists():
         return {}
     cited = collections.defaultdict(set)
     for path, rows in datasets.parsed():
-        cited[path.parent.name] |= {
+        cited[path.parent.parent.name] |= {
             row.get("source_path", "") for row in rows if row.get("source_path")
         }
     held = collections.defaultdict(set)
     with inventory.open(encoding="utf-8") as fh:
         for row in csv.DictReader(fh):
             if row.get("kind") == "pdf":
-                held[row["state"]].add(f"data/{row['path']}")
+                held[row["state"]].add(historical_path(f"data/{row['path']}", ROOT))
     return {
         directory: paths - cited.get(directory, set())
         for directory, paths in held.items()
@@ -361,6 +368,15 @@ def sibling_rows(spec):
     counted from their footer metadata without loading their columns.
     """
     directory = ROOT.parent / spec["repo"]
+    pins_path = ROOT / "data/sources.json"
+    pins = json.loads(pins_path.read_text()) if pins_path.exists() else {}
+    pin = pins.get(spec["repo"])
+    if pin:
+        directory = (
+            Path(os.environ.get("INDIA_DATA_HOME", "~/data")).expanduser()
+            / spec["repo"]
+            / pin["ref"]
+        )
     if not directory.exists():
         return "-"
     total, missing = 0, 0
@@ -369,6 +385,11 @@ def sibling_rows(spec):
         if not path.exists():
             missing += 1
             continue
+        if pin and relative in pin["files"]:
+            with path.open("rb") as stream:
+                digest = hashlib.file_digest(stream, "sha256").hexdigest()
+            if digest != pin["files"][relative]:
+                raise ValueError(f"Pinned coverage input checksum mismatch: {path}")
         if path.suffix == ".parquet":
             total += pq.read_metadata(path).num_rows
         elif path.suffix == ".csv" or path.name.endswith(".csv.gz"):
@@ -486,7 +507,7 @@ def build_rows():
             years = [
                 year
                 for year, path in exports.items()
-                if (DATA / "tn/derived" / path).is_file()
+                if (DATA / "tamil_nadu/release" / path).is_file()
             ]
             if years:
                 table.append(
@@ -497,7 +518,8 @@ def build_rows():
                         "-",
                         "source-specific exports",
                         REMAINING_WORK[state],
-                        "[data/tn/](data/tn/); separate from pooled schema",
+                        "[data/tamil_nadu/](data/tamil_nadu/"
+                        "); separate from pooled schema",
                     )
                 )
                 continue
@@ -554,7 +576,7 @@ def slices():
         for row in rows:
             key = (row.get("state", ""), row.get("year", ""), row.get("tier", ""))
             grouped[key].append(row)
-            directory_of[key] = path.parent.name
+            directory_of[key] = path.parent.parent.name
 
     out = []
     for (state, year, tier), rows in sorted(grouped.items()):
@@ -623,7 +645,7 @@ def _notes(state, year, tier, rows, districts):
     if known and len(known) > 0.1 * len(rows):
         share = 100.0 * sum(1 for f in known if f == "1") / len(known)
         notes.append(f"ward list complete for {share:.0f}% of rows with a stated count")
-    # the full reasoning, and what would close each gap, lives in WORKLIST.md
+    # the full reasoning, and what would close each gap, lives in docs/worklist.md
     return notes
 
 
@@ -656,11 +678,11 @@ def links_in(text):
     return re.findall(r"\[[^\]]*\]\(([^)]+)\)", text)
 
 
-def check_links(text, base=None):
+def check_links(text, base=None, remote=True):
     """Relative paths must exist; http(s) links must answer 200.
 
     `base` is the directory the links are written relative to - the state
-    readmes live a level down, so their `../../SOURCES.md` resolves against
+    readmes live a level down, so their `../../docs/sources.md` resolves against
     data/<state>/ and not against the repository root.
 
     A request that could not be answered is **not** reported as a dead link.
@@ -673,6 +695,8 @@ def check_links(text, base=None):
     dead, unanswered = [], []
     for target in sorted(set(links_in(text))):
         if target.startswith(("http://", "https://")):
+            if not remote:
+                continue
             try:
                 response = fetch.probe(target, timeout=30)
             except fetch.Unanswered as exc:
@@ -681,7 +705,8 @@ def check_links(text, base=None):
             if not 200 <= response.status_code < 300:
                 dead.append((target, response.status_code))
         else:
-            if not (base / target).resolve().exists():
+            local = target.split("#", 1)[0]
+            if local and not (base / local).resolve().exists():
                 dead.append((target, "missing on disk"))
     return dead, unanswered
 
@@ -692,12 +717,15 @@ def main():
     ap.add_argument(
         "--check",
         action="store_true",
-        help="verify links and exit non-zero if any is dead",
+        help="check generated content and local links without writing files",
     )
     ap.add_argument(
         "--dry-run",
         action="store_true",
-        help="print the table without writing README.md",
+        help="print the table without writing docs/coverage.md",
+    )
+    ap.add_argument(
+        "--check-remote", action="store_true", help="also probe external links"
     )
     args = ap.parse_args()
 
@@ -706,9 +734,9 @@ def main():
         print(f"  directories that map to no state: {unmapped}")
 
     table = build_rows()
-    rendered = render(table)
+    rendered = render(table).replace("](data/", "](../data/")
     entries = slices()
-    rendered_slices = render_slices(entries)
+    rendered_slices = render_slices(entries).replace("](data/", "](../data/")
 
     if args.dry_run:
         print(rendered_slices)
@@ -726,21 +754,35 @@ def main():
                 )
             else:
                 text = text.rstrip() + "\n\n" + block + "\n"
-        README.write_text(text, encoding="utf-8")
-        print(f"wrote {README} ({len(entries)} slices, {len(table)} states)")
+        text = text.rstrip() + "\n"
+        if args.check:
+            if text != README.read_text(encoding="utf-8"):
+                print("Coverage is stale; run make coverage")
+                return 1
+        else:
+            README.write_text(text, encoding="utf-8")
+            print(f"wrote {README} ({len(entries)} slices, {len(table)} states)")
 
     status = collections.Counter(row[4] for row in table)
     print("  " + "  ".join(f"{k}={v}" for k, v in status.most_common()))
 
     if args.check:
-        dead, unanswered = check_links(README.read_text(encoding="utf-8"))
-        for path in sorted(DATA.glob("*/readme.md")):
+        dead, unanswered = check_links(
+            README.read_text(encoding="utf-8"), README.parent, remote=args.check_remote
+        )
+        documents = [ROOT / "README.md", *(ROOT / "docs").glob("*.md")]
+        documents += [
+            path
+            for path in DATA.rglob("*.md")
+            if "raw" not in path.parts and "integration" not in path.parts
+        ]
+        for path in sorted(set(documents) - {README}):
             more_dead, more_unanswered = check_links(
-                path.read_text(encoding="utf-8"), path.parent
+                path.read_text(encoding="utf-8"), path.parent, remote=args.check_remote
             )
-            label = path.parent.name
-            dead += [(f"{label}/{t}", why) for t, why in more_dead]
-            unanswered += [(f"{label}/{t}", why) for t, why in more_unanswered]
+            label = path.relative_to(ROOT)
+            dead += [(f"{label}: {t}", why) for t, why in more_dead]
+            unanswered += [(f"{label}: {t}", why) for t, why in more_unanswered]
         if unanswered:
             # not a failure: a link we could not check is not a link that is
             # gone, and calling it one would put a state's gazette on the

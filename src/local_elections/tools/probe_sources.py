@@ -9,7 +9,7 @@ reservation list" is true nearly everywhere and predicts nothing about cost -
 Haryana's notifications happened to be digitally generated text and needed no
 OCR, while every other state opened so far is a scan.
 
-Reads data/sources_seed.csv, writes data/sources_probe.csv.
+Reads data/source_search/sources_seed.csv, writes data/sources_probe.csv.
 """
 
 import argparse
@@ -52,7 +52,7 @@ COLUMNS = [
 # "ward" hits "award", "gram" hits "programme", and the stem "reserv" hits the
 # tender boilerplate "NIC reserves the right to reject any/all quotations" -
 # which is exactly how a computer-disposal notice first passed this check and
-# nearly went into SOURCES.md as evidence that Chhattisgarh was easy.
+# nearly went into docs/sources.md as evidence that Chhattisgarh was easy.
 BODY = re.compile(
     r"\bsarpanch|सरपंच|\bpanchayat\b|पंचायत|\bmukhiya\b|\bhalqa\b"
     r"|\bward\s*(?:no|number|wise)\b|\bजनपद\b",
@@ -189,8 +189,8 @@ def main():
         action="store_true",
         help="list the seed URLs without fetching anything",
     )
-    ap.add_argument("--seed", default=str(DATA / "sources_seed.csv"))
-    ap.add_argument("--out", default=str(DATA / "sources_probe.csv"))
+    ap.add_argument("--seed", default=str(DATA / "source_search/sources_seed.csv"))
+    ap.add_argument("--out", default=str(DATA / "source_search/sources_probe.csv"))
     ap.add_argument(
         "--skip-unreachable",
         action="store_true",

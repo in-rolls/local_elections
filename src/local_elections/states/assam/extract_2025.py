@@ -19,18 +19,18 @@ import subprocess
 import pdfplumber
 
 from local_elections.common.runlog import command, get_logger
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path
 
 LOGGER = get_logger(__name__)
 
-SOURCE = ROOT / "data" / "assam" / "2025_reservation" / "charaideo_reservation.pdf"
+SOURCE = ROOT / "data/assam/raw/2025_reservation/charaideo_reservation.pdf"
 SOURCE_SHA256 = "acce736f20e0fb2f1b9d7780332ea933b9a1009a72bc635691109af1fe0d9c91"
-OUT = ROOT / "data" / "assam" / "2025_extracted"
+OUT = ROOT / "data/assam/interim/2025_extracted"
 PAGES = OUT / "charaideo_pages.jsonl"
 GP_ROSTER = OUT / "charaideo_gp_roster.jsonl"
 OFFICE_ASSIGNMENTS = OUT / "charaideo_office_assignments.jsonl"
 KAMRUP_METROPOLITAN_SOURCE = (
-    ROOT / "data" / "assam" / "2025_reservation" / "reservation_kamrup_m.pdf"
+    ROOT / "data/assam/raw/2025_reservation/reservation_kamrup_m.pdf"
 )
 KAMRUP_METROPOLITAN_SHA256 = (
     "f9f963f017602deb33a93019beb04e7dd5c7a009f42f7a893b0ce93d6857bcfd"
@@ -575,7 +575,7 @@ def page_records(source=SOURCE, source_sha256=SOURCE_SHA256, page_count=10):
         )
         records.append(
             {
-                "source_path": str(source.relative_to(ROOT)),
+                "source_path": historical_path(source, ROOT),
                 "source_pdf": source.name,
                 "source_sha256": source_sha256,
                 "source_page": page,

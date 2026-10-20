@@ -1,6 +1,6 @@
 """Preserve and audit named Birbhum Pradhan reservation survey observations.
 
-Writes data/wb/derived/birbhum_reservations/. One row is a source GP and
+Writes data/west_bengal/release/birbhum_reservations/. One row is a source GP and
 reported period, not a reconciled GP-election assignment. Source disagreements
 and date exceptions remain visible. No fuzzy joins or reservation imputation.
 """
@@ -15,9 +15,9 @@ import pandas as pd
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-BASE = ROOT / "data/wb/vintage_search"
-OUT = ROOT / "data/wb/derived/birbhum_reservations"
-OLD = ROOT / "data/wb/chattopadhyaya_duflo.zip"
+BASE = ROOT / "data/west_bengal/discovery/vintage_search"
+OUT = ROOT / "data/west_bengal/release/birbhum_reservations"
+OLD = ROOT / "data/west_bengal/raw/chattopadhyaya_duflo.zip"
 NEW = BASE / "raw/898f2f74836e83ae.dta"
 NEW_SHA = "e6454a2ae5a36829376557b20a45da7776a2951f9accc05ec75ac289a462d763"
 NEW_URL = (

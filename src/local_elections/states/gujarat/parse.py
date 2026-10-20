@@ -13,7 +13,7 @@ from local_elections.paths import ROOT
 from local_elections.states.gujarat import harvest, ocr
 
 LOGGER = get_logger(__name__)
-RECODE_AUDIT = ROOT / "data" / "gujarat" / "reservation_recode_2020.csv"
+RECODE_AUDIT = ROOT / "data/gujarat/release/reservation_recode_2020.csv"
 CATEGORIES = {
     "બિન અનામત સામાન્ય": ("NONE", 0),
     "સામાન્ય સ્ત્રી": ("NONE", 1),
@@ -217,7 +217,7 @@ def main():
     all_rows = []
     for tier, rows in sorted(by_tier.items()):
         all_rows.extend(rows)
-        stem = ROOT / "data" / "gujarat" / f"{tier}_reservation_2020"
+        stem = ROOT / "data" / "gujarat" / "release" / f"{tier}_reservation_2020"
         emit.write(rows, stem, COLUMNS)
         minimum_match = min(float(row["reservation_match_score"]) for row in rows)
         LOGGER.info(

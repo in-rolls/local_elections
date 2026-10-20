@@ -30,7 +30,7 @@ SERIES = {
         "expected": 29,
     },
 }
-OUT = ROOT / "data" / "gujarat" / "2020_reservation"
+OUT = ROOT / "data/gujarat/raw/2020_reservation"
 MANIFEST = OUT / "manifest.csv"
 PDF_LINK = re.compile(rb'href=["\']([^"\']+\.pdf)["\']', re.I)
 

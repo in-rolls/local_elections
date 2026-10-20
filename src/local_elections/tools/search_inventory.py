@@ -56,7 +56,7 @@ def main():
     registry = pd.read_csv(OUT / "jurisdictions.csv", keep_default_na=False)
     if len(registry) != 36 or registry.state.duplicated().any():
         raise ValueError("Expected the 36 explicitly listed research jurisdictions")
-    archive = pd.read_csv(ROOT / "data/archive_inventory.csv")
+    archive = pd.read_csv(ROOT / "data/source_search/archive_inventory.csv")
     queries = pd.read_csv(ROOT / "data/source_search/early_heads/search_queries.csv")
     inputs = []
     coverage = []
@@ -99,7 +99,7 @@ def main():
     pd.DataFrame(candidates).to_csv(OUT / "candidate_year_tier.csv", index=False)
     supplemental = []
     for state, directory in [("West Bengal", "wb"), ("Tamil Nadu", "tn")]:
-        for path in sorted((ROOT / "data" / directory / "derived").rglob("*.parquet")):
+        for path in sorted((ROOT / "data" / directory / "release").rglob("*.parquet")):
             meta = pq.read_metadata(path)
             supplemental.append(
                 {
@@ -150,7 +150,7 @@ def main():
     )
     for path in [
         OUT / "jurisdictions.csv",
-        ROOT / "data/archive_inventory.csv",
+        ROOT / "data/source_search/archive_inventory.csv",
         ROOT / "data/source_search/early_heads/search_queries.csv",
     ]:
         inputs.append({"path": str(path.relative_to(ROOT)), "sha256": sha256(path)})

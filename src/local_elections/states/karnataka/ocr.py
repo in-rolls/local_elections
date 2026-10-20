@@ -23,7 +23,7 @@ The table is worth more than the tier count suggests. Column 5 is
 `ಪ್ರತಿನಿಧಿಸಿದ ರಾಜಕೀಯ ಪಕ್ಷದ ಹೆಸರು` - the party the winner represented - which
 almost nothing else in the corpus carries.
 
-Cached to data/karnataka/ocr/<stem>.txt, form-feed separated so page numbers
+Cached to data/karnataka/interim/ocr/<stem>.txt, form-feed separated so page numbers
 survive, and committed: the run takes about ten hours on Apple Silicon, so
 leaving it out would mean only one machine could rebuild Karnataka.
 
@@ -45,7 +45,7 @@ from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
 DATA = ROOT / "data" / "karnataka"
-CACHE = DATA / "ocr"
+CACHE = DATA / "interim/ocr"
 
 # One set of the three. The notifications have no text layer at all - every one
 # of the 195 is a copier scan - so Surya reads them directly.
@@ -108,7 +108,7 @@ def main():
     documents = [
         p
         for name in SETS
-        for p in sorted((DATA / name).glob("*.pdf"))
+        for p in sorted((DATA / "raw" / name).glob("*.pdf"))
         if not any(token in p.name for token in SKIP)
     ]
     if args.only:

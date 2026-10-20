@@ -372,7 +372,7 @@ PARSERS = {"2012": parse_2012, "2017": parse_2017, "2022": parse_2022}
 
 def sources(year):
     """The per-taluka documents for a year, skipping gazettes and scans."""
-    directory = GOA / year
+    directory = GOA / "raw" / year
     skip = (
         "elected-members",
         "resevation",
@@ -426,7 +426,7 @@ def main():
                 },
             )
 
-        out = GOA / f"ward_reservation_{year}.csv"
+        out = GOA / "release" / f"ward_reservation_{year}.csv"
         emit.write(rows, out.with_suffix(""), COLUMNS)
 
         talukas = {r["block"] for r in rows}

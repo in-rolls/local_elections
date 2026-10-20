@@ -89,7 +89,8 @@ def women_check(report, rows, year):
 @command("validate", state="Maharashtra")
 def main():
     slices = {
-        year: load(parse.DATA / f"ulb_ward_{year}.csv") for year in parse.DECLARED
+        year: load(parse.DATA / "release" / f"ulb_ward_{year}.csv")
+        for year in parse.DECLARED
     }
     if not all(slices.values()):
         sys.exit("no parsed Maharashtra data - run make maharashtra first")
@@ -109,7 +110,7 @@ def main():
         validation.apply(
             report,
             validation.DatasetExpectation(
-                path=parse.DATA / f"ulb_ward_{year}.csv",
+                path=parse.DATA / "release" / f"ulb_ward_{year}.csv",
                 state="Maharashtra",
                 year=year,
                 tier="ulb_ward",
@@ -154,14 +155,14 @@ def main():
     )
 
     report.section("Supplemental files")
-    seats_2007 = load(parse.MUMBAI / "bmc_seats_2007.csv")
+    seats_2007 = load(parse.DATA / "release/mumbai/bmc_seats_2007.csv")
     women_2007 = sum(r["woman_reserved"] == "1" for r in seats_2007)
     report.check(
         len(seats_2007) == 227 and women_2007 == parse.WOMEN_SEATS["2007"],
         "2007: 227 seats, one third reserved for women (deposit flag)",
         f"{len(seats_2007)} seats, {women_2007} reserved",
     )
-    ratings = load(parse.MUMBAI / "praja_ward_ratings_2011_2018.csv")
+    ratings = load(parse.DATA / "release/mumbai/praja_ward_ratings_2011_2018.csv")
     by_wave = collections.Counter(r["survey_year"] for r in ratings)
     report.check(
         set(by_wave) == {"2011", "2013", "2014", "2015", "2016", "2018"}

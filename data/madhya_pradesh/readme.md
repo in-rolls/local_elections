@@ -6,8 +6,8 @@
 
 2 files on disk.
 
-Inventory: 2 scan, 1 other, 351 pages total.
+Inventory: 2 scan, 351 pages total.
 
 ## What it would take
 
-See [../../SOURCES.md](../../SOURCES.md) for where this state publishes its reservation data and what parsing it involves. A parser lands in `src/local_elections/states/<state>/parse.py`, writes through `local_elections/common/emit.py` so every row carries its source document and page, and is paired with a `validate.py` that checks the result against something outside the data — a published total, a statutory share, a population.
+See [../../docs/sources.md](../../docs/sources.md) for where this state publishes its reservation data and what parsing it involves. A parser lands in `src/local_elections/states/<state>/parse.py`, writes through `local_elections/common/emit.py` so every row carries its source document and page, and is paired with a `validate.py` that checks the result against something outside the data — a published total, a statutory share, a population.

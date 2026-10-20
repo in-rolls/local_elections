@@ -3,7 +3,7 @@
 The top-level readme answers "what does this repository hold". It cannot answer
 "what is in this directory, where did it come from, and what should I not do
 with it" without becoming unreadable, and that is the question someone has who
-has landed in data/jk/ from a search result or a file listing.
+has landed in data/jammu_and_kashmir/ from a search result or a file listing.
 
 Everything here is derived from the files themselves - row counts, women's
 shares, districts, the source documents each row cites, the caveats. Nothing is
@@ -23,7 +23,7 @@ import sys
 
 from local_elections.common import datasets
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path, resolve_path
 from local_elections.states.assam import controls_2025 as assam_controls
 from local_elections.tools import build_coverage as coverage
 
@@ -39,10 +39,10 @@ ASSAM_UNPARSED = assam_controls.UNPARSED_DISTRICT_NOTIFICATIONS
 # not a fact derivable from the rows, so it is written rather than computed -
 # and kept to what a reader needs before using the numbers.
 STATE_NOTES = {
-    "wb": """The pooled slice covers 2018 Zilla Parishad seats. Separately,
-[named Birbhum Pradhan reservation observations](derived/birbhum_reservations/README.md)
+    "west_bengal": """The pooled slice covers 2018 Zilla Parishad seats. Separately,
+[named Birbhum Pradhan reservation observations](release/birbhum_reservations/README.md)
 cover the 1998 and 2003 terms, with raw codes, year exceptions and source
-conflicts preserved. The [reservation gap matrix](vintage_search/README.md)
+conflicts preserved. The [reservation gap matrix](discovery/vintage_search/README.md)
 tracks historical district/cycle coverage. Results without reservation
 fields are tabled and do not fill any reservation gap.
 
@@ -52,10 +52,10 @@ Cooch Behar and Alipurduar for 2023, and historical district sources for
 2003, 2008, 2013 and 2018. Alipurduar's 2018 results archive includes GP
 candidate votes, winners and constituency reservation status.
 
-[Derived tables](derived/README.md) include named Nadia 2013 Pradhan/deputy
+[Derived tables](release/README.md) include named Nadia 2013 Pradhan/deputy
 reservations, historical and 2023 office schedules, ward reservations,
 Alipurduar results and separate verification aggregates. The
-[full page ledger](derived/parsing_inventory/pages.csv) records extraction,
+[full page ledger](interim/parsing_inventory/pages.csv) records extraction,
 parser coverage and remaining review. Office mentions, member seats and
 candidate rows are distinct units; a parsed count does not certify an OCR name.
 
@@ -67,7 +67,7 @@ the pooled reservation dataset.
     "maharashtra": """Mumbai only. The Brihanmumbai Municipal Corporation has 227
 ward seats; two councils are in the schema, `ulb_ward_2012` and `ulb_ward_2017`.
 
-Every file under `mumbai/` arrived as a result table assembled for research, not
+Every original under `raw/mumbai/` arrived as a result table assembled for research, not
 as the State Election Commission's reservation roster, and only one of them
 states the seat reservation at all: the "Present Reservation" column of
 `BMC-2007_raw.xlsx`. **That column is the 2012 draw, not 2007's.** It lists 115
@@ -78,14 +78,14 @@ the 2012 slice's reservation and the 2007 supplemental file's winners.
 
 The 2017 slice takes its reservation from the replication deposit for
 Karekurve-Ramachandra & Lee (2025, *Comparative Political Studies*), Harvard
-Dataverse doi:10.7910/DVN/IO9SLQ, CC0, held under `mumbai/dataverse_IO9SLQ/`
+Dataverse doi:10.7910/DVN/IO9SLQ, CC0, held under `raw/mumbai/dataverse_IO9SLQ/`
 with a manifest and checksums. The authors digitised the commission's result
 handbooks, so for 2017 the reservation is a secondary source. Winners for 2012
 come from a scan transcription (202 of 227 wards named; names are surname-first
 and phonetic) and for 2017 from the commission's result export; both are checked
 against the deposit's councillor names by the validator.
 
-Supplemental files under `mumbai/` carry no `reservation` column and stay out of
+Supplemental files under `release/mumbai/` carry no `reservation` column and stay out of
 the pooled machinery on purpose: `bmc_seats_2007.csv` (2007 winners with the
 women's flag only; caste reservation unknown), `bmc_candidates_<year>.csv` for
 1997, 2002, 2012 and 2017, and the Praja Foundation ward-by-wave citizen ratings
@@ -127,7 +127,7 @@ development-block, and ZPC hierarchy used to review Hailakandi.
 Some source pages contain administrative contact details; derived election
 tables whitelist election fields and do not carry phone numbers or other
 incidental personal data.""",
-    "ap": """All 13 district GP-reservation gazettes are held. Eight have
+    "andhra_pradesh": """All 13 district GP-reservation gazettes are held. Eight have
 passed extraction, parsing, and validation; the other five remain acquired but
 unparsed. Acquisition, text extraction/OCR, and parsing are separate stages.
 `extract.py` retains usable embedded text, `ocr.py` re-reads scans from 300 DPI
@@ -208,7 +208,7 @@ source on name will not work without transliterating first.
 
 The filenames do not reliably say which tier a file holds, so tier is decided
 from the contents. A third of the PDFs have no ruling lines at all.""",
-    "jk": """The holdings are an ad-hoc subset of districts rather than a
+    "jammu_and_kashmir": """The holdings are an ad-hoc subset of districts rather than a
 corpus, and there is no reliable published total to measure them against, so
 no completeness figure is quoted - an invented denominator would be worse than
 admitting there is not one.
@@ -234,7 +234,7 @@ STATE_CHECKS = {
         "the rejected malformed GP-president row and GP-45 hierarchy conflict",
         "every rural child row joining to its district GP left table",
     ],
-    "ap": [
+    "andhra_pradesh": [
         "the complete 13-document official source manifest and file checksums",
         "Kurnool's complete GP serial sequence from 1 through 972",
         "Kadapa's printed 807-GP/50-mandal controls and all 41 errata rows",
@@ -257,7 +257,7 @@ STATE_CHECKS = {
         "how much of the gap is the source's and how much the "
         "parser's, decided by opening the file",
     ],
-    "jk": [
+    "jammu_and_kashmir": [
         "SC-reserved wards against SC population, the strongest check available here",
         "the women's share against the one-third floor",
     ],
@@ -277,7 +277,7 @@ STATE_CHECKS = {
         "the declared row counts for both 2019 GP tiers",
         "source-backed uniqueness and provenance for every row",
     ],
-    "wb": [
+    "west_bengal": [
         "the reviewed total of 825 zilla-parishad seats",
         "all 20 district gazettes represented",
         "complete, unique district seat runs from 1 through N",
@@ -285,16 +285,16 @@ STATE_CHECKS = {
 }
 
 MAKE_TARGET = {
-    "ap": "ap",
+    "andhra_pradesh": "ap",
     "assam": "assam",
     "goa": "goa",
     "gujarat": "gujarat",
     "jharkhand": "jharkhand",
-    "jk": "jk",
+    "jammu_and_kashmir": "jk",
     "karnataka": "karnataka",
     "maharashtra": "maharashtra",
     "telangana": "telangana",
-    "wb": "wb",
+    "west_bengal": "wb",
 }
 
 
@@ -383,11 +383,11 @@ def dataset_files(directory):
     """Parsed outputs in this directory, with what each holds."""
     out = []
     for path, rows in datasets.parsed():
-        if path.parent.name != directory:
+        if path.parent.parent.name != directory:
             continue
         out.append(
             {
-                "name": path.name,
+                "name": "release/" + path.name,
                 "stem": path.stem,
                 "rows": len(rows),
                 "columns": len(rows[0]),
@@ -400,7 +400,7 @@ def dataset_files(directory):
 def source_documents(directory):
     """Every document the rows cite, and whether it is actually here."""
     cited, missing = set(), set()
-    for path in sorted((DATA / directory).glob("*.csv")):
+    for path in sorted((DATA / directory / "release").glob("*.csv")):
         with path.open(encoding="utf-8", errors="replace") as fh:
             reader = csv.DictReader(fh)
             if not reader.fieldnames or "source_path" not in reader.fieldnames:
@@ -410,7 +410,7 @@ def source_documents(directory):
                 if not target:
                     continue
                 cited.add(target)
-                if not (ROOT / target).exists():
+                if not (resolve_path(target, ROOT)).exists():
                     missing.add(target)
     return sorted(cited), sorted(missing)
 
@@ -427,7 +427,7 @@ def source_files(directory):
 
 
 def raw_inventory(directory):
-    path = DATA / "inventory.csv"
+    path = DATA / "source_search/inventory.csv"
     if not path.exists():
         return collections.Counter(), 0
     kinds, pages = collections.Counter(), 0
@@ -486,7 +486,7 @@ def render_parsed(directory, state, entries):
     kinds, pages = raw_inventory(directory)
     total = sum(e["rows"] for e in entries)
     held_pdfs = {
-        str(path.relative_to(ROOT))
+        historical_path(path, ROOT)
         for path in (DATA / directory).rglob("*")
         if path.is_file() and path.suffix.lower() == ".pdf"
     }
@@ -605,7 +605,8 @@ def render_parsed(directory, state, entries):
 
     if uncited:
         groups = collections.Counter(
-            str((ROOT / path).relative_to(DATA / directory).parent) for path in uncited
+            str((resolve_path(path, ROOT)).relative_to(DATA / directory).parent)
+            for path in uncited
         )
         out.append("## Acquired sources outside the parsed slices")
         out.append("")
@@ -632,7 +633,9 @@ def render_parsed(directory, state, entries):
     out.append("")
     out.append(
         f"Parses from the committed documents and rewrites the files "
-        f"above, then runs `src/local_elections/states/{directory}/validate.py`."
+        f"above, then runs "
+        f"`src/local_elections/states/{MAKE_TARGET.get(directory, directory)}/"
+        "validate.py`."
     )
     out.append("")
 
@@ -665,64 +668,10 @@ def render_parsed(directory, state, entries):
         )
         out.append("")
     out.append(
-        "Column meanings are in [../../DICTIONARY.md](../../DICTIONARY.md). "
+        "Column meanings are in [../../docs/dictionary.md](../../docs/dictionary.md). "
         "Expectation violations across every state are triaged into "
-        "[../expectations_report.csv](../expectations_report.csv)."
+        "[../stats/expectations_report.csv](../stats/expectations_report.csv)."
     )
-    return "\n".join(out) + "\n"
-
-
-def render_sibling(directory, state, years, tiers, url, standardized, remaining):
-    """A state parsed in its own repository. What sits here is the source
-    material it was parsed from, which is worth saying plainly - the directory
-    otherwise looks like a state nobody has got to yet.
-    """
-    kinds, pages = raw_inventory(directory)
-    files = source_files(directory)
-    name = url.rsplit("/", 1)[-1]
-    out = [f"# {state} — local body reservation", ""]
-    out.append(
-        "*Generated by `make state-readmes`. Edits here are overwritten "
-        "— change the data or the generator instead.*"
-    )
-    out.append("")
-    out.append(
-        f"**The parsed data for {state} is in "
-        f"[{name}]({url})** — {tiers}, {years}. It was split into its "
-        f"own repository, so it is counted in the [top-level "
-        f"readme](../../README.md) but has no rows here."
-    )
-    out.append("")
-    if files:
-        out.append(
-            f"What is in this directory is source material: {len(files)} "
-            f"{'file' if len(files) == 1 else 'files'}"
-            + (
-                f", {', '.join(f'{n} {k}' for k, n in kinds.most_common())}"
-                + (f", {pages:,} pages" if pages else "")
-                if kinds
-                else ""
-            )
-            + "."
-        )
-    else:
-        out.append(
-            "Source documents and historical tables are maintained in "
-            f"[{name}]({url}). "
-            "This directory keeps no duplicate inputs."
-        )
-    out.append("")
-    out.append(
-        "The pooled adapter reads the sibling's declared parsed files into "
-        "the shared seat and candidate schemas. Files held only in this local "
-        "source directory do not enter that adapter automatically."
-    )
-    if standardized:
-        out.append("")
-        out.append(f"**Pooled outputs:** {standardized}.")
-    if remaining and remaining != "see sibling repository":
-        out.append("")
-        out.append(f"**Remaining work:** {remaining}.")
     return "\n".join(out) + "\n"
 
 
@@ -771,7 +720,7 @@ def render_unparsed(directory, state, status, where):
     out.append("## What it would take")
     out.append("")
     out.append(
-        "See [../../SOURCES.md](../../SOURCES.md) for where this state "
+        "See [../../docs/sources.md](../../docs/sources.md) for where this state "
         "publishes its reservation data and what parsing it involves. "
         "A parser lands in `src/local_elections/states/<state>/parse.py`, writes through "  # noqa: E501
         "`local_elections/common/emit.py` so every row carries its source "
@@ -784,9 +733,9 @@ def render_unparsed(directory, state, status, where):
 
 def render_tn():
     """Summarize nested office exports without registering pooled seat rows."""
-    directory = DATA / "tn"
-    office_path = "derived/heads_2011/gp_president_reservations.csv"
-    operations_path = "derived/amendments_2001/gp_president_amendment_operations.csv"
+    directory = DATA / "tamil_nadu"
+    office_path = "release/heads_2011/gp_president_reservations.csv"
+    operations_path = "release/amendments_2001/gp_president_amendment_operations.csv"
     with (directory / office_path).open(encoding="utf-8", newline="") as source:
         offices = list(csv.DictReader(source))
     with (directory / operations_path).open(encoding="utf-8", newline="") as source:
@@ -808,10 +757,10 @@ def render_tn():
         "| Source | Row unit | Rows | Guide |",
         "|---|---|---:|---|",
         f"| [2011 CSV]({office_path}) | Named GP-president roster entry | "
-        f"{len(offices):,} | [2011 source guide](derived/heads_2011/README.md) |",
+        f"{len(offices):,} | [2011 source guide](release/heads_2011/README.md) |",
         f"| [2001 CSV]({operations_path}) | Amendment operation | "
         f"{len(operations):,} | "
-        "[2001 source guide](derived/amendments_2001/README.md) |",
+        "[2001 source guide](release/amendments_2001/README.md) |",
         "",
         f"The 2011 roster covers {len(districts):,} printed districts and "
         f"{len(unions):,} district/union identities. {unknown:,} reservation "
@@ -832,12 +781,11 @@ def render_tn():
         "",
         "Original rural gazettes and the historical search are recorded in the "
         "[early-source ledger](../source_search/early_heads/README.md). "
-        "[Scan review](derived/scans/review.md) preserves OCR limitations. "
+        "[Scan review](interim/scans/review.md) preserves OCR limitations. "
         "Earlier scans and later amendments do not automatically establish "
         "reservation histories or election outcomes.",
         "",
-        "[Urban Tamil Nadu holdings](../tamil_nadu/readme.md) are maintained "
-        "in their existing directory.",
+        "Urban source documents are held alongside the rural exports in [raw/](raw/).",
         "",
     ]
     return "\n".join(out)
@@ -896,7 +844,7 @@ def render_delhi():
         " to resume collection. "
         "[Sources](release/source_manifest.json), [dictionary](release/schema.json), "
         "[release hashes](release/manifest.json), "
-        "[profile cache manifest](qualification_audit/fetch_manifest.csv) and "
+        "[profile cache manifest](interim/qualification_audit/fetch_manifest.csv) and "
         "[winner matching audit](release/winner_source_audit.parquet)"
         " retain provenance. "
         "The paper in `quota_elite_quality` reads this typed handoff.",
@@ -909,26 +857,16 @@ def build():
     """Return {path: text} for every state directory."""
     entries = slices_by_directory()
     legacy = {d: (state, years) for state, (years, d) in coverage.LEGACY.items()}
-    siblings = {
-        state: (
-            spec["years"],
-            spec["tiers"],
-            f"https://github.com/in-rolls/{spec['repo']}",
-            spec.get("standardized", ""),
-            spec.get("remaining", ""),
-        )
-        for state, spec in coverage.SIBLINGS.items()
-    }
 
     out = {}
     for directory in sorted(
-        p.name for p in DATA.iterdir() if p.is_dir() and p.name not in datasets.DERIVED
+        state for state in datasets.registry() if (DATA / state).is_dir()
     ):
         state = coverage.pretty(directory)
         target = DATA / directory / "readme.md"
         if directory == "delhi":
             out[target] = render_delhi()
-        elif directory == "tn":
+        elif directory == "tamil_nadu":
             out[target] = render_tn()
         elif directory in entries:
             out[target] = render_parsed(directory, state, entries[directory])
@@ -936,11 +874,6 @@ def build():
             name, years = legacy[directory]
             out[target] = render_unparsed(
                 directory, name, "tables, other layout", years
-            )
-        elif state in siblings:
-            years, tiers, url, standardized, remaining = siblings[state]
-            out[target] = render_sibling(
-                directory, state, years, tiers, url, standardized, remaining
             )
         else:
             out[target] = render_unparsed(directory, state, "documents, no parser", "")

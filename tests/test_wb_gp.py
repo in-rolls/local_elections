@@ -4,7 +4,7 @@ import json
 
 import pytest
 
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path, resolve_path
 from local_elections.states.wb import parse_hooghly, parse_nadia, parse_results
 
 
@@ -72,13 +72,14 @@ def test_multi_seat_reservations_are_assigned_to_the_printed_seat():
 
 def test_native_source_controls_detect_a_missing_seat():
     source = (
-        ROOT
-        / "data/wb/gp_source_search/historical_expansion"
-        / "nadia_Chanduria-II_61a7353a.pdf"
+        ROOT / "data/west_bengal/discovery/gp_source_search/historical_expansion/"
+        "nadia_Chanduria-II_61a7353a.pdf"
     )
-    index = json.loads((ROOT / "data/wb/derived/native/index.json").read_text())
-    entry = next(r for r in index if r["source_path"] == str(source.relative_to(ROOT)))
-    record = json.loads((ROOT / entry["cache"]).read_text())
+    index = json.loads(
+        (ROOT / "data/west_bengal/interim/native/index.json").read_text()
+    )
+    entry = next(r for r in index if r["source_path"] == historical_path(source, ROOT))
+    record = json.loads((resolve_path(entry["cache"], ROOT)).read_text())
     rows, audit = parse_nadia.parse_document(record, entry["source_path"])
     assert len(rows) == 5
     assert audit["checks"] == []
@@ -153,7 +154,7 @@ def test_declared_winner_can_win_a_tie():
 
 
 def test_candidate_serials_do_not_split_a_constituency():
-    caches = ROOT / "data/wb/derived/alipurduar_2018/ocr"
+    caches = ROOT / "data/west_bengal/interim/alipurduar_2018/ocr"
     record = next(
         r
         for p in caches.glob("*.json")
@@ -174,7 +175,7 @@ def test_candidate_serials_do_not_split_a_constituency():
 
 
 def test_gp_continuation_pages_and_mixed_document_tiers():
-    caches = ROOT / "data/wb/derived/alipurduar_2018/ocr"
+    caches = ROOT / "data/west_bengal/interim/alipurduar_2018/ocr"
     records = [json.loads(p.read_text()) for p in caches.glob("*.json")]
     continuation = next(
         r
@@ -191,10 +192,12 @@ def test_gp_continuation_pages_and_mixed_document_tiers():
 
 
 def test_native_page_coverage_matches_an_independent_reader():
-    index = json.loads((ROOT / "data/wb/derived/native/index.json").read_text())
+    index = json.loads(
+        (ROOT / "data/west_bengal/interim/native/index.json").read_text()
+    )
     assert index
     for source in index:
-        record = json.loads((ROOT / source["cache"]).read_text())
+        record = json.loads((resolve_path(source["cache"], ROOT)).read_text())
         assert source["pages"] == record["expected_pages"] > 0
         assert len(record["pages"]) == record["expected_pages"]
 

@@ -58,3 +58,20 @@ def resolve(provider, root=None):
         finally:
             temporary.unlink(missing_ok=True)
     return directory, revision
+
+
+def pinned_directory(provider, root=None):
+    """Locate a pinned cache without fetching or modifying any files."""
+    root = ROOT if root is None else pathlib.Path(root)
+    registry = root / "data/sources.json"
+    if not registry.is_file():
+        return None
+    specification = json.loads(registry.read_text()).get(provider)
+    if specification is None:
+        return None
+    directory = (
+        pathlib.Path(os.environ.get("INDIA_DATA_HOME", "~/data")).expanduser()
+        / provider
+        / specification["ref"]
+    )
+    return directory if directory.is_dir() else None

@@ -1,12 +1,14 @@
 """Extract J&K's 2010 digital tables without interpreting their contents.
 
-The source PDFs are already held in ``data/jk/2010``.  This command records
+The source PDFs are already held in ``data/jammu_and_kashmir/raw/2010``.  This command
+records
 what pdfplumber sees on every page as JSONL: the page text and every table cell,
 including blank cells, punctuation, and repeated headers.  The parser consumes
 that cache and never opens a PDF, keeping document extraction separate from
 the decisions that turn a printed row into a seat.
 
-Writes ``data/jk/2010_extracted/pages.jsonl``.  One record is one PDF page.
+Writes ``data/jammu_and_kashmir/interim/2010_extracted/pages.jsonl``.  One record is
+one PDF page.
 """
 
 import hashlib
@@ -16,12 +18,12 @@ from pathlib import Path
 import pdfplumber
 
 from local_elections.common.runlog import command, get_logger
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path
 
 LOGGER = get_logger(__name__)
 
-SOURCE_DIR = ROOT / "data" / "jk" / "2010"
-OUT_DIR = ROOT / "data" / "jk" / "2010_extracted"
+SOURCE_DIR = ROOT / "data/jammu_and_kashmir/raw/2010"
+OUT_DIR = ROOT / "data/jammu_and_kashmir/interim/2010_extracted"
 OUT = OUT_DIR / "pages.jsonl"
 SCHEMA_VERSION = 1
 
@@ -48,7 +50,7 @@ def page_records(paths=None):
                 table_count += len(tables)
                 yield {
                     "schema_version": SCHEMA_VERSION,
-                    "source_path": str(path.relative_to(ROOT)),
+                    "source_path": historical_path(path, ROOT),
                     "source_pdf": path.name,
                     "source_sha256": digest,
                     "source_page": page.page_number,

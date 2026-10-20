@@ -22,9 +22,9 @@ import pdfplumber
 from PIL import Image
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 
-OUT = ROOT / "data/tn/derived/scans"
+OUT = ROOT / "data/tamil_nadu/interim/scans"
 MANIFEST = ROOT / "data/source_search/early_heads/source_manifest.csv"
 SOURCES = {
     "tn_1_58_1996_401_en": {
@@ -66,7 +66,7 @@ def load_sources(manifest=MANIFEST, root=ROOT, specifications=None):
         if len(matches) != 1:
             raise ValueError(f"Expected one acquisition manifest row: {source_id}")
         row = matches[0]
-        source = root / row["path"]
+        source = resolve_path(row["path"], root)
         if digest(source) != spec["sha256"] or row["sha256"] != spec["sha256"]:
             raise ValueError(f"Source/acquisition hash mismatch: {source_id}")
         with pdfplumber.open(source) as pdf:

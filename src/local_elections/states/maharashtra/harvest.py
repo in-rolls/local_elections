@@ -1,7 +1,7 @@
 """Acquire the Karekurve-Ramachandra & Lee (2025) Mumbai deposit from Dataverse.
 
 The Brihanmumbai Municipal Corporation files already held in
-``data/maharashtra/mumbai/`` are result tables. They state which seat a woman
+``data/maharashtra/raw/mumbai/`` are result tables. They state which seat a woman
 was elected to, not which seat was reserved for one, for every cycle but one -
 and that one (the 2007 sheet) carries the *2012* reservation beside the 2007
 winners. The seat reservation for the 2007 and 2017 councils is public only in
@@ -28,7 +28,7 @@ SOURCE_ID = "harvard_dataverse_IO9SLQ_karekurve_lee_2025"
 DOI = "doi:10.7910/DVN/IO9SLQ"
 LANDING = f"https://dataverse.harvard.edu/dataset.xhtml?persistentId={DOI}"
 API = "https://dataverse.harvard.edu/api/access/datafile"
-OUT = ROOT / "data" / "maharashtra" / "mumbai" / "dataverse_IO9SLQ"
+OUT = ROOT / "data/maharashtra/raw/mumbai/dataverse_IO9SLQ"
 MANIFEST = OUT / "manifest.csv"
 
 # Dataverse file id -> (label as deposited, format)

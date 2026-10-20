@@ -22,7 +22,8 @@ noticed. So a skipped check on a slice over SKIP_FLOOR rows now fails.
 import collections
 import pathlib
 
-from local_elections.common import canon, dictionary, normalize, reference
+from local_elections.common import canon, dictionary, normalize, reference, sources
+from local_elections.paths import resolve_path
 
 FAIL_STATUSES = ("fail",)
 
@@ -628,14 +629,18 @@ def provenance_resolves(s):
         )
 
     repo = (s.rows[0].get("source_repo") or "") if s.rows else ""
-    root = s.root if repo in ("", "local_elections") else s.root.parent / repo
-    if not root.exists():
-        return result(SKIP, "", "", f"{repo} is not checked out here")
+    roots = [s.root] if repo in ("", "local_elections") else [s.root.parent / repo]
+    if repo not in ("", "local_elections"):
+        cached = sources.pinned_directory(repo, s.root)
+        if cached:
+            roots.insert(0, cached)
+    if not any(root.exists() for root in roots):
+        return result(SKIP, "", "", f"{repo} is not available locally")
 
     missing = {
         p
         for p in {r.get("source_path", "") for r in s.rows}
-        if not p or not (root / p).exists()
+        if not p or not any(resolve_path(p, root).exists() for root in roots)
     }
     return result(
         FAIL if missing else PASS,

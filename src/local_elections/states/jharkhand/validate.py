@@ -22,7 +22,7 @@ from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
 DATA = ROOT / "data" / "jharkhand"
-SOURCE = DATA / "2015"
+SOURCE = DATA / "raw/2015"
 
 # Published figures for the 2015 Jharkhand panchayat election.
 OFFICIAL = {"mukhiya": 4345, "panchayat_samiti": 5423, "zila_parishad": 545}
@@ -34,7 +34,7 @@ RE_MUKHIYA_TOKEN = "eqf[k;k"
 
 
 def load(tier):
-    path = DATA / f"{tier}_reservation_2015.csv"
+    path = DATA / "release" / f"{tier}_reservation_2015.csv"
     if not path.exists():
         return None
     with path.open(encoding="utf-8") as fh:
@@ -42,7 +42,7 @@ def load(tier):
 
 
 def formats():
-    path = DATA.parent / "inventory.csv"
+    path = DATA.parent / "source_search/inventory.csv"
     if not path.exists():
         return {}
     with path.open(encoding="utf-8") as fh:
