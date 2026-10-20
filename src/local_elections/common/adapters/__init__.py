@@ -24,6 +24,7 @@ from . import (
     kerala,
     rajasthan,
     tamil_nadu,
+    telangana,
     uttar_pradesh,
     uttarakhand,
 )
@@ -35,6 +36,7 @@ REGISTRY = {
     "Kerala": kerala,
     "Rajasthan": rajasthan,
     "Tamil Nadu": tamil_nadu,
+    "Telangana": telangana,
     "Uttar Pradesh": uttar_pradesh,
     "Uttarakhand": uttarakhand,
 }
