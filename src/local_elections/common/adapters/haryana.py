@@ -97,7 +97,7 @@ DECLARED = {
 # its printed category and carries the flag.
 DEFECTS = "data/{year}/reference/category_defects.csv"
 UNRELIABLE = ("reservation_unreliable", "caste_unreliable")
-INFERRED = "data/inferred/winner_female_probability_{year}.parquet"
+INFERRED = "data/inferred/winner_woman_probability_{year}.parquet"
 LINKS = {
     ("2000", "2005"): "data/linkage/gp_2000_2005.parquet",
     ("2005", "2010"): "data/linkage/gp_2005_2010.parquet",
@@ -133,7 +133,7 @@ def inferred_sex(root, year):
     # the key. In 2000, 374 sarpanch rows have no serial the scan could read,
     # and two Om Parkashes win in Tosham, so the printed GP name is too.
     for r in pq.read_table(path).to_pylist():
-        probability = r["winner_female_probability_from_name"]
+        probability = r["winner_woman_probability"]
         if probability is None or probability != probability:
             continue
         key = (
@@ -147,7 +147,7 @@ def inferred_sex(root, year):
             raise SystemExit(f"{REPO}: {year} inferred sex repeats {key}")
         out[key] = {
             "winner_female_probability_from_name": f"{probability:.6f}",
-            "winner_female_probability_method": r["winner_female_probability_method"],
+            "winner_female_probability_method": r["winner_woman_probability_method"],
         }
     return out
 
@@ -209,7 +209,7 @@ def slices(root):
 
 
 def convert(row, year, tier, tier_local, path, root):
-    local = row.get("caste_reservation", "")
+    local = row.get("reserved_caste", "")
     printed_winner = row.get("winner", "")
     printed_place = row.get("gram_panchayat", "")
     if row.get("script") == "krutidev":
@@ -237,7 +237,7 @@ def convert(row, year, tier, tier_local, path, root):
         # another state's BC - the fold is kept reversible
         "caste_reservation": "BC" if local == "BC_A" else local,
         "caste_reservation_local": local,
-        "woman_reserved": row.get("woman_reserved", ""),
+        "woman_reserved": row.get("reserved_woman", ""),
         # Rebuilt from the pooled category, not carried across. Haryana prints
         # "BC-A Other than Woman" against a caste_reservation of BC, so the
         # label as printed disagrees with the two fields it is meant to
@@ -246,11 +246,11 @@ def convert(row, year, tier, tier_local, path, root):
         # caste or women's mark could not be read gets no label: rebuilding one
         # would read the silence as "General" or "Other than Woman".
         "reservation": label(
-            "BC" if local == "BC_A" else local, str(row.get("woman_reserved")) == "1"
+            "BC" if local == "BC_A" else local, str(row.get("reserved_woman")) == "1"
         )
-        if local and str(row.get("woman_reserved", "")) in ("0", "1")
+        if local and str(row.get("reserved_woman", "")) in ("0", "1")
         else "",
-        "reservation_raw": row.get("reservation_raw", ""),
+        "reservation_raw": row.get("reserved_raw", ""),
         "winner": row.get("winner", ""),
         "winner_basis": "published" if (row.get("winner") or "").strip() else "",
         "relation_name": row.get("father_husband", ""),

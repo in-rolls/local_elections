@@ -44,13 +44,13 @@ SHA256 = {
         "690f4e18e5e73558bb578f539b1c957c09dd17469b49726f69961c636b3d1fab"
     ),
     "current_reservations.parquet": (
-        "a432377012f1d55f5862f44fe3f9f8a4b391b1b215fc44c5d5d626f96dc71073"
+        "45341aeecf7157e8028e4d96275d2f62b596da0d36190d6cbb4012c30347c142"
     ),
     "winners.parquet": (
-        "32c40abc700179c19c8ff0c36ce860c34640e22a3be534f51fb77f78031b3c10"
+        "28674c909f05c179cfaf93c942cfed17561f6ea1ba10251b083d290db2f3d9f6"
     ),
     "candidates.parquet": (
-        "8e6fda01045edf245cc0c7d46665f3496c5e41323775a3900300a9ae0b9537be"
+        "e5679156c18bd8ae44d8983484f27fac26fcda1d658d17bf1aff67a8c14f5768"
     ),
 }
 DECLARED = {
@@ -85,6 +85,14 @@ YEAR = "2021"
 STATE = "Bihar"
 REPO = "local_elections_bihar"
 URL = "https://github.com/in-rolls/local_elections_bihar"
+
+
+# The sibling's candidate_woman is 1 / 0 / null; this repository's gender text
+# keeps "other", which the sibling leaves null and prints in candidate_woman_raw.
+def gender_text(woman, raw):
+    if woman is not None:
+        return {1: "female", 0: "male"}[int(woman)]
+    return "other" if (raw or "").strip() == "अन्य" else ""
 
 
 def read_release(root):
@@ -140,7 +148,7 @@ def convert(tables):
     seats = []
     for unit in tables["seats.parquet"]:
         key = seat_key(unit)
-        stated = reservations[key]["seat_reservation"] if key in reservations else ""
+        stated = reservations[key]["reserved_raw"] if key in reservations else ""
         if not stated:
             raise ValueError(f"Bihar seat with no reservation feed row: {key}")
         caste = normalize.caste_of(stated)
@@ -206,7 +214,7 @@ def convert(tables):
             "seat_members": [],
         }
         for row in contestants:
-            gender = (row["candidate_gender"] or "").strip()
+            gender = gender_text(row["candidate_woman"], row["candidate_woman_raw"])
             seat["seat_members"].append(
                 {
                     **{k: v for k, v in seat.items() if k != "seat_members"},

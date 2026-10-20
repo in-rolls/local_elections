@@ -37,7 +37,7 @@ STATE = "Jharkhand"
 YEARS = ("2015", "2022")
 RESULTS = "data/{year}/mukhiya_results.parquet"
 LINKS = {("2015", "2022"): "data/linkage/gp_2015_2022.parquet"}
-INFERRED = "data/inferred/winner_female_probability_{year}.parquet"
+INFERRED = "data/inferred/winner_woman_probability_{year}.parquet"
 
 DECLARED = {
     "data/2015/mukhiya_results.parquet": 4137,
@@ -91,7 +91,7 @@ def inferred_sex(root, year):
     rows = read(root, INFERRED.format(year=year)) or []
     out = {}
     for r in rows:
-        probability = r.get("winner_female_probability_from_name")
+        probability = r.get("winner_woman_probability")
         if probability is None or probability != probability:
             continue
         key = printed_at(r)
@@ -99,15 +99,15 @@ def inferred_sex(root, year):
             raise SystemExit(f"{REPO}: {year} inferred sex repeats {key}")
         out[key] = {
             "winner_female_probability_from_name": f"{probability:.6f}",
-            "winner_female_probability_method": r["winner_female_probability_method"],
+            "winner_female_probability_method": r["winner_woman_probability_method"],
         }
     return out
 
 
 def seat(r, inferred):
-    caste = text(r.get("caste_reservation"))
+    caste = text(r.get("reserved_caste"))
     caste = caste if caste in CASTES else ""
-    woman = text(r.get("woman_reserved"))
+    woman = text(r.get("reserved_woman"))
     stated = caste != "" and woman != ""
     where = locator(r["district"], r["block_no"], r["gp_no"], r["gram_panchayat"])
     row = {
@@ -120,11 +120,11 @@ def seat(r, inferred):
         "gram_panchayat": text(r.get("gram_panchayat")),
         "gp_no": f"{text(r.get('block_no'))}/{text(r.get('gp_no'))}",
         "caste_reservation": caste,
-        "caste_reservation_local": text(r.get("reservation_raw")),
+        "caste_reservation_local": text(r.get("reserved_raw")),
         "woman_reserved": woman,
         "gender_stated": "1" if woman != "" else "0",
         "reservation": label(caste, woman == "1") if stated else "",
-        "reservation_raw": text(r.get("reservation_raw")),
+        "reservation_raw": text(r.get("reserved_raw")),
         "winner": text(r.get("winner")),
         "winner_basis": "published" if text(r.get("winner")) else "",
         "vacant": text(r.get("vacant")),

@@ -72,7 +72,7 @@ than a defect.
 | `gender_stated` | boolean | warn | ≤0% blank | Whether the source actually stated this seat's gender. Where a document marks only the women's seats a bare code is a man; where it marks both, a bare code is a marker that did not survive the scan, and woman_reserved=0 there is a guess. Filter on this before computing a women's share. |
 | `printings_agree` | boolean | warn | — | Whether the gazette's separate statements of this seat say the same thing. Blank where the seat is stated only once - which is not the same as agreeing. Two independent typesettings agreeing is the strongest evidence available here that a row was read correctly. |
 | `text_source` | enum | info | one of `ocr`, `embedded`, `embedded_positioned` | Whether the row came from our own OCR or the PDF's embedded text layer. `embedded_positioned` means word coordinates, not line order, determine the table cells. |
-| `script` | enum | error | one of `latin`, `krutidev`, `devanagari`, `bengali`, `kannada`, `gujarati`; ≤0% blank | Which typesetting the row was read from. |
+| `script` | enum | error | one of `latin`, `krutidev`, `devanagari`, `bengali`, `kannada`, `gujarati`, `tamil`; ≤0% blank | Which typesetting the row was read from. |
 | `source_pdf` | string | error | length 4–80; ≤0% blank |  |
 | `source_path` | path | error | ≤0% blank | Relative to data/, and checked by opening it rather than by matching a pattern - a first attempt at a filename regex rejected 1,783 perfectly good Jharkhand rows because one file is called 'Gomia_GPS, GPM & GPVM.pdf'. What matters is that the document is there, not what it is called. |
 | `source_page` | integer | error | range 1–2000; ≤0% blank |  |

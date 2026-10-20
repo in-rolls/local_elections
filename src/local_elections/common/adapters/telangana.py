@@ -41,15 +41,15 @@ YEARS = ("2019", "2025")
 RESULTS = "data/{year}/sarpanch_results.parquet"
 WARDS = "data/2019/ward_results.parquet"
 LINKS = {("2019", "2025"): "data/linkage/gp_2019_2025.parquet"}
-INFERRED = "data/inferred/winner_female_probability_{year}.parquet"
+INFERRED = "data/inferred/winner_woman_probability_{year}.parquet"
 
 DECLARED = {
     "data/2019/sarpanch_results.parquet": 12018,
     "data/2025/sarpanch_results.parquet": 12735,
     "data/2019/ward_results.parquet": 49823,
     "data/linkage/gp_2019_2025.parquet": 11464,
-    "data/inferred/winner_female_probability_2019.parquet": 12018,
-    "data/inferred/winner_female_probability_2025.parquet": 12702,
+    "data/inferred/winner_woman_probability_2019.parquet": 12018,
+    "data/inferred/winner_woman_probability_2025.parquet": 12702,
 }
 
 # This repository's own 2019 sarpanch parse, replaced by the sibling's.
@@ -96,19 +96,19 @@ def inferred_sex(root, year):
             raise SystemExit(f"{REPO}: {year} inferred sex repeats {key}")
         out[key] = {
             "winner_female_probability_from_name": (
-                f"{r['winner_female_probability_from_name']:.6f}"
+                f"{r['winner_woman_probability']:.6f}"
             ),
-            "winner_female_probability_method": r["winner_female_probability_method"],
+            "winner_female_probability_method": r["winner_woman_probability_method"],
         }
     return out
 
 
 def seat(r, inferred):
-    caste = text(r.get("caste_reservation"))
+    caste = text(r.get("reserved_caste"))
     caste = caste if caste in CASTES else ""
-    woman = text(r.get("woman_reserved"))
+    woman = text(r.get("reserved_woman"))
     stated = caste != "" and woman != ""
-    raw = text(r.get("reservation_raw"))
+    raw = text(r.get("reserved_raw"))
     row = {
         "state": STATE,
         "year": text(r.get("year")),
