@@ -87,14 +87,6 @@ REPO = "local_elections_bihar"
 URL = "https://github.com/in-rolls/local_elections_bihar"
 
 
-# The sibling's candidate_woman is 1 / 0 / null; this repository's gender text
-# keeps "other", which the sibling leaves null and prints in candidate_woman_raw.
-def gender_text(woman, raw):
-    if woman is not None:
-        return {1: "female", 0: "male"}[int(woman)]
-    return "other" if (raw or "").strip() == "अन्य" else ""
-
-
 def read_release(root):
     """Every declared table, refused if a byte, a count or a column moved."""
     directory = root / RELEASE
@@ -214,7 +206,7 @@ def convert(tables):
             "seat_members": [],
         }
         for row in contestants:
-            gender = gender_text(row["candidate_woman"], row["candidate_woman_raw"])
+            gender = (row["candidate_woman_raw"] or "").strip()
             seat["seat_members"].append(
                 {
                     **{k: v for k, v in seat.items() if k != "seat_members"},
@@ -223,7 +215,9 @@ def convert(tables):
                     "in_candidate_list": int(bool(row["in_candidate_list"])),
                     "relation_name": (row["guardian_name"] or "").strip(),
                     "candidate_gender": gender,
-                    "candidate_woman": {"female": 1, "male": 0}.get(gender, ""),
+                    "candidate_woman": ""
+                    if row["candidate_woman"] is None
+                    else row["candidate_woman"],
                     "candidate_age": (
                         ""
                         if row["candidate_age"] is None

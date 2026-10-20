@@ -180,10 +180,10 @@
     }
   },
   "local_elections_jharkhand": {
-    "ref": "297943df1acaa6094f65badb7d7ad5992b9a19af",
+    "ref": "f9d287498a4c1df8b28a60efee58483731de980b",
     "files": {
-      "data/2015/mukhiya_results.parquet": "87e81bc2027131785440a3d719570cb25223556b24b2b940ed003e6c36cb42f6",
-      "data/2022/mukhiya_results.parquet": "9797a87e26dd77a8d3442f841e0d8a80b6e2c0044537aeb0b6680350db1b8a8e",
+      "data/2015/mukhiya_results.parquet": "afde1ec88a0e09a5ea052238f72dab1dfd2241d05581259b85728cd6593e6157",
+      "data/2022/mukhiya_results.parquet": "be844a83ab6d8fc36fba74b318d788a97bd0b9dbcee749f6f2b8c1fe40253910",
       "data/linkage/gp_2015_2022.parquet": "8ac41eb2150bdc4df18ed0fb9b74c4cb41b99cd48bb0ca9f1ccb40dd39f2da93",
       "data/inferred/winner_woman_probability_2015.parquet": "3421730006bb42e771f2d8a1dfc2eb01018b766708ea549b5ad742ba1e2299a2",
       "data/inferred/winner_woman_probability_2022.parquet": "e21048c3a1c3aa1beb3b1ea7e068bc5778b0bf8debb58406eee679152449dfd7"

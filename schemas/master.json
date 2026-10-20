@@ -180,6 +180,14 @@
       }
     },
     {
+      "name": "district_latin_method",
+      "type": "string",
+      "description": "The transliteration model, and its version where the run recorded one. Blank where the reading is blank.",
+      "constraints": {
+        "maxLength": 80
+      }
+    },
+    {
       "name": "block_latin",
       "type": "string",
       "description": "Block romanized by tools/transliterate.py.",
@@ -189,12 +197,28 @@
       }
     },
     {
+      "name": "block_latin_method",
+      "type": "string",
+      "description": "The transliteration model, and its version where the run recorded one. Blank where the reading is blank.",
+      "constraints": {
+        "maxLength": 80
+      }
+    },
+    {
       "name": "gram_panchayat_latin",
       "type": "string",
       "description": "Panchayat romanized by tools/transliterate.py.",
       "constraints": {
         "minLength": 1,
         "maxLength": 255
+      }
+    },
+    {
+      "name": "gram_panchayat_latin_method",
+      "type": "string",
+      "description": "The transliteration model, and its version where the run recorded one. Blank where the reading is blank.",
+      "constraints": {
+        "maxLength": 80
       }
     },
     {
@@ -229,7 +253,7 @@
       }
     },
     {
-      "name": "caste_reservation",
+      "name": "reserved_caste",
       "type": "string",
       "description": "Caste category the seat is reserved for; NONE = unreserved. A property of the seat, never of the winner.",
       "constraints": {
@@ -243,7 +267,7 @@
       }
     },
     {
-      "name": "caste_reservation_local",
+      "name": "reserved_caste_local",
       "type": "string",
       "description": "The state's own caste label before the fold to SC/ST/BC/NONE.",
       "constraints": {
@@ -251,7 +275,7 @@
       }
     },
     {
-      "name": "caste_scheme",
+      "name": "reserved_caste_scheme",
       "type": "string",
       "description": "The state's reservation regime, which fixes what BC means.",
       "constraints": {
@@ -266,15 +290,18 @@
       }
     },
     {
-      "name": "woman_reserved",
-      "type": "boolean",
-      "description": "Seat reserved for a woman. Never filled from a name.",
+      "name": "reserved_woman",
+      "type": "integer",
+      "description": "1 if the seat is reserved for a woman, 0 if not. Never filled from a name.",
       "constraints": {
+        "minimum": 0,
+        "maximum": 1,
         "required": true
-      }
+      },
+      "arrow": "int8"
     },
     {
-      "name": "reservation",
+      "name": "reserved_label",
       "type": "string",
       "description": "Caste and woman reservation combined.",
       "constraints": {
@@ -292,7 +319,7 @@
       }
     },
     {
-      "name": "reservation_raw",
+      "name": "reserved_raw",
       "type": "string",
       "description": "The reservation exactly as printed.",
       "constraints": {
@@ -348,6 +375,14 @@
       "constraints": {
         "minLength": 1,
         "maxLength": 255
+      }
+    },
+    {
+      "name": "winner_latin_method",
+      "type": "string",
+      "description": "The transliteration model, and its version where the run recorded one. Blank where the reading is blank.",
+      "constraints": {
+        "maxLength": 80
       }
     },
     {

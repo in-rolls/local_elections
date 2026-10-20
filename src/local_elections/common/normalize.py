@@ -395,6 +395,11 @@ RECORDED_GENDER = {
     "third gender": "other",
     "transgender": "other",
     "तृतीय लिंग": "other",
+    "अन्य": "other",
+    "பெண்": "female",
+    "ஆண்": "male",
+    "மற்றவர்": "other",
+    "o": "other",
 }
 
 

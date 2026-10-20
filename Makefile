@@ -251,7 +251,7 @@ verify-evidence-archives:
 # Prepares and checks a release. It deliberately does not tag: a tag is one of
 # the few things you cannot take back, so this prints the command and a human
 # runs it.
-release-check: test validate master stats worklist coverage manifest verify verify-evidence verify-evidence-archives
+release-check: test validate master naming stats worklist coverage manifest verify verify-evidence verify-evidence-archives
 	@$(PY) -m local_elections.tools.release_check $(VERSION)
 
 stats:
@@ -272,9 +272,9 @@ sources:
 state-readmes:
 	$(PY) -m local_elections.tools.build_state_readmes
 
-# Column names against NAMING.md; reports until every repository is renamed.
+# Column names against NAMING.md, in the pooled tables and every pinned sibling file.
 naming:
-	$(PY) -m local_elections.tools.naming
+	$(PY) -m local_elections.tools.naming --strict
 
 expect:
 	$(PY) -m local_elections.common.expectations

@@ -95,16 +95,13 @@ def district_names(root):
 
 
 def member(c):
-    # மற்றவர் ("other") is null in candidate_woman; its printed text says so
-    gender = GENDER_OF.get(text(c.get("candidate_woman"))) or (
-        "other" if text(c.get("candidate_woman_raw")) == "மற்றவர்" else ""
-    )
     return {
         "candidate_no": text(c.get("candidate_no")),
         "candidate_name": text(c.get("candidate_name")),
         "relation_name": text(c.get("relation_name")),
-        "candidate_gender": gender,
-        "candidate_woman": {"female": "1", "male": "0"}.get(gender, ""),
+        # as printed (published as candidate_woman_raw)
+        "candidate_gender": text(c.get("candidate_woman_raw")),
+        "candidate_woman": text(c.get("candidate_woman")),
         "votes": text(c.get("votes")),
         "result": text(c.get("result")),
         "elected": text(c.get("elected")),
@@ -134,6 +131,7 @@ def seat(r, names, members):
         "reservation_raw": text(r.get("reserved_raw")),
         "winner": text(r.get("winner")),
         "winner_gender": GENDER_OF.get(text(r.get("winner_woman")), ""),
+        "winner_gender_raw": text(r.get("winner_woman_raw")),
         "winner_basis": text(r.get("winner_basis")),
         "votes": text(r.get("votes")),
         "runner_up": text(r.get("runner_up")),

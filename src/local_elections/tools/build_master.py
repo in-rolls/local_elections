@@ -377,7 +377,9 @@ def write(rows, extras, dropped, candidates, supplemental):
             )
         )
 
-    write_parquet("master_extras.parquet", ["row_id", "column", "value"], extras)
+    write_parquet(
+        "master_extras.parquet", ["row_id", "column", "value"], published_extras(extras)
+    )
 
     for table in supplemental:
         written.append(write_parquet(table["name"], table["columns"], table["rows"]))
@@ -404,6 +406,23 @@ def write(rows, extras, dropped, candidates, supplemental):
             writer.writeheader()
             writer.writerows(data)
     return written
+
+
+def published_extras(extras):
+    """The long-form extras under their published names and values. A
+    winner_gender of "other" has no winner_woman value; it stays readable in
+    winner_woman_raw, so its row is not written.
+    """
+    out = []
+    for row in extras:
+        value = M.published_value(row["column"], row["value"])
+        if str(value).strip():
+            out.append(dict(row, column=M.published(row["column"]), value=value))
+    return out
+
+
+# 1 / 0 / null integers, as NAMING.md types every *_woman column.
+INT8 = {"reserved_woman", "reserved_woman_stated", "candidate_woman", "winner_woman"}
 
 
 def slug_of(state):
@@ -447,7 +466,9 @@ def write_parquet(name, columns, rows):
     corpus altered. The manifest records the writer version so that reads as
     what it is rather than as data drift.
     """
-    table = pa.table({column: cast(name, column, rows) for column in columns})
+    table = pa.table(
+        {M.published(column): published_type(name, column, rows) for column in columns}
+    )
     path = OUT / name
     pq.write_table(table, path, compression="zstd")
     return (path, len(rows))
@@ -465,6 +486,24 @@ ARROW_TYPES = {
 }
 
 TRUE, FALSE = {"1", "true", "True", "yes"}, {"0", "false", "False", "no"}
+
+
+def published_type(filename, column, rows):
+    """The column as published: an *_woman flag as Int8, the rest as declared."""
+    if M.published(column) not in INT8:
+        return cast(filename, column, rows)
+    values = []
+    for row in rows:
+        text = str(row.get(column, "") if row.get(column) is not None else "").strip()
+        if text in TRUE:
+            values.append(1)
+        elif text in FALSE:
+            values.append(0)
+        elif text == "":
+            values.append(None)
+        else:
+            raise SystemExit(f"{filename}: {column} holds {text!r}, not 1/0")
+    return pa.array(values, type=pa.int8())
 
 
 def cast(filename, column, rows):
@@ -582,12 +621,12 @@ def render_readme(rows, dropped, candidates, counts, written):
         "offices. Bihar's *sarpanch* heads a village court, not the "
         "panchayat. Group on `tier`; check against a gazette with "
         "`tier_local`.",
-        "- **`caste_reservation`, `caste_reservation_local` and "
-        "`caste_scheme`** — the fold to `BC` is lossy and is not the same "
+        "- **`reserved_caste`, `reserved_caste_local` and "
+        "`reserved_caste_scheme`** — the fold to `BC` is lossy and is not the same "
         "fold everywhere. Haryana reserves only Block A of its Backward "
         "Classes list and prints `BC_A`; Kerala reserves no backward-class "
         "seat at all, so zero BC rows there is the law rather than a "
-        "parsing failure. `caste_scheme` is what makes those "
+        "parsing failure. `reserved_caste_scheme` is what makes those "
         "distinguishable.",
         "- **`unit_of_observation` and `seat_candidates`** — some sources "
         "are candidate-level and are collapsed to seats. A row that came "
@@ -602,7 +641,7 @@ def render_readme(rows, dropped, candidates, counts, written):
         "`seat_number_inferred`, `reservation_control_disagree`, "
         "`margin_not_below_votes`, `name_untransliterated`, and "
         "`printings_disagree`. "
-        "`gender_not_stated` in particular means `woman_reserved=0` is a "
+        "`gender_not_stated` in particular means `reserved_woman=0` is a "
         "default rather than a reading.",
         "",
         "`provenance_level` says how far back a row can be traced:",

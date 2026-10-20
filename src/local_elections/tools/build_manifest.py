@@ -36,7 +36,7 @@ MANIFEST_MD = ROOT / "MANIFEST.md"
 
 # Bumped whenever MASTER_COLUMNS changes, so a consumer can tell a schema change
 # from a data change without diffing the header.
-SCHEMA_VERSION = 4
+SCHEMA_VERSION = 5
 
 
 def git(directory, *args):
@@ -208,8 +208,8 @@ def build():
         # single value changing. Recorded so that reads as what it is instead of
         # looking like the corpus moved.
         "written_by": f"pyarrow {pa.__version__}",
-        "master_columns": M.MASTER_COLUMNS,
-        "candidate_columns": M.CANDIDATE_COLUMNS,
+        "master_columns": [M.published(c) for c in M.MASTER_COLUMNS],
+        "candidate_columns": [M.published(c) for c in M.CANDIDATE_COLUMNS],
         "totals": dict(totals),
         "sibling_repos": siblings,
         "files": files,
