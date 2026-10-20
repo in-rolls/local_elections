@@ -15,6 +15,7 @@ from pathlib import Path
 import pyarrow.parquet as pq
 
 from local_elections.common import sources
+from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
 FORBIDDEN = {"gender", "sex", "female", "women", "category", "quota"}
@@ -58,6 +59,7 @@ def pooled_files():
                 yield directory / relative
 
 
+@command("validate", artifact="naming")
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("paths", nargs="*", type=Path)

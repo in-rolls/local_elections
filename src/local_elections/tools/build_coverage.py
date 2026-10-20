@@ -133,7 +133,8 @@ SIBLINGS = {
         "remaining": "the 2015 Panchayat Samiti book and the 2015 and 2020 "
         "Zila Parishad books remain unparsed; municipal material is held "
         "outside the rural master",
-    },    "Telangana": {
+    },
+    "Telangana": {
         "repo": "local_elections_telangana",
         "years": "2019, 2025",
         "tiers": "gp_head, gp_ward",
