@@ -42,6 +42,8 @@ REPORT = MASTER / "contract_report.csv"
 ARROW = {
     "string": pd.ArrowDtype(pa.string()),
     "integer": pd.ArrowDtype(pa.int64()),
+    # a field's "arrow" property, where Table Schema's types are too coarse
+    "int8": pd.ArrowDtype(pa.int8()),
     "boolean": pd.ArrowDtype(pa.bool_()),
     "number": pd.ArrowDtype(pa.float64()),
 }
@@ -66,7 +68,7 @@ def pandera_schema(name):
     parsed = from_frictionless_schema(descriptor)
     columns = parsed.update_columns(
         {
-            f["name"]: {"coerce": False, "dtype": ARROW[f["type"]]}
+            f["name"]: {"coerce": False, "dtype": ARROW[f.get("arrow", f["type"])]}
             for f in descriptor["fields"]
         }
     ).columns

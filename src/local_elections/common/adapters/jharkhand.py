@@ -128,7 +128,7 @@ def seat(r, inferred):
         "winner": text(r.get("winner")),
         "winner_basis": "published" if text(r.get("winner")) else "",
         "vacant": text(r.get("vacant")),
-        "open_category": text(r.get("open_category")),
+        "open_category": text(r.get("reserved_open_seat")),
         "entry_method": text(r.get("entry_method")),
         "source_path": text(r.get("source_path")),
         "source_page": text(r.get("source_page")),

@@ -29,7 +29,10 @@ def test_committed_schema_is_generated(name):
     ],
 )
 def test_contract_declares_every_published_column_in_order(name, columns):
-    assert [f["name"] for f in C.SCHEMAS[name]["fields"]] == columns
+    # the contract describes the tables as written, under their published names
+    assert [f["name"] for f in C.SCHEMAS[name]["fields"]] == [
+        M.published(c) for c in columns
+    ]
 
 
 def frame(**overrides):

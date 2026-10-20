@@ -12,6 +12,7 @@ import json
 import sys
 from pathlib import Path
 
+import pyarrow as pa
 import pyarrow.parquet as pq
 
 from local_elections.common import sources
@@ -29,7 +30,11 @@ RETIRED = {
 NEEDS_METHOD = ("_latin", "_probability")
 
 
-def violations(columns):
+def violations(columns, flags=()):
+    """`flags` are true/false columns: a flag such as winner_printed_in_latin
+    says whether something was printed in Latin and is not itself a reading,
+    so it needs no _method.
+    """
     names = set(columns)
     out = []
     for name in columns:
@@ -41,7 +46,11 @@ def violations(columns):
             out.append((name, "uses reservation; the seat's quota is reserved_*"))
         if name in RETIRED:
             out.append((name, f"renamed to {RETIRED[name]}"))
-        if name.endswith(NEEDS_METHOD) and f"{name}_method" not in names:
+        if (
+            name.endswith(NEEDS_METHOD)
+            and name not in flags
+            and f"{name}_method" not in names
+        ):
             out.append((name, f"has no {name}_method beside it"))
     return out
 
@@ -67,12 +76,14 @@ def main():
     args = ap.parse_args()
     found = 0
     for path in args.paths or pooled_files():
-        names = pq.read_schema(path).names
+        schema = pq.read_schema(path)
+        names = schema.names
+        flags = {f.name for f in schema if pa.types.is_boolean(f.type)}
         if path.name == "master_extras.parquet":
             names = sorted(
                 set(pq.read_table(path, columns=["column"]).column(0).to_pylist())
             )
-        for name, why in violations(names):
+        for name, why in violations(names, flags):
             found += 1
             print(f"{path}: {name}: {why}")
     print(f"{found} naming violation(s)")

@@ -51,6 +51,14 @@ def integer(name, description, **constraints):
     return field(name, "integer", description, **constraints)
 
 
+def flag(name, description, **constraints):
+    """1 / 0 / null, stored as int8 (NAMING.md: every *_woman column)."""
+    out = field(name, "integer", description, minimum=0, maximum=1, **constraints)
+    # Table Schema has no int8; the storage type rides along as a custom property
+    out["arrow"] = "int8"
+    return out
+
+
 # ------------------------------------------------------------ shared fields
 DATASET_ID = text(
     "dataset_id",
@@ -101,15 +109,15 @@ TIER_LOCAL = text(
     "tier_local", "The office as the state names it.", required=True, maxLength=40
 )
 CASTE = text(
-    "caste_reservation",
+    "reserved_caste",
     "Caste category the seat is reserved for; NONE = unreserved. A property of "
     "the seat, never of the winner.",
     required=True,
     enum=D.CASTES,
 )
-WOMAN = boolean(
-    "woman_reserved",
-    "Seat reserved for a woman. Never filled from a name.",
+WOMAN = flag(
+    "reserved_woman",
+    "1 if the seat is reserved for a woman, 0 if not. Never filled from a name.",
     required=True,
 )
 SOURCE = [
@@ -159,34 +167,52 @@ MASTER = {
         text("ward_name", "Ward name as printed.", maxLength=160),
         SEAT_NO,
         text("district_latin", "District romanized by tools/transliterate.py.", **NAME),
+        text(
+            "district_latin_method",
+            "The transliteration model, and its version where the run "
+            "recorded one. Blank where the reading is blank.",
+            maxLength=80,
+        ),
         text("block_latin", "Block romanized by tools/transliterate.py.", **NAME),
+        text(
+            "block_latin_method",
+            "The transliteration model, and its version where the run "
+            "recorded one. Blank where the reading is blank.",
+            maxLength=80,
+        ),
         text(
             "gram_panchayat_latin",
             "Panchayat romanized by tools/transliterate.py.",
             **NAME,
         ),
+        text(
+            "gram_panchayat_latin_method",
+            "The transliteration model, and its version where the run "
+            "recorded one. Blank where the reading is blank.",
+            maxLength=80,
+        ),
         TIER,
         TIER_LOCAL,
         CASTE,
         text(
-            "caste_reservation_local",
+            "reserved_caste_local",
             "The state's own caste label before the fold to SC/ST/BC/NONE.",
             maxLength=40,
         ),
         text(
-            "caste_scheme",
+            "reserved_caste_scheme",
             "The state's reservation regime, which fixes what BC means.",
             required=True,
             enum=sorted(canon.SCHEME_CATEGORIES),
         ),
         WOMAN,
         text(
-            "reservation",
+            "reserved_label",
             "Caste and woman reservation combined.",
             required=True,
             enum=D.RESERVATION_LABELS,
         ),
-        text("reservation_raw", "The reservation exactly as printed.", maxLength=200),
+        text("reserved_raw", "The reservation exactly as printed.", maxLength=200),
         text(
             "listing_scope",
             "Whether the source lists every seat or only some.",
@@ -207,6 +233,12 @@ MASTER = {
         ),
         text("winner", "Elected person as printed.", **NAME),
         text("winner_latin", "Winner romanized by tools/transliterate.py.", **NAME),
+        text(
+            "winner_latin_method",
+            "The transliteration model, and its version where the run "
+            "recorded one. Blank where the reading is blank.",
+            maxLength=80,
+        ),
         text(
             "winner_basis",
             "How the winner is known.",
@@ -282,11 +314,14 @@ CANDIDATES = {
         text("candidate_name", "Candidate as printed.", required=True, **NAME),
         text("relation_name", "Father's or husband's name as printed.", **NAME),
         text(
-            "candidate_gender",
-            "Recorded sex, normalised.",
-            enum=["female", "male", "other"],
+            "candidate_woman_raw",
+            "The candidate's sex as the source printed it.",
+            maxLength=40,
         ),
-        boolean("candidate_woman", "candidate_gender == female."),
+        flag(
+            "candidate_woman",
+            "1 if candidate_woman_raw records a woman, 0 a man; blank otherwise.",
+        ),
         integer("candidate_age", "Age as stated.", minimum=18, maximum=120),
         text(
             "candidate_caste",

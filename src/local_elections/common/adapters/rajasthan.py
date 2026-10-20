@@ -511,7 +511,8 @@ def candidate_member(row, winner=None, winner_matches=0, runner_matches=0):
         "candidate_name": name,
         "relation_name": blank(row.get("FatherHusbandOfContestingCandidate")),
         "candidate_gender": gender,
-        "candidate_woman": 1 if gender == "F" else 0 if gender in {"M", "O"} else "",
+        # O(ther) is neither: blank, as NAMING.md has it
+        "candidate_woman": 1 if gender == "F" else 0 if gender == "M" else "",
         "candidate_age": integer(row.get("Age")),
         "candidate_caste": blank(row.get("CategoryOfCandidate")),
         "candidate_education": blank(row.get("EducationStatus")),

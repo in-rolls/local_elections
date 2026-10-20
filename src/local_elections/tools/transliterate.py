@@ -60,7 +60,10 @@ SCRIPTS = {
     "kannada": re.compile(r"[ಀ-೿]"),
 }
 
-FIELDS = ["script", "source", "latin", "suspect"]
+FIELDS = ["script", "source", "latin", "method", "suspect"]
+# What made the readings already in the tables. The model is indicate's offline
+# one (engine="model"), but the run did not record the package version.
+UNRECORDED = "indicate model; version not recorded"
 
 # What the source cell carries besides the name: a serial number the gazette
 # printed in the same box, a bullet, a stray rule character, a line break where
@@ -143,7 +146,10 @@ def load(script):
     if not path.exists():
         return {}
     with path.open(encoding="utf-8") as fh:
-        return {r["source"]: r["latin"] for r in csv.DictReader(fh)}
+        return {
+            r["source"]: (r["latin"], r.get("method") or UNRECORDED)
+            for r in csv.DictReader(fh)
+        }
 
 
 def save(script, table):
@@ -157,8 +163,9 @@ def save(script, table):
                 {
                     "script": script,
                     "source": source,
-                    "latin": table[source],
-                    "suspect": suspect(source, table[source]),
+                    "latin": table[source][0],
+                    "method": table[source][1],
+                    "suspect": suspect(source, table[source][0]),
                 }
             )
     return path
@@ -181,6 +188,9 @@ def transliterate(script, missing, batch=256):
             "`uv run --with 'indicate>=0.10' python -m "
             "local_elections.tools.transliterate`"
         )
+    from importlib.metadata import version
+
+    method = f"indicate {version('indicate')} model"
     out = {}
     ordered = sorted(missing)
     for start in range(0, len(ordered), batch):
@@ -197,7 +207,7 @@ def transliterate(script, missing, batch=256):
             [n for _, n in keep], source="hindi", engine=["model"]
         )
         for (source, _), latin in zip(keep, readings, strict=True):
-            out[source] = latin.strip()
+            out[source] = (latin.strip(), method)
         LOGGER.info(
             "Transliteration batch completed",
             extra={

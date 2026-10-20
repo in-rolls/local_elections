@@ -193,7 +193,7 @@
       }
     },
     {
-      "name": "caste_reservation",
+      "name": "reserved_caste",
       "type": "string",
       "description": "Caste category the seat is reserved for; NONE = unreserved. A property of the seat, never of the winner.",
       "constraints": {
@@ -207,12 +207,15 @@
       }
     },
     {
-      "name": "woman_reserved",
-      "type": "boolean",
-      "description": "Seat reserved for a woman. Never filled from a name.",
+      "name": "reserved_woman",
+      "type": "integer",
+      "description": "1 if the seat is reserved for a woman, 0 if not. Never filled from a name.",
       "constraints": {
+        "minimum": 0,
+        "maximum": 1,
         "required": true
-      }
+      },
+      "arrow": "int8"
     },
     {
       "name": "candidate_name",
@@ -234,21 +237,22 @@
       }
     },
     {
-      "name": "candidate_gender",
+      "name": "candidate_woman_raw",
       "type": "string",
-      "description": "Recorded sex, normalised.",
+      "description": "The candidate's sex as the source printed it.",
       "constraints": {
-        "enum": [
-          "female",
-          "male",
-          "other"
-        ]
+        "maxLength": 40
       }
     },
     {
       "name": "candidate_woman",
-      "type": "boolean",
-      "description": "candidate_gender == female."
+      "type": "integer",
+      "description": "1 if candidate_woman_raw records a woman, 0 a man; blank otherwise.",
+      "constraints": {
+        "minimum": 0,
+        "maximum": 1
+      },
+      "arrow": "int8"
     },
     {
       "name": "candidate_age",

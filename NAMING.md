@@ -26,6 +26,9 @@ its own. Their meaning goes into the subject and concept.
 
 Raw source files keep their own headers (`CategoryOfGramPanchayat`, `sex`).
 Names change once, where a source is first parsed, never in the source file.
+Frozen inputs keep theirs too - content-addressed snapshots, `raw_archive/`,
+and outside datasets transposed as they came (UP's Weaver preparations) - and
+are read under the new names.
 
 ## 3. How a value was obtained
 
@@ -51,7 +54,13 @@ method column beside it:
 | `_basis` | which of several recorded sources or rules supplied a bare value: `winner_basis`, `winner_woman_basis` | — (the column is itself the record) |
 
 Method columns are per row, because pooled tables mix states and a state can
-mix methods. An inferred value never overwrites a recorded one: `winner_woman`
+mix methods. Where a run did not record its tool version, the method says so
+(`indicate model; version not recorded`) rather than guessing one. A true/false
+flag about a name (`winner_printed_in_latin`) is not a reading and needs no
+method.
+
+`*_woman` values are stored as Int8 (`reserved_woman`, `candidate_woman`,
+`winner_woman`); a raw `other` stays in `*_woman_raw` and leaves the value null. An inferred value never overwrites a recorded one: `winner_woman`
 (recorded) and `winner_woman_probability` (inferred) are separate columns.
 
 ## 4. The full set
@@ -84,3 +93,17 @@ mix methods. An inferred value never overwrites a recorded one: `winner_woman`
 | `candidate_gender`, `candidate_female`, `gender` (candidate) | `candidate_woman` (Int8 1/0) |
 | `candidate_gender_raw`, `sex_raw`, `gender_raw` | `candidate_woman_raw` |
 | `category`, `candidate_category` (person) | `candidate_caste` |
+
+## 6. Where the pooled repository renames
+
+The pooled tables are written under these names. The in-tree parsers
+(`states/*`) and the adapters still emit the older row vocabulary
+(`caste_reservation`, `woman_reserved`, `winner_gender`, ...), and
+`common/master.py`'s `PUBLISHED` map translates it as the tables are written
+(`build_master.write`, `common/contract.py`). `DICTIONARY.md` documents the
+row vocabulary the parsers write; `schemas/*.json` documents the published
+tables. Once the parsers are restructured, the row vocabulary takes the
+published names and the map goes.
+
+`make naming` checks every published table and every pinned sibling file
+(0 violations at the time of writing).
