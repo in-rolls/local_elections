@@ -158,7 +158,7 @@ Bihar,2011,gp_head,tier_local_maps_to_one_tier,internal,pass,mukhiya,gp_head,
 Bihar,2011,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Bihar,2011,gp_head,plausible_vs_registry,external,warn,47%,>=60%,"3,973 against 8,387 in the register (2019-20) - a small share with no recorded reason. Either the slice covers part of the state, in which case say so in REGISTRY_SCOPE, or rows are missing"
 Bihar,2011,gp_head,year_constant,internal,pass,2011,2011,
-Bihar,2011,gp_head,provenance_resolves,internal,skip,,,local_elections_bihar is not checked out here
+Bihar,2011,gp_head,provenance_resolves,internal,pass,0,0,1 documents
 Bihar,2016,block_member,rows_in_band,declared,pass,11142,8000..13000,
 Bihar,2016,block_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Bihar,2016,block_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -174,7 +174,7 @@ Bihar,2016,block_member,tier_local_maps_to_one_tier,internal,pass,panchayat sami
 Bihar,2016,block_member,reservation_constant_within_seat,internal,pass,0,0,"39 row(s) excluded as shared_place_name - places this key cannot tell apart, already flagged"
 Bihar,2016,block_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Bihar,2016,block_member,year_constant,internal,pass,2016,2016,
-Bihar,2016,block_member,provenance_resolves,internal,skip,,,local_elections_bihar is not checked out here
+Bihar,2016,block_member,provenance_resolves,internal,pass,0,0,1 documents
 Bihar,2016,gp_head,rows_in_band,declared,pass,8132,6000..9500,
 Bihar,2016,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Bihar,2016,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -190,7 +190,7 @@ Bihar,2016,gp_head,tier_local_maps_to_one_tier,internal,pass,mukhiya,gp_head,
 Bihar,2016,gp_head,reservation_constant_within_seat,internal,pass,0,0,"8,132 seats, all internally consistent"
 Bihar,2016,gp_head,plausible_vs_registry,external,pass,97%,,"8,132 against 8,387 in the register (2019-20)"
 Bihar,2016,gp_head,year_constant,internal,pass,2016,2016,
-Bihar,2016,gp_head,provenance_resolves,internal,skip,,,local_elections_bihar is not checked out here
+Bihar,2016,gp_head,provenance_resolves,internal,pass,0,0,1 documents
 Bihar,2016,gp_ward,rows_in_band,declared,pass,103459,80000..125000,
 Bihar,2016,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Bihar,2016,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -206,7 +206,7 @@ Bihar,2016,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward member,gp_ward
 Bihar,2016,gp_ward,reservation_constant_within_seat,internal,pass,0,0,"103,459 seats, all internally consistent"
 Bihar,2016,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Bihar,2016,gp_ward,year_constant,internal,pass,2016,2016,
-Bihar,2016,gp_ward,provenance_resolves,internal,skip,,,local_elections_bihar is not checked out here
+Bihar,2016,gp_ward,provenance_resolves,internal,pass,0,0,1 documents
 Bihar,2016,kachahari_head,rows_in_band,declared,pass,8138,6000..9500,
 Bihar,2016,kachahari_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Bihar,2016,kachahari_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -222,7 +222,7 @@ Bihar,2016,kachahari_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,kac
 Bihar,2016,kachahari_head,reservation_constant_within_seat,internal,pass,0,0,"8,138 seats, all internally consistent"
 Bihar,2016,kachahari_head,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Bihar,2016,kachahari_head,year_constant,internal,pass,2016,2016,
-Bihar,2016,kachahari_head,provenance_resolves,internal,skip,,,local_elections_bihar is not checked out here
+Bihar,2016,kachahari_head,provenance_resolves,internal,pass,0,0,1 documents
 Bihar,2016,kachahari_member,rows_in_band,declared,pass,95463,80000..125000,
 Bihar,2016,kachahari_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Bihar,2016,kachahari_member,blank_share_within_tolerance,declared,warn,votes 63%>60%,,1 column(s) over tolerance
@@ -238,7 +238,7 @@ Bihar,2016,kachahari_member,tier_local_maps_to_one_tier,internal,pass,panch,kach
 Bihar,2016,kachahari_member,reservation_constant_within_seat,internal,pass,0,0,"95,463 seats, all internally consistent"
 Bihar,2016,kachahari_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Bihar,2016,kachahari_member,year_constant,internal,pass,2016,2016,
-Bihar,2016,kachahari_member,provenance_resolves,internal,skip,,,local_elections_bihar is not checked out here
+Bihar,2016,kachahari_member,provenance_resolves,internal,pass,0,0,1 documents
 Bihar,2016,zp_member,rows_in_band,declared,pass,983,500..1400,
 Bihar,2016,zp_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Bihar,2016,zp_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -254,7 +254,7 @@ Bihar,2016,zp_member,tier_local_maps_to_one_tier,internal,pass,zila parishad mem
 Bihar,2016,zp_member,reservation_constant_within_seat,internal,pass,0,0,"4 row(s) excluded as shared_place_name - places this key cannot tell apart, already flagged"
 Bihar,2016,zp_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Bihar,2016,zp_member,year_constant,internal,pass,2016,2016,
-Bihar,2016,zp_member,provenance_resolves,internal,skip,,,local_elections_bihar is not checked out here
+Bihar,2016,zp_member,provenance_resolves,internal,pass,0,0,1 documents
 Bihar,2021,block_member,rows_in_band,declared,pass,11095,8000..13000,
 Bihar,2021,block_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Bihar,2021,block_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -446,7 +446,7 @@ Haryana,2000,gp_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,gp_head,
 Haryana,2000,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Haryana,2000,gp_head,plausible_vs_registry,external,pass,96%,,"5,932 against 6,197 in the register (2019-20)"
 Haryana,2000,gp_head,year_constant,internal,pass,2000,2000,
-Haryana,2000,gp_head,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2000,gp_head,provenance_resolves,internal,fail,113,0,e.g. ['data/2000/pdfs/003f37f34764ecd7c703_148a1b6f5a97.pdf']
 Haryana,2000,gp_ward,rows_in_band,declared,pass,53701,40000..80000,
 Haryana,2000,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only; 175 rows state no category
 Haryana,2000,gp_ward,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; reservation 0%>0%,,3 column(s) over tolerance
@@ -462,7 +462,7 @@ Haryana,2000,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward,gp_ward,
 Haryana,2000,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Haryana,2000,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Haryana,2000,gp_ward,year_constant,internal,pass,2000,2000,
-Haryana,2000,gp_ward,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2000,gp_ward,provenance_resolves,internal,fail,113,0,e.g. ['data/2000/pdfs/003f37f34764ecd7c703_148a1b6f5a97.pdf']
 Haryana,2005,gp_head,rows_in_band,declared,pass,6198,4000..8000,
 Haryana,2005,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only; 12 rows state no category
 Haryana,2005,gp_head,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; reservation 0%>0%,,3 column(s) over tolerance
@@ -478,7 +478,7 @@ Haryana,2005,gp_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,gp_head,
 Haryana,2005,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Haryana,2005,gp_head,plausible_vs_registry,external,warn,100%,<=100%,"6,198 against 6,197 in the register (2019-20) - above the register, which is either growth since it was compiled or rows that are not distinct bodies"
 Haryana,2005,gp_head,year_constant,internal,pass,2005,2005,
-Haryana,2005,gp_head,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2005,gp_head,provenance_resolves,internal,pass,0,0,119 documents
 Haryana,2005,gp_ward,rows_in_band,declared,pass,60425,40000..80000,
 Haryana,2005,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only; 47 rows state no category
 Haryana,2005,gp_ward,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; reservation 0%>0%,,3 column(s) over tolerance
@@ -494,7 +494,7 @@ Haryana,2005,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward,gp_ward,
 Haryana,2005,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Haryana,2005,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Haryana,2005,gp_ward,year_constant,internal,pass,2005,2005,
-Haryana,2005,gp_ward,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2005,gp_ward,provenance_resolves,internal,pass,0,0,119 documents
 Haryana,2010,gp_head,rows_in_band,declared,pass,5924,4000..8000,
 Haryana,2010,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only
 Haryana,2010,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -510,7 +510,7 @@ Haryana,2010,gp_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,gp_head,
 Haryana,2010,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Haryana,2010,gp_head,plausible_vs_registry,external,pass,96%,,"5,924 against 6,197 in the register (2019-20)"
 Haryana,2010,gp_head,year_constant,internal,pass,2010,2010,
-Haryana,2010,gp_head,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2010,gp_head,provenance_resolves,internal,pass,0,0,21 documents
 Haryana,2010,gp_ward,rows_in_band,declared,pass,57856,40000..80000,
 Haryana,2010,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only
 Haryana,2010,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -526,7 +526,7 @@ Haryana,2010,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward,gp_ward,
 Haryana,2010,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Haryana,2010,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Haryana,2010,gp_ward,year_constant,internal,pass,2010,2010,
-Haryana,2010,gp_ward,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2010,gp_ward,provenance_resolves,internal,pass,0,0,22 documents
 Haryana,2016,gp_head,rows_in_band,declared,pass,6090,4000..8000,
 Haryana,2016,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only
 Haryana,2016,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -542,7 +542,7 @@ Haryana,2016,gp_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,gp_head,
 Haryana,2016,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Haryana,2016,gp_head,plausible_vs_registry,external,pass,98%,,"6,090 against 6,197 in the register (2019-20)"
 Haryana,2016,gp_head,year_constant,internal,pass,2016,2016,
-Haryana,2016,gp_head,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2016,gp_head,provenance_resolves,internal,pass,0,0,21 documents
 Haryana,2016,gp_ward,rows_in_band,declared,pass,61879,40000..80000,
 Haryana,2016,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only
 Haryana,2016,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -558,7 +558,7 @@ Haryana,2016,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward,gp_ward,
 Haryana,2016,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Haryana,2016,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Haryana,2016,gp_ward,year_constant,internal,pass,2016,2016,
-Haryana,2016,gp_ward,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2016,gp_ward,provenance_resolves,internal,pass,0,0,21 documents
 Haryana,2022,gp_head,rows_in_band,declared,pass,6123,4000..8000,
 Haryana,2022,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only
 Haryana,2022,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -574,7 +574,7 @@ Haryana,2022,gp_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,gp_head,
 Haryana,2022,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Haryana,2022,gp_head,plausible_vs_registry,external,pass,99%,,"6,123 against 6,197 in the register (2019-20)"
 Haryana,2022,gp_head,year_constant,internal,pass,2022,2022,
-Haryana,2022,gp_head,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2022,gp_head,provenance_resolves,internal,pass,0,0,143 documents
 Haryana,2022,gp_ward,rows_in_band,declared,pass,60981,40000..80000,
 Haryana,2022,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only
 Haryana,2022,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -590,7 +590,7 @@ Haryana,2022,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward,gp_ward,
 Haryana,2022,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Haryana,2022,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Haryana,2022,gp_ward,year_constant,internal,pass,2022,2022,
-Haryana,2022,gp_ward,provenance_resolves,internal,skip,,,local_elections_haryana is not checked out here
+Haryana,2022,gp_ward,provenance_resolves,internal,pass,0,0,143 documents
 Jammu & Kashmir,2010,gp_ward,rows_in_band,declared,pass,13016,500..35000,
 Jammu & Kashmir,2010,gp_ward,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
 Jammu & Kashmir,2010,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -686,7 +686,7 @@ Jharkhand,2015,gp_head,tier_local_maps_to_one_tier,internal,pass,mukhiya,gp_head
 Jharkhand,2015,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Jharkhand,2015,gp_head,plausible_vs_registry,external,pass,95%,,"4,137 against 4,364 in the register (2019-20)"
 Jharkhand,2015,gp_head,year_constant,internal,pass,2015,2015,
-Jharkhand,2015,gp_head,provenance_resolves,internal,skip,,,local_elections_jharkhand is not checked out here
+Jharkhand,2015,gp_head,provenance_resolves,internal,pass,0,0,81 documents
 Jharkhand,2015,gp_ward,rows_in_band,declared,pass,19781,1000..20000,
 Jharkhand,2015,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_bc
 Jharkhand,2015,gp_ward,blank_share_within_tolerance,declared,warn,block 36%>35%,,1 column(s) over tolerance
@@ -734,7 +734,7 @@ Jharkhand,2022,gp_head,tier_local_maps_to_one_tier,internal,pass,mukhiya,gp_head
 Jharkhand,2022,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Jharkhand,2022,gp_head,plausible_vs_registry,external,pass,99%,,"4,334 against 4,364 in the register (2019-20)"
 Jharkhand,2022,gp_head,year_constant,internal,pass,2022,2022,
-Jharkhand,2022,gp_head,provenance_resolves,internal,skip,,,local_elections_jharkhand is not checked out here
+Jharkhand,2022,gp_head,provenance_resolves,internal,pass,0,0,24 documents
 Karnataka,1993,gp_head,rows_in_band,declared,pass,5264,4000..7000,
 Karnataka,1993,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_bca_bcb
 Karnataka,1993,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -1006,7 +1006,7 @@ Rajasthan,2005,block_member,tier_local_maps_to_one_tier,internal,pass,panchayat_
 Rajasthan,2005,block_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Rajasthan,2005,block_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Rajasthan,2005,block_member,year_constant,internal,pass,2005,2005,
-Rajasthan,2005,block_member,provenance_resolves,internal,skip,,,local_elections_rajasthan is not checked out here
+Rajasthan,2005,block_member,provenance_resolves,internal,pass,0,0,1 documents
 Rajasthan,2005,gp_head,rows_in_band,declared,pass,9178,8000..14000,
 Rajasthan,2005,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Rajasthan,2005,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -1038,7 +1038,7 @@ Rajasthan,2005,zp_member,tier_local_maps_to_one_tier,internal,pass,zila_parishad
 Rajasthan,2005,zp_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Rajasthan,2005,zp_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Rajasthan,2005,zp_member,year_constant,internal,pass,2005,2005,
-Rajasthan,2005,zp_member,provenance_resolves,internal,skip,,,local_elections_rajasthan is not checked out here
+Rajasthan,2005,zp_member,provenance_resolves,internal,pass,0,0,1 documents
 Rajasthan,2010,block_member,rows_in_band,declared,pass,5273,5257..5273,
 Rajasthan,2010,block_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Rajasthan,2010,block_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -1054,7 +1054,7 @@ Rajasthan,2010,block_member,tier_local_maps_to_one_tier,internal,pass,panchayat_
 Rajasthan,2010,block_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Rajasthan,2010,block_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Rajasthan,2010,block_member,year_constant,internal,pass,2010,2010,
-Rajasthan,2010,block_member,provenance_resolves,internal,skip,,,local_elections_rajasthan is not checked out here
+Rajasthan,2010,block_member,provenance_resolves,internal,pass,0,0,1 documents
 Rajasthan,2010,gp_head,rows_in_band,declared,pass,9166,8000..14000,
 Rajasthan,2010,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc; 1 rows state no category
 Rajasthan,2010,gp_head,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; reservation 0%>0%,,3 column(s) over tolerance
@@ -1086,7 +1086,7 @@ Rajasthan,2010,zp_member,tier_local_maps_to_one_tier,internal,pass,zila_parishad
 Rajasthan,2010,zp_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Rajasthan,2010,zp_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Rajasthan,2010,zp_member,year_constant,internal,pass,2010,2010,
-Rajasthan,2010,zp_member,provenance_resolves,internal,skip,,,local_elections_rajasthan is not checked out here
+Rajasthan,2010,zp_member,provenance_resolves,internal,pass,0,0,1 documents
 Rajasthan,2015,gp_head,rows_in_band,declared,pass,9862,8000..14000,
 Rajasthan,2015,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Rajasthan,2015,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -1214,7 +1214,7 @@ Tamil Nadu,2011,gp_head,tier_local_maps_to_one_tier,internal,fail,கிரா�
 Tamil Nadu,2011,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Tamil Nadu,2011,gp_head,plausible_vs_registry,external,pass,100%,,"12,523 against 12,525 in the register (2019-20)"
 Tamil Nadu,2011,gp_head,year_constant,internal,pass,2011,2011,
-Tamil Nadu,2011,gp_head,provenance_resolves,internal,skip,,,local_elections_tamil_nadu is not checked out here
+Tamil Nadu,2011,gp_head,provenance_resolves,internal,pass,0,0,31 documents
 Tamil Nadu,2019,gp_head,rows_in_band,declared,fail,9624,,"no row band declared for this state and tier (and 9,624 rows is too many to leave unchecked)"
 Tamil Nadu,2019,gp_head,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
 Tamil Nadu,2019,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -1230,7 +1230,7 @@ Tamil Nadu,2019,gp_head,tier_local_maps_to_one_tier,internal,fail,கிரா�
 Tamil Nadu,2019,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Tamil Nadu,2019,gp_head,plausible_vs_registry,external,pass,77%,,"9,624 against 12,525 in the register (2019-20)"
 Tamil Nadu,2019,gp_head,year_constant,internal,pass,2019,2019,
-Tamil Nadu,2019,gp_head,provenance_resolves,internal,skip,,,local_elections_tamil_nadu is not checked out here
+Tamil Nadu,2019,gp_head,provenance_resolves,internal,pass,0,0,27 documents
 Tamil Nadu,2021,gp_head,rows_in_band,declared,fail,3005,,"no row band declared for this state and tier (and 3,005 rows is too many to leave unchecked)"
 Tamil Nadu,2021,gp_head,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
 Tamil Nadu,2021,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -1246,7 +1246,7 @@ Tamil Nadu,2021,gp_head,tier_local_maps_to_one_tier,internal,fail,கிரா�
 Tamil Nadu,2021,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Tamil Nadu,2021,gp_head,plausible_vs_registry,external,warn,24%,>=60%,"3,005 against 12,525 in the register (2019-20) - a small share with no recorded reason. Either the slice covers part of the state, in which case say so in REGISTRY_SCOPE, or rows are missing"
 Tamil Nadu,2021,gp_head,year_constant,internal,pass,2021,2021,
-Tamil Nadu,2021,gp_head,provenance_resolves,internal,skip,,,local_elections_tamil_nadu is not checked out here
+Tamil Nadu,2021,gp_head,provenance_resolves,internal,pass,0,0,35 documents
 Telangana,2019,gp_head,rows_in_band,declared,pass,12018,10000..14000,
 Telangana,2019,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_bc
 Telangana,2019,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -1262,7 +1262,7 @@ Telangana,2019,gp_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,gp_hea
 Telangana,2019,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Telangana,2019,gp_head,plausible_vs_registry,external,pass,94%,,"12,018 against 12,771 in the register (2019-20)"
 Telangana,2019,gp_head,year_constant,internal,pass,2019,2019,
-Telangana,2019,gp_head,provenance_resolves,internal,skip,,,local_elections_telangana is not checked out here
+Telangana,2019,gp_head,provenance_resolves,internal,pass,0,0,1 documents
 Telangana,2019,gp_ward,rows_in_band,declared,pass,49823,40000..60000,
 Telangana,2019,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_bc
 Telangana,2019,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -1278,7 +1278,7 @@ Telangana,2019,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward member,gp_
 Telangana,2019,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Telangana,2019,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Telangana,2019,gp_ward,year_constant,internal,pass,2019,2019,
-Telangana,2019,gp_ward,provenance_resolves,internal,skip,,,local_elections_telangana is not checked out here
+Telangana,2019,gp_ward,provenance_resolves,internal,pass,0,0,30 documents
 Telangana,2025,gp_head,rows_in_band,declared,pass,12735,10000..14000,
 Telangana,2025,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_bc
 Telangana,2025,gp_head,blank_share_within_tolerance,declared,warn,unopposed 0%>0%,,1 column(s) over tolerance
@@ -1294,7 +1294,7 @@ Telangana,2025,gp_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,gp_hea
 Telangana,2025,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Telangana,2025,gp_head,plausible_vs_registry,external,pass,100%,,"12,735 against 12,771 in the register (2019-20)"
 Telangana,2025,gp_head,year_constant,internal,pass,2025,2025,
-Telangana,2025,gp_head,provenance_resolves,internal,skip,,,local_elections_telangana is not checked out here
+Telangana,2025,gp_head,provenance_resolves,internal,pass,0,0,584 documents
 Uttar Pradesh,2005,gp_head,rows_in_band,declared,pass,51872,45000..60000,
 Uttar Pradesh,2005,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST","sc_st_obc; 1,300 rows state no category"
 Uttar Pradesh,2005,gp_head,blank_share_within_tolerance,declared,warn,caste_reservation 3%>0%; woman_reserved 3%>0%; gender_stated 3%>0%; reservation 3%>0%,,4 column(s) over tolerance
@@ -1310,7 +1310,7 @@ Uttar Pradesh,2005,gp_head,tier_local_maps_to_one_tier,internal,pass,pradhan,gp_
 Uttar Pradesh,2005,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Uttar Pradesh,2005,gp_head,plausible_vs_registry,external,pass,88%,,"51,872 against 58,757 in the register (2019-20)"
 Uttar Pradesh,2005,gp_head,year_constant,internal,pass,2005,2005,
-Uttar Pradesh,2005,gp_head,provenance_resolves,internal,skip,,,local_elections_up is not checked out here
+Uttar Pradesh,2005,gp_head,provenance_resolves,internal,pass,0,0,1 documents
 Uttar Pradesh,2010,gp_head,rows_in_band,declared,pass,51861,45000..60000,
 Uttar Pradesh,2010,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc; 33 rows state no category
 Uttar Pradesh,2010,gp_head,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; gender_stated 0%>0%; reservation 0%>0%,,4 column(s) over tolerance
@@ -1326,7 +1326,7 @@ Uttar Pradesh,2010,gp_head,tier_local_maps_to_one_tier,internal,pass,pradhan,gp_
 Uttar Pradesh,2010,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Uttar Pradesh,2010,gp_head,plausible_vs_registry,external,pass,88%,,"51,861 against 58,757 in the register (2019-20)"
 Uttar Pradesh,2010,gp_head,year_constant,internal,pass,2010,2010,
-Uttar Pradesh,2010,gp_head,provenance_resolves,internal,skip,,,local_elections_up is not checked out here
+Uttar Pradesh,2010,gp_head,provenance_resolves,internal,pass,0,0,1 documents
 Uttar Pradesh,2015,gp_head,rows_in_band,declared,pass,59019,45000..60000,
 Uttar Pradesh,2015,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc
 Uttar Pradesh,2015,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance

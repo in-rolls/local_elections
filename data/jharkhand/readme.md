@@ -94,7 +94,7 @@ Every state runs a shared battery first — the seat key is unique, the reservat
 | `coverage_vs_published` | external | &check; 5132 (95%) | &check; 4105 (94%) | &ndash; 19781 | ! 226 (41%) | &ndash; 4334 |
 | `label_agrees` | internal | &check; 0 | &check; 0 | &check; 0 | &check; 0 | &check; 0 |
 | `plausible_vs_registry` | external | &ndash; | &check; 95% | &ndash; | &ndash; | &check; 99% |
-| `provenance_resolves` | internal | &check; 0 | &ndash; | &check; 0 | &check; 0 | &ndash; |
+| `provenance_resolves` | internal | &check; 0 | &check; 0 | &check; 0 | &check; 0 | &check; 0 |
 | `reservation_constant_within_seat` | internal | &ndash; | &ndash; | &ndash; | &ndash; | &ndash; |
 | `rows_in_band` | declared | &check; 5132 | &check; 4137 | &check; 19781 | &check; 226 | &check; 4334 |
 | `seat_key_unique` | internal | ! 500 | &check; 0 | ! 760 | ! 8 | &check; 0 |
