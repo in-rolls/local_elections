@@ -166,7 +166,7 @@
     }
   },
   "local_elections_tamil_nadu": {
-    "ref": "b584efec8210f089376f4c5209c78ff4c55f61c7",
+    "ref": "5a523fcf96b538a12788435063f355c2e1b92825",
     "files": {
       "data/2011/vp_president_results.parquet": "78ce144ef80343feeb9d22380820b26db52de6e3a8c98fe8815b8697d1784baf",
       "data/2011/vp_president_candidates.parquet": "2e4d03e2b8a48be67fb638fe5f5d5dea1826eab9798dd7b965a4552619c2bddd",
@@ -176,7 +176,13 @@
       "data/2021/vp_president_candidates.parquet": "02b8668d2c7aed228f7c52623700a55e5a7cd06ce873b8bc2c510de9eb9edfb2",
       "data/reference/districts.csv": "412939b99b98918730945ba0fc14bef2e16063dbd1cac2dbb695df424c15507e",
       "data/linkage/vp_2011_2019.parquet": "4fecda05b10c0217adfaca8eb712d30d65ae1b08f449e48bb3695cb1ade9708f",
-      "data/linkage/vp_2011_2021.parquet": "283520d220be730d63a300a33c64ec5c84f83e221d5f3dd13e1ed38f98c20a2e"
+      "data/linkage/vp_2011_2021.parquet": "283520d220be730d63a300a33c64ec5c84f83e221d5f3dd13e1ed38f98c20a2e",
+      "data/2011/ward_results.parquet": "bbdf75ee8196e1667f7f4c149aad2f5abaf3359a8301b09d9874d94575d1212e",
+      "data/2011/ward_candidates.parquet": "64b0292a38228ba0bac0895b644f58f861356d094a41aee35ea8470d66213398",
+      "data/2019/ward_results.parquet": "973400680499a7226a0721ebafd777f76d0b276dd46c827bff94fff4ccb658e5",
+      "data/2019/ward_candidates.parquet": "eddaa7e4f828f34f160828734e73efafe8c617014c865bed9c48c2849b162d77",
+      "data/2021/ward_results.parquet": "3c44da66f93f2fb66c612840800487f62aea290704d31f7867bc879bca831b2c",
+      "data/2021/ward_candidates.parquet": "ce7ea555f47ea1579f32ee64faf12a806a99ecbca6805a71244fc92057f47004"
     }
   },
   "local_elections_jharkhand": {
@@ -190,14 +196,15 @@
     }
   },
   "local_elections_telangana": {
-    "ref": "9296b02f991dad2ed4f6f5409c4ce2ff71e9fd2d",
+    "ref": "eb773d96a4897a08af8f44268d06d153aa1ac945",
     "files": {
       "data/2019/sarpanch_results.parquet": "a36308426daccb2960e9be73a4b92ade85b9fb3269fdd4804c6addfd65d80f27",
       "data/2025/sarpanch_results.parquet": "0606569e358db5ca738e0a9e7a28a24bcbd05fa5c7eacea2e10fe903f5d61355",
       "data/linkage/gp_2019_2025.parquet": "5aadd70d572176c5182d70e2e1fcf9b449b49fa1cf96f2cff67b474ec43e8ff9",
       "data/inferred/winner_woman_probability_2019.parquet": "15012fbb4454d146b08bdf79296b12f06ccd0c1e600b282cd286e2eabef49007",
       "data/inferred/winner_woman_probability_2025.parquet": "02348c7ebd53c370b6594c0dedfa723a2ae79efac97798a92fd29832a105968e",
-      "data/2019/ward_results.parquet": "302d6080e0c82f3ad7c75ee946fb0740c96c2dfc7494615fa271bea13ec2e2e5"
+      "data/2019/ward_results.parquet": "302d6080e0c82f3ad7c75ee946fb0740c96c2dfc7494615fa271bea13ec2e2e5",
+      "data/2025/ward_results.parquet": "84f395df06a54c5fec77df8586c4ea72e93c9b5cea29d12ff589075328f05dbe"
     }
   }
 }

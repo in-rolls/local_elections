@@ -1199,7 +1199,23 @@ Rajasthan,2022,gp_ward,reservation_constant_within_seat,internal,skip,,,"the sou
 Rajasthan,2022,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Rajasthan,2022,gp_ward,year_constant,internal,pass,2022,2022,
 Rajasthan,2022,gp_ward,provenance_resolves,internal,skip,,,"provenance_level is dataset: this source records no document, so there is no path to resolve"
-Tamil Nadu,2011,gp_head,rows_in_band,declared,fail,12523,,"no row band declared for this state and tier (and 12,523 rows is too many to leave unchecked)"
+Tamil Nadu,2011,block_member,rows_in_band,declared,pass,6471,1000..7500,
+Tamil Nadu,2011,block_member,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
+Tamil Nadu,2011,block_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Tamil Nadu,2011,block_member,coverage_vs_published,external,skip,6471,,no published total for this slice
+Tamil Nadu,2011,block_member,women_share_vs_statute,external,pass,35.3%,floor 33%,
+Tamil Nadu,2011,block_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Tamil Nadu,2011,block_member,caste_share_vs_population,external,skip,0,,no population columns in this source
+Tamil Nadu,2011,block_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Tamil Nadu,2011,block_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Tamil Nadu,2011,block_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Tamil Nadu,2011,block_member,seat_key_unique,internal,pass,0,0,
+Tamil Nadu,2011,block_member,tier_local_maps_to_one_tier,internal,pass,ஊராட்சி ஒன்றிய வார்டு உறுப்பினர்,block_member,
+Tamil Nadu,2011,block_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Tamil Nadu,2011,block_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Tamil Nadu,2011,block_member,year_constant,internal,pass,2011,2011,
+Tamil Nadu,2011,block_member,provenance_resolves,internal,pass,0,0,31 documents
+Tamil Nadu,2011,gp_head,rows_in_band,declared,pass,12523,2500..14000,
 Tamil Nadu,2011,gp_head,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only; 4 rows state no category
 Tamil Nadu,2011,gp_head,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; reservation 0%>0%,,3 column(s) over tolerance
 Tamil Nadu,2011,gp_head,coverage_vs_published,external,skip,12523,,no published total for this slice
@@ -1210,12 +1226,60 @@ Tamil Nadu,2011,gp_head,label_agrees,internal,pass,0,0,"the label is written sep
 Tamil Nadu,2011,gp_head,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
 Tamil Nadu,2011,gp_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
 Tamil Nadu,2011,gp_head,seat_key_unique,internal,pass,0,0,
-Tamil Nadu,2011,gp_head,tier_local_maps_to_one_tier,internal,fail,கிராம ஊராட்சித் தலைவர்,gp_head,does not map here: ['கிராம ஊராட்சித் தலைவர்']
+Tamil Nadu,2011,gp_head,tier_local_maps_to_one_tier,internal,pass,கிராம ஊராட்சித் தலைவர்,gp_head,
 Tamil Nadu,2011,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Tamil Nadu,2011,gp_head,plausible_vs_registry,external,pass,100%,,"12,523 against 12,525 in the register (2019-20)"
 Tamil Nadu,2011,gp_head,year_constant,internal,pass,2011,2011,
 Tamil Nadu,2011,gp_head,provenance_resolves,internal,pass,0,0,31 documents
-Tamil Nadu,2019,gp_head,rows_in_band,declared,fail,9624,,"no row band declared for this state and tier (and 9,624 rows is too many to leave unchecked)"
+Tamil Nadu,2011,gp_ward,rows_in_band,declared,pass,99322,20000..110000,
+Tamil Nadu,2011,gp_ward,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
+Tamil Nadu,2011,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Tamil Nadu,2011,gp_ward,coverage_vs_published,external,skip,99322,,no published total for this slice
+Tamil Nadu,2011,gp_ward,women_share_vs_statute,external,pass,33.3%,floor 33%,
+Tamil Nadu,2011,gp_ward,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Tamil Nadu,2011,gp_ward,caste_share_vs_population,external,skip,0,,no population columns in this source
+Tamil Nadu,2011,gp_ward,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Tamil Nadu,2011,gp_ward,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Tamil Nadu,2011,gp_ward,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Tamil Nadu,2011,gp_ward,seat_key_unique,internal,warn,52,0,"largest group 2 at ('Tamil Nadu', '2011', 'General Election', '', 'gp_ward', 'Cuddalore', 'குறிஞ்சிப்பாடி', '', '', 'வரதராஜன்பேட்டை', '1', '', '')"
+Tamil Nadu,2011,gp_ward,tier_local_maps_to_one_tier,internal,pass,கிராம ஊராட்சி வார்டு உறுப்பினர்,gp_ward,
+Tamil Nadu,2011,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Tamil Nadu,2011,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Tamil Nadu,2011,gp_ward,year_constant,internal,pass,2011,2011,
+Tamil Nadu,2011,gp_ward,provenance_resolves,internal,pass,0,0,31 documents
+Tamil Nadu,2011,zp_member,rows_in_band,declared,pass,655,100..750,
+Tamil Nadu,2011,zp_member,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
+Tamil Nadu,2011,zp_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Tamil Nadu,2011,zp_member,coverage_vs_published,external,skip,655,,no published total for this slice
+Tamil Nadu,2011,zp_member,women_share_vs_statute,external,pass,34.8%,floor 33%,
+Tamil Nadu,2011,zp_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Tamil Nadu,2011,zp_member,caste_share_vs_population,external,skip,0,,no population columns in this source
+Tamil Nadu,2011,zp_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Tamil Nadu,2011,zp_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Tamil Nadu,2011,zp_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Tamil Nadu,2011,zp_member,seat_key_unique,internal,pass,0,0,
+Tamil Nadu,2011,zp_member,tier_local_maps_to_one_tier,internal,pass,மாவட்ட ஊராட்சி வார்டு உறுப்பினர்,zp_member,
+Tamil Nadu,2011,zp_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Tamil Nadu,2011,zp_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Tamil Nadu,2011,zp_member,year_constant,internal,pass,2011,2011,
+Tamil Nadu,2011,zp_member,provenance_resolves,internal,pass,0,0,31 documents
+Tamil Nadu,2019,block_member,rows_in_band,declared,pass,5090,1000..7500,
+Tamil Nadu,2019,block_member,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
+Tamil Nadu,2019,block_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Tamil Nadu,2019,block_member,coverage_vs_published,external,skip,5090,,no published total for this slice
+Tamil Nadu,2019,block_member,women_share_vs_statute,external,pass,51.6%,floor 33%,
+Tamil Nadu,2019,block_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Tamil Nadu,2019,block_member,caste_share_vs_population,external,skip,0,,no population columns in this source
+Tamil Nadu,2019,block_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Tamil Nadu,2019,block_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Tamil Nadu,2019,block_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Tamil Nadu,2019,block_member,seat_key_unique,internal,pass,0,0,
+Tamil Nadu,2019,block_member,tier_local_maps_to_one_tier,internal,pass,ஊராட்சி ஒன்றிய வார்டு உறுப்பினர்,block_member,
+Tamil Nadu,2019,block_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Tamil Nadu,2019,block_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Tamil Nadu,2019,block_member,year_constant,internal,pass,2019,2019,
+Tamil Nadu,2019,block_member,provenance_resolves,internal,pass,0,0,27 documents
+Tamil Nadu,2019,gp_head,rows_in_band,declared,pass,9624,2500..14000,
 Tamil Nadu,2019,gp_head,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
 Tamil Nadu,2019,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
 Tamil Nadu,2019,gp_head,coverage_vs_published,external,skip,9624,,no published total for this slice
@@ -1226,12 +1290,60 @@ Tamil Nadu,2019,gp_head,label_agrees,internal,pass,0,0,"the label is written sep
 Tamil Nadu,2019,gp_head,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
 Tamil Nadu,2019,gp_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
 Tamil Nadu,2019,gp_head,seat_key_unique,internal,pass,0,0,
-Tamil Nadu,2019,gp_head,tier_local_maps_to_one_tier,internal,fail,கிராம ஊராட்சித் தலைவர்,gp_head,does not map here: ['கிராம ஊராட்சித் தலைவர்']
+Tamil Nadu,2019,gp_head,tier_local_maps_to_one_tier,internal,pass,கிராம ஊராட்சித் தலைவர்,gp_head,
 Tamil Nadu,2019,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Tamil Nadu,2019,gp_head,plausible_vs_registry,external,pass,77%,,"9,624 against 12,525 in the register (2019-20)"
 Tamil Nadu,2019,gp_head,year_constant,internal,pass,2019,2019,
 Tamil Nadu,2019,gp_head,provenance_resolves,internal,pass,0,0,27 documents
-Tamil Nadu,2021,gp_head,rows_in_band,declared,fail,3005,,"no row band declared for this state and tier (and 3,005 rows is too many to leave unchecked)"
+Tamil Nadu,2019,gp_ward,rows_in_band,declared,pass,76734,20000..110000,
+Tamil Nadu,2019,gp_ward,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
+Tamil Nadu,2019,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Tamil Nadu,2019,gp_ward,coverage_vs_published,external,skip,76734,,no published total for this slice
+Tamil Nadu,2019,gp_ward,women_share_vs_statute,external,pass,53.1%,floor 33%,
+Tamil Nadu,2019,gp_ward,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Tamil Nadu,2019,gp_ward,caste_share_vs_population,external,skip,0,,no population columns in this source
+Tamil Nadu,2019,gp_ward,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Tamil Nadu,2019,gp_ward,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Tamil Nadu,2019,gp_ward,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Tamil Nadu,2019,gp_ward,seat_key_unique,internal,pass,0,0,
+Tamil Nadu,2019,gp_ward,tier_local_maps_to_one_tier,internal,pass,கிராம ஊராட்சி வார்டு உறுப்பினர்,gp_ward,
+Tamil Nadu,2019,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Tamil Nadu,2019,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Tamil Nadu,2019,gp_ward,year_constant,internal,pass,2019,2019,
+Tamil Nadu,2019,gp_ward,provenance_resolves,internal,pass,0,0,314 documents
+Tamil Nadu,2019,zp_member,rows_in_band,declared,pass,515,100..750,
+Tamil Nadu,2019,zp_member,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
+Tamil Nadu,2019,zp_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Tamil Nadu,2019,zp_member,coverage_vs_published,external,skip,515,,no published total for this slice
+Tamil Nadu,2019,zp_member,women_share_vs_statute,external,pass,51.3%,floor 33%,
+Tamil Nadu,2019,zp_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Tamil Nadu,2019,zp_member,caste_share_vs_population,external,skip,0,,no population columns in this source
+Tamil Nadu,2019,zp_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Tamil Nadu,2019,zp_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Tamil Nadu,2019,zp_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Tamil Nadu,2019,zp_member,seat_key_unique,internal,pass,0,0,
+Tamil Nadu,2019,zp_member,tier_local_maps_to_one_tier,internal,pass,மாவட்ட ஊராட்சி வார்டு உறுப்பினர்,zp_member,
+Tamil Nadu,2019,zp_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Tamil Nadu,2019,zp_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Tamil Nadu,2019,zp_member,year_constant,internal,pass,2019,2019,
+Tamil Nadu,2019,zp_member,provenance_resolves,internal,pass,0,0,27 documents
+Tamil Nadu,2021,block_member,rows_in_band,declared,pass,1421,1000..7500,
+Tamil Nadu,2021,block_member,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
+Tamil Nadu,2021,block_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Tamil Nadu,2021,block_member,coverage_vs_published,external,skip,1421,,no published total for this slice
+Tamil Nadu,2021,block_member,women_share_vs_statute,external,pass,50.8%,floor 33%,
+Tamil Nadu,2021,block_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Tamil Nadu,2021,block_member,caste_share_vs_population,external,skip,0,,no population columns in this source
+Tamil Nadu,2021,block_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Tamil Nadu,2021,block_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Tamil Nadu,2021,block_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Tamil Nadu,2021,block_member,seat_key_unique,internal,pass,0,0,
+Tamil Nadu,2021,block_member,tier_local_maps_to_one_tier,internal,pass,ஊராட்சி ஒன்றிய வார்டு உறுப்பினர்,block_member,
+Tamil Nadu,2021,block_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Tamil Nadu,2021,block_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Tamil Nadu,2021,block_member,year_constant,internal,pass,2021,2021,
+Tamil Nadu,2021,block_member,provenance_resolves,internal,pass,0,0,28 documents
+Tamil Nadu,2021,gp_head,rows_in_band,declared,pass,3005,2500..14000,
 Tamil Nadu,2021,gp_head,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
 Tamil Nadu,2021,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
 Tamil Nadu,2021,gp_head,coverage_vs_published,external,skip,3005,,no published total for this slice
@@ -1242,11 +1354,43 @@ Tamil Nadu,2021,gp_head,label_agrees,internal,pass,0,0,"the label is written sep
 Tamil Nadu,2021,gp_head,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
 Tamil Nadu,2021,gp_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
 Tamil Nadu,2021,gp_head,seat_key_unique,internal,pass,0,0,
-Tamil Nadu,2021,gp_head,tier_local_maps_to_one_tier,internal,fail,கிராம ஊராட்சித் தலைவர்,gp_head,does not map here: ['கிராம ஊராட்சித் தலைவர்']
+Tamil Nadu,2021,gp_head,tier_local_maps_to_one_tier,internal,pass,கிராம ஊராட்சித் தலைவர்,gp_head,
 Tamil Nadu,2021,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Tamil Nadu,2021,gp_head,plausible_vs_registry,external,warn,24%,>=60%,"3,005 against 12,525 in the register (2019-20) - a small share with no recorded reason. Either the slice covers part of the state, in which case say so in REGISTRY_SCOPE, or rows are missing"
 Tamil Nadu,2021,gp_head,year_constant,internal,pass,2021,2021,
 Tamil Nadu,2021,gp_head,provenance_resolves,internal,pass,0,0,35 documents
+Tamil Nadu,2021,gp_ward,rows_in_band,declared,pass,23210,20000..110000,
+Tamil Nadu,2021,gp_ward,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
+Tamil Nadu,2021,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Tamil Nadu,2021,gp_ward,coverage_vs_published,external,skip,23210,,no published total for this slice
+Tamil Nadu,2021,gp_ward,women_share_vs_statute,external,pass,52.6%,floor 33%,
+Tamil Nadu,2021,gp_ward,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Tamil Nadu,2021,gp_ward,caste_share_vs_population,external,skip,0,,no population columns in this source
+Tamil Nadu,2021,gp_ward,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Tamil Nadu,2021,gp_ward,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Tamil Nadu,2021,gp_ward,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Tamil Nadu,2021,gp_ward,seat_key_unique,internal,pass,0,0,
+Tamil Nadu,2021,gp_ward,tier_local_maps_to_one_tier,internal,pass,கிராம ஊராட்சி வார்டு உறுப்பினர்,gp_ward,
+Tamil Nadu,2021,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Tamil Nadu,2021,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Tamil Nadu,2021,gp_ward,year_constant,internal,pass,2021,2021,
+Tamil Nadu,2021,gp_ward,provenance_resolves,internal,pass,0,0,324 documents
+Tamil Nadu,2021,zp_member,rows_in_band,declared,pass,153,100..750,
+Tamil Nadu,2021,zp_member,caste_scheme_respected,declared,pass,"NONE,SC,ST","NONE,SC,ST",sc_st_only
+Tamil Nadu,2021,zp_member,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Tamil Nadu,2021,zp_member,coverage_vs_published,external,skip,153,,no published total for this slice
+Tamil Nadu,2021,zp_member,women_share_vs_statute,external,pass,49.0%,floor 33%,
+Tamil Nadu,2021,zp_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Tamil Nadu,2021,zp_member,caste_share_vs_population,external,skip,0,,no population columns in this source
+Tamil Nadu,2021,zp_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Tamil Nadu,2021,zp_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Tamil Nadu,2021,zp_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Tamil Nadu,2021,zp_member,seat_key_unique,internal,pass,0,0,
+Tamil Nadu,2021,zp_member,tier_local_maps_to_one_tier,internal,pass,மாவட்ட ஊராட்சி வார்டு உறுப்பினர்,zp_member,
+Tamil Nadu,2021,zp_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Tamil Nadu,2021,zp_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Tamil Nadu,2021,zp_member,year_constant,internal,pass,2021,2021,
+Tamil Nadu,2021,zp_member,provenance_resolves,internal,pass,0,0,22 documents
 Telangana,2019,gp_head,rows_in_band,declared,pass,12018,10000..14000,
 Telangana,2019,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_bc
 Telangana,2019,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
@@ -1263,7 +1407,7 @@ Telangana,2019,gp_head,reservation_constant_within_seat,internal,skip,,,"the sou
 Telangana,2019,gp_head,plausible_vs_registry,external,pass,94%,,"12,018 against 12,771 in the register (2019-20)"
 Telangana,2019,gp_head,year_constant,internal,pass,2019,2019,
 Telangana,2019,gp_head,provenance_resolves,internal,pass,0,0,1 documents
-Telangana,2019,gp_ward,rows_in_band,declared,pass,49823,40000..60000,
+Telangana,2019,gp_ward,rows_in_band,declared,pass,49823,40000..70000,
 Telangana,2019,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_bc
 Telangana,2019,gp_ward,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
 Telangana,2019,gp_ward,coverage_vs_published,external,warn,49823 (44%),112242 seats,seats
@@ -1295,6 +1439,22 @@ Telangana,2025,gp_head,reservation_constant_within_seat,internal,skip,,,"the sou
 Telangana,2025,gp_head,plausible_vs_registry,external,pass,100%,,"12,735 against 12,771 in the register (2019-20)"
 Telangana,2025,gp_head,year_constant,internal,pass,2025,2025,
 Telangana,2025,gp_head,provenance_resolves,internal,pass,0,0,584 documents
+Telangana,2025,gp_ward,rows_in_band,declared,pass,62990,40000..70000,
+Telangana,2025,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_bc; 185 rows state no category
+Telangana,2025,gp_ward,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; unopposed 0%>0%,,2 column(s) over tolerance
+Telangana,2025,gp_ward,coverage_vs_published,external,skip,62990,,no published total for this slice
+Telangana,2025,gp_ward,women_share_vs_statute,external,skip,0.0%,floor 33%,"the source states a gender on only 0% of rows, and the missing markers are not missing at random"
+Telangana,2025,gp_ward,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Telangana,2025,gp_ward,caste_share_vs_population,external,skip,0,,no population columns in this source
+Telangana,2025,gp_ward,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Telangana,2025,gp_ward,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Telangana,2025,gp_ward,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Telangana,2025,gp_ward,seat_key_unique,internal,pass,0,0,
+Telangana,2025,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward member,gp_ward,
+Telangana,2025,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Telangana,2025,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Telangana,2025,gp_ward,year_constant,internal,pass,2025,2025,
+Telangana,2025,gp_ward,provenance_resolves,internal,pass,0,0,405 documents
 Uttar Pradesh,2005,gp_head,rows_in_band,declared,pass,51872,45000..60000,
 Uttar Pradesh,2005,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST","sc_st_obc; 1,300 rows state no category"
 Uttar Pradesh,2005,gp_head,blank_share_within_tolerance,declared,warn,caste_reservation 3%>0%; woman_reserved 3%>0%; gender_stated 3%>0%; reservation 3%>0%,,4 column(s) over tolerance

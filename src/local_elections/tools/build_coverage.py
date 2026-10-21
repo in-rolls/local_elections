@@ -166,16 +166,19 @@ SIBLINGS = {
     "Tamil Nadu": {
         "repo": "local_elections_tamil_nadu",
         "years": "2011, 2019, 2021",
-        "tiers": "gp_head",
+        "tiers": "gp_head, gp_ward, block_member, zp_member",
         "files": [
             "data/2011/vp_president_results.parquet",
             "data/2019/vp_president_results.parquet",
             "data/2021/vp_president_results.parquet",
+            "data/2011/ward_results.parquet",
+            "data/2019/ward_results.parquet",
+            "data/2021/ward_results.parquet",
             "data/linkage/vp_2011_2019.parquet",
             "data/linkage/vp_2011_2021.parquet",
         ],
-        "remaining": "village-panchayat presidents only; ward members and "
-        "the upper tiers are not collected",
+        "remaining": "the heads of the union and district panchayats are "
+        "not collected; 2011 village ward sheets print winners only",
     },
     "Telangana": {
         "repo": "local_elections_telangana",
@@ -185,12 +188,14 @@ SIBLINGS = {
             "data/2019/sarpanch_results.parquet",
             "data/2019/ward_results.parquet",
             "data/2025/sarpanch_results.parquet",
+            "data/2025/ward_results.parquet",
             "data/linkage/gp_2019_2025.parquet",
         ],
         "standardized": "24,753 sarpanch seats (2019 and 2025), 49,823 2019 "
-        "ward seats and 11,464 seat links are standardized",
-        "remaining": "2025 ward seats are not collected; 2020-21 municipal "
-        "results are held in the sibling but not parsed",
+        "and 62,990 2025 ward seats, and 11,464 seat links are standardized",
+        "remaining": "the commission publishes about 56% of 2025 wards and no "
+        "2025 women's ward reservation; 2020-21 municipal results are held "
+        "in the sibling but not parsed",
     },
 }
 

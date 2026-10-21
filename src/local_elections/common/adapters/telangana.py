@@ -12,6 +12,11 @@ Public Representative - Rural" reports:
   GPs have no declared result (no nominations, no result, or a court stay):
   their seats carry a reservation and no winner.
 
+- 2025 wards: the commission's per-mandal ward report (62,990 wards in 7,140
+  GPs, about 56% of the state's wards; the rest are not published). It prints
+  each ward's caste reservation and winner but no women's reservation, so
+  reservation stays blank and woman_reserved unknown on these rows.
+
 Neither year prints the winner's sex. Where the sibling has inferred it from
 the name (naampy and fixed name endings, calibrated on Telangana assembly
 candidates' recorded sex), the probability travels under its own name
@@ -39,7 +44,7 @@ STATE = "Telangana"
 
 YEARS = ("2019", "2025")
 RESULTS = "data/{year}/sarpanch_results.parquet"
-WARDS = "data/2019/ward_results.parquet"
+WARDS = "data/{year}/ward_results.parquet"
 LINKS = {("2019", "2025"): "data/linkage/gp_2019_2025.parquet"}
 INFERRED = "data/inferred/winner_woman_probability_{year}.parquet"
 
@@ -47,6 +52,7 @@ DECLARED = {
     "data/2019/sarpanch_results.parquet": 12018,
     "data/2025/sarpanch_results.parquet": 12735,
     "data/2019/ward_results.parquet": 49823,
+    "data/2025/ward_results.parquet": 62990,
     "data/linkage/gp_2019_2025.parquet": 11464,
     "data/inferred/winner_woman_probability_2019.parquet": 12018,
     "data/inferred/winner_woman_probability_2025.parquet": 12702,
@@ -155,10 +161,12 @@ def slices(root):
             "provenance_level": "page",
             "unit_of_observation": "seat",
         }
-    wards = read(root, WARDS)
-    if wards is not None:
+    for year in YEARS:
+        wards = read(root, WARDS.format(year=year))
+        if wards is None:
+            continue
         yield {
-            "dataset_id": "telangana/gp_ward/2019",
+            "dataset_id": f"telangana/gp_ward/{year}",
             "state": STATE,
             "rows": [seat(r, {}) for r in wards],
             "provenance_level": "page",
