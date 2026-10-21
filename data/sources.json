@@ -166,7 +166,7 @@
     }
   },
   "local_elections_tamil_nadu": {
-    "ref": "64e1f51169877ba2048367192ad581b82298742c",
+    "ref": "5a523fcf96b538a12788435063f355c2e1b92825",
     "files": {
       "data/2011/vp_president_results.parquet": "78ce144ef80343feeb9d22380820b26db52de6e3a8c98fe8815b8697d1784baf",
       "data/2011/vp_president_candidates.parquet": "2e4d03e2b8a48be67fb638fe5f5d5dea1826eab9798dd7b965a4552619c2bddd",
@@ -196,7 +196,7 @@
     }
   },
   "local_elections_telangana": {
-    "ref": "dbbc600237d4d77acf277bb93d1cc8f186ce2f59",
+    "ref": "eb773d96a4897a08af8f44268d06d153aa1ac945",
     "files": {
       "data/2019/sarpanch_results.parquet": "a36308426daccb2960e9be73a4b92ade85b9fb3269fdd4804c6addfd65d80f27",
       "data/2025/sarpanch_results.parquet": "0606569e358db5ca738e0a9e7a28a24bcbd05fa5c7eacea2e10fe903f5d61355",
