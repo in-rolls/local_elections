@@ -1,6 +1,6 @@
 """Haryana adapter: ward rows do not inherit the GP-head printing comparison."""
 
-from local_elections.common.adapters.haryana import convert
+from local_elections.common.adapters.haryana import archived_pdfs, convert
 
 
 def source_row(**updates):
@@ -32,3 +32,18 @@ def test_ward_does_not_inherit_gp_head_printing_disagreement(tmp_path):
     assert got["printings_agree"] == ""
     got = convert(source_row(), "2022", "gp_head", "sarpanch", path, tmp_path)
     assert got["printings_agree"] == "0"
+
+
+def test_archived_pdf_is_named_by_its_archive_path(tmp_path):
+    year_dir = tmp_path / "data" / "2000"
+    year_dir.mkdir(parents=True)
+    (year_dir / "manifest.csv").write_text(
+        "district,block,saved_as,archive_path\n"
+        "Kaithal,Kaithal,test.pdf,raw_archive/national/early_cycles/raw/test.pdf\n"
+    )
+    archived = archived_pdfs(year_dir)
+    path = year_dir / "gp_reservation.csv"
+    got = convert(source_row(), "2000", "gp_head", "sarpanch", path, tmp_path, archived)
+    assert got["source_path"] == "data/raw_archive/national/early_cycles/raw/test.pdf"
+    got = convert(source_row(), "2022", "gp_head", "sarpanch", path, tmp_path)
+    assert got["source_path"] == "data/2000/pdfs/test.pdf"

@@ -446,7 +446,7 @@ Haryana,2000,gp_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,gp_head,
 Haryana,2000,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Haryana,2000,gp_head,plausible_vs_registry,external,pass,96%,,"5,932 against 6,197 in the register (2019-20)"
 Haryana,2000,gp_head,year_constant,internal,pass,2000,2000,
-Haryana,2000,gp_head,provenance_resolves,internal,fail,113,0,e.g. ['data/2000/pdfs/003f37f34764ecd7c703_148a1b6f5a97.pdf']
+Haryana,2000,gp_head,provenance_resolves,internal,pass,0,0,113 documents
 Haryana,2000,gp_ward,rows_in_band,declared,pass,53701,40000..80000,
 Haryana,2000,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only; 175 rows state no category
 Haryana,2000,gp_ward,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; reservation 0%>0%,,3 column(s) over tolerance
@@ -462,7 +462,7 @@ Haryana,2000,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward,gp_ward,
 Haryana,2000,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
 Haryana,2000,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Haryana,2000,gp_ward,year_constant,internal,pass,2000,2000,
-Haryana,2000,gp_ward,provenance_resolves,internal,fail,113,0,e.g. ['data/2000/pdfs/003f37f34764ecd7c703_148a1b6f5a97.pdf']
+Haryana,2000,gp_ward,provenance_resolves,internal,pass,0,0,113 documents
 Haryana,2005,gp_head,rows_in_band,declared,pass,6198,4000..8000,
 Haryana,2005,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC","BC,NONE,SC,ST",sc_st_bca_only; 12 rows state no category
 Haryana,2005,gp_head,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; reservation 0%>0%,,3 column(s) over tolerance

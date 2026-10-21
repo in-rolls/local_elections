@@ -142,7 +142,8 @@
       "data/inferred/winner_woman_probability_2005.parquet": "74a5cf36b536f6c85e1743ec359bf108806bce93d52e13436ecc0840d906b476",
       "data/2005/reference/category_defects.csv": "04d19d5dc27522afd0cbf74881dab15dd659243600191a0914e675061f64d114",
       "data/linkage/gp_2000_2005.parquet": "f3dda2d6d1572b58b009111c2df2487079993bc8271027c3e530c6f3f89ca6e0",
-      "data/linkage/gp_2005_2010.parquet": "956d96a9bf28ae6c15ecc694925b3d93664c53d8e67624f98dd0372b7ca42f7c"
+      "data/linkage/gp_2005_2010.parquet": "956d96a9bf28ae6c15ecc694925b3d93664c53d8e67624f98dd0372b7ca42f7c",
+      "data/2000/manifest.csv": "34c223de8166ac2678a7dc6efd2707ac0bb1bc29cdbbec046995e9c8bfbb38e4"
     }
   },
   "local_elections_kerala": {
