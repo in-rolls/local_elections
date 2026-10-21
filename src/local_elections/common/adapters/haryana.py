@@ -159,6 +159,23 @@ def locator(district, block, sr_no, gram_panchayat, ward_no=""):
     return "/".join(str(x) for x in parts if str(x))
 
 
+def archived_pdfs(year_dir):
+    """{saved_as: repository path} for a year whose PDFs live in raw_archive.
+
+    2000's gazettes were never copied into data/2000/pdfs/; the sibling's
+    manifest records where each one is archived instead.
+    """
+    manifest = year_dir / "manifest.csv"
+    if not manifest.exists():
+        return {}
+    with manifest.open(encoding="utf-8") as fh:
+        return {
+            r["saved_as"]: f"data/{r['archive_path']}"
+            for r in csv.DictReader(fh)
+            if r.get("archive_path")
+        }
+
+
 def slices(root):
     root = pathlib.Path(root)
     for year_dir in sorted(p for p in (root / "data").iterdir() if p.is_dir()):
@@ -171,9 +188,10 @@ def slices(root):
             if not path.exists():
                 continue
             inferred = inferred_sex(root, year) if tier == "gp_head" else {}
+            archived = archived_pdfs(year_dir)
             with path.open(encoding="utf-8", errors="replace") as fh:
                 rows = [
-                    convert(r, year, tier, tier_local, path, root)
+                    convert(r, year, tier, tier_local, path, root, archived)
                     for r in csv.DictReader(fh)
                 ]
             for row in rows:
@@ -208,7 +226,7 @@ def slices(root):
             }
 
 
-def convert(row, year, tier, tier_local, path, root):
+def convert(row, year, tier, tier_local, path, root, archived=None):
     local = row.get("reserved_caste", "")
     printed_winner = row.get("winner", "")
     printed_place = row.get("gram_panchayat", "")
@@ -267,9 +285,8 @@ def convert(row, year, tier, tier_local, path, root):
         # Passing it through on ward rows produced 1,392 false ward-level
         # `printings_disagree` flags in the pooled master.
         "printings_agree": row.get("printings_agree", "") if tier == "gp_head" else "",
-        "source_path": str(
-            (path.parent / "pdfs" / row.get("source_pdf", "")).relative_to(root)
-        ),
+        "source_path": (archived or {}).get(row.get("source_pdf", ""))
+        or str((path.parent / "pdfs" / row.get("source_pdf", "")).relative_to(root)),
         "source_page": "",
         # the notification's own serial within its block, which is what the
         # sibling's seat links are keyed on
