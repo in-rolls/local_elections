@@ -1047,7 +1047,16 @@ ROW_BANDS = {
     ("Karnataka", "block_member"): (2500, 4200),
     ("Karnataka", "zp_member"): (600, 1200),
     ("Telangana", "gp_head"): (10000, 14000),
-    ("Telangana", "gp_ward"): (40000, 60000),
+    # Both years are partial listings: the commission publishes 49,823 wards
+    # for 2019 and 62,990 (about 56%) for 2025.
+    ("Telangana", "gp_ward"): (40000, 70000),
+    # One band covers a full election (2011: 99,322 village wards, 6,471 union
+    # and 655 district wards) and the 2021 election in the nine new districts
+    # (23,210, 1,421 and 153).
+    ("Tamil Nadu", "gp_head"): (2500, 14000),
+    ("Tamil Nadu", "gp_ward"): (20000, 110000),
+    ("Tamil Nadu", "block_member"): (1000, 7500),
+    ("Tamil Nadu", "zp_member"): (100, 750),
 }
 
 ROMAN = re.compile(r"^[IVXLC]+$", re.I)

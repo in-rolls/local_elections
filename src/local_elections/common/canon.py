@@ -88,6 +88,13 @@ TIER_OF_LOCAL = {
     "anchalik_panchayat_vice_president": "block_vice_head",
     "anchalik_panchayat_vice-president": "block_vice_head",
     "anchalik_panchayat_member": "block_member",
+    # Tamil Nadu prints its offices in Tamil: the village panchayat president,
+    # its ward member, and the panchayat union and district panchayat ward
+    # members
+    "கிராம_ஊராட்சித்_தலைவர்": "gp_head",
+    "கிராம_ஊராட்சி_வார்டு_உறுப்பினர்": "gp_ward",
+    "ஊராட்சி_ஒன்றிய_வார்டு_உறுப்பினர்": "block_member",
+    "மாவட்ட_ஊராட்சி_வார்டு_உறுப்பினர்": "zp_member",
 }
 
 # Printed name -> canonical office, where the state has to decide it. Keep this

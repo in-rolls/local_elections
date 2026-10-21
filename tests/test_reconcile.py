@@ -36,6 +36,7 @@ SLUG = {
     "uttarakhand": "Uttarakhand",
     "karnataka": "Karnataka",
     "telangana": "Telangana",
+    "tamil_nadu": "Tamil Nadu",
 }
 
 
