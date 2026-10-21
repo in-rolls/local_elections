@@ -32,12 +32,12 @@ help:
 	@echo "make validate    run every state validator without reparsing"
 	@echo "make coverage    regenerate the readme table and check every link"
 	@echo "make expect      triage every column against the data dictionary"
-	@echo "make dictionary  regenerate DICTIONARY.md from the declarations"
+	@echo "make dictionary  regenerate docs/dictionary.md from the declarations"
 	@echo "make test        unit tests for the shared normalizer"
 	@echo "make sweep       what the web archive holds, per state commission"
 	@echo "make karnataka-ocr  read the Kannada scans; resumable, ~10 hours"
 	@echo "make transliterate  Indic names -> Latin, into a committed table"
-	@echo "make sources        rebuild SOURCES.md's holdings table from disk"
+	@echo "make sources        rebuild docs/sources.md's holdings table from disk"
 
 inventory:
 	$(PY) -m local_elections.tools.inventory
@@ -261,9 +261,10 @@ worklist:
 	$(PY) -m local_elections.tools.build_worklist
 
 coverage: stats worklist state-readmes sources
+	$(PY) -m local_elections.tools.build_coverage
 	$(PY) -m local_elections.tools.build_coverage --check
 
-# SOURCES.md is a feasibility survey and most of it is judgement, which stays
+# docs/sources.md is a feasibility survey and most of it is judgement, which stays
 # hand-written. Its holdings table is not: it is a count of what is on disk,
 # and it drifted to "1 scan, 7 pages" for a state holding 649 documents.
 sources:
@@ -272,7 +273,7 @@ sources:
 state-readmes:
 	$(PY) -m local_elections.tools.build_state_readmes
 
-# Column names against NAMING.md, in the pooled tables and every pinned sibling file.
+# Column names against docs/naming.md, in the pooled tables and every pinned sibling file.
 naming:
 	$(PY) -m local_elections.tools.naming --strict
 
@@ -287,10 +288,10 @@ test:
 
 .PHONY: delhi delhi-harvest
 delhi-harvest:
-	$(PY) -m local_elections.states.delhi.harvest --root data/delhi/qualification_audit
+	$(PY) -m local_elections.states.delhi.harvest --root data/delhi/interim/qualification_audit
 
 delhi:
-	$(PY) -m local_elections.states.delhi.parse --root data/delhi/qualification_audit --gazette data/delhi/delhi_2022.pdf
+	$(PY) -m local_elections.states.delhi.parse --root data/delhi/interim/qualification_audit --gazette data/delhi/raw/delhi_2022.pdf
 	$(PY) -m local_elections.states.delhi.validate --release data/delhi/release
 
 .PHONY: audit

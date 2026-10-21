@@ -842,14 +842,14 @@ def main():
         diagnostics.extend(reserved_scan_diagnostics(parsed))
     emit.write(
         diagnostics,
-        DATA / "2025_extracted" / "scan_parse_diagnostics",
+        DATA / "interim/2025_extracted/scan_parse_diagnostics",
         DIAGNOSTIC_COLUMNS,
     )
     for tier, expected in controls_2025.TOTAL_EXPECTED_ROWS.items():
         rows = rows_by_tier[tier]
         if len(rows) != expected:
             raise RuntimeError(f"{tier}: parsed {len(rows)} rows; expected {expected}")
-        emit.write(rows, DATA / f"{tier}_reservation_2025", SEAT_COLUMNS)
+        emit.write(rows, DATA / "release" / f"{tier}_reservation_2025", SEAT_COLUMNS)
         LOGGER.info(
             "Assam tier parsed",
             extra={

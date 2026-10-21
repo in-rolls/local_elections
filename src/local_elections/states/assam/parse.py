@@ -17,16 +17,15 @@ import hashlib
 from local_elections.common import emit
 from local_elections.common.normalize import label
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path
 
 DATA = ROOT / "data" / "assam"
 SOURCE = (
-    DATA
-    / "pdfs"
-    / ("Reservation of Wards and post of Chairperson of Municipal Boards_2020.pdf")
+    DATA / "raw/pdfs/Reservation of Wards and post of Chairperson of "
+    "Municipal Boards_2020.pdf"
 )
 SOURCE_SHA256 = "654319203cc97275f9107046191284c1082c88c043f10fcdb10fbbaa4904d328"
-SOURCE_PATH = SOURCE.relative_to(ROOT)
+SOURCE_PATH = historical_path(SOURCE, ROOT)
 
 WARD_COLUMNS = [
     "state",

@@ -33,8 +33,8 @@ from local_elections.common import emit
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-CACHE = ROOT / "data" / "karnataka" / "ocr"
-DOCUMENTS = ROOT / "data" / "karnataka" / "tzp_2016_elected"
+CACHE = ROOT / "data/karnataka/interim/ocr"
+DOCUMENTS = ROOT / "data/karnataka/raw/tzp_2016_elected"
 OUT = ROOT / "data" / "karnataka"
 
 YEAR = 2016
@@ -380,7 +380,7 @@ def main():
     by_tier = collections.Counter(r["tier"] for r in kept)
     for tier in sorted(by_tier):
         subset = [r for r in kept if r["tier"] == tier]
-        stem = OUT / f"{tier}_{YEAR}"
+        stem = OUT / "release" / f"{tier}_{YEAR}"
         emit.write(subset, stem, COLUMNS)
         print(f"  {len(subset):>5} rows -> {stem.relative_to(ROOT)}.csv")
 

@@ -21,15 +21,15 @@ Every file is written twice: `.csv` for a spreadsheet, `.jsonl` for a reader tha
 
 | File | Rows | Columns | Source documents |
 |---|---|---|---|
-| [`ulb_ward_2012.csv`](ulb_ward_2012.csv) | 227 | 29 | 1 |
-| [`ulb_ward_2017.csv`](ulb_ward_2017.csv) | 227 | 29 | 1 |
+| [`release/ulb_ward_2012.csv`](release/ulb_ward_2012.csv) | 227 | 29 | 1 |
+| [`release/ulb_ward_2017.csv`](release/ulb_ward_2017.csv) | 227 | 29 | 1 |
 
 ## About these sources
 
 Mumbai only. The Brihanmumbai Municipal Corporation has 227
 ward seats; two councils are in the schema, `ulb_ward_2012` and `ulb_ward_2017`.
 
-Every file under `mumbai/` arrived as a result table assembled for research, not
+Every original under `raw/mumbai/` arrived as a result table assembled for research, not
 as the State Election Commission's reservation roster, and only one of them
 states the seat reservation at all: the "Present Reservation" column of
 `BMC-2007_raw.xlsx`. **That column is the 2012 draw, not 2007's.** It lists 115
@@ -40,14 +40,14 @@ the 2012 slice's reservation and the 2007 supplemental file's winners.
 
 The 2017 slice takes its reservation from the replication deposit for
 Karekurve-Ramachandra & Lee (2025, *Comparative Political Studies*), Harvard
-Dataverse doi:10.7910/DVN/IO9SLQ, CC0, held under `mumbai/dataverse_IO9SLQ/`
+Dataverse doi:10.7910/DVN/IO9SLQ, CC0, held under `raw/mumbai/dataverse_IO9SLQ/`
 with a manifest and checksums. The authors digitised the commission's result
 handbooks, so for 2017 the reservation is a secondary source. Winners for 2012
 come from a scan transcription (202 of 227 wards named; names are surname-first
 and phonetic) and for 2017 from the commission's result export; both are checked
 against the deposit's councillor names by the validator.
 
-Supplemental files under `mumbai/` carry no `reservation` column and stay out of
+Supplemental files under `release/mumbai/` carry no `reservation` column and stay out of
 the pooled machinery on purpose: `bmc_seats_2007.csv` (2007 winners with the
 women's flag only; caste reservation unknown), `bmc_candidates_<year>.csv` for
 1997, 2002, 2012 and 2017, and the Praja Foundation ward-by-wave citizen ratings
@@ -62,14 +62,14 @@ Every row carries `source_path` and `source_page` — the document it was read f
 
 All 2 cited documents are present.
 
-Inventory for this directory: 19 tabular, 3 stata-do, 3 other, 2 digital-text, 1 scan, 1 mixed, 1 bibtex, 35 pages total.
+Inventory for this directory: 10 tabular, 3 stata-do, 2 digital-text, 1 scan, 1 mixed, 1 bibtex, 35 pages total.
 
 ## Acquired sources outside the parsed slices
 
 These held PDFs are not cited by any parsed row. A source series remains distinct from the state-level status, so parsed work in one year or government level cannot hide unparsed holdings in another.
 
-- `2022`: 3 PDFs
-- `mumbai/dataverse_IO9SLQ`: 1 PDF
+- `raw/2022`: 3 PDFs
+- `raw/mumbai/dataverse_IO9SLQ`: 1 PDF
 
 | Source series | Year | Government level | Tier | Documents | Format | Landing page |
 |---|---|---|---|---|---|---|
@@ -95,4 +95,4 @@ Every state runs a shared battery first — the seat key is unique, the reservat
 - the 2012 reservation against the deposit's independently digitised flag
 - winner names against the deposit's councillors for 2012 and 2017
 
-Column meanings are in [../../DICTIONARY.md](../../DICTIONARY.md). Expectation violations across every state are triaged into [../expectations_report.csv](../expectations_report.csv).
+Column meanings are in [../../docs/dictionary.md](../../docs/dictionary.md). Expectation violations across every state are triaged into [../stats/expectations_report.csv](../stats/expectations_report.csv).

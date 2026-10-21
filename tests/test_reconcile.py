@@ -16,7 +16,7 @@ import csv
 
 from local_elections.paths import ROOT
 
-WORKLIST = ROOT / "data" / "worklist.csv"
+WORKLIST = ROOT / "data/stats/worklist.csv"
 COLLISIONS = ROOT / "data" / "master" / "master_key_collisions.csv"
 STATS = ROOT / "data" / "stats" / "slice_stats.csv"
 

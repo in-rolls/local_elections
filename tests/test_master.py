@@ -114,7 +114,7 @@ def test_generated_outputs_do_not_advance_local_source_commit(tmp_path):
     source = tmp_path / "src" / "parser.py"
     stats = tmp_path / "data" / "stats" / "slice_checks.csv"
     master = tmp_path / "data" / "master" / "state.parquet"
-    report = tmp_path / "data" / "expectations_report.csv"
+    report = tmp_path / "data" / "stats" / "expectations_report.csv"
     state_readme = tmp_path / "data" / "assam" / "readme.md"
     for path in (source, stats, master, report, state_readme):
         path.parent.mkdir(parents=True, exist_ok=True)

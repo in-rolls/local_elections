@@ -8,7 +8,7 @@ from local_elections.states.jk import extract_2010, extract_2016, parse
 def page(source_pdf, table):
     return {
         "schema_version": 1,
-        "source_path": f"data/jk/2010/{source_pdf}",
+        "source_path": f"data/jammu_and_kashmir/raw/2010/{source_pdf}",
         "source_pdf": source_pdf,
         "source_sha256": "test",
         "source_page": 1,
@@ -93,7 +93,7 @@ def test_district_is_document_level_not_redetected_from_ward_names():
 
 def test_2010_extraction_and_document_controls_agree():
     records = extract_2010.load()
-    with parse.JK.joinpath("2010_extracted", "controls.csv").open(
+    with parse.JK.joinpath("interim", "2010_extracted", "controls.csv").open(
         encoding="utf-8"
     ) as source:
         controls = list(csv.DictReader(source))
@@ -117,7 +117,7 @@ def test_2010_extraction_and_document_controls_agree():
 
 def test_2010_parser_matches_document_row_controls():
     rows, sources, unknown = parse.parse_2010_records(extract_2010.load())
-    with parse.JK.joinpath("2010_extracted", "controls.csv").open(
+    with parse.JK.joinpath("interim", "2010_extracted", "controls.csv").open(
         encoding="utf-8"
     ) as source:
         controls = list(csv.DictReader(source))
@@ -148,7 +148,7 @@ def test_2016_parser_matches_extraction_and_document_controls(monkeypatch):
     records = extract_2016.load()
     diagnostics = {}
     rows = parse.parse_2016_records(records, diagnostics)
-    with parse.JK.joinpath("2016_extracted", "controls.csv").open(
+    with parse.JK.joinpath("interim", "2016_extracted", "controls.csv").open(
         encoding="utf-8"
     ) as source:
         controls = list(csv.DictReader(source))

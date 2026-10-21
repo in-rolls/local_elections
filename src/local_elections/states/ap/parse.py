@@ -26,7 +26,7 @@ mended, so the doubtful rows can be found again.
 the gram panchayat are separated only by case: the mandal is Title Case and the
 gram panchayat is UPPERCASE.
 
-Writes data/ap/{sarpanch,ward}_reservation_2020.{csv,jsonl}.
+Writes data/andhra_pradesh/{sarpanch,ward}_reservation_2020.{csv,jsonl}.
 """
 
 import argparse
@@ -44,9 +44,9 @@ from local_elections.states.ap import harvest, parse_kadapa
 
 LOGGER = get_logger(__name__)
 
-AP = ROOT / "data" / "ap" / "2020_res_gp"
-OCR_CACHE = ROOT / "data" / "ap" / "ocr"
-TEXT_CACHE = ROOT / "data" / "ap" / "extracted"
+AP = ROOT / "data/andhra_pradesh/raw/2020_res_gp"
+OCR_CACHE = ROOT / "data/andhra_pradesh/interim/ocr"
+TEXT_CACHE = ROOT / "data/andhra_pradesh/interim/extracted"
 
 COLUMNS = [
     "state",
@@ -933,7 +933,7 @@ def main():
 
     for tier in sorted(by_tier):
         subset = by_tier[tier]
-        stem = ROOT / "data" / "ap" / f"{tier}_reservation_2020"
+        stem = ROOT / "data" / "ap" / "release" / f"{tier}_reservation_2020"
         csv_path, _ = emit.write(subset, stem, COLUMNS)
         women = sum(r["woman_reserved"] for r in subset)
         repaired = sum(r["ocr_repaired"] for r in subset)

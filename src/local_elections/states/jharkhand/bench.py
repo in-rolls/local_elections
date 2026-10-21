@@ -87,14 +87,16 @@ def scanned():
     parse = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(parse)
     return {
-        p.stem + ".pdf" for p in (JH / "ocr").glob("*.txt") if parse.model_read_it(p)
+        p.stem + ".pdf"
+        for p in (JH / "interim/ocr").glob("*.txt")
+        if parse.model_read_it(p)
     }
 
 
 def rows():
     out = []
     for tier in TIERS:
-        path = JH / f"{tier}_reservation_2015.csv"
+        path = JH / "release" / f"{tier}_reservation_2015.csv"
         if not path.exists():
             continue
         with path.open(encoding="utf-8") as fh:

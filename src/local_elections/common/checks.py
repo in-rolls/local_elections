@@ -20,11 +20,11 @@ Three layers, in increasing order of how much they can actually catch:
 """
 
 import collections
-import pathlib
 import re
 import subprocess
 
 from local_elections.common import canon, dictionary
+from local_elections.paths import resolve_path
 
 CASTES = {"SC", "ST", "BC", "NONE"}
 SEAT_KEY = canon.SEAT_IDENTITY_FIELDS
@@ -152,7 +152,7 @@ def provenance(report, rows, root):
     """Every row must point at a document that exists, on a page that exists."""
     report.section("Provenance")
     paths = collections.Counter(r.get("source_path", "") for r in rows)
-    missing = [p for p in paths if not p or not (pathlib.Path(root) / p).exists()]
+    missing = [p for p in paths if not p or not resolve_path(p, root).exists()]
     report.check(
         not missing,
         "every source_path exists on disk",
@@ -163,7 +163,7 @@ def provenance(report, rows, root):
     # notice later, so check them against the real page count
     overruns = []
     for path in list(paths)[:40]:
-        full = pathlib.Path(root) / path
+        full = resolve_path(path, root)
         if not full.exists():
             continue
         total = _page_count(full)

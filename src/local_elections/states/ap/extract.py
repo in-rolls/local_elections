@@ -10,8 +10,8 @@ from local_elections.common.runlog import command, get_logger
 from local_elections.paths import ROOT
 
 LOGGER = get_logger(__name__)
-SOURCE = ROOT / "data" / "ap" / "2020_res_gp"
-CACHE = ROOT / "data" / "ap" / "extracted"
+SOURCE = ROOT / "data/andhra_pradesh/raw/2020_res_gp"
+CACHE = ROOT / "data/andhra_pradesh/interim/extracted"
 
 
 def extract_pdf(path):

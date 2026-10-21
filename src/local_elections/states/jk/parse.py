@@ -21,7 +21,7 @@ The holdings are ad-hoc - mixed granularity, inconsistent filenames, 2016
 covering part of Jammu division and 2018 part of Kashmir - so what matters here
 is honest coverage accounting, not clever parsing. validate.py does that.
 
-Writes data/jk/{ward,sarpanch}_reservation_<year>.{csv,jsonl}.
+Writes data/jammu_and_kashmir/{ward,sarpanch}_reservation_<year>.{csv,jsonl}.
 """
 
 import argparse
@@ -38,12 +38,12 @@ from local_elections.common.normalize import (
     script_of,
 )
 from local_elections.common.runlog import command, get_logger
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 from local_elections.states.jk import extract_2010, extract_2016
 
 LOGGER = get_logger(__name__)
 
-JK = ROOT / "data" / "jk"
+JK = ROOT / "data/jammu_and_kashmir"
 
 # These are held, but their digital layers are not clean tables. Ghagwal has
 # only a header table; Poonch's characters and cells drift across columns; and
@@ -880,7 +880,7 @@ def parse_2016_records(records, diagnostics=None):
                         "pop_oc": pop[2],
                         "pop_total": pop[3],
                         "page_text": record.get("page_text", ""),
-                        "path": ROOT / record["source_path"],
+                        "path": resolve_path(record["source_path"], ROOT),
                         "source_page": record["source_page"],
                     }
                 )
@@ -923,7 +923,7 @@ def parse_2010_records(records):
             source_pdf = record["source_pdf"]
             if source_pdf in EXCLUDED_2010:
                 continue
-            path = ROOT / record["source_path"]
+            path = resolve_path(record["source_path"], ROOT)
             block = block_from_filename(path)
             halqa = ""
             district = district_from_document(record.get("page_text", ""))
@@ -1008,7 +1008,7 @@ def parse_2010_records(records):
                         unknown_marks[clean(value)] += 1
                     continue
                 caste, woman, script = parsed
-                path = ROOT / record["source_path"]
+                path = resolve_path(record["source_path"], ROOT)
                 rows.append(
                     emit.stamp(
                         {
@@ -1181,7 +1181,7 @@ def main():
     years = args.year or ["2010", "2016", "2018"]
 
     for year in years:
-        directory = JK / year
+        directory = JK / "raw" / year
         if not directory.exists():
             continue
         rows, empty, failed = [], [], []
@@ -1252,7 +1252,7 @@ def main():
         for row in rows:
             by_tier[row["tier_local"]].append(row)
         for tier, subset in sorted(by_tier.items()):
-            stem = JK / f"{tier}_reservation_{year}"
+            stem = JK / "release" / f"{tier}_reservation_{year}"
             csv_path, _ = emit.write(subset, stem, COLUMNS)
             women = sum(r["woman_reserved"] for r in subset)
             districts = {r["district"] for r in subset if r["district"]}

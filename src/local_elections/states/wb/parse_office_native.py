@@ -19,7 +19,7 @@ import numpy as np
 import pdfplumber
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path, resolve_path
 from local_elections.states.wb.parse_office_scans import (
     grid_masks,
     groups,
@@ -28,8 +28,8 @@ from local_elections.states.wb.parse_office_scans import (
 )
 from local_elections.states.wb.parse_results import write_table
 
-OUT = ROOT / "data/wb/derived/office_native"
-INDEX = ROOT / "data/wb/gp_source_search/manual_entry_index.csv"
+OUT = ROOT / "data/west_bengal/release/office_native"
+INDEX = ROOT / "data/west_bengal/discovery/gp_source_search/manual_entry_index.csv"
 
 
 def select_sources():
@@ -215,8 +215,10 @@ def tesseract_version():
 
 
 def read_cell(row):
-    cache = ROOT / row["cache_path"]
-    crop_sha = hashlib.sha256((ROOT / row["crop_path"]).read_bytes()).hexdigest()
+    cache = resolve_path(row["cache_path"], ROOT)
+    crop_sha = hashlib.sha256(
+        (resolve_path(row["crop_path"], ROOT)).read_bytes()
+    ).hexdigest()
     fingerprint = {
         "crop_sha256": crop_sha,
         "language": "eng",
@@ -229,7 +231,10 @@ def read_cell(row):
     if cached.get("fingerprint") == fingerprint:
         readings = cached["readings"]
     else:
-        readings = {str(psm): run_ocr(ROOT / row["crop_path"], psm) for psm in (6, 7)}
+        readings = {
+            str(psm): run_ocr(resolve_path(row["crop_path"], ROOT), psm)
+            for psm in (6, 7)
+        }
         cache.write_text(
             json.dumps(
                 {"fingerprint": fingerprint, "readings": readings}, ensure_ascii=False
@@ -338,7 +343,7 @@ def transcription_evidence(raw, file_hashes):
             or not re.fullmatch(r"[0-9a-f]{64}", reference["sha256"])
         ):
             raise ValueError("Invalid transcription evidence reference")
-        relative = ROOT / reference["path"]
+        relative = resolve_path(reference["path"], ROOT)
         evidence_path = relative.resolve()
         if reference["path"].startswith("/") or not evidence_path.is_relative_to(
             ROOT.resolve()
@@ -446,7 +451,7 @@ def attach_qwen_reviews(rows):
     )
     for group in ("pilot", "highres", "s24_targeted/readings"):
         for path in sorted(
-            (ROOT / "data/wb/derived/qwen_review" / group).glob("*.json")
+            (ROOT / "data/west_bengal/interim/qwen_review" / group).glob("*.json")
         ):
             reading = json.loads(path.read_text())
             evidence[reading["source"]["row_id"]] = (path, reading)
@@ -483,7 +488,7 @@ def attach_qwen_reviews(rows):
         row.update(
             {
                 "qwen_raw_reading": raw,
-                "qwen_review_cache": str(path.relative_to(ROOT)),
+                "qwen_review_cache": historical_path(path, ROOT),
                 "qwen_agrees_with_current_reading": agrees,
             }
         )
@@ -524,7 +529,7 @@ def reconcile_controls(mentions):
                 (audit_path, hashlib.sha256(raw).hexdigest(), json.loads(raw))
             )
     for control in json.loads(path.read_text()):
-        source = ROOT / control["source_path"]
+        source = resolve_path(control["source_path"], ROOT)
         if hashlib.sha256(source.read_bytes()).hexdigest() != control["source_sha256"]:
             raise ValueError("Printed-control source hash changed")
         rows = [
@@ -618,17 +623,17 @@ def main():
     rows, audits = [], []
     seen = set()
     for source in select_sources():
-        path = ROOT / "data/wb" / source["file"]
+        path = resolve_path("data/wb/" + source["file"], ROOT)
         sha = hashlib.sha256(path.read_bytes()).hexdigest()
         if sha in seen:
             continue
         seen.add(sha)
-        directory = OUT / "ocr" / sha
+        directory = ROOT / "data/west_bengal/interim/office_native/ocr" / sha
         directory.mkdir(parents=True, exist_ok=True)
         with pdfplumber.open(path) as pdf:
             for number, page in enumerate(pdf.pages, 1):
                 audit = {
-                    "source_path": str(path.relative_to(ROOT)),
+                    "source_path": historical_path(path, ROOT),
                     "source_sha256": sha,
                     "source_page": number,
                 }

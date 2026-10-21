@@ -23,10 +23,10 @@ Every file is written twice: `.csv` for a spreadsheet, `.jsonl` for a reader tha
 
 | File | Rows | Columns | Source documents |
 |---|---|---|---|
-| [`mukhiya_reservation_2015.csv`](mukhiya_reservation_2015.csv) | 3,972 | 23 | 78 |
-| [`panchayat_samiti_reservation_2015.csv`](panchayat_samiti_reservation_2015.csv) | 5,132 | 23 | 49 |
-| [`ward_member_reservation_2015.csv`](ward_member_reservation_2015.csv) | 19,781 | 23 | 33 |
-| [`zila_parishad_reservation_2015.csv`](zila_parishad_reservation_2015.csv) | 226 | 23 | 11 |
+| [`release/mukhiya_reservation_2015.csv`](release/mukhiya_reservation_2015.csv) | 3,972 | 23 | 78 |
+| [`release/panchayat_samiti_reservation_2015.csv`](release/panchayat_samiti_reservation_2015.csv) | 5,132 | 23 | 49 |
+| [`release/ward_member_reservation_2015.csv`](release/ward_member_reservation_2015.csv) | 19,781 | 23 | 33 |
+| [`release/zila_parishad_reservation_2015.csv`](release/zila_parishad_reservation_2015.csv) | 226 | 23 | 11 |
 
 ## Stats
 
@@ -56,18 +56,18 @@ Every row carries `source_path` and `source_page` — the document it was read f
 
 All 112 cited documents are present.
 
-Inventory for this directory: 122 other, 108 digital-text, 28 scan, 8 mixed, 6 tabular, 4,970 pages total.
+Inventory for this directory: 108 digital-text, 28 scan, 8 mixed, 2 tabular, 4,970 pages total.
 
 ## Acquired sources outside the parsed slices
 
 These held PDFs are not cited by any parsed row. A source series remains distinct from the state-level status, so parsed work in one year or government level cannot hide unparsed holdings in another.
 
-- `2015/15. BOKARO ZP PSS MUKHIYA GPS`: 1 PDF
-- `2015/20. KHUNTI MUKHIYA PSS/Khunti`: 1 PDF
-- `2015/20. KHUNTI MUKHIYA PSS/Rania`: 1 PDF
-- `2015/5. HAZARIBAG MUKHIYA PSS/HAZARIBAG MUKHIYA`: 2 PDFs
-- `2022`: 24 PDFs
-- `2022_municipal`: 3 PDFs
+- `raw/2015/15. BOKARO ZP PSS MUKHIYA GPS`: 1 PDF
+- `raw/2015/20. KHUNTI MUKHIYA PSS/Khunti`: 1 PDF
+- `raw/2015/20. KHUNTI MUKHIYA PSS/Rania`: 1 PDF
+- `raw/2015/5. HAZARIBAG MUKHIYA PSS/HAZARIBAG MUKHIYA`: 2 PDFs
+- `raw/2022`: 24 PDFs
+- `raw/2022_municipal`: 3 PDFs
 
 ## Reproducing
 
@@ -94,7 +94,7 @@ Every state runs a shared battery first — the seat key is unique, the reservat
 | `coverage_vs_published` | external | &check; 5132 (95%) | &check; 4105 (94%) | &ndash; 19781 | ! 226 (41%) | &ndash; 4334 |
 | `label_agrees` | internal | &check; 0 | &check; 0 | &check; 0 | &check; 0 | &check; 0 |
 | `plausible_vs_registry` | external | &ndash; | &check; 95% | &ndash; | &ndash; | &check; 99% |
-| `provenance_resolves` | internal | &check; 0 | &ndash; | &check; 0 | &check; 0 | &ndash; |
+| `provenance_resolves` | internal | &check; 0 | &check; 0 | &check; 0 | &check; 0 | &check; 0 |
 | `reservation_constant_within_seat` | internal | &ndash; | &ndash; | &ndash; | &ndash; | &ndash; |
 | `rows_in_band` | declared | &check; 5132 | &check; 4137 | &check; 19781 | &check; 226 | &check; 4334 |
 | `seat_key_unique` | internal | ! 500 | &check; 0 | ! 760 | ! 8 | &check; 0 |
@@ -108,4 +108,4 @@ Every state runs a shared battery first — the seat key is unique, the reservat
 
 Each check declares what it **appeals to**. Only an external appeal - a published total, a statutory share, a population - reliably catches silent corruption; an internal check confirms the file agrees with itself, which it does whether or not a category was misread.
 
-Column meanings are in [../../DICTIONARY.md](../../DICTIONARY.md). Expectation violations across every state are triaged into [../expectations_report.csv](../expectations_report.csv).
+Column meanings are in [../../docs/dictionary.md](../../docs/dictionary.md). Expectation violations across every state are triaged into [../stats/expectations_report.csv](../stats/expectations_report.csv).

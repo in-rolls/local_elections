@@ -16,9 +16,9 @@ from concurrent.futures import ProcessPoolExecutor
 import pdfplumber
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path, resolve_path
 
-OUT = ROOT / "data/wb/derived/native"
+OUT = ROOT / "data/west_bengal/interim/native"
 VERSION = 1
 
 
@@ -88,7 +88,7 @@ def extract(path):
     temporary.write_text(json.dumps(record, ensure_ascii=False, indent=2) + "\n")
     temporary.replace(cache)
     return {
-        "source_path": str(path.relative_to(ROOT)),
+        "source_path": historical_path(path, ROOT),
         "sha256": digest,
         "cache": str(cache.relative_to(ROOT)),
         "pages": len(record["pages"]),
@@ -107,8 +107,11 @@ def main():
     files = sorted(
         {
             p
-            for directory in ["data/wb/2023", "data/wb/gp_source_search"]
-            for p in (ROOT / directory).rglob("*")
+            for directory in [
+                "data/west_bengal/raw/2023",
+                "data/west_bengal/discovery/gp_source_search",
+            ]
+            for p in (resolve_path(directory, ROOT)).rglob("*")
             if p.suffix.lower() == ".pdf" and args.match in str(p)
         }
     )

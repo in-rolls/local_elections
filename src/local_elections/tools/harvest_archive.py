@@ -1,7 +1,7 @@
 r"""Fetch archived documents for any host, as crawled, with a manifest.
 
     uv run python -m local_elections.tools.harvest_archive --host karsec.gov.in \\
-        --match TZP_Elected_Members --out data/karnataka/tzp_2016_elected \\
+        --match TZP_Elected_Members --out data/karnataka/raw/tzp_2016_elected \\
         --dry-run
 
 `archive_sweep.py` says what exists; this brings it here. The two halves are
@@ -39,7 +39,7 @@ import urllib.parse
 
 from local_elections.common import fetch
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 from local_elections.tools.archive_sweep import cdx
 
 FIELDS = ["file", "url", "wayback_timestamp", "sha256", "bytes"]
@@ -209,7 +209,7 @@ def main():
     )
     args = ap.parse_args()
 
-    out = args.out if args.out.is_absolute() else ROOT / args.out
+    out = args.out if args.out.is_absolute() else resolve_path(args.out, ROOT)
     rows = harvest(
         args.host,
         args.match,

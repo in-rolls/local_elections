@@ -21,12 +21,12 @@ from pathlib import Path
 from PIL import Image
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 from local_elections.states.wb.parse_nadia import number, tidy
 from local_elections.states.wb.parse_results import write_table
 
-OUT = ROOT / "data/wb/derived/ward_schedules"
-INDEX = ROOT / "data/wb/gp_source_search/manual_entry_index.csv"
+OUT = ROOT / "data/west_bengal/release/ward_schedules"
+INDEX = ROOT / "data/west_bengal/discovery/gp_source_search/manual_entry_index.csv"
 
 
 def selected(metadata):
@@ -125,7 +125,7 @@ def ocr_page(task):
                     "-scale-to",
                     "2400",
                     "-png",
-                    str(ROOT / path),
+                    str(resolve_path(path, ROOT)),
                     str(stem),
                 ],
                 check=True,
@@ -343,7 +343,8 @@ def parse_native(record, metadata, path):
                 else "semantic_review_required",
                 "rows": len(page_rows),
                 "raw_text": page["text"],
-                "native_cache": f"data/wb/derived/native/{record['sha256']}.json",
+                "native_cache": "data/west_bengal/interim/native/"
+                "{record['sha256']}.json",
             }
         )
     for gp in {r["gram_panchayat"] for r in rows}:
@@ -1018,7 +1019,7 @@ def write_semantic_backlog(pages, gp_rows, other_rows):
     for page in pages:
         if not page.get("ocr_cache"):
             continue
-        ocr = json.loads((ROOT / page["ocr_cache"]).read_text())
+        ocr = json.loads((resolve_path(page["ocr_cache"], ROOT)).read_text())
         key = page["source_sha256"], page["source_page"]
         rows = by_page[key]
         gp = [r for r in rows if r["record_kind"] == "gp_ward_reservation"]
@@ -1137,7 +1138,9 @@ def main():
     OUT.mkdir(parents=True, exist_ok=True)
     native = {
         r["source_path"]: r
-        for r in json.loads((ROOT / "data/wb/derived/native/index.json").read_text())
+        for r in json.loads(
+            (ROOT / "data/west_bengal/interim/native/index.json").read_text()
+        )
     }
     rows, other_rows, crosswalk, pages, documents, tasks, seen = (
         [],
@@ -1151,9 +1154,12 @@ def main():
     for metadata in csv.DictReader(INDEX.open()):
         if not selected(metadata) or not metadata["file"].lower().endswith(".pdf"):
             continue
-        path = "data/wb/" + metadata["file"]
+        path = "data/west_bengal/" + metadata["file"]
         digest = metadata["sha256"]
-        if hashlib.sha256((ROOT / path).read_bytes()).hexdigest() != digest:
+        if (
+            hashlib.sha256((resolve_path(path, ROOT)).read_bytes()).hexdigest()
+            != digest
+        ):
             raise ValueError(f"Source manifest hash differs: {path}")
         if digest in seen:
             documents.append(
@@ -1165,7 +1171,7 @@ def main():
             )
             continue
         seen.add(digest)
-        record = json.loads((ROOT / native[path]["cache"]).read_text())
+        record = json.loads((resolve_path(native[path]["cache"], ROOT)).read_text())
         parsed, audit = parse_native(record, metadata, path)
         if "alipurduar_CONSTITUENCY" in path:
             crosswalk.extend(parse_constituency_crosswalk(record, path))
@@ -1207,7 +1213,12 @@ def main():
                         flush=True,
                     )
     for page in pages:
-        target = OUT / "ocr" / page["source_sha256"] / f"{page['source_page']:04d}.json"
+        target = (
+            ROOT
+            / "data/west_bengal/interim/ward_schedules/ocr"
+            / page["source_sha256"]
+            / f"{page['source_page']:04d}.json"
+        )
         if target.exists():
             ocr = json.loads(target.read_text())
             page["ocr_cache"] = str(target.relative_to(ROOT))

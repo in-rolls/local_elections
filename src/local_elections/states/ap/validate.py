@@ -27,9 +27,9 @@ from local_elections.paths import ROOT
 from local_elections.states.ap import harvest
 from local_elections.states.ap import parse as parser
 
-DATA = ROOT / "data" / "ap"
-SOURCE = DATA / "2020_res_gp"
-OCR = DATA / "ocr"
+DATA = ROOT / "data/andhra_pradesh"
+SOURCE = DATA / "raw/2020_res_gp"
+OCR = DATA / "interim/ocr"
 
 # Andhra Pradesh reserves half of all sarpanch seats for women.
 WOMEN_SHARE = 0.50
@@ -47,7 +47,7 @@ DISTRICTS = harvest.DISTRICTS
 
 
 def load(tier):
-    path = DATA / f"{tier}_reservation_2020.csv"
+    path = DATA / "release" / f"{tier}_reservation_2020.csv"
     if not path.exists():
         return []
     with path.open(encoding="utf-8") as fh:

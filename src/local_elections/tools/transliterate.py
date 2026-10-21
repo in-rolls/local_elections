@@ -21,7 +21,7 @@ every file. Transliterating during the build would put a model in the path of
 every hash, so a library upgrade would rewrite the corpus without changing a
 value - the same argument that pins pyarrow. This writes a lookup table, the
 table is committed, and the master build only ever reads it. Same reasoning as
-data/jharkhand/ocr/.
+data/jharkhand/interim/ocr/.
 
 **Why a table and not a column.** Names repeat: 328,539 Devanagari rows hold
 158,931 distinct strings. Keying on the string rather than the row means the

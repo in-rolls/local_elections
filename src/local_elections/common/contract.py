@@ -52,7 +52,7 @@ def integer(name, description, **constraints):
 
 
 def flag(name, description, **constraints):
-    """1 / 0 / null, stored as int8 (NAMING.md: every *_woman column)."""
+    """1 / 0 / null, stored as int8 (docs/naming.md: every *_woman column)."""
     out = field(name, "integer", description, minimum=0, maximum=1, **constraints)
     # Table Schema has no int8; the storage type rides along as a custom property
     out["arrow"] = "int8"

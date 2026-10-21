@@ -88,7 +88,7 @@ def from_text_layer(pdf, page, district):
 
 
 def from_model(stem, page, district):
-    cache = ROOT / "data" / "jharkhand" / "ocr" / f"{stem}.txt"
+    cache = ROOT / "data/jharkhand/interim/ocr" / f"{stem}.txt"
     if not cache.exists():
         return []
     pages = cache.read_text(encoding="utf-8").split("\f")

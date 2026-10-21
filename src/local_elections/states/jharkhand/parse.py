@@ -48,8 +48,8 @@ from local_elections.paths import ROOT
 
 LOGGER = get_logger(__name__)
 
-JHARKHAND = ROOT / "data" / "jharkhand" / "2015"
-OCR_CACHE = ROOT / "data" / "jharkhand" / "ocr"
+JHARKHAND = ROOT / "data/jharkhand/raw/2015"
+OCR_CACHE = ROOT / "data/jharkhand/interim/ocr"
 
 COLUMNS = [
     "state",
@@ -1233,7 +1233,7 @@ def main():
 
     for tier in sorted(by_tier):
         subset = by_tier[tier]
-        stem = ROOT / "data" / "jharkhand" / f"{tier}_reservation_2015"
+        stem = ROOT / "data" / "jharkhand" / "release" / f"{tier}_reservation_2015"
         csv_path, _ = emit.write(subset, stem, COLUMNS)
         districts = {r["district"] for r in subset}
         blocks = {(r["district"], r["block"]) for r in subset}

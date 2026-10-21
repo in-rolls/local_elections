@@ -19,6 +19,8 @@ import json
 import pathlib
 import re
 
+from local_elections.paths import historical_path
+
 PROVENANCE = [
     "source_path",
     "source_page",
@@ -106,7 +108,7 @@ def stamp(row, path, page=None, root=None, archive=None):
         relative = path.relative_to(root) if root else path
     except ValueError:
         relative = path
-    row["source_path"] = str(relative)
+    row["source_path"] = historical_path(relative, root)
     row["source_pdf"] = path.name
     if page is not None:
         row["source_page"] = page
@@ -118,6 +120,13 @@ def stamp(row, path, page=None, root=None, archive=None):
 def write(rows, stem, columns):
     """Write rows to <stem>.csv and <stem>.jsonl. Returns the two paths."""
     stem = pathlib.Path(stem)
+    stem.parent.mkdir(parents=True, exist_ok=True)
+    rows = [
+        dict(row, source_path=historical_path(row["source_path"]))
+        if row.get("source_path")
+        else row
+        for row in rows
+    ]
     columns = list(columns) + [c for c in PROVENANCE if c not in columns]
 
     csv_path = stem.with_suffix(".csv")

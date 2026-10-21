@@ -33,8 +33,8 @@ from local_elections.common.ocr_engine import page_count
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-DATA = ROOT / "data" / "wb" / "2018"
-CACHE = ROOT / "data" / "wb" / "ocr"
+DATA = ROOT / "data/west_bengal/raw/2018"
+CACHE = ROOT / "data/west_bengal/interim/ocr"
 
 DPI = "300"
 

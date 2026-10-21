@@ -9,7 +9,7 @@ from local_elections.paths import ROOT
 SOURCE_ID = "andhra_pradesh_sec_gp_reservations_2020"
 LANDING_URL = "https://sec.ap.gov.in/"
 SOURCE_BASE = "https://sec.ap.gov.in/Uploads/Documents/Notifications/SP_and_WM/"
-OUT = ROOT / "data" / "ap" / "2020_res_gp"
+OUT = ROOT / "data/andhra_pradesh/raw/2020_res_gp"
 MANIFEST = OUT / "manifest.csv"
 EXPECTED_DOCUMENTS = 13
 

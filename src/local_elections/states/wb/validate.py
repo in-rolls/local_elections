@@ -7,7 +7,7 @@ from local_elections.common import checks, validation
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-DATA = ROOT / "data" / "wb"
+DATA = ROOT / "data/west_bengal"
 EXPECTED_ROWS = 825
 EXPECTED_DISTRICTS = 20
 
@@ -18,7 +18,7 @@ def main():
     rows = validation.apply(
         report,
         validation.DatasetExpectation(
-            path=DATA / "zp_member_2018.csv",
+            path=DATA / "release/zp_member_2018.csv",
             state="West Bengal",
             year="2018",
             tier="zp_member",

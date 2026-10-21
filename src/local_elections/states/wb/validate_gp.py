@@ -13,9 +13,9 @@ import json
 import pyarrow.parquet as pq
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 
-OUT = ROOT / "data/wb/derived"
+OUT = ROOT / "data/west_bengal/release"
 
 
 def equivalent(a, b):
@@ -36,7 +36,7 @@ def main():
     gold = json.loads((OUT / "quality/heldout_gold.json").read_text())
     metrics, errors = collections.defaultdict(collections.Counter), []
     for expected in gold["rows"]:
-        source = ROOT / expected["source_path"]
+        source = resolve_path(expected["source_path"], ROOT)
         if hashlib.sha256(source.read_bytes()).hexdigest() != expected["source_sha256"]:
             raise ValueError(f"Gold source changed: {source}")
         rows = [
@@ -104,7 +104,9 @@ def main():
     seat_blocks = {r["row_id"]: r["block"] for r in tables["alipurduar_2018"]}
     for control in controls["rows"]:
         if (
-            hashlib.sha256((ROOT / control["source_path"]).read_bytes()).hexdigest()
+            hashlib.sha256(
+                (resolve_path(control["source_path"], ROOT)).read_bytes()
+            ).hexdigest()
             != control["source_sha256"]
         ):
             raise ValueError("Block control source changed")

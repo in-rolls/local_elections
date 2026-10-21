@@ -1,4 +1,4 @@
-"""NAMING.md's rules, as tools/naming.py enforces them."""
+"""docs/naming.md's rules, as tools/naming.py enforces them."""
 
 from local_elections.tools.naming import violations
 

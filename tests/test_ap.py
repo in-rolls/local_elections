@@ -165,7 +165,7 @@ def test_kurnool_serial_after_row_is_restored_from_pdf_text_order():
 
 
 def test_kurnool_complete_source_contract():
-    rows = ap.parse_pdf(ROOT / "data" / "ap" / "2020_res_gp" / "knl_res_gp.pdf")
+    rows = ap.parse_pdf(ROOT / "data/andhra_pradesh/raw/2020_res_gp/knl_res_gp.pdf")
     heads = [row for row in rows if row["tier"] == "gp_head"]
     wards = [row for row in rows if row["tier"] == "gp_ward"]
     assert len(heads) == 972
@@ -181,7 +181,7 @@ def test_kurnool_complete_source_contract():
 
 
 def test_kadapa_complete_source_and_errata_contract():
-    rows = ap.parse_pdf(ROOT / "data" / "ap" / "2020_res_gp" / "kdp_res_gp.pdf")
+    rows = ap.parse_pdf(ROOT / "data/andhra_pradesh/raw/2020_res_gp/kdp_res_gp.pdf")
     heads = [row for row in rows if row["tier"] == "gp_head"]
     wards = [row for row in rows if row["tier"] == "gp_ward"]
     controls = {row["block"]: row["gp_count"] for row in abstract_controls()}
@@ -202,7 +202,7 @@ def test_kadapa_complete_source_and_errata_contract():
 
 
 def test_kadapa_errata_keeps_both_printed_values():
-    rows = ap.parse_pdf(ROOT / "data" / "ap" / "2020_res_gp" / "kdp_res_gp.pdf")
+    rows = ap.parse_pdf(ROOT / "data/andhra_pradesh/raw/2020_res_gp/kdp_res_gp.pdf")
     corrected = {
         (row["block"], row["gram_panchayat"], row["tier"], row["ward_no"]): row
         for row in rows

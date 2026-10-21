@@ -45,6 +45,7 @@ support.
 import hashlib
 
 from local_elections.common import canon, dictionary, normalize, reference
+from local_elections.paths import historical_path
 
 MASTER_COLUMNS = [
     # grain
@@ -115,7 +116,7 @@ MASTER_COLUMNS = [
     "quality_flags",
 ]
 
-# The published names (NAMING.md). Parsers and adapters emit the row vocabulary
+# The published names (docs/naming.md). Parsers and adapters emit the row vocabulary
 # on the left; the tables are written under the names on the right, here and
 # only here (build_master.write, contract.py). The in-tree parsers keep the old
 # words until their restructure lands; then the left side goes.
@@ -524,7 +525,11 @@ def to_master(
         ),
         "source_repo": source_repo,
         "source_commit": source_commit,
-        "source_path": row.get("source_path", ""),
+        "source_path": (
+            historical_path(row.get("source_path", ""))
+            if source_repo in {"", "local_elections"}
+            else row.get("source_path", "")
+        ),
         "source_page": row.get("source_page", ""),
         "provenance_level": provenance_level,
     }

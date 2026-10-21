@@ -1,0 +1,232 @@
+{
+  "andhra_pradesh": {
+    "pooled": [
+      "release/sarpanch_reservation_2020.csv",
+      "release/ward_reservation_2020.csv"
+    ],
+    "supplemental": []
+  },
+  "assam": {
+    "pooled": [
+      "release/block_head_reservation_2025.csv",
+      "release/block_member_reservation_2025.csv",
+      "release/block_vice_head_reservation_2025.csv",
+      "release/chairperson_reservation_2020.csv",
+      "release/gp_head_reservation_2025.csv",
+      "release/gp_vice_head_reservation_2025.csv",
+      "release/gp_ward_reservation_2025.csv",
+      "release/ward_reservation_2020.csv",
+      "release/zp_member_reservation_2025.csv"
+    ],
+    "supplemental": [
+      "release/gp_roster_2025.csv"
+    ]
+  },
+  "chandigarh": {
+    "pooled": [],
+    "supplemental": []
+  },
+  "delhi": {
+    "pooled": [],
+    "supplemental": [
+      "release/coverage.csv",
+      "release/winner_source_audit.parquet",
+      "release/winners.parquet"
+    ]
+  },
+  "goa": {
+    "pooled": [
+      "release/ward_reservation_2012.csv",
+      "release/ward_reservation_2017.csv",
+      "release/ward_reservation_2022.csv"
+    ],
+    "supplemental": []
+  },
+  "gujarat": {
+    "pooled": [
+      "release/block_member_reservation_2020.csv",
+      "release/zp_member_reservation_2020.csv"
+    ],
+    "supplemental": [
+      "release/reservation_recode_2020.csv"
+    ]
+  },
+  "himachal_pradesh": {
+    "pooled": [],
+    "supplemental": []
+  },
+  "jammu_and_kashmir": {
+    "pooled": [
+      "release/sarpanch_reservation_2016.csv",
+      "release/ward_reservation_2010.csv",
+      "release/ward_reservation_2016.csv",
+      "release/ward_reservation_2018.csv"
+    ],
+    "supplemental": []
+  },
+  "jharkhand": {
+    "pooled": [
+      "release/mukhiya_reservation_2015.csv",
+      "release/panchayat_samiti_reservation_2015.csv",
+      "release/ward_member_reservation_2015.csv",
+      "release/zila_parishad_reservation_2015.csv"
+    ],
+    "supplemental": []
+  },
+  "karnataka": {
+    "pooled": [
+      "release/block_member_2016.csv",
+      "release/gp_head_1993.csv",
+      "release/gp_head_2000.csv",
+      "release/gp_head_2002.csv",
+      "release/gp_head_2005.csv",
+      "release/gp_head_2007.csv",
+      "release/zp_member_2016.csv"
+    ],
+    "supplemental": []
+  },
+  "madhya_pradesh": {
+    "pooled": [],
+    "supplemental": []
+  },
+  "maharashtra": {
+    "pooled": [
+      "release/ulb_ward_2012.csv",
+      "release/ulb_ward_2017.csv"
+    ],
+    "supplemental": [
+      "release/mumbai/bmc_candidates_1997.csv",
+      "release/mumbai/bmc_candidates_2002.csv",
+      "release/mumbai/bmc_candidates_2012.csv",
+      "release/mumbai/bmc_candidates_2017.csv",
+      "release/mumbai/bmc_seats_2007.csv",
+      "release/mumbai/praja_admin_ward_complaint_days_2013_2018.csv",
+      "release/mumbai/praja_ward_ratings_2011_2018.csv"
+    ]
+  },
+  "odisha": {
+    "pooled": [],
+    "supplemental": []
+  },
+  "puducherry": {
+    "pooled": [],
+    "supplemental": []
+  },
+  "tamil_nadu": {
+    "pooled": [],
+    "supplemental": [
+      "release/amendments_2001/context_operations.csv",
+      "release/amendments_2001/context_operations.parquet",
+      "release/amendments_2001/data_dictionary.csv",
+      "release/amendments_2001/gp_president_amendment_operations.csv",
+      "release/amendments_2001/gp_president_amendment_operations.parquet",
+      "release/amendments_2001/page_audit.csv",
+      "release/amendments_2001/page_audit.parquet",
+      "release/amendments_2001/replacement_section_counts.csv",
+      "release/amendments_2001/replacement_section_counts.parquet",
+      "release/heads_2011/category_crosswalk.csv",
+      "release/heads_2011/dictionary.csv",
+      "release/heads_2011/gp_president_reservations.csv",
+      "release/heads_2011/gp_president_reservations.parquet",
+      "release/heads_2011/page_audit.csv",
+      "release/heads_2011/union_counts.csv"
+    ]
+  },
+  "west_bengal": {
+    "pooled": [
+      "release/zp_member_2018.csv"
+    ],
+    "supplemental": [
+      "release/alipurduar_2018/archive_cells.csv",
+      "release/alipurduar_2018/archive_cells.parquet",
+      "release/alipurduar_2018/consolidated_party_counts.csv",
+      "release/alipurduar_2018/consolidated_party_counts.parquet",
+      "release/alipurduar_2018/gp_candidates.csv",
+      "release/alipurduar_2018/gp_candidates.parquet",
+      "release/alipurduar_2018/gp_seats.csv",
+      "release/alipurduar_2018/gp_seats.parquet",
+      "release/alipurduar_2018/ps_candidates.csv",
+      "release/alipurduar_2018/ps_candidates.parquet",
+      "release/alipurduar_2018/ps_seats.csv",
+      "release/alipurduar_2018/ps_seats.parquet",
+      "release/alipurduar_2018/zp_candidates.csv",
+      "release/alipurduar_2018/zp_candidates.parquet",
+      "release/alipurduar_2018/zp_seats.csv",
+      "release/alipurduar_2018/zp_seats.parquet",
+      "release/alipurduar_offices/office_reservations.csv",
+      "release/alipurduar_offices/office_reservations.parquet",
+      "release/ancillary/candidate_reports.csv",
+      "release/ancillary/candidate_reports.parquet",
+      "release/ancillary/polling_infrastructure.csv",
+      "release/ancillary/polling_infrastructure.parquet",
+      "release/ancillary/reference_lines.csv",
+      "release/ancillary/reference_lines.parquet",
+      "release/ancillary/single_valid_nominations.csv",
+      "release/ancillary/single_valid_nominations.parquet",
+      "release/bardhaman_2003/block_controls.csv",
+      "release/bardhaman_2003/block_controls.parquet",
+      "release/bardhaman_2003/gp_party_counts.csv",
+      "release/bardhaman_2003/gp_party_counts.parquet",
+      "release/base_drafts/page_review.csv",
+      "release/base_drafts/page_review.parquet",
+      "release/base_drafts/records.csv",
+      "release/base_drafts/records.parquet",
+      "release/base_drafts/sources.csv",
+      "release/base_drafts/sources.parquet",
+      "release/birbhum_reservations/cross_source_audit.csv",
+      "release/birbhum_reservations/cross_source_audit.parquet",
+      "release/birbhum_reservations/dictionary.csv",
+      "release/birbhum_reservations/observations.csv",
+      "release/birbhum_reservations/observations.parquet",
+      "release/birbhum_reservations/review_queue.csv",
+      "release/hooghly_2003/gp_party_counts.csv",
+      "release/hooghly_2003/gp_party_counts.parquet",
+      "release/nadia_2008/gp_seats.csv",
+      "release/nadia_2008/gp_seats.parquet",
+      "release/nadia_2013_handbook/gp_block_membership.csv",
+      "release/nadia_2013_handbook/gp_block_membership.parquet",
+      "release/nadia_2013_handbook/independent_order_comparison.csv",
+      "release/nadia_2013_handbook/office_reservations.csv",
+      "release/nadia_2013_handbook/office_reservations.parquet",
+      "release/nadia_2013_handbook/source_table_rows.csv",
+      "release/nadia_2013_handbook/source_table_rows.parquet",
+      "release/nadia_2013_handbook/ward_aggregates.csv",
+      "release/nadia_2013_handbook/ward_aggregates.parquet",
+      "release/office_native/block_header_review.csv",
+      "release/office_native/cell_review.csv",
+      "release/office_native/cell_review.parquet",
+      "release/office_native/control_reconciliation.csv",
+      "release/office_native/control_reconciliation.parquet",
+      "release/office_native/mentions.csv",
+      "release/office_native/mentions.parquet",
+      "release/office_native/page_audit.csv",
+      "release/office_native/page_audit.parquet",
+      "release/office_native/source_transcriptions.csv",
+      "release/office_scans/control_reconciliation.csv",
+      "release/office_scans/mentions.csv",
+      "release/office_scans/mentions.parquet",
+      "release/office_scans/page_review.csv",
+      "release/office_scans/row_review.csv",
+      "release/office_scans/source_counts.csv",
+      "release/pradhan_gp/pradhan_gp.csv",
+      "release/pradhan_gp/pradhan_gp.parquet",
+      "release/pradhan_gp/scan_cells.csv",
+      "release/quality/document_coverage.csv",
+      "release/quality/page_review_queue.csv",
+      "release/quality/row_review_queue.csv",
+      "release/reference_tables/aggregates.csv",
+      "release/reference_tables/aggregates.parquet",
+      "release/reference_tables/native_table_rows.csv",
+      "release/reference_tables/native_table_rows.parquet",
+      "release/ward_schedules/constituency_crosswalk.csv",
+      "release/ward_schedules/constituency_crosswalk.parquet",
+      "release/ward_schedules/gp_seats.csv",
+      "release/ward_schedules/gp_seats.parquet",
+      "release/ward_schedules/other_tier_seats.csv",
+      "release/ward_schedules/other_tier_seats.parquet",
+      "release/ward_schedules/semantic_backlog.csv",
+      "release/ward_schedules/semantic_backlog_baseline.csv",
+      "release/ward_schedules/semantic_review/fresh_validation/gold_rows.csv"
+    ]
+  }
+}

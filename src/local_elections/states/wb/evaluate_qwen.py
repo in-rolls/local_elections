@@ -17,10 +17,10 @@ from pathlib import Path
 from PIL import Image
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 from local_elections.tools.wb_qwen_review import PROMPT, fingerprint
 
-BASE = ROOT / "data/wb/derived/qwen_review/expanded"
+BASE = ROOT / "data/west_bengal/interim/qwen_review/expanded"
 
 
 def indexed(rows, label):
@@ -53,7 +53,7 @@ def validated_manifest(sample, inference, rendered, root=ROOT):
         ):
             raise ValueError(f"Inference geometry differs from frozen sample: {sid}")
         image_hash = hashlib.sha256(
-            (root / raster["image_path"]).read_bytes()
+            (resolve_path(raster["image_path"], root)).read_bytes()
         ).hexdigest()
         if image_hash != raster.get("image_sha256"):
             raise ValueError(f"Frozen rendered crop changed: {sid}")
@@ -134,7 +134,7 @@ def reading_fields(raw, axis):
 
 
 def processed_image(entry, root=ROOT):
-    image = (root / entry["image_path"]).read_bytes()
+    image = (resolve_path(entry["image_path"], root)).read_bytes()
     if entry.get("image_sha256") and (
         hashlib.sha256(image).hexdigest() != entry["image_sha256"]
     ):

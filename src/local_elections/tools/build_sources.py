@@ -1,16 +1,17 @@
-"""Keep SOURCES.md's holdings table true to what is on disk.
+"""Keep docs/sources.md's holdings table true to what is on disk.
 
     uv run python -m local_elections.tools.build_sources
     uv run python -m local_elections.tools.build_sources --check
 
-SOURCES.md is a feasibility survey and most of it is judgement - whether a
+docs/sources.md is a feasibility survey and most of it is judgement - whether a
 state is worth building, what its documents turned out to be, what OCR would
 cost. That stays hand-written. What does not stay hand-written is the count of
 files and pages, because that is a fact about the directory and it drifted:
 Karnataka's row read "1 scan, 7 pages" on the day the repository held 439
 documents and 1,545 pages of them.
 
-So the numbers come from data/inventory.csv and the sentence describing each
+So the numbers come from data/source_search/inventory.csv and the sentence describing
+each
 state stays here, in HELD, for the same reason build_state_readmes keeps
 STATE_NOTES - it is knowledge about documents rather than a fact derivable from
 them.
@@ -25,8 +26,8 @@ from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 from local_elections.states.assam import controls_2025 as assam_controls
 
-SOURCES = ROOT / "SOURCES.md"
-INVENTORY = ROOT / "data" / "inventory.csv"
+SOURCES = ROOT / "docs/sources.md"
+INVENTORY = ROOT / "data/source_search/inventory.csv"
 START = "<!-- holdings:start -->"
 END = "<!-- holdings:end -->"
 
@@ -36,23 +37,24 @@ GROUPS = {
     "Bihar": ["bihar"],
     "Rajasthan": ["rajasthan"],
     "**Jharkhand**": ["jharkhand"],
-    "**Jammu & Kashmir**": ["jk"],
-    "**Andhra Pradesh**": ["ap"],
+    "**Jammu & Kashmir**": ["jammu_and_kashmir"],
+    "**Andhra Pradesh**": ["andhra_pradesh"],
     "**Goa**": ["goa"],
-    "West Bengal": ["wb"],
+    "West Bengal": ["west_bengal"],
     "Gujarat": ["gujarat"],
     "Madhya Pradesh": ["madhya_pradesh"],
     "Odisha": ["odisha"],
-    "Tamil Nadu": ["tamil_nadu", "tn"],
+    "Tamil Nadu": ["tamil_nadu"],
     "Chandigarh, Puducherry, Delhi": ["chandigarh", "puducherry", "delhi"],
     "**Karnataka**": ["karnataka"],
     "Assam": ["assam"],
-    "Himachal Pradesh": ["himachal"],
+    "Himachal Pradesh": ["himachal_pradesh"],
 }
 
 # The half a directory listing cannot tell you.
 HELD = {
-    "Bihar": "PRI winners 2006-2016; also `local_elections_bihar`",
+    "Bihar": "sources and parsed data in "
+    "[`local_elections_bihar`](https://github.com/in-rolls/local_elections_bihar)",
     "Rajasthan": "sources and parsed data in "
     "[`local_elections_rajasthan`](https://github.com/in-rolls/local_elections_rajasthan)",
     "**Jharkhand**": "**2015 mukhiya (GP head) reservation by district; 2022 "
@@ -65,23 +67,24 @@ HELD = {
     "West Bengal": "2018 ZP gazettes parsed with drafts separate; named Birbhum "
     "1998/2003 research reservations and 2013/2018/2023 office schedules parsed; "
     "ward, results and reference outputs retain review flags; "
-    "[reservation gaps](data/wb/vintage_search/README.md); "
-    "[GP source search](data/wb/gp_source_search.md), "
-    "[derived GP data and review](data/wb/derived/README.md)",
+    "[reservation gaps](../data/west_bengal/discovery/vintage_search/README.md); "
+    "[GP source search](../data/west_bengal/gp_source_search.md), "
+    "[derived GP data and review](../data/west_bengal/release/README.md)",
     "Gujarat": "**2020 SEC rotation orders: 16 district-panchayat and 29 "
     "taluka-panchayat PDFs; parsed into 1,178 seats**",
     "Madhya Pradesh": "two large OmniPage-OCR'd volumes",
     "Odisha": "2017 reservation of sarpanch/ward member - **district totals, "
     "not seat-level**",
     "Tamil Nadu": "municipal/corporation gazettes plus GP-president reservations; "
-    "[2011 roster and 2001 amendment exports](data/tn/readme.md) remain separate "
+    "[2011 roster and 2001 amendment exports](../data/tamil_nadu/"
+    "readme.md) remain separate "
     "from pooled rows; originals and earlier leads are in the "
-    "[cross-state source ledger](data/source_search/early_heads/README.md)",
+    "[cross-state source ledger](../data/source_search/early_heads/README.md)",
     "Chandigarh, Puducherry, Delhi": "mostly urban local bodies",
     "**Karnataka**": "**2016 taluk & zilla panchayat winners with party**; "
     "plus `Karnataka_GP_ReservationHistory.dta`. 244 of the "
     "documents are deliberately unread - see "
-    "data/karnataka/readme.md",
+    "../data/karnataka/readme.md",
     "Assam": (
         "2020 municipal reservation parsed; all "
         f"{assam_controls.HELD_DISTRICT_NOTIFICATIONS} district PRI notifications "

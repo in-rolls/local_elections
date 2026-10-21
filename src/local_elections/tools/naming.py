@@ -1,4 +1,4 @@
-"""Check column names against NAMING.md.
+"""Check column names against docs/naming.md.
 
     python -m local_elections.tools.naming [--strict] [paths ...]
 
@@ -20,13 +20,13 @@ from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
 FORBIDDEN = {"gender", "sex", "female", "women", "category", "quota"}
-# Retired names whose words are allowed but whose order is not (NAMING.md 5).
+# Retired names whose words are allowed but whose order is not (docs/naming.md 5).
 RETIRED = {
     "woman_reserved": "reserved_woman",
     "caste_scheme": "reserved_caste_scheme",
     "gender_stated": "reserved_woman_stated",
 }
-# Inferred or transliterated values must say how, per row (NAMING.md section 3).
+# Inferred or transliterated values must say how, per row (docs/naming.md section 3).
 NEEDS_METHOD = ("_latin", "_probability")
 
 

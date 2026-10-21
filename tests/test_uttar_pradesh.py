@@ -4,14 +4,15 @@ import collections
 
 import pytest
 
-from local_elections.common import canon
+from local_elections.common import canon, sources
 from local_elections.common.adapters import uttar_pradesh
 from local_elections.paths import ROOT
 
 
 @pytest.fixture(scope="module")
 def sibling():
-    path = ROOT.parent / uttar_pradesh.REPO
+    pinned = sources.resolve(uttar_pradesh.REPO)
+    path = pinned[0] if pinned else ROOT.parent / uttar_pradesh.REPO
     if not path.exists():
         pytest.skip("Uttar Pradesh sibling repository is not checked out")
     return path

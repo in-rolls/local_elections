@@ -17,7 +17,7 @@ from local_elections.paths import ROOT
 
 LANDING_URL = "https://sec.assam.gov.in/panchayat-election-2025"
 SOURCE_ID = "assam_sec_pri_reservation_2025"
-OUT = ROOT / "data" / "assam" / "2025_reservation"
+OUT = ROOT / "data/assam/raw/2025_reservation"
 MANIFEST = OUT / "manifest.csv"
 EXPECTED_DOCUMENTS = 27
 

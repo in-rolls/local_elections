@@ -15,7 +15,8 @@ garbles the row - so the mode matters more than the engine.
 
 This also unlocks Anantapur, whose PDF has no text layer at all.
 
-Output is cached as data/ap/ocr/<stem>.txt with a form feed between pages, so it
+Output is cached as data/andhra_pradesh/interim/ocr/<stem>.txt with a form feed
+between pages, so it
 drops straight into the same page-splitting the parser already does, and a
 re-parse costs nothing.
 """
@@ -36,8 +37,8 @@ from local_elections.paths import ROOT
 
 LOGGER = get_logger(__name__)
 
-SOURCE = ROOT / "data" / "ap" / "2020_res_gp"
-CACHE = ROOT / "data" / "ap" / "ocr"
+SOURCE = ROOT / "data/andhra_pradesh/raw/2020_res_gp"
+CACHE = ROOT / "data/andhra_pradesh/interim/ocr"
 
 DPI = 300
 PSM = "4"

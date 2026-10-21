@@ -14,7 +14,7 @@ DATA = ROOT / "data" / "karnataka"
 def expectations():
     specs = [
         validation.DatasetExpectation(
-            path=DATA / f"gp_head_{year}.csv",
+            path=DATA / "release" / f"gp_head_{year}.csv",
             state="Karnataka",
             year=year,
             tier="gp_head",
@@ -26,7 +26,7 @@ def expectations():
     specs.extend(
         [
             validation.DatasetExpectation(
-                path=DATA / "block_member_2016.csv",
+                path=DATA / "release/block_member_2016.csv",
                 state="Karnataka",
                 year="2016",
                 tier="block_member",
@@ -34,7 +34,7 @@ def expectations():
                 minimum_rows=3478,
             ),
             validation.DatasetExpectation(
-                path=DATA / "zp_member_2016.csv",
+                path=DATA / "release/zp_member_2016.csv",
                 state="Karnataka",
                 year="2016",
                 tier="zp_member",

@@ -97,7 +97,7 @@ def main():
     parsed = validation.apply(
         report,
         validation.DatasetExpectation(
-            path=DATA / "zp_member_reservation_2020.csv",
+            path=DATA / "release/zp_member_reservation_2020.csv",
             state="Gujarat",
             year="2020",
             tier="zp_member",
@@ -117,7 +117,7 @@ def main():
     block_parsed = validation.apply(
         report,
         validation.DatasetExpectation(
-            path=DATA / "block_member_reservation_2020.csv",
+            path=DATA / "release/block_member_reservation_2020.csv",
             state="Gujarat",
             year="2020",
             tier="block_member",

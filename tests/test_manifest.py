@@ -10,12 +10,11 @@ import json
 import subprocess
 import sys
 
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 
 BUILD = ROOT / "src" / "local_elections" / "tools" / "build_manifest.py"
 VERIFY = ROOT / "src" / "local_elections" / "tools" / "verify_manifest.py"
 MANIFEST = ROOT / "MANIFEST.json"
-MANIFEST_MD = ROOT / "MANIFEST.md"
 
 
 def run(script, *args):
@@ -39,7 +38,7 @@ def test_two_builds_from_one_tree_are_byte_identical():
     """
     # both files are restored: a test run that leaves the tree dirty makes
     # release-check refuse, and the cause is not obvious from what it prints
-    saved = {p: p.read_bytes() for p in (MANIFEST, MANIFEST_MD) if p.exists()}
+    saved = {p: p.read_bytes() for p in (MANIFEST,) if p.exists()}
     try:
         run(BUILD)
         first = MANIFEST.read_bytes()
@@ -103,7 +102,7 @@ def test_every_recorded_digest_matches_the_file():
         return
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
     for entry in manifest["files"][:6]:
-        path = ROOT / entry["path"]
+        path = resolve_path(entry["path"], ROOT)
         if not path.exists():
             continue
         sha = hashlib.sha256()
@@ -138,7 +137,11 @@ def test_a_changed_byte_is_caught():
         return
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
     target = next(
-        (ROOT / e["path"] for e in manifest["files"] if (ROOT / e["path"]).exists()),
+        (
+            resolve_path(e["path"], ROOT)
+            for e in manifest["files"]
+            if (resolve_path(e["path"], ROOT)).exists()
+        ),
         None,
     )
     if target is None:

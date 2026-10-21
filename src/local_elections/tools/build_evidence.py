@@ -15,12 +15,14 @@ import tarfile
 from pathlib import Path
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 from local_elections.tools.build_manifest import RELEASE_INPUTS, digest, repo_state
 
 SCOPES = (
-    "data/wb",
-    "data/tn",
+    "data/west_bengal",
+    "data/tamil_nadu/raw",
+    "data/tamil_nadu/interim",
+    "data/tamil_nadu/release",
     "data/source_search/early_heads",
     "data/source_search/national",
 )
@@ -29,7 +31,7 @@ DEFAULT_MANIFEST = ROOT / "SOURCE_MANIFEST.json"
 
 
 def artifact_role(path):
-    if "/derived/" in path:
+    if "/interim/" in path:
         return "extraction_or_review_artifact"
     if Path(path).suffix.lower() in (
         ".pdf",
@@ -197,7 +199,9 @@ def main():
             parser.error("Scopes must be repository-relative directories")
     if args.archive_dir:
         for scope in scopes:
-            if args.archive_dir.resolve().is_relative_to((ROOT / scope).resolve()):
+            if args.archive_dir.resolve().is_relative_to(
+                (resolve_path(scope, ROOT)).resolve()
+            ):
                 parser.error("Archive output must be outside the evidence scopes")
     manifest = build(ROOT, scopes, args.max_mib * 1024**2, args.archive_dir)
     state = repo_state(ROOT, [*RELEASE_INPUTS, ":(exclude)SOURCE_MANIFEST.json"])

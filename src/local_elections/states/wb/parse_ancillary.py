@@ -14,12 +14,12 @@ import re
 from concurrent.futures import ThreadPoolExecutor
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 from local_elections.states.wb.parse_nadia import tidy
 from local_elections.states.wb.parse_results import write_table
 from local_elections.states.wb.parse_ward_schedules import ocr_page
 
-OUT = ROOT / "data/wb/derived/ancillary"
+OUT = ROOT / "data/west_bengal/release/ancillary"
 FIELDS = [
     "main_polling_stations",
     "polling_stations_over_1250_excluding_1400",
@@ -295,19 +295,26 @@ def main():
     OUT.mkdir(parents=True, exist_ok=True)
     index = {
         r["source_path"]: r
-        for r in json.loads((ROOT / "data/wb/derived/native/index.json").read_text())
+        for r in json.loads(
+            (ROOT / "data/west_bengal/interim/native/index.json").read_text()
+        )
     }
     documents, pages, rows, tasks = [], [], [], []
     for metadata in csv.DictReader(
-        (ROOT / "data/wb/gp_source_search/manual_entry_index.csv").open()
+        (
+            ROOT / "data/west_bengal/discovery/gp_source_search/manual_entry_index.csv"
+        ).open()
     ):
         if not selected(metadata):
             continue
-        path = "data/wb/" + metadata["file"]
+        path = "data/west_bengal/" + metadata["file"]
         source = index[path]
-        if hashlib.sha256((ROOT / path).read_bytes()).hexdigest() != metadata["sha256"]:
+        if (
+            hashlib.sha256((resolve_path(path, ROOT)).read_bytes()).hexdigest()
+            != metadata["sha256"]
+        ):
             raise ValueError(f"Source hash differs: {path}")
-        record = json.loads((ROOT / source["cache"]).read_text())
+        record = json.loads((resolve_path(source["cache"], ROOT)).read_text())
         parsed = parse_polling_infrastructure(record, path)
         rows.extend(parsed)
         documents.append(
@@ -342,7 +349,12 @@ def main():
             list(pool.map(ocr_page, tasks))
     lines, candidate_rows, single_rows = [], [], []
     for page in pages:
-        cache = OUT / "ocr" / page["source_sha256"] / f"{page['source_page']:04d}.json"
+        cache = (
+            ROOT
+            / "data/west_bengal/interim/ancillary/ocr"
+            / page["source_sha256"]
+            / f"{page['source_page']:04d}.json"
+        )
         if not cache.exists():
             continue
         ocr = json.loads(cache.read_text())

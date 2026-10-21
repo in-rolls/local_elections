@@ -26,13 +26,13 @@ Every file is written twice: `.csv` for a spreadsheet, `.jsonl` for a reader tha
 
 | File | Rows | Columns | Source documents |
 |---|---|---|---|
-| [`block_member_2016.csv`](block_member_2016.csv) | 3,478 | 26 | 166 |
-| [`gp_head_1993.csv`](gp_head_1993.csv) | 5,264 | 21 | 1 |
-| [`gp_head_2000.csv`](gp_head_2000.csv) | 5,320 | 21 | 1 |
-| [`gp_head_2002.csv`](gp_head_2002.csv) | 5,320 | 21 | 1 |
-| [`gp_head_2005.csv`](gp_head_2005.csv) | 5,322 | 21 | 1 |
-| [`gp_head_2007.csv`](gp_head_2007.csv) | 5,322 | 21 | 1 |
-| [`zp_member_2016.csv`](zp_member_2016.csv) | 888 | 26 | 26 |
+| [`release/block_member_2016.csv`](release/block_member_2016.csv) | 3,478 | 26 | 166 |
+| [`release/gp_head_1993.csv`](release/gp_head_1993.csv) | 5,264 | 21 | 1 |
+| [`release/gp_head_2000.csv`](release/gp_head_2000.csv) | 5,320 | 21 | 1 |
+| [`release/gp_head_2002.csv`](release/gp_head_2002.csv) | 5,320 | 21 | 1 |
+| [`release/gp_head_2005.csv`](release/gp_head_2005.csv) | 5,322 | 21 | 1 |
+| [`release/gp_head_2007.csv`](release/gp_head_2007.csv) | 5,322 | 21 | 1 |
+| [`release/zp_member_2016.csv`](release/zp_member_2016.csv) | 888 | 26 | 26 |
 
 ## Stats
 
@@ -85,16 +85,16 @@ Every row carries `source_path` and `source_page` — the document it was read f
 
 All 193 cited documents are present.
 
-Inventory for this directory: 236 digital-text, 202 scan, 198 other, 11 tabular, 2 mixed, 1,552 pages total.
+Inventory for this directory: 236 digital-text, 202 scan, 4 tabular, 2 mixed, 1,552 pages total.
 
 ## Acquired sources outside the parsed slices
 
 These held PDFs are not cited by any parsed row. A source series remains distinct from the state-level status, so parsed work in one year or government level cannot hide unparsed holdings in another.
 
-- `.`: 1 PDF
-- `gp_2015`: 33 PDFs
-- `tzp_2016_elected`: 3 PDFs
-- `tzp_2016_reservation`: 211 PDFs
+- `raw`: 1 PDF
+- `raw/gp_2015`: 33 PDFs
+- `raw/tzp_2016_elected`: 3 PDFs
+- `raw/tzp_2016_reservation`: 211 PDFs
 
 ## Reproducing
 
@@ -136,4 +136,4 @@ Every state runs a shared battery first — the seat key is unique, the reservat
 
 Each check declares what it **appeals to**. Only an external appeal - a published total, a statutory share, a population - reliably catches silent corruption; an internal check confirms the file agrees with itself, which it does whether or not a category was misread.
 
-Column meanings are in [../../DICTIONARY.md](../../DICTIONARY.md). Expectation violations across every state are triaged into [../expectations_report.csv](../expectations_report.csv).
+Column meanings are in [../../docs/dictionary.md](../../docs/dictionary.md). Expectation violations across every state are triaged into [../stats/expectations_report.csv](../stats/expectations_report.csv).

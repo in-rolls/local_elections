@@ -36,7 +36,7 @@ COVERAGE_FLOOR = 0.80
 
 
 def load(year):
-    path = DATA / f"ward_reservation_{year}.csv"
+    path = DATA / "release" / f"ward_reservation_{year}.csv"
     if not path.exists():
         return None
     with path.open(encoding="utf-8") as fh:
@@ -45,7 +45,7 @@ def load(year):
 
 def _formats():
     """Format of each Goa source document, from the repo-wide inventory."""
-    path = DATA.parent / "inventory.csv"
+    path = DATA.parent / "source_search/inventory.csv"
     if not path.exists():
         return {}
     with path.open(encoding="utf-8") as fh:

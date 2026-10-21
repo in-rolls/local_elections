@@ -108,7 +108,7 @@ LOCAL_INPUTS = [
     "data",
     ":(exclude)data/master",
     ":(exclude)data/stats",
-    ":(exclude)data/expectations_report.csv",
+    ":(exclude)data/stats/expectations_report.csv",
     ":(glob,exclude)data/*/readme.md",
 ]
 
@@ -421,7 +421,7 @@ def published_extras(extras):
     return out
 
 
-# 1 / 0 / null integers, as NAMING.md types every *_woman column.
+# 1 / 0 / null integers, as docs/naming.md types every *_woman column.
 INT8 = {"reserved_woman", "reserved_woman_stated", "candidate_woman", "winner_woman"}
 
 

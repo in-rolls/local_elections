@@ -12,5 +12,5 @@
 # rows go missing - Ambala prints "Unresreved" 79 times and every row carrying
 # it was deleted.
 [codespell]
-skip = ./data,./uv.lock,./.git,./.venv,./MANIFEST.json,./MANIFEST.md,./DICTIONARY.md,./WORKLIST.md,./SOURCES.md,./CHANGELOG.md
+skip = ./data,./uv.lock,./.git,./.venv,./MANIFEST.json,./MANIFEST.md,./docs/dictionary.md,./docs/worklist.md,./docs/sources.md,./CHANGELOG.md
 ignore-words-list = reserv,resevation,gool,gir,nd,ot,te,fpr,tkfr,ist,ans,fo,womens

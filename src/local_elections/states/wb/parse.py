@@ -38,8 +38,8 @@ from local_elections.common.normalize import label
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-CACHE = ROOT / "data" / "wb" / "ocr"
-OUT = ROOT / "data" / "wb"
+CACHE = ROOT / "data/west_bengal/interim/ocr"
+OUT = ROOT / "data/west_bengal"
 YEAR = "2018"
 
 # "Haldibari / ZP-4", "Mathabhanga-II/ZP-5", "Cooch Behar-II / ZP-11"
@@ -459,7 +459,7 @@ def main():
             skipped += len(unreadable)
 
     OUT.mkdir(parents=True, exist_ok=True)
-    path = OUT / f"zp_member_{YEAR}.csv"
+    path = OUT / "release" / f"zp_member_{YEAR}.csv"
     with path.open("w", newline="", encoding="utf-8") as fh:
         writer = csv.DictWriter(
             fh, fieldnames=COLUMNS, extrasaction="ignore", lineterminator="\n"

@@ -1,20 +1,8 @@
-"""Find the parsed datasets. One implementation, deliberately.
-
-Four modules independently globbed `data/*/*.csv` and decided what counted as a
-parsed dataset by testing for the schema columns: build_coverage.parsed_datasets,
-build_coverage.datasets, expectations.datasets and
-build_state_readmes.dataset_files. Four copies of a rule is four chances for one
-of them to disagree, and the pooled master is about to write files that match
-that rule exactly - `data/master/master_haryana.parquet` carries every schema column
-by construction, so each of those globs would have reported it as a state called
-"Master" and counted every row twice.
-
-Directories that hold derived output rather than a state's parse are excluded
-here, in one place.
-"""
+"""Read registered pooled inputs without admitting supplemental or research tables."""
 
 import collections
 import csv
+import json
 
 from local_elections.paths import ROOT
 
@@ -25,31 +13,29 @@ from local_elections.common import (  # noqa: E402 - after DATA, which it needs
     master,
 )
 
-# A parsed dataset is one carrying these columns. Filenames are not evidence -
-# Jharkhand's filenames name the wrong tier.
-REQUIRED = {"state", "year", "tier", "reservation", "caste_reservation"}
-
-# Derived output, not a state. master and stats match REQUIRED by
-# construction; transliteration is the output of its own stage - a lookup from
-# a name to its Latin reading, keyed on the name rather than on any row, so it
-# has no state, year or tier and never will.
-# source_search holds cross-state acquisition evidence, not a state dataset.
-# integration holds sibling-input receipts, not another state parse.
 DERIVED = {"master", "stats", "transliteration", "source_search", "integration"}
 
 
+def registry():
+    """Return the explicit local dataset catalog."""
+    return json.loads((ROOT / "data/datasets.json").read_text(encoding="utf-8"))
+
+
 def state_directories(exclude=DERIVED):
-    return sorted(p for p in DATA.iterdir() if p.is_dir() and p.name not in exclude)
+    return sorted(DATA / state for state in registry() if (DATA / state).is_dir())
 
 
 def paths(exclude=DERIVED):
-    """Every CSV under data/<state>/ that carries the schema."""
-    for directory in state_directories(exclude):
-        for path in sorted(directory.glob("*.csv")):
-            with path.open(encoding="utf-8", errors="replace") as fh:
-                header = next(csv.reader(fh), [])
-            if set(header) >= REQUIRED:
-                yield path
+    """Yield only registered pooled inputs; supplemental tables stay separate."""
+    for state, specification in registry().items():
+        directory = DATA / state
+        if not directory.is_dir():
+            continue
+        for relative in specification["pooled"]:
+            path = directory / relative
+            if not path.is_file():
+                raise FileNotFoundError(f"Registered pooled input is missing: {path}")
+            yield path
 
 
 def read(path):
@@ -58,11 +44,7 @@ def read(path):
 
 
 def parsed(exclude=DERIVED):
-    """Yield (path, rows) for every parsed dataset that has rows.
-
-    This repository's own parses only. Kept as it is because the per-state
-    readmes and the coverage table are about what lives in data/<state>/.
-    """
+    """Yield (path, rows) for nonempty registered local pooled inputs."""
     for path in paths(exclude):
         rows = read(path)
         if rows:

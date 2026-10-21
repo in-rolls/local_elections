@@ -11,6 +11,19 @@ here is usually the thing that was wrong.
 
 ### Changed
 
+- State data now use full state names and separate raw, interim, release and
+  discovery directories. Tamil Nadu's rural and urban holdings share one state
+  directory. Filesystem consumers must use the new paths; analytical records
+  retain their historical source paths and IDs through `data/relocations.csv`.
+- `data/datasets.json` explicitly registers pooled and supplemental inputs.
+  Coverage reads pinned state inputs rather than moving sibling checkouts.
+- Project guides and generated coverage now live under `docs/`. Redundant agent
+  reports and placeholder state pages were consolidated or removed; source
+  evidence and historical integration receipts remain available.
+- The human-readable manifest was removed; `MANIFEST.json` remains the
+  verification record. Coverage freshness checks now run offline by default;
+  `--check-remote` adds external-link probes.
+
 - Every sibling state repository is now pinned in `data/sources.json`: Bihar,
   Haryana, Kerala and Uttarakhand join UP and Rajasthan. The build reads each
   from a stated commit, with the SHA-256 of every file its adapter opens,

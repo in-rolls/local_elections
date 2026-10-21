@@ -15,6 +15,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util import Retry
 
 from local_elections.common.runlog import command
+from local_elections.paths import resolve_path
 
 from .html import winner_links
 
@@ -101,7 +102,7 @@ def harvest(root):
     frame.to_parquet(root / "frame.parquet", index=False)
 
     def run(row):
-        record = fetch(row["profile_url"], root / row["profile_path"])
+        record = fetch(row["profile_url"], resolve_path(row["profile_path"], root))
         return {
             "year": row["year"],
             "ward_number": row["ward_number"],

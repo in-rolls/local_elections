@@ -35,7 +35,7 @@ from local_elections.common import fetch
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-OUT = ROOT / "data" / "wb" / "vintage_search" / "office_sweep"
+OUT = ROOT / "data/west_bengal/discovery/vintage_search/office_sweep"
 QUERIES = OUT / "queries.csv"
 CANDIDATES = OUT / "candidates.csv"
 

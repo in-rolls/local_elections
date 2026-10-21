@@ -14,12 +14,12 @@ import sys
 
 from local_elections.common import ocr_engine
 from local_elections.common.runlog import command, get_logger
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path
 
 LOGGER = get_logger(__name__)
-SOURCE = ROOT / "data" / "assam" / "2025_reservation"
+SOURCE = ROOT / "data/assam/raw/2025_reservation"
 MANIFEST = SOURCE / "manifest.csv"
-CACHE = ROOT / "data" / "assam" / "2025_ocr"
+CACHE = ROOT / "data/assam/interim/2025_ocr"
 MODEL = os.environ.get("SURYA_MLX_PATH")
 OCR_DPI = 300
 
@@ -148,7 +148,7 @@ def main():
             extra={
                 "event": "source_extraction_written",
                 "district": record["district"],
-                "source_path": str(path.relative_to(ROOT)),
+                "source_path": historical_path(path, ROOT),
                 "pages": len(text.split("\f")),
                 "repair_pages": repair_pages,
                 "output_path": str(target.relative_to(ROOT)),

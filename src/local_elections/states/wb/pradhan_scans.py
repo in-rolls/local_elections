@@ -32,8 +32,8 @@ from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 from local_elections.states.wb.parse_office_scans import grid_masks, groups, rectify
 
-SOURCES = ROOT / "data" / "wb" / "gp_source_search" / "historical_expansion"
-OUT = ROOT / "data" / "wb" / "derived" / "pradhan_gp"
+SOURCES = ROOT / "data/west_bengal/discovery/gp_source_search/historical_expansion"
+OUT = ROOT / "data/west_bengal/release/pradhan_gp"
 CELLS = OUT / "scan_cells.csv"
 
 # Column positions are fractions of the rectified table width, measured on

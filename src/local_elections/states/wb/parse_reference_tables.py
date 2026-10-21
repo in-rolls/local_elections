@@ -18,12 +18,12 @@ from concurrent.futures import ProcessPoolExecutor
 import pdfplumber
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path, resolve_path
 from local_elections.states.wb.parse_nadia import tidy
 from local_elections.states.wb.parse_results import write_table
 from local_elections.states.wb.parse_ward_schedules import ocr_page
 
-OUT = ROOT / "data/wb/derived/reference_tables"
+OUT = ROOT / "data/west_bengal/release/reference_tables"
 SOURCES = {
     "paninfo_book08_20110722093353.pdf": ("Bardhaman", 2008),
     "birbhum_2003.pdf": ("Birbhum", 2003),
@@ -96,7 +96,7 @@ def additional_page_classification(source, page):
 
 
 def additional_sources():
-    index = ROOT / "data/wb/vintage_search/artifact_index.csv"
+    index = ROOT / "data/west_bengal/discovery/vintage_search/artifact_index.csv"
     sources = []
     for row in csv.DictReader(index.open()):
         filename = row["file"].split("/")[-1]
@@ -104,7 +104,8 @@ def additional_sources():
             continue
         sources.append(
             {
-                "source_path": "data/wb/vintage_search/" + row["file"],
+                "source_path": "data/west_bengal/discovery/vintage_search/"
+                + row["file"],
                 "sha256": row["sha256"],
                 "district": None,
                 "reference_year": 2016 if filename == "74ba30419d75cf82.pdf" else None,
@@ -114,10 +115,10 @@ def additional_sources():
                 "source_url": row["url"],
             }
         )
-    path = ROOT / "data/wb/PE_Manual_2022_Vol-I.pdf"
+    path = ROOT / "data/west_bengal/raw/PE_Manual_2022_Vol-I.pdf"
     sources.append(
         {
-            "source_path": str(path.relative_to(ROOT)),
+            "source_path": historical_path(path, ROOT),
             "sha256": hashlib.sha256(path.read_bytes()).hexdigest(),
             "district": None,
             "reference_year": 2022,
@@ -133,7 +134,9 @@ def additional_sources():
 def extract_additional(source):
     """Keep archival text and tables without turning research results into data."""
     if (
-        hashlib.sha256((ROOT / source["source_path"]).read_bytes()).hexdigest()
+        hashlib.sha256(
+            (resolve_path(source["source_path"], ROOT)).read_bytes()
+        ).hexdigest()
         != source["sha256"]
     ):
         raise ValueError("Reference source hash differs from the source inventory")
@@ -144,7 +147,7 @@ def extract_additional(source):
     pages = []
     page_directory = OUT / "native_pages" / source["sha256"]
     page_directory.mkdir(parents=True, exist_ok=True)
-    with pdfplumber.open(ROOT / source["source_path"]) as pdf:
+    with pdfplumber.open(resolve_path(source["source_path"], ROOT)) as pdf:
         for number, page in enumerate(pdf.pages, 1):
             page_cache = page_directory / f"{number:04d}.json"
             if page_cache.exists():
@@ -178,7 +181,7 @@ def extract_additional(source):
                     flush=True,
                 )
     info = subprocess.check_output(
-        ["pdfinfo", str(ROOT / source["source_path"])], text=True
+        ["pdfinfo", str(resolve_path(source["source_path"], ROOT))], text=True
     )
     expected = int(re.search(r"Pages:\s*(\d+)", info)[1])
     if expected != len(pages):
@@ -594,7 +597,7 @@ def parse_birbhum(source, record):
 
 
 def deduplicate_purba(source):
-    with pdfplumber.open(ROOT / source["source_path"]) as pdf:
+    with pdfplumber.open(resolve_path(source["source_path"], ROOT)) as pdf:
         page = pdf.pages[0]
         cleaned = page.dedupe_chars(tolerance=1, extra_attrs=())
         tables = [{"bbox": t.bbox, "rows": t.extract()} for t in cleaned.find_tables()]
@@ -652,7 +655,9 @@ def main():
     parser.add_argument("--workers", type=int, default=1)
     args = parser.parse_args()
     OUT.mkdir(parents=True, exist_ok=True)
-    index = json.loads((ROOT / "data/wb/derived/native/index.json").read_text())
+    index = json.loads(
+        (ROOT / "data/west_bengal/interim/native/index.json").read_text()
+    )
     rows, raw_rows, pages, documents, tasks = [], [], [], [], []
     sources = []
     for filename, (district, year) in SOURCES.items():
@@ -667,12 +672,14 @@ def main():
     for source in sources:
         district, year = source["district"], source["reference_year"]
         if (
-            hashlib.sha256((ROOT / source["source_path"]).read_bytes()).hexdigest()
+            hashlib.sha256(
+                (resolve_path(source["source_path"], ROOT)).read_bytes()
+            ).hexdigest()
             != source["sha256"]
         ):
             raise ValueError("Source hash differs: " + source["source_path"])
         record = (
-            json.loads((ROOT / source["cache"]).read_text())
+            json.loads((resolve_path(source["cache"], ROOT)).read_text())
             if district is not None
             else extract_additional(source)
         )
@@ -789,7 +796,12 @@ def main():
         with ProcessPoolExecutor(max_workers=args.workers) as pool:
             list(pool.map(ocr_page, tasks))
     for page in pages:
-        cache = OUT / "ocr" / page["source_sha256"] / f"{page['source_page']:04d}.json"
+        cache = (
+            ROOT
+            / "data/west_bengal/interim/reference_tables/ocr"
+            / page["source_sha256"]
+            / f"{page['source_page']:04d}.json"
+        )
         if cache.exists():
             ocr = json.loads(cache.read_text())
             page["ocr_cache"] = str(cache.relative_to(ROOT))

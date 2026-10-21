@@ -7,7 +7,7 @@ from pathlib import Path
 import pdfplumber
 import pytest
 
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, resolve_path
 from local_elections.states.wb import parse_office_native as parser
 
 
@@ -247,10 +247,10 @@ def test_arsha_source_cells_include_last_row_and_keep_both_axes(tmp_path):
     source = next(
         r for r in parser.select_sources() if r["file"].endswith("1B_Pradhan_Arsha.pdf")
     )
-    path = ROOT / "data/wb" / source["file"]
+    path = resolve_path("data/wb/" + source["file"], ROOT)
     sha = hashlib.sha256(path.read_bytes()).hexdigest()
     # Geometry crops normally live under ROOT; supply an isolated task directory.
-    scratch = ROOT / "data/wb/derived/office_native/test_geometry"
+    scratch = ROOT / "data/west_bengal/release/office_native/test_geometry"
     scratch.mkdir(parents=True, exist_ok=True)
     try:
         with pdfplumber.open(path) as pdf:

@@ -9,28 +9,40 @@ from local_elections.tools import build_coverage, build_sources, build_state_rea
 
 
 def test_cross_state_search_is_not_a_state(tmp_path, monkeypatch):
-    for name in ["source_search", "integration", "tn", "tamil_nadu", "master"]:
+    for name in [
+        "source_search",
+        "integration",
+        "stats",
+        "transliteration",
+        "tamil_nadu",
+        "master",
+    ]:
         (tmp_path / name).mkdir()
     monkeypatch.setattr(datasets, "DATA", tmp_path)
-    assert {path.name for path in datasets.state_directories()} == {"tn", "tamil_nadu"}
-    assert build_coverage.pretty("tn") == build_coverage.pretty("tamil_nadu")
-    assert build_coverage.pretty("tn") == "Tamil Nadu"
+    assert {path.name for path in datasets.state_directories()} == {"tamil_nadu"}
+    assert build_coverage.pretty("tamil_nadu") == "Tamil Nadu"
 
 
 def test_integration_receipts_are_excluded_without_hiding_unknown_states(
     tmp_path, monkeypatch
 ):
-    for name in ["integration", "ap", "unknown_state"]:
+    for name in ["integration", "andhra_pradesh", "unknown_state"]:
         (tmp_path / name).mkdir()
     contents = (
         "state,year,tier,reservation,caste_reservation\n"
         "Andhra Pradesh,2020,gp_head,General,NONE\n"
     )
-    source = tmp_path / "ap/seats.csv"
+    source = tmp_path / "andhra_pradesh/release/seats.csv"
+    source.parent.mkdir(parents=True, exist_ok=True)
     source.write_text(contents)
     (tmp_path / "integration/receipt.csv").write_text(contents)
     monkeypatch.setattr(datasets, "DATA", tmp_path)
     monkeypatch.setattr(build_coverage, "DATA", tmp_path)
+    monkeypatch.setattr(
+        datasets,
+        "registry",
+        lambda: {"andhra_pradesh": {"pooled": ["release/seats.csv"]}},
+    )
     assert list(datasets.paths()) == [source]
     assert build_coverage.unmapped_directories() == ["unknown_state"]
 
@@ -38,7 +50,7 @@ def test_integration_receipts_are_excluded_without_hiding_unknown_states(
 def test_nested_tn_exports_have_separate_coverage_without_pooled_rows(
     tmp_path, monkeypatch
 ):
-    source = tmp_path / "tn/derived/heads_2011/gp_president_reservations.csv"
+    source = tmp_path / "tamil_nadu/release/heads_2011/gp_president_reservations.csv"
     source.parent.mkdir(parents=True)
     source.write_text(
         "state,year,tier,reservation,caste_reservation\n"
@@ -50,11 +62,11 @@ def test_nested_tn_exports_have_separate_coverage_without_pooled_rows(
     assert list(datasets.parsed()) == []
     row = build_coverage.build_rows()[0]
     assert row[2:5] == ("2011", "-", "source-specific exports")
-    assert "data/tn/" in row[6]
+    assert "data/tamil_nadu/" in row[6]
 
 
 def test_state_readme_dispatch_preserves_nested_tn_guide(tmp_path, monkeypatch):
-    guide = tmp_path / "tn/derived/heads_2011/README.md"
+    guide = tmp_path / "tamil_nadu/release/heads_2011/README.md"
     guide.parent.mkdir(parents=True)
     guide.write_text("source-specific guide\n")
     for name in ["source_search", "integration"]:
@@ -62,7 +74,9 @@ def test_state_readme_dispatch_preserves_nested_tn_guide(tmp_path, monkeypatch):
     monkeypatch.setattr(build_state_readmes, "DATA", tmp_path)
     monkeypatch.setattr(build_state_readmes, "slices_by_directory", dict)
     monkeypatch.setattr(build_state_readmes, "render_tn", lambda: "overview\n")
-    assert build_state_readmes.build() == {tmp_path / "tn/readme.md": "overview\n"}
+    assert build_state_readmes.build() == {
+        tmp_path / "tamil_nadu/readme.md": "overview\n"
+    }
     assert guide.read_text() == "source-specific guide\n"
 
 
@@ -79,7 +93,7 @@ def test_source_holdings_use_inventory_directory_names(tmp_path, monkeypatch):
     inventory = tmp_path / "inventory.csv"
     inventory.write_text(
         "state,format,pages\nmadhya_pradesh,digital-text,351\n"
-        "tamil_nadu,scan,74\ntn,digital-text,153\n",
+        "tamil_nadu,scan,74\ntamil_nadu,digital-text,153\n",
         encoding="utf-8",
     )
     monkeypatch.setattr(build_sources, "INVENTORY", inventory)

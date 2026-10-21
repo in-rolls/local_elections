@@ -25,10 +25,10 @@ from local_elections.paths import ROOT
 # a puzzle into an instruction.
 GENERATED = [
     "README.md",
-    "WORKLIST.md",
+    "docs/coverage.md",
+    "docs/worklist.md",
     "MANIFEST.json",
-    "MANIFEST.md",
-    "DICTIONARY.md",
+    "docs/dictionary.md",
 ]
 
 
@@ -164,7 +164,7 @@ def main():
     print(
         f"\nRun this yourself - a tag cannot be taken back:\n"
         f"  uv run build-manifest --release {version} && \\\n"
-        f"  git add MANIFEST.json MANIFEST.md && \\\n"
+        f"  git add MANIFEST.json && \\\n"
         f"  git commit -m 'Release {version}' && \\\n"
         f"  git tag -a {version} -m 'Release {version}' && \\\n"
         f"  git push origin main {version}"

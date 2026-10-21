@@ -14,17 +14,16 @@ import time
 import pdfplumber
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path
 from local_elections.states.wb.parse_results import write_table
 
-SOURCE = ROOT / (
-    "data/wb/gp_source_search/historical_expansion/"
-    "nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__"
-    "cf50563e.pdf"
+SOURCE = (
+    ROOT / "data/west_bengal/discovery/gp_source_search/historical_expansion/"
+    "nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf"
 )
 SHA = "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43"
-NATIVE = ROOT / f"data/wb/derived/native/{SHA}.json"
-OUT = ROOT / "data/wb/derived/nadia_2013_handbook"
+NATIVE = ROOT / f"data/west_bengal/interim/native/{SHA}.json"
+OUT = ROOT / "data/west_bengal/release/nadia_2013_handbook"
 OFFICE_AUDIT = OUT / "full_office_visual_audit.json"
 MEMBERSHIP_AUDIT = OUT / "membership_visual_audit.json"
 MEMBERSHIP_AUDIT_SHA = (
@@ -67,7 +66,7 @@ def source_fields(page, table_index, row_index, bbox, cells):
     key = [SHA, page, table_index, row_index]
     return {
         "row_id": hashlib.sha256(json.dumps(key).encode()).hexdigest()[:20],
-        "source_path": str(SOURCE.relative_to(ROOT)),
+        "source_path": historical_path(SOURCE, ROOT),
         "source_sha256": SHA,
         "source_page": page,
         "source_table": table_index,
@@ -160,7 +159,7 @@ def apply_office_visual_audit(offices, audit_path=OFFICE_AUDIT):
     if hashlib.sha256(evidence).hexdigest() != OFFICE_AUDIT_SHA:
         raise ValueError("Frozen Nadia office visual audit changed")
     audit = json.loads(evidence)
-    source_path = str(SOURCE.relative_to(ROOT))
+    source_path = historical_path(SOURCE, ROOT)
     if audit["source_sha256"] != SHA or audit["source_path"] != source_path:
         raise ValueError("Nadia office audit source does not match")
     marks = {row["row_id"]: row for row in audit["rows"]}
@@ -213,11 +212,11 @@ def apply_office_visual_audit(offices, audit_path=OFFICE_AUDIT):
             for flag in row["quality_flags"].split(";")
             if flag != "name_not_individually_visually_verified"
         )
-        row["visual_review_path"] = str(OFFICE_AUDIT.relative_to(ROOT))
+        row["visual_review_path"] = historical_path(OFFICE_AUDIT, ROOT)
         row["visual_review_sha256"] = OFFICE_AUDIT_SHA
         row["visual_review_method"] = "single_assistant_nonblinded_source_visual_audit"
     return {
-        "path": str(OFFICE_AUDIT.relative_to(ROOT)),
+        "path": historical_path(OFFICE_AUDIT, ROOT),
         "sha256": OFFICE_AUDIT_SHA,
         "method": audit["method"],
         "summary": audit["summary"],
@@ -292,8 +291,8 @@ def parse_membership(audit_path=MEMBERSHIP_AUDIT):
     if hashlib.sha256(evidence).hexdigest() != MEMBERSHIP_AUDIT_SHA:
         raise ValueError("Frozen Nadia membership audit changed")
     audit = json.loads(evidence)
-    if audit["source_sha256"] != SHA or audit["source_path"] != str(
-        SOURCE.relative_to(ROOT)
+    if audit["source_sha256"] != SHA or audit["source_path"] != historical_path(
+        SOURCE, ROOT
     ):
         raise ValueError("Nadia membership audit source mismatch")
     observed = []
@@ -318,7 +317,7 @@ def parse_membership(audit_path=MEMBERSHIP_AUDIT):
                         )
                         observed.append(
                             {
-                                "source_path": str(SOURCE.relative_to(ROOT)),
+                                "source_path": historical_path(SOURCE, ROOT),
                                 "source_sha256": SHA,
                                 "source_page": number,
                                 "source_table": ti,
@@ -395,7 +394,7 @@ def parse_membership(audit_path=MEMBERSHIP_AUDIT):
                     ),
                     "source_coordinate_system": "PDF points, top-left origin",
                     "raw_cells": json.dumps(mark["raw_cells"], ensure_ascii=False),
-                    "visual_review_path": str(MEMBERSHIP_AUDIT.relative_to(ROOT)),
+                    "visual_review_path": historical_path(MEMBERSHIP_AUDIT, ROOT),
                     "visual_review_sha256": MEMBERSHIP_AUDIT_SHA,
                     "review_status": "full_source_visual_review_single_assistant",
                     "quality_flags": "duplicated_zp_label_printed"
@@ -433,7 +432,7 @@ def parse_membership(audit_path=MEMBERSHIP_AUDIT):
         "gp_names_in_multiple_blocks": {
             k: sorted(v) for k, v in name_blocks.items() if len(v) > 1
         },
-        "visual_review_path": str(MEMBERSHIP_AUDIT.relative_to(ROOT)),
+        "visual_review_path": historical_path(MEMBERSHIP_AUDIT, ROOT),
         "visual_review_sha256": MEMBERSHIP_AUDIT_SHA,
         "limitations": [
             "Every printed occurrence is preserved. Repeated labels do not "
@@ -559,10 +558,10 @@ def parse():
         ward_count = sum(row["source_page"] == number for row in wards)
         page_audit.append(
             {
-                "source_path": str(SOURCE.relative_to(ROOT)),
+                "source_path": historical_path(SOURCE, ROOT),
                 "source_sha256": SHA,
                 "source_page": number,
-                "native_reference": f"{NATIVE.relative_to(ROOT)}#page={number}",
+                "native_reference": f"{historical_path(NATIVE, ROOT)}#page={number}",
                 "native_text_characters": len(page["text"]),
                 "native_tables": len(page["tables"]),
                 "office_rows": office_count,

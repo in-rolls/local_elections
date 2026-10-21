@@ -13,11 +13,11 @@ from html.parser import HTMLParser
 from urllib.parse import parse_qs, urlsplit
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path
 from local_elections.states.wb.parse_results import write_table
 
-BASE = ROOT / "data/wb/vintage_search"
-OUT = ROOT / "data/wb/derived/bardhaman_2003"
+BASE = ROOT / "data/west_bengal/discovery/vintage_search"
+OUT = ROOT / "data/west_bengal/release/bardhaman_2003"
 PARTIES = [
     "CPI(M)",
     "CPI",
@@ -170,7 +170,7 @@ def build(base=BASE):
                 block=names[block],
                 gram_panchayat=row.pop("name"),
                 source_url=source["url"],
-                source_path=str((base / source["file"]).relative_to(ROOT)),
+                source_path=historical_path(base / source["file"], ROOT),
                 source_sha256=source["sha256"],
                 issues=";".join(flags),
                 review_status="needs_review" if flags else "source_controls_passed",

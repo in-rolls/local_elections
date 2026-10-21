@@ -20,11 +20,11 @@ import pyarrow.parquet as pq
 from pdfplumber.utils.text import extract_text
 
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path
 
 SOURCE = ROOT / "data/source_search/early_heads/raw/tn_1_58_2011_318_en.pdf"
 SOURCE_URL = "https://tnrd.tn.gov.in/project/go_files/1_58_2011_318_en.pdf"
-OUT = ROOT / "data/tn/derived/heads_2011"
+OUT = ROOT / "data/tamil_nadu/release/heads_2011"
 VERSION = 1
 UNION = re.compile(
     r"^(.*?)\s*[.]?P(?:ANCHAYAT|ANCHAYT|ANACHAYAT|ANCHYAT)\s+UNION\b", re.I
@@ -44,7 +44,7 @@ def digest(path):
 
 
 def relative(path):
-    return str(path.relative_to(ROOT))
+    return historical_path(path, ROOT)
 
 
 def reservation(raw):

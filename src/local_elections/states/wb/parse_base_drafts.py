@@ -17,11 +17,11 @@ import pandas as pd
 
 from local_elections.common.ocr_engine import page_count
 from local_elections.common.runlog import command
-from local_elections.paths import ROOT
+from local_elections.paths import ROOT, historical_path
 from local_elections.states.wb import parse
 
-BASE = ROOT / "data/wb/derived/base_drafts"
-DATA = ROOT / "data/wb/2018"
+BASE = ROOT / "data/west_bengal/release/base_drafts"
+DATA = ROOT / "data/west_bengal/raw/2018"
 
 
 def digest(path):
@@ -171,7 +171,7 @@ def draft_document(path, correction):
                     "absence_policy": (
                         "OCR absence remains unknown; no verified negatives"
                     ),
-                    "source_path": str(path.relative_to(ROOT)),
+                    "source_path": historical_path(path, ROOT),
                     "source_sha256": source_hash,
                     "source_page": page,
                     "source_bbox": [0.0, max(0, seat["y"] - 12), width, bottom],
@@ -186,7 +186,7 @@ def draft_document(path, correction):
             )
         ledger.append(
             {
-                "source_path": str(path.relative_to(ROOT)),
+                "source_path": historical_path(path, ROOT),
                 "source_sha256": source_hash,
                 "source_page": page,
                 "stage": "draft",
@@ -222,7 +222,7 @@ def build():
                 cache = parse.CACHE / "final" / f"{source.stem}-{page:02d}.tsv"
                 page_rows.append(
                     {
-                        "source_path": str(source.relative_to(ROOT)),
+                        "source_path": historical_path(source, ROOT),
                         "source_sha256": digest(source),
                         "source_page": page,
                         "stage": "final",
@@ -236,7 +236,7 @@ def build():
         for missing in sorted(set(range(1, count + 1)) - seen_pages):
             page_rows.append(
                 {
-                    "source_path": str(source.relative_to(ROOT)),
+                    "source_path": historical_path(source, ROOT),
                     "source_sha256": digest(source),
                     "source_page": missing,
                     "stage": stage,
@@ -248,7 +248,7 @@ def build():
         numbers = [int(row["seat_no"]) for row in rows]
         sources.append(
             {
-                "source_path": str(source.relative_to(ROOT)),
+                "source_path": historical_path(source, ROOT),
                 "source_sha256": digest(source),
                 "district": district_of(source.stem),
                 "stage": stage,
@@ -264,9 +264,9 @@ def build():
                     if value > 1
                 ],
                 "output": (
-                    "data/wb/derived/base_drafts/records.csv"
+                    "data/west_bengal/release/base_drafts/records.csv"
                     if stage == "draft"
-                    else "data/wb/zp_member_2018.csv"
+                    else "data/west_bengal/release/zp_member_2018.csv"
                 ),
             }
         )
