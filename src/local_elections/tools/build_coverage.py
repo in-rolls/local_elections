@@ -28,13 +28,12 @@ import csv
 import gzip
 import hashlib
 import json
-import os
 import re
 import sys
-from pathlib import Path
 
 import pyarrow.parquet as pq
 
+from local_elections.common import sources
 from local_elections.paths import ROOT, historical_path
 from local_elections.states.assam import controls_2025 as assam_controls
 
@@ -60,9 +59,21 @@ from local_elections.common.runlog import command  # noqa: E402
 SIBLINGS = {
     "Haryana": {
         "repo": "local_elections_haryana",
-        "years": "2016, 2022",
+        "years": "2000, 2005, 2010, 2016, 2022",
         "tiers": "gp_head, gp_ward",
+        "remaining": (
+            "2000 covers 5,932 of the commission's 6,035 GPs (113 of 114 "
+            "blocks), transcribed from gazette scans; winner sex is "
+            "name-inferred, as no record prints it; 2016 and 2022 cannot be "
+            "compared after the 2020 change to the BC-A and women's quotas"
+        ),
         "files": [
+            "data/2000/gp_reservation.csv",
+            "data/2000/ward_reservation.csv",
+            "data/2005/gp_reservation.csv",
+            "data/2005/ward_reservation.csv",
+            "data/2010/gp_reservation.csv",
+            "data/2010/ward_reservation.csv",
             "data/2016/gp_reservation.csv",
             "data/2016/ward_reservation.csv",
             "data/2022/gp_reservation.csv",
@@ -138,6 +149,33 @@ SIBLINGS = {
         "remaining": "the 2015 Panchayat Samiti book and the 2015 and 2020 "
         "Zila Parishad books remain unparsed; municipal material is held "
         "outside the rural master",
+    },
+    "Jharkhand": {
+        "repo": "local_elections_jharkhand",
+        "years": "2015, 2022",
+        "tiers": "gp_head",
+        "files": [
+            "data/2015/mukhiya_results.parquet",
+            "data/2022/mukhiya_results.parquet",
+            "data/linkage/gp_2015_2022.parquet",
+        ],
+        "remaining": "mukhiya seats only in the sibling; the 2015 ward, block "
+        "and district tiers are still parsed here (data/jharkhand/), and "
+        "winner sex is name-inferred",
+    },
+    "Tamil Nadu": {
+        "repo": "local_elections_tamil_nadu",
+        "years": "2011, 2019, 2021",
+        "tiers": "gp_head",
+        "files": [
+            "data/2011/vp_president_results.parquet",
+            "data/2019/vp_president_results.parquet",
+            "data/2021/vp_president_results.parquet",
+            "data/linkage/vp_2011_2019.parquet",
+            "data/linkage/vp_2011_2021.parquet",
+        ],
+        "remaining": "village-panchayat presidents only; ward members and "
+        "the upper tiers are not collected",
     },
     "Telangana": {
         "repo": "local_elections_telangana",
@@ -229,7 +267,9 @@ REMAINING_WORK = {
     ),
     "Jharkhand": (
         "GP-ward and ZP coverage reaches 11 of 24 districts; 29 rural and 3 "
-        "municipal PDFs are not linked to parsed rows"
+        "municipal PDFs are not linked to parsed rows. 2015 and 2022 mukhiya "
+        "results, linked across the two, are in [local_elections_jharkhand]"
+        "(https://github.com/in-rolls/local_elections_jharkhand)"
     ),
     "Karnataka": (
         "244 of 248 unlinked PDFs were reviewed as duplicate reservation "
@@ -386,11 +426,9 @@ def sibling_rows(spec):
     pins = json.loads(pins_path.read_text()) if pins_path.exists() else {}
     pin = pins.get(spec["repo"])
     if pin:
-        directory = (
-            Path(os.environ.get("INDIA_DATA_HOME", "~/data")).expanduser()
-            / spec["repo"]
-            / pin["ref"]
-        )
+        # fills the pinned cache first; reading it unfilled reported every
+        # file of a fresh pin as missing
+        directory = sources.resolve(spec["repo"])[0]
     if not directory.exists():
         return "-"
     total, missing = 0, 0
