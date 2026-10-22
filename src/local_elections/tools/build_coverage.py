@@ -102,7 +102,7 @@ SIBLINGS = {
         "repo": "local_elections_kerala",
         "years": "2010, 2015, 2020",
         "tiers": "gp_ward, block_member, zp_member, ulb_ward",
-        "files": ["data/lsgi-election-kerala.csv"],
+        "files": ["data/raw/lsg_scrape/2010_2020_combined.csv"],
     },
     "Uttar Pradesh": {
         "repo": "local_elections_up",

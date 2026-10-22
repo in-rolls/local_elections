@@ -54,7 +54,7 @@ REPO = "local_elections_kerala"
 URL = "https://github.com/in-rolls/local_elections_kerala"
 STATE = "Kerala"
 
-FILE = "data/lsgi-election-kerala.csv"
+FILE = "data/raw/lsg_scrape/2010_2020_combined.csv"
 DECLARED = 65296
 
 # `LGI Type` -> (canonical office, the name Kerala prints, the column naming the
