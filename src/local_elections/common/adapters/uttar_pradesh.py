@@ -50,7 +50,10 @@ SEAT_FILES = {
     "2010": "data/release/2010/gram_panchayat_head_winner_list.parquet",
     "2015": "data/release/2015/gram_panchayat_head_winner_list.parquet",
 }
-CANDIDATE_FILE = ("2021", "data/release/2021/gram_panchayat_head_candidate_record.parquet")
+CANDIDATE_FILE = (
+    "2021",
+    "data/release/2021/gram_panchayat_head_candidate_record.parquet",
+)
 DECLARED = {"2005": 51872, "2010": 51861, "2015": 59019, "2021": 373096}
 RELEASE_PIN = pathlib.Path(__file__).with_name("uttar_pradesh_release.json")
 PIN = json.loads(RELEASE_PIN.read_text())
