@@ -147,9 +147,9 @@
     }
   },
   "local_elections_kerala": {
-    "ref": "be36e45cc8f5c4295f64abca2511d5c934ef81f6",
+    "ref": "7e737ccca8a9cd9ef7cf5f407f6218b1dc879702",
     "files": {
-      "data/lsgi-election-kerala.csv": "b7772cf45b3f27d7160c6a8f1209df793281fdcf009a46a03687272d8826fdd0"
+      "data/raw/lsg_scrape/2010_2020_combined.csv": "b7772cf45b3f27d7160c6a8f1209df793281fdcf009a46a03687272d8826fdd0"
     }
   },
   "local_elections_uttarakhand": {
