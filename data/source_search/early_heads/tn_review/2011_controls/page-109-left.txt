@@ -1,0 +1,58 @@
+PUDUKKOTT
+VILLAGE PANCH
+Reservation of Seats for Scheduled Caste/Scheduled Trib
+Nadu
+Category to which
+Sl. No Name of the Village Panchayat
+reservation is made
+1 2 3
+ANNAVASAL PANCHAYAT UNION
+1 Ariyur SC (Women)
+2 Ennai SC (Women)
+3 Narthamalai SC (Women)
+4 Kilikudi SC (Women)
+5 Mangudi SC (General)
+6 Alathur SC (General)
+7 Panampatti SC (General)
+8 Vayalogam SC (General)
+9 Vellanur SC (General)
+10 Thudaiyur SC (General)
+11 Veerapatti General (Women)
+12 Vilathupatti General (Women)
+13 Kathavampatti General (Women)
+14 Rappoosal General (Women)
+15 Pudur General (Women)
+16 Muckannamalaiapatti General (Women)
+17 Kudumiyanmalai General (Women)
+18 Pulvayal General (Women)
+19 Melur General (Women)
+20 Irundirapatti General (Women)
+21 Tirunallur General (Women)
+22 Thalinji General
+23 Kattakudi General
+24 Punginipatti General
+25 Mannavelampatti General
+26 Madiyanallur General
+27 Vettukadu General
+28 Perumanadu General
+29 Chittannavasal General
+30 Idayapatti General
+31 Muthukkadu General
+32 Kothirapatti General
+33 Kothandaramapuram General
+34 Sathyamangalam General
+35 Vellanjar General
+36 Keelakuruchi General
+37 Ammachathiram General
+38 Thiruvengaivasal General
+39 Eswarankoil General
+40 Poongudi General
+41 Parambur General
+42 Irumbali General
+43 Thatchampatti General
+ARANTHANGI PANCHAYAT UNION :
+1 Kammangadu SC (Women)
+2 Ramasamipuram SC (Women)
+3 Narpavalakudi SC (General)
+4 Vembangudi East SC (General)
+Page 107

@@ -1,0 +1,3649 @@
+<div data-bbox="408 46 606 104" data-label="Section-Header">
+<p style="text-align: center;">प्रपत्र – 23<br/>)नियम 85 देखिये=<br/>निर्वाचन परिणाम का प्रकादृान</p>
+</div>
+<div data-bbox="96 120 656 172" data-label="Text">
+<p>झारखण्ड पंचायत निर्वाचन नियमावली, 2001 के नियम 85 के अनुसरण में मैं एतद् द्व गई अनुसूची के स्तम्भ )1= में नामित व्यक्ति, स्तम्भ )2= में अंकित पद पर, स्तम्भ )5= से निर्वाचित हो गया है—</p>
+</div>
+<div data-bbox="479 186 538 203" data-label="Section-Header">
+<p style="text-align: center;">अनुसूची</p>
+</div>
+<div data-bbox="88 215 647 731" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">क्रमांक</th>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;">प्रखण्ड— लिट्टीपाड़ा</td>
+</tr>
+<tr>
+<td>1</td>
+<td>चादी पहाड़िन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>2</td>
+<td>सुशन्ति मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>3</td>
+<td>पौलुस मालतो</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>4</td>
+<td>निर्मला हेसदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>5</td>
+<td>माडी पहाड़िन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>6</td>
+<td>मालजा मालतो</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>7</td>
+<td>सिलभान किस्कू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>8</td>
+<td>मरांगमइ सोरेन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>9</td>
+<td>सोनाल्ड मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>10</td>
+<td>रीना किस्कु</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>11</td>
+<td>मुनसी टुडू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>12</td>
+<td>सुनीता मरांडी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>13</td>
+<td>जोगेस मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>14</td>
+<td>बिटिया सोरेन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>15</td>
+<td>सुशीला मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>16</td>
+<td>फुलवन्ती किस्कु</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>17</td>
+<td>जागेन किस्कू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="137 747 260 766" data-label="Text">
+<p>स्थान :— पाकुड़</p>
+</div>
+<div data-bbox="137 772 306 790" data-label="Text">
+<p>तारीख :— 21.12.2015</p>
+</div><div data-bbox="408 46 606 105" data-label="Section-Header">
+<p style="text-align: center;">प्रपत्र – 23<br/>)नियम 85 देखिये=<br/>निर्वाचन परिणाम का प्रकादृान</p>
+</div>
+<div data-bbox="97 120 656 174" data-label="Text">
+<p>झारखण्ड पंचायत निर्वाचन नियमावली, 2001 के नियम 85 के अनुसरण में मैं एतद् द्व गई अनुसूची के स्तम्भ )1= में नामित व्यक्ति, स्तम्भ )2= में अंकित पद पर, स्तम्भ )5= से निर्वाचित हो गया है—</p>
+</div>
+<div data-bbox="478 187 537 205" data-label="Section-Header">
+<p style="text-align: center;">अनुसूची</p>
+</div>
+<div data-bbox="89 217 647 554" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">क्रमांक</th>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;">प्रखण्ड— अमड़ापाड़ा</td>
+</tr>
+<tr>
+<td>1</td>
+<td>मोती लाल पहाड़िया</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>2</td>
+<td>दुलारी मराण्डी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>3</td>
+<td>मोती लाल मरांडी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>4</td>
+<td>मेरिला सोरेन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>5</td>
+<td>बरसन हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>6</td>
+<td>कुसुम देवी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>7</td>
+<td>सुभाष मरांडी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>8</td>
+<td>सोनोली हेसदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>9</td>
+<td>दीपा मलतो</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>10</td>
+<td>तंती पहाड़िन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="136 568 260 587" data-label="Text">
+<p>स्थान :— पाकुड़</p>
+</div>
+<div data-bbox="136 594 306 611" data-label="Text">
+<p>तारीख :— 21.12.2015</p>
+</div><div data-bbox="408 46 606 105" data-label="Section-Header">
+<p style="text-align: center;">प्रपत्र – 23<br/>)नियम 85 देखिये=<br/>निर्वाचन परिणाम का प्रकादृान</p>
+</div>
+<div data-bbox="96 120 656 173" data-label="Text">
+<p>झारखण्ड पंचायत निर्वाचन नियमावली, 2001 के नियम 85 के अनुसरण में मैं एतद् द्व गई अनुसूची के स्तम्भ )1= में नामित व्यक्ति, स्तम्भ )2= में अंकित पद पर, स्तम्भ )5= से निर्वाचित हो गया है—</p>
+</div>
+<div data-bbox="478 186 537 204" data-label="Section-Header">
+<p style="text-align: center;">अनुसूची</p>
+</div>
+<div data-bbox="88 216 647 601" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">क्रमांक</th>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;">प्रखण्ड— हिरणपुर</td>
+</tr>
+<tr>
+<td>1</td>
+<td>रानु रंजन मुर्मु</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>2</td>
+<td>आग्नेश अमृता टुडू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>3</td>
+<td>सुवास्टीन हेसदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>4</td>
+<td>शांति मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>5</td>
+<td>निरोजनी टुडू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>6</td>
+<td>लुईसा हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>7</td>
+<td>सोनोती हांसदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>8</td>
+<td>मालती मराण्डी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>9</td>
+<td>एम्मानुएल मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>10</td>
+<td>अनिता मरांडी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>11</td>
+<td>कृष्णा मोहली</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>12</td>
+<td>होपनी टुडू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>13</td>
+<td>शर्मीला हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>14</td>
+<td>आशा पहाड़िन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="136 615 259 635" data-label="Text">
+<p>स्थान :— पाकुड़</p>
+</div>
+<div data-bbox="136 642 306 659" data-label="Text">
+<p>तारीख :— 21.12.2015</p>
+</div><div data-bbox="408 66 605 125" data-label="Section-Header">
+<p style="text-align: center;">प्रपत्र – 23<br/>)नियम 85 देखिये=<br/>निर्वाचन परिणाम का प्रकादृान</p>
+</div>
+<div data-bbox="96 141 654 193" data-label="Text">
+<p>झारखण्ड पंचायत निर्वाचन नियमावली, 2001 के नियम 85 के अनुसरण में मैं एतद् द्व गई अनुसूची के स्तम्भ )1= में नामित व्यक्ति, स्तम्भ )2= में अंकित पद पर, स्तम्भ )5= से निर्वाचित हो गया है—</p>
+</div>
+<div data-bbox="478 206 537 224" data-label="Section-Header">
+<p style="text-align: center;">अनुसूची</p>
+</div>
+<div data-bbox="88 236 647 926" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">क्रमांक</th>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित / अनारक्षित</th>
+<th>महिला / अन्य</th>
+</tr>
+<tr>
+<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;">प्रखण्ड- पाकुड़</td>
+</tr>
+<tr>
+<td>1</td>
+<td>गायना हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>2</td>
+<td>बाहालेन हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>3</td>
+<td>सरकार मराण्डी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>4</td>
+<td>होपनमय टुडू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>5</td>
+<td>कौशर अली</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>6</td>
+<td>मिसफीका</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>7</td>
+<td>जयलाल माल</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>8</td>
+<td>पुशो पहाड़िन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>9</td>
+<td>सुबोध पहाड़िया</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>10</td>
+<td>कमला मालपहाड़िया</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>11</td>
+<td>सुसना मराण्डी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>12</td>
+<td>चित्रलेखा गोंड</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>13</td>
+<td>हाबुल पहाड़िया</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>14</td>
+<td>राजकुमार माल</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>15</td>
+<td>अफजल शेख</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>16</td>
+<td>मोसा आकतारा बानो</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>17</td>
+<td>अब्बास शेख</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>18</td>
+<td>वजिफा बीबी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>19</td>
+<td>अफजल हुसैन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>20</td>
+<td>छन्दा सरकार</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>21</td>
+<td>लखन हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>22</td>
+<td>सुमि सोरेन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>23</td>
+<td>पयसी पहाड़िया</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+</tbody>
+</table>
+</div><table border="1">
+<tr>
+<td>24</td>
+<td>नजरुल इस्लाम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td rowspan="2">क्रमांक</td>
+<td rowspan="2">व्यक्ति का नाम</td>
+<td colspan="3">पद का विवरण</td>
+</tr>
+<tr>
+<td>पद</td>
+<td>आरक्षित / अनारक्षित</td>
+<td>महिला / अन्य</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>25</td>
+<td>जिन्नातुन बीबी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>26</td>
+<td>मानसारूल हक</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>27</td>
+<td>मुंगली किस्कु</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>28</td>
+<td>मंगल होसदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>29</td>
+<td>खादिमा बीबी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>30</td>
+<td>सुमित्रा बास्की</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>31</td>
+<td>मनोज मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>32</td>
+<td>रेखा देवी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनसूचित जनजाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>33</td>
+<td>रफिजुद्दिन शेख</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>34</td>
+<td>नाजेमा बीबी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+</tr>
+</table>
+</div>
+<div data-bbox="135 381 260 401" data-label="Text">
+<p>स्थान :— पाकुड़</p>
+</div>
+<div data-bbox="135 405 306 424" data-label="Text">
+<p>तारीख :— 21.12.2015</p>
+</div><div data-bbox="408 83 605 140" data-label="Section-Header">
+<p style="text-align: center;">प्रपत्र – 23<br/>)नियम 85 देखिये=<br/>निर्वाचन परिणाम का प्रकादृान</p>
+</div>
+<div data-bbox="96 156 654 209" data-label="Text">
+<p>झारखण्ड पंचायत निर्वाचन नियमावली, 2001 के नियम 85 के अनुसरण में मैं एतद् द्व गई अनुसूची के स्तम्भ )1= में नामित व्यक्ति, स्तम्भ )2= में अंकित पद पर, स्तम्भ )5= से निर्वाचित हो गया है—</p>
+</div>
+<div data-bbox="478 222 537 240" data-label="Section-Header">
+<p style="text-align: center;">अनुसूची</p>
+</div>
+<div data-bbox="88 251 647 920" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">क्रमांक</th>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;">प्रखण्ड— महेशपुर</td>
+</tr>
+<tr>
+<td>1</td>
+<td>सुरोधनी मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>2</td>
+<td>सुरूजमुनी होसदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>3</td>
+<td>ज्योती सोरेन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>4</td>
+<td>सुशीला सोरेन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>5</td>
+<td>राजु मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>6</td>
+<td>संतोशीला हॉसदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>7</td>
+<td>रोमेन हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>8</td>
+<td>प्रोमिला टुडु</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>9</td>
+<td>बाबुधन मरन्डी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>10</td>
+<td>दयामुनी मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>11</td>
+<td>सनातन सोरेन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>12</td>
+<td>सुहागिनी हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>13</td>
+<td>बेउला माल पहाड़िया</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>14</td>
+<td>बहामुनी हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>15</td>
+<td>बबीता पहाड़िन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>16</td>
+<td>सरस्वती टुडू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>17</td>
+<td>मरियम मराण्डी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>18</td>
+<td>मेरीला किस्कू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>19</td>
+<td>अंजली बेसरा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>20</td>
+<td>सोहागिनी मरांडी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>21</td>
+<td>दिलीप हेम्बरम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>22</td>
+<td>पुष्पलता मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>23</td>
+<td>चुन्डा हेम्बरम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>24</td>
+<td>स्वीकृत मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+</tbody>
+</table>
+</div><div>
+<table border="1">
+<tbody>
+<tr>
+<td>25</td>
+<td>कुल कोड़ा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>26</td>
+<td>गाजोली कोड़ाइन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td rowspan="3">क्रमांक</td>
+<td rowspan="3">व्यक्ति का नाम</td>
+<td colspan="3">पद का विवरण</td>
+</tr>
+<tr>
+<td>पद</td>
+<td>आरक्षित/अनारक्षित</td>
+<td>महिला/अन्य</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>27</td>
+<td>सम्मु कोडा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>28</td>
+<td>आमोदनी कोडनी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>29</td>
+<td>मुर्शिदा खातुन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>30</td>
+<td>राजेश पहाड़िया</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>31</td>
+<td>सरस्वती हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>32</td>
+<td>डिजेन हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>33</td>
+<td>मरिया मुर्मु</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="135 333 260 354" data-label="Text">
+<p>स्थान :- पाकुड़</p>
+</div>
+<div data-bbox="135 358 306 378" data-label="Text">
+<p>तारीख :- 21.12.2015</p>
+</div><div data-bbox="408 107 606 165" data-label="Section-Header">
+<p style="text-align: center;">प्रपत्र – 23<br/>)नियम 85 देखिये=<br/>निर्वाचन परिणाम का प्रकादृान</p>
+</div>
+<div data-bbox="96 182 656 234" data-label="Text">
+<p>झारखण्ड पंचायत निर्वाचन नियमावली, 2001 के नियम 85 के अनुसरण में मैं एतद् द्व गई अनुसूची के स्तम्भ )1= में नामित व्यक्ति, स्तम्भ )2= में अंकित पद पर, स्तम्भ )5= से निर्वाचित हो गया है—</p>
+</div>
+<div data-bbox="479 247 538 265" data-label="Section-Header">
+<p style="text-align: center;">अनुसूची</p>
+</div>
+<div data-bbox="88 276 647 803" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">क्रमांक</th>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;">प्रखण्ड- पाकुड़िया</td>
+</tr>
+<tr>
+<td>1</td>
+<td>मुसूच मुरमू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>2</td>
+<td>मीरूधन टुडू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>3</td>
+<td>जुगून हासदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>4</td>
+<td>सलोमी बेसरा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>5</td>
+<td>ढेना मरान्डी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>6</td>
+<td>करुणा हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>7</td>
+<td>अनिता सोरेन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>8</td>
+<td>आशा सोरेन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>9</td>
+<td>कलम हांसदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>10</td>
+<td>मालेका किस्कु</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>11</td>
+<td>दाउद मरांडी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>12</td>
+<td>बिटी हासदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>13</td>
+<td>रोसन्ना मरांडी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>14</td>
+<td>अनिता वसेरा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>15</td>
+<td>उर्मिला हांसदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>16</td>
+<td>प्रोमोदिनी हांसदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+<tr>
+<td>17</td>
+<td>जयधन मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>अन्य</td>
+</tr>
+<tr>
+<td>18</td>
+<td>सुनीता हासदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जन जाति</td>
+<td>महिला</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="137 818 260 838" data-label="Text">
+<p>स्थान :- पाकुड़</p>
+</div>
+<div data-bbox="137 845 306 862" data-label="Text">
+<p>तारीख :- 21.12.2015</p>
+</div><table>
+<tbody><tr><td>
+</td></tr>
+<tr><td></td></tr><tr><th>المدينة</th></tr><tr><td>
+</td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td><div>
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">पंचायत निर्वाचन</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">
+<p>रा यह अधिसूचित करता हू कि नीचे दी<br/>= में वर्णित ग्राम पंचायत के लिये सम्यक् रु</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="118 229 340 265" data-label="Text">
+<p>ग्राम पंचायत जिससे पद संबंधित है<br/>)निर्वाचन क्षेत्र संख्या/नाम सहित=</p>
+</div>
+<div data-bbox="222 282 238 295" data-label="Text">
+<p>5</p>
+</div>
+<div data-bbox="89 314 366 731" data-label="Table">
+<table border="1">
+<tbody>
+<tr>
+<td>XI पाकुड़ /01/01– जोरडीहा</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/02– बड़ाघघरी</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/03– सोनाधनी</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/04– कुंजबोना</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/05– करमाटांड</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/06– जामजोरी</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/07– सुरजबेड़ा</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/08– लिट्टीपाड़ा</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/09– बाण्डू</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/10– नवाडीह</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/11– तालझारी</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/12– कमलघाटी</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/13– जबरदाहा</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/14– बीचामहल</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/15– बड़ासरसा</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/16– फुलपहाड़ी</td>
+</tr>
+<tr>
+<td>XI पाकुड़ /01/17– तालपहाड़ी</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="124 819 269 864" data-label="Text">
+<p>जिला दण्डाधिकारी<br/>पाकुड़ं</p>
+</div><div>
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">पंचायत निर्वाचन</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">
+<p>ता यह अधिसूचित करता हू कि नीचे दी</p>
+<p>= में वर्णित ग्राम पंचायत के लिये सम्यक् रु</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="118 229 340 265">
+<p>ग्राम पंचायत जिससे पद संबंधित है<br/>)निर्वाचन क्षेत्र संख्या/नाम सहित=</p>
+</div>
+<div data-bbox="222 282 238 295">
+<p>5</p>
+</div>
+<div data-bbox="89 314 365 552">
+<table border="1">
+<tbody>
+<tr>
+<td>XI पाकुड़/02/01—सिंगारसी</td>
+</tr>
+<tr>
+<td>XI पाकुड़/02/02—आलुबेड़ा</td>
+</tr>
+<tr>
+<td>XI पाकुड़/02/03—पचुवाड़ा</td>
+</tr>
+<tr>
+<td>XI पाकुड़/02/04—जराकी</td>
+</tr>
+<tr>
+<td>XI पाकुड़/02/05—डुमरचीर</td>
+</tr>
+<tr>
+<td>XI पाकुड़/02/06—आमाड़ापाड़ा</td>
+</tr>
+<tr>
+<td>XI पाकुड़/02/07—बासमती</td>
+</tr>
+<tr>
+<td>XI पाकुड़/02/08—जामुगड़िया</td>
+</tr>
+<tr>
+<td>XI पाकुड़/02/09—पाडेरकोला</td>
+</tr>
+<tr>
+<td>XI पाकुड़/02/10—बोहरा</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="124 641 269 686">
+<p>जिला दण्डाधिकारी<br/>पाकुड़ं</p>
+</div><div>
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">पंचायत निर्वाचन</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">
+<p>ता यह अधिसूचित करता हू कि नीचे दी<br/>= में वर्णित ग्राम पंचायत के लिये सम्यक् रु</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="118 229 340 265" data-label="Text">
+<p>ग्राम पंचायत जिससे पद संबंधित है<br/>)निर्वाचन क्षेत्र संख्या/नाम सहित=</p>
+</div>
+<div data-bbox="222 282 238 295" data-label="Text">
+<p>5</p>
+</div>
+<div data-bbox="89 312 365 601" data-label="Table">
+<table border="1">
+<tbody>
+<tr>
+<td>XI पाकुड़/03/01–बरमसिया</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/02–धोवाडांगा</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/03–बड़तल्ला</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/04–मंझलाडीह</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/05–मुर्गाडांगा</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/06–घाघरजानी</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/07–मोहनपुर</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/08–हाथकाठी</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/09–तोराई</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/10–बाबुपुर</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/11–सुन्दरपुर</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/12–बागशीशा</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/13–डांगापाड़ा</td>
+</tr>
+<tr>
+<td>XI पाकुड़/03/14–केन्दुआ</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="124 689 269 735" data-label="Text">
+<p>जिला दण्डाधिकारी<br/>पाकुड़ं</p>
+</div><div>
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">पंचायत निर्वाचन</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">
+<p>रा यह अधिसूचित करता हू कि नीचे दी<br/>= में वर्णित ग्राम पंचायत के लिये सम्यक् रू</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>ग्राम पंचायत जिससे पद संबंधित है<br/>)निर्वाचन क्षेत्र संख्या/नाम सहित=</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">5</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>XI पाकुड़ / 04 / 01–दादपुर</p>
+<p>XI पाकुड़ / 04 / 02–कालीदासपुर</p>
+<p>XI पाकुड़ / 04 / 03–जमशेरपुर</p>
+<p>XI पाकुड़ / 04 / 04–मदनमोहनपुर</p>
+<p>XI पाकुड़ / 04 / 05–मनिकापाड़ा</p>
+<p>XI पाकुड़ / 04 / 06–ईलामी</p>
+<p>XI पाकुड़ / 04 / 07–रामचन्द्रपुर</p>
+<p>XI पाकुड़ / 04 / 08–कुमारपुर</p>
+<p>XI पाकुड़ / 04 / 09–नरोनमपुर</p>
+<p>XI पाकुड़ / 04 / 10–संग्रामपुर</p>
+<p>XI पाकुड़ / 04 / 11–सोनाजोरी</p>
+<p>XI पाकुड़ / 04 / 12–शहरकोल</p>
+<p>XI पाकुड़ / 04 / 13–इशाकपुर उर्फ रणडांगा</p>
+<p>XI पाकुड़ / 04 / 15–रहसपुर</p>
+<p>XI पाकुड़ / 04 / 16–जयकिष्टोपुर उर्फ नारायणखोर</p>
+<p>XI पाकुड़ / 04 / 17–मणिरामपुर</p>
+<p>XI पाकुड़ / 04 / 18–रधुनंदनपुर उर्फ चाँचकी</p>
+<p>XI पाकुड़ / 04 / 19–नवादा</p>
+<p>XI पाकुड़ / 04 / 21–पृथ्वीनगर</p>
+<p>XI पाकुड़ / 04 / 22–चाँदपुर</p>
+<p>XI पाकुड़ / 04 / 23–कोलाजोड़ा</p>
+<p>XI पाकुड़ / 04 / 24–हिरानंदपुर</p>
+<p>XI पाकुड़ / 04 / 25–भवानीपुर,</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div><div>
+<table>
+<tbody><tr>
+<td><b>XI</b></td><td>पाकुड़ / 04 / 26—फरसा</td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+</tbody></table>
+</div>
+<div data-bbox="92 23 367 366" data-label="Table">
+<table border="1">
+<tbody>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td></td><td></td></tr>
+<tr>
+<td><div>
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">पंचायत निर्वाचन</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">
+<p>ता यह अधिसूचित करता हू कि नीचे दी<br/>= में वर्णित ग्राम पंचायत के लिये सम्यक् रू</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>ग्राम पंचायत जिससे पद संबंधित है<br/>)निर्वाचन क्षेत्र संख्या/नाम सहित=</p>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b>5</b></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>XI पाकुड़ / 05 / 01–पोखरिया</p>
+<p>XI पाकुड़ / 05 / 02–गायबथान</p>
+<p>XI पाकुड़ / 05 / 03–शहरग्राम</p>
+<p>XI पाकुड़ / 05 / 04–असकंधा</p>
+<p>XI पाकुड़ / 05 / 05–मेंटाटोला</p>
+<p>XI पाकुड़ / 05 / 06–बेसकेन्द्री</p>
+<p>XI पाकुड़ / 05 / 07–चण्डालमारा</p>
+<p>XI पाकुड़ / 05 / 08–बाबुदाहा</p>
+<p>XI पाकुड़ / 05 / 09–शिवरामपुर</p>
+<p>XI पाकुड़ / 05 / 10–खेपुर</p>
+<p>XI पाकुड़ / 05 / 11–जयपुरबरंगा</p>
+<p>XI पाकुड़ / 05 / 12–रामपुर</p>
+<p>XI पाकुड़ / 05 / 13–कानीझारा</p>
+<p>XI पाकुड़ / 05 / 14–धर्मखेपाड़ा</p>
+<p>XI पाकुड़ / 05 / 15–महेशपुर</p>
+<p>XI पाकुड़ / 05 / 16–सिलमपुर</p>
+<p>XI पाकुड़ / 05 / 17–तेलियापोखर</p>
+<p>XI पाकुड़ / 05 / 18–रोलाग्राम</p>
+<p>XI पाकुड़ / 05 / 19–पथरिया</p>
+<p>XI पाकुड़ / 05 / 20–बलियाडांगा</p>
+<p>XI पाकुड़ / 05 / 21–छक्कूधारा</p>
+<p>XI पाकुड़ / 05 / 22–देवीनगर</p>
+<p>XI पाकुड़ / 05 / 23–अभुआ</p>
+<p>XI पाकुड़ / 05 / 24–बड़कियारी</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div><div>
+<table>
+<tbody><tr>
+<td>XI पाकुड़ / 05 / 25–सीतारामपुर</td></tr>
+<tr>
+<td>XI पाकुड़ / 05 / 26–मानिकपुर</td></tr>
+<tr>
+<td>
+<p>ग्राम पंचायत जिससे पद संबंधित है</p>
+<p>)निर्वाचन क्षेत्र संख्या/नाम सहित=</p></td></tr>
+<tr>
+<td><b>5</b></td></tr>
+<tr>
+<td>XI पाकुड़ / 05 / 27–बिरकिट्टी</td></tr>
+<tr>
+<td>XI पाकुड़ / 05 / 28–दमदमा</td></tr>
+<tr>
+<td>XI पाकुड़ / 05 / 29–बेकुड़ा</td></tr>
+<tr>
+<td>XI पाकुड़ / 05 / 30–पलसा</td></tr>
+<tr>
+<td>XI पाकुड़ / 05 / 31–जयनगरा</td></tr>
+<tr>
+<td>XI पाकुड़ / 05 / 32–अर्जुनदाहा</td></tr>
+<tr>
+<td>XI पाकुड़ / 05 / 33–श्रीरामगड़िया</td></tr>
+</tbody></table>
+</div>
+<div data-bbox="124 407 269 452" data-label="Text">
+<p>जिला दण्डाधिकारी<br/>
+    पाकुड़ं</p>
+</div><div>
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">पंचायत निर्वाचन</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">
+<p>रा यह अधिसूचित करता हू कि नीचे दी<br/>= में वर्णित ग्राम पंचायत के लिये सम्यक् रू</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="118 290 340 326">
+<p>ग्राम पंचायत जिससे पद संबंधित है<br/>)निर्वाचन क्षेत्र संख्या/नाम सहित=</p>
+</div>
+<div data-bbox="222 343 238 357">
+<p>5</p>
+</div>
+<div data-bbox="89 375 365 803">
+<table border="1">
+<tbody>
+<tr>
+<td>XI पाकुड़/06/01–खजुरडंगाल</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/02–महुलपहाड़ी</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/03–बासेतकुण्डी</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/04–बनियापसार</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/05–राजपोखर</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/06–मोंगलाबाँध</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/07–पाकुड़िया</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/08–तेतुलिया</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/09–लागडुम</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/10–बीचपहाड़ी</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/11–पलियादाहा</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/12–बसंतपुर</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/13–बन्नोंग्राम</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/14–डोमनगड़िया</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/15–खक्शा</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/16–फुलझिंझरी</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/17–गणपुरा</td>
+</tr>
+<tr>
+<td>XI पाकुड़/06/18–बड़ासिंहपुर</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="124 891 270 912">
+<p>जिला दण्डाधिकारी</p>
+</div>GenerationResult(text='', token=2, logprobs=array([-15.875, -9.625, -0.9375, ..., -16, -16.75, -15], dtype=bfloat16), prompt_tokens=3701, generation_tokens=1, total_tokens=3702, prompt_tps=369.12520342126817, generation_tps=19292.726608022545, peak_memory=1.990306566, cached_tokens=0, finish_reason='stop', diffusion_canvas_tokens=0, diffusion_denoising_steps=0, diffusion_work_tokens=0, diffusion_canvas_tps=0.0, diffusion_work_tps=0.0, is_draft=False, draft_text='', text_already_printed=False, diffusion_step=0, diffusion_total_steps=0, diffusion_canvas_index=0, diffusion_block_complete=False)

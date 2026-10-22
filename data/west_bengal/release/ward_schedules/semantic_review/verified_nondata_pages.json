@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "source_path": "data/wb/2023/cooch_behar/extracted/CBR FINAL ORDER  FORM A1 B1/Cooch Behar-I/form B1@Ps Coochbehar l.pdf",
+      "source_sha256": "c780887dc2a7aa4c70511a93dd0581d5a1c77790ba71507c8a37748bbfa221c4",
+      "source_page": 1,
+      "source_page_bbox": [
+        0,
+        0,
+        595.276,
+        841.89001
+      ],
+      "page_content_type": "order_cover",
+      "contains_ward_table": false,
+      "review_status": "visually_verified_nondata",
+      "image_path": "data/wb/derived/ward_schedules/semantic_review/sample_6.png",
+      "evidence": "Direct visual inspection: prose order only; no constituency rows on this page."
+    },
+    {
+      "source_path": "data/wb/2023/cooch_behar/extracted/CBR FINAL ORDER  FORM A1 B1/Dinhata 2 from A&B/from_A_Bamanhat 1_DIN2.pdf",
+      "source_sha256": "c1c64007c1e1d53493669c658f41c540c18e9877e229850734f94b830193fa71",
+      "source_page": 1,
+      "source_page_bbox": [
+        0,
+        0,
+        595,
+        842
+      ],
+      "page_content_type": "order_cover",
+      "contains_ward_table": false,
+      "review_status": "visually_verified_nondata",
+      "image_path": "data/wb/derived/ward_schedules/semantic_review/heldout/page_2.png",
+      "evidence": "Direct visual inspection: prose order only; no constituency rows on this page."
+    }
+  ]
+}

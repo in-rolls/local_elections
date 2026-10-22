@@ -1,0 +1,56 @@
+1 2 3
+NEEDAMANGALAM PANCHAYAT UNION Contd.,
+27 Kalanchimedu General
+28 Vaduvur Vadapathi General
+29 Mukkulamsathanur General
+30 Koilvenni General
+31 Edamelaiyur Kandiyan street General
+32 Sonapettai General
+33 Vadakaravayal General
+34 Serumangalam General
+35 Karuvakkuruchi General
+36 Edamelaiyur Nadu theru General
+37 Olimathi General
+38 Edakkeelaiyur General
+39 Parappanamedu General
+40 Karakkottai General
+41 Hanumanthapuram General
+42 Keelalavanthaseri General
+43 Arichapuram General
+44 Rishiyur General
+MANNARGUDI PANCHAYAT UNION
+1 Chithiraiyur SC (Women)
+2 Manakkarai SC (Women)
+3 Edayarembethi SC (Women)
+4 Palaiyanur SC (Women)
+5 Serangulam SC (Women)
+6 Vadapathimangalam SC (Women)
+7 Maravakkadu SC (General)
+8 Thenpathi SC (General)
+9 Velukkudi SC (General)
+10 Vettaithidal SC (General)
+11 Edayarnatham SC (General)
+12 Harichandrapuram SC (General)
+13 Kothangudi SC (General)
+14 54.Nemmeli SC (General)
+15 Pullamangalam SC (General)
+16 Vadakovanur SC (General)
+17 Vakranallur SC (General)
+18 Karikkottai General (Women)
+19 Koopachikkottai General (Women)
+20 Melathirupalakkudi General (Women)
+21 Melavasal General (Women)
+22 Moovanallur General (Women)
+23 Periyakothur General (Women)
+24 Ramapuram General (Women)
+25 Asesham General (Women)
+26 Ohaiperaiyur General (Women)
+27 Overcheri General (Women)
+28 Painganadu General (Women)
+29 Karnavoor General
+30 Moonamsethi General
+31 Poonthalangudi General
+32 Vadapathi General
+33 Bharathi Moolangudi General
+34 Eathakudi General
+35 Kandithampettai General

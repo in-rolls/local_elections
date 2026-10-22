@@ -1,0 +1,127 @@
+<div>
+<p style="text-align: center;"><b>प्रपत्र – 23</b><br/><b>( नियम 85 देखिये )</b><br/><b>निर्वाचन परिणाम का प्रकाशन</b></p>
+<p>झारखण्ड पंचायत निर्वाचन नियमावली, 2001 के नियम 85 के अनुसरण में मैं एतद् द्वारा यह अधिसूचित करता/करती हूँ कि नीचे दी गई अनुसूची के स्तम्भ (1) में नामित व्यक्ति, स्तम्भ (2) में अंकित पद पर, स्तम्भ (5) में वर्णित ग्राम पंचायत/पंचायत समिति/जिला परिषद के लिये सम्यक् रूप से निर्वाचित हो गया है : –</p>
+<p>अधिसूचना संख्या- ..... दिनांक...../2015</p>
+<p>जिला : रामगढ़।</p>
+<p style="text-align: center;"><b>अनुसूची</b></p>
+</div>
+<div data-bbox="87 285 895 575" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचायत समिति/जिला परिषद् जिससे पद सम्बन्धित है (निर्वाचन क्षेत्र संख्या/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/ अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>देवन्ती देवी</td>
+<td>मुखिया</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>XVI रामगढ़/04/01/जमीरा</td>
+</tr>
+<tr>
+<td>आशो देवी</td>
+<td>मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>XVI रामगढ़/04/02/सोसो</td>
+</tr>
+<tr>
+<td>शैलेश कुमार चौधरी</td>
+<td>मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>XVI रामगढ़/04/03/उसरा</td>
+</tr>
+<tr>
+<td>ममता देवी</td>
+<td>मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>XVI रामगढ़/04/04/ईचातु</td>
+</tr>
+<tr>
+<td>पार्वती देवी</td>
+<td>मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>XVI रामगढ़/04/05/दुलमी</td>
+</tr>
+<tr>
+<td>रमेश बेदिया</td>
+<td>मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>XVI रामगढ़/04/06/पोटमदगा</td>
+</tr>
+<tr>
+<td>हरीवंश महतो</td>
+<td>मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>XVI रामगढ़/04/07/सीरु</td>
+</tr>
+<tr>
+<td>सुनिता देवी</td>
+<td>मुखिया</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>XVI रामगढ़/04/08/होन्हे</td>
+</tr>
+<tr>
+<td>मनिकलाल महतो</td>
+<td>मुखिया</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>XVI रामगढ़/04/09/सीकनी</td>
+</tr>
+<tr>
+<td>सुर्यनाथ सिंह</td>
+<td>मुखिया</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>XVI रामगढ़/04/10/कुल्ही</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="103 581 407 599" data-label="Text">
+<p>स्थान : समाहरणालय, रामगढ़।</p>
+</div>
+<div data-bbox="103 606 343 625" data-label="Text">
+<p>तारीख : 21/12/2015</p>
+</div>
+<div data-bbox="590 648 894 708" data-label="Text">
+<p style="text-align: right;">ह0/- (अस्पष्ट)<br/><b>जिला निर्वाचन पदाधिकारी (पंचायत)</b><br/>-सह-उपायुक्त, रामगढ़।</p>
+</div>
+<div data-bbox="103 729 207 747" data-label="Text">
+<p>टिप्पणी : -</p>
+</div>
+<div data-bbox="177 750 921 870" data-label="List-Group">
+<ol>
+<li>1. यदि निर्वाचन क्षेत्र आरक्षित कोटि के अन्तर्गत आता है तब स्तम्भ 3 में आरक्षित कोटि के नाम का उल्लेख किया जाये, यथा अनुसूचित जाति, अनुसूचित जन-जाति, पिछड़ा वर्ग। यदि निर्वाचन क्षेत्र अनारक्षित कोटि के अन्तर्गत आता है तब “अनारक्षित” का उल्लेख किया जाये।</li>
+<li>2. यदि निर्वाचन क्षेत्र महिला के लिए आरक्षित है तब स्तम्भ 4 में “महिला” शब्द का उल्लेख किया जाये। यदि निर्वाचन क्षेत्र महिला के लिये आरक्षित नहीं है तब “अन्य” शब्द का उल्लेख किया जाये।</li>
+</ol>
+</div>
+<div data-bbox="103 933 947 964" data-label="Page-Footer">
+<p>E:\MUNICIPAL ELECTION 2018\ELECTION RESULTS\PANCHAYAT ELECTION RESULTS\PANCHAYAT ELECTION RESULT 2015\16. Ramgarh\RAMGARH Direct Election\Ramgarh Zila Gadget Prapatra- 23\Dulmi Final Prapatra - 23\Prapatre 23 (Dulmi Mukhiya).docxPage 1</p>
+</div><div>
+<div data-bbox="103 932 950 966" data-label="Page-Footer">
+<p>E:\MUNICIPAL ELECTION 2018\ELECTION RESULTS\PANCHAYAT ELECTION RESULTS\PANCHAYAT ELECTION RESULT 2015\16. Ramgarh\RAMGARH Direct<br/>
+    Election\Ramgarh Zila Gadget Prapatra- 23\Dulmi Final Prapatra - 23\Prapatre 23 (Dulmi Mukhiya).docxPage 2</p>
+</div>

@@ -1,0 +1,51 @@
+CUDDALO
+Village Panc
+Reservation of Seats for Scheduled Caste/Scheduled
+Tamil
+Category to which
+Sl. No Name of the Village Panchayat
+reservation is made
+1 2 3
+CUDDALORE PANCHAYAT UNION
+1 Thottappattu SC (Women)
+2 Annavalli SC (Women)
+3 Vanamadevi SC (Women)
+4 Varakkalpattu SC (Women)
+5 Singirikudi SC (Women)
+6 Pallipattu SC(General)
+7 Chellancherry SC(General)
+8 Karamanikuppam SC(General)
+9 Periyakanganankuppam SC(General)
+10 Karaimedu SC(General)
+11 Karanapattu SC(General)
+12 Vilangalpattu SC(General)
+13 Pillali SC(General)
+14 Sennmankuppam SC(General)
+15 Alagiyanatham General (Women)
+16 Pudukadai General (Women)
+17 Pathirikuppam General (Women)
+18 M.P.Agaram General (Women)
+19 Pachaiyankuppam General (Women)
+20 Karaikadu General (Women)
+21 Keelkumaramangalam General (Women)
+22 Madhalapattu General (Women)
+23 Kondur General (Women)
+24 Kodukkanpalayam General (Women)
+25 Cuddalore O.T General (Women)
+26 Nallathur General (Women)
+27 Arisiperiyankuppam General
+28 C.N.Palayam General
+29 Gunamangalam General
+30 Gundu Uppalavadi General
+31 Karaiyeravittakuppam General
+32 Keelazhinjipattu General
+33 Kilinjikuppam General
+34 Kudikadu General
+35 Kumalankulam General
+36 Marudhadu General
+37 Melazhinjipattu General
+38 Naduveerapattu General
+39 Nanamedu General
+40 Nathappattu General
+41 Ramapuram General
+Page 14

@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "sha256": "b49d17531e69ad192a9c0cd0548b6126fb64a2741a68444e72d663840f066501",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "PANCHAYAT GENERAL ELECTION, 2018\nP.S. WITH P.S. WITH\nNo. of Premises\nNO. OF Main ELECTOR>1250 ELECTOR>1400 No. of Total No.\nBLOCK Total Elector\nP.S. EXCLUDING DEVIDED INTO TWO Sector Quadrup of P.S.\nSingle Double Triple Total\n1400+ PARTS( AUX) le\nKUMARGRAM 180 6 0 17 154 13 0 0 167 180 149780\nALIPURDUAR - II 183 12 1 (10/190) 18 133 24 1 0 158 184 168448\nKALCHINI 228 14 6 (11/4,8,18,25,28,38) 24 151 29 7 1 188 234 205726\nALIPURDUAR - I 181 9 1 (12/112) 20 102 40 0 0 142 182 163427\nFALAKATA 241 16 2 (13/68,106) 24 185 29 0 0 214 243 219509\nMADARIHAT-\n167 11 0 18 101 28 2 1 132 167 145790\nBIRPARA\nTOTAL 1180 68 10 121 826 163 10 2 1001 1190 1052680",
+      "tables": [
+        {
+          "bbox": [
+            74.1,
+            109.38,
+            713.94,
+            368.82
+          ],
+          "rows": [
+            [
+              "BLOCK",
+              "NO. OF Main\nP.S.",
+              "P.S. WITH\nELECTOR>1250\nEXCLUDING\n1400+",
+              "P.S. WITH\nELECTOR>1400\nDEVIDED INTO TWO\nPARTS( AUX)",
+              "No. of\nSector",
+              "No. of Premises",
+              null,
+              null,
+              null,
+              null,
+              "Total No.\nof P.S.",
+              "Total Elector"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Single",
+              "Double",
+              "Triple",
+              "Quadrup\nle",
+              "Total",
+              null,
+              null
+            ],
+            [
+              "KUMARGRAM",
+              "180",
+              "6",
+              "0",
+              "17",
+              "154",
+              "13",
+              "0",
+              "0",
+              "167",
+              "180",
+              "149780"
+            ],
+            [
+              "ALIPURDUAR - II",
+              "183",
+              "12",
+              "1 (10/190)",
+              "18",
+              "133",
+              "24",
+              "1",
+              "0",
+              "158",
+              "184",
+              "168448"
+            ],
+            [
+              "KALCHINI",
+              "228",
+              "14",
+              "6 (11/4,8,18,25,28,38)",
+              "24",
+              "151",
+              "29",
+              "7",
+              "1",
+              "188",
+              "234",
+              "205726"
+            ],
+            [
+              "ALIPURDUAR - I",
+              "181",
+              "9",
+              "1 (12/112)",
+              "20",
+              "102",
+              "40",
+              "0",
+              "0",
+              "142",
+              "182",
+              "163427"
+            ],
+            [
+              "FALAKATA",
+              "241",
+              "16",
+              "2 (13/68,106)",
+              "24",
+              "185",
+              "29",
+              "0",
+              "0",
+              "214",
+              "243",
+              "219509"
+            ],
+            [
+              "MADARIHAT-\nBIRPARA",
+              "167",
+              "11",
+              "0",
+              "18",
+              "101",
+              "28",
+              "2",
+              "1",
+              "132",
+              "167",
+              "145790"
+            ],
+            [
+              "TOTAL",
+              "1180",
+              "68",
+              "10",
+              "121",
+              "826",
+              "163",
+              "10",
+              "2",
+              "1001",
+              "1190",
+              "1052680"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 558
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 1
+}

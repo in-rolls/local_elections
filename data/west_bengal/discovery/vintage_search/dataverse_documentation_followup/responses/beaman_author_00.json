@@ -1,0 +1,20 @@
+{
+  "request_url": "https://faculty.wcas.northwestern.edu/lori-beaman/",
+  "response_url": "https://faculty.wcas.northwestern.edu/lori-beaman/",
+  "status": 404,
+  "headers": {
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "377",
+    "Connection": "keep-alive",
+    "Date": "Tue, 08 Sep 2026 05:24:32 GMT",
+    "Server": "AmazonS3",
+    "X-Cache": "Error from cloudfront",
+    "Via": "1.1 25b9a991f871f75614e7f92f97b136a4.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "SEA73-P2",
+    "X-Amz-Cf-Id": "2t-0Rf3bQWBEkOcCz3FDolfkY1okbFSS6Qknwpr9PSw893mcIdL1bQ==",
+    "Content-Security-Policy": "upgrade-insecure-requests;"
+  },
+  "body_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/beaman_author_00.body",
+  "bytes": 377,
+  "sha256": "0ee91fce3c8c2239106de55041bdfaf08af87e3d2a4f0026df8ea641c45a4aa3"
+}

@@ -1,0 +1,48 @@
+1 2 3
+MANUR PANCHAYAT UNION Contd.,
+37 Tenpattu General
+38 Therkupatti General
+39 Thulukkarkulam General
+40 Ukkirankottai General
+41 Vallavankottai General
+PAPPAKKUDI PANCHAYAT UNION
+1 Arikesavanallur. S.C. (Women)
+2 Rengasamudram. S.C.( General)
+3 Mylapuram. General (Women)
+4 Pallakkal. General (Women)
+5 Pappakudi. General (Women)
+6 Vadakku Ariyanayagipuram. General (Women)
+7 Athalanallur. General
+8 Idaikal. General
+9 Kapaliparai. General
+10 Kuthapanchan. General
+11 Maruthamputhur. General
+12 Odaimarichan. General
+13 Pudupatti. General
+14 Sattupattu. General
+15 Thirupudaimaruthur. General
+KADAYAM PANCHAYAT UNION
+1 Adaichani SC (Women)
+2 Pappankulam SC (Women)
+3 Keela Ambur SC (General)
+4 Thuppakudi SC (General)
+5 Anainthaperumal Nadanoor General (Women)
+6 Govindaperi General (Women)
+7 KeelaKadayam General (Women)
+8 Manthiyur General (Women)
+9 Servaikaranpatti General (Women)
+10 Thirumalaiappapuram General (Women)
+11 MelaAmbur General
+12 Anjankattalai General
+13 Dharmapuramadam General
+14 Kadayam General
+15 Kadayam Perumpathu General
+16 Madathur General
+17 Muthaliarpatti General
+18 Pottalpudur General
+19 Ravanasamudram General
+20 Sivasailam General
+21 Therkkumadathur General
+22 Vengadampatti General
+23 Virasamudram General
+Page 142

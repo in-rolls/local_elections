@@ -1,0 +1,52 @@
+1 2 3
+Kottampatti Panchayat Union
+1 Kottampatti SC(Women)
+2 Sennagarampatti SC(Women)
+3 Sekkipatti SC(General)
+4 Valaicheripatti SC(General)
+5 Ayyapatti General Women
+6 Boothamangalam General Women
+7 Kamboor General Women
+8 Karungalakudi General Women
+9 Kodukkampatti General Women
+10 Pallapatti General Women
+11 Thumbaipatti General Women
+12 Pattur General
+13 Attapatti General
+14 Chockalingapuram General
+15 Chockampatti General
+16 Ettimangalam General
+17 Katchirayanpatti General
+18 Kesampatti General
+19 Kunnarampatti General
+20 Manappacheri General
+21 Melavalavu General
+22 Pandangudi General
+23 Pottapatti General
+24 Soorapatti General
+25 18.Sukkampatti General
+26 Vanchinagaram General
+27 Thonthilingapuram General
+Alanganallur Panchayat Union
+1 Alagapuri SC(Women)
+2 Kallanai SC(Women)
+3 Oorseri SC(Women)
+4 Athanur SC(General)
+5 Ayyankottai SC(General)
+6 Ayyur SC(General)
+7 A.Kovilpatti SC(General)
+8 Manickampatti SC(General)
+9 B.Mettupatti General(Women)
+10 Chinnailanthaikulam General(Women)
+11 Errampatti General(Women)
+12 Keelachinnanampatti General(Women)
+13 Kondayampatti General(Women)
+14 Rajakkalpatti General(Women)
+15 Thanichiyam General(Women)
+16 Thevaseri General(Women)
+17 Vadugapatti General(Women)
+18 Vellaiyampatti General(Women)
+19 66 Mettupatti General
+20 Achampatti General
+21 Chathiravellalapatti General
+22 Kalvelipatti General

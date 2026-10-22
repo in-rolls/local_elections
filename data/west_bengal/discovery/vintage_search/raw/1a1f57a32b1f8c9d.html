@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+
+    
+    <meta name="description" content="Browse Indian court judgements and legal documents.">
+    <meta name="keywords" content="Indian court judgements, legal documents, bare acts, case law">
+    <meta name="robots" content="index,follow,max-image-preview:large">
+    <meta property="og:title" content="CourtKutchehry">
+    <meta property="og:description" content="Explore Indian court judgements and case law summaries">
+    <meta property="og:type" content="website">
+    
+
+    
+    <link rel="icon" href="/static/images/logo.png" type="image/png">
+
+    <!-- Vendor styles -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+
+    <link rel="stylesheet" href="/static/css/style.css">
+    
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZTD05NR9D7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ (window.dataLayer = window.dataLayer || []).push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-ZTD05NR9D7');
+    </script>
+
+
+  
+
+</head>
+<body>
+    
+<style>
+  /* Eye-catching "Pricing" nav link */
+  .ck-nav-pricing{
+    color:#ff7b00 !important; font-weight:700 !important;
+    background:rgba(255,123,0,.10); border-radius:999px;
+    padding:.4rem 1.1rem !important; transition:all .2s ease;
+  }
+  .ck-nav-pricing:hover,
+  .ck-nav-pricing.active{ background:#ff7b00; color:#fff !important; box-shadow:0 4px 12px rgba(255,123,0,.30); }
+  @media (max-width:991.98px){ .ck-nav-pricing{ display:inline-block; } }
+
+  /* Attention-grabbing "Create Account" button (distinct from blue Login) */
+  .ck-cta-register{
+    background:linear-gradient(135deg,#ff7b00,#ff9e44) !important; color:#fff !important;
+    border:none !important; font-weight:600; box-shadow:0 6px 16px rgba(255,123,0,.32);
+    transition:all .2s ease;
+  }
+  .ck-cta-register:hover{ color:#fff !important; filter:brightness(1.06); transform:translateY(-1px); }
+</style>
+
+  
+  
+<header class="ck-site-header shadow-sm">
+  <nav id="navbar_top" class="navbar main-menu navbar-expand-lg navbar-light bg-white py-3">
+    <div class="container-fluid px-3 px-lg-5">
+      <a class="navbar-brand me-lg-4" href="/">
+        <img src="/static/images/ck_logo.jpeg" alt="CourtKutchehry" height="65" class="align-middle">
+      </a>
+
+      <button class="navbar-toggler collapsed d-lg-none ms-auto border-0 shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#ckNavbarMenu" aria-controls="ckNavbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="ckNavbarMenu">
+        <div class="navbar-mobile-panel d-lg-flex align-items-lg-center w-100 gap-lg-4">
+          <ul class="navbar-nav flex-column flex-lg-row align-items-lg-center mb-0 flex-grow-1 ms-lg-3">
+            <li class="nav-item">
+              <a class="nav-link " href="/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/judgements/">Latest Judgements</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/advanced-search/">Advanced Search</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/bare-acts/">Bare Acts</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="/pages/blog/">Blogs</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link ck-nav-pricing " href="/pricing/">Pricing</a>
+            </li>
+            
+          </ul>
+
+          <div class="navbar-cta d-grid gap-2 d-lg-flex align-items-lg-center justify-content-lg-end ms-lg-auto pt-3 pt-lg-0">
+            
+              <a class="btn ck-cta-register rounded-pill px-3" href="/accounts/register/">Create Account</a>
+              <a class="btn btn-primary rounded-pill px-4" href="/accounts/login/">Login</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+
+
+
+    
+
+    
+
+    <main id="main-content">
+        
+<div class="bg-light py-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-5 col-xl-4">
+        <div class="card border-0 shadow-sm">
+          <div class="card-body p-4 p-md-5">
+            <div class="text-center mb-4">
+              <h2 class="h3 mb-1">Log in to your account</h2>
+              <p class="text-muted mb-0">Access your saved research and subscriptions.</p>
+            </div>
+
+            
+
+            <form method="post" novalidate>
+              <input type="hidden" name="csrfmiddlewaretoken" value="XAq5e4in9UuyoWqBXJtOSMNnuPdVKvCdI1sxuZF9ky83BIMJFZddSBsCgQfwipJE">
+
+              <div class="mb-3">
+                <label for="id_username" class="form-label fw-semibold">Email or contact number</label>
+                
+                  <input type="text" name="username" autofocus maxlength="150" class="form-control" required id="id_username">
+                
+              </div>
+
+              <div class="mb-3">
+                <label for="id_password" class="form-label fw-semibold">Password</label>
+                
+                  <input type="password" name="password" autocomplete="current-password" class="form-control" required id="id_password">
+                
+              </div>
+
+              <div class="d-flex justify-content-between align-items-center mb-3">
+                <a href="/accounts/password-reset/" class="small text-muted text-decoration-none">
+                  Forgot password?
+                </a>
+              </div>
+
+              <div class="d-grid">
+                <button type="submit" class="btn btn-primary btn-lg">Log in</button>
+              </div>
+            </form>
+
+            <p class="text-center text-muted mt-4 mb-0">
+              Don't have an account?
+              <a href="/accounts/register/" class="fw-semibold text-decoration-none">Create one</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </main>
+
+    
+
+  
+
+<style>
+  .site-footer {
+    background: #000;
+    color: #fff;
+  }
+
+  .site-footer .footer-logo img {
+    height: 48px;
+  }
+
+  .site-footer .footer-head {
+    font-size: 0.95rem;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+    color: #fff;
+    opacity: 0.95;
+  }
+
+  .site-footer .footer-link {
+    display: inline-block;
+    padding: 0.25rem 0;
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+  }
+
+  .site-footer .footer-link:hover {
+    color: #fff;
+    text-decoration: underline;
+  }
+
+  .site-footer .social a {
+    width: 38px;
+    height: 38px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(255, 255, 255, 0.28);
+    border-radius: 50%;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .site-footer .social a:hover {
+    border-color: rgba(255, 255, 255, 0.5);
+  }
+
+  .site-footer .small-80 {
+    font-size: 0.92rem;
+    opacity: 0.9;
+  }
+
+  .site-footer .footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.02);
+  }
+
+  footer.site-footer,
+  footer.footer,
+  .site-footer,
+  .footer {
+    background-color: #000 !important;
+    color: #fff !important;
+  }
+
+  .site-footer .container,
+  .site-footer .row,
+  .site-footer .col,
+  .site-footer .footer-bottom {
+    background-color: #000 !important;
+  }
+
+  .site-footer a {
+    color: rgba(255, 255, 255, 0.9) !important;
+    text-decoration: none;
+  }
+
+  .site-footer a:hover {
+    color: #fff !important;
+    text-decoration: underline;
+  }
+
+  .site-footer ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  .site-footer ul li + li {
+    margin-top: 6px;
+  }
+
+  @media (max-width: 767.98px) {
+    .site-footer .row.g-4 {
+      row-gap: 1.25rem !important;
+    }
+
+    .site-footer .footer-head {
+      font-size: 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .site-footer .footer-link {
+      padding: 0.35rem 0;
+      display: inline-block;
+    }
+
+    .site-footer {
+      font-size: clamp(14px, 1.7vw + 11px, 16px);
+      line-height: 1.65;
+    }
+
+    .site-footer .social a {
+      width: 42px;
+      height: 42px;
+    }
+  }
+
+  @media (max-width: 360px) {
+    .site-footer {
+      font-size: 14px;
+    }
+
+    .site-footer .footer-head {
+      font-size: 0.95rem;
+    }
+  }
+</style>
+<footer class="site-footer mt-0">
+  <div class="container py-5">
+    <div class="row g-4 align-items-start">
+      <div class="col-12 col-lg-4">
+        <a href="/" class="footer-logo d-inline-flex align-items-center mb-3 text-decoration-none">
+          <img src="/static/images/ck_logo.jpeg" alt="CourtKutchehry" height="52">
+        </a>
+        <p class="small-80 mb-3">CourtKutchehry simplifies Indian legal research with instant access to judgements, bare acts, and curated legal insights.</p>
+        <p class="small-80 mb-3">SF 204, The Peach Tree Complex, Block C, Sushant Lok Phase I, Gurugram, Haryana 122009</p>
+        <div class="social d-flex gap-2">
+          <a href="#" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+          <a href="#" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+          <a href="mailto:support@courtkutchehry.com" aria-label="Email support"><i class="bi bi-envelope"></i></a>
+        </div>
+      </div>
+
+      <div class="col-6 col-md-3 col-lg-2">
+        <h6 class="footer-head">Our Company</h6>
+        <ul class="list-unstyled m-0">
+          <li><a class="footer-link" href="/pages/about/">About Us</a></li>
+          <li><a class="footer-link" href="/pages/contact/">Contact Us</a></li>
+          <li><a class="footer-link" href="/pages/terms-of-service/">Terms &amp; Conditions</a></li>
+          <li><a class="footer-link" href="/pages/privacy-policy/">Privacy Policy</a></li>
+          
+            
+              
+            
+              
+            
+              
+            
+          
+        </ul>
+      </div>
+
+      <div class="col-6 col-md-3 col-lg-3">
+        <h6 class="footer-head">Help</h6>
+        <ul class="list-unstyled m-0">
+          <li><a class="footer-link" href="/accounts/register/">Pricing</a></li>
+          <li><a class="footer-link" href="/accounts/register/?type=lawyer">Lawyer Signup</a></li>
+          <li><a class="footer-link" href="/accounts/register/?type=student">Students Signup</a></li>
+          <li><a class="footer-link" href="/pages/newsletter/subscribe/">Newsletter</a></li>
+        </ul>
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-3">
+        <h6 class="footer-head">Explore</h6>
+        <ul class="list-unstyled m-0">
+          <li><a class="footer-link" href="/judgements/">Landmark Judgements</a></li>
+          <li><a class="footer-link" href="/advanced-search/">Advanced Search</a></li>
+          <li><a class="footer-link" href="/bare-acts/">Bare Acts</a></li>
+          <li><a class="footer-link" href="/pages/blog/">Blogs</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom py-3">
+    <div class="container">
+      <div class="d-flex justify-content-center">
+        <small class="mb-0 text-white-50">&copy; 2026 CourtKutchehry. All rights reserved.</small>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    <!-- Vendor scripts -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+
+    <script src="/static/js/custom.js"></script>
+    <script>
+      AOS.init({ duration: 900 });
+
+      (function initialiseDatePickers() {
+        const startInput = document.getElementById("start-date");
+        const endInput = document.getElementById("end-date");
+        const startIcon = document.getElementById("start-date-icon");
+        const endIcon = document.getElementById("end-date-icon");
+
+        if (startInput) {
+          const startPicker = flatpickr(startInput, { dateFormat: "Y-m-d" });
+          if (startIcon) {
+            startIcon.addEventListener("click", () => startPicker.open());
+          }
+        }
+
+        if (endInput) {
+          const endPicker = flatpickr(endInput, { dateFormat: "Y-m-d" });
+          if (endIcon) {
+            endIcon.addEventListener("click", () => endPicker.open());
+          }
+        }
+      })();
+    </script>
+
+    
+</body>
+</html>

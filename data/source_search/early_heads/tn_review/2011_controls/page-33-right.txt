@@ -1,0 +1,17 @@
+1 2 3
+KALRAYAN HILLS PANCHAYAT UNION
+1 Kilakkadu ST Women
+2 Pacherry ST Women
+3 Thoradipattu ST Women
+4 Vangikuli ST Women
+5 Arampoondi ST General
+6 Innadu ST General
+7 Kariyalur ST General
+8 Kundiyanatham ST General
+9 Maniyarpalayam ST General
+10 Melpachery ST General
+11 Vellimalai ST General
+12 Venkodu ST General
+13 Puthupalapattu SC General
+14 Serapattu General Women
+15 Pottiyam General

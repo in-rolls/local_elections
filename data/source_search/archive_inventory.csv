@@ -1,0 +1,24 @@
+state,host,pdfs,first_capture,last_capture,reservation_by_name,results_by_name,delimitation_by_name,other,opened,readable,confirmed,top_directories,status
+Bihar,sec.bihar.gov.in,3520,201603,202606,0,0,10,3510,,,,NagarPalika/Doc/Ward(2655) | NagarPalika/Doc/NP(246) | Documents/Press_Release(167),ok
+Rajasthan,sec.rajasthan.gov.in,1554,201703,202606,2,109,2,1441,,,,cm/upload(1159) | cm/Upload(176),ok
+Kerala,sec.kerala.gov.in,1468,201502,202505,44,126,2,1296,,,,images(514) | images/pdf(233) | images/pressrelease(148),ok
+Haryana,secharyana.gov.in,1322,200908,202509,4,182,1,1135,,,,web/assets/uploads/2017/02(77) | web/assets/PCform(55) | html/PCform(53),ok
+Goa,sec.goa.gov.in,1119,201511,202607,11,54,6,1048,,,,wp-content/uploads/2021/06(507) | uploads/municipal_elections_2016(66) | uploads(65),ok
+Karnataka,karsec.gov.in,828,200905,202201,215,429,19,165,,,,TZP-2016/Reservations_Gazettes(210) | TZP-2016/TZP_Elected_Members_2016(196) | Urban Local Bodeis/BBMP/Form 25(193),ok
+Odisha,sec.odisha.gov.in,817,202104,202405,9,30,0,778,,,,wp-content/uploads/2020/01(404) | wp-content/uploads/2022/02(127) | wp-content/uploads/2020/06(63),ok
+West Bengal,wbsec.gov.in,775,201009,202507,53,123,2,597,2,0,0,files/order(200) | files/contents/order/Panchayat(50) | files/contents/forms/panchayat(36),ok
+Gujarat,sec.gujarat.gov.in,614,201008,202212,2,1,0,611,,,,Portal/News(232) | images/pdf(159),ok
+Tripura,sec.tripura.gov.in,476,201602,202507,14,2,5,455,,,,sites/default/files/Uploaded Files(332) | sites/default/files(100) | sites/default/files/Uploaded+Files(19),ok
+Puducherry,sec.puducherry.gov.in,331,201303,201811,8,0,0,323,,,,sec_electoral_roll/ROLLS/MP01(58) | sec_electoral_roll/ROLLS/MP09(49) | sec_electoral_roll/ROLLS/MP02(34),ok
+Madhya Pradesh,mplocalelection.gov.in,321,201409,202301,0,3,0,318,,,,Data/rightpanel(29) | Data/observer(20) | Data/voter(18),ok
+Uttarakhand,sec.uk.gov.in,300,201306,202601,1,4,0,295,,,,upload/contents(162) | files(26) | files/election-2013(25),ok
+Telangana,tsec.gov.in,292,201601,202601,7,18,0,267,,,,pdf/circular_gos(72) | portaladmin(64),ok
+Maharashtra,mahasec.maharashtra.gov.in,222,201504,202606,6,3,4,209,,,,Site/Upload/Pdf(113) | Site/Upload/PDF(72) | Site/Upload/GR(12),ok
+Mizoram,sec.mizoram.gov.in,168,201508,202505,0,16,3,149,,,,uploads/attachments/03e0f230df8ce25ccc5851cf(1) | uploads/attachments/0a3272c511b3cfb53eb29212(1) | uploads/attachments/0a412e033af92b2b68542690(1),ok
+Andhra Pradesh,sec.ap.gov.in,102,202012,202304,0,2,0,100,,,,Doc21(47) | Documents/Notifications/SP_and_WM(39) | Documents/Notifications(3),ok
+Chhattisgarh,cgsec.gov.in,79,201212,201706,0,0,0,79,,,,Notification(15) | RuleBook/Panchayat(14) | RuleBook/Nagar Palika(11),ok
+Punjab,sec.punjab.gov.in,13,202407,202407,0,0,0,13,,,,media/documents(13),ok
+Tamil Nadu,tnsec.tn.gov.in,12,202501,202503,0,0,0,12,,,,tnsec_static/nomination_form_candidate_hb(7) | tnsec_static/important_judgments(3) | tnsec_static/misc_items(2),ok
+Jharkhand,sec.jharkhand.gov.in,6,202602,202605,0,0,0,6,,,,UserFiles/pdf/2820232188(1) | UserFiles/pdf/3520232184(1) | UserFiles/pdf/3520262361(1),ok
+NCT of Delhi,sec.delhi.gov.in,0,,,0,0,0,0,,,,,ok
+Uttar Pradesh,sec.uttarpradesh.gov.in,0,,,0,0,0,0,,,,,ok

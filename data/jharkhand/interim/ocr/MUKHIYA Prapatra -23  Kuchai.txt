@@ -1,0 +1,119 @@
+<div data-bbox="678 54 761 75" data-label="Page-Header">i pk r fuolzu</div>
+<div data-bbox="384 71 536 153" data-label="Section-Header">
+<p>i ż= &amp; 23<br/>
+    *k, e 85 n[k k s/2<br/>
+    fuolzu i fj. ke dki zlkku</p>
+</div>
+<div data-bbox="30 164 901 217" data-label="Text">
+<p>&gt; kj [ k M i p k r fuolzu fu; ekoky h] 2001 d sfu; e 85 d sv u q j. k ea e 8, r n ~ kj k k ; g v f/k fp r d j r k @ d j r h g W d u p s n h x b Z v u q p h d s Le E H k 1/2 ea u k e r Q f D r ] Lr E k 1/2 ea v E d r i n i j ] Lr E H k 1/2 ea o f. k z x ke i p k r @ i p k r l fe fr @ ft y k i fj "k n ~ d s f y ; s l E; d ~: i l s fuolzu g k s x ; k g S &amp;</p>
+</div>
+<div data-bbox="412 227 515 280" data-label="Section-Header">
+<p>vu q p h<br/>
+    i E k M &amp; d q k b Z</p>
+</div>
+<div data-bbox="28 281 889 721" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Q f D r d k u l e</th>
+<th colspan="3">i n d k f o g j. k</th>
+<th rowspan="2">x ke i p k r @ i p k r l fe fr @ ft y k i fj "k n ~ d s f y ; s l E; d ~: i l s fuolzu g k s x ; k g S &amp;<br/>
+                    *fuolzu q s l E; k @ u l fg 1/2</th>
+</tr>
+<tr>
+<th>i n</th>
+<th>v kj f k r @ v u kj f k r</th>
+<th>e f g y k @ v u kj</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>e a y f l g e k l k</td>
+<td>e f k k</td>
+<td>v u q f p r t u t k fr</td>
+<td>v U;</td>
+<td>XXIII l j k d q k &amp; [ kj l ko k W @ 05 @ 01 &amp; j k q k g k r q</td>
+</tr>
+<tr>
+<td>i f r e k n o h</td>
+<td>e f k k</td>
+<td>v u q f p r t u t k fr</td>
+<td>e f g y k</td>
+<td>XXIII l j k d q k &amp; [ kj l ko k W @ 05 @ 02 &amp; : x k M h g</td>
+</tr>
+<tr>
+<td>e k u f l g e q M k</td>
+<td>e f k k</td>
+<td>v u q f p r t u t k fr</td>
+<td>v U;</td>
+<td>XXIII l j k d q k &amp; [ kj l ko k W @ 05 @ 03 &amp; c k g k r q</td>
+</tr>
+<tr>
+<td>' k k h e f k h n o h</td>
+<td>e f k k</td>
+<td>v u q f p r t u t k fr</td>
+<td>e f g y k</td>
+<td>XXIII l j k d q k &amp; [ kj l ko k W @ 05 @ 04 &amp; x k Ee ; k M h g</td>
+</tr>
+<tr>
+<td>d k s r k e q M k</td>
+<td>e f k k</td>
+<td>v u q f p r t u t k fr</td>
+<td>v U;</td>
+<td>XXIII l j k d q k &amp; [ kj l ko k W @ 05 @ 05 &amp; N k k k k s k b Z</td>
+</tr>
+<tr>
+<td>o " k z j k u h c k f d j k</td>
+<td>e f k k</td>
+<td>v u q f p r t u t k fr</td>
+<td>e f g y k</td>
+<td>XXIII l j k d q k &amp; [ kj l ko k W @ 05 @ 06 &amp; e j k a g k r q</td>
+</tr>
+<tr>
+<td>e g s o j m j k o</td>
+<td>e f k k</td>
+<td>v u q f p r t u t k fr</td>
+<td>v U;</td>
+<td>XXIII l j k d q k &amp; [ kj l ko k W @ 05 @ 07 &amp; v : o k i</td>
+</tr>
+<tr>
+<td>y { e h l k s</td>
+<td>e f k k</td>
+<td>v u q f p r t u t k fr</td>
+<td>e f g y k</td>
+<td>XXIII l j k d q k &amp; [ kj l ko k W @ 05 @ 08 &amp; f r y k s n k</td>
+</tr>
+<tr>
+<td>v u q k k k m j k o</td>
+<td>e f k k</td>
+<td>v u q f p r t u t k fr</td>
+<td>v U;</td>
+<td>XXIII l j k d q k &amp; [ kj l ko k W @ 05 @ 09 &amp; i k s M k d k V k</td>
+</tr>
+<tr>
+<td>e a q g k b z q</td>
+<td>e f k k</td>
+<td>v u q f p r t u t k fr</td>
+<td>e f g y k</td>
+<td>XXIII l j k d q k &amp; [ kj l ko k W @ 05 @ 10 &amp; c U h k q k g k j</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="30 728 135 755" data-label="Text">
+<p>LFkku &amp; l j k d q k</p>
+</div>
+<div data-bbox="30 766 155 793" data-label="Text">
+<p>r kj h k &amp; 188 &amp; 128 &amp; 2015</p>
+</div>
+<div data-bbox="612 805 833 857" data-label="Text">
+<p>ft y k fuolzu i n k f/k d kj h k p k r 1/2<br/>
+    &amp; l g &amp; m i k q r ] l j k d q k &amp; [ kj l ko k W</p>
+</div>

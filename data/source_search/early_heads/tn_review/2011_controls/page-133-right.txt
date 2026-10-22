@@ -1,0 +1,44 @@
+1 2 3
+Sivakasi Panchayat Union Contd..
+25 Zaminsalvarpatti General
+26 Urampatti General
+27 Thevarkulam General
+28 Thatchakudi General
+29 Sukkiravarpatti General
+30 Sithurajapuram General
+31 Sevalore General
+32 Sengamalapatti General
+33 Saminatham General
+34 Pudukkottai General
+35 Poolavoorani General
+36 Periapottalpatti General
+37 Naduvaptti General
+38 Nadayaneri General
+39 Melamathur General
+40 Maraneri General
+41 Lakshminarayanapuram General
+42 Kumilankulam General
+43 Krishnapuram General
+44 Krishnaperi General
+45 Koundampatti General
+46 Kattachinnampatti General
+47 Kariseri General
+48 Injar General
+49 Chokkampatti General
+50 Chokkalingapuram General
+51 Chithamanaickenpatti General
+52 Boovanathapuram General
+53 Anaikuttam General
+54 A.Thulukapatti General
+Vembakottai Panchayat Union
+1 Ramuthevanpatti SC (Women)
+2 Panayadipatti SC (Women)
+3 Kottaipatti SC (Women)
+4 Appayanaickenpatti SC (Women)
+5 Sippiparai SC (General)
+6 Muthusamypuram SC (General)
+7 Kundairuppu SC (General)
+8 Keelanmarainadu SC (General)
+9 Kangarseval SC (General)
+10 A.Lakshmiyapuram SC (General)
+11 Valayapatti General (Women)

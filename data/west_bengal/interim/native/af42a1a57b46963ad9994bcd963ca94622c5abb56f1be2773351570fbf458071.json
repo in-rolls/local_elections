@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "sha256": "af42a1a57b46963ad9994bcd963ca94622c5abb56f1be2773351570fbf458071",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(FORM - A1)\nBlock: Ranaghat-1\nNumber of members to be elected in the Gram Panchayat\nScheduled\nName of Gram Scheduled\nCastes\nTotal number of Tribes Women\nmembers members members members\n1 (2a) (2b) (2c) (2d)\nBarasat 21 10(Ten) 1(One) 7(Seven)\nNumber, name and area of constituencies with serial Seats allocated Seats reserved Seats reserved\nnumbers to each for Scheduled for women\nconstituency Castes or against serial\nwith serial Scheduled number of\nnumbers Tribes against seats\nserial number\nof seats\n3 4 5 6\nBarasat/I\nA) Gangni West 1 1 SC 1SC(W)\nB) Gangni North\nMouza – Gangni J. L. No – 1\nG.P. – Barasat, Block – Ranaghat – 1 2 2 Women\nPolice Station - Ranaghat\nPart No. 79/161\nBarasat/II\n3 3 SC\nA) Gagni East\nMouza – Gangni J.L. No – 1\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/162\nBarasat/III\nA)All Mugrail Mouza- Mugrail , J.L.No-29 4 4 SC\nB) Mugrail Tantghar to Mugrail Culvert\nMouza-Gagni, J.L No.-1\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/163\nBarasat/IV\nA) Chandandaha Purba 5\nB) Chandandaha Paschim\nMouza – Chandandaha J.L. No - 31\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart-No. 79/164\nPage 1 of 3",
+      "tables": [
+        {
+          "bbox": [
+            49.45813846153846,
+            65.44233360000005,
+            559.5535902857143,
+            160.0968000000001
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nmembers",
+              "Scheduled\nCastes\nmembers",
+              "Scheduled\nTribes\nmembers",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Barasat",
+              "21",
+              "10(Ten)",
+              "1(One)",
+              "7(Seven)"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            49.45813846153846,
+            183.70448400000004,
+            512.2646,
+            679.2447784615384
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial\nnumbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled\nTribes against\nserial number\nof seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Barasat/I\nA) Gangni West\nB) Gangni North\nMouza – Gangni J. L. No – 1\nG.P. – Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/161",
+              "1",
+              "1 SC",
+              "1SC(W)"
+            ],
+            [
+              null,
+              "2",
+              "",
+              "2 Women"
+            ],
+            [
+              "Barasat/II\nA) Gagni East\nMouza – Gangni J.L. No – 1\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/162",
+              "3",
+              "3 SC",
+              ""
+            ],
+            [
+              "Barasat/III\nA)All Mugrail Mouza- Mugrail , J.L.No-29\nB) Mugrail Tantghar to Mugrail Culvert\nMouza-Gagni, J.L No.-1\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/163",
+              "4",
+              "4 SC",
+              ""
+            ],
+            [
+              "Barasat/IV\nA) Chandandaha Purba\nB) Chandandaha Paschim\nMouza – Chandandaha J.L. No - 31\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart-No. 79/164",
+              "5",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1249
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Barasat/V\nA) All Barakulla 6 6 SC 6 SC(W)\nMouza – Barakulla J. L. No - 32\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/165\nBarasat/VI\nA) All Bugrile 7\nMouza – Bugrile J. L. No – 27\nB) All Gugrakhali\nMouza - Gugrakhali J. L. No - 26\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/166\nBarasat/VII\nA) Barasat Chrischanpara\nB) In Barasat Ghoshpara, Middle of Barasat Mukherjeepara 8 8 Women\nC) Barasat Ghoshpara\nMouza - Barasat J. L. No – 28\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\n9\nPart No. 79/167\nBarasat/VIII\nA) Near Barasat Railpara Taherpur Circuler ,... G.P Office 10 10 SC\nMouza - Barasat J. L. No – 28\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/168\nBarasat/IX\nA) From Barasat Railpara, After Raillgate …. Old Baherampur 11\nRoad\nMouza – Barasat J. L. No – 28\nB) Bhaduri Nawkhalipara (South)\nMouza –Bhaduri J. L. No – 2\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/169\nBarasat/X\nA) Bhaduri Nawkhalipara (North) 12 12 Women\nB) Bhaduri Purba\nMouza - Bhaduri J. L. No – 2\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/170\nBarasat/XI\nA) Bhaduri West 13\nB) Bhaduri Madhya\nMouza - Bhaduri Madhyo J. L. No – 2\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/171\nPage 2 of 3",
+      "tables": [
+        {
+          "bbox": [
+            49.4016,
+            15.278719999999984,
+            512.313912,
+            729.019118
+          ],
+          "rows": [
+            [
+              "Barasat/V\nA) All Barakulla\nMouza – Barakulla J. L. No - 32\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/165",
+              "6",
+              "6 SC",
+              "6 SC(W)"
+            ],
+            [
+              "Barasat/VI\nA) All Bugrile\nMouza – Bugrile J. L. No – 27\nB) All Gugrakhali\nMouza - Gugrakhali J. L. No - 26\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/166",
+              "7",
+              "",
+              ""
+            ],
+            [
+              "Barasat/VII\nA) Barasat Chrischanpara\nB) In Barasat Ghoshpara, Middle of Barasat Mukherjeepara\nC) Barasat Ghoshpara\nMouza - Barasat J. L. No – 28\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/167",
+              "8",
+              "",
+              "8 Women"
+            ],
+            [
+              null,
+              "9",
+              "",
+              ""
+            ],
+            [
+              "Barasat/VIII\nA) Near Barasat Railpara Taherpur Circuler ,... G.P Office\nMouza - Barasat J. L. No – 28\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/168",
+              "10",
+              "10 SC",
+              ""
+            ],
+            [
+              "Barasat/IX\nA) From Barasat Railpara, After Raillgate …. Old Baherampur\nRoad\nMouza – Barasat J. L. No – 28\nB) Bhaduri Nawkhalipara (South)\nMouza –Bhaduri J. L. No – 2\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/169",
+              "11",
+              "",
+              ""
+            ],
+            [
+              "Barasat/X\nA) Bhaduri Nawkhalipara (North)\nB) Bhaduri Purba\nMouza - Bhaduri J. L. No – 2\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/170",
+              "12",
+              "",
+              "12 Women"
+            ],
+            [
+              null,
+              "13",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1423
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "Barasat/XII\nA) Mahisdanga (East) 14 14 ST\nB) Mahisdanga (West)\nC) Mahisdanga (South)\nMouza – Mahisdanga J. L. No – 3\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\n15 15 SC 15 SC(W)\nPart No. 79/172\nBarasat/XIII\nA) Nazirpur Purba 16\nMouza – Birnagar J. L. No – 19\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/173\nBarasat/XIV\nA) Nazirpur West Part 17 17 SC\nB) Shibpur\nMouza – Birnagar J. L. No – 19\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\n18 18 SC\nPart No. 79/174\nBarasat/XV\nA) Taherpur Purba 19 19 SC 19 SC(W)\nMouza – Taherpur J. L. No – 4\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\n20\nPart No. 79/175\nBarasat/XVI 21 SC\nA) Taherpur Paschim 21\nMouza – Taherpur J. L. No – 4\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/176\nDated: 07/02/2008 District Panchayat Election Officer\n&\nDistict Magistrate Nadia\nPage 3 of 3",
+      "tables": [
+        {
+          "bbox": [
+            49.5066,
+            49.19543828571432,
+            512.42805,
+            500.118
+          ],
+          "rows": [
+            [
+              "Barasat/XII\nA) Mahisdanga (East)\nB) Mahisdanga (West)\nC) Mahisdanga (South)\nMouza – Mahisdanga J. L. No – 3\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/172",
+              "14",
+              "14 ST",
+              ""
+            ],
+            [
+              null,
+              "15",
+              "15 SC",
+              "15 SC(W)"
+            ],
+            [
+              "Barasat/XIII\nA) Nazirpur Purba\nMouza – Birnagar J. L. No – 19\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/173",
+              "16",
+              "",
+              ""
+            ],
+            [
+              "Barasat/XIV\nA) Nazirpur West Part\nB) Shibpur\nMouza – Birnagar J. L. No – 19\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/174",
+              "17",
+              "17 SC",
+              ""
+            ],
+            [
+              null,
+              "18",
+              "18 SC",
+              ""
+            ],
+            [
+              "Barasat/XV\nA) Taherpur Purba\nMouza – Taherpur J. L. No – 4\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/175",
+              "19",
+              "19 SC",
+              "19 SC(W)"
+            ],
+            [
+              null,
+              "20",
+              "",
+              ""
+            ],
+            [
+              "Barasat/XVI\nA) Taherpur Paschim\nMouza – Taherpur J. L. No – 4\nG.P. Barasat, Block – Ranaghat – 1\nPolice Station - Ranaghat\nPart No. 79/176",
+              "21",
+              "21 SC",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1066
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

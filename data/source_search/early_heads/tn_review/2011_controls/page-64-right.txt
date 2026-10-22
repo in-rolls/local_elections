@@ -1,0 +1,36 @@
+1 2 3
+HARUR PANCHAYAT UNION
+1 Pethathampatti ST(women)
+2 Keeraipatti ST(General)
+3 Bairnaickampatti ST(General)
+4 Mobiripatty SC (Women)
+5 Virappanayakampatty SC (Women)
+6 Ponneri SC (Women)
+7 Mathiyampatti SC (Women)
+8 Theerthamalai SC (General)
+9 KeelMorappur SC (General)
+10 Chinnankuppam SC(General)
+11 Periyapatti SC(General)
+12 Naripalli SC(General)
+13 Kokkarapatti SC(General)
+14 Vadugappatti SC(General)
+15 Maruthipatti General(Women)
+16 Doddampatti General(Women)
+17 Agraharam General(Women)
+18 Gopalapuram General(Women)
+19 Ellapudayampatti General(Women)
+20 Jammanahalli General(Women)
+21 Achalvadi General(Women)
+22 Kongavembu General
+23 M.Velampatti General
+24 K.Vetrapatti General
+25 Chellampatti General
+26 Vedakaddamaduvu General
+27 Kolagampatti General
+28 Mampatti General
+29 Kottapatti General
+30 Parayappattipudur General
+31 Setrapatti General
+32 Gopinathampatti General
+33 Sittilingi General
+34 Veppampatti General

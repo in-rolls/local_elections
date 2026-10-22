@@ -1,0 +1,827 @@
+source_pdf,tier,reservation_raw,caste_reservation_local,caste_reservation,woman_reserved,count,min_match_score
+block_member_bharuch_tps_2020.pdf,block_member,] સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,_ સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ ',અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ _,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,3,1.0
+block_member_bharuch_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ?,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,અનુસૂચિત જાતિ ',અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,બિન અનામત - સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,બિન અનામત સામાન્થ,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+block_member_bharuch_tps_2020.pdf,block_member,બિન અનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,બિન અનામત સામાન્‍ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_bharuch_tps_2020.pdf,block_member,બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_bharuch_tps_2020.pdf,block_member,બ્રિન્‌ અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9091
+block_member_bharuch_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,2,1.0
+block_member_bharuch_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,4,1.0
+block_member_bharuch_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી * .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,સામાન્યસ્ત્રી *,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,સામાન્યસ્ત્રી . .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_bharuch_tps_2020.pdf,block_member,સામાન્યસ્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.9167
+block_member_bhavnagar_tps_2020.pdf,block_member,' સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_bhavnagar_tps_2020.pdf,block_member,_ અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_bhavnagar_tps_2020.pdf,block_member,_ બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_bhavnagar_tps_2020.pdf,block_member,અનુસૂચિત જાતિ સ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_bhavnagar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,5,1.0
+block_member_bhavnagar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_bhavnagar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય -,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_bhavnagar_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ *,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_bhavnagar_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_bhavnagar_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,7,1.0
+block_member_choryasi_tps_2020.pdf,block_member,* “'સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_choryasi_tps_2020.pdf,block_member,-. સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_choryasi_tps_2020.pdf,block_member,. બિન અનામત સામાન્ય _,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_choryasi_tps_2020.pdf,block_member,_ અનુસૂચિત આદિજાતિસ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_choryasi_tps_2020.pdf,block_member,_ અનુસૂચિત જાતિ સ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_choryasi_tps_2020.pdf,block_member,_ બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_choryasi_tps_2020.pdf,block_member,| સા.શૈ.પછાતવર્ગ સ્ત્રી - 1,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_choryasi_tps_2020.pdf,block_member,| સામાન્ય સ્ત્રી .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_choryasi_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,2,1.0
+block_member_choryasi_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,0.95
+block_member_choryasi_tps_2020.pdf,block_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_choryasi_tps_2020.pdf,block_member,બિન અનામત સામાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_choryasi_tps_2020.pdf,block_member,બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_choryasi_tps_2020.pdf,block_member,સા.શૈપછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_choryasi_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_chotila_tps_2020.pdf,block_member,' અનુસૂચિત જાતિસ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_chotila_tps_2020.pdf,block_member,'સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_chotila_tps_2020.pdf,block_member,અનુસૃચિત આદિજાતિ *,અનુસૂચિત આદિજાતિ,ST,0,1,0.9333
+block_member_chotila_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,7,1.0
+block_member_chotila_tps_2020.pdf,block_member,સા-શૈ.પછાતવર્ગસ્ત્રી _,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_chotila_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_chotila_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,3,1.0
+block_member_chotila_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી ર,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_chotila_tps_2020.pdf,block_member,સામાન્યસ્ત્રી *_,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_chotila_tps_2020.pdf,block_member,સામાન્યસ્ત્રી _,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_daskroi_tps_2020.pdf,block_member,_ સા.શૈ.પછાતર્ગ *,સા.શૈ.પછાતવર્ગ,BC,0,1,0.9565
+block_member_daskroi_tps_2020.pdf,block_member,_સા.શૈ.પછાતર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,0.9714
+block_member_daskroi_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_daskroi_tps_2020.pdf,block_member,અનુસૂચિત જાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_daskroi_tps_2020.pdf,block_member,અનુસૂચિત જાતિ સ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_daskroi_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,5,1.0
+block_member_daskroi_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,4,1.0
+block_member_daskroi_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_daskroi_tps_2020.pdf,block_member,સા.શૈ.પછાતર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,0.9714
+block_member_daskroi_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_daskroi_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,7,1.0
+block_member_daskroi_tps_2020.pdf,block_member,સામાન્યસ્ત્રી.,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_daskroi_tps_2020.pdf,block_member,“ -સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_daskroi_tps_2020.pdf,block_member,“બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,* સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,1 ' સામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,| અનુસૂચિતઆદિજાતિસ્ત્રી |,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,| ચયુસૂચિતજાતિસ્સ્ી |,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,0.8
+block_member_gandhinagar_tps_2020.pdf,block_member,| થચામન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.8462
+block_member_gandhinagar_tps_2020.pdf,block_member,| બિનઅનામત સામાન્ય * ર],બિન અનામત સામાન્ય,NONE,0,1,0.9677
+block_member_gandhinagar_tps_2020.pdf,block_member,| ભબિનઅનામતસામાન્ય |,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+block_member_gandhinagar_tps_2020.pdf,block_member,| શસા.શૈ.પછાતવર્ગ : |,સા.શૈ.પછાતવર્ગ,BC,0,1,0.96
+block_member_gandhinagar_tps_2020.pdf,block_member,| શસામાન્યસ્્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.9231
+block_member_gandhinagar_tps_2020.pdf,block_member,| શામાન્યસ્જી |,સામાન્ય સ્ત્રી,NONE,1,1,0.75
+block_member_gandhinagar_tps_2020.pdf,block_member,| શામાન્યસ્સી |,સામાન્ય સ્ત્રી,NONE,1,1,0.75
+block_member_gandhinagar_tps_2020.pdf,block_member,| સા.શૈ.પછાતવર્ગસ્ત્રી |,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,| સામાન્ય સ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,| સામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,| “_ 'સામાન્ય સ્ત્રી ।,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,। બિનઅનામત સામાન્ય * 1,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,। બિનઅનામત સામાન્ય” ।,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,4,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય _ 1,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય _ |,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય ।,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ.,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_gandhinagar_tps_2020.pdf,block_member,ી બિનઅનામત સામાન્ય |,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+block_member_girgadhda_tps_2020.pdf,block_member,* _સામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,. સામાન્યસ્ત્રી][ |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,_- અનુસૂચિતજાતિસ્ત્રી |.,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,| બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ |,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય : |,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય |,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,બિનઅનામતસામાન્ય |,બિન અનામત સામાન્ય,NONE,0,3,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ .,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગસ્ત્રી |,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,સામાન્યસ્ત્રી .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,સામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,4,1.0
+block_member_girgadhda_tps_2020.pdf,block_member,સામાન્યસ્ત્રી”,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_jesar_tps_2020.pdf,block_member,_ અનુસૂચિત આદિજાતિસ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_jesar_tps_2020.pdf,block_member,અનુસૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_jesar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,3,1.0
+block_member_jesar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_jesar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય ક,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+block_member_jesar_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_jesar_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_jesar_tps_2020.pdf,block_member,સામાન્ય સ્ત્ર,સામાન્ય સ્ત્રી,NONE,1,1,0.96
+block_member_jesar_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_jesar_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી -,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_jesar_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી રી,સામાન્ય સ્ત્રી,NONE,1,1,0.9286
+block_member_jesar_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_jesar_tps_2020.pdf,block_member,“ બિનઅનામત સામાન્ય.,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_jesar_tps_2020.pdf,block_member,“ શસામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_kalol_tps_2020.pdf,block_member,. બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,. સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,: સામાન્યસ્ત્રી .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,_ સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,| બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,અનુસૂચિત જાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,અનુસૂચિત જાતિસ્ત્રી *,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,5,1.0
+block_member_kalol_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય -,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય |),બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ * _,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,સા.શૈે.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,0.96
+block_member_kalol_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_kalol_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી !,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_kalol_tps_2020.pdf,block_member,સામાન્યસ્ત્રી *,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_kalol_tps_2020.pdf,block_member,સામાન્યસ્ત્રી _,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_kamrej_tps_2020.pdf,block_member,' બિન અનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_kamrej_tps_2020.pdf,block_member,_ અનુસૂચિત આદિજાતિસ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_kamrej_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,2,1.0
+block_member_kamrej_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ .,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_kamrej_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_kamrej_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ —,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_kamrej_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિસ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_kamrej_tps_2020.pdf,block_member,અનુસૂચિત જાતિસ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_kamrej_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,4,1.0
+block_member_kamrej_tps_2020.pdf,block_member,સા.શૈ.પછા તવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_kamrej_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ *,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_kamrej_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_kamrej_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી *,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_kamrej_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_kodinar_tps_2020.pdf,block_member,_ અનુસૂચિતજાતિસ્ત્રી |.,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ |,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,અનુસૂચિત જાતિ સ્ત્રી ।,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,અનુસૂચિતજાતિ |,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,અનુસૂચિતજાતિ |.,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_kodinar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય |,બિન અનામત સામાન્ય,NONE,0,4,1.0
+block_member_kodinar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય |.,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય ।,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ |,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગસ્ત્રી |.,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,સામન્ય સ્ત્રી .,સામાન્ય સ્ત્રી,NONE,1,1,0.96
+block_member_kodinar_tps_2020.pdf,block_member,સામાન્ય સ્ત્ર,સામાન્ય સ્ત્રી,NONE,1,1,0.96
+block_member_kodinar_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી 1,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,સામાન્યસ્ત્રી . ।,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,સામાન્યસ્ત્રી [|,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_kodinar_tps_2020.pdf,block_member,સામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_kodinar_tps_2020.pdf,block_member,સામાન્યસ્ત્રીોા 3 ।,સામાન્ય સ્ત્રી,NONE,1,1,0.9286
+block_member_limkheda_tps_2020.pdf,block_member,. બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_limkheda_tps_2020.pdf,block_member,_અનુસૂચિતજાતિસ્ત્રી ર,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,0.973
+block_member_limkheda_tps_2020.pdf,block_member,_અનુસૂથિત આદિજાતિસ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,0.9524
+block_member_limkheda_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,2,1.0
+block_member_limkheda_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ .,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_limkheda_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ રા,અનુસૂચિત આદિજાતિ,ST,0,1,0.9375
+block_member_limkheda_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_limkheda_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી :,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_limkheda_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી _,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_limkheda_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિર,અનુસૂચિત આદિજાતિ,ST,0,3,0.9677
+block_member_limkheda_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિસ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,2,1.0
+block_member_limkheda_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિસ્ત્રી _,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_limkheda_tps_2020.pdf,block_member,અનુસૂચિત્ત આદિજાતિ -,અનુસૂચિત આદિજાતિ,ST,0,1,0.9375
+block_member_limkheda_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_limkheda_tps_2020.pdf,block_member,બિનઅનામત્ત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9375
+block_member_limkheda_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_limkheda_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ ૨,સા.શૈ.પછાતવર્ગ,BC,0,1,0.96
+block_member_limkheda_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_limkheda_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી : રા,સામાન્ય સ્ત્રી,NONE,1,1,0.9286
+block_member_limkheda_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,' બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,' સામાન્યસ્ત્રી ”-,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,. બિનઅનામત સામાન્ય..,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,. બિનઅનામતસામાન્યધ,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+block_member_mansa_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ :,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,અનુસૂચિતજાતિસ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_mansa_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય |,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,બિનઅનામતસામાન્ય ',બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,ભ્રિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,0.875
+block_member_mansa_tps_2020.pdf,block_member,મિનઅનામતંસામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9032
+block_member_mansa_tps_2020.pdf,block_member,શસામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,0.963
+block_member_mansa_tps_2020.pdf,block_member,સા.શૈ.પછાતર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,0.9714
+block_member_mansa_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ .,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,સામાનયસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.96
+block_member_mansa_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_mansa_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_mansa_tps_2020.pdf,block_member,સામાન્યસ્ત્રી [,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,સામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_mansa_tps_2020.pdf,block_member,સામા્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.96
+block_member_morabi_tps_2020.pdf,block_member,'સામાન્યસ્ત્રી 3,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_morabi_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ *,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_morabi_tps_2020.pdf,block_member,અનુસૂચિત જાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_morabi_tps_2020.pdf,block_member,અનુસૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_morabi_tps_2020.pdf,block_member,અનુસૂચિતજાતિસ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_morabi_tps_2020.pdf,block_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_morabi_tps_2020.pdf,block_member,બિન અનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_morabi_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_morabi_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_morabi_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય _,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_morabi_tps_2020.pdf,block_member,બિનઅનામતસામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_morabi_tps_2020.pdf,block_member,મિત્અનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,0.8387
+block_member_morabi_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_morabi_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_morabi_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગસ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_morabi_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_morabi_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,3,1.0
+block_member_morabi_tps_2020.pdf,block_member,સામાન્યસ્ત્રી 3૨,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_morabi_tps_2020.pdf,block_member,સામાન્યસ્ત્રી ૨,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_morabi_tps_2020.pdf,block_member,"સામાન્યસ્ત્રી, 3૨",સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_morabi_tps_2020.pdf,block_member,સામાન્યસ્ત્રીર,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_mundra_tps_2020.pdf,block_member,. સશામાન્યસ્ત્રી. ..,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_mundra_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_mundra_tps_2020.pdf,block_member,અનુસૂચિત જાતિ સ્ત્રી.,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_mundra_tps_2020.pdf,block_member,અનુસૂચિતજાતિ. *,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_mundra_tps_2020.pdf,block_member,અનુસૂચેત જાતિસ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,0.9444
+block_member_mundra_tps_2020.pdf,block_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,6,1.0
+block_member_mundra_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_mundra_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_mundra_tps_2020.pdf,block_member,સામાન્ય સ્ત્ર,સામાન્ય સ્ત્રી,NONE,1,1,0.96
+block_member_mundra_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_mundra_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી : ',સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_mundra_tps_2020.pdf,block_member,સામાન્યસ્ક્ી,સામાન્ય સ્ત્રી,NONE,1,1,0.88
+block_member_mundra_tps_2020.pdf,block_member,સ્ામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_navsari_tps_2020.pdf,block_member,_ અનુસૂચિત આદિજાતિ _,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_navsari_tps_2020.pdf,block_member,_ સા.શૈ.પછાતવર્ગસ્ત્રી *,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_navsari_tps_2020.pdf,block_member,અનસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,0.9655
+block_member_navsari_tps_2020.pdf,block_member,અનસૂચિત આદિજાતિ »,અનુસૂચિત આદિજાતિ,ST,0,1,0.9655
+block_member_navsari_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ ',અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_navsari_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,3,1.0
+block_member_navsari_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિસ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_navsari_tps_2020.pdf,block_member,અનુસૂચિતઆદિજાતિસ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_navsari_tps_2020.pdf,block_member,અનુસૂચિતજાતિ *,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_navsari_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_navsari_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_navsari_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_olpad_tps_2020.pdf,block_member,' અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_olpad_tps_2020.pdf,block_member,' સા.શૈ.પછાતવર્ગસ્ત્રી |,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_olpad_tps_2020.pdf,block_member,. બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_olpad_tps_2020.pdf,block_member,"_ -.બિનઅનામતસામાન્ય |,",બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_olpad_tps_2020.pdf,block_member,ay અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.8889
+block_member_olpad_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ |,અનુસૂચિત આદિજાતિ,ST,0,2,1.0
+block_member_olpad_tps_2020.pdf,block_member,"અનુસૂચિત આદિજાતિ |,",અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_olpad_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,2,1.0
+block_member_olpad_tps_2020.pdf,block_member,"અનુસૂચિતજાતિ |,",અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_olpad_tps_2020.pdf,block_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_olpad_tps_2020.pdf,block_member,બિન અનામત સામાન્ય :,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_olpad_tps_2020.pdf,block_member,બિન અનામત સામાન્ય |,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_olpad_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય |,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_olpad_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_olpad_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,3,1.0
+block_member_olpad_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી ી,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_olpad_tps_2020.pdf,block_member,સામાન્યત્રી |,સામાન્ય સ્ત્રી,NONE,1,2,0.9167
+block_member_olpad_tps_2020.pdf,block_member,સામાન્યસ્રી |,સામાન્ય સ્ત્રી,NONE,1,1,0.9167
+block_member_olpad_tps_2020.pdf,block_member,"સામાન્ય્રી |,",સામાન્ય સ્ત્રી,NONE,1,1,0.8696
+block_member_palsana_tps_2020.pdf,block_member,_ બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_palsana_tps_2020.pdf,block_member,_ બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_palsana_tps_2020.pdf,block_member,| સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_palsana_tps_2020.pdf,block_member,|! બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_palsana_tps_2020.pdf,block_member,અનુંસૂચિત જાતિ સ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,0.973
+block_member_palsana_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,2,1.0
+block_member_palsana_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_palsana_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી ',અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_palsana_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી -,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_palsana_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ. *,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_palsana_tps_2020.pdf,block_member,બિન અનામત સામાન્ય 1.,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_palsana_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_palsana_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_palsana_tps_2020.pdf,block_member,સા.શૈપછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_palsana_tps_2020.pdf,block_member,સામાન્યસત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.96
+block_member_palsana_tps_2020.pdf,block_member,સામાન્યસ્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.9167
+block_member_palsana_tps_2020.pdf,block_member,“ સામાન્ય.સ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_patan_tps_2020.pdf,block_member,' અનુસૂચિત જાતિસ્ત્રી |,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_patan_tps_2020.pdf,block_member,' સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_patan_tps_2020.pdf,block_member,| અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_patan_tps_2020.pdf,block_member,| સા.શૈ.પછાતવર્ગ |,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_patan_tps_2020.pdf,block_member,"| સા.શૈ.પછાતવર્ગસ્ત્રી |,",સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_patan_tps_2020.pdf,block_member,| સામા્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,0.96
+block_member_patan_tps_2020.pdf,block_member,અનુસૂચિત જાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_patan_tps_2020.pdf,block_member,બિનઅનામત :| સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_patan_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_patan_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય |,બિન અનામત સામાન્ય,NONE,0,3,1.0
+block_member_patan_tps_2020.pdf,block_member,બિનઅનામતસામાન્ય 1],બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_patan_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,3,1.0
+block_member_patan_tps_2020.pdf,block_member,સામાન્યસ્ત્રી :,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_patan_tps_2020.pdf,block_member,સામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_patan_tps_2020.pdf,block_member,સામાન્યસ્ત્રી ક,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_porbandar_tps_2020.pdf,block_member,' બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,' બિનઅનામત સામાન્‍ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,_ બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,અનુસૂચિતજાતિ ',અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,અનુસૂચિતજાતિસ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_porbandar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય ',બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય :,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય _,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,શા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,0.9167
+block_member_porbandar_tps_2020.pdf,block_member,સઔચામાગયસ્ત્રી',સામાન્ય સ્ત્રી,NONE,1,1,0.8148
+block_member_porbandar_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ સ્ત્રી *,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી.,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,3,1.0
+block_member_porbandar_tps_2020.pdf,block_member,સામાન્યસ્ત્રી ',સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_porbandar_tps_2020.pdf,block_member,“સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_rajkot_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ *,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_rajkot_tps_2020.pdf,block_member,અનુસૂચિતજાતિ *,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_rajkot_tps_2020.pdf,block_member,અનુસૂચિતજાતિસ્ત્રી *,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_rajkot_tps_2020.pdf,block_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,3,1.0
+block_member_rajkot_tps_2020.pdf,block_member,બિન અનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_rajkot_tps_2020.pdf,block_member,બિન અનામત સામાન્ય _,બિન અનામત સામાન્ય,NONE,0,3,1.0
+block_member_rajkot_tps_2020.pdf,block_member,બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_rajkot_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_rajkot_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,9,1.0
+block_member_rajkot_tps_2020.pdf,block_member,સ્ા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,0.96
+block_member_sanand_tps_2020.pdf,block_member,. સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_sanand_tps_2020.pdf,block_member,_સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_sanand_tps_2020.pdf,block_member,| સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_sanand_tps_2020.pdf,block_member,અનુસૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_sanand_tps_2020.pdf,block_member,અનુસૂચિતજાતિસ્ત્રી *,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_sanand_tps_2020.pdf,block_member,અનુસૂથિત આદિજાતિ સ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,0.9524
+block_member_sanand_tps_2020.pdf,block_member,અનુસૂથિતજાતિ ],અનુસૂચિત જાતિ,SC,0,1,0.9167
+block_member_sanand_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,4,1.0
+block_member_sanand_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_sanand_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય _,બિન અનામત સામાન્ય,NONE,0,3,1.0
+block_member_sanand_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ સ્ત્રી |,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_sanand_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_sanand_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી ી,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_sanand_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,4,1.0
+block_member_sanand_tps_2020.pdf,block_member,સામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,_ ચા.શૈ.પછાતવર્ગસ્ત્રી *,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,0.9444
+block_member_sarsvati_tps_2020.pdf,block_member,_ બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,_ સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,_-_ સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ *,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,અનુસૂચિત જાતિસ્ત્રી *,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,અનુસૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,6,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય.,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,4,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,સામાન્યસ્ત્રી' *,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_sarsvati_tps_2020.pdf,block_member,સામાન્યસ્ત્રી:,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_savkundala_tps_2020.pdf,block_member,' લિનસ્નામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,0.8387
+block_member_savkundala_tps_2020.pdf,block_member,' સા.શૈ.પછાતવર્ગ સ્ત્રી *,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_savkundala_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_savkundala_tps_2020.pdf,block_member,અનુસૂચિત જાતિ સ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_savkundala_tps_2020.pdf,block_member,અનુસૂચિતજાતિ *,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_savkundala_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,5,1.0
+block_member_savkundala_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_savkundala_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય _,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_savkundala_tps_2020.pdf,block_member,શસામાન્યસ્ત્રી *,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_savkundala_tps_2020.pdf,block_member,સચસામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.9286
+block_member_savkundala_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ *,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_savkundala_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,3,1.0
+block_member_savkundala_tps_2020.pdf,block_member,સામાન્યસ્ત્રી *,સામાન્ય સ્ત્રી,NONE,1,3,1.0
+block_member_savkundala_tps_2020.pdf,block_member,"સામાન્યસ્ત્રી, ”",સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_singavad_tps_2020.pdf,block_member,'સા.શૈ.પછાતવર્ગસ્ત્રી ર5,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,0.973
+block_member_singavad_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,3,1.0
+block_member_singavad_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ *,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_singavad_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્ર,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,0.9756
+block_member_singavad_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,3,1.0
+block_member_singavad_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી.,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_singavad_tps_2020.pdf,block_member,અનુસૂચિત આદિજાત્તે સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,0.9091
+block_member_singavad_tps_2020.pdf,block_member,અનુસૂચિત આદિજારતે,અનુસૂચિત આદિજાતિ,ST,0,1,0.9032
+block_member_singavad_tps_2020.pdf,block_member,અનુસૂચિત જાતિ * ર,અનુસૂચિત જાતિ,SC,0,1,0.96
+block_member_singavad_tps_2020.pdf,block_member,અનુસૂચિત_ આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_singavad_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_singavad_tps_2020.pdf,block_member,સા.શે.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,0.9167
+block_member_singavad_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_singavad_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી . ચ.,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_una_tps_2020.pdf,block_member,. * બિનઅનામત સામાન્ય . ',બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_una_tps_2020.pdf,block_member,_ અનુસૂચિત આદિજાતિ સ્ત્રી.,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_una_tps_2020.pdf,block_member,_ બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_una_tps_2020.pdf,block_member,__ સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_una_tps_2020.pdf,block_member,_બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_una_tps_2020.pdf,block_member,| બિનઅનામત સામાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_una_tps_2020.pdf,block_member,અનુસૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_una_tps_2020.pdf,block_member,અનુસૂચિતજાતિ સ્ત્રી *,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_una_tps_2020.pdf,block_member,બિનઅનામત . ' સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_una_tps_2020.pdf,block_member,બિનઅનામત _ સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_una_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_una_tps_2020.pdf,block_member,બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_una_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,2,1.0
+block_member_una_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_una_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી -,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_una_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,5,1.0
+block_member_una_tps_2020.pdf,block_member,સામાન્યસ્ત્રી *,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_una_tps_2020.pdf,block_member,સામાન્યસ્ત્રી . .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_una_tps_2020.pdf,block_member,“*“ સામાન્યસ્ત્રી .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_vadodara_tps_2020.pdf,block_member,* .અનુસૂયિત જાતિસ્ત્રી .,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,0.9444
+block_member_vadodara_tps_2020.pdf,block_member,અનુઝ્ઞૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,0.9091
+block_member_vadodara_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_vadodara_tps_2020.pdf,block_member,અનુસૂચિતજાતિ .,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_vadodara_tps_2020.pdf,block_member,અનુસૂયિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,0.9333
+block_member_vadodara_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,5,1.0
+block_member_vadodara_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય |,બિન અનામત સામાન્ય,NONE,0,2,1.0
+block_member_vadodara_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય ।,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_vadodara_tps_2020.pdf,block_member,બિનઅનામત સામાન્‍ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_vadodara_tps_2020.pdf,block_member,બેનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+block_member_vadodara_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_vadodara_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગસ્ત્રી *,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_vadodara_tps_2020.pdf,block_member,સામાન્ય સ્ત્ર,સામાન્ય સ્ત્રી,NONE,1,1,0.96
+block_member_vadodara_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,6,1.0
+block_member_vadodara_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી ર,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_vadodara_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_vadodara_tps_2020.pdf,block_member,સાશૈપછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_vadodara_tps_2020.pdf,block_member,ી સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_vagara_tps_2020.pdf,block_member,' ' અનુસૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+block_member_vagara_tps_2020.pdf,block_member,- બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_vagara_tps_2020.pdf,block_member,. [ભિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+block_member_vagara_tps_2020.pdf,block_member,.ઃ સામાન્યસ્ત્રી*,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+block_member_vagara_tps_2020.pdf,block_member,: સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_vagara_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ |,અનુસૂચિત આદિજાતિ,ST,0,2,1.0
+block_member_vagara_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_vagara_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિ સ્ત્રી _,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_vagara_tps_2020.pdf,block_member,અનુસૂચિત આદિજાતિસ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+block_member_vagara_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_vagara_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_vagara_tps_2020.pdf,block_member,બિનઅનામત સામાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_vagara_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ ',સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_vagara_tps_2020.pdf,block_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_vagara_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_vagara_tps_2020.pdf,block_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_vakaner_tps_2020.pdf,block_member,| _ સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_vakaner_tps_2020.pdf,block_member,| અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+block_member_vakaner_tps_2020.pdf,block_member,| અનુસૂચિત જાતિસ્ત્રી *,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+block_member_vakaner_tps_2020.pdf,block_member,| બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_vakaner_tps_2020.pdf,block_member,| ભિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+block_member_vakaner_tps_2020.pdf,block_member,| ભિન અનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+block_member_vakaner_tps_2020.pdf,block_member,| ભિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+block_member_vakaner_tps_2020.pdf,block_member,| સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+block_member_vakaner_tps_2020.pdf,block_member,| સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+block_member_vakaner_tps_2020.pdf,block_member,| સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+block_member_vakaner_tps_2020.pdf,block_member,બિન અનામંત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+block_member_vakaner_tps_2020.pdf,block_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,4,1.0
+block_member_vakaner_tps_2020.pdf,block_member,બિન અનામત સામાન્ય _,બિન અનામત સામાન્ય,NONE,0,1,1.0
+block_member_vakaner_tps_2020.pdf,block_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,5,1.0
+block_member_vakaner_tps_2020.pdf,block_member,સામાન્યસ્ત્રી ',સામાન્ય સ્ત્રી,NONE,1,1,1.0
+block_member_vakaner_tps_2020.pdf,block_member,સામાન્યસ્ત્રી',સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિસ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,અનુસૂચિત જાતિ,અનુસૂચિત જાતિ,SC,0,2,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,અનુસૂચિતજાતિસ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,2,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,3,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય _,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,4,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,3,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,ભનસનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.8276
+zp_member_ahmedabad_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,2,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી”,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,6,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી :,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી ],સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી »,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_ahmedabad_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી ર૨,સામાન્ય સ્ત્રી,NONE,1,1,0.9286
+zp_member_ahmedabad_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી ૨,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_ahmedabad_dp_2020.pdf,zp_member,સામાન્યસ્ત્રીર સ,સામાન્ય સ્ત્રી,NONE,1,1,0.9286
+zp_member_amreli_dp_2020.pdf,zp_member,' સા.શૈ.પછાતવર્ગસ્ત્રી -,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,* અનુસૂચિતજાતિસ્ત્રી ',અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,* સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,. સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,.“ _“. સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,Ra અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.8889
+zp_member_amreli_dp_2020.pdf,zp_member,_ બિનઅનામતસામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,_ મિનઅનામતસામાન્ય _,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+zp_member_amreli_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ .,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,અનુસૂચિત જાતિ ર,અનુસૂચિત જાતિ,SC,0,1,0.96
+zp_member_amreli_dp_2020.pdf,zp_member,અનુસૂચિતજાતિસ્ત્રી |,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,ન સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_amreli_dp_2020.pdf,zp_member,બિન . અનામત સામાન્ય . |,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,4,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય.,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,બિનઅનામતસામાન્યં,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+zp_member_amreli_dp_2020.pdf,zp_member,બિનઅનામતસામાન્યધ,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+zp_member_amreli_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,4,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી _,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,સામાન્યસ્ત્રીર,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_amreli_dp_2020.pdf,zp_member,સાશૈ.પછાતવર્ગસ્ત્રી *,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,ી સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_amreli_dp_2020.pdf,zp_member,“ બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,“ સા.શૈ.પછાતવર્ગ .,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_amreli_dp_2020.pdf,zp_member,“બિનઅનામતસામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,_સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,3,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ |,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી _,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિસ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,2,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિસ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિસ્ત્રી _,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,અનુસૂચિતઆદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,અનુસૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,ન્સનુસચિત આદિજાતિ સ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,0.8837
+zp_member_bharuch_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,6,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય ક,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+zp_member_bharuch_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય ',બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,સમાન્યસ્ત્રી સ,સામાન્ય સ્ત્રી,NONE,1,1,0.9231
+zp_member_bharuch_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગસ્ત્રી _,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી . ',સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_bharuch_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી :₹ ર,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_bharuch_dp_2020.pdf,zp_member,“અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,' સામાન્યસ્ત્રી ી,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_bhavnagar_dp_2020.pdf,zp_member,-% અનૃપૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,0.8333
+zp_member_bhavnagar_dp_2020.pdf,zp_member,. ઊઉલેન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.8125
+zp_member_bhavnagar_dp_2020.pdf,zp_member,. સામાન્યસ્ટ્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.9231
+zp_member_bhavnagar_dp_2020.pdf,zp_member,[બિન અનામત સામાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,_ બિન અનક્મત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9032
+zp_member_bhavnagar_dp_2020.pdf,zp_member,_ સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,| બિનઅનામતસામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,અનુસૂષિતજાતિસ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,0.9444
+zp_member_bhavnagar_dp_2020.pdf,zp_member,બિન અનામત ચામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+zp_member_bhavnagar_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,5,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,3,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,બિન અનામત-સદમાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+zp_member_bhavnagar_dp_2020.pdf,zp_member,બિન અનામત્ત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9375
+zp_member_bhavnagar_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ %,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી *,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,2,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,સામાન્ય સ્તી,સામાન્ય સ્ત્રી,NONE,1,1,0.9167
+zp_member_bhavnagar_dp_2020.pdf,zp_member,સામાન્ય સ્ત્ર રી,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_bhavnagar_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,5,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી _,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,4,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી .',સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી: *,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_bhavnagar_dp_2020.pdf,zp_member,“ બઉબિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9375
+zp_member_dahod_dp_2020.pdf,zp_member,_ અનુસૂચિત આદિજાતિસ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,2,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,_સા.શૈ.પછાતવર્ગ .,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,14,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ *,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ *_,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ .,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ 5,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,2,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,2,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી . *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી _,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિસ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,2,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિસ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,10,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાત્તિ _,અનુસૂચિત આદિજાતિ,ST,0,1,0.9375
+zp_member_dahod_dp_2020.pdf,zp_member,અનુસૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,સા.શે.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,0.9167
+zp_member_dahod_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,સા.શૈ:પછાતવર્ગ સ્ત્રી -,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી _,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_dahod_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_gandhinagar_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિઃ,અનુસૂચિત આદિજાતિ,ST,0,1,0.9677
+zp_member_gandhinagar_dp_2020.pdf,zp_member,અનુસૂચિત જાતિ સ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_gandhinagar_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,7,1.0
+zp_member_gandhinagar_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,2,1.0
+zp_member_gandhinagar_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_gandhinagar_dp_2020.pdf,zp_member,બિનઅનામત સામાન્‍ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+zp_member_gandhinagar_dp_2020.pdf,zp_member,સા.શૈ.પછા તવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_gandhinagar_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_gandhinagar_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_gandhinagar_dp_2020.pdf,zp_member,સામાન્ય ર,સામાન્ય સ્ત્રી,NONE,1,1,0.7619
+zp_member_gandhinagar_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,8,1.0
+zp_member_gandhinagar_dp_2020.pdf,zp_member,સામાન્ય સ્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.9167
+zp_member_gandhinagar_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,_બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,અનુસૂચિત જાતિ,અનુસૂચિત જાતિ,SC,0,2,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,અનુસૂચિતજાતિસ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય _,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય.,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,બિનઅનામતસામાન્ક,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+zp_member_girsomnath_dp_2020.pdf,zp_member,બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,4,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી »,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,સામાન્ય સ્ત્ર,સામાન્ય સ્ત્રી,NONE,1,1,0.96
+zp_member_girsomnath_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,4,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી 0,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી ],સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી *,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_girsomnath_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી સ,સામાન્ય સ્ત્રી,NONE,1,2,0.963
+zp_member_kutchh_dp_2020.pdf,zp_member,. સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,_ બિન અનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,_ બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,અનુસૂચિત જાતિ,અનુસૂચિત જાતિ,SC,0,3,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,અનુસૂચિત જાતિ સ્ત્રી _,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,અનુસૂચિત જાતિસ્ત્રી *,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,અનુસૂચિત-આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,6,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય :,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,બિન અનામત સામાન્‍ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,બિન અનામત. સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય :,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,શસા.શૈપછાતવર્ગસ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,0.973
+zp_member_kutchh_dp_2020.pdf,zp_member,સા.શૈ.પછાત વર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,સામાનન્‍્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.9286
+zp_member_kutchh_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,5,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી ],સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી ી,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_kutchh_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રીઃ,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_kutchh_dp_2020.pdf,zp_member,સામાન્ય સ્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.9167
+zp_member_kutchh_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,3,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_kutchh_dp_2020.pdf,zp_member,"સાશૈ,પછાતવર્ગસ્ત્રી *",સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,. અનુસૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,1 [બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,1 બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,| ગશઔામાન્યસ્ત્રીર સ,સામાન્ય સ્ત્રી,NONE,1,1,0.8
+zp_member_morabi_dp_2020.pdf,zp_member,| સા.શૈ.પછાતવર્ગસ્ત્રી *,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,| સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,| સામાન્યસ્ત્રી _,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,| સ્ામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_morabi_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,અનુસૂચિતજાતિસ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,બિનઅત્તામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.875
+zp_member_morabi_dp_2020.pdf,zp_member,બિનઅનામત - સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,5,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,4,1.0
+zp_member_morabi_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી. ન,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_morabi_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,_ અનુસૂચિત આદિજાતિસ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,અનુસૂચિત 'આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,3,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ &,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ *,અનુસૂચિત આદિજાતિ,ST,0,5,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,4,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી *,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,અનુસૂચિત આદેજાતિઃસ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,0.9302
+zp_member_navsari_dp_2020.pdf,zp_member,અનુસૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,અનુસૂયિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,0.9524
+zp_member_navsari_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,2,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,બિનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,સધ્માન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.8889
+zp_member_navsari_dp_2020.pdf,zp_member,સા.શૈ.પછાત વર્ગ .,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,સા.શૈ.પછાત વર્ગસ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,સા.શૈ.પછાત વર્ગસ્ત્રી .,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,2,1.0
+zp_member_navsari_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રીઃ,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_patan_dp_2020.pdf,zp_member,' બિનઅનામત સામાન્ય ર,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+zp_member_patan_dp_2020.pdf,zp_member,' સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_patan_dp_2020.pdf,zp_member,* . બિનઅનામત સામાન્ય ' ર,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+zp_member_patan_dp_2020.pdf,zp_member,. સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_patan_dp_2020.pdf,zp_member,1 સામાન્ય સ્ત્રી ર,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_patan_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ . |,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_patan_dp_2020.pdf,zp_member,અનુસૂચિતજાતિર,અનુસૂચિત જાતિ,SC,0,1,0.96
+zp_member_patan_dp_2020.pdf,zp_member,અનુસૂચિતજાતિસ્ત્રી [॥,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_patan_dp_2020.pdf,zp_member,અનુસૂચિતજાતિસ્ત્રી ર,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,0.973
+zp_member_patan_dp_2020.pdf,zp_member,ન શામાન્યસત્રીર 5,સામાન્ય સ્ત્રી,NONE,1,1,0.8148
+zp_member_patan_dp_2020.pdf,zp_member,બિનઅંનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+zp_member_patan_dp_2020.pdf,zp_member,બિનઅનામત સામાંન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+zp_member_patan_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,5,1.0
+zp_member_patan_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય _,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_patan_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય ર૨,બિન અનામત સામાન્ય,NONE,0,1,0.9375
+zp_member_patan_dp_2020.pdf,zp_member,બ્વિનઅનામતસામા્્યય ૨.,બિન અનામત સામાન્ય,NONE,0,1,0.8235
+zp_member_patan_dp_2020.pdf,zp_member,રી બિનઅનામતસામાન્ય ર,બિન અનામત સામાન્ય,NONE,0,1,0.9091
+zp_member_patan_dp_2020.pdf,zp_member,રી સામાન્ય સ્ત્રી રિ,સામાન્ય સ્ત્રી,NONE,1,1,0.8667
+zp_member_patan_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_patan_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_patan_dp_2020.pdf,zp_member,સામાન્ધસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.9231
+zp_member_patan_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,4,1.0
+zp_member_patan_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી ર,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_patan_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_patan_dp_2020.pdf,zp_member,“ સામાન્યસ્ત્રી ર,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_porbandar_dp_2020.pdf,zp_member,_ બિન અનામત સામાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_porbandar_dp_2020.pdf,zp_member,_અનુસૂચિતજાતિસ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_porbandar_dp_2020.pdf,zp_member,_ચનુસ્થિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,0.75
+zp_member_porbandar_dp_2020.pdf,zp_member,| બિન અનામત સામાન્‍ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_porbandar_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્ર,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,0.9756
+zp_member_porbandar_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,4,1.0
+zp_member_porbandar_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય .,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_porbandar_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_porbandar_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_porbandar_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,5,1.0
+zp_member_porbandar_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી.,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,* સા.શૈ.પછાતવર્ગ .,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,. : સામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,1 ' અનુસૂચિત આદિજાતિ ૨,અનુસૂચિત આદિજાતિ,ST,0,1,0.9677
+zp_member_rajkot_dp_2020.pdf,zp_member,; સામાન્યસ્ત્રી [|,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,[| _ બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,| 3 સામાન્યસ્ત્રી [|,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,| અનુસૂચિત જાતિ સ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,| ગમગનુસૂષિતજાતિર,અનુસૂચિત જાતિ,SC,0,1,0.7407
+zp_member_rajkot_dp_2020.pdf,zp_member,| ગશામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,0.8889
+zp_member_rajkot_dp_2020.pdf,zp_member,| ગસામાન્યસ્ત્રી ||,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_rajkot_dp_2020.pdf,zp_member,| બિનઅનામત સામાન્ય ી |,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+zp_member_rajkot_dp_2020.pdf,zp_member,| બ્રિનઅનામતસામાન્ન |,બિન અનામત સામાન્ય,NONE,0,1,0.875
+zp_member_rajkot_dp_2020.pdf,zp_member,| મઅનુસૂચિતજાતિસ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,0.973
+zp_member_rajkot_dp_2020.pdf,zp_member,| મબિનઅનામતસામાન્્ય |,બિન અનામત સામાન્ય,NONE,0,1,0.9375
+zp_member_rajkot_dp_2020.pdf,zp_member,| મિનઅનામતસામાન્ય |,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+zp_member_rajkot_dp_2020.pdf,zp_member,| લઉઊૈનઅનામતસામા્ય |,બિન અનામત સામાન્ય,NONE,0,1,0.7742
+zp_member_rajkot_dp_2020.pdf,zp_member,| શ્ા્ામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,0.8276
+zp_member_rajkot_dp_2020.pdf,zp_member,| સામાન્યસ્ત્રી ||,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,|; ભબિેનઅનામતસામાન્્ય |.,બિન અનામત સામાન્ય,NONE,0,1,0.9091
+zp_member_rajkot_dp_2020.pdf,zp_member,|; સામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,|] પ'બિનઅનામતસામાન્્ય |,બિન અનામત સામાન્ય,NONE,0,1,0.9375
+zp_member_rajkot_dp_2020.pdf,zp_member,। . બિનઅનામત સામાન્ય ।,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,। | અનુસૂચિત જાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય [||,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય |,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,બિનઅનામત સામાન્‍ય |,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,સા.શૈ-પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી .,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,4,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_rajkot_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી .,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,' અનુસૂચિત આદિજાતિ 1,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,' બિન અનામત સામાન્‍ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,' સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,' સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,---- બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,----- ' સા.શૈ-પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,-------------- સામાન્ય સ્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.9167
+zp_member_surat_dp_2020.pdf,zp_member,[ અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,| અનુસૂચિત આદિજાતિ |,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,| અનુસૂચિત જાતિ સ્ત્રી.,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,| થચઅનુસૂચિત આદિજાતિ |,અનુસૂચિત આદિજાતિ,ST,0,1,0.9375
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂંચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,0.9767
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ * |,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ * ણ,અનુસૂચિત આદિજાતિ,ST,0,1,0.9677
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ _,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ |,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,2,1.0
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી * |,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી |,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી » |,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ “,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ. 1,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિસ્ત્રી 1,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિસ્ત્રી [|,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,બિન અના મત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,3,1.0
+zp_member_surat_dp_2020.pdf,zp_member,સદશૈ.પછાતવર્ગ સ્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,0.8824
+zp_member_surat_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_surat_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,3,1.0
+zp_member_surat_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_surendranagar_dp_2020.pdf,zp_member,અનુસુચિત જાતિ સ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,0.9444
+zp_member_surendranagar_dp_2020.pdf,zp_member,"અનુસૂચિત આદિજાતિ સ્ત્રી, *",અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_surendranagar_dp_2020.pdf,zp_member,અનુસૂચિત જાતિ _,અનુસૂચિત જાતિ,SC,0,1,1.0
+zp_member_surendranagar_dp_2020.pdf,zp_member,અનુસૂચિત જાતિ સ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_surendranagar_dp_2020.pdf,zp_member,અનુસૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+zp_member_surendranagar_dp_2020.pdf,zp_member,બીન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,5,0.9333
+zp_member_surendranagar_dp_2020.pdf,zp_member,બીન અનામતસામાન્ય _,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+zp_member_surendranagar_dp_2020.pdf,zp_member,બીનઅનામત સામાન્ય :,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+zp_member_surendranagar_dp_2020.pdf,zp_member,બીનઅનામતસામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+zp_member_surendranagar_dp_2020.pdf,zp_member,બીનઅનામતસામાન્ય *,બિન અનામત સામાન્ય,NONE,0,4,0.9333
+zp_member_surendranagar_dp_2020.pdf,zp_member,બીનઅનામતસામાન્ય _,બિન અનામત સામાન્ય,NONE,0,1,0.9333
+zp_member_surendranagar_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ,સા.શૈ.પછાતવર્ગ,BC,0,2,1.0
+zp_member_surendranagar_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_surendranagar_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_surendranagar_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,10,1.0
+zp_member_surendranagar_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી _,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_surendranagar_dp_2020.pdf,zp_member,સામાન્યસ્ત્રીર,સામાન્ય સ્ત્રી,NONE,1,1,0.963
+zp_member_vadodara_dp_2020.pdf,zp_member,' અનુસૂચિત આદિજાતિ 1,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,' અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,. સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,_ સામાન્યસ્ત્રી |,સામાન્ય સ્ત્રી,NONE,1,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ *,અનુસૂચિત આદિજાતિ,ST,0,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,અનુસૂચિત આદિજાતિ સ્ત્રી,અનુસૂચિત આદિજાતિ સ્ત્રી,ST,1,2,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,અનુસૂચિત જાતિ સ્ત્રી,અનુસૂચિત જાતિ સ્ત્રી,SC,1,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,અનુસૂચિતજાતિ,અનુસૂચિત જાતિ,SC,0,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,બિન અનાંમત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,1,0.9677
+zp_member_vadodara_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય,બિન અનામત સામાન્ય,NONE,0,5,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,2,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,બિન અનામત સામાન્ય |,બિન અનામત સામાન્ય,NONE,0,2,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય *,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,બિનઅનામત સામાન્ય :,બિન અનામત સામાન્ય,NONE,0,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ -,સા.શૈ.પછાતવર્ગ,BC,0,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,સા.શૈ.પછાતવર્ગ સ્ત્રી _,સા.શૈ.પછાતવર્ગ સ્ત્રી,BC,1,1,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,સામાન્ય સ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,4,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,સામાન્યસ્ત્રી,સામાન્ય સ્ત્રી,NONE,1,3,1.0
+zp_member_vadodara_dp_2020.pdf,zp_member,સામાન્યસ્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.9167
+zp_member_vadodara_dp_2020.pdf,zp_member,સામાન્ય્રી,સામાન્ય સ્ત્રી,NONE,1,1,0.8696

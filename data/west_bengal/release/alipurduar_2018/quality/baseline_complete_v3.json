@@ -1,0 +1,73 @@
+{
+  "pages_seen": 176,
+  "pages_expected": 176,
+  "gp_detail_pages_expected": 112,
+  "ocr_version": 3,
+  "page_status": {
+    "not_gp_detail": 64,
+    "parsed": 104,
+    "gp_rows_unresolved": 1,
+    "gp_layout_unresolved": 7
+  },
+  "seats": 875,
+  "candidates": 2445,
+  "by_block": {
+    "Alipurduar-I": 139,
+    "Alipurduar-II": 152,
+    "Falakata": 190,
+    "Kalchini": 169,
+    "Kumargram": 95,
+    "Madarihat-Birpara": 130
+  },
+  "review_status": {
+    "needs_review": 861,
+    "automated_checks_passed": 14
+  },
+  "flags": {
+    "candidate_cells:review": 660,
+    "votes:accounting_mismatch": 192,
+    "winner_name:readers_disagree": 306,
+    "seat_id:low_ocr_confidence": 374,
+    "seat_id:readers_disagree": 492,
+    "votes_polled:unread_numeric": 144,
+    "votes_rejected:single_reader": 51,
+    "gram_panchayat:missing_cell": 81,
+    "winner:party_mismatch": 48,
+    "winner_party:readers_disagree": 163,
+    "reservation_raw:readers_disagree": 234,
+    "votes_polled:single_reader": 58,
+    "votes_rejected:readers_disagree": 49,
+    "electors:single_reader": 55,
+    "layout:missing_leading_columns": 48,
+    "winner:not_uniquely_matched": 133,
+    "winner_name:low_ocr_confidence": 38,
+    "gram_panchayat:readers_disagree": 297,
+    "votes_rejected:unread_numeric": 144,
+    "winner_party:low_ocr_confidence": 39,
+    "gram_panchayat:low_ocr_confidence": 150,
+    "votes_polled:readers_disagree": 42,
+    "electors:readers_disagree": 28,
+    "reservation:unresolved": 232,
+    "reservation_raw:low_ocr_confidence": 85,
+    "seat_key:duplicate": 14,
+    "electors:unread_numeric": 160,
+    "winner:below_maximum": 4,
+    "votes:impossible_range": 1,
+    "reservation_raw:missing_cell": 4,
+    "electors:missing_cell": 8,
+    "votes_polled:missing_cell": 2,
+    "votes_rejected:missing_cell": 2,
+    "winner_party:missing_cell": 3,
+    "winner_name:missing_cell": 1
+  },
+  "quality_claim": "Review-stage extraction; passing automated checks is not verified accuracy.",
+  "heldout_metrics": {
+    "expected_rows": 23,
+    "uniquely_matched_rows": 23,
+    "fields_checked": 168,
+    "fields_correct": 159,
+    "candidate_votes_expected": 65,
+    "candidate_rows_observed": 65,
+    "candidate_votes_correct_by_position": 63
+  }
+}

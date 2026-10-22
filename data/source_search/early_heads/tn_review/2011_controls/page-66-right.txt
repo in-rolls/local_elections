@@ -1,0 +1,34 @@
+1 2 3
+PALACODE PANCHAYAT UNION
+1 Ganapathy SC (Women)
+2 Chikkathoranabettam SC (General)
+3 Koravandahalli SC (General)
+4 Selliyampatti General (Women)
+5 Padi General (Women)
+6 M.Chettihalli General (Women)
+7 Panchapalli General (Women)
+8 A.Mallapuram General (Women)
+9 Nallur General (Women)
+10 Bevuhalli General (Women)
+11 P.Chettihalli General (Women)
+12 Gudlanahalli General (Women)
+13 Booganahalli General (Women)
+14 Dhandukaranahalli General
+15 Athimutlu General
+16 Samanur General
+17 Sudanoor General
+18 Kolasanahalli General
+19 Belamaranahalli General
+20 Gendenahalli General
+21 Gummanur General
+22 Karagathahalli General
+23 P.Kollahalli General
+24 Sekkodi General
+25 Erranahalli General
+26 Kammalapatti General
+27 Jerthalav General
+28 Kattanahalli General
+29 Belarahalli General
+30 Pulikarai General
+31 Chikkamarandahalli General
+32 Modhukulahalli General

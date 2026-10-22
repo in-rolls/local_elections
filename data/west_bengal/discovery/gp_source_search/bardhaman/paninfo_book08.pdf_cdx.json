@@ -1,0 +1,29 @@
+[
+  [
+    "urlkey",
+    "timestamp",
+    "original",
+    "mimetype",
+    "statuscode",
+    "digest",
+    "length"
+  ],
+  [
+    "in,gov,bardhaman)/election/paninfo_book08.pdf",
+    "20110721161934",
+    "http://www.bardhaman.gov.in/election/paninfo_book08.pdf",
+    "application/pdf",
+    "200",
+    "7WL3WRMKNYTX744JHQVKJNEQA3ZCVA3N",
+    "3722661"
+  ],
+  [
+    "in,gov,bardhaman)/election/paninfo_book08.pdf",
+    "20110722093353",
+    "http://bardhaman.gov.in/election/paninfo_book08.pdf",
+    "application/pdf",
+    "200",
+    "RHUIIFPG73ZNZQ5ZCGZUS3ND2YPZ7OIO",
+    "8341838"
+  ]
+]

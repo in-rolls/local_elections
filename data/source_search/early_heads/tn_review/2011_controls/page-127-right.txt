@@ -1,0 +1,60 @@
+1 2 3
+Nainarkovil Panchayat Union Contd.
+20 Thiyagavanseri General
+21 Thethangal General
+22 Gangaikondan General
+23 S.V.Mangalam General
+24 Kiliyur General
+25 Vagavayal General
+26 Kozhuvoor General
+27 Nagaramangalam General
+28 Keelakavanoor General
+29 A.Panaiyur General
+General
+30 Thavalaikulam
+31 Pagaivendri General
+32 Nagaram General
+33 Kottakudi General
+34 Thalayadikottai General
+35 Manakkudi General
+36 Sirakikottai General
+37 P.Kodikulam General
+Mudukulathur Panchayat Union
+1 Theriruveli SC (Women)
+2 Ulaiyur SC (Women)
+3 Kumarakurichi SC (Women)
+4 Athikulam SC (Women)
+5 Vengalakuruchi SC (Women)
+6 Athanakurichi SC (General)
+7 Sembonkudi SC (General)
+8 Puluthikkulam SC (General)
+9 Kolundurai SC (General)
+10 Kathakulam SC (General)
+11 Pooseri SC (General)
+12 Sellur SC (General)
+13 Villakkanendal SC (General)
+14 Pirabakklur SC (General)
+15 Palankulam General (Women)
+16 Alanganoor General (Women)
+17 Keelakulam General (Women)
+18 Mahindi General (Women)
+19 Ponnakkaneri General (Women)
+20 Nallur General (Women)
+21 Manalur General (Women)
+22 Keelathuval General (Women)
+23 Annaiseri General (Women)
+24 Valanadu General (Women)
+25 Karumal General (Women)
+26 Periyaelai General
+27 Arapothu General
+28 Siruthalai General
+29 Melakodumalur General
+30 Keelakodumalur General
+31 Athankotthankudi General
+32 Keelakanchirankulam General
+33 Vilankulathur General
+34 Puliyankudi General
+35 Kakkoor General
+36 Sampakulam General
+37 Posukkudi General
+38 Keeranoor General

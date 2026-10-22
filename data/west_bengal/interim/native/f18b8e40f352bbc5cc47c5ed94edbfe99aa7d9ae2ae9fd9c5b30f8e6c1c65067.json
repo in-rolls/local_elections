@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "sha256": "f18b8e40f352bbc5cc47c5ed94edbfe99aa7d9ae2ae9fd9c5b30f8e6c1c65067",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.2,
+      "height": 841.92,
+      "text": "r\nc-1,\np v+)\nI\nc o\nv\nil\nl..|\nK2\no\nt\n:]\n)\nL. FT\n*8\nz\nF\n(n\nai;--\no\niDo\nFT\nY\nA.\\\nz=. z ? -\n- - o\n3 < ^o F-F\nO ! l . 1 s)e o 'a .N+ A P '\no\n5\nX cn\n.o.R\n\"1A:1.l\n+q -f\n,i\nrJ talt\n(D\np,\n(n ,7 !-t\nF\n(D\n@\n@ -\n6\no\nCtsqt\no\n,-\nrl o o\n.)\n(+\n\\ rn9, > -.\n- 4+ A v\n!t\n.do\na aJ\nN)\nz\n-\n?/\n€\n-'l\n3 < ^@\nr!DelrG\ng\n6_\noX(,\n5 0(P\n.vP\n@\nrl\n?z\nts\n00\no-\n(D\nI\nN\nrl\n-o\n'/l2 >\na:tJ '-t\nia@ U)\nz\n-.4\nE,5 oQ\neBe o !.,-,- Nx;i.r^\nJ .Vv'P ::\na",
+      "tables": [],
+      "images": 10,
+      "characters": 294
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 1
+}

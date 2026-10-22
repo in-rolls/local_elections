@@ -1,0 +1,247 @@
+{
+  "version": 1,
+  "sha256": "266f366123f471b5e70ebe41f4ab1d585ae5c0150f9f202130101b4c3f0efe6a",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "srebmem\nfo rebmun\nlatoT\nsrebmem\nsetsaC\ndeludehS\nsrebmem\nsrebirT\ndeludehcS\nsrbmem\nnemoW\n1 (2a) (2b) (2c) (2d) 3 4 5 6\nBilkumari / I\nMouza- Bilkumari , J.L. No. 33\na) Bilkumari Coloneypara b) Bilkumari Masjidpara c) 1 - 1 Women\n17 5 Nil 6 Bilkumari Schoolpara\nAssembly Part No 71/ 12\nBilkumari / II\nMouza- Bilkumari , J.L. No. 33\n2 - -\na) Bilkumari Paschimpara b) Bilkumarai Dargatalapara\nAssembly Part No 71/ 13\nBilkumari / III\nMouza- Bilkumari , J.L. No. 33\n3 - -\na) Bilkumari Uttarpara b) Bilkumari Purbapara\nAssembly Part No 71/ 14\nBilkumari / IV\n4 4 SC 4 SC(W)\nMouza- Parkula, J.L.No. 35\na) Sambhunagar Purbapara b) Santinagar\nc) Sambhunagar Paschimpara\n5 - 5 Women\nAssembly Part No 71/ 15\nBilkumari / V\nMouza- Parkula, J.L.No. 35 6 - -\na) Harinarayanpur Uttarpara b) Harinarayanpur\nDakhinpara 7 7 SC -\nAssembly Part No 71/ 16\nBilkumari / VI\nMouza- Parkula, J.L.No. 35 8 - -\na) Parkula Puratanpara b) Parkula Paschimpara c)\nParkula Purbapara\nMouza- Arbetai J.L.No. 34\nd) Arbetai Paschimpara 9 - 9 Women\nAssembly Part No 71/ 17\nBilkumari / VII\n10 10 SC -\nMouza- Arbetai, J.L. No. 34\na) Arbetai Purbapara b) Arbetai Paschimpara (East\nside)\n11 - -\nAssembly Part No 71/ 18\niramukliB\n[ Form-A1]\nTHE SCHEDULE\nBlock : NAKASHIPARA\nmarG\nfo\nemaN\nNumber of members to be\nelected in the Gram Panchayat\nNumber, Name and Area of Constituencies with\nserial numbrs\nycneutitsnoc\nhcae\not\ndetacolla\nstaeS\nsrebmun\nlaires\nhtiw\nsetsaC\ndeludehcS\nrof\ndevreser\nstaeS\nlaires\ntsniaga\nsebirT\ndeludehcS\nro\nstaes\nfo\nrebmun\ntsniaga\nnemow\nrof\ndevreser\nstaeS\nstaes\nfo rebmun\nlaires\nC:\\Documents and Settings\\PANCHAYET SECTION\\Desktop\\Nakashipara\\Nakashipara\\Gram Panchayats\\Schedule-A1",
+      "tables": [
+        {
+          "bbox": [
+            55.17612,
+            95.93160000000006,
+            587.5716,
+            736.5585599999999
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of members to be\nelected in the Gram Panchayat",
+              null,
+              null,
+              null,
+              "Number, Name and Area of Constituencies with\nserial numbrs",
+              "ycneutitsnoc\nhcae\nsrebmun\not\ndetacolla\nlaires\nstaeS\nhtiw",
+              "setsaC\nlaires\ndeludehcS\ntsniaga\nsebirT\nrof\nstaes\ndevreser\ndeludehcS\nfo\nrebmun\nstaeS\nro",
+              "tsniaga\nnemow\nstaes\nrof\nfo\ndevreser\nrebmun\nstaeS laires"
+            ],
+            [
+              null,
+              "srebmem\nfo\nrebmun\nlatoT",
+              "srebmem\nsetsaC\ndeludehS",
+              "srebmem\nsrebirT\ndeludehcS",
+              "srbmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "iramukliB",
+              "17",
+              "5",
+              "Nil",
+              "6",
+              "Bilkumari / I\nMouza- Bilkumari , J.L. No. 33\na) Bilkumari Coloneypara b) Bilkumari Masjidpara c)\nBilkumari Schoolpara\nAssembly Part No 71/ 12",
+              "1",
+              "-",
+              "1 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bilkumari / II\nMouza- Bilkumari , J.L. No. 33\na) Bilkumari Paschimpara b) Bilkumarai Dargatalapara\nAssembly Part No 71/ 13",
+              "2",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bilkumari / III\nMouza- Bilkumari , J.L. No. 33\na) Bilkumari Uttarpara b) Bilkumari Purbapara\nAssembly Part No 71/ 14",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bilkumari / IV\nMouza- Parkula, J.L.No. 35\na) Sambhunagar Purbapara b) Santinagar\nc) Sambhunagar Paschimpara\nAssembly Part No 71/ 15",
+              "4\n5",
+              "4 SC\n-",
+              "4 SC(W)\n5 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bilkumari / V\nMouza- Parkula, J.L.No. 35\na) Harinarayanpur Uttarpara b) Harinarayanpur\nDakhinpara\nAssembly Part No 71/ 16",
+              "6\n7",
+              "-\n7 SC",
+              "-\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bilkumari / VI\nMouza- Parkula, J.L.No. 35\na) Parkula Puratanpara b) Parkula Paschimpara c)\nParkula Purbapara\nMouza- Arbetai J.L.No. 34\nd) Arbetai Paschimpara\nAssembly Part No 71/ 17",
+              "8\n9",
+              "-\n-",
+              "-\n9 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bilkumari / VII\nMouza- Arbetai, J.L. No. 34\na) Arbetai Purbapara b) Arbetai Paschimpara (East\nside)\nAssembly Part No 71/ 18",
+              "10\n11",
+              "10 SC\n-",
+              "-\n-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1633
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "srebmem\nfo rebmun\nlatoT\nsrebmem\nsetsaC\ndeludehS\nsrebmem\nsrebirT\ndeludehcS\nsrbmem\nnemoW\n[ Form-A1]\nTHE SCHEDULE\nBlock : NAKASHIPARA\n1 (2a) (2b) (2c) (2d) 3 4 5 6\nmarG\nfo\nemaN\nNumber of members to be\nelected in the Gram Panchayat\nNumber, Name and Area of Constituencies with\nserial numbrs\nycneutitsnoc\nhcae\not\ndetacolla\nstaeS\nsrebmun\nlaires\nhtiw\nsetsaC\ndeludehcS\nrof\ndevreser\nstaeS\nlaires\ntsniaga\nsebirT\ndeludehcS\nro\nstaes\nfo\nrebmun\ntsniaga\nnemow\nrof\ndevreser\nstaeS\nstaes\nfo rebmun\nlaires\nBilkumari / VIII\n12 - -\nMouza- Uttar Bahirgachhi, J.L. No. 36\na) Uttar Bahirgachhi Paschimpara b) Uttar Bahirgachhi\nMadhyapara\n13 - 13 Women\nAssembly Part No 71/ 19\nBilkumari / IX\nMouza- Uttar Bahirgachhi, J.L. No. 36\na) Uttar Bahirgachhi Uttarpara b) Uttar Bahirgachhi 14 14 SC 14 SC (W)\nPurbapara\nAssembly Part No 71/ 20\nBilkumari / X\nMouza- Chhoto Simulia , J.L. No. 40\na) Chhoto Simulia Dakshinpara b) Chhoto Simulia 15 15 SC -\nUttarpara c) Chhoto Simulia Paschimpara\nAssembly Part No 71/ 21\nBilkumari / XI\nMouza- Kalibash, J.L. No. 37\na) Kalibash Dakshinpara b) Kalibash Purbapara\n16 - -\nMouza- Barosimulia, J.L. No. 81\nc) Barosimulia\nAssembly Part No 71/ 22\nBilkumari / XII\nMouza- Kalibash, J.L. No. 37\n17 - -\na) Kalibash Uttarpara b) Kalibash Paschimpara .\nAssembly Part No 71/ 23\nDated : 07.02.2008 District Panchayat Election Officer, Nadia\n&\nDistrict Magistrate, Nadia\nBlock Development Officer\nNakashipara Dev. Block\niramukliB\nC:\\Documents and Settings\\PANCHAYET SECTION\\Desktop\\Nakashipara\\Nakashipara\\Gram Panchayats\\Schedule-A1",
+      "tables": [
+        {
+          "bbox": [
+            55.17612,
+            95.93160000000006,
+            587.5716,
+            603.7296000000001
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of members to be\nelected in the Gram Panchayat",
+              null,
+              null,
+              null,
+              "Number, Name and Area of Constituencies with\nserial numbrs",
+              "ycneutitsnoc\nhcae\nsrebmun\not\ndetacolla\nlaires\nstaeS\nhtiw",
+              "setsaC\nlaires\ndeludehcS\ntsniaga\nsebirT\nrof\nstaes\ndevreser\ndeludehcS\nfo\nrebmun\nstaeS\nro",
+              "tsniaga\nnemow\nstaes\nrof\nfo\ndevreser\nrebmun\nstaeS laires"
+            ],
+            [
+              null,
+              "srebmem\nfo\nrebmun\nlatoT",
+              "srebmem\nsetsaC\ndeludehS",
+              "srebmem\nsrebirT\ndeludehcS",
+              "srbmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "iramukliB",
+              "",
+              "",
+              "",
+              "",
+              "Bilkumari / VIII\nMouza- Uttar Bahirgachhi, J.L. No. 36\na) Uttar Bahirgachhi Paschimpara b) Uttar Bahirgachhi\nMadhyapara\nAssembly Part No 71/ 19",
+              "12\n13",
+              "-\n-",
+              "-\n13 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bilkumari / IX\nMouza- Uttar Bahirgachhi, J.L. No. 36\na) Uttar Bahirgachhi Uttarpara b) Uttar Bahirgachhi\nPurbapara\nAssembly Part No 71/ 20",
+              "14",
+              "14 SC",
+              "14 SC (W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bilkumari / X\nMouza- Chhoto Simulia , J.L. No. 40\na) Chhoto Simulia Dakshinpara b) Chhoto Simulia\nUttarpara c) Chhoto Simulia Paschimpara\nAssembly Part No 71/ 21",
+              "15",
+              "15 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bilkumari / XI\nMouza- Kalibash, J.L. No. 37\na) Kalibash Dakshinpara b) Kalibash Purbapara\nMouza- Barosimulia, J.L. No. 81\nc) Barosimulia\nAssembly Part No 71/ 22",
+              "16",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bilkumari / XII\nMouza- Kalibash, J.L. No. 37\na) Kalibash Uttarpara b) Kalibash Paschimpara .\nAssembly Part No 71/ 23",
+              "17",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1533
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

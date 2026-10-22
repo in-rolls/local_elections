@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "sha256": "2238be788015349cceb11c9fe300c58a663bb6353cc36f1f82e63f0f06932344",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "FORM – A1\n[ See rule 23(4) ]\nO R D E R\nNo. 248 (7) /P&RD Dated : 07.02.2008\nIn exercise of the power conferred by sections 12 and 17 of the West Bengal Panchayat\nElections Act. 2003 (West Bengal Act XXI of 2003) read with rules 22 and 23 of the West Bengal\nPanchayat Election Rules, 2006, I, the District Panchayat Election Officer and District Magistrate of\nthe district of Nadia, as the prescribed authority appointed by the State Government in the\nDepartment of Panchyats and Rural Development under notification No.623-PN/O/I/3R-3/2004\nDated 09.02.2007 for the purpose of rules 22 and 23 of the said rules , hereby determine, after\nprevious publication of the draft of this order as required under the said rules for the Grams\nspecified in column (1) of the schedule below, the total number of members, Scheduled Castes\nmembers , Scheduled Tribes members and women members to be elected to such Gram Panchayats\nspecified in the corresponding entries in columns (2a), (2b),(2c) and (2d) respectively, to divide the\narea of the Grams into constituencies with serial numbers assigned to them specified in the\ncorresponding entries in column (3), to allocate to each such constituency seat or seats specified in\nthe corresponding entries in column(4), seat or seats reserved for the Scheduled Castes or the\nScheduled Tribes persons specified in the corresponding entries in column(5), and seat or seats\nreserved for women specified in the corresponding entries in column (6) of the Schedule.",
+      "tables": [],
+      "images": 0,
+      "characters": 1548
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "(FORM-A1)\nThe Schedule\nBLOCK : KRISHNAGAR-II\nNumber of members to be elected in the Gram Panchayat\nScheduled\nName of the Gram Total number of Scheduled\nTribes Women members\nmembers Castes members\nmembers\n1 (2a) (2b) (2c) (2d)\nNaopara-I 13 3 0 5\nSeats allocated to Seats reserved for\nSeats reserved for\nNumber, Name and area of constituencies each constituency Schedule Castes or\nwomen against serial\nwith serial numbers with serial Schedule Tribes against\nnumber of seats\nnumbers serial number of seats\n(3) (4) (5) (6)\nNaopara-I/I\nMouza : Singhati, J.L. No. – 20,\n1 - 1(W)\n1. Singhati Uttarpara\nAssembly Part No. – 76/28\nNaopara-I/II\nMouza : Singhati, J.L. No. – 20,\n1. Singhat Paschimpara,\n2. Singhati Uttarpara 2,3 3(SC) 3[SC(W)]\n3. Singhati Paschimpara\n4. Singhati Dakshinpara\nAssembly Part No. – 76/29\nNaopara-I/III\nMouza : Naopara, J.L. No. -22\n1. Natun Naopara Madhyapara\n2. Natun Naopara Uttarpara\n4,5 - 5(W)\n3. Natun Naopara Dakshinpara\nMouza : Chhaygharia, J.L. No. – 21\n4. Chhaygharia\nAssembly Part No. – 76/30\nNaopara-I/IV\nMouza : Debipur, J.L. – 29\n1. Debipur Madhyapara\n2. Debipur Puratanpara\nMouza : Uttar Jhitkipota, J.L. No. – 30\n6,7 - -\n3. Jhitkipota ( Hindupara )\n4. Jhitkipota ( Mondalpara )\n5. Jhitkipota ( Gorapara)\nAssembly Part No. – 76/31\n1 of 3",
+      "tables": [
+        {
+          "bbox": [
+            21.638880000000004,
+            122.50919999999996,
+            602.9904,
+            234.82080000000005
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nmembers",
+              "Scheduled\nCastes members",
+              "Scheduled\nTribes\nmembers",
+              "Women members"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Naopara-I",
+              "13",
+              "3",
+              "0",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            21.638880000000004,
+            241.05960000000005,
+            602.9904,
+            706.38096
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved for\nwomen against serial\nnumber of seats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Naopara-I/I\nMouza : Singhati, J.L. No. – 20,\n1. Singhati Uttarpara\nAssembly Part No. – 76/28",
+              "1",
+              "-",
+              "1(W)"
+            ],
+            [
+              "Naopara-I/II\nMouza : Singhati, J.L. No. – 20,\n1. Singhat Paschimpara,\n2. Singhati Uttarpara\n3. Singhati Paschimpara\n4. Singhati Dakshinpara\nAssembly Part No. – 76/29",
+              "2,3",
+              "3(SC)",
+              "3[SC(W)]"
+            ],
+            [
+              "Naopara-I/III\nMouza : Naopara, J.L. No. -22\n1. Natun Naopara Madhyapara\n2. Natun Naopara Uttarpara\n3. Natun Naopara Dakshinpara\nMouza : Chhaygharia, J.L. No. – 21\n4. Chhaygharia\nAssembly Part No. – 76/30",
+              "4,5",
+              "-",
+              "5(W)"
+            ],
+            [
+              "Naopara-I/IV\nMouza : Debipur, J.L. – 29\n1. Debipur Madhyapara\n2. Debipur Puratanpara\nMouza : Uttar Jhitkipota, J.L. No. – 30\n3. Jhitkipota ( Hindupara )\n4. Jhitkipota ( Mondalpara )\n5. Jhitkipota ( Gorapara)\nAssembly Part No. – 76/31",
+              "6,7",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1309
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "Seats allocated to Seats reserved for Seats reserved for\nNumber, Name and area of constituencies each constituency Schedule Castes or women against\nwith serial numbers with serial Schedule Tribes against serial number of\nnumbers serial number of seats seats\n(3) (4) (5) (6)\nNaopara-I/V\nMouza : Debipur, J.L. No. – 29\n1. Debipur Uttarpara 8 - 8(W)\n2. Debipur Mallickpara(Harindanga)\nAssembly Part No. – 76/32\nNaopara-I/VI\nMouza : Naopara, J.L. No. – 22\n1. Naopara Banikpara\n9 - -\n2. Naopara Mondalpara\n3. Naopara Kachharipara\nAssembly Part No. – 76/33\nNaopara-I/VII\nMouza : Naopara, J.L. No. – 22\n1. Naopara Dakshin Ghoshpara\n2. Nawapara Dakshin Ghoshpara\n10 10(SC) -\n3. Naopara Colony\nMouza : Armia, J.L. No. – 28\n4. Armia\nAssembly Part No. – 76/34\nNaopara-I/VIII\nMouza : Harindanga, J.L. No. – 32\n1. Dhubulia Camp Block – 6 &\nColony 11 - -\n2. Dhubulia Camp Block – 19\n3.Dhubulia Camp Block – 20\nAssembly Part No. – 76/35\nNaopara-I/IX\nMouza : Harindanga, J.L. No. -32\n1. Dhubulia Camp Block – 16\n12 12(SC) -\n2. Dhubulia Camp Block – 17\n3. Dhubulia Camp Block – 18\nAssembly Part No. – 76/36\n2 of 3",
+      "tables": [
+        {
+          "bbox": [
+            45.03708,
+            50.03520000000003,
+            599.3904,
+            564.0732
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Naopara-I/V\nMouza : Debipur, J.L. No. – 29\n1. Debipur Uttarpara\n2. Debipur Mallickpara(Harindanga)\nAssembly Part No. – 76/32",
+              "8",
+              "-",
+              "8(W)"
+            ],
+            [
+              "Naopara-I/VI\nMouza : Naopara, J.L. No. – 22\n1. Naopara Banikpara\n2. Naopara Mondalpara\n3. Naopara Kachharipara\nAssembly Part No. – 76/33",
+              "9",
+              "-",
+              "-"
+            ],
+            [
+              "Naopara-I/VII\nMouza : Naopara, J.L. No. – 22\n1. Naopara Dakshin Ghoshpara\n2. Nawapara Dakshin Ghoshpara\n3. Naopara Colony\nMouza : Armia, J.L. No. – 28\n4. Armia\nAssembly Part No. – 76/34",
+              "10",
+              "10(SC)",
+              "-"
+            ],
+            [
+              "Naopara-I/VIII\nMouza : Harindanga, J.L. No. – 32\n1. Dhubulia Camp Block – 6 &\nColony\n2. Dhubulia Camp Block – 19\n3.Dhubulia Camp Block – 20\nAssembly Part No. – 76/35",
+              "11",
+              "-",
+              "-"
+            ],
+            [
+              "Naopara-I/IX\nMouza : Harindanga, J.L. No. -32\n1. Dhubulia Camp Block – 16\n2. Dhubulia Camp Block – 17\n3. Dhubulia Camp Block – 18\nAssembly Part No. – 76/36",
+              "12",
+              "12(SC)",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1147
+    },
+    {
+      "page": 4,
+      "width": 612,
+      "height": 792,
+      "text": "Number, Name and area of constituencies Seats allocated to Seats reserved for Seats reserved for\nwith serial numbers each constituency Schedule Castes or women against\nwith serial Schedule Tribes against serial number of\nnumbers serial number of seats seats\n(3) (4) (5) (6)\nNaopara-I/X\nMouza : Harindanga, J.L. No. -32\n1. Superior Employees Quarters\n2. T.B. Hospital G.D.A Quarter, Block\nNo. – 9\n13 - 13(W)\n3. T.B. Hospital G.D.A Quarter, Block\nNo. - 10\n4. T.B. Hospital G.D.A Quarter, Block\nNo. – 11\nAssembly Part No. – 76/47\nDate : 07-02-2008\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\n3 of 3",
+      "tables": [
+        {
+          "bbox": [
+            45.03708,
+            63.835199999999986,
+            599.3904,
+            272.3772000000001
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Naopara-I/X\nMouza : Harindanga, J.L. No. -32\n1. Superior Employees Quarters\n2. T.B. Hospital G.D.A Quarter, Block\nNo. – 9\n3. T.B. Hospital G.D.A Quarter, Block\nNo. - 10\n4. T.B. Hospital G.D.A Quarter, Block\nNo. – 11\nAssembly Part No. – 76/47",
+              "13",
+              "-",
+              "13(W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 650
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 4
+}

@@ -1,0 +1,29 @@
+{
+  "finished_utc": "2026-09-08T05:27:26.193015+00:00",
+  "http_requests_with_response": 16,
+  "http_responses_retained": 18,
+  "transport_errors": 8,
+  "requested_documentation_files": 4,
+  "requested_documentation_files_acquired": 0,
+  "guestbook_id": 269,
+  "guestbook_response_submitted": false,
+  "required_custom_questions": [
+    {
+      "id": 207,
+      "question": "What is the intended use of the files that you are requesting to download?"
+    },
+    {
+      "id": 206,
+      "question": "What is your position/title at your institution?"
+    },
+    {
+      "id": 317,
+      "question": "In which country is your institution located?"
+    }
+  ],
+  "independent_public_appendices_acquired": 2,
+  "independent_public_appendix_pages": 11,
+  "raw_pradhan_gender_code_mapping_confirmed": false,
+  "limitation": "No source code or requested codebook/readme acquired. Appendices describe experimental stimuli and publication variables, not a code dictionary for elected-head gender1998/gender2003/gender2008.",
+  "validation": "All retained HTTP bodies validated against recorded byte lengths and SHA256; target IDs verified against preserved existing metadata; all 11 appendix pages extracted."
+}

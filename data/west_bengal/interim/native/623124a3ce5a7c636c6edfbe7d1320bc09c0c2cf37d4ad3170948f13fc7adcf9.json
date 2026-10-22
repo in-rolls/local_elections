@@ -1,0 +1,693 @@
+{
+  "version": 1,
+  "sha256": "623124a3ce5a7c636c6edfbe7d1320bc09c0c2cf37d4ad3170948f13fc7adcf9",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 1008,
+      "height": 612,
+      "text": "FORM B1\n[ Sec rule 25(4)]\nOrder\nNo. 262/P&RDO Dated 07/02/2008\nIn exercise of the power conferred by sections 14 and 17 of the West Bengal Panchayat Election Act , 2003 (West Ben. Act XXI of 2003) , read with rules 24 and 25 of the West\nBengal Panchayat Election Rules , 2006 , I , the District Panchayat Election Officer and District Magistrate of the District of Nadia , as the prescribed authority appointed by the State\nGovernment in the Department of Panchayats and rural Development under notification No. 623-PN / 0/I /3R-3/2004 Dated 09.02.2007 for the purpose of rules 24 and 25 of the said rules ,\nhereby determine after previous publication of the draft of this order as required under the said rules, for the Grams specified in column (1) of the Schedule below , the Number of members to\nbe elected to the Panchayat Samity specified in the corresponding entries in columns (2) , to divide the area of the Grams into constituencies with serial numbers assigned to them specified in\nthe corresponding entries in column (3) , to allocate to each such constituency seat or seats specified in the corresponding entries in column (4) , seat or seats reserved for the Scheduled\nCastes or the Scheduled Tribes persons specified in the corresponding entries in column (5) and seat or seats reserved for women specified in the corresponding entries in column (6) of the\nSchedule.\nThe Schedule\nBlock – Chapra. Panchayat Samity- Chapra.\nName of Gram Number of the Number and name Area of the constituency Constituency reserved for Constituency reserved\nMembers to be elected of the constituency. Scheduled Castes and for women showing\nto the Panchayat Scheduled Tribes persons serial number.\nSamity. showing serial number.\n1 2 3 4 5 6\nHridaypur 3 Hridaypur/P.S.-1 Hridaypur/ I, II, III, IV. 1 S.C. 1 S.C. (Women)\nPart No. 73/64, 73/65, 73/66, 73/67.\nHridaypur/P.S.-2 Hridaypur /V, VI, VII, VIII. 2 Women\nPart No. 73/68, 73/69, 73/70, 73/71.\nHridaypur/P.S.-3 Hridaypur /IX, X, XI. -\nPart No. 73/72, 73/73, 73/74.\nHatisala-I 3 Hatisala-I/P.S.-4 Hatisala-I/I, II, VIII.\nPart No.73/75, 73/76, 73/82.\nHatisala-I/P.S.-5 Hatisala-I/III, IV,V. 5 Women\nPart No. 73/77, 73/78, 73/79.\nHatisala-I/P.S.-6 Hatisala-I/VI, VII. -\nPart No.73/80, 73/81.\nHatisala-II 3 Hatisala-II/P.S.-7 Hatisala-II/I, III, IV. -\n73/83, 73/85, 73/86.\nHatisala-II/P.S.-8 Hatisala-II/II, VII, VIII. 8 Women\n73/84, 73/89, 73/90.",
+      "tables": [
+        {
+          "bbox": [
+            95.43275999999999,
+            252.37919999999997,
+            984.5591999999999,
+            572.2728
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of the\nMembers to be elected\nto the Panchayat\nSamity.",
+              "Number and name\nof the constituency.",
+              "Area of the constituency",
+              "Constituency reserved for\nScheduled Castes and\nScheduled Tribes persons\nshowing serial number.",
+              "Constituency reserved\nfor women showing\nserial number."
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Hridaypur",
+              "3",
+              "Hridaypur/P.S.-1",
+              "Hridaypur/ I, II, III, IV.",
+              "1 S.C.",
+              "1 S.C. (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/64, 73/65, 73/66, 73/67.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Hridaypur/P.S.-2",
+              "Hridaypur /V, VI, VII, VIII.",
+              "",
+              "2 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/68, 73/69, 73/70, 73/71.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Hridaypur/P.S.-3",
+              "Hridaypur /IX, X, XI.",
+              "",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/72, 73/73, 73/74.",
+              null,
+              null
+            ],
+            [
+              "Hatisala-I",
+              "3",
+              "Hatisala-I/P.S.-4",
+              "Hatisala-I/I, II, VIII.",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.73/75, 73/76, 73/82.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Hatisala-I/P.S.-5",
+              "Hatisala-I/III, IV,V.",
+              "",
+              "5 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/77, 73/78, 73/79.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Hatisala-I/P.S.-6",
+              "Hatisala-I/VI, VII.",
+              "",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.73/80, 73/81.",
+              null,
+              null
+            ],
+            [
+              "Hatisala-II",
+              "3",
+              "Hatisala-II/P.S.-7",
+              "Hatisala-II/I, III, IV.",
+              "",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "73/83, 73/85, 73/86.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Hatisala-II/P.S.-8",
+              "Hatisala-II/II, VII, VIII.",
+              "",
+              "8 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "73/84, 73/89, 73/90.",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2563
+    },
+    {
+      "page": 2,
+      "width": 1008,
+      "height": 612,
+      "text": "Hatisala-II/P.S.-9 Hatisala-II/V, VI. -\n73/87, 73/88.\nAlfa 3 Alfa/P.S.-10 Alfa/I, II, III. -\n73/91, 73/92, 73/93.\nAlfa/P.S.-11 Alfa/IV, V, IX, X. 11 Women\nPart No. 73/94, 73/95, 73/99, 73/100.\nAlfa/P.S.-12 Alfa/VI, VII, VIII. - -\nPart No. 73/96, 73/97, 73/98.\nBrittihuda 3 Brittihuda / P.S.-13 Brittihuda / I, II, III, IV. - -\n73/101, 73/102, 73/103, 73/104.\nBrittihuda / P.S.-14 Brittihuda / V, VI, VII, VIII, IX. - 14 Women\nPart No. 73/105, 73/106, 73/107, 73/108, 73/109.\nBrittihuda / P.S.-15 Brittihuda / X, XI, XII, XIII - -\nPart No. 73/110, 73/111, 73/112, 73/113.\nChapra-I 3 Chapra-I/P.S.-16 Chapra-I/I, II, III. - -\n73/114, 73/115, 73/116.\nChapra-I/P.S.-17 Chapra-I/IV, VIII, IX. 17 S.C. -\n73/117, 73/121, 73/122\nChapra-I/P.S.-18 Chapra-I/V, VI, VII. - 18 Women\nPart No. 73/118, 73/119, 73/120.\nChapra-II 3 Chapra-II/P.S.-19 Chapra-II/I, VIII, IX. - -\nPart No. 73/123, 73/130, 73/131.\nChapra-II/P.S.-20 Chapra-II/II, IV, VI. - -\nPart No. 73/124, 73/126, 73/128.\nChapra-II/P.S.-21 Chapra-II/III, V, VII. - 21 Women\nPart No. 73/125, 73/127, 73/129\nMahatpur 3 Mahatpur / P.S.-22 Mahatpur /I, II, III. - -\nPart No. 73/132, 73/133, 73/134\nMahatpur / P.S.-23 Mahatpur /IV, VII, VIII. - -\nPart No. 73/135, 73/138, 73/139.\nMahatpur /V, VI, IX, X, XI. - 24 Women\nMahatpur / P.S.- 24 Part No. 73/136, 73/137, 73/140, 73/141, 73/142.\nKalinga 3 Kalinga / P.S.-25 Kalinga /I, II, III, V, IX. - -\nPart No. 73/143, 73/144, 73/145, 73/147, 73/151\nKalinga / P.S.-26 Kalinga /IV, VI, VII, VIII, XII. - -\n73/146, 73/148, 73/149, 73/150, 73/154.",
+      "tables": [
+        {
+          "bbox": [
+            95.43275999999999,
+            21.87887999999998,
+            984.5591999999999,
+            583.1916
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "Hatisala-II/P.S.-9",
+              "Hatisala-II/V, VI.",
+              "",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "73/87, 73/88.",
+              null,
+              null
+            ],
+            [
+              "Alfa",
+              "3",
+              "Alfa/P.S.-10",
+              "Alfa/I, II, III.",
+              "",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "73/91, 73/92, 73/93.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Alfa/P.S.-11",
+              "Alfa/IV, V, IX, X.",
+              "",
+              "11 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/94, 73/95, 73/99, 73/100.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Alfa/P.S.-12",
+              "Alfa/VI, VII, VIII.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/96, 73/97, 73/98.",
+              null,
+              null
+            ],
+            [
+              "Brittihuda",
+              "3",
+              "Brittihuda / P.S.-13",
+              "Brittihuda / I, II, III, IV.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "73/101, 73/102, 73/103, 73/104.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Brittihuda / P.S.-14",
+              "Brittihuda / V, VI, VII, VIII, IX.",
+              "-",
+              "14 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/105, 73/106, 73/107, 73/108, 73/109.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Brittihuda / P.S.-15",
+              "Brittihuda / X, XI, XII, XIII",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/110, 73/111, 73/112, 73/113.",
+              null,
+              null
+            ],
+            [
+              "Chapra-I",
+              "3",
+              "Chapra-I/P.S.-16",
+              "Chapra-I/I, II, III.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "73/114, 73/115, 73/116.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Chapra-I/P.S.-17",
+              "Chapra-I/IV, VIII, IX.",
+              "17 S.C.",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "73/117, 73/121, 73/122",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Chapra-I/P.S.-18",
+              "Chapra-I/V, VI, VII.",
+              "-",
+              "18 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/118, 73/119, 73/120.",
+              null,
+              null
+            ],
+            [
+              "Chapra-II",
+              "3",
+              "Chapra-II/P.S.-19",
+              "Chapra-II/I, VIII, IX.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/123, 73/130, 73/131.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Chapra-II/P.S.-20",
+              "Chapra-II/II, IV, VI.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/124, 73/126, 73/128.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Chapra-II/P.S.-21",
+              "Chapra-II/III, V, VII.",
+              "-",
+              "21 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/125, 73/127, 73/129",
+              null,
+              null
+            ],
+            [
+              "Mahatpur",
+              "3",
+              "Mahatpur / P.S.-22",
+              "Mahatpur /I, II, III.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/132, 73/133, 73/134",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Mahatpur / P.S.-23",
+              "Mahatpur /IV, VII, VIII.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/135, 73/138, 73/139.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Mahatpur / P.S.- 24",
+              "Mahatpur /V, VI, IX, X, XI.",
+              "-",
+              "24 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/136, 73/137, 73/140, 73/141, 73/142.",
+              null,
+              null
+            ],
+            [
+              "Kalinga",
+              "3",
+              "Kalinga / P.S.-25",
+              "Kalinga /I, II, III, V, IX.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/143, 73/144, 73/145, 73/147, 73/151",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Kalinga / P.S.-26",
+              "Kalinga /IV, VI, VII, VIII, XII.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "73/146, 73/148, 73/149, 73/150, 73/154.",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1568
+    },
+    {
+      "page": 3,
+      "width": 1008,
+      "height": 612,
+      "text": "Kalinga / P.S.-27 Kalinga /X, XI, XIII, XIV, XV, XVI 27 S.C. -\nPart No. 73/152, 73/153, 73/155, 73/156, 73/157,\n73/158.\nHatkhola 3 Hatkhola / P.S.-28 Hatkhola / I, II, III, IV, V. - 28 Women\nPart No. 74/1, 74/2, 74/3, 74/4, 74/5.\nHatkhola / P.S.-29 Hatkhola / VI, VII, VIII. - -\nPart No. 74/6, 74/7, 74/8.\nHatkhola / P.S.-30 Hatkhola / IX, X, XI. - -\nPart No. 74/9, 74/10, 74/11.\nPipragachhi 3 Pipragachhi / P.S.- Pipragachhi / I, II, V, VI. - 31 Women\n31\nPart No. 74/12, 74/13, 74/16, 74/17\nPipragachhi / P.S.- Pipragachhi / III, IV, VII, VIII. 32 S.C. 32 S.C. (Women)\n32 Part No. 74/14, 74/15, 74/18, 74/19.\nPipragachhi / P.S.- Pipragachhi / IX, X, XI, XII. - -\n33 Part No. 74/20, 74/21, 74/22, 74/23\nMaheshpur 3 Maheshpur / P.S.-34 Maheshpur /I, II, V. - -\nPart No. 74/24, 74/25, 74/28.\nMaheshpur / P.S.-35 Maheshpur /III, IV, VIII. 35 S.C. -\nPart No. 74/26, 74/27, 74/31.\nMaheshpur / P.S.-36 Maheshpur /VI, VII, IX. _ 36 Women\nPart No. 74/29, 74/30, 74/32\nBagberia 2 Bagberia / P.S.-37 Bagberia / I, II, III, VII. - -\nPart No. 74/33, 74/34, 74/35, 74/39\nBagberia / P.S.-38 Bagberia / IV, V, VI, VIII. 38 S.C. -\nPart No. 74/36, 74/37, 74/38, 74/40.\nDated : 07/02/2008\nDistrict Panchayat Election Officer, Nadia\n&\nDistrict Magistrate, Nadia .",
+      "tables": [
+        {
+          "bbox": [
+            95.43275999999999,
+            21.87887999999998,
+            984.5592,
+            402.0072
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              "Kalinga / P.S.-27",
+              "Kalinga /X, XI, XIII, XIV, XV, XVI",
+              "27 S.C.",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 73/152, 73/153, 73/155, 73/156, 73/157,\n73/158.",
+              null,
+              null
+            ],
+            [
+              "Hatkhola",
+              "3",
+              "Hatkhola / P.S.-28",
+              "Hatkhola / I, II, III, IV, V.",
+              "-",
+              "28 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 74/1, 74/2, 74/3, 74/4, 74/5.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Hatkhola / P.S.-29",
+              "Hatkhola / VI, VII, VIII.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 74/6, 74/7, 74/8.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Hatkhola / P.S.-30",
+              "Hatkhola / IX, X, XI.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 74/9, 74/10, 74/11.",
+              null,
+              null
+            ],
+            [
+              "Pipragachhi",
+              "3",
+              "Pipragachhi / P.S.-\n31",
+              "Pipragachhi / I, II, V, VI.",
+              "-",
+              "31 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 74/12, 74/13, 74/16, 74/17",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Pipragachhi / P.S.-\n32",
+              "Pipragachhi / III, IV, VII, VIII.",
+              "32 S.C.",
+              "32 S.C. (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 74/14, 74/15, 74/18, 74/19.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Pipragachhi / P.S.-\n33",
+              "Pipragachhi / IX, X, XI, XII.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 74/20, 74/21, 74/22, 74/23",
+              null,
+              null
+            ],
+            [
+              "Maheshpur",
+              "3",
+              "Maheshpur / P.S.-34",
+              "Maheshpur /I, II, V.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 74/24, 74/25, 74/28.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Maheshpur / P.S.-35",
+              "Maheshpur /III, IV, VIII.",
+              "35 S.C.",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 74/26, 74/27, 74/31.",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Maheshpur / P.S.-36",
+              "Maheshpur /VI, VII, IX.",
+              "_",
+              "36 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 74/29, 74/30, 74/32",
+              null,
+              null
+            ],
+            [
+              "Bagberia",
+              "2",
+              "Bagberia / P.S.-37",
+              "Bagberia / I, II, III, VII.",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 74/33, 74/34, 74/35, 74/39",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "Bagberia / P.S.-38",
+              "Bagberia / IV, V, VI, VIII.",
+              "38 S.C.",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 74/36, 74/37, 74/38, 74/40.",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1321
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

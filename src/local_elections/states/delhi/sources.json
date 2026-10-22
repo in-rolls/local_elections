@@ -1,0 +1,50 @@
+[
+  {
+    "file": "goyal_candidates.xlsx",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423671",
+    "sha256": "79d853354f3c682859749c06af534798815e09c543aaeea8eb7c0fa6c635ed30",
+    "bytes": 1396349
+  },
+  {
+    "file": "goyal_mapping.tab",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423666",
+    "sha256": "1e2056da3318c7a052c12caf46dd304e9f4900fcbfbd4d075d66651d18a9fd40",
+    "bytes": 316616
+  },
+  {
+    "file": "goyal_readme.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423672",
+    "sha256": "7d66801712cb28c6742f8ce05118abbc4aef0e08d555830679499c2eac1b6d6e",
+    "bytes": 10937
+  },
+  {
+    "file": "goyal_codebook.pdf",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423656",
+    "sha256": "a0e0074b76eaa9af93b1901e06a56c43fd257aeaced3daf4a8cf994f0d4fde7b",
+    "bytes": 87330
+  },
+  {
+    "file": "varun_datasetfull.tab",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/3645819",
+    "sha256": "b003eafd768714efce7b4f4aa66033fb4cafd3c00a58f611ae69436546f17136",
+    "bytes": 3936839
+  },
+  {
+    "file": "varun_codebook.pdf",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/3652715",
+    "sha256": "58169fdacb42e4fcd599f81af7e8e7e05573ac84f7c43c5bf518e40bc740755b",
+    "bytes": 150318
+  },
+  {
+    "file": "opencity2022.csv",
+    "url": "https://data.opencity.in/dataset/48981afb-6542-4d34-bc16-bea319ad01a3/resource/e5f38174-12fc-40e4-88b4-9e34fea0693c/download/cf14d147-8120-4c97-a76c-50ace78597c5.csv",
+    "sha256": "031761ff68fb23d25f875f8b9323b17f12d25cc6b39a8c29585003166c105045",
+    "bytes": 374410
+  },
+  {
+    "file": "adr_winners_2022.pdf",
+    "url": "https://adrindia.org/sites/default/files/MCD_Elections_2022_Analysis_of_Criminal_and_Financial_background%20_details_of_Winning_Candidates._English.pdf",
+    "sha256": "58a4116070bd9cac6032207e3a1df18c996fb66d967bf37714a67fcfbbbe7aca",
+    "bytes": 2166927
+  }
+]

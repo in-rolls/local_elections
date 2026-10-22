@@ -1,0 +1,59 @@
+TIRUPU
+VILLAGE PANC
+Reservation of Seats for Scheduled Caste/Sche
+Category to
+Sl. Name of the Village
+which reservation
+No Panchayat
+is made
+1 2 3
+Avinashi Panchayat Union
+1 Mangarasavalayapalayam SC (Women)
+2 Muriyandampalayam SC (Women)
+3 Thandukkaranpalayam SC (Women)
+4 Karumapalayam SC(General)
+5 Pudupalayam SC(General)
+6 Pulippar SC(General)
+7 Sembianallur SC(General)
+8 Thulukkamuthur SC(General)
+9 Alathur General (Women)
+10 Ayyampalayam General (Women)
+11 Cheyur General (Women)
+12 Vettuvapalayam General (Women)
+13 Vadugapalayam General (Women)
+14 Naduvacheri General (Women)
+15 Thathanur General (Women)
+16 Punjaithamaraikulam General (Women)
+17 Chinneripalayam General
+18 Kanur General
+19 Karuvalur General
+20 Kuttagam General
+21 Pappankulam General
+22 Pongalur General
+23 Pothampalayam General
+24 Kaniyampoondi General
+25 Ramanathapuram General
+26 Kuppandampalayam General
+27 Thekkalur General
+28 Uppilipalayam General
+29 Nambiyampalayam General
+30 Velayuthampalayam General
+31 Palankarai General
+Dharapuram Panchayat Union
+1 Nanjiyampalayam SC Women
+2 Ponnapuram SC Women
+3 Bommanallur SC General
+4 Govindhapuram SC General
+5 Manakadavu General Women
+6 Nallampalayam General Women
+7 Thoppampatty General Women
+8 Veerachimangalam General Women
+9 Alangiam General
+10 Chinnapudur General
+11 Dhalavaipattinam General
+12 Kavundachipudur General
+13 Kongur General
+14 Mambadi General
+15 Nathampalayam General
+16 Pottikkampalayam General
+Page 74

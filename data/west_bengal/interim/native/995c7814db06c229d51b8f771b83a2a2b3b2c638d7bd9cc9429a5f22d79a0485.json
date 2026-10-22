@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "sha256": "995c7814db06c229d51b8f771b83a2a2b3b2c638d7bd9cc9429a5f22d79a0485",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(FORM - A1)\nBlock: Ranaghat-1\nNumber of members to be elected in the Gram\nScheduled Scheduled\nName of Gram\nTotal number Castes Tribes Women\nof members members members members\n1 (2a) (2b) (2c) (2d)\nAnulia 16 7(Seven) NIL 6(Six)\nSeats Seats reserved Seats reserved\nallocated to for Scheduled for women\neach Castes or against serial\nNumber, name and area of constituencies with constituency Scheduled number of\nserial numbers with serial Tribes against seats\nnumbers serial number\nof seats\n3 4 5 6\nAnulia/I\na) Hatshambhupur (Fully) 1 1 SC 1 SC(W)\n(Mouza- Hatshambhuganj, J.L. No 127)\nb) North Haradham (Fully)\n(Mouza- North Haradham, J.L. No 128)\nc) South Haradham (Fully)\n(Mouza- South Haradham, J.L. No 137)\nd) Rabanbore Raipara\n(e) Rabanbore Uttarpara 2 2 Women\nf) Rabanbore Rajbanshipara\n(Mouza- Paschim Shambhupur, J.L. No 133)\ng) Shivpur (Fully)\n(Mouza- Shivpur, J.L. No 134)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/141\nAnulia/II\na) Nandighat Dakshin Purbapara\nb) Nandighat Uttar Purbapara 3\nc) Nandighat Dakshin-Paschimpara\nd) Nandighat Uttar Paschimpara\ne) Nandighat Puratanpara\n(Mouza- Nandighat J.L. No. 126) 4 4 SC\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/142\nAnulia/III\na) Karigarpara 5\nb) Srinathpur\nc) Haldarpare\n(Mouza- Satigacha J.L. No. 154) 6 6 Women\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/143\nPage 1 of 3",
+      "tables": [
+        {
+          "bbox": [
+            47.86419225,
+            70.84209360000004,
+            533.0358857142858,
+            159.97680000000008
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number\nof members",
+              "Scheduled\nCastes\nmembers",
+              "Scheduled\nTribes\nmembers",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Anulia",
+              "16",
+              "7(Seven)",
+              "NIL",
+              "6(Six)"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            47.86419225,
+            212.14206685714294,
+            485.5700439,
+            712.3805468571429
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with\nserial numbers",
+              "Seats\nallocated to\neach\nconstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled\nTribes against\nserial number\nof seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Anulia/I\na) Hatshambhupur (Fully)\n(Mouza- Hatshambhuganj, J.L. No 127)\nb) North Haradham (Fully)\n(Mouza- North Haradham, J.L. No 128)\nc) South Haradham (Fully)\n(Mouza- South Haradham, J.L. No 137)\nd) Rabanbore Raipara\n(e) Rabanbore Uttarpara\nf) Rabanbore Rajbanshipara\n(Mouza- Paschim Shambhupur, J.L. No 133)\ng) Shivpur (Fully)\n(Mouza- Shivpur, J.L. No 134)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/141",
+              "1",
+              "1 SC",
+              "1 SC(W)"
+            ],
+            [
+              null,
+              "2",
+              "",
+              "2 Women"
+            ],
+            [
+              "Anulia/II\na) Nandighat Dakshin Purbapara\nb) Nandighat Uttar Purbapara\nc) Nandighat Dakshin-Paschimpara\nd) Nandighat Uttar Paschimpara\ne) Nandighat Puratanpara\n(Mouza- Nandighat J.L. No. 126)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/142",
+              "3",
+              "",
+              ""
+            ],
+            [
+              null,
+              "4",
+              "4 SC",
+              ""
+            ],
+            [
+              "Anulia/III\na) Karigarpara\nb) Srinathpur\nc) Haldarpare\n(Mouza- Satigacha J.L. No. 154)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/143",
+              "5",
+              "",
+              ""
+            ],
+            [
+              null,
+              "6",
+              "",
+              "6 Women"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1342
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Anulia/IV\na) Binpara 7\nb) Hospitalpara\nc) Biharipalli\nd) Loknathnagar\n(Mouza- Satigacha J.L. No. 154) 8\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/144\nAnulia/V\na) Anulia Bamunpara 9\nb) Anulia Haldarpara 9 SC\n(Mouza- Anulia J.L. No. 153)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/145\nAnulia/VI\na) Sadgoppara 10 10 Women\nb) Chhayacolony\nc) Saradapalli\n(Mouza- Anulia J.L. No. 153)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/146\nAnulia/VII\na) Saalbagan 11 11 SC 11 SC(W)\nb) Patalbagan\nc) Kalabagan\n(Mouza- Anulia J.L. No. 153)\nd) Mathpara\n(Mouza- Satigacha J.L. No. 154)\ne) Sukanta pally\nf) Srikrishna Pally\n(Mouza- Anulia J.L. No. 153)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/147\nAnulia/VIII\na) Chasipara 12\nb) Pulinnagar\n(Mouza- Satigacha J.L. No. 154) 13 13 SC\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/148\nAnulia/IX\na) Ghoragachha (Fully) 14\n(Mouza- Ghoragachha J.L. No. 144)\nb) Kayetpara Sreepalli\n(Mouza- Kayetpara J.L. No. 146)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/149\nPage 2 of 3",
+      "tables": [
+        {
+          "bbox": [
+            48.03667028571429,
+            23.41652307692307,
+            485.8803617142857,
+            578.352
+          ],
+          "rows": [
+            [
+              "Anulia/IV\na) Binpara\nb) Hospitalpara\nc) Biharipalli\nd) Loknathnagar\n(Mouza- Satigacha J.L. No. 154)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/144",
+              "7",
+              "",
+              ""
+            ],
+            [
+              null,
+              "8",
+              "",
+              ""
+            ],
+            [
+              "Anulia/V\na) Anulia Bamunpara\nb) Anulia Haldarpara\n(Mouza- Anulia J.L. No. 153)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/145",
+              "9",
+              "9 SC",
+              ""
+            ],
+            [
+              "Anulia/VI\na) Sadgoppara\nb) Chhayacolony\nc) Saradapalli\n(Mouza- Anulia J.L. No. 153)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/146",
+              "10",
+              "",
+              "10 Women"
+            ],
+            [
+              "Anulia/VII\na) Saalbagan\nb) Patalbagan\nc) Kalabagan\n(Mouza- Anulia J.L. No. 153)\nd) Mathpara\n(Mouza- Satigacha J.L. No. 154)\ne) Sukanta pally\nf) Srikrishna Pally\n(Mouza- Anulia J.L. No. 153)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/147",
+              "11",
+              "11 SC",
+              "11 SC(W)"
+            ],
+            [
+              "Anulia/VIII\na) Chasipara\nb) Pulinnagar\n(Mouza- Satigacha J.L. No. 154)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/148",
+              "12",
+              "",
+              ""
+            ],
+            [
+              null,
+              "13",
+              "13 SC",
+              ""
+            ],
+            [
+              "Anulia/IX\na) Ghoragachha (Fully)\n(Mouza- Ghoragachha J.L. No. 144)\nb) Kayetpara Sreepalli\n(Mouza- Kayetpara J.L. No. 146)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/149",
+              "14",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1089
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "Anulia/X\na) Kayetpara Pragotipalli 15\nb) Kayetpara Jagaranipalli 15 SC\nc) Kayetpara Ashokpalli\n(Mouza- Kayetpara J.L. No. 146)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/150\nAnulia/XI\na) Briddhakol (Fully) 16 16 SC 16 SC(W)\n(Mouza- Briddhakol J.L. No. 145)\nb) Gurpara (Fully)\n(Mouza- Gurpara J.L. No. 138)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/151\nDated: 07/02/2008 District Panchayat Election Officer\n&\nDistict Magistrate Nadia\nPage 3 of 3",
+      "tables": [
+        {
+          "bbox": [
+            47.9406984,
+            71.03406685714288,
+            485.7842664,
+            240.69966685714286
+          ],
+          "rows": [
+            [
+              "Anulia/X\na) Kayetpara Pragotipalli\nb) Kayetpara Jagaranipalli\nc) Kayetpara Ashokpalli\n(Mouza- Kayetpara J.L. No. 146)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/150",
+              "15",
+              "15 SC",
+              ""
+            ],
+            [
+              "Anulia/XI\na) Briddhakol (Fully)\n(Mouza- Briddhakol J.L. No. 145)\nb) Gurpara (Fully)\n(Mouza- Gurpara J.L. No. 138)\nBlock-Ranaghat – 1, Police St-Ranaghat, G.P.- Anulia\nPart No.-81/151",
+              "16",
+              "16 SC",
+              "16 SC(W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 470
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

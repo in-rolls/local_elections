@@ -1,0 +1,471 @@
+{
+  "pages": [
+    {
+      "source_path": "data/wb/gp_source_search/archived_district_files/malda_Gazole.pdf",
+      "source_sha256": "51c85e144ecf93bab44597781ec47bd81263b28c2162486f86ac33e1819423c3",
+      "district": "Malda",
+      "year": "2013",
+      "stage": "unclassified",
+      "source_page": 2,
+      "layout": "ps_explicit",
+      "image_path": "data/wb/derived/ward_schedules/semantic_review/fresh_validation/page_1.png",
+      "image_sha256": "ad923cd67629534d506df55edd962928cf3cb89698851a9d2dd86bae2c9791bd",
+      "gold": [
+        {
+          "seat_no": 4,
+          "name": "Karkach",
+          "caste_reservation": "SC",
+          "woman_reserved": null,
+          "printed_reservation_note": "Karkach/P.S.-4(SC); women dash",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 5,
+          "name": "Karkach",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "caste dash; Karkach/P.S.-5(W)",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 6,
+          "name": "Karkach",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 7,
+          "name": "Deotala",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "caste dash; Deotala/P.S.-7(W)",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 8,
+          "name": "Deotala",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 9,
+          "name": "Deotala",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "caste dash; Deotala/P.S.-9(W)",
+          "ambiguous": false
+        }
+      ],
+      "record_kind": "block_ward_reservation",
+      "gold_method": "Single-assistant direct visual transcription of source renders after parser code freeze and before opening candidate values. Nonrandom bounded validation, not human double entry. These pages may have previously been seen at small scale for orientation only. No parser tuning on these readings.",
+      "source_page_bbox": null
+    },
+    {
+      "source_path": "data/wb/2023/cooch_behar/extracted/CBR FINAL ORDER  FORM A1 B1/Cooch Behar-I/form B1@Ps Coochbehar l.pdf",
+      "source_sha256": "c780887dc2a7aa4c70511a93dd0581d5a1c77790ba71507c8a37748bbfa221c4",
+      "district": "Cooch Behar",
+      "year": "2023",
+      "stage": "final",
+      "source_page": 2,
+      "layout": "ps_explicit",
+      "image_path": "data/wb/derived/ward_schedules/semantic_review/fresh_validation/page_2.png",
+      "image_sha256": "184264f86a5e54fba8b480b19f61efb8835823a18071e793d81811fc93576a24",
+      "gold": [
+        {
+          "seat_no": 1,
+          "name": "MOAMARI",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 2,
+          "name": "MOAMARI",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 3,
+          "name": "MOAMARI",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 4,
+          "name": "CHILKIRHAT",
+          "caste_reservation": "SC",
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 5,
+          "name": "CHILKIRHAT",
+          "caste_reservation": "SC",
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 6,
+          "name": "CHILKIRHAT",
+          "caste_reservation": "SC",
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 7,
+          "name": "FALIMARI",
+          "caste_reservation": "SC",
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 8,
+          "name": "FALIMARI",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 9,
+          "name": "FALIMARI",
+          "caste_reservation": "SC",
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        }
+      ],
+      "record_kind": "block_ward_reservation",
+      "gold_method": "Single-assistant direct visual transcription of source renders after parser code freeze and before opening candidate values. Nonrandom bounded validation, not human double entry. These pages may have previously been seen at small scale for orientation only. No parser tuning on these readings.",
+      "source_page_bbox": null
+    },
+    {
+      "source_path": "data/wb/2023/gp_sources/jalpaiguri_form_a_all_gp_maynaguri_3_mb.pdf",
+      "source_sha256": "78f5e97a7f1f3aeaff376cd994c3c6ccd200249594bc580e7cd692562ad24768",
+      "district": "Jalpaiguri",
+      "year": "2023",
+      "stage": "draft",
+      "source_page": 4,
+      "layout": "rotated_gp",
+      "image_path": "data/wb/derived/ward_schedules/semantic_review/fresh_validation/page_3.png",
+      "image_sha256": "67c9bb391d847a92d2f8b20cb081a582285f681196d96631a46ab404f9896524",
+      "gold": [
+        {
+          "seat_no": 1,
+          "name": "Burnish",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 2,
+          "name": "Burnish",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 3,
+          "name": "Burnish",
+          "caste_reservation": "SC",
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 4,
+          "name": "Burnish",
+          "caste_reservation": "SC",
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 5,
+          "name": "Burnish",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 6,
+          "name": "Burnish",
+          "caste_reservation": "SC",
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 7,
+          "name": "Burnish",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 8,
+          "name": "Burnish",
+          "caste_reservation": "SC",
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 9,
+          "name": "Burnish",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 10,
+          "name": "Burnish",
+          "caste_reservation": "SC",
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 11,
+          "name": "Burnish",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 12,
+          "name": "Burnish",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 13,
+          "name": "Burnish",
+          "caste_reservation": "SC",
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 14,
+          "name": "Burnish",
+          "caste_reservation": "SC",
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 15,
+          "name": "Burnish",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 16,
+          "name": "Burnish",
+          "caste_reservation": "SC",
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 17,
+          "name": "Burnish",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 18,
+          "name": "Burnish",
+          "caste_reservation": "SC",
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 19,
+          "name": "Burnish",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 20,
+          "name": "Burnish",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 21,
+          "name": "Burnish",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 22,
+          "name": "Burnish",
+          "caste_reservation": "SC",
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 23,
+          "name": "Burnish",
+          "caste_reservation": "SC",
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 24,
+          "name": "Burnish",
+          "caste_reservation": "SC",
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        }
+      ],
+      "source_note": "24 allocated seats but21 Roman constituency identifiers: V allocated5/6, VI7/8, XIX21/22; match allocated Arabic seat numbers, not the Roman index.",
+      "record_kind": "gp_ward_reservation",
+      "gold_method": "Single-assistant direct visual transcription of source renders after parser code freeze and before opening candidate values. Nonrandom bounded validation, not human double entry. These pages may have previously been seen at small scale for orientation only. No parser tuning on these readings.",
+      "source_page_bbox": null
+    },
+    {
+      "source_path": "data/wb/gp_source_search/archived_district_files/malda_Bamongola.pdf",
+      "source_sha256": "a1311dabd26cf077177a83bed3f32e8665bea1d84413d5c4b460ba6ddbe267df",
+      "district": "Malda",
+      "year": "2013",
+      "stage": "unclassified",
+      "source_page": 5,
+      "layout": "gp_fallback",
+      "image_path": "data/wb/derived/ward_schedules/semantic_review/fresh_validation/page_5.png",
+      "image_sha256": "de4209503a56bfab05073119ffc0033d2b069ff2ae697a40dd8d4e6986c82914",
+      "gold": [
+        {
+          "seat_no": 10,
+          "name": "MADNABATI",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 11,
+          "name": "MADNABATI",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 12,
+          "name": "MADNABATI",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 13,
+          "name": "MADNABATI",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 14,
+          "name": "MADNABATI",
+          "caste_reservation": "SC",
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 15,
+          "name": "MADNABATI",
+          "caste_reservation": "SC",
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 16,
+          "name": "MADNABATI",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 17,
+          "name": "MADNABATI",
+          "caste_reservation": null,
+          "woman_reserved": 1,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 18,
+          "name": "MADNABATI",
+          "caste_reservation": "ST",
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        },
+        {
+          "seat_no": 19,
+          "name": "MADNABATI",
+          "caste_reservation": null,
+          "woman_reserved": null,
+          "printed_reservation_note": "Empty reservation cells are source blanks/dashes; null is not UR or non-women.",
+          "ambiguous": false
+        }
+      ],
+      "source_note": "Full name/constituency/allocated-seat tokens repeat in reservation columns. Women seat14 prints SCW, so casteSC and women1 independently explicit.",
+      "record_kind": "gp_ward_reservation",
+      "gold_method": "Single-assistant direct visual transcription of source renders after parser code freeze and before opening candidate values. Nonrandom bounded validation, not human double entry. These pages may have previously been seen at small scale for orientation only. No parser tuning on these readings.",
+      "source_page_bbox": null
+    }
+  ],
+  "source_rows": 49,
+  "audited_fields": [
+    "office_tier",
+    "printed_allocated_seat_number",
+    "printed_constituency_name",
+    "caste_marker",
+    "women_marker"
+  ],
+  "code_sha256_at_freeze": "f9a1ba56632047be60f2f6aac48052c5b45883cf6204cab26eba740c2236cac4"
+}

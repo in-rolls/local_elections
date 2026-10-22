@@ -1,0 +1,4084 @@
+<div>
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 45%;">
+<h1 style="text-align: center;">जिला</h1>
+<h1 style="text-align: center;">गजट</h1>
+<div style="text-align: center;">
+                सत्यमेव जयते<br/>
+                झारखण्ड सरकार द्वारा प्रकाशित<br/>
+                पौष, शुक्ल पक्ष एकादशी, विक्रम संवत् <b>2072</b>
+</div>
+<div style="text-align: center;">
+                संख्या— 11 / सा0शा0 गोड्डा
+            </div>
+</div>
+<div style="width: 45%;">
+<p style="text-align: right;"><b>21 दिसम्बर 2015</b></p>
+</div>
+<div style="width: 45%;">
+<h1 style="text-align: center;">जिला- गोड्डा</h1>
+<h1 style="text-align: center;">समाहरणालय, गोड्डा</h1>
+<h1 style="text-align: center;">जिला गजट<br/>घोषणा</h1>
+<p style="text-align: right;"><b>प्रखण्ड- पोडैयाहाट</b></p>
+</div>
+<div style="width: 45%;">
+<p style="text-align: right;"><b>झारखण्ड पंचायत निर्वाचन नियमावली, 2001 के नियम 85 के अर्न्तगत प्रादेशिक / क्षेत्रीय निर्वाचन क्षेत्रों से विधिवत निर्वाचित व्यक्तियों से संबंधित सूची का प्रकाशन</b></p>
+</div>
+</div>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid black;"/>
+<hr style="border: 1px solid<div> <p style="text-align: center;"><b>पंचायत निर्वाचन</b></p></div>
+<div data-bbox="92 421 114 491" data-label="Section-Header"><b>प्रपत्र-23</b></div>
+<div data-bbox="120 398 147 513" data-label="Text">(नियम 85 देखिये)</div>
+<div data-bbox="148 354 177 559" data-label="Section-Header"><b>निर्वाचन परिणाम का प्रकाशन</b></div>
+<div data-bbox="181 53 254 859" data-label="Text">
+<p>झारखंड पंचायत निर्वाचन नियमावली, 2001 के नियम 85 के अनुसरण में मैं एतद द्वारा यह अधिसूचित करता/कस्ती हूँ कि नीचे दी गई अनुसूचि के स्तम्भ (1) में नामित व्यक्ति स्तम्भ (2) में अंकित पद पर, स्तम्भ (5) में वर्णित ग्रम्म पंचमस्त/पंचायत समिति/स्क्रिस मस्षिन्द् के लिए सम्यक् रुप से निर्वाचित हो गया है-</p>
+</div>
+<div data-bbox="267 432 292 480" data-label="Section-Header"><b>अनुसूची</b></div>
+<div data-bbox="292 53 898 859" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="2">पद का विवरण</th>
+<th rowspan="2">महिला/अन्य</th>
+<th rowspan="2">ग्रम-पंचमस्त/पंचायत समिति/स्क्रिस-मस्षिन्द्-जिससे पद संबंधित है (निर्वाचन क्षेत्र सं0/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>मन्जु देवी</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(1)</td>
+</tr>
+<tr>
+<td>रमण कुमार</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(2)</td>
+</tr>
+<tr>
+<td>विशाल कुमार किरकू</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(3)</td>
+</tr>
+<tr>
+<td>रिवु देवी</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(4)</td>
+</tr>
+<tr>
+<td>तारा देवी</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(5)</td>
+</tr>
+<tr>
+<td>जानकी देवी</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(6)</td>
+</tr>
+<tr>
+<td>शान्ती देवी</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(7)</td>
+</tr>
+<tr>
+<td>अजय कुमार सिंह</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(8)</td>
+</tr>
+<tr>
+<td>भुपाली मण्डल</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(9)</td>
+</tr>
+<tr>
+<td>नवल किशोर पंडित</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(10)</td>
+</tr>
+<tr>
+<td>बीटी बेसरा</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(11)</td>
+</tr>
+<tr>
+<td>लालदेव राय</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(12)</td>
+</tr>
+<tr>
+<td>ईश्वर मुर्मू</td>
+<td></td>
+<td></td>
+<td></td>
+<td>IX गोड्डा/08/पोडैयाहाट-(13)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="958 72 977 133" data-label="Page-Footer">Dana 1 of 2</div><table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="2">पद का विवरण</th>
+<th rowspan="2">महिला/अन्य</th>
+<th rowspan="2">मन्म-मन्मम्मत/पंचायत समिति/स्निग्स-मस्मिन्द-जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td>परमेश्वर टुडू</td>
+<td></td>
+<td></td>
+<td>अनुसूचित जनजाति</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(14)</td>
+</tr>
+<tr>
+<td>मीना मराण्डी</td>
+<td></td>
+<td></td>
+<td>अनुसूचित जनजाति</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(15)</td>
+</tr>
+<tr>
+<td>देवेन्द्र किरकू</td>
+<td></td>
+<td></td>
+<td>अनुसूचित जनजाति</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(16)</td>
+</tr>
+<tr>
+<td>चिंतामणि देवी</td>
+<td></td>
+<td></td>
+<td>अनारक्षित</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(17)</td>
+</tr>
+<tr>
+<td>चाँद मुनी सोरेन</td>
+<td></td>
+<td></td>
+<td>अनुसूचित जनजाति</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(18)</td>
+</tr>
+<tr>
+<td>सुशीला सोरेन</td>
+<td></td>
+<td></td>
+<td>अनुसूचित जनजाति</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(19)</td>
+</tr>
+<tr>
+<td>सुनिता मुर्मू</td>
+<td></td>
+<td></td>
+<td>अनुसूचित जनजाति</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(20)</td>
+</tr>
+<tr>
+<td>अवध किशोर हाँसदा</td>
+<td></td>
+<td></td>
+<td>अनुसूचित जनजाति</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(21)</td>
+</tr>
+<tr>
+<td>जुली देवी</td>
+<td></td>
+<td></td>
+<td>अनारक्षित</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(22)</td>
+</tr>
+<tr>
+<td>डेतमय सोरेन</td>
+<td></td>
+<td></td>
+<td>अनुसूचित जनजाति</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(23)</td>
+</tr>
+<tr>
+<td>फूलचंद यादव</td>
+<td></td>
+<td></td>
+<td>अनारक्षित</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(24)</td>
+</tr>
+<tr>
+<td>बसंत राय</td>
+<td></td>
+<td></td>
+<td>अनारक्षित</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(25)</td>
+</tr>
+<tr>
+<td>शिवचरण मुर्मू</td>
+<td></td>
+<td></td>
+<td>अनारक्षित</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(26)</td>
+</tr>
+<tr>
+<td>अर्जून राय</td>
+<td></td>
+<td></td>
+<td>अनारक्षित</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(27)</td>
+</tr>
+<tr>
+<td>मजीद अंसारी</td>
+<td></td>
+<td></td>
+<td>अनारक्षित</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(28)</td>
+</tr>
+<tr>
+<td>सोनमुनी बेसरा</td>
+<td></td>
+<td></td>
+<td>अनुसूचित जनजाति</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(29)</td>
+</tr>
+<tr>
+<td>बेबी हाँसदा</td>
+<td></td>
+<td></td>
+<td>अनुसूचित जनजाति</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(30)</td>
+</tr>
+<tr>
+<td>बीबी हसीना</td>
+<td></td>
+<td></td>
+<td>अनारक्षित</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(31)</td>
+</tr>
+<tr>
+<td>कुलेश्वरी देवी</td>
+<td></td>
+<td></td>
+<td>अनारक्षित</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(32)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="954 66 974 128" data-label="Page-Footer">Page 2 of 3</div><table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">महिला/अन्य</th>
+<th rowspan="2">प्राम-पंचायत /पंचायत समिति/ जिला-परिषद-जिससे पद संबंधित है (निर्वाचन क्षेत्र सं0/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>असफाक आलम</td>
+<td>पंचायत समिति के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(33)</td>
+<td></td>
+</tr>
+<tr>
+<td>नीलम देवी</td>
+<td>पंचायत समिति के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(34)</td>
+<td></td>
+</tr>
+<tr>
+<td>गुडिया कुमारी</td>
+<td>पंचायत समिति के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(35)</td>
+<td></td>
+</tr>
+<tr>
+<td>प्रियंका देवी</td>
+<td>पंचायत समिति के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(36)</td>
+<td></td>
+</tr>
+<tr>
+<td>जोसेफ बेसरा</td>
+<td>पंचायत समिति के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/पोडैयाहाट-(37)</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="401 756 423 857" data-label="Text">
+<p>स्थान :- गोड्डा।</p>
+</div>
+<div data-bbox="439 734 460 857" data-label="Text">
+<p>तारीख :- 21.12.2015</p>
+</div>
+<div data-bbox="380 168 434 250" data-label="Text">
+<p>2/12</p>
+</div>
+<div data-bbox="434 140 457 338" data-label="Text">
+<p>जिला निर्वाचन पदाधिकारी (पंचायत)</p>
+</div>
+<div data-bbox="462 170 484 309" data-label="Text">
+<p>-सह-उपायुक्त, गोड्डा।</p>
+</div>
+<div data-bbox="506 58 544 857" data-label="Text">
+<p>टिप्पणी :- 1. यदि निर्वाचन क्षेत्र आरक्षित कोटि के अन्तर्गत आता है तब स्तम्भ 3 में आरक्षित कोटि के नाम का उल्लेख किया जाये, यथा, अनुसूचित जाति, अनुसूचित जन-जाति, पिछड़ा वर्ग। यदि निर्वाचन क्षेत्र अनारक्षित कोटि के अन्तर्गत आता है तब “अनारक्षित” का उल्लेख किया जाये।</p>
+</div>
+<div data-bbox="547 83 571 812" data-label="Text">
+<p>2. यदि निर्वाचन क्षेत्र महिला के लिय आरक्षित है तब स्तम्भ 4 में “महिला” शब्द का उल्लेख किया जाये। यदि निर्वाचन क्षेत्र महिला के लिए आरक्षित नहीं है तब “अन्य” शब्द का उल्लेख किया जाये।</p>
+</div>
+<div data-bbox="964 67 982 129" data-label="Page-Footer">
+<p>Pana 3 of 3</p>
+</div><div data-bbox="810 58 914 82" data-label="Page-Header">
+<p>पंचायत निर्वाचन</p>
+</div>
+<div data-bbox="486 96 549 117" data-label="Section-Header">
+<p>प्रपत्र-23</p>
+</div>
+<div data-bbox="464 124 574 148" data-label="Text">
+<p>(नियम 85 देखिये)</p>
+</div>
+<div data-bbox="421 152 615 177" data-label="Section-Header">
+<p>निर्वाचन परिणाम का प्रकाशन</p>
+</div>
+<div data-bbox="124 178 914 253" data-label="Text">
+<p>झारखंड पंचायत निर्वाचन नियमावली, 2001 के नियम 85 के अनुसरण में मैं एतद द्वारा यह अधिसूचित करता/क्रस्ती हूँ कि नीचे दी गई अनुसूचि के स्तम्भ (1) में नामित व्यक्ति स्तम्भ (2) में अंकित पद पर, स्तम्भ (5) में वर्णित ग्राम पंचायत/मंचायत समिति/जिला मस्षिद के लिए सम्यक् रुप से निर्वाचित हो गया है-</p>
+</div>
+<div data-bbox="492 263 543 286" data-label="Section-Header">
+<p>अनुसूची</p>
+</div>
+<div data-bbox="124 284 911 880" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/मंचायत-समिति/जिला-मस्षिद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>पुतुल देवी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 1-सोनडीहा</td>
+</tr>
+<tr>
+<td>हेमन्त कुमार</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 2-बक्सरा</td>
+</tr>
+<tr>
+<td>शशि विश्वास</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 3-देवबंधा</td>
+</tr>
+<tr>
+<td>मनोरमा देवी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 4-विरनियां</td>
+</tr>
+<tr>
+<td>कुमोदनी देवी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 5-लीलादह</td>
+</tr>
+<tr>
+<td>संजू देवी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 6-रतनपुर</td>
+</tr>
+<tr>
+<td>सोनी कुमारी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 7-आसाढीमाधुरी</td>
+</tr>
+<tr>
+<td>रामविलास रजक</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 8-डांडे</td>
+</tr>
+<tr>
+<td>बिजली देवी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 9-पसई</td>
+</tr>
+<tr>
+<td>उमेश चन्द्र गोस्वामी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 10-लत्ता दिक्वानी</td>
+</tr>
+<tr>
+<td>प्रभा रानी देवी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 11-नवडीहा</td>
+</tr>
+<tr>
+<td>दोरोथी सोरेन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 12-भठौधा</td>
+</tr>
+<tr>
+<td>मेरी हांसदा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 13-बरगच्छा हरियारी</td>
+</tr>
+<tr>
+<td>राजेन्द्र रविदास</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 14-द्रोपद</td>
+</tr>
+<tr>
+<td>पुनम देवी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 15-तरखुट्टा</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="872 958 936 974" data-label="Page-Footer">
+<p>Page 1 of 2</p>
+</div><div>
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>शिसिलिया मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 16-सलैया</td>
+</tr>
+<tr>
+<td>महेन्द्र टुडू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 17-ठाकुरनहान</td>
+</tr>
+<tr>
+<td>जोसपीन मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 18-सकरीफुलवार</td>
+</tr>
+<tr>
+<td>अनुपम कुमार</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 19-पोड़ैयाहाट</td>
+</tr>
+<tr>
+<td>मेरी बेसरा</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 20-अमुवारसंथाली</td>
+</tr>
+<tr>
+<td>सिमोन मराण्डी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 21-लाठीबाड़ी</td>
+</tr>
+<tr>
+<td>बुद्धिनाथ किस्कू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 22-धेनुकटा</td>
+</tr>
+<tr>
+<td>तेरेसा हेम्ब्रम</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 23-चतरा</td>
+</tr>
+<tr>
+<td>होपोनमय मराण्डी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 24-कस्तुरी</td>
+</tr>
+<tr>
+<td>पीकू देवी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 25-अकासी</td>
+</tr>
+<tr>
+<td>बहामुनी मुर्मू</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 26-बांझी</td>
+</tr>
+<tr>
+<td>रईस अंसारी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 27-खरकचिया</td>
+</tr>
+<tr>
+<td>नीतु देवी</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 28-बाघमारा</td>
+</tr>
+<tr>
+<td>बेबी दे</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 29-देवडांड़</td>
+</tr>
+<tr>
+<td>देवाशीष यादव</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 30-पिण्डराहाट</td>
+</tr>
+<tr>
+<td>पटवारी सोरेन</td>
+<td>ग्राम पंचायत के मुखिया</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 31-सिंधबांक</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="123 633 218 655" data-label="Text">
+<p>स्थान :- गोड्डा।</p>
+</div>
+<div data-bbox="123 668 240 688" data-label="Text">
+<p>तारीख :- 21.12.2015</p>
+</div>
+<div data-bbox="638 625 830 718" data-label="Text"><img/></div>
+<div data-bbox="123 761 879 821" data-label="Text">
+<p>टिप्पणी :- 1. यदि निर्वाचन क्षेत्र आरक्षित कोटि के अन्तर्गत आता है तब स्तम्भ 3 में आरक्षित कोटि के नाम का उल्लेख किया जाये, यथा, अनुसूचित जाति, अनुसूचित जन-जाति, पिछड़ा वर्ग। यदि निर्वाचन क्षेत्र अनारक्षित कोटि के अन्तर्गत आता है तब "अनारक्षित" का उल्लेख किया जाये।<br/>2. यदि निर्वाचन क्षेत्र महिला के लिय आरक्षित है तब स्तम्भ 4 में "महिला" शब्द का उल्लेख किया जाये। यदि निर्वाचन क्षेत्र महिला के लिए आरक्षित नहीं है तब "अन्य" शब्द का उल्लेख किया जाये।</p>
+</div>
+<div data-bbox="866 956 933 974" data-label="Page-Footer">
+<p>Page 2 of 2</p>
+</div><div data-bbox="826 63 938 88" data-label="Page-Header">
+<p>पंचायत निर्वाचन</p>
+</div>
+<div data-bbox="488 102 562 126" data-label="Section-Header">
+<p>प्रपत्र-23</p>
+</div>
+<div data-bbox="468 134 584 159" data-label="Text">
+<p>(नियम 85 देखिये)</p>
+</div>
+<div data-bbox="422 165 628 190" data-label="Section-Header">
+<p>निर्वाचन परिणाम का प्रकाशन</p>
+</div>
+<div data-bbox="114 195 938 273" data-label="Text">
+<p>झारखंड पंचायत निर्वाचन नियमावली, 2001 के नियम 85 के अनुसरण में मैं एतद द्वारा यह अधिसूचित करता/करती हूँ कि नीचे दी गई अनुसूचि के स्तम्भ (1) में नामित व्यक्ति, स्तम्भ (2) में अंकित पद पर, स्तम्भ (5) में वर्णित ग्राम पंचायत/पंचायत समिति/जिला परिषद के लिए सम्यक् रुप से निर्वाचित हो गया है-</p>
+</div>
+<div data-bbox="500 282 551 307" data-label="Section-Header">
+<p>अनुसूची</p>
+</div>
+<div data-bbox="114 307 936 891" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचायत समिति/जिला परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>अर्जुन यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (1)</td>
+</tr>
+<tr>
+<td>बिंदा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (2)</td>
+</tr>
+<tr>
+<td>द्रोपती देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (3)</td>
+</tr>
+<tr>
+<td>मंजु देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (4)</td>
+</tr>
+<tr>
+<td>रिंकु देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (5)</td>
+</tr>
+<tr>
+<td>मौसम कुमारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (6)</td>
+</tr>
+<tr>
+<td>पंकज कुमार पूर्वे</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (7)</td>
+</tr>
+<tr>
+<td>पवन कुमार यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (8)</td>
+</tr>
+<tr>
+<td>अर्चना देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (9)</td>
+</tr>
+<tr>
+<td>बेगम खातुन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (10)</td>
+</tr>
+<tr>
+<td>मीना देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (11)</td>
+</tr>
+<tr>
+<td>जयनंदन राउत</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (12)</td>
+</tr>
+<tr>
+<td>घनश्याम मोहली</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/1/सोनडीहा- (13)</td>
+</tr>
+<tr>
+<td>संगीता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/02/बक्सरा -(1)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="856 959 931 976" data-label="Page-Footer">
+<p>Page 1 of 19</p>
+</div><div data-bbox="116 57 942 875" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/मंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>प्रेमलता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 02/बक्सरा -(2)</td>
+</tr>
+<tr>
+<td>संतोष कुमार ठाकुर</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 02/बक्सरा -(3)</td>
+</tr>
+<tr>
+<td>आरती देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 02/बक्सरा -(4)</td>
+</tr>
+<tr>
+<td>रजनी कुमारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 02/बक्सरा -(5)</td>
+</tr>
+<tr>
+<td>पिंकी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 02/बक्सरा -(6)</td>
+</tr>
+<tr>
+<td>स्नेहलता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 02/बक्सरा -(7)</td>
+</tr>
+<tr>
+<td>संजय कुमार साह</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 02/बक्सरा -(8)</td>
+</tr>
+<tr>
+<td>मनेस यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 02/बक्सरा -(9)</td>
+</tr>
+<tr>
+<td>प्रिया कुमारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 02/बक्सरा -(10)</td>
+</tr>
+<tr>
+<td>रुबी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 02/बक्सरा -(11)</td>
+</tr>
+<tr>
+<td>दिनेश किस्कू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/3/देवंधा- (1)</td>
+</tr>
+<tr>
+<td>बैद्यनाथ सिंह</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/3/देवंधा- (2)</td>
+</tr>
+<tr>
+<td>रुवी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/3/देवंधा- (3)</td>
+</tr>
+<tr>
+<td>मुन्नी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/3/देवंधा- (4)</td>
+</tr>
+<tr>
+<td>मंजु देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/3/देवंधा- (5)</td>
+</tr>
+<tr>
+<td>झुपर खडोगी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/3/देवंधा- (6)</td>
+</tr>
+<tr>
+<td>नुतन देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/3/देवंधा- (7)</td>
+</tr>
+<tr>
+<td>लुखो देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/3/देवंधा- (8)</td>
+</tr>
+<tr>
+<td>पवन दास</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/3/देवंधा- (9)</td>
+</tr>
+<tr>
+<td>माला देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/3/देवंधा- (10)</td>
+</tr>
+<tr>
+<td>पंकज यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/3/देवंधा- (11)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="862 958 939 978" data-label="Page-Footer">Page 2 of 19</div><div data-bbox="117 54 946 875" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/ मंचायत-समिति/ जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>मरांगमय मरांडी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/3/देवंधा- (12)</td>
+</tr>
+<tr>
+<td>शान्ती देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/04/ विरनियां-(1)</td>
+</tr>
+<tr>
+<td>पोदीना देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/04/ विरनियां-(2)</td>
+</tr>
+<tr>
+<td>प्रदीप कुमार यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/04/ विरनियां-(3)</td>
+</tr>
+<tr>
+<td>भवेश कुमार यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/04/ विरनियां-(4)</td>
+</tr>
+<tr>
+<td>चाँदनी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/04/ विरनियां-(5)</td>
+</tr>
+<tr>
+<td>ज्योतिष कुमार मण्डल</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/04/ विरनियां-(6)</td>
+</tr>
+<tr>
+<td>पूनम देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/04/ विरनियां-(7)</td>
+</tr>
+<tr>
+<td>बबीता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/04/ विरनियां-(8)</td>
+</tr>
+<tr>
+<td>रामचंद्र हेम्ब्रम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/04/ विरनियां-(9)</td>
+</tr>
+<tr>
+<td>फलातुन वीवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/04/ विरनियां-(10)</td>
+</tr>
+<tr>
+<td>प्रियंका सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/04/ विरनियां-(11)</td>
+</tr>
+<tr>
+<td>पुतली देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(1)</td>
+</tr>
+<tr>
+<td>दिनेश प्रसाद यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(2)</td>
+</tr>
+<tr>
+<td>मुनी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(3)</td>
+</tr>
+<tr>
+<td>मरांगमय सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(4)</td>
+</tr>
+<tr>
+<td>विनोद टुडू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(5)</td>
+</tr>
+<tr>
+<td>तालको सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(6)</td>
+</tr>
+<tr>
+<td>बहामय टुडू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(7)</td>
+</tr>
+<tr>
+<td>उर्मिला बेसरा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(8)</td>
+</tr>
+<tr>
+<td>कुमोद ततवा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(9)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="860 958 937 976" data-label="Page-Footer">Page 3 of 19</div><div data-bbox="114 53 939 872" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/मंचायत-समिति/जिला परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>लक्ष्मी मरण्डी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(10)</td>
+</tr>
+<tr>
+<td>छेदनी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(11)</td>
+</tr>
+<tr>
+<td>रज्जाक अंसारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(12)</td>
+</tr>
+<tr>
+<td>मुन्नी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 05 लीलादह -(13)</td>
+</tr>
+<tr>
+<td>कैलाश राय</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/6/रतनपुर -(1)</td>
+</tr>
+<tr>
+<td>मीना देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/6/रतनपुर -(2)</td>
+</tr>
+<tr>
+<td>हेमलता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/6/रतनपुर -(3)</td>
+</tr>
+<tr>
+<td>राजकिशोर ततवा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/6/रतनपुर -(4)</td>
+</tr>
+<tr>
+<td>श्रीकान्त रविदास</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/6/रतनपुर -(5)</td>
+</tr>
+<tr>
+<td>पूनम कुमारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/6/रतनपुर -(6)</td>
+</tr>
+<tr>
+<td>अनमनी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/6/रतनपुर -(7)</td>
+</tr>
+<tr>
+<td>मुन्नी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/6/रतनपुर -(8)</td>
+</tr>
+<tr>
+<td>रूको देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/6/रतनपुर -(9)</td>
+</tr>
+<tr>
+<td>मनोज कुमार भंडारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/6/रतनपुर -(10)</td>
+</tr>
+<tr>
+<td>नीलम देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/07/आसाढीमाधुरी -(1)</td>
+</tr>
+<tr>
+<td>विद्या देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/07/आसाढीमाधुरी -(2)</td>
+</tr>
+<tr>
+<td>सरीता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/07/आसाढीमाधुरी -(3)</td>
+</tr>
+<tr>
+<td>दिनेश प्रसाद महतो</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/07/आसाढीमाधुरी -(4)</td>
+</tr>
+<tr>
+<td>भजो बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/07/आसाढीमाधुरी -(5)</td>
+</tr>
+<tr>
+<td>फुलकुमारी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/07/आसाढीमाधुरी -(6)</td>
+</tr>
+<tr>
+<td>नन्दकिशोर मण्डल</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/07/आसाढीमाधुरी -(7)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="856 957 930 973" data-label="Page-Footer">Page 4 of 10</div><div data-bbox="115 53 942 875" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/मंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>महेश यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/07/आसाढीमाधुरी -(8)</td>
+</tr>
+<tr>
+<td>रेशमी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/07/आसाढीमाधुरी -(9)</td>
+</tr>
+<tr>
+<td>रीना देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/07/आसाढीमाधुरी -(10)</td>
+</tr>
+<tr>
+<td>उमेश कुमार</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/07/आसाढीमाधुरी -(11)</td>
+</tr>
+<tr>
+<td>रौयमन बास्की</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/07/आसाढीमाधुरी -(12)</td>
+</tr>
+<tr>
+<td>सपन कुमार मण्डल</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/08/डांडै- (1)</td>
+</tr>
+<tr>
+<td>पुतुल देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/08/डांडै- (2)</td>
+</tr>
+<tr>
+<td>चन्दा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/08/डांडै- (3)</td>
+</tr>
+<tr>
+<td>दिवाकर मण्डल</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/08/डांडै- (4)</td>
+</tr>
+<tr>
+<td>रमेश मंडल</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/08/डांडै- (5)</td>
+</tr>
+<tr>
+<td>सोनी सिंह</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/08/डांडै- (6)</td>
+</tr>
+<tr>
+<td>प्रियंका दास</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/08/डांडै- (7)</td>
+</tr>
+<tr>
+<td>माधुरी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/08/डांडै- (8)</td>
+</tr>
+<tr>
+<td>अर्पणा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/08/डांडै- (9)</td>
+</tr>
+<tr>
+<td>लाछो देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/08/डांडै- (10)</td>
+</tr>
+<tr>
+<td>रेवेन गंधर्व</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/08/डांडै- (11)</td>
+</tr>
+<tr>
+<td>दिलीप पासी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/08/डांडै- (12)</td>
+</tr>
+<tr>
+<td>बजरंगी रविदास</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/08/डांडै- (13)</td>
+</tr>
+<tr>
+<td>रीता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/08/डांडै- (14)</td>
+</tr>
+<tr>
+<td>ब्रजेन्द्र झा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/08/डांडै- (15)</td>
+</tr>
+<tr>
+<td>सुबोध हजारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/08/डांडै- (16)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="858 960 936 980" data-label="Page-Footer">Page 5 of 19</div><div data-bbox="113 53 936 875" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>मालती देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 08/डांडै- (17)</td>
+</tr>
+<tr>
+<td>प्रेमलता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 09/पसई -(1)</td>
+</tr>
+<tr>
+<td>ऋतुम्मस कुमारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 09/पसई -(2)</td>
+</tr>
+<tr>
+<td>विवेक आनन्द</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 09/पसई -(3)</td>
+</tr>
+<tr>
+<td>नकुल प्रसाद यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 09/पसई -(4)</td>
+</tr>
+<tr>
+<td>करूणा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 09/पसई -(5)</td>
+</tr>
+<tr>
+<td>महेश यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 09/पसई -(6)</td>
+</tr>
+<tr>
+<td>पार्वती देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 09/पसई -(7)</td>
+</tr>
+<tr>
+<td>मुंगा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 09/पसई -(8)</td>
+</tr>
+<tr>
+<td>प्रदीप मांझी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 09/पसई -(9)</td>
+</tr>
+<tr>
+<td>सुमित्रा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 09/पसई -(10)</td>
+</tr>
+<tr>
+<td>रीता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 09/पसई -(11)</td>
+</tr>
+<tr>
+<td>कविता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 09/पसई -(12)</td>
+</tr>
+<tr>
+<td>लिली मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (1)</td>
+</tr>
+<tr>
+<td>सुनील सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (2)</td>
+</tr>
+<tr>
+<td>सुनीता मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (3)</td>
+</tr>
+<tr>
+<td>पिंकी किस्कु</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (4)</td>
+</tr>
+<tr>
+<td>नारेश हाँसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (5)</td>
+</tr>
+<tr>
+<td>गीता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (6)</td>
+</tr>
+<tr>
+<td>सुरेश दागरी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (7)</td>
+</tr>
+<tr>
+<td>निर्मला देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (8)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="857 955 931 975" data-label="Page-Footer">Page 6 of 19</div><div data-bbox="116 53 939 870" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/मंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>गुडी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (9)</td>
+</tr>
+<tr>
+<td>सलोमी हेम्ब्रम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (10)</td>
+</tr>
+<tr>
+<td>चांदमुनी मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (11)</td>
+</tr>
+<tr>
+<td>पंकज राउत</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (12)</td>
+</tr>
+<tr>
+<td>राजकिशोर पंडित</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (13)</td>
+</tr>
+<tr>
+<td>किरण देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/10/लता दिकवानी- (14)</td>
+</tr>
+<tr>
+<td>जाहीरा बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 11/नवडीहा -(1)</td>
+</tr>
+<tr>
+<td>सकल देव बाउरी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 11/नवडीहा -(2)</td>
+</tr>
+<tr>
+<td>दशरथ ठाकुर</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 11/नवडीहा -(3)</td>
+</tr>
+<tr>
+<td>जयमंती देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 11/नवडीहा -(4)</td>
+</tr>
+<tr>
+<td>मल्लिका कुमारी मंडल</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 11/नवडीहा -(5)</td>
+</tr>
+<tr>
+<td>पुष्पा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 11/नवडीहा -(6)</td>
+</tr>
+<tr>
+<td>मीना हेम्ब्रम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 11/नवडीहा -(7)</td>
+</tr>
+<tr>
+<td>सुशीला देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 11/नवडीहा -(8)</td>
+</tr>
+<tr>
+<td>जयमाला देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 11/नवडीहा -(9)</td>
+</tr>
+<tr>
+<td>महाफुल मरण्डी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 11/नवडीहा -(10)</td>
+</tr>
+<tr>
+<td>श्रीमती हांसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 11/नवडीहा -(11)</td>
+</tr>
+<tr>
+<td>बिटिया हेम्ब्रम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 11/नवडीहा -(12)</td>
+</tr>
+<tr>
+<td>अजय सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(1)</td>
+</tr>
+<tr>
+<td>पुष्पा तेरेसा मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(2)</td>
+</tr>
+<tr>
+<td>युगल सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(3)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="859 953 933 973" data-label="Page-Footer">Page 7 of 19</div><div data-bbox="119 53 946 870" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>रविन्द्र नाथ मिर्था</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(4)</td>
+</tr>
+<tr>
+<td>मंझली सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(5)</td>
+</tr>
+<tr>
+<td>सेफुननिशा बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(6)</td>
+</tr>
+<tr>
+<td>अनिता सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(7)</td>
+</tr>
+<tr>
+<td>शिवजतन सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(8)</td>
+</tr>
+<tr>
+<td>दरोगा हांसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(9)</td>
+</tr>
+<tr>
+<td>रीता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(10)</td>
+</tr>
+<tr>
+<td>मंझली टुडू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(11)</td>
+</tr>
+<tr>
+<td>रितेश कुमार भगत</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(12)</td>
+</tr>
+<tr>
+<td>सबीना सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(13)</td>
+</tr>
+<tr>
+<td>नरेश सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 12/ भठौधा -(14)</td>
+</tr>
+<tr>
+<td>पुष्पा मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/13/बरगच्छा हरियारी - (1)</td>
+</tr>
+<tr>
+<td>ललिता मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/13/बरगच्छा हरियारी - (2)</td>
+</tr>
+<tr>
+<td>प्रियंका देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/13/बरगच्छा हरियारी - (3)</td>
+</tr>
+<tr>
+<td>अस्मिता टुडू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/13/बरगच्छा हरियारी - (4)</td>
+</tr>
+<tr>
+<td>पुनम देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/13/बरगच्छा हरियारी - (5)</td>
+</tr>
+<tr>
+<td>श्रीलाल मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/13/बरगच्छा हरियारी - (6)</td>
+</tr>
+<tr>
+<td>मास्टर मरंडी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/13/बरगच्छा हरियारी - (7)</td>
+</tr>
+<tr>
+<td>सुनील मरण्डी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/13/बरगच्छा हरियारी - (8)</td>
+</tr>
+<tr>
+<td>एलबीना सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/13/बरगच्छा हरियारी - (9)</td>
+</tr>
+<tr>
+<td>मेरी कलारा सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/13/बरगच्छा हरियारी - (10)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="864 953 942 973" data-label="Page-Footer">Page 8 of 19</div><div data-bbox="117 53 942 871" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>सुर्यी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/14/द्रोपद - (1)</td>
+</tr>
+<tr>
+<td>दिलीप राउत</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/14/द्रोपद - (2)</td>
+</tr>
+<tr>
+<td>सुकुमारी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/14/द्रोपद - (3)</td>
+</tr>
+<tr>
+<td>देवकी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/14/द्रोपद - (4)</td>
+</tr>
+<tr>
+<td>पंकज कुमार यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/14/द्रोपद - (5)</td>
+</tr>
+<tr>
+<td>चन्द्रकिशोर गायन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/14/द्रोपद - (6)</td>
+</tr>
+<tr>
+<td>बसंती देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/14/द्रोपद - (7)</td>
+</tr>
+<tr>
+<td>सुशीला देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/14/द्रोपद - (8)</td>
+</tr>
+<tr>
+<td>अभिमन्यु प्रसाद यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/14/द्रोपद - (9)</td>
+</tr>
+<tr>
+<td>किशन ठाकुर</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/14/द्रोपद - (10)</td>
+</tr>
+<tr>
+<td>बोनुस सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/14/द्रोपद - (11)</td>
+</tr>
+<tr>
+<td>अवधेश सिंह</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/15 /तरखुट्टा -(1)</td>
+</tr>
+<tr>
+<td>रेखा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/15 /तरखुट्टा -(2)</td>
+</tr>
+<tr>
+<td>नरेश राम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/15 /तरखुट्टा -(3)</td>
+</tr>
+<tr>
+<td>लक्ष्मी कुमारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/15 /तरखुट्टा -(4)</td>
+</tr>
+<tr>
+<td>लाकेश्वरी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/15 /तरखुट्टा -(5)</td>
+</tr>
+<tr>
+<td>सुषमा मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/15 /तरखुट्टा -(6)</td>
+</tr>
+<tr>
+<td>जीतलाल सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/15 /तरखुट्टा -(7)</td>
+</tr>
+<tr>
+<td>बस्ता सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/15 /तरखुट्टा -(8)</td>
+</tr>
+<tr>
+<td>शांति मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/15 /तरखुट्टा -(9)</td>
+</tr>
+<tr>
+<td>स्नेहलता हेम्ब्रम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/15 /तरखुट्टा -(10)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="862 954 939 974" data-label="Page-Footer">Page 9 of 19</div><div data-bbox="117 54 942 870" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>किशोर पंडित</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 15 /तरखुट्टा -(11)</td>
+</tr>
+<tr>
+<td>सोनालाल हेम्ब्रम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 16 /सलैया -(1)</td>
+</tr>
+<tr>
+<td>राधा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 16 /सलैया -(2)</td>
+</tr>
+<tr>
+<td>केशव कुमार सिंह</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 16 /सलैया -(3)</td>
+</tr>
+<tr>
+<td>लता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 16 /सलैया -(4)</td>
+</tr>
+<tr>
+<td>मोनीका हाँसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 16 /सलैया -(5)</td>
+</tr>
+<tr>
+<td>सुरेश हाँसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 16 /सलैया -(6)</td>
+</tr>
+<tr>
+<td>शिला मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 16 /सलैया -(7)</td>
+</tr>
+<tr>
+<td>सुशीला किस्कु</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 16 /सलैया -(8)</td>
+</tr>
+<tr>
+<td>आशिक हाँसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 16 /सलैया -(9)</td>
+</tr>
+<tr>
+<td>बहामणि मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 16 /सलैया -(10)</td>
+</tr>
+<tr>
+<td>दीपा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 17 /ठाकुरनहान -(1)</td>
+</tr>
+<tr>
+<td>पगान हेम्ब्रम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 17 /ठाकुरनहान -(2)</td>
+</tr>
+<tr>
+<td>सरस्वती देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 17 /ठाकुरनहान -(3)</td>
+</tr>
+<tr>
+<td>सुलेखा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 17 /ठाकुरनहान -(4)</td>
+</tr>
+<tr>
+<td>मो० बसंती</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 17 /ठाकुरनहान -(5)</td>
+</tr>
+<tr>
+<td>प्रभा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 17 /ठाकुरनहान -(6)</td>
+</tr>
+<tr>
+<td>कपरा हेम्ब्रम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 17 /ठाकुरनहान -(7)</td>
+</tr>
+<tr>
+<td>पानमुनी मराण्डी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 17 /ठाकुरनहान -(8)</td>
+</tr>
+<tr>
+<td>सालगी बास्की</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 17 /ठाकुरनहान -(9)</td>
+</tr>
+<tr>
+<td>शिबू हेम्ब्रम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 17 /ठाकुरनहान -(10)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="855 955 940 975" data-label="Page-Footer">
+<p>Page 10 of 19</p>
+</div><div data-bbox="120 54 946 873" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>सोनवा मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/17/ठाकुरनहान -(11)</td>
+</tr>
+<tr>
+<td>रोजबेल टुडू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/18/सकरीफुलवार - (1)</td>
+</tr>
+<tr>
+<td>ताला सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/18/सकरीफुलवार - (2)</td>
+</tr>
+<tr>
+<td>नुनेसरी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/18/सकरीफुलवार - (3)</td>
+</tr>
+<tr>
+<td>गिरीश सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/18/सकरीफुलवार - (4)</td>
+</tr>
+<tr>
+<td>सुशीला सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/18/सकरीफुलवार - (5)</td>
+</tr>
+<tr>
+<td>सबीना सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/18/सकरीफुलवार - (6)</td>
+</tr>
+<tr>
+<td>चन्द्रावती देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/18/सकरीफुलवार - (7)</td>
+</tr>
+<tr>
+<td>जनार्दन सिंह</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/18/सकरीफुलवार - (8)</td>
+</tr>
+<tr>
+<td>बाबुलाल हांसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/18/सकरीफुलवार - (9)</td>
+</tr>
+<tr>
+<td>रेखा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/18/सकरीफुलवार - (10)</td>
+</tr>
+<tr>
+<td>पुतुल देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/18/सकरीफुलवार - (11)</td>
+</tr>
+<tr>
+<td>सुदाम कुमार सिंह</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/18/सकरीफुलवार - (12)</td>
+</tr>
+<tr>
+<td>रोहित कुमार दे</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/19/पोड़ैयाहाट -(1)</td>
+</tr>
+<tr>
+<td>भोला यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/19/पोड़ैयाहाट -(2)</td>
+</tr>
+<tr>
+<td>जुली देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/19/पोड़ैयाहाट -(3)</td>
+</tr>
+<tr>
+<td>मुकेश कुमार भगत</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/19/पोड़ैयाहाट -(4)</td>
+</tr>
+<tr>
+<td>सोनालाल सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/19/पोड़ैयाहाट -(5)</td>
+</tr>
+<tr>
+<td>तालको हांसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/19/पोड़ैयाहाट -(6)</td>
+</tr>
+<tr>
+<td>अंजली देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/19/पोड़ैयाहाट -(7)</td>
+</tr>
+<tr>
+<td>प्रीतम कुमार</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/19/पोड़ैयाहाट -(8)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="857 955 942 976" data-label="Page-Footer">
+<p>Page 11 of 19</p>
+</div><div data-bbox="116 53 946 869" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>छाया देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/19/पोडैयाहाट -(9)</td>
+</tr>
+<tr>
+<td>कुन्दन कुमार भगत</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/19/पोडैयाहाट -(10)</td>
+</tr>
+<tr>
+<td>ललिता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/19/पोडैयाहाट -(11)</td>
+</tr>
+<tr>
+<td>विन्दु देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/19/पोडैयाहाट -(12)</td>
+</tr>
+<tr>
+<td>सुमित्रा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/19/पोडैयाहाट -(13)</td>
+</tr>
+<tr>
+<td>प्रफुल कापरी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/20/ अमुवार संथाली -(1)</td>
+</tr>
+<tr>
+<td>सुरूजमुनी मरांडी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/20/ अमुवार संथाली -(2)</td>
+</tr>
+<tr>
+<td>हरिनंदन मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/20/ अमुवार संथाली -(3)</td>
+</tr>
+<tr>
+<td>शिबल किस्कु</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/20/ अमुवार संथाली -(4)</td>
+</tr>
+<tr>
+<td>आशा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/20/ अमुवार संथाली -(5)</td>
+</tr>
+<tr>
+<td>अंजु देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/20/ अमुवार संथाली -(6)</td>
+</tr>
+<tr>
+<td>डेतमय मरण्डी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/20/ अमुवार संथाली -(7)</td>
+</tr>
+<tr>
+<td>तेरेसा हॉसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/20/ अमुवार संथाली -(8)</td>
+</tr>
+<tr>
+<td>हेम मरान्डी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/20/ अमुवार संथाली -(9)</td>
+</tr>
+<tr>
+<td>बिटी हेमरम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/20/ अमुवार संथाली -(10)</td>
+</tr>
+<tr>
+<td>अनिल हॉसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/20/ अमुवार संथाली -(11)</td>
+</tr>
+<tr>
+<td>सोलामी मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/21/लाठीबाडी - (1)</td>
+</tr>
+<tr>
+<td>प्रमीला देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/21/लाठीबाडी - (2)</td>
+</tr>
+<tr>
+<td>मनोरंजन दत्त</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/21/लाठीबाडी - (3)</td>
+</tr>
+<tr>
+<td>रूपा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/21/लाठीबाडी - (4)</td>
+</tr>
+<tr>
+<td>सुरेश यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/21/लाठीबाडी - (5)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="856 955 940 976" data-label="Page-Footer">
+<p>Page 12 of 19</p>
+</div><div data-bbox="120 53 946 871" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/मंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>मालती देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX- गोड्डा/08/21/लाठीबाडी - (6)</td>
+</tr>
+<tr>
+<td>टीपन राणा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX- गोड्डा/08/21/लाठीबाडी - (7)</td>
+</tr>
+<tr>
+<td>मनोज राय</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX- गोड्डा/08/21/लाठीबाडी - (8)</td>
+</tr>
+<tr>
+<td>बोना मिर्धा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX- गोड्डा/08/21/लाठीबाडी - (9)</td>
+</tr>
+<tr>
+<td>चम्पा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX- गोड्डा/08/21/लाठीबाडी - (10)</td>
+</tr>
+<tr>
+<td>ढेना मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX- गोड्डा/08/21/लाठीबाडी - (11)</td>
+</tr>
+<tr>
+<td>सुहागिनी टुडू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX- गोड्डा/08/21/लाठीबाडी - (12)</td>
+</tr>
+<tr>
+<td>रामशंकर राय</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(1)</td>
+</tr>
+<tr>
+<td>समरी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(2)</td>
+</tr>
+<tr>
+<td>मेरी मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(3)</td>
+</tr>
+<tr>
+<td>मयबीटी हेमरम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(4)</td>
+</tr>
+<tr>
+<td>रहीमन वीवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(5)</td>
+</tr>
+<tr>
+<td>किरण देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(6)</td>
+</tr>
+<tr>
+<td>मनोज सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(7)</td>
+</tr>
+<tr>
+<td>खलील अंसारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(8)</td>
+</tr>
+<tr>
+<td>सुरेन्द्र मराण्डी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(9)</td>
+</tr>
+<tr>
+<td>मर्शिला हाँसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(10)</td>
+</tr>
+<tr>
+<td>शिवपुजन दास</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(11)</td>
+</tr>
+<tr>
+<td>बिटी मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(12)</td>
+</tr>
+<tr>
+<td>फुलकुमारी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(13)</td>
+</tr>
+<tr>
+<td>सुमिता मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX- गोड्डा/08/22/धेनुकट्टा -(14)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="854 957 940 978" data-label="Page-Footer">
+<p>Page 13 of 19</p>
+</div><div data-bbox="121 53 946 870" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/मंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>श्यामलाल देहरी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(1)</td>
+</tr>
+<tr>
+<td>झुमरी मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(2)</td>
+</tr>
+<tr>
+<td>मेयकु मुरमू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(3)</td>
+</tr>
+<tr>
+<td>योगेन्द्र राय</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(4)</td>
+</tr>
+<tr>
+<td>नजमा बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(5)</td>
+</tr>
+<tr>
+<td>विश्वनाथ राय</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(6)</td>
+</tr>
+<tr>
+<td>पिंकी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(7)</td>
+</tr>
+<tr>
+<td>सहनाज बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(8)</td>
+</tr>
+<tr>
+<td>बेगम बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(9)</td>
+</tr>
+<tr>
+<td>रामवती देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(10)</td>
+</tr>
+<tr>
+<td>जैगुन बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(11)</td>
+</tr>
+<tr>
+<td>गोपेसोर किस्कू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(12)</td>
+</tr>
+<tr>
+<td>बदरुन निशा बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(13)</td>
+</tr>
+<tr>
+<td>नजमुन बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 23/ चतरा -(14)</td>
+</tr>
+<tr>
+<td>झवन हॉसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 24/ कस्तुरी -(1)</td>
+</tr>
+<tr>
+<td>सुनीता हेम्ब्रम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 24/ कस्तुरी -(2)</td>
+</tr>
+<tr>
+<td>सुरूजमुनी बेसरा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 24/ कस्तुरी -(3)</td>
+</tr>
+<tr>
+<td>बाबुजी टुडू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 24/ कस्तुरी -(4)</td>
+</tr>
+<tr>
+<td>सरोज सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 24/ कस्तुरी -(5)</td>
+</tr>
+<tr>
+<td>कामदेव सिंह</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 24/ कस्तुरी -(6)</td>
+</tr>
+<tr>
+<td>जयदेव सिंह</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 24/ कस्तुरी -(7)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="857 953 940 973" data-label="Page-Footer">Page 14 of 19</div><div data-bbox="120 53 946 871" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचमक्ष-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>शनिचरिया देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 24/ कस्तुरी -(8)</td>
+</tr>
+<tr>
+<td>गोविन्द तुरी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 24/ कस्तुरी -(9)</td>
+</tr>
+<tr>
+<td>तालामय सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 24/ कस्तुरी -(10)</td>
+</tr>
+<tr>
+<td>शांति देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 24/ कस्तुरी -(11)</td>
+</tr>
+<tr>
+<td>सुलेखा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 24/ कस्तुरी -(12)</td>
+</tr>
+<tr>
+<td>बसंती हेम्ब्रम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 25/ अकासी -(1)</td>
+</tr>
+<tr>
+<td>सुर्यमुनी सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 25/ अकासी -(2)</td>
+</tr>
+<tr>
+<td>विषेश्वर पंडित</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 25/ अकासी -(3)</td>
+</tr>
+<tr>
+<td>शंकर सिंह</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 25/ अकासी -(4)</td>
+</tr>
+<tr>
+<td>जीरूआ देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 25/ अकासी -(5)</td>
+</tr>
+<tr>
+<td>सुमंती देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 25/ अकासी -(6)</td>
+</tr>
+<tr>
+<td>सोनामुनी किस्कु</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 25/ अकासी -(7)</td>
+</tr>
+<tr>
+<td>राजेन्द्र महतो</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 25/ अकासी -(8)</td>
+</tr>
+<tr>
+<td>राजो देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 25/ अकासी -(9)</td>
+</tr>
+<tr>
+<td>कार्तिक मरण्डी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 25/ अकासी -(10)</td>
+</tr>
+<tr>
+<td>बीन्दया देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 25/ अकासी -(11)</td>
+</tr>
+<tr>
+<td>वीटी टुडू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/26 /बांझी -(1)</td>
+</tr>
+<tr>
+<td>पकु टुडू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/26 /बांझी -(2)</td>
+</tr>
+<tr>
+<td>शिलाना देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/26 /बांझी -(3)</td>
+</tr>
+<tr>
+<td>जाकिर अंसारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/26 /बांझी -(4)</td>
+</tr>
+<tr>
+<td>मुनताज बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/26 /बांझी -(5)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="859 954 942 975" data-label="Page-Footer">Page 15 of 19</div><div data-bbox="120 54 946 881" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचायत समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>अली हुसैन अंसारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/26 /बांझी -(6)</td>
+</tr>
+<tr>
+<td>बड़की मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/26 /बांझी -(7)</td>
+</tr>
+<tr>
+<td>उर्मिला देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/26 /बांझी -(8)</td>
+</tr>
+<tr>
+<td>सोनामुनी हांसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/26 /बांझी -(9)</td>
+</tr>
+<tr>
+<td>अनन्त लाल राय</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ावर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/26 /बांझी -(10)</td>
+</tr>
+<tr>
+<td>मुन्ना मंडल</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/26 /बांझी -(11)</td>
+</tr>
+<tr>
+<td>चम्पा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/26 /बांझी -(12)</td>
+</tr>
+<tr>
+<td>कौसल्या देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/26 /बांझी -(13)</td>
+</tr>
+<tr>
+<td>मुनिका मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/26 /बांझी -(14)</td>
+</tr>
+<tr>
+<td>मोदीना बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ावर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(1)</td>
+</tr>
+<tr>
+<td>मो० जमील अंसारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(2)</td>
+</tr>
+<tr>
+<td>खुदाबकस अंसारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(3)</td>
+</tr>
+<tr>
+<td>सुरातन बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(4)</td>
+</tr>
+<tr>
+<td>बीबी भानु</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(5)</td>
+</tr>
+<tr>
+<td>रूबीना बेगम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(6)</td>
+</tr>
+<tr>
+<td>अलिमुद्दीन अंसारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ावर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(7)</td>
+</tr>
+<tr>
+<td>रशिदा बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(8)</td>
+</tr>
+<tr>
+<td>चुनूलाल मराण्डी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(9)</td>
+</tr>
+<tr>
+<td>बीबी बेगम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ावर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(10)</td>
+</tr>
+<tr>
+<td>तालेल हुसैन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(11)</td>
+</tr>
+<tr>
+<td>सोनामुनी मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(12)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="862 958 943 978" data-label="Page-Footer">
+<p>Page 16 of 19</p>
+</div><div data-bbox="120 54 946 871" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचम्यत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>सोनाली हांसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 27/ खरकचिया -(13)</td>
+</tr>
+<tr>
+<td>सुनिता टुडू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(1)</td>
+</tr>
+<tr>
+<td>संजय कुमार देहरी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(2)</td>
+</tr>
+<tr>
+<td>नीरज कुमार मंडल</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(3)</td>
+</tr>
+<tr>
+<td>पुष्पा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(4)</td>
+</tr>
+<tr>
+<td>रंजीत कुमार मंडल</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(5)</td>
+</tr>
+<tr>
+<td>बबीता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(6)</td>
+</tr>
+<tr>
+<td>बड़का मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(7)</td>
+</tr>
+<tr>
+<td>बलदेव दास</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(8)</td>
+</tr>
+<tr>
+<td>नजबुन बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(9)</td>
+</tr>
+<tr>
+<td>अफसाना बीबी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(10)</td>
+</tr>
+<tr>
+<td>मीना कुमारी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(11)</td>
+</tr>
+<tr>
+<td>मनिका हेम्ब्रम</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(12)</td>
+</tr>
+<tr>
+<td>मानिक दत्त</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 28/बाघमारा -(13)</td>
+</tr>
+<tr>
+<td>संगीता टुडू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/29/देवडांड -(1)</td>
+</tr>
+<tr>
+<td>बेरोनिका मरण्डी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/29/देवडांड -(2)</td>
+</tr>
+<tr>
+<td>रोहित कुमार सेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/29/देवडांड -(3)</td>
+</tr>
+<tr>
+<td>भोला बाउरी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/29/देवडांड -(4)</td>
+</tr>
+<tr>
+<td>सुब्रत कुमार</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/29/देवडांड -(5)</td>
+</tr>
+<tr>
+<td>सुहागी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/29/देवडांड -(6)</td>
+</tr>
+<tr>
+<td>गीता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/29/देवडांड -(7)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="858 954 942 975" data-label="Page-Footer">
+<p>Page 17 of 19</p>
+</div><div data-bbox="121 51 947 868" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>नेमनी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/29/देवडांड -(8)</td>
+</tr>
+<tr>
+<td>गोविन्द यादव</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/29/देवडांड -(9)</td>
+</tr>
+<tr>
+<td>रीता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/29/देवडांड -(10)</td>
+</tr>
+<tr>
+<td>निपेन चन्द्र दे</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/29/देवडांड -(11)</td>
+</tr>
+<tr>
+<td>सनीला देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/30/ पिण्डराहाट -(1)</td>
+</tr>
+<tr>
+<td>फिलोमिना किस्कु</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/30/ पिण्डराहाट -(2)</td>
+</tr>
+<tr>
+<td>शिवशंकर राय</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/30/ पिण्डराहाट -(3)</td>
+</tr>
+<tr>
+<td>सवीना सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/30/ पिण्डराहाट -(4)</td>
+</tr>
+<tr>
+<td>बबीता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/30/ पिण्डराहाट -(5)</td>
+</tr>
+<tr>
+<td>कालेश्वर सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/30/ पिण्डराहाट -(6)</td>
+</tr>
+<tr>
+<td>सलोलना देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/30/ पिण्डराहाट -(7)</td>
+</tr>
+<tr>
+<td>गायत्री देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/30/ पिण्डराहाट -(8)</td>
+</tr>
+<tr>
+<td>रेखा देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अन्य पिछड़ा वर्ग</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/30/ पिण्डराहाट -(9)</td>
+</tr>
+<tr>
+<td>बहामय मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/30/ पिण्डराहाट -(10)</td>
+</tr>
+<tr>
+<td>चौकी हांसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 31/ सिंधबांक -(1)</td>
+</tr>
+<tr>
+<td>लक्ष्मी देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 31/ सिंधबांक -(2)</td>
+</tr>
+<tr>
+<td>अनिता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 31/ सिंधबांक -(3)</td>
+</tr>
+<tr>
+<td>शनिलाल हांसदा</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 31/ सिंधबांक -(4)</td>
+</tr>
+<tr>
+<td>प्रेमलता मुर्मू</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 31/ सिंधबांक -(5)</td>
+</tr>
+<tr>
+<td>कलेयोपास सोरेन</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 31/ सिंधबांक -(6)</td>
+</tr>
+<tr>
+<td>संजु बास्की</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनुसूचित जनजाति</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 31/ सिंधबांक -(7)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="859 952 942 973" data-label="Page-Footer">Page 18 of 19</div><div data-bbox="119 54 946 266" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">व्यक्ति का नाम</th>
+<th colspan="3">पद का विवरण</th>
+<th rowspan="2">ग्राम पंचायत/पंचायत-समिति/जिला-परिषद जिससे पद संबंधित है (निर्वाचन क्षेत्र सं०/नाम सहित)</th>
+</tr>
+<tr>
+<th>पद</th>
+<th>आरक्षित/अनारक्षित</th>
+<th>महिला/अन्य</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>अनिता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 31/ सिंधबांक -(8)</td>
+</tr>
+<tr>
+<td>विनिता देवी</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>महिला</td>
+<td>IX गोड्डा/08/ 31/ सिंधबांक -(9)</td>
+</tr>
+<tr>
+<td>मनभरन साह</td>
+<td>ग्राम पंचायत के सदस्य</td>
+<td>अनारक्षित</td>
+<td>अन्य</td>
+<td>IX गोड्डा/08/ 31/ सिंधबांक -(10)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="119 292 225 317" data-label="Text">
+<p>स्थान :- गोड्डा।</p>
+</div>
+<div data-bbox="119 330 247 353" data-label="Text">
+<p>तारीख :- 21.12.2015</p>
+</div>
+<div data-bbox="765 275 848 329" data-label="Text"><img/></div>
+<div data-bbox="658 331 866 384" data-label="Text">
+<p>जिला निर्वाचन पदाधिकारी (पंचायत)<br/>-सह-उपायुक्त, गोड्डा।</p>
+</div>
+<div data-bbox="119 436 933 501" data-label="List-Group">
+<p>टिप्पणी :- 1. यदि निर्वाचन क्षेत्र आरक्षित कोटि के अन्तर्गत आता है तब स्तम्भ 3 में आरक्षित कोटि के नाम का उल्लेख किया जाये, यथा, अनुसूचित जाति, अनुसूचित जन-जाति, पिछड़ा वर्ग। यदि निर्वाचन क्षेत्र अनारक्षित कोटि के अन्तर्गत आता है तब "अनारक्षित" का उल्लेख किया जाये।</p>
+<p>2. यदि निर्वाचन क्षेत्र महिला के लिय आरक्षित है तब स्तम्भ 4 में "महिला" शब्द का उल्लेख किया जाये। यदि निर्वाचन क्षेत्र महिला के लिए आरक्षित नहीं है तब "अन्य " शब्द का उल्लेख किया जाये।</p>
+</div>
+<div data-bbox="857 956 941 978" data-label="Page-Footer">
+<p>Page 19 of 19</p>
+</div>

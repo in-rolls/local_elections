@@ -1,0 +1,51 @@
+1 2 3
+Thiruppathur Panchayat Union Contd.
+5 Manamelpatti SC(General)
+6 Kumarappettai SC(General)
+7 Konnathanpatti General (Women)
+8 Sevoor General (Women)
+9 Thuvar General (Women)
+10 Viramathi General (Women)
+11 E.Ammapatti General (Women)
+12 Sevinippatti General (Women)
+13 Karuppur General (Women)
+14 Olugamangalam General (Women)
+15 Nedumaram General (Women)
+16 A - Thekkur General (Women)
+17 Thirukkostiyur General (Women)
+18 Athiramppatti General (Women)
+19 Alamppatti General
+20 Avinippatti General
+21 Biramanampatti General
+22 Kandavarayanpatti General
+23 Karaiyur General
+24 Kattampur General
+25 Keelsevalpatti General
+26 Kottaiyiruppu General
+27 Mahibalanpatti General
+28 Madhavarayanpatti General
+29 Pillaiyarpatti General
+30 Poolankurichi General
+31 Ranasingapuram General
+32 Vaiyakalathur General
+33 Sunnambiruppu General
+34 S - Ilaiyathangudi General
+35 Thiruvudaiyarppatti General
+36 Vanjinippatti General
+37 Vadamavali General
+38 Vaniyankadu General
+39 A - Velangudi General
+40 K - Vairavanpatti General
+Singampunari Panchayat Union
+1 Madurapuri SC (Women)
+2 Piranmalai SC (Women)
+3 S -Vaiyapuripatti SC (General)
+4 Maruthipatti SC (General)
+5 Selliyampatti General (Women)
+6 Muraiyur General (Women)
+7 Erumaipatti General (Women)
+8 S - Mampatti General (Women)
+9 Anaikaraipatti General (Women)
+10 Jeyankondanilai General (Women)
+11 Kallampatti General (Women)
+Page 138

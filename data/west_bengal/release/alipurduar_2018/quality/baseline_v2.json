@@ -1,0 +1,47 @@
+{
+  "pages_seen": 58,
+  "page_status": {
+    "not_gp_detail": 18,
+    "gp_layout_unresolved": 3,
+    "grid_unresolved": 25,
+    "parsed": 12
+  },
+  "seats": 104,
+  "candidates": 308,
+  "by_block": {
+    "Alipurduar-II": 104
+  },
+  "review_status": {
+    "needs_review": 103,
+    "automated_checks_passed": 1
+  },
+  "flags": {
+    "seat_id:low_ocr_confidence": 79,
+    "seat_id:readers_disagree": 46,
+    "candidate_cells:review": 75,
+    "reservation_raw:readers_disagree": 15,
+    "votes_rejected:single_reader": 20,
+    "winner_name:readers_disagree": 20,
+    "reservation:unresolved": 32,
+    "reservation_raw:low_ocr_confidence": 12,
+    "votes_polled:readers_disagree": 6,
+    "winner_name:low_ocr_confidence": 25,
+    "electors:readers_disagree": 3,
+    "votes:accounting_mismatch": 4,
+    "votes_polled:single_reader": 9,
+    "electors:single_reader": 10,
+    "winner:party_mismatch": 8,
+    "winner_party:readers_disagree": 16,
+    "gram_panchayat:low_ocr_confidence": 11,
+    "gram_panchayat:missing_cell": 12,
+    "seat_key:duplicate": 22,
+    "winner:not_uniquely_matched": 5,
+    "winner_party:low_ocr_confidence": 7,
+    "votes_rejected:unread_numeric": 6,
+    "serial:single_reader": 12,
+    "votes_rejected:readers_disagree": 1,
+    "gram_panchayat:readers_disagree": 13,
+    "votes_polled:unread_numeric": 1
+  },
+  "quality_claim": "Review-stage extraction; passing automated checks is not verified accuracy."
+}

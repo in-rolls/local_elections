@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "sha256": "ca3d59494ad072850b4d1da51d0b772b25f731c8109431e33c6d069978cb2de3",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "[FROM B]\n[See rule 25(1) ]\nORDER\nNo.: PRD/1154 Dated: 15/11/2017\nIn exercise of the power conferred by sections 14 and 17 of the West Bengal Panchayat Election Act, 2003 (West Ben. Act XXI of 2003), read with rules 24 and 25 of the West Bengal\nPanchayat Election Rules, 2006, I, the District Panchayat Election Officer and District Magistrate of the District of Cooch Behar, as the prescribed authority appointed by the State Government\nin the Department of Panchayats and Rural Development under notification No. ..............................., dated ...................................................................................................... for the purpose of rules\n24 and 25 of the said rules, hareby publish the draft of this order to determine for the Grams specified in column (1) of the schedule below, the number of members to be elected to the Panchayat\nSamiti specified in the corresponding entries in column (2) , to divide the area of the Grams into constituencies specified in the corresponding entries in column (3) & (4), constituency or\nconstituencies reserved for the scheduled Castes or the Schedule Tribes or the Backward Classes persons specified in the corresponding entries in column (5), and constituency or constituencies\nreserved for woman specified in the corresponding entries in column (6) of the said schedule, for information of persons likely to be affected thereby.\nThe draft will be taken up for consideration after fifteen days from this day and any objection or suggestion with respect thereto, which may be received by the undersigned within the said\nperiod, shall be duly considered.\nThe Schedule\nBLOCK: MEKHLIGANJ PANCHAYAT SAMITI: MEKHLIGANJ\nNumber of Constituency reserved for Constituency\nmembers to be Number and Name of Assembly Electoral Roll Scheduled Castes, Scheduled reserved for\nName of the Gram Area of the Constituency (Panchayat Part No.)\nelected to the the Constituency Part No. Tribes and Backward women showing\nPanchayat Samiti Classes persons showing Serial Number.\n1 2 3 4 serial N5umber 6\nRanirhat/PS-1 Ranirhat/I, IX,X,XIII 1, 2, 10, 11,14 W\nRanirhat Ranirhat/PS-2 Ranirhat/II, III,XI,XII 3,4,12,13 SC\nRanirhat/PS-3 Ranirhat/IV,V,VI,VII,VIII 5,6,7,8,9 SC W\nUchalpukuri/PS-4 Uchalpukuri/I,II,III,IV,VIII,IX,XX 15,16,17,18,22,23,24,37 SC\nUchalpukuri Uchalpukuri/PS-5 Uchalpukuri/V,XI,XII,XV,XVI,XIX 19,27,28,29,32,33,36,\nUchalpukuri/PS-6 Uchalpukuri/VI,VII,X,XIII,XIV,XVII,XVIII 20,21,25,26,30,31,34,35 SC W\nJamaldaha/PS-7 Jamaldaha/I,II,III,IV,V 38,39,40,41,42,43,44 SC\nJamaldaha Jamaldaha/PS-8 Jamaldaha/VI,XI,XIII,XIV,XV,XVI 45,50,52,53,54,55 SC W\nJamaldaha/PS-9 Jamaldaha/VII,VIII,IX,X,XII 46,47,48,49,51 SC\nChangrabandha/PS-10 Changrabandha/I,II,III,IV,VI 56,57,58,59,60,63,64 SC W\nChangrabandha 21 Changrabandha/PS-11 Changrabandha/V,VII,VIII,IX,XII,XIII 61, 62, 65, 66, 67, 70, 71 W\nChangrabandha/PS-12 Changrabandha/X, XI, XIV, XV,XVI, XVII 68, 69, 72, 74, 73, 75, 76 W\nBhotbari/PS-13 Bhotbari/I, II, VII, VIII, IX, X 77, 78,83. 84, 85, 86 SC\nBhotbari\nBhotbari/PS-14 Bhotbari/III, IV, V, VI 79, 80, 81, 82 W\nNiztaraf/PS-15 Niztaraf/I, II, III, VIII, IX 87, 88, 89, 94, 95\nNiztaraf\nNiztaraf/PS-16 Niztaraf/IV, V, VI, VII 90, 91, 92, 93 W\nBagdokra-Fulkadabri/PS-17 Bag-Ful/I, II, III, VI, VIII 183, 184, 185, 186, 189, 190, 192\nBagdokra-Fulkadabri\nBagdokra-Fulkadabri/PS-18 Bag-Ful/IV, V, VII, IX, X 187, 188, 191, 193, 194, 195\nKuchlibari/PS-19 Kuchlibari/I, II, III, XVI, XVII 196, 197, 198, 199, 212, 213\nKuchlibari Kuchlibari/PS-20 Kuchlibari/IV. V, X, XI, XII, XIII 200, 201, 206, 207, 208, 209 SC W\nKuchlibari/PS-21 Kuchlibari/VI, VII, VIII, IX, XIV, XV 202, 203, 204, 205, 210, 211\nDate:\nPage:1 of total 1 page",
+      "tables": [
+        {
+          "bbox": [
+            35.394,
+            209.38800000000006,
+            806.3720000000001,
+            513.984
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat Samiti",
+              "Number and Name of\nthe Constituency",
+              "Area of the Constituency (Panchayat Part No.)",
+              "Assembly Electoral Roll\nPart No.",
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward\nClasses persons showing",
+              "Constituency\nreserved for\nwomen showing\nSerial Number."
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              null,
+              "serial N5umber",
+              "6"
+            ],
+            [
+              "Ranirhat",
+              "21",
+              "Ranirhat/PS-1",
+              "Ranirhat/I, IX,X,XIII",
+              "1, 2, 10, 11,14",
+              "",
+              "W"
+            ],
+            [
+              null,
+              null,
+              "Ranirhat/PS-2",
+              "Ranirhat/II, III,XI,XII",
+              "3,4,12,13",
+              "SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Ranirhat/PS-3",
+              "Ranirhat/IV,V,VI,VII,VIII",
+              "5,6,7,8,9",
+              "SC",
+              "W"
+            ],
+            [
+              "Uchalpukuri",
+              null,
+              "Uchalpukuri/PS-4",
+              "Uchalpukuri/I,II,III,IV,VIII,IX,XX",
+              "15,16,17,18,22,23,24,37",
+              "SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Uchalpukuri/PS-5",
+              "Uchalpukuri/V,XI,XII,XV,XVI,XIX",
+              "19,27,28,29,32,33,36,",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Uchalpukuri/PS-6",
+              "Uchalpukuri/VI,VII,X,XIII,XIV,XVII,XVIII",
+              "20,21,25,26,30,31,34,35",
+              "SC",
+              "W"
+            ],
+            [
+              "Jamaldaha",
+              null,
+              "Jamaldaha/PS-7",
+              "Jamaldaha/I,II,III,IV,V",
+              "38,39,40,41,42,43,44",
+              "SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Jamaldaha/PS-8",
+              "Jamaldaha/VI,XI,XIII,XIV,XV,XVI",
+              "45,50,52,53,54,55",
+              "SC",
+              "W"
+            ],
+            [
+              null,
+              null,
+              "Jamaldaha/PS-9",
+              "Jamaldaha/VII,VIII,IX,X,XII",
+              "46,47,48,49,51",
+              "SC",
+              ""
+            ],
+            [
+              "Changrabandha",
+              null,
+              "Changrabandha/PS-10",
+              "Changrabandha/I,II,III,IV,VI",
+              "56,57,58,59,60,63,64",
+              "SC",
+              "W"
+            ],
+            [
+              null,
+              null,
+              "Changrabandha/PS-11",
+              "Changrabandha/V,VII,VIII,IX,XII,XIII",
+              "61, 62, 65, 66, 67, 70, 71",
+              "",
+              "W"
+            ],
+            [
+              null,
+              null,
+              "Changrabandha/PS-12",
+              "Changrabandha/X, XI, XIV, XV,XVI, XVII",
+              "68, 69, 72, 74, 73, 75, 76",
+              "",
+              "W"
+            ],
+            [
+              "Bhotbari",
+              null,
+              "Bhotbari/PS-13",
+              "Bhotbari/I, II, VII, VIII, IX, X",
+              "77, 78,83. 84, 85, 86",
+              "SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Bhotbari/PS-14",
+              "Bhotbari/III, IV, V, VI",
+              "79, 80, 81, 82",
+              "",
+              "W"
+            ],
+            [
+              "Niztaraf",
+              null,
+              "Niztaraf/PS-15",
+              "Niztaraf/I, II, III, VIII, IX",
+              "87, 88, 89, 94, 95",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Niztaraf/PS-16",
+              "Niztaraf/IV, V, VI, VII",
+              "90, 91, 92, 93",
+              "",
+              "W"
+            ],
+            [
+              "Bagdokra-Fulkadabri",
+              null,
+              "Bagdokra-Fulkadabri/PS-17",
+              "Bag-Ful/I, II, III, VI, VIII",
+              "183, 184, 185, 186, 189, 190, 192",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Bagdokra-Fulkadabri/PS-18",
+              "Bag-Ful/IV, V, VII, IX, X",
+              "187, 188, 191, 193, 194, 195",
+              "",
+              ""
+            ],
+            [
+              "Kuchlibari",
+              null,
+              "Kuchlibari/PS-19",
+              "Kuchlibari/I, II, III, XVI, XVII",
+              "196, 197, 198, 199, 212, 213",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Kuchlibari/PS-20",
+              "Kuchlibari/IV. V, X, XI, XII, XIII",
+              "200, 201, 206, 207, 208, 209",
+              "SC",
+              "W"
+            ],
+            [
+              null,
+              null,
+              "Kuchlibari/PS-21",
+              "Kuchlibari/VI, VII, VIII, IX, XIV, XV",
+              "202, 203, 204, 205, 210, 211",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 3800
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 1
+}

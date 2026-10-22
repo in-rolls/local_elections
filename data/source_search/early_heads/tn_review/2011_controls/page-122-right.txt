@@ -1,0 +1,53 @@
+1 2 3
+Vathlagundu Panchayat Union Contd.,
+13 kattakamanpatty General
+14 Kombai patty General
+15 Kottaipatty General
+16 Nadakottai General
+17 Sandaiyur General
+Vadamadurai Panchayat Union
+1 Pilathu SC (Women)
+2 Morepatty SC (General)
+3 Thennampatti SC (General)
+4 Kanapadi General (Women)
+5 Singarakottai General (Women)
+6 Komberipatti General (Women)
+7 Sukkampatti General (Women)
+8 Velvarkottai General
+9 Padiyur General
+10 Baganatham General
+11 Sithuvarpatty General
+12 Puthur General
+13 P.Kosavapatty General
+14 Velayuthampalayam General
+15 Kulathur General
+Vedasandur Panchayat Union
+1 Ammapatty SC (Women)
+2 Palapatty SC (General)
+3 Nallamanarkottai SC (General)
+4 Kulathupatty General (Women)
+5 Kuttam General (Women)
+6 Nathapatti General (Women)
+7 Sriramapuram General (Women)
+8 Viruthalaipatty General (Women)
+9 Koovakka patty General (Women)
+10 Pudukottai General (Women)
+11 Chithoor General
+12 Kalvarpatti General
+13 Kovilur General
+14 Kudappam General
+15 Malvarpatty General
+16 Marambadi General
+17 Nagampatty General
+18 Nagayakottai General
+19 Pudipuram General
+20 Thattarapatty General
+21 Usilampatti General
+22 Vellampatti General
+Guziliamparai Panchayat Union
+1 Koombur SC (Women)
+2 R.Vellodu SC (Women)
+3 R.Pudukottai SC (General)
+4 Mallapuram SC (General)
+5 Ulliyakottai General (Women)
+6 Alambadi General (Women)

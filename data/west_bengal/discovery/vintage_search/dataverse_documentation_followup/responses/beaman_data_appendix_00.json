@@ -1,0 +1,26 @@
+{
+  "request_url": "https://faculty.wcas.northwestern.edu/lab823/powerfulwomen_data_appendix.pdf",
+  "response_url": "https://faculty.wcas.northwestern.edu/lab823/powerfulwomen_data_appendix.pdf",
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/pdf",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Date": "Tue, 08 Sep 2026 05:25:25 GMT",
+    "Last-Modified": "Thu, 31 Mar 2022 18:27:26 GMT",
+    "x-amz-version-id": "sopaGn59JuJYYJchEDhnDgC_5b75_YSw",
+    "ETag": "W/\"5f53dd1264977ea2c7448b8d659966b3\"",
+    "Server": "AmazonS3",
+    "Content-Encoding": "gzip",
+    "Vary": "Accept-Encoding",
+    "X-Cache": "Miss from cloudfront",
+    "Via": "1.1 7f06047c304d80ea094816a27c933914.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "SEA73-P2",
+    "Alt-Svc": "h3=\":443\"; ma=86400",
+    "X-Amz-Cf-Id": "m-TtcPgZYYS2xapg6m87znk27Yvb6Lf4f3UpSBN6FpZK84u3FcbMEA==",
+    "Content-Security-Policy": "upgrade-insecure-requests;"
+  },
+  "body_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/beaman_data_appendix_00.body",
+  "bytes": 59904,
+  "sha256": "3977b9441b3072426f107b40918327652c3729b6b12fb905378d281ec14f6424"
+}

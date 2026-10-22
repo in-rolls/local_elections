@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "sha256": "0b581aeb108ebc6d713581072f6858ec756540b9cd522a3ed0fd21e797aee7fe",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "FORM – A1\n[ See rule 23(4) ]\nO R D E R\nNo. 248 (7) /P&RD Dated : 07.02.2008\nIn exercise of the power conferred by sections 12 and 17 of the West Bengal Panchayat Elections\nAct. 2003 (West Bengal Act XXI of 2003) read with rules 22 and 23 of the West Bengal Panchayat\nElection Rules, 2006, I, the District Panchayat Election Officer and District Magistrate of the district of\nNadia, as the prescribed authority appointed by the State Government in the Department of Panchyats and\nRural Development under notification No.623-PN/O/I/3R-3/2004 Dated 09.02.2007 for the purpose of\nrules 22 and 23 of the said rules , hereby determine, after previous publication of the draft of this order as\nrequired under the said rules for the Grams specified in column (1) of the schedule below, the total\nnumber of members, Scheduled Castes members , Scheduled Tribes members and women members to be\nelected to such Gram Panchayats specified in the corresponding entries in columns (2a), (2b),(2c) and\n(2d) respectively, to divide the area of the Grams into constituencies with serial numbers assigned to them\nspecified in the corresponding entries in column (3), to allocate to each such constituency seat or seats\nspecified in the corresponding entries in column(4), seat or seats reserved for the Scheduled Castes or the\nScheduled Tribes persons specified in the corresponding entries in column(5), and seat or seats reserved\nfor women specified in the corresponding entries in column (6) of the Schedule.",
+      "tables": [],
+      "images": 0,
+      "characters": 1555
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "(FORM-A1)\nThe Schedule\nBLOCK : KRISHNAGAR-II\nNumber of members to be elected in the Gram Panchayat\nScheduled\nName of the Gram Total number of Scheduled Women\nTribes\nmembers Castes members members\nmembers\n1 (2a) (2b) (2c) (2d)\nSadhanpara-II 8 3 0 3\nSeats allocated to Seats reserved for Seats reserved\nNumber, Name and area of constituencies each constituency Schedule Castes or for women\nwith serial numbers with serial Schedule Tribes against against serial\nnumbers serial number of seats number of seats\n(3) (4) (5) (6)\nSadhanpara-II/I\nMouza : Tatla, J.L. No. – 14,\n1(W)\n1. Tatla Uttarpara 1,2 2(SC)\n2[SC(W)]\n2. Tatla Dakshin-Pashimpara\nAssembly Part No. – 76/55\nSadhanpara-I/II\nMouza : Sujanpur, J.L. No. – 6,\n1. Sujanpur Purba-Paschimpara 3 - -\n2. Sujanpur Dakshinpara\nAssembly Part No. – 76/56\nSadhanpara-II/III\nMouza : Tatla, J.L. No. – 14,\n1. Tatla 1 no. Camp Purbapara\n2. Tatla 1 No. camp Dakshinpara\n3. Tatla 1 No. Camp Madhyapara 4 4(SC) -\n4. Tatla 3 No. camp Uttarpara\n5. Tatla 2 No. camp Madhyapara\n6. Tatla 2 No. Camp Dakshinpara\nAssembly Part No. – 76/57\nSadhanpara-II/IV\nMouza : Gabarkuli, J.L. No. – 19,\n1. Gabarkuli 9 No. camp 5 - -\n2. Gabarkuli 1/22 No. camp\nAssembly Part No. – 76/58\n1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            45.037079999999996,
+            122.50919999999996,
+            590.3916,
+            234.82080000000005
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nmembers",
+              "Scheduled\nCastes members",
+              "Scheduled\nTribes\nmembers",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Sadhanpara-II",
+              "8",
+              "3",
+              "0",
+              "3"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            45.037079999999996,
+            249.0996,
+            590.3916,
+            652.2660000000001
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Sadhanpara-II/I\nMouza : Tatla, J.L. No. – 14,\n1. Tatla Uttarpara\n2. Tatla Dakshin-Pashimpara\nAssembly Part No. – 76/55",
+              "1,2",
+              "2(SC)",
+              "1(W)\n2[SC(W)]"
+            ],
+            [
+              "Sadhanpara-I/II\nMouza : Sujanpur, J.L. No. – 6,\n1. Sujanpur Purba-Paschimpara\n2. Sujanpur Dakshinpara\nAssembly Part No. – 76/56",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              "Sadhanpara-II/III\nMouza : Tatla, J.L. No. – 14,\n1. Tatla 1 no. Camp Purbapara\n2. Tatla 1 No. camp Dakshinpara\n3. Tatla 1 No. Camp Madhyapara\n4. Tatla 3 No. camp Uttarpara\n5. Tatla 2 No. camp Madhyapara\n6. Tatla 2 No. Camp Dakshinpara\nAssembly Part No. – 76/57",
+              "4",
+              "4(SC)",
+              "-"
+            ],
+            [
+              "Sadhanpara-II/IV\nMouza : Gabarkuli, J.L. No. – 19,\n1. Gabarkuli 9 No. camp\n2. Gabarkuli 1/22 No. camp\nAssembly Part No. – 76/58",
+              "5",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1250
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "Seats allocated to Seats reserved for Seats reserved\nNumber, Name and area of constituencies each constituency Schedule Castes or for women\nwith serial numbers with serial Schedule Tribes against against serial\nnumbers serial number of seats number of seats\n(3) (4) (5) (6)\nSadhanpara-II/V\nMouza : Gabarkuli, J.L. No. – 19,\n1. Gabarkuli Gram\n6 6(SC) -\n2. Bidhanpally\n3. Gabarkuli 1/4 No. camp\nAssembly Part No. – 76/59\nSadhanpara-II/VI\nMouza : Khajuri, J.L. No. – 18,\n1. Khajuri Nawdapara(Purba)\n2. Khajuri\n7,8 - 7(W)\nMadhyapara(Dakshinangsha)\n3. Khajuri Madhyapara(Uttarangsha)\n4.Khajur Pukurpara(Uttar)\nAssembly Part No. – 76/60\nDate : 07-02-2008\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\n2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            45.03708,
+            36.23759999999993,
+            590.3916,
+            300.4548
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Sadhanpara-II/V\nMouza : Gabarkuli, J.L. No. – 19,\n1. Gabarkuli Gram\n2. Bidhanpally\n3. Gabarkuli 1/4 No. camp\nAssembly Part No. – 76/59",
+              "6",
+              "6(SC)",
+              "-"
+            ],
+            [
+              "Sadhanpara-II/VI\nMouza : Khajuri, J.L. No. – 18,\n1. Khajuri Nawdapara(Purba)\n2. Khajuri\nMadhyapara(Dakshinangsha)\n3. Khajuri Madhyapara(Uttarangsha)\n4.Khajur Pukurpara(Uttar)\nAssembly Part No. – 76/60",
+              "7,8",
+              "-",
+              "7(W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 757
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

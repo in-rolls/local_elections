@@ -1,0 +1,53 @@
+1 2 3
+Devakottai Panchayat Union
+1 Kallangudi SC(Women)
+2 Thalakkavayal SC(Women)
+3 Nachankulam SC(Women)
+4 Manaivikottai SC(Women)
+5 Siruvathi SC(General)
+6 Thirumanavayal SC(General)
+7 Muppaiyur SC(General)
+8 Thiruvegampathu SC(General)
+9 Uruthikottai SC(General)
+10 Vellikatti SC(General)
+11 Eluvankottai General (Women)
+12 Thidakkottai General (Women)
+13 Maviduthikottai General (Women)
+14 Theneervayal General (Women)
+15 Pannangulam General (Women)
+16 Ponnalikottai General (Women)
+17 Minittankudi General (Women)
+18 Vettivayal General (Women)
+19 Thoonugudi General (Women)
+20 Puliyal General (Women)
+21 Kavathukudi General
+22 Sarugani General
+23 Nagadi General
+24 Keelauchani General
+25 Shanmuganathapuram General
+26 Uruvatti General
+27 Veerai General
+28 Thirani General
+29 Thanavayal General
+30 Sirunallur General
+31 Selugai General
+32 Sakkanthi General
+33 Pudhukurichi General
+34 N - Manakkudi General
+35 Kurunthanakottai General
+36 Kiliyoor General
+37 Karkalthur General
+38 Karai General
+39 Kannankottai General
+40 Kandadevi General
+41 Ilangudi General
+42 Aravayal General
+Kannangudi Panchayat Union
+1 Kalathur SC(Women)
+2 Puthurani SC(Women)
+3 Kallivayal SC(General)
+4 Koduvour SC(General)
+5 Unjanai SC(General)
+6 Siruvatchi SC(General)
+7 Poosalagudi General (Women)
+8 Theralapure General (Women)

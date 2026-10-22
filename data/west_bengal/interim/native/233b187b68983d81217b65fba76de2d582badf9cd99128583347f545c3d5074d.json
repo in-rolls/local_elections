@@ -1,0 +1,269 @@
+{
+  "version": 1,
+  "sha256": "233b187b68983d81217b65fba76de2d582badf9cd99128583347f545c3d5074d",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "fo\nrebmun\nlatoT\nsrebmem\nsetsaC\ndeludehcS\nsrebmem\nsebirT\neludehcS\nsrebmem\nsrebmem\nnemoW\nThe Schedule\nForm - A1\nBlock : Karimpur-II\nNumber of Members to be\nelected to the\nGramPanchayat\nName of Gram\n(1) (2a) (2b) (2c) (2d) (3) (4)\nDighalkandi 17 4 1 6 Dighalkandi/I, Part No. 69/152\nMouza: Rasikpur , J.L. No.-46\n(i) Rasikpur Paschimpara 1 1 , (Women)\n(ii) Rasikpur Schoolpara\n(iii) Rasikpur Purbapara\nDighalkandi/II, Part No. 69/153\nMouza: Huda Gopirampur, J.L. No.-43\n(i) Gandharajpur Hudarpara\nMouza : Gandharajpur , J.L.No.-44\n2\n(ii) Gadharajpur Paschimpara\n(iii) Gandharajpur Purbapara\nMouza : Chak Gandharajpur , J.L.No.-45\n(iv) Gandharajpur Daspara,\nDighalkandi/III, Part No. 69/154\nMouza: Khanpur, J.L. No.-51\n3\n(i) Khanpur Paschimpara\n(ii) Khanpur Purbapara\nDighalkandi/IV, Part No. 69/155\nMouza: Dakshin Krishnapur, J.L. No.- 50\n4 4 , (Women)\n(i) Krishnapur\n(ii) Haripur\nDighalkandi/V, Part No. 69/156\nMouza : Chandpur, J.L. No. 52\n5\n(i) Chandpur Bisawaspara\n(ii) Chandpur Tarakganj\nDighalkandi/VI, Part No. 69/157\nMouza: Audia, J.L. No.-59\n6 6 , (ST) 6 , (ST Women)\n(i) Audia Purbapara\n(ii) Audia Paschimpara,\nDighalkandi/VII, Part No. 69/158\nMouza: Audia, J.L. No.-59 7\n(i) Kagjipara\nDighalkandi/VIII, Part No. 69/159\nMouza: Gobindapur, J.L. No.-53\n(i) Gobindapur 8 8 , (Women)\nMouza: Hatisala J.L. No. -58\n(ii) Hatisala\nfo\naera\ndna\nemaN\n,rebmuN\nlaires\nhtiw\nseicneutitsnoc\nsrebmun\nhcae\not\ndetacolla\nstaeS\nsrebmun\nlaires\nhtiw\nycneutitsnoc\ndeludehcS\nrof\ndevreser\nstaeS\nsebirT\neludehcS\ndna\nsetsaC\nstaes\nfo\nrebmun\nlaires\ntsniaga\nnemoW\nrof\ndevreser\nstaeS\nstaes\nfo\nrebmun\nlaires\ntsniaga\n(5) (6)\nFORM-A1 of Dighalkandi G.P. Page 1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            118.19040000000007,
+            561.954,
+            728.8192746
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of Members to be\nelected to the\nGramPanchayat",
+              null,
+              null,
+              null,
+              "fo\nlaires\naera\ndna htiw\nsrebmun\nemaN seicneutitsnoc\n,rebmuN",
+              "srebmun\nhcae\nlaires\not\ndetacolla\nhtiw\nycneutitsnoc\nstaeS",
+              "deludehcS sebirT staes\nfo\neludehcS rebmun\nrof\ndevreser\nlaires\ndna\nsetsaC tsniaga\nstaeS",
+              "staes\nnemoW\nfo\nrebmun\nrof\ndevreser\nlaires\nstaeS tsniaga"
+            ],
+            [
+              null,
+              "fo\nrebmun\nsrebmem\nlatoT",
+              "setsaC\nsrebmem\ndeludehcS",
+              "sebirT\nsrebmem\neludehcS",
+              "srebmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Dighalkandi",
+              "17",
+              "4",
+              "1",
+              "6",
+              "Dighalkandi/I, Part No. 69/152\nMouza: Rasikpur , J.L. No.-46\n(i) Rasikpur Paschimpara\n(ii) Rasikpur Schoolpara\n(iii) Rasikpur Purbapara",
+              "1",
+              "",
+              "1 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/II, Part No. 69/153\nMouza: Huda Gopirampur, J.L. No.-43\n(i) Gandharajpur Hudarpara\nMouza : Gandharajpur , J.L.No.-44\n(ii) Gadharajpur Paschimpara\n(iii) Gandharajpur Purbapara\nMouza : Chak Gandharajpur , J.L.No.-45\n(iv) Gandharajpur Daspara,",
+              "2",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/III, Part No. 69/154\nMouza: Khanpur, J.L. No.-51\n(i) Khanpur Paschimpara\n(ii) Khanpur Purbapara",
+              "3",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/IV, Part No. 69/155\nMouza: Dakshin Krishnapur, J.L. No.- 50\n(i) Krishnapur\n(ii) Haripur",
+              "4",
+              "",
+              "4 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/V, Part No. 69/156\nMouza : Chandpur, J.L. No. 52\n(i) Chandpur Bisawaspara\n(ii) Chandpur Tarakganj",
+              "5",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/VI, Part No. 69/157\nMouza: Audia, J.L. No.-59\n(i) Audia Purbapara\n(ii) Audia Paschimpara,",
+              "6",
+              "6 , (ST)",
+              "6 , (ST Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/VII, Part No. 69/158\nMouza: Audia, J.L. No.-59\n(i) Kagjipara",
+              "7",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/VIII, Part No. 69/159\nMouza: Gobindapur, J.L. No.-53\n(i) Gobindapur\nMouza: Hatisala J.L. No. -58\n(ii) Hatisala",
+              "8",
+              "",
+              "8 , (Women)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1584
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "(1) (2a) (2b) (2c) (2d) (3) (4) (5) (6)\nDighalkandi Dighalkandi/IX, Part No. 69/160\nMouza: Teinpur, J.L. No.-60\n(i) Colony para\n9, 10\n(ii) Daspara\n(iii) Paschimpara\n(iv) Purbapara\nDighalkandi/X, Part No. 69/161\nMouza : Baruipota, J.L. No.-61\n11 11 , (Women)\n(i) Baruipota\n(ii) Rangpur Purbapara\nDighalkandi/XI, Part No. 69/162\nMouza: Bagdanga, J.L. No.-66\n12 12 , (S.C)\n(I) Prasantanagar Colony\n(ii) Niranjan Colony\nDighalkandi/XII, Part No. 69/163\nMouza: Rakhalgachhi, J.L. No.-65\n(i) Rakhalgachhi\n13 13 , (S.C)\nMouza: Bagdanga, J.L. No.-66,\n(ii)Bagdanga Colony\n(iii) Bagdanga\nDighalkandi/XIII, Part No. 69/164\nMouza: Manikdihi, J.L. No. - 67 14\n(i) Manikdihi\nDighalkandi/XIV, Part No. 69/165\nMouza : Guabari , J.L. No, - 68\n15 15 , (SC) 15 , (SC Women)\n(i) Guabari Purbapara\n(ii) Guabari Paschimpara\nDighalkandi/XV, Part No. 69/166\nMouza: Dighalkandi, J.L. No.-69 16 16 , (S.C)\n(i) Dighalkandi Dakshinpara\nDighalkandi/XVI, Part No. 69/167\nMouza: Dighalkandi, J.L. No.-69\n(i) Dighalkandi Uttarpara\n17\n(ii) Dighalkandi Colony para\nMouza: Dhara, J.L. No.-70\n(iii) Dharapara\nDate : 07.02-2008\nDistrict Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\nFORM-A1 of Dighalkandi G.P. Page 2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            54.47543460000003,
+            561.954,
+            514.6370346
+          ],
+          "rows": [
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Dighalkandi",
+              "",
+              "",
+              "",
+              "",
+              "Dighalkandi/IX, Part No. 69/160\nMouza: Teinpur, J.L. No.-60\n(i) Colony para\n(ii) Daspara\n(iii) Paschimpara\n(iv) Purbapara",
+              "9, 10",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/X, Part No. 69/161\nMouza : Baruipota, J.L. No.-61\n(i) Baruipota\n(ii) Rangpur Purbapara",
+              "11",
+              "",
+              "11 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/XI, Part No. 69/162\nMouza: Bagdanga, J.L. No.-66\n(I) Prasantanagar Colony\n(ii) Niranjan Colony",
+              "12",
+              "12 , (S.C)",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/XII, Part No. 69/163\nMouza: Rakhalgachhi, J.L. No.-65\n(i) Rakhalgachhi\nMouza: Bagdanga, J.L. No.-66,\n(ii)Bagdanga Colony\n(iii) Bagdanga",
+              "13",
+              "13 , (S.C)",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/XIII, Part No. 69/164\nMouza: Manikdihi, J.L. No. - 67\n(i) Manikdihi",
+              "14",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/XIV, Part No. 69/165\nMouza : Guabari , J.L. No, - 68\n(i) Guabari Purbapara\n(ii) Guabari Paschimpara",
+              "15",
+              "15 , (SC)",
+              "15 , (SC Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/XV, Part No. 69/166\nMouza: Dighalkandi, J.L. No.-69\n(i) Dighalkandi Dakshinpara",
+              "16",
+              "16 , (S.C)",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Dighalkandi/XVI, Part No. 69/167\nMouza: Dighalkandi, J.L. No.-69\n(i) Dighalkandi Uttarpara\n(ii) Dighalkandi Colony para\nMouza: Dhara, J.L. No.-70\n(iii) Dharapara",
+              "17",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1136
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

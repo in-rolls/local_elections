@@ -1,0 +1,134 @@
+<div data-bbox="79 27 292 58" data-label="Page-Header">
+<p>vfAk pukl ६; lखo 1143/4@i 8</p>
+</div>
+<div data-bbox="814 30 924 59" data-label="Page-Header">
+<p>i p k r fuokzu</p>
+</div>
+<div data-bbox="469 62 547 91" data-label="Text">
+<p><b>ci = &amp; 23</b></p>
+</div>
+<div data-bbox="450 96 561 125" data-label="Text">
+<p>1/Au; e 85 n ६ k ५2</p>
+</div>
+<div data-bbox="411 128 596 158" data-label="Section-Header">
+<p><b>fuokzu i fj. ke dk cd k ku</b></p>
+</div>
+<div data-bbox="77 172 903 229" data-label="Text">
+<p>&gt; kj [ k M i p k r fuokzu fu; e koy h] 2001 d sfu; e 85 d sv u q j. k e a e ६, r n ~ j k k ; g v f / k f p r d j r k g w f d u h p s n h x b Z v u q p h d s<br/>Lr E k 1 4 1 2 e a u k f e r Q f D r ] Lr E k 1 2 1 2 e a v ६ d r i n i j ] Lr E k 1 5 1 2 e a o f. k Z i p k r l f e f r d s f y ; s l E; d ~ # i l s f u o k p r g k s x ; k g S %</p>
+</div>
+<div data-bbox="476 246 537 274" data-label="Section-Header">
+<p><b>vu q p h</b></p>
+</div>
+<div data-bbox="77 276 929 729" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Q f D r d k u k e</th>
+<th colspan="3">i n d k f o o j. k</th>
+<th rowspan="2">x ke i p k r @ i p k r l f e f r @ f t y k<br/>परिशद् जिससे पद संबंधित है (निर्वाचन<br/>{ke l ६; k @ u ke l f g r 1 2<br/>)</th>
+<th rowspan="2">v H f D r</th>
+</tr>
+<tr>
+<th>i n</th>
+<th>v k j f { k r @ v u k j f { k r</th>
+<th>e f g y k @ v U</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>N f o U h z l k ç</td>
+<td>i p k r l f e f r l n L;</td>
+<td>v u q f p r t u t k f r</td>
+<td>v U</td>
+<td>XXI fl e M s k @ 01 @ d j M s &amp; 1 0 1 1 2</td>
+<td></td>
+</tr>
+<tr>
+<td>v c j l k ç</td>
+<td>i p k r l f e f r l n L;</td>
+<td>v u q f p r t u t k f r</td>
+<td>v U</td>
+<td>XXI fl e M s k @ 01 @ d j M s &amp; 1 0 2 1 2</td>
+<td></td>
+</tr>
+<tr>
+<td>Q k d L d k y d M k</td>
+<td>i p k r l f e f r l n L;</td>
+<td>v u k j f { k r</td>
+<td>e f g y k</td>
+<td>XXI fl e M s k @ 01 @ d j M s &amp; 1 0 3 1 2</td>
+<td></td>
+</tr>
+<tr>
+<td>v t j e r h n o h</td>
+<td>i p k r l f e f r l n L;</td>
+<td>v u q f p r t u t k f r</td>
+<td>v U</td>
+<td>XXI fl e M s k @ 01 @ d j M s &amp; 1 0 4 1 2</td>
+<td></td>
+</tr>
+<tr>
+<td>e k / k j h n o h</td>
+<td>i p k r l f e f r l n L;</td>
+<td>v u l f p r t u t k f r</td>
+<td>e f g y k</td>
+<td>XXI fl e M s k @ 01 @ d j M s &amp; 1 0 5 1 2</td>
+<td></td>
+</tr>
+<tr>
+<td>m o h ु से न भा ग हि द</td>
+<td>i p k r l f e f r l n L;</td>
+<td>v u k j f { k r</td>
+<td>v U</td>
+<td>XXI fl e M s k @ 01 @ d j M s &amp; 1 0 6 1 2</td>
+<td></td>
+</tr>
+<tr>
+<td>सु ी ल ा खे र स</td>
+<td>i p k r l f e f r l n L;</td>
+<td>v u l f p r t u t k f r</td>
+<td>e f g y k</td>
+<td>XXI fl e M s k @ 01 @ d j M s &amp; 1 0 7 1 2</td>
+<td></td>
+</tr>
+<tr>
+<td>l f r k j k e i k h</td>
+<td>i p k r l f e f r l n L;</td>
+<td>v u l f p r t k f r</td>
+<td>v U</td>
+<td>XXI fl e M s k @ 01 @ d j M s &amp; 1 0 8 1 2</td>
+<td></td>
+</tr>
+<tr>
+<td>l d k n k n o h</td>
+<td>i p k r l f e f r l n L;</td>
+<td>v u q f p r t u t k f r</td>
+<td>e f g y k</td>
+<td>XXI fl e M s k @ 01 @ d j M s &amp; 1 0 9 1 2</td>
+<td></td>
+</tr>
+<tr>
+<td>आ ग कु जू र</td>
+<td>i p k r l f e f r l n L;</td>
+<td>v u q f p r t u t k f r</td>
+<td>e f g y k</td>
+<td>XXI fl e M s k @ 01 @ d j M s &amp; 1 0 1 2</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="77 824 207 884" data-label="Page-Footer">
+<p>LFku % fl e M s k<br/>fnu kd % 23-12-2015</p>
+</div>
+<div data-bbox="702 824 821 917" data-label="Page-Footer">
+<p>ft y k n. M k / k d k j h<br/>&amp; l g &amp;<br/>mi k q r ] fl e M s k A</p>
+</div>

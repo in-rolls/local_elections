@@ -1,0 +1,51 @@
+.(1) .(2) .(3)
+Jolarpet Panchayat Union Contd.,
+32 Peddakallupalli General
+33 Periyakammimpattu General
+34 Ponneri General
+35 Somanaickenpatti General
+36 Thiriyalam General
+K.V.Kuppam Panchayat Union
+1 Devarishikuppam SC (Women)
+2 Nagal SC (Women)
+3 Veppanganeri SC (Women)
+4 Mudinampattu SC (Women)
+5 Kalampattu SC (General)
+6 Kilvaithinankuppam SC (General)
+7 Pasumathur SC (General)
+8 Senji SC (General)
+9 Sethuvandai SC (General)
+10 Thondanthulasi SC (General)
+11 Annankudi General (Women)
+12 Kavasampattu General (Women)
+13 Kilalathur General (Women)
+14 Kilmuttukur General (Women)
+15 Latheri General (Women)
+16 Murukkampattu General (Women)
+17 Pazhayakrishnapuram General (Women)
+18 Thirumani General (Women)
+19 Vilundakkal General (Women)
+20 Kavanur General
+21 Ammanankuppam General
+22 Ankarankuppam General
+23 Arumbakkam General
+24 Bomminayakanpalayam General
+25 Cholamur General
+26 Kankuppam General
+27 Alanganeri General
+28 Kosavanpudur General
+29 Kothamangalam General
+30 Machanur General
+31 Maliyapattu General
+32 Melmoil General
+33 Netteri General
+34 Panamadangi General
+35 Pillanthipattu General
+36 Sennankuppam General
+37 Vaduganthangal General
+38 Velampattu General
+39 Veppur General
+Kandhili Panchayat Union
+1 Kurumberi ST (General)
+2 Sevvathur SC (Women)
+3 Thoranampatti SC (Women)

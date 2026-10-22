@@ -1,0 +1,46 @@
+Tirune
+Reservation for Villa
+Reservation of Seats for S
+and women in the Village Panc
+Category to which
+Sl. No. Name of the Village Panchayat
+reservation is made
+1 2 3
+VASUDEVANALLUR PANCHAYAT UNION
+1 Ramanathapuram SC (Women)
+2 Nelkattumseval SC (Women)
+3 Devipattinam SC (Women)
+4 Inamkovilpatti SC (General)
+5 Duraisamiapuram SC (General)
+6 Dharugapuram SC (General)
+7 Nagaram SC (General)
+8 Gudalor General (Women)
+9 Ullar-Thalavaipuram General (Women)
+10 Sanganaperi General (Women)
+11 Subramaniapuram General (Women)
+12 Mullikkulam General (Women)
+13 Viswanathaperi General
+14 Thenmalai General
+15 Sangupuram General
+16 Thirumalapuram General
+17 Kottaiyur General
+18 Naranapuram General
+19 Ariyur General
+20 Thalaivankottai General
+21 Malaiyadikurichi General
+22 Ramasamiapuram General
+SANKARANKOVIL PANCHAYAT UNION
+1 Paruvakudi S.C. (Women)
+2 Panaiyoor S.C.( Women)
+3 Vadakkupudur S.C. (Women)
+4 Karivalamvandanallur S.C.( General)
+5 Manaloor S.C.( General)
+6 Nochikulam S.C.( General)
+7 Sennikulam S.C.(General)
+8 Veeriruppu S.C.( General)
+9 Madathupatti General (Women)
+10 Poigai General (Women)
+11 Punnaivanam General (Women)
+12 Ramanathapuram General (Women)
+13 Vadikottai General (Women)
+Page 139

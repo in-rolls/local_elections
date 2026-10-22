@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "sha256": "5baca16e908addd6c705f89ff6151534990a04b1a48c5b3688c37187899746e1",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595,
+      "height": 842,
+      "text": "f¢ÕQjh‰ plL¡l\n−Sm¡ f’¡−ua ¢ehÑ¡Qe B¢dL¡¢lL J −Sm¡ pj¡qaÑ¡l L¡kÑÉ¡mu\nf¤l¦¢mu¡\n¢¢¢¢hhhh‘‘‘‘¢¢¢¢çççç\nHaà¡l¡ Aøj f¢ÕQjh‰ f’¡−ua p¡d¡le ¢ehÑ¡Q−e f¤l¦¢mu¡ −Sm¡u ¢ehÑ¡Qe\nfË¢œ²u¡l p−‰ k¤š² pw¢nÔø pLm−L S¡e¡−e¡ k¡−µR −k jq¡j¡eÉ p¤¤fË£j −L¡VÑ\nHl B−cnh−m J f¢ÕQjh‰ ¢ehÑ¡Qe B−u¡−Nl B−cn¡e¤œ²−j 02-07-\n2013 a¡¢l−M Ae¤¢ùahÉ ¢ehÑ¡Qe h¡¢am qmz H ¢ho−u f¢lh¢aÑa p§Q£\nkb¡pj−u S¡e¡−e¡ q−hz\nB−cnh−m\n−Sm¡ f’¡−ua ¢ehÑ¡Qe B¢dL¡¢lL\nJ\n−Sm¡ pj¡qaÑ¡, f¤l¦¢mu¡",
+      "tables": [],
+      "images": 0,
+      "characters": 632
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 1
+}

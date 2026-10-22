@@ -1,0 +1,52 @@
+[
+  {
+    "name": "nadia",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/13986285/metadata/ddi",
+    "method": "GET",
+    "status": 200,
+    "path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/nadia_ddi.xml",
+    "sha256": "c06544a10022dad330d94d25fd86ac904cce02e5c68fb14255a30a13e48efb13",
+    "bytes": 5308,
+    "retrieved_utc": "2026-09-08T04:55:15.629207+00:00"
+  },
+  {
+    "name": "howrah",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/13986350/metadata/ddi",
+    "method": "GET",
+    "status": 200,
+    "path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/howrah_ddi.xml",
+    "sha256": "187707afcc467d276bc555cc5997350b66fdf7e0053444f4a0fdd2b49ca2f3f7",
+    "bytes": 5308,
+    "retrieved_utc": "2026-09-08T04:55:15.654681+00:00"
+  },
+  {
+    "name": "hooghly",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/13986337/metadata/ddi",
+    "method": "GET",
+    "status": 200,
+    "path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/hooghly_ddi.xml",
+    "sha256": "6e03a88eecf134577c46231c947aef9d763a980af1146d4f3b9551463b177f7c",
+    "bytes": 5043,
+    "retrieved_utc": "2026-09-08T04:55:15.708179+00:00"
+  },
+  {
+    "name": "burdwan",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/13986358/metadata/ddi",
+    "method": "GET",
+    "status": 200,
+    "path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/burdwan_ddi.xml",
+    "sha256": "e50147075c0c05f4e03ef8ffa73ee61e1e223c30cc53f472fc7bc8e0ef9ed48f",
+    "bytes": 5916,
+    "retrieved_utc": "2026-09-08T04:55:16.068184+00:00"
+  },
+  {
+    "name": "south24",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/13986347/metadata/ddi",
+    "method": "GET",
+    "status": 200,
+    "path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/south24_ddi.xml",
+    "sha256": "77e581eca03354e0ee76cbd689b4c15a51e6baa46af2837ed1509b0d42afc3cc",
+    "bytes": 5312,
+    "retrieved_utc": "2026-09-08T04:55:16.156272+00:00"
+  }
+]

@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "sha256": "40c23f9259fa83244c08b68ff7c7ba57a5bddfafc5632b4caf608aeabcd1c8c6",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE-A\nBLOCK : TEHATTA - I\nNumber of members to be elected in the Seats Seats reserved Seats\nGram Pamchayat allocated to for Schedule reserved for\nNumber, name & area of each Caste or Women\nName of Gram Total No. Schedule Schedule\nWomen constituencies with serial numbers constituency Schedule Tribe against serial\nof Castes Tribes\nmembers with serial against serial number of\nmembers Members members\nnumber number of Seats Seats.\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nChanderghat /I Part No. 70/142\nMouza-Kustia, J.L. No. 34\nChanderghat 11 2 Nil 4 a) Dhakshin Para 1 - 1,Women\nb) Uttar Para\nc) Das Para\nChanderghat /II Part No. 70/143\nMouza-Chalk Hanspukuria, J.L. No. 31\na) Natun Para\nMouza-Kustia, J.L. No. 34 2 - -\na) Purba Para\nb) Namo Para\nc) Sindurtalapara\nChanderghat /III Part No. 70/144\nMouza- Dhopahat, J.L. No. 28 3 - -\na) Dhopahat Paschim Para\nChanderghat /IV Part No. 70/145\nMouza- Dhopahat, J.L. No. 28\n4 - 4,Women\na) Dhopahat Purba Para\nb) Dhopahat Nutan Para\nChanderghat /V Part No. 70/146\nMouza- Chanderghat, J.L. No.30 5 SC 5,SC(Women)\na) Chanderghat Uttar Para\nb) Chanderghat Uttar Para (Purba)\nMouza-Chalk Hanspukuria, J.L. No. 31 6 - -\na) Chalk Hanspukuria Chaityna Para\nChanderghat /VI Part No. 70/147\n7 - -\nMouza- Chanderghat, J.L. No.30\na) Chanderghat Purba Para\n8 - 8,Women\nb) Chanderghat Paschim Para\n1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            36.454679999999996,
+            68.18928299999999,
+            723.5218830000001,
+            522.4936829999999
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the\nGram Pamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of\nconstituencies with serial numbers",
+              "Seats\nallocated to\neach\nconstituency\nwith serial\nnumber",
+              "Seats reserved\nfor Schedule\nCaste or\nSchedule Tribe\nagainst serial\nnumber of Seats",
+              "Seats\nreserved for\nWomen\nagainst serial\nnumber of\nSeats."
+            ],
+            [
+              null,
+              "Total No.\nof\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Chanderghat",
+              "11",
+              "2",
+              "Nil",
+              "4",
+              "Chanderghat /I Part No. 70/142\nMouza-Kustia, J.L. No. 34\na) Dhakshin Para\nb) Uttar Para\nc) Das Para",
+              "1",
+              "-",
+              "1,Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chanderghat /II Part No. 70/143\nMouza-Chalk Hanspukuria, J.L. No. 31\na) Natun Para\nMouza-Kustia, J.L. No. 34\na) Purba Para\nb) Namo Para\nc) Sindurtalapara",
+              "2",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chanderghat /III Part No. 70/144\nMouza- Dhopahat, J.L. No. 28\na) Dhopahat Paschim Para",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chanderghat /IV Part No. 70/145\nMouza- Dhopahat, J.L. No. 28\na) Dhopahat Purba Para\nb) Dhopahat Nutan Para",
+              "4",
+              "-",
+              "4,Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chanderghat /V Part No. 70/146\nMouza- Chanderghat, J.L. No.30\na) Chanderghat Uttar Para\nb) Chanderghat Uttar Para (Purba)\nMouza-Chalk Hanspukuria, J.L. No. 31\na) Chalk Hanspukuria Chaityna Para",
+              "5",
+              "SC",
+              "5,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "6",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chanderghat /VI Part No. 70/147\nMouza- Chanderghat, J.L. No.30\na) Chanderghat Purba Para\nb) Chanderghat Paschim Para",
+              "7",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "8",
+              "-",
+              "8,Women"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1291
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "Number of members to be elected in the Gram\nSeats reserved for Seats reserved\nPamchayat Seats allocated\nSchedule Caste or for Women\nNumber, name & area of constituencies with to each\nName of Gram Schedule Schedule Schedule Tribe against serial\nTotal No. of Women serial numbers constituency with\nCastes Tribes against serial number of\nmembers members serial number\nMembers members number of Seats Seats.\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nChanderghat /VII Part No. 70/148\n9 - -\nMouza- Chanderghat, J.L. No.30\na) Chanderghat Majher Para\n10 - -\nb) Chanderghat Majher Para\nChanderghat /VIII Part No. 70/149\nMouza- Chanderghat, J.L. No.30\na) Chanderghat Dakshin Para 11 SC -\nMouza- Kamalapur, J.L. No. 29\na) Kamalapur\nDate : 07/02/2008 District Panchayat Election Officer\n& District Magistrate, Nadia\n2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            36.454679999999996,
+            35.194920000000025,
+            723.5218830000001,
+            236.2812
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of constituencies with\nserial numbers",
+              "Seats allocated\nto each\nconstituency with\nserial number",
+              "Seats reserved for\nSchedule Caste or\nSchedule Tribe\nagainst serial\nnumber of Seats",
+              "Seats reserved\nfor Women\nagainst serial\nnumber of\nSeats."
+            ],
+            [
+              null,
+              "Total No. of\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chanderghat /VII Part No. 70/148\nMouza- Chanderghat, J.L. No.30\na) Chanderghat Majher Para\nb) Chanderghat Majher Para",
+              "9",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "10",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chanderghat /VIII Part No. 70/149\nMouza- Chanderghat, J.L. No.30\na) Chanderghat Dakshin Para\nMouza- Kamalapur, J.L. No. 29\na) Kamalapur",
+              "11",
+              "SC",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 768
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

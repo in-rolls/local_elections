@@ -1,0 +1,57 @@
+1 2 3
+Thiruvaiyaru Panchayat Union Contd.,
+4 Vinnamangalam SC (Women)
+5 Budarayanallur SC (General)
+6 Kuzhimathur SC (General)
+7 Karuppur SC (General)
+8 Naducauvery SC (General)
+9 Thirupalanam SC (General)
+10 Thiruchotruthurai SC (General)
+11 Varagur SC (General)
+12 Allur General (Women)
+13 Kazhumangalam General (Women)
+14 Manarsamudram General (Women)
+15 Marur General (Women)
+16 Valappakudi General (Women)
+17 Vanarangudi General (Women)
+18 Vilangudi General (Women)
+19 Vellamperambur General (Women)
+20 Vadugakudi General (Women)
+21 Kaduveli General (Women)
+22 Amabadumelnagaram General
+23 Ammaiyagaram General
+24 Kadambankudi General
+25 Keelathiruppanthuruthi General
+26 Kalyanapuram 1st sethi General
+27 Kalyanapuram 2nd sethi General
+28 Kandiyur General
+29 Karugudi General
+30 Konerirajapuram General
+31 Maharajapuram General
+32 Mukasakalyanapuram General
+33 Punavasal General
+34 Rayampettai General
+35 Sathanur General
+36 Semmangudi General
+37 Thillaisthanam General
+38 Venkatasamudram General
+39 Vaithianathanpettai General
+40 Uppukkatchipettai General
+Thiruppanandal Panchayat Union
+1 Chidambaranathapuram SC (Women)
+2 Marathurai SC (Women)
+3 Thiruvalliangudi SC (Women)
+4 Ukkarai SC (Women)
+5 Veerakan SC (Women)
+6 Kavanur SC (Women)
+7 Serugudy SC (General)
+8 Kovilramapuram SC (General)
+9 Kottur SC (General)
+10 Kulasekeranallur SC (General)
+11 Manalur SC (General)
+12 Mullangudi SC (General)
+13 Narikudi SC (General)
+14 Neikuppai SC (General)
+15 Sarabojirajapuram SC (General)
+16 Thirulogi SC (General)
+Page 80

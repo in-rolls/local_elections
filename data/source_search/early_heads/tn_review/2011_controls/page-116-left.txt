@@ -1,0 +1,52 @@
+1 2 3
+Alanganallur Panchayat Union Contd.
+23 Kodangipatti General
+24 Kottaimedu General
+25 Kuttimeikipatti General
+26 Maniyanji General
+27 Melachinnanampatti General
+28 Muduvarpatti General
+29 Pannaikudi General
+30 Paraipatti General
+31 Periyailanthaikulam General
+32 Senthamangalam General
+33 T.Mettupatti General
+34 Thandalai General
+35 Thethur General
+36 Valayapatti General
+37 Vavidamaruthur General
+Vadipatti Panchayat Union
+1 Ramayanpatti SC(Women)
+2 Semminipatti SC(Women)
+3 Andipatti SC(General)
+4 Kattakulam SC(General)
+5 Nachikulam SC(General)
+6 Thiruvalavayanallur SC (General)
+7 Kadupatti General(Women)
+8 Katchikatti General(Women)
+9 Mullipallam General(Women)
+10 C.Pudur General(Women)
+11 Thenkarai General(Women)
+12 Rishabam General(Women)
+13 Irumbadi General
+14 Karuppatti General
+15 Kutladampatti General
+16 Melakkal General
+17 Mannadimangalam General
+18 Nedungulam General
+19 Sithalangudi General
+20 Thiruvedagam General
+21 Viralipatti General
+22 Poochampatti General
+23 Kuruvithurai General
+Usilampatti Panchayat Union
+1 Dhottapanayakanoor SC (Women)
+2 Allikundam SC (General)
+3 Keeripatti SC (General)
+4 Nadupatti General (Women)
+5 Pothampatti General (Women)
+6 Thimmanatham General (Women)
+7 Seemanuthu General (Women)
+8 Vagurani General (Women)
+9 Erumarpatti General
+Page 114

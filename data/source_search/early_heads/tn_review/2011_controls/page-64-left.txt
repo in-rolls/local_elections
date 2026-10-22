@@ -1,0 +1,36 @@
+1 2 3
+PENNAGARAM PANCHAYAT UNION
+1 Kodihalli ST (General)
+2 Chinampalli SC(Women)
+3 Anjehalli SC(Women)
+4 Gendeyanahalli SC (General)
+5 Dhonnakuttahalli SC (General)
+6 Sathiyanathapuram General (Women)
+7 Manjanaickanahalli General (Women)
+8 Koothapadi General (Women)
+9 Pikkili General (Women)
+10 Senganoor General (Women)
+11 Thithiyappanahalli General (Women)
+12 Perumbalai General (Women)
+13 Kookuttamaruthahalli General (Women)
+14 Sunjalnatham General (Women)
+15 Vattuvanahalli General
+16 Paruvathanahalli General
+17 Badrahalli General
+18 Kalappambadi General
+19 Nagamarai General
+20 Ramakondahalli General
+21 Ajjanahalli General
+22 Manjarahalli General
+23 Mangarai General
+24 Arakasanahalli General
+25 Panaikulam General
+26 Biliyanoor General
+27 Onnappagoundanahalli General
+28 Pallipatty General
+29 Acharahalli General
+30 Giddanahalli General
+31 Madehalli General
+32 Veppalahalli General
+33 Velampatty General
+Page 62

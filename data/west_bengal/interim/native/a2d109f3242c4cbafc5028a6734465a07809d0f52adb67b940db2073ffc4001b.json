@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "sha256": "a2d109f3242c4cbafc5028a6734465a07809d0f52adb67b940db2073ffc4001b",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(FORM - A1)\nBlock: Ranaghat-1\nNumber of members to be elected in the Gram Panchayat\nName of Gram\nTotal number Scheduled Castes Scheduled Women\nof members members Tribes members members\n1 (2a) (2b) (2c) (2d)\nRamnagar-II 11 6(Six) NIL 4\nSeats allocated to Seats reserved for Seats reserved for\neach constituency Scheduled Castes or women against\nNumber, name and area of constituencies with with serial Scheduled Tribes serial number of\nserial numbers numbers against serial number seats\nof seats\n3 4 5 6\nRamnagar-II/I\nA) Durgapur Uttarpara 1 1 SC 1 SC(W)\nMouza – Durgapur J. L. No – 5\nGram Panchayat Ramnagar – 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/1\nRamnagar-II/II\nA) Durgapur Madhyopara 2 2 Women\nMouza – Durgapur J. L. No – 5\nB) Durgapur Dakshimpara\nMouza – Durgapur J. L. No – 5, Gram Panchayat Ramnagar\n– 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/2\nRamnagar-II/III\nA) Raghabpur Uttarpara (West) 3 3 SC\nMouza – Raghabpur J. L. No – 8, Gram Panchayat\nRamnagar – 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/3\nRamnagar-II/IV\nA) Raghabpur Uttarpara (East) 4 4 SC\nMouza – Raghabpur J. L. No – 8, Gram Panchayat\nRamnagar – 2 5 5 SC 5 SC(W)\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/4\nRamnagar-II/V\nA) Raghabpur Girjapara 6\nB) Raghabpur Coloni para\nC) Raghabpur Biswas para\nMouza – Raghabpur J. L. No – 8, Gram Panchayat -\nRamnagar – 2 7\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/5\nPage 1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            49.518952941176465,
+            77.32161360000002,
+            552.8346188571428,
+            166.45565850000003
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number\nof members",
+              "Scheduled Castes\nmembers",
+              "Scheduled\nTribes members",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Ramnagar-II",
+              "11",
+              "6(Six)",
+              "NIL",
+              "4"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            49.518952941176465,
+            224.98131428571438,
+            505.6384,
+            723.8995868571428
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with\nserial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nScheduled Castes or\nScheduled Tribes\nagainst serial number\nof seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Ramnagar-II/I",
+              "1",
+              "1 SC",
+              "1 SC(W)"
+            ],
+            [
+              "A) Durgapur Uttarpara\nMouza – Durgapur J. L. No – 5\nGram Panchayat Ramnagar – 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/1",
+              null,
+              null,
+              null
+            ],
+            [
+              "Ramnagar-II/II\nA) Durgapur Madhyopara\nMouza – Durgapur J. L. No – 5\nB) Durgapur Dakshimpara\nMouza – Durgapur J. L. No – 5, Gram Panchayat Ramnagar\n– 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/2",
+              "2",
+              "",
+              "2 Women"
+            ],
+            [
+              "Ramnagar-II/III\nA) Raghabpur Uttarpara (West)\nMouza – Raghabpur J. L. No – 8, Gram Panchayat\nRamnagar – 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/3",
+              "3",
+              "3 SC",
+              ""
+            ],
+            [
+              "Ramnagar-II/IV\nA) Raghabpur Uttarpara (East)\nMouza – Raghabpur J. L. No – 8, Gram Panchayat\nRamnagar – 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/4",
+              "4",
+              "4 SC",
+              ""
+            ],
+            [
+              null,
+              "5",
+              "5 SC",
+              "5 SC(W)"
+            ],
+            [
+              "Ramnagar-II/V\nA) Raghabpur Girjapara\nB) Raghabpur Coloni para\nC) Raghabpur Biswas para\nMouza – Raghabpur J. L. No – 8, Gram Panchayat -\nRamnagar – 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/5",
+              "6",
+              "",
+              ""
+            ],
+            [
+              null,
+              "7",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1431
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Ramnagar-II/VI\nA) Panpara East 8 8 SC\nMouza – Panpara J. L. No – 7, Gram Panchayat - Ramnagar\n– 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/6\nRamnagar-II/VII\nA) Panpara West 9 9 Women\nB) Panpara Dakshinpara\nMouza – Panpara J. L. No – 7, Gram Panchayat - Ramnagar\n– 2 10 10 SC\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/7\nRamnagar-II/VIII\nA) Doharpar Purbapara 11\nB) Doharpar Uttar-Purbapara\nC) Doharpar Paschimpara\nD) Doharpar Dakshin\nMouza –Doharpar J. L. No – 6, Gram Panchayat -\nRamnagar – 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/8\nDated: 07/02/2008 District Panchayat Election Officer\n&\nDistict Magistrate Nadia\nPage 2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            49.4366,
+            30.958457142857146,
+            505.6384,
+            308.6148
+          ],
+          "rows": [
+            [
+              "Ramnagar-II/VI\nA) Panpara East\nMouza – Panpara J. L. No – 7, Gram Panchayat - Ramnagar\n– 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/6",
+              "8",
+              "8 SC",
+              ""
+            ],
+            [
+              "Ramnagar-II/VII\nA) Panpara West\nB) Panpara Dakshinpara\nMouza – Panpara J. L. No – 7, Gram Panchayat - Ramnagar\n– 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/7",
+              "9",
+              "",
+              "9 Women"
+            ],
+            [
+              null,
+              "10",
+              "10 SC",
+              ""
+            ],
+            [
+              "Ramnagar-II/VIII\nA) Doharpar Purbapara\nB) Doharpar Uttar-Purbapara\nC) Doharpar Paschimpara\nD) Doharpar Dakshin\nMouza –Doharpar J. L. No – 6, Gram Panchayat -\nRamnagar – 2\nBlock – Ranaghat – 1, Police Station - Ranaghat\nPart No.-81/8",
+              "11",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 665
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

@@ -1,0 +1,62 @@
+1 2 3
+Kelamangalam Panchayat Union
+1 Doddathimmnahalli ST (General)
+2 Kottaiulimangalam SC (Women)
+3 Jekkeri SC (Women)
+4 Bairamangalam SC (General)
+5 Udedurgam SC (General)
+6 Sandanapalli General (Women)
+7 H.Settipalli General (Women)
+8 Bettamugulalam General (Women)
+9 Rayakottai General (Women)
+10 Bevanatham General (Women)
+11 Bommathathanur General (Women)
+12 Medagraharam General (Women)
+13 Nagamangalam General (Women)
+14 Kandaganapalli General
+15 Kundhumarnapalli General
+16 Doddamettrai General
+17 Anekollu General
+18 Rathinagiri General
+19 Thimjepalli General
+20 Irudhukottai General
+21 Koppakkarai General
+22 Bidhireddy General
+23 Bodichipalli General
+24 Hanumanthapuram General
+25 J.Karupallli General
+26 Karukkanahalli General
+27 Pillariagraharam General
+28 Thavarakarai General
+Krishnagiri Panchayat Union
+1 Pachiganapalli SC (Women)
+2 Devasamutharam SC (Women)
+3 Bellamapalli SC (General)
+4 Peddampatti SC (General)
+5 Venkatapuram General (Women)
+6 Agasipalli General (Women)
+7 Gangaleri General (Women)
+8 Goolium General (Women)
+9 Jinjupalli General (Women)
+10 Naralapalli General (Women)
+11 Periyamuthur General (Women)
+12 Sembadamuthur General (Women)
+13 Kattiganapalli General
+14 Agaram General
+15 Alapatti General
+16 Baiyanapalli General
+17 Bellaramapalli General
+18 Chikkapoovathi General
+19 Kallukurukki General
+20 Kammampalli General
+21 Kattinayanapalli General
+22 Kondepalli General
+23 Mekalachinnamapalli General
+24 Mallinayanapalli General
+25 Moramadugu General
+26 Peddathalapalli General
+27 Periakottapalli General
+28 Sokkadi General
+29 Thippanapalli General
+30 Velagalahalli General
+Page 66

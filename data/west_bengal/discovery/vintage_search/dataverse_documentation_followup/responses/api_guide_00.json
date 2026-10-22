@@ -1,0 +1,19 @@
+{
+  "request_url": "https://guides.dataverse.org/en/latest/api/dataaccess.html",
+  "response_url": "https://guides.dataverse.org/en/latest/api/dataaccess.html",
+  "status": 200,
+  "headers": {
+    "Date": "Tue, 08 Sep 2026 05:24:31 GMT",
+    "Server": "nginx/1.20.1",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Content-Length": "87756",
+    "Last-Modified": "Wed, 01 Jul 2026 18:38:49 GMT",
+    "ETag": "\"6a455eb9-156cc\"",
+    "Accept-Ranges": "bytes",
+    "Keep-Alive": "timeout=5, max=100",
+    "Connection": "Keep-Alive"
+  },
+  "body_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/api_guide_00.body",
+  "bytes": 87756,
+  "sha256": "94fe99686331273475d3215e5cf477c970fd4df64e837e75266f4cd9655a8b9b"
+}

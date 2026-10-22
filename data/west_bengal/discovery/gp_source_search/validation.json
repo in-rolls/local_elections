@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-09-07",
+  "downloaded_manifest_records_verified": 326,
+  "checks": [
+    "file existence",
+    "byte count",
+    "SHA-256",
+    "ZIP CRC integrity",
+    "all PDF page counts cross-checked through native extraction index"
+  ],
+  "remaining_discovered_download_urls": 45,
+  "indexed_pdf_and_html_files_verified": 531,
+  "pdfs_opened_with_pdfinfo": 518,
+  "pdf_pages": 2886,
+  "distinct_pdf_hashes": 503
+}

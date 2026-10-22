@@ -1,0 +1,53 @@
+1 2 3
+Sedapatti Panchayat Union Contd.
+9 Kalappanpatti General (Women)
+10 Vandari General (Women)
+11 Uthapuram General (Women)
+12 Kuppalnatham General (Women)
+13 Vandapuli General (Women)
+14 Sedapatti General (Women)
+15 pappinaickanpatti General (Women)
+16 Chinnakattalai General (Women)
+17 Athikaripatti General
+18 Veppanpatti General
+19 Kethuvarpatti General
+20 Perungamanallur General
+21 Poosalapuram General
+22 Thirumanickam General
+23 Soolapuram General
+24 Seelnaickanpatti General
+25 Athankaraipatti General
+26 Periyakattalai General
+27 Melathirumanickam General
+28 Kudipatti General
+29 E.Kottaipatti General
+30 Palaiyur General
+31 Muthunagaiahpuram General
+Tirumangalam Panchayat Union
+1 Sorikkampatti SC (Women)
+2 Kinnimangalam SC (Women)
+3 Ponnamangalam SC (Women)
+4 Kangeyanatham SC (General)
+5 Melakottai SC (General)
+6 A.Ammapatti SC (General)
+7 Sithalai SC (General)
+8 Naduvakottai General (Women)
+9 Vagaikulam General (Women)
+10 Alappalacheri General (Women)
+11 Kappalur General (Women)
+12 Virusankulam General (Women)
+13 Alampatti General (Women)
+14 Thangalacheri General (Women)
+15 Sathangudi General (Women)
+16 Maravankulam General (Women)
+17 Kilavaneri General (Women)
+18 Vadakarai General
+19 Kamatchipuram General
+20 Karisalpatti General
+21 Kandai General
+22 Karadikal General
+23 Pannikundu General
+24 Nadukottai General
+25 Rayapalayam General
+26 Keelakottai General
+Page 115

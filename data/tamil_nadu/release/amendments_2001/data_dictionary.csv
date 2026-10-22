@@ -1,0 +1,29 @@
+field,definition
+row_id,"SHA-derived source occurrence key from document,page,clause/union/serial locator; not a GP code."
+state,Tamil Nadu.
+document_year,2001 document year; does not establish actual election implementation date.
+stage,amendment; not a full statewide roster.
+tier,gp_president; union/district chairs excluded.
+operation_type,replace_section: member of a printed replacement section; insert: named addition; replace_category: change addressed by old serial.
+section_id,Replacement-section key; null for individual changes.
+clause,Printed clause/subclause. Clause9 replaces old Perambalur with Perambalur and Ariyalur sections.
+district_printed,Printed district heading with trailing DISTRICT omitted; no modern alias inferred.
+union_printed,"Printed union heading including section prefix, with trailing PANCHAYAT UNION omitted."
+serial_printed,"Printed new row serial, including4.A; null for serial-addressed category changes."
+target_serial_printed,Printed old-row target for category replacement; GP name remains unknown if not printed.
+after_serial_printed,Printed old-row insertion anchor; null for other operations.
+gp_name_printed,Visual reading of printed village name; five serial-only targets have null names.
+old_category_reading,Explicit former category only when printed; null elsewhere means unknown.
+new_category_reading,Human semantic reading of new category with standardized punctuation/spacing; images and machine reading remain separate.
+new_reservation_caste,"SC/ST/UR from explicit new category; UR denotes unrestricted caste axis, not officeholder caste."
+new_reservation_women,"Boolean from explicit new category; General categories are false. Office reservation, not elected-person sex."
+officeholder_name,"Always null; source contains reservation amendments, not outcomes."
+officeholder_sex,Always null; no elected-person sex observed or inferred.
+source_path,Original PDF repository-relative path.
+source_sha256,Immutable original PDF SHA256.
+source_page,One-based PDF page.
+source_locator,"Printed clause, union and serial locator."
+reading_method,Manual visual reading of original PDF renders.
+quality_flags,Explicit qualifications; CSV stores list asJSON.
+manual_readings_sha256,"Hash of human readings, source pins, image hashes, reading policy and correction trail."
+independent_review_sha256,SHA256 of the independent visual audit of all 451 named entries; audit pins the exact manual readings and source images. Five serial-only targets are outside this named-entry audit.

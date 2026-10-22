@@ -1,0 +1,26 @@
+{
+  "request_url": "https://faculty.wcas.northwestern.edu/lab823/",
+  "response_url": "https://faculty.wcas.northwestern.edu/lab823/",
+  "status": 200,
+  "headers": {
+    "Content-Type": "text/html",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Last-Modified": "Mon, 09 Oct 2023 18:42:01 GMT",
+    "x-amz-version-id": "gfU78aVor_A73PWiEML60PS_OqScCKjd",
+    "Server": "AmazonS3",
+    "Content-Encoding": "gzip",
+    "Date": "Tue, 08 Sep 2026 05:25:05 GMT",
+    "ETag": "W/\"3939860b1b59165e728ae9efc65c54be\"",
+    "Vary": "Accept-Encoding",
+    "X-Cache": "RefreshHit from cloudfront",
+    "Via": "1.1 45d6a557ecb29942f314e3dd736d817a.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "SEA73-P2",
+    "Alt-Svc": "h3=\":443\"; ma=86400",
+    "X-Amz-Cf-Id": "84Jwq3rAvoJ2noauSbDTF2T3tsYT138CEO8kBFF7qbstswLSaKVhNQ==",
+    "Content-Security-Policy": "upgrade-insecure-requests;"
+  },
+  "body_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/beaman_author_actual_00.body",
+  "bytes": 7549,
+  "sha256": "2e79e6704a28263d6626216371a089c5b4f0c9e5153df96e81fd6517c9715f36"
+}

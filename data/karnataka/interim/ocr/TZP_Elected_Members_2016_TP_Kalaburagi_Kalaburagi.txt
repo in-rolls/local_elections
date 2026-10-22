@@ -1,0 +1,308 @@
+<div><img/></div>
+<div data-bbox="175 90 344 105" data-label="Page-Header">
+<p>KARENA PONA/47167</p>
+</div>
+<div data-bbox="628 88 947 105" data-label="Page-Header">
+<p>Reg. No. L7/Eubarga/58/2015-2017</p>
+</div>
+<div data-bbox="132 148 865 220" data-label="Section-Header">
+<h1 style="text-align: center;">ಕೃಷ್ಣ ಕೃತಿಕೆ ರಾಜ್ಯ</h1>
+<h2 style="text-align: center;">ಅಧಿಕೃತವಾಗಿ ಪ್ರಕಟಿಸಲಾದುದು ಶಿ</h2>
+<h3 style="text-align: center;">ವಿಶೇಷ ರಾಜ್ಯ ವತ್ತಿಕೆ</h3>
+</div>
+<div data-bbox="90 245 945 295" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 15%; padding: 5px;">ಭಾಗ - 6ಸಿ<br/>Part - 6C</td>
+<td style="width: 75%; padding: 5px;">ಕಲಬುರಗಿ, ಶುಕ್ರವಾರ, ಮಾರ್ಚ್ ೧೮, ೨೦೧೬ (ಫಾಲ್ಕುಣ ೨೮, ಶಕ ವರ್ಷ ೧೯೩೭)<br/>Kalaburagi, Friday, March 18, 2016 ( Phalguna 28, Shaka Varsha 1937 )</td>
+<td style="width: 15%; padding: 5px;">ನಂ. ೩೯<br/>No. 39</td>
+</tr>
+</table>
+</div>
+<div data-bbox="320 295 715 325" data-label="Text">
+<p style="text-align: center;">ಪ್ರಾದೇಶಿಕ ಆಯುಕ್ತರ ಕಾರ್ಯಾಲಯ ಕಲಬುರಗಿ ವಿಭಾಗ ಕಲಬುರಗಿ<br/><u>ಅಧಿಸೂಚನೆ</u></p>
+</div>
+<div data-bbox="190 330 475 345" data-label="Text">
+<p style="text-align: center;">ಸಂ/ಕಂದಾಯ/ಪ್ರಾಆಕ/ಕಲಬುರಗಿ/68/2015-16</p>
+</div>
+<div data-bbox="655 330 790 345" data-label="Text">
+<p style="text-align: right;">ದಿನಾಂಕ: 14.03.2016</p>
+</div>
+<div data-bbox="190 385 850 495" data-label="Text">
+<p>1993 ರ ಕರ್ನಾಟಕ ಪಂಚಾಯತ ರಾಜ (ಚುನಾವಣೆಯನ್ನು ನಡೆಸುವ) ನಿಯಮಾವಳಿ 12ನೇ ನಿಯಮದ ಉಪ ನಿಯಮ 2 ರ ಮೇರೆಗೆ ಜಿಲ್ಲಾಧಿಕಾರಿಗಳು ಕಲಬುರಗಿ ಹೊರಡಿಸಿದ ದಿನಾಂಕ: 01.02.2016 ಅಧಿಸೂಚನೆ ಸಂಖ್ಯೆ/ಕಂ/ಚುನಾವಣೆ/ಜಿಪಂತಾಪಂ/64/2015-16 ರ ಪ್ರಕಾರ ಕಲಬುರಗಿ ಜಿಲ್ಲೆಯ ಕಲಬುರಗಿ ತಾಲೂಕಿನ ತಾಲೂಕು ಪಂಚಾಯತಗೆ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಯನ್ನು (ದಿನಾಂಕ: 20.02.2016 ರಂದು) ನಡೆಸಲಾಗುವುದರಿಂದ ಮತ್ತು ಸದರಿ ತಾಲೂಕು ಪಂಚಾಯತಿಯ ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ನಡೆಸಲಾದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಯ ಫಲಿತಾಂತವನ್ನು ಸಂಬಂಧಪಟ್ಟ ಚುನಾವಣಾಧಿಕಾರಿಗಳು ದಿನಾಂಕ: 23.02.2016 ರಂದು ಘೋಷಿಸಿರುವುದರಿಂದ.</p>
+</div>
+<div data-bbox="190 505 850 565" data-label="Text">
+<p>1993 ರ ಕರ್ನಾಟಕ ಪಂಚಾಯತ ರಾಜ ಅಧಿನಿಯಮ ಕಲಂ 133ನೇ ಪ್ರಕರಣದಿಂದ ಪ್ರದತ್ತವಾದ ಅಧಿಕಾರವನ್ನು ಚಲಾಯಿಸಿ ಕಲಬುರಗಿ ವಿಭಾಗದ ಪ್ರಾದೇಶಿಕ ಆಯುಕ್ತರಾದ ನಾನು ಆಮ್ಲಿನ್ ಆದಿತ್ಯ ದಿನ್ವಾಸ್, ಭಾ.ಆ.ಸೇ. ಕಲಬುರಗಿ ಜಿಲ್ಲೆಯ ಕಲಬುರಗಿ ತಾಲೂಕು ಪಂಚಾಯತಿಗೆ ಆಯ್ಕೆಯಾದ ಸದಸ್ಯರ ಹೆಸರುಗಳನ್ನು ಈ ಕೇಳಿಗೆ ನಮೂದಿಸಿದಂತೆ ಅಧಿಸೂಚಿಸಿರುತ್ತೇನೆ.</p>
+</div>
+<div data-bbox="190 575 290 590" data-label="Text">
+<p>ಜಿಲ್ಲೆ: ಕಲಬುರಗಿ</p>
+</div>
+<div data-bbox="715 575 810 590" data-label="Text">
+<p style="text-align: right;">ತಾ|| ಕಲಬುರಗಿ</p>
+</div>
+<div data-bbox="160 600 880 980" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th style="width: 10%;">ಕ್ರಮ ಸಂಖ್ಯೆ</th>
+<th style="width: 30%;">ತಾಲೂಕು ಪಂಚಾಯತಿಯ ಕ್ಷೇತ್ರದ ಸಂಖ್ಯೆ ಮತ್ತು ಹೆಸರು</th>
+<th style="width: 20%;">ವಿಂಗಡಣತಿ/ವಿಂಗಡಲಿಯಿದ ವರ್ಗ</th>
+<th style="width: 30%;">ಚುನಾಯಿತ ಸದಸ್ಯರ ಹೆಸರು ಶ್ರೀ/ಶ್ರೀಮತಿ</th>
+<th style="width: 20%;">ರಾಜಕೀಯ ವಕ್ಷ/ವಕ್ಷೇತರ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">5</td>
+</tr>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">01-ಡೊಂಗರಗಾಂವ</td>
+<td style="text-align: center;">ಅನುಸೂಚಿತ ಜಾತಿ</td>
+<td style="text-align: center;">ಸುರೇಶ ಭರಣಿ ಸಾ: ಡೊಂಗರಗಾಂವ ತಾ: ಜಿ: ಕಲಬುರಗಿ</td>
+<td style="text-align: center;">ಜನತಾದಳ (ಜಾತ್ಯಾತೀಶ)</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">02-ಕೀಕ್ಷಿಸಡಕ</td>
+<td style="text-align: center;">ಸಾಮಾನ್ಯ</td>
+<td style="text-align: center;">ಪ್ರವೀಣ ಶುಭಾಶ್ಚಂದ್ರ ಸಾ: ಪಟವಾಡ ತಾ:ಜಿ: ಕಲಬುರಗಿ</td>
+<td style="text-align: center;">ಭಾರತೀಯ ಜನತಾ ವಕ್ಷ</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">03-ಮರಗುತ್ತಿ</td>
+<td style="text-align: center;">ಅನುಸೂಚಿತ ಜಾತಿ (ಮಹಿಳೆ)</td>
+<td style="text-align: center;">ಮಮತಾ ನಾಗಣ್ಣಾ ಮಾಂಗ ಸಾ: ಮರಗುತ್ತಿ ತಾ:ಜಿ: ಕಲಬುರಗಿ</td>
+<td style="text-align: center;">ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">04-ಸೊಂತ</td>
+<td style="text-align: center;">ಅನುಸೂಚಿತ ಜಾತಿ</td>
+<td style="text-align: center;">ಸಂಜೀವಕುಮಾರ ಗೋಪಿನಾಯ್ಕ ರಾಠೋಡ ಸಾ: ಮರಮಂಚ ತಾಂಡಾ ತಾ:ಜಿ: ಕಲಬುರಗಿ</td>
+<td style="text-align: center;">ಪಕ್ಷೇತರ</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">05-ಕಮಲಾಮೂರ</td>
+<td style="text-align: center;">ಹಿಂದುಳಿದ "ಅ" ವರ್ಗ (ಮಹಿಳೆ)</td>
+<td style="text-align: center;">ರಾಜೇಶ್ವರ ಅಶೋಕ ಪಂಚಗಲ್ಲಿ ಸಾ: ಕಮಲಾಮೂರ ತಾ:ಜಿ: ಕಲಬುರಗಿ</td>
+<td style="text-align: center;">ಭಾರತೀಯ ಜನತಾ ವಕ್ಷ</td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">06-ಹೋಳಕುಂದಾ</td>
+<td style="text-align: center;">ಅನುಸೂಚಿತ ಜಾತಿ (ಮಹಿಳೆ)</td>
+<td style="text-align: center;">ವೀಣಾ ರಾಜಕುಮಾರ ಜಾಧವ ಸಾ: ಭಗವಾನ ತಾಂಡಾ ತಾ:ಜಿ: ಕಲಬುರಗಿ</td>
+<td style="text-align: center;">ಭಾರತೀಯ ಜನತಾ ವಕ್ಷ</td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">07-ಜೀವಣಗಿ</td>
+<td style="text-align: center;">ಅನುಸೂಚಿತ ಜಾತಿ</td>
+<td style="text-align: center;">ಪ್ರವೀಣಕುಮಾರ ಅಂಬಾರಾಯ ಅಡವಿಕರ್ ಸಾ: ನಾಗೂರ ತಾ:ಜಿ: ಕಲಬುರಗಿ</td>
+<td style="text-align: center;">ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+</tr>
+</tbody>
+</table>
+</div><table border="1">
+<thead>
+<tr>
+<th colspan="4">ವಿಶೇಷ ರಾಜ್ಯ ಪಟ್ಟಿ ಸಂಖ್ಯೆ 30</th>
+<th colspan="2">2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8</td>
+<td>08-ಮಹಾಗಾಂವ</td>
+<td>ಅನುಸೂಚಿತ ಪಂಗಡ (ಮಹಿಳೆ)</td>
+<td>ಮಹಾನಂದಾ ರಮಣ ಸಾಹಿತ್ಯ ಧರ್ಮದೈಲ್ ಸಿ.ಮಹಾಗಾಂವ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ರಾಜ್ಯೀಯ ಕಾಂಗ್ರೆಸ್</td>
+</tr>
+<tr>
+<td>9</td>
+<td>09-ಕುರಿಕೋಟಾ</td>
+<td>ಸಾಮಾನ್ಯ (ಮಹಿಳೆ)</td>
+<td>ಪಾರ್ವತಿ ಮಹಾದೇವನ್ಮಾ ಸಲಗರ ಸಾ: ಕುರಿಕೋಟಾ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>10</td>
+<td>10-ಕುಮಸಿ</td>
+<td>ಹಿಂದುಳಿದ "ಬ" ವರ್ಗ (ಮಹಿಳೆ)</td>
+<td>ತೇಜೇಶ್ವರಿ ಚಂದ್ರಕಾಂಕ ಜಲದೆ ಸಾ: ಕುಮಸಿ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11-ಹರಸೂರ</td>
+<td>ಸಾಮಾನ್ಯ</td>
+<td>ರಸೀದ ಪಟೇಲ ದುಕುಂ ಪಟೇಲ ಸಾ: ತಾವರಗೇರಾ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಪಕ್ಷೇತರ</td>
+</tr>
+<tr>
+<td>12</td>
+<td>12-ಅವರಾದ (ಜಿ)</td>
+<td>ಹಿಂದುಳಿದ "ಅ" ವರ್ಗ</td>
+<td>ಬಲರಾಮ ಚಂದ್ರತಾ ಪೂಜಾರಿ ಸಾ: ಭೂಷಾಲ ತೆಗನೂರ ತಾಜಿ:ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+</tr>
+<tr>
+<td>13</td>
+<td>13-ಕಲ್ಲಹಂಗರಗಾ</td>
+<td>ಹಿಂದುಳಿದ "ಅ" ವರ್ಗ (ಮಹಿಳೆ)</td>
+<td>ಸುಮಿತ್ತಾಬಾಯಿ ಬದ್ರಪ್ಪ ಚಳಕ ಸಾ: ಕಲ್ಲಹಂಗರಗಾ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14-ತಾಜಸುಲ್ತಾನಪುರ</td>
+<td>ಹಿಂದುಳಿದ "ಅ" ವರ್ಗ</td>
+<td>ಚಂದ್ರತೇಖಿರ.ಎಸ್.ಅಂಬಲಗಿ ಸಾ: ತಾಜಸುಲ್ತಾನಪೂರ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>15</td>
+<td>15-ಶ್ರೀನಿವಾಸ ಸರಡಗಿ</td>
+<td>ಅನುಸೂಚಿತ ಜಾತಿ (ಮಹಿಳೆ)</td>
+<td>ಶ್ರೀಯಾಂಕ ನಾರಾಯಣ ಪವಾರ ಸಾ: ಶ್ರೀನಿವಾಸ ಸರಡಗಿ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+</tr>
+<tr>
+<td>16</td>
+<td>16-ಪಾಳಾ</td>
+<td>ಅನುಸೂಚಿತ ಜಾತಿ (ಮಹಿಳೆ)</td>
+<td>ರೇಣುಕಾ ಈಶ್ವರ ರಾಠೋಡ ಸಾ: ಬಾಮನಾಯಕ ತಾಂಡಾ ನಂದೂರ(ಜಿ) ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>17</td>
+<td>17-ಕುಸನೂರ</td>
+<td>ಅನುಸೂಚಿತ ಜಾತಿ (ಮಹಿಳೆ)</td>
+<td>ವಿಜಯಲಕ್ಷ್ಮಿ ಸುರೇಶ್ವರಿ ಬಲಾರಾದ ಸಾ: ಕುಸನೂರ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18-ನಂದಿಕೂರ</td>
+<td>ಸಾಮಾನ್ಯ</td>
+<td>ತಾಮರಾಯ ದೇವರಾಯ ಪಾಟೀಲ ಸಾ: ನಂದಿಕೂರ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>19</td>
+<td>19-ಖೀದಾಳ</td>
+<td>ಅನುಸೂಚಿತ ಜಾತಿ</td>
+<td>ಅನಂದ ಕಿಶನ ಚವ್ವಾಣ ಸಾ: ಖೀದಾಳ ತಾಂಡಾ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>20</td>
+<td>20-ಶರಣಸಿರಸಗಿ</td>
+<td>ಸಾಮಾನ್ಯ</td>
+<td>ಅನ್ನಪೂರ್ಣಾ ಗೋವಿಂದರೆಡ್ಡಿ ಸಾ: ಹಡಗಿಲ ಹಾರೂತಿ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>21</td>
+<td>21-ಮೀಜಿಗಿ</td>
+<td>ಸಾಮಾನ್ಯ</td>
+<td>ಮಲ್ಲಿಕಾರ್ಜುನ ಅನಂದರಾಯ ಸಾ: ಕಡಣಿ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>22</td>
+<td>22-ಪಟ್ಟಣ</td>
+<td>ಸಾಮಾನ್ಯ (ಮಹಿಳೆ)</td>
+<td>ವಿತಾಬಾಯಿ ಶಿವಶರಣಪ್ಪ ಹಿರೆಗೌಡ ಸಾ: ಪಟ್ಟಣ ತಾಜಿ: ಕಲಬುರಗಿ</td>
+<td>ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>15-ಫಿಂಗಳ್ಳ</td>
+<td>ಸಾಮಾನ್ಯ (ಮಹಿಳೆ)</td>
+<td>ಭಾರತ ರಾಷ್ಟ್ರೀಯ ಕಂಪನಿ ಸಾಹಿತ್ಯ ಕಲಬರಗಿ</td>
+<td>ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>24-ಮಳರಂದಾ (ಬಿ)</td>
+<td>ಸಾಮಾನ್ಯ</td>
+<td>ದೆಹಿಂದ್ ಶರಣಪ್ಪ ಸಾ: ಮಳಳುಂದಾ(ಬಿ) ಸಾ:ಬಿ. ಕಲಬರಗಿ</td>
+<td>ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>15-ಸಾವಳಗಿ (ಬಿ)</td>
+<td>ಸಾಮಾನ್ಯ</td>
+<td>ಚನ್ನಬಸಯ್ಯ ಗುರುಕಾಳಗಿಯ್ಯ ಸಾ: ಸಾವಳಗಿ(ಬಿ) ತಾ:ಬಿ. ಕಲಬರಗಿ</td>
+<td>ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>26-ಫರಹತಾಬಾದ</td>
+<td>ಸಾಮಾನ್ಯ</td>
+<td>ಶಿವರಾಜ ಕಲ್ಲಪ್ಪ ಸಜ್ಜನ ಸಾ: ಫರಹತಾಬಾದ ತಾ:ಬಿ. ಕಲಬರಗಿ</td>
+<td>ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td>27-ಶಿರಣಗಿ</td>
+<td>ಸಾಮಾನ್ಯ (ಮಹಿಳೆ)</td>
+<td>ಅನ್ನಮೋರ್ಣ ಷಡಕ್ಷರಿ ಸಾ: ತಿರಣಗಿ ತಾ:ಬಿ. ಕಲಬರಗಿ</td>
+<td>ಪಕ್ಷೇತರ</td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td>28-ಫಿರೋಜಾಬಾದ</td>
+<td>ಸಾಮಾನ್ಯ (ಮಹಿಳೆ)</td>
+<td>ಅಂಬಿಕಾ ಶರಣಗೌಡ ವಾಟೇಲ ಸಾ: ಸೋಮನಾಥಹಳ್ಳ ತಾ:ಬಿ. ಕಲಬರಗಿ</td>
+<td>ಪಕ್ಷೇತರ</td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td>29-ಕವಲಗಾ ಬಿ</td>
+<td>ಸಾಮಾನ್ಯ (ಮಹಿಳೆ)</td>
+<td>ಪಾರ್ವತಿ ದಶರಥ ಶಾಖಾಮೂರ ಸಾ: ಬಸಸಾಳ ತಾ:ಬಿ. ಕಲಬರಗಿ</td>
+<td>ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td>30-ಜೆರೂರ ಬಿ</td>
+<td>ಸಾಮಾನ್ಯ</td>
+<td>ಸೈಯದ ಅಬ್ಬುಲಸಾಬ ಹೇರೂರ(ಬಿ) ಹೇರೂರ(ಬಿ) ತಾ:ಬಿ. ಕಲಬರಗಿ</td>
+<td>ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್</td>
+<td></td>
+</tr>
+</table>
+</div>
+<div data-bbox="108 709 177 741" data-label="Text">
+<p>PR 128<br/>SC 50</p>
+</div>
+<div data-bbox="627 651 843 760" data-label="Text"><img/></div>
+<div data-bbox="222 821 831 842" data-label="Text">
+<p>ಉಪ ನಿರ್ದೇಶಕರು, ಸರ್ಕಾರಿ ಪಿಥಾಗೀಯ ಮುದ್ರಣಾಲಯ, ಕಲಬರಗಿ ಇವರಿಂದ ಮುದ್ರಿಸಲ್ಪಟ್ಟಿತು</p>
+</div>

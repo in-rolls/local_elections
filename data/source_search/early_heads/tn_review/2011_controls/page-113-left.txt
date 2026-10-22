@@ -1,0 +1,51 @@
+1 2 3
+THIRUVARANKULAM PANCHAYAT UNION
+1 Palaiyur SC (Women)
+2 Thirukkattalai SC (Women)
+3 Pudukkottai Viduthi SC (Women)
+4 Nagaram SC (General)
+5 Dhatchinapuram SC (General)
+6 Pallathividuthi SC (General)
+7 Vandakottai SC (General)
+8 Veppankudi General (Women)
+9 S.Kulavaipatti General (Women)
+10 Karumbirankottai General (Women)
+11 Venkidakulam General (Women)
+12 Seriyalur Enam General (Women)
+13 Senthagudi General (Women)
+14 Manjanviduthi General (Women)
+15 Patchikottai General (Women)
+16 Neduvasal East General (Women)
+17 Vennavalkudi General (Women)
+18 K.Rasiyamangalam General (Women)
+19 Pullanviduthi General (Women)
+20 Senthangudi General (Women)
+21 Poovarasakudi General
+22 Kuppakudi General
+23 Kovilur General
+24 Kathakurichi General
+25 Kulamangalam South General
+26 Kulanthai Vinayagar Kottai General
+27 Neduvasal West General
+28 Vadakadu General
+29 Pathampatti General
+30 Kulamangalam North General
+31 Kaikurichi General
+32 Melathur General
+33 Panangulam General
+34 Kalangudi General
+35 Keelathur General
+36 Isuguppatti General
+37 Lakshmi Narasimahapuram General
+38 Mangadu General
+39 Thiruvarangulam General
+40 Maniyambalam General
+41 Arayappatti General
+42 Kothamangalam General
+43 Kayamppatti General
+44 Kothakkottai General
+45 Kallalangudi General
+46 Seriyalur Zamin General
+47 Vallathirakottai General
+48 Alangadu General
+Page 111

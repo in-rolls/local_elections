@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "sha256": "626562ef989c347f967741a1bfb9d55826f8ffac5281c42550c88045666558c8",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "srebmem\nfo rebmun\nlatoT\nsrebmem\nsetsaC\ndeludehS\nsrebirT\ndeludehcS\nsrebmem\nsrbmem\nnemoW\n1 (2a) (2b) (2c) (2d) 3 4 5 6\nBethuadahari-II / I\n1 1 SC 1 SC(W)\nMouza- Chinchuria , J.L.No. 42\n15 4 Nil 5 a) Chinchuria Madhyapara b) Chinchuria Dakshinpara\nc) Chinchuria Purbapara\n2 - 2 Women\nAssembly Part No 71/ 47\nBethuadahari-II / II\nMouza- Bagunda, J.L. No. 27 3 - -\na) Bagunda Paschimpara b) Bagunda Purbapara\nMouza- Bad Tehatta, J.L.No. 28\nc) Bad Tehatta 4 - -\nAssembly Part No 71/ 48\nBethuadahari-II / III\nMouza-Chinchuria J.L. No. 42\n5 - 5 Women\na) Chinchuria Dangapara b) Chinchuria Uttarpara\nAssembly Part No 71/ 49\nBethuadahari-II/ IV\nMouza-Chinchuria J.L. No. 42\n6 - -\na) ChinchuriaPara\nAssembly Part No 71/ 50\nBethuadahari-II / V\n7 - -\nMouza- Jagadanandapur, J.L.No. 46\na) Purba Jagadanandapur Hospitalpara (Purba &\nPaschim)\n8 8 SC -\nAssembly Part No 71/ 51\nBethuadahari-II / VI\n9 - 9 Women\nMouza- Jagadanandapur, J.L.No. 46\na) Purba Jagadanandapur Stationpara b) Badal Dutta\nColoney\n10 - -\nAssembly Part No 71/ 52\nBethuadahari-II / VII\nMouza- Jagadanandapur, J.L.No. 46\n11 - -\na) Purba Jagadanandapur Madhyapara\nAssembly Part No 71/ 53\nII\n-irahadauhteB\n[ Form-A1 ]\nTHE SCHEDULE\nBlock : NAKASHIPARA\nmarG\nfo\nemaN\nNumber of members to be\nelected in the Gram Panchayat\nNumber, Name and Area of Constituencies with\nserial numbrs\nhcae\not detacolla\nstaeS\nsrebmun\nlaires\nhtiw ycneutitsnoc\ndeludehcS\nrof devreser\nstaeS\ntsniaga\nsebirT\ndeludehcS\nro\nsetsaC\nstaes\nfo rebmun\nlaires\ntsniaga\nnemow\nrof devreser\nstaeS\nstaes\nfo rebmun\nlaires\nC:\\Documents and Settings\\PANCHAYET SECTION\\Desktop\\Nakashipara\\Nakashipara\\Gram Panchayats\\Schedule-A1",
+      "tables": [
+        {
+          "bbox": [
+            54.81612,
+            87.05279999999999,
+            587.8116,
+            737.03856
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of members to be\nelected in the Gram Panchayat",
+              null,
+              null,
+              null,
+              "Number, Name and Area of Constituencies with\nserial numbrs",
+              "srebmun\nhcae laires\not htiw\ndetacolla\nycneutitsnoc\nstaeS",
+              "tsniaga\ndeludehcS\nsebirT\nstaes\ndeludehcS\nrof\nfo\ndevreser\nrebmun\nro\nsetsaC\nstaeS laires",
+              "tsniaga\nnemow\nstaes\nrof\nfo\ndevreser\nrebmun\nstaeS laires"
+            ],
+            [
+              null,
+              "srebmem\nfo\nrebmun\nlatoT",
+              "srebmem\nsetsaC\ndeludehS",
+              "srebirT\ndeludehcS\nsrebmem",
+              "srbmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "II\n-irahadauhteB",
+              "15",
+              "4",
+              "Nil",
+              "5",
+              "Bethuadahari-II / I\nMouza- Chinchuria , J.L.No. 42\na) Chinchuria Madhyapara b) Chinchuria Dakshinpara\nc) Chinchuria Purbapara\nAssembly Part No 71/ 47",
+              "1\n2",
+              "1 SC\n-",
+              "1 SC(W)\n2 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bethuadahari-II / II\nMouza- Bagunda, J.L. No. 27\na) Bagunda Paschimpara b) Bagunda Purbapara\nMouza- Bad Tehatta, J.L.No. 28\nc) Bad Tehatta\nAssembly Part No 71/ 48",
+              "3\n4",
+              "-\n-",
+              "-\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bethuadahari-II / III\nMouza-Chinchuria J.L. No. 42\na) Chinchuria Dangapara b) Chinchuria Uttarpara\nAssembly Part No 71/ 49",
+              "5",
+              "-",
+              "5 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bethuadahari-II/ IV\nMouza-Chinchuria J.L. No. 42\na) ChinchuriaPara\nAssembly Part No 71/ 50",
+              "6",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bethuadahari-II / V\nMouza- Jagadanandapur, J.L.No. 46\na) Purba Jagadanandapur Hospitalpara (Purba &\nPaschim)\nAssembly Part No 71/ 51",
+              "7\n8",
+              "-\n8 SC",
+              "-\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bethuadahari-II / VI\nMouza- Jagadanandapur, J.L.No. 46\na) Purba Jagadanandapur Stationpara b) Badal Dutta\nColoney\nAssembly Part No 71/ 52",
+              "9\n10",
+              "-\n-",
+              "9 Women\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bethuadahari-II / VII\nMouza- Jagadanandapur, J.L.No. 46\na) Purba Jagadanandapur Madhyapara\nAssembly Part No 71/ 53",
+              "11",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1589
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "srebmem\nfo rebmun\nlatoT\nsrebmem\nsetsaC\ndeludehS\nsrebirT\ndeludehcS\nsrebmem\nsrbmem\nnemoW\n[ Form-A1 ]\nTHE SCHEDULE\nBlock : NAKASHIPARA\n1 (2a) (2b) (2c) (2d) 3 4 5 6\nmarG\nfo\nemaN\nNumber of members to be\nelected in the Gram Panchayat\nNumber, Name and Area of Constituencies with\nserial numbrs\nhcae\not detacolla\nstaeS\nsrebmun\nlaires\nhtiw ycneutitsnoc\ndeludehcS\nrof devreser\nstaeS\ntsniaga\nsebirT\ndeludehcS\nro\nsetsaC\nstaes\nfo rebmun\nlaires\ntsniaga\nnemow\nrof devreser\nstaeS\nstaes\nfo rebmun\nlaires\nBethuadahari-II / VIII\nMouza- Jagadanandapur, J.L.No. 46\n12 - -\na) Purba Jagadanandapur Rameswar Coloney\nAssembly Part No 71/ 54\nBethuadahari-II / IX\nMouza-Jagadanandapur, J.L.No. 46\n13 13 SC 13 SC(W)\na) Mozaffarpur Coloney\nAssembly Part No 71/ 55\nBethuadahari-II / X\nMouza-Jagadanandapur, J.L.No. 46\na) Purba Jagadanandapur Sahapara b) Purba 14 14 SC -\nJagadanandapur Purbapara (Uttaransha)\nAssembly Part No 71/ 56\nBethuadahari-II / XI\nMouza-Jagadanandapur, J.L.No. 46\na) Purba Jagadanandapur Purbapara ( Middle part 15 - -\nbetween the Barnia and Birpur Road)\nAssembly Part No 71/ 57\nDated : 07.02.2008 District Panchayat Election Officer, Nadia\n&\nDistrict Magistrate, Nadia\nBlock Development Officer\nNakashipara Dev. Block\nII\n-irahadauhteB\nC:\\Documents and Settings\\PANCHAYET SECTION\\Desktop\\Nakashipara\\Nakashipara\\Gram Panchayats\\Schedule-A1",
+      "tables": [
+        {
+          "bbox": [
+            54.81612,
+            87.05279999999999,
+            587.8116,
+            520.8170345999999
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of members to be\nelected in the Gram Panchayat",
+              null,
+              null,
+              null,
+              "Number, Name and Area of Constituencies with\nserial numbrs",
+              "srebmun\nhcae laires\not htiw\ndetacolla\nycneutitsnoc\nstaeS",
+              "tsniaga\ndeludehcS\nsebirT\nstaes\ndeludehcS\nrof\nfo\ndevreser\nrebmun\nro\nsetsaC\nstaeS laires",
+              "tsniaga\nnemow\nstaes\nrof\nfo\ndevreser\nrebmun\nstaeS laires"
+            ],
+            [
+              null,
+              "srebmem\nfo\nrebmun\nlatoT",
+              "srebmem\nsetsaC\ndeludehS",
+              "srebirT\ndeludehcS\nsrebmem",
+              "srbmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "II\n-irahadauhteB",
+              "",
+              "",
+              "",
+              "",
+              "Bethuadahari-II / VIII\nMouza- Jagadanandapur, J.L.No. 46\na) Purba Jagadanandapur Rameswar Coloney\nAssembly Part No 71/ 54",
+              "12",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bethuadahari-II / IX\nMouza-Jagadanandapur, J.L.No. 46\na) Mozaffarpur Coloney\nAssembly Part No 71/ 55",
+              "13",
+              "13 SC",
+              "13 SC(W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bethuadahari-II / X\nMouza-Jagadanandapur, J.L.No. 46\na) Purba Jagadanandapur Sahapara b) Purba\nJagadanandapur Purbapara (Uttaransha)\nAssembly Part No 71/ 56",
+              "14",
+              "14 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bethuadahari-II / XI\nMouza-Jagadanandapur, J.L.No. 46\na) Purba Jagadanandapur Purbapara ( Middle part\nbetween the Barnia and Birpur Road)\nAssembly Part No 71/ 57",
+              "15",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1310
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

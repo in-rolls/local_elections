@@ -1,0 +1,49 @@
+1 2 3
+Palani Panchayat Union
+1 Amarapoondi SC (Women)
+2 Andipatti SC (Women)
+3 Karadikoottam SC (General)
+4 Kavalapatty SC (General)
+5 Melakottai SC (General)
+6 Pappampatty SC (General)
+7 Kalika naicken patty General (Women)
+8 Pachalanaicken patty General (Women)
+9 Chitrikulam General (Women)
+10 Kothaimangalam General (Women)
+11 Periyammapatti General (Women)
+12 A.Kalaiyamputhur General
+13 Eramanaicken patty General
+14 Ayyampalayam General
+15 Chinna Kalayam Puthur General
+16 Kanakkanpatty General
+17 Pethanaicken patty General
+18 Sivagiripatty General
+19 Thamaraikulam General
+20 Thathanaickenpatty General
+Thoppampatti Panchayat Union
+1 Appipalayam SC (Women)
+2 Kovilammapatti SC (Women)
+3 Palappampatty SC (Women)
+4 Appanuthu SC (General)
+5 Kothaiyam SC (General)
+6 Marichilampu SC (General)
+7 Melkaraipatty SC (General)
+8 Vagarai SC (General)
+9 Appiyampatty General (Women)
+10 Boduvarpatty General (Women)
+11 Manjanaickenpatti General (Women)
+12 Mettupatty General (Women)
+13 Poosaripatty General (Women)
+14 Rajampatty General (Women)
+15 Vilvathampatty General (Women)
+16 Kallimandayam General (Women)
+17 Kariyampatty General (Women)
+18 Kolumankondan General (Women)
+19 Muthunaicken patty General
+20 Paruthiyur General
+21 Akkaraipatti General
+22 Manoor General
+23 Devathur General
+24 Koothampoondi General
+25 Korikadavu General
+26 Kottathurai General

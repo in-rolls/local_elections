@@ -1,0 +1,12 @@
+{
+  "raw_documents": 39,
+  "raw_pages": 181,
+  "draft_documents": 19,
+  "draft_pages": 97,
+  "draft_records": 787,
+  "final_records_existing_output": 825,
+  "drafts_missing_from_acquired_source_tree": [
+    "Malda"
+  ],
+  "limitations": "Cached OCR has no original image/settings fingerprint. Current PDF and TSV hashes pin inputs, not historical OCR provenance. Row number coverage does not certify names or reservation accuracy. Every draft row requires review; blank OCR axes remain unknown. No draft is substituted for a final order."
+}

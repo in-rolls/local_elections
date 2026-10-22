@@ -1,0 +1,520 @@
+{
+  "repaired_pages": 21,
+  "remaining_embedded_tsv_pages": [],
+  "repairs": [
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/eab085ca5732_014.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_page": 14,
+      "streams": [
+        "words_original",
+        "words_clean"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_original": 252,
+        "words_clean": 283
+      },
+      "new_word_counts": {
+        "words_original": 281,
+        "words_clean": 285
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/eab085ca5732_014"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/2174e39c714f_001.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+      "source_page": 1,
+      "streams": [
+        "words_original"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_original": 110
+      },
+      "new_word_counts": {
+        "words_original": 419
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/2174e39c714f_001"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/2eb55eb30b67_001.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/District IC IIC/Anex_II_C.PDF",
+      "source_page": 1,
+      "streams": [
+        "words_column"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_column": 166
+      },
+      "new_word_counts": {
+        "words_column": 178
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/2eb55eb30b67_001"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/92946f85f688_015.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+      "source_page": 15,
+      "streams": [
+        "words_original"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_original": 311
+      },
+      "new_word_counts": {
+        "words_original": 322
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/92946f85f688_015"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/2174e39c714f_016.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+      "source_page": 16,
+      "streams": [
+        "words_column"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_column": 293
+      },
+      "new_word_counts": {
+        "words_column": 298
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/2174e39c714f_016"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/bcc82e2dea4c_001.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR PS IB AND IIB.PDF",
+      "source_page": 1,
+      "streams": [
+        "words_column"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_column": 165
+      },
+      "new_word_counts": {
+        "words_column": 166
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/bcc82e2dea4c_001"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/93928e956433_002.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI ZP IC AND IIC.PDF",
+      "source_page": 2,
+      "streams": [
+        "words_clean"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_clean": 153
+      },
+      "new_word_counts": {
+        "words_clean": 174
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/93928e956433_002"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/e288d92994e0_001.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/District IC IIC/Anex_I_C.PDF",
+      "source_page": 1,
+      "streams": [
+        "words_original",
+        "words_clean"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_original": 134,
+        "words_clean": 148
+      },
+      "new_word_counts": {
+        "words_original": 142,
+        "words_clean": 150
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/e288d92994e0_001"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/2174e39c714f_010.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+      "source_page": 10,
+      "streams": [
+        "words_clean"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_clean": 57
+      },
+      "new_word_counts": {
+        "words_clean": 281
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/2174e39c714f_010"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/eab085ca5732_005.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_page": 5,
+      "streams": [
+        "words_original"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_original": 143
+      },
+      "new_word_counts": {
+        "words_original": 283
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/eab085ca5732_005"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/eab085ca5732_013.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_page": 13,
+      "streams": [
+        "words_original",
+        "words_clean"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_original": 60,
+        "words_clean": 172
+      },
+      "new_word_counts": {
+        "words_original": 255,
+        "words_clean": 260
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/eab085ca5732_013"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/9589a072b1d5_001.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+      "source_page": 1,
+      "streams": [
+        "words_clean"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_clean": 252
+      },
+      "new_word_counts": {
+        "words_clean": 511
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/9589a072b1d5_001"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/e0fa419af268_002.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR PS IB AND IIB PART1.PDF",
+      "source_page": 2,
+      "streams": [
+        "words_clean"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_clean": 237
+      },
+      "new_word_counts": {
+        "words_clean": 239
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/e0fa419af268_002"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/eab085ca5732_011.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_page": 11,
+      "streams": [
+        "words_clean"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_clean": 124
+      },
+      "new_word_counts": {
+        "words_clean": 258
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/eab085ca5732_011"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/eab085ca5732_007.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_page": 7,
+      "streams": [
+        "words_original"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_original": 197
+      },
+      "new_word_counts": {
+        "words_original": 235
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/eab085ca5732_007"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/2174e39c714f_004.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+      "source_page": 4,
+      "streams": [
+        "words_column"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_column": 192
+      },
+      "new_word_counts": {
+        "words_column": 195
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/2174e39c714f_004"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/38ca99dd484c_002.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR ZP IC AND IIC.PDF",
+      "source_page": 2,
+      "streams": [
+        "words_clean"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_clean": 34
+      },
+      "new_word_counts": {
+        "words_clean": 214
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/38ca99dd484c_002"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/2174e39c714f_023.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+      "source_page": 23,
+      "streams": [
+        "words_clean"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_clean": 251
+      },
+      "new_word_counts": {
+        "words_clean": 277
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/2174e39c714f_023"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/7be99ad0b9d1_014.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+      "source_page": 14,
+      "streams": [
+        "words_original"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_original": 194
+      },
+      "new_word_counts": {
+        "words_original": 403
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/7be99ad0b9d1_014"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/2174e39c714f_018.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+      "source_page": 18,
+      "streams": [
+        "words_clean"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_clean": 61
+      },
+      "new_word_counts": {
+        "words_clean": 317
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/2174e39c714f_018"
+    },
+    {
+      "cache": "data/wb/derived/alipurduar_2018/ocr/f09b925b8e7a_001.json",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+      "source_page": 1,
+      "streams": [
+        "words_clean"
+      ],
+      "geometry_and_unaffected_streams_unchanged": true,
+      "old_word_counts": {
+        "words_clean": 103
+      },
+      "new_word_counts": {
+        "words_clean": 159
+      },
+      "evidence_directory": "data/wb/derived/alipurduar_2018/ocr/tsv_reader_repair/f09b925b8e7a_001"
+    }
+  ],
+  "gp_field_changes": {
+    "votes_polled": 1,
+    "votes_rejected": 3,
+    "quality_flags": 37,
+    "seat_id_readings": 36,
+    "gram_panchayat": 1,
+    "gram_panchayat_printed": 1,
+    "reservation_raw": 1,
+    "winner_party": 1,
+    "candidate_votes_sum": 1
+  },
+  "heldout_metrics": {
+    "expected_rows": 23,
+    "uniquely_matched_rows": 23,
+    "fields_checked": 168,
+    "fields_correct": 161,
+    "candidate_votes_expected": 65,
+    "candidate_votes_correct_by_position": 63
+  },
+  "heldout_errors": [
+    {
+      "source_page": 9,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "seat_no": 12,
+      "field": "votes_rejected",
+      "expected": 54,
+      "observed": null
+    },
+    {
+      "source_page": 9,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "seat_no": 15,
+      "field": "winner_party",
+      "expected": "BJP",
+      "observed": "BJP fy"
+    },
+    {
+      "source_page": 15,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "seat_no": 2,
+      "field": "votes_polled",
+      "expected": 1122,
+      "observed": null
+    },
+    {
+      "source_page": 15,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "seat_no": 6,
+      "field": "reservation",
+      "expected": "W",
+      "observed": null
+    },
+    {
+      "source_page": 15,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "seat_no": 6,
+      "field": "votes_rejected",
+      "expected": 31,
+      "observed": null
+    },
+    {
+      "source_page": 15,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "seat_no": 9,
+      "field": "reservation",
+      "expected": "W",
+      "observed": null
+    },
+    {
+      "source_page": 15,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "seat_no": 9,
+      "field": "electors",
+      "expected": 883,
+      "observed": null
+    }
+  ],
+  "gp_parse_report": {
+    "pages_seen": 176,
+    "pages_expected": 176,
+    "gp_detail_pages_expected": 112,
+    "ocr_version": 3,
+    "page_status": {
+      "not_gp_detail": 64,
+      "parsed": 112
+    },
+    "seats": 984,
+    "candidates": 2803,
+    "unassigned_candidate_bands": 34,
+    "seat_numbers_unresolved": 71,
+    "by_block": {
+      "Alipurduar-I": 154,
+      "Alipurduar-II": 160,
+      "Falakata": 206,
+      "Kalchini": 183,
+      "Kumargram": 144,
+      "Madarihat-Birpara": 137
+    },
+    "review_status": {
+      "needs_review": 966,
+      "automated_checks_passed": 18
+    },
+    "flags": {
+      "candidate_cells:review": 726,
+      "votes:accounting_mismatch": 215,
+      "winner_name:readers_disagree": 354,
+      "seat_id:low_ocr_confidence": 438,
+      "seat_id:readers_disagree": 556,
+      "votes_polled:unread_numeric": 67,
+      "votes_rejected:single_reader": 65,
+      "gram_panchayat:missing_cell": 96,
+      "winner:party_mismatch": 68,
+      "winner_party:readers_disagree": 198,
+      "reservation_raw:readers_disagree": 267,
+      "votes_polled:single_reader": 70,
+      "votes_rejected:readers_disagree": 53,
+      "electors:single_reader": 63,
+      "layout:missing_leading_columns": 67,
+      "winner:not_uniquely_matched": 80,
+      "winner_name:low_ocr_confidence": 55,
+      "gram_panchayat:readers_disagree": 358,
+      "votes_rejected:unread_numeric": 65,
+      "winner_party:low_ocr_confidence": 62,
+      "reservation_raw:low_ocr_confidence": 100,
+      "votes_polled:readers_disagree": 49,
+      "gram_panchayat:low_ocr_confidence": 206,
+      "seat_id:number_unresolved": 71,
+      "seat_id:numeric_readers_disagree": 17,
+      "reservation:unresolved": 191,
+      "electors:readers_disagree": 39,
+      "seat_key:duplicate": 6,
+      "electors:unread_numeric": 101,
+      "winner:below_maximum": 4,
+      "winner_name:multiple_field_cells": 11,
+      "reservation_raw:multiple_field_cells": 26,
+      "seat_id:alternate_reader_suffix": 9,
+      "electors:missing_cell": 3,
+      "gram_panchayat:multiple_field_cells": 80,
+      "votes:impossible_range": 1,
+      "winner_party:multiple_field_cells": 8
+    },
+    "quality_claim": "Review-stage extraction; passing automated checks is not verified accuracy."
+  },
+  "archive_parse_report": {
+    "pages": 64,
+    "raw_cells": 10287,
+    "seats_by_tier": {
+      "ps_member": 187,
+      "zp_member": 39
+    },
+    "candidates_by_tier": {
+      "ps_member": 624,
+      "zp_member": 152
+    },
+    "consolidated_party_count_records": 741,
+    "page_status": {
+      "summary_party_counts_partial": 16,
+      "summary_cells_only": 4,
+      "parsed": 44
+    },
+    "limitations": [
+      "Review-stage records; duplicate district and block versions remain source-separated.",
+      "Consolidated totals are not named seats; blank counts and numerical disagreement stay null.",
+      "Every detected cell retained, including layouts without semantic recovery."
+    ]
+  },
+  "repair_runtime_seconds": 239.448,
+  "non_gp_five_page_rerender_runtime_seconds": 300.827,
+  "runtime_note": "Wall time under concurrent local OCR workload; not a comparative benchmark."
+}

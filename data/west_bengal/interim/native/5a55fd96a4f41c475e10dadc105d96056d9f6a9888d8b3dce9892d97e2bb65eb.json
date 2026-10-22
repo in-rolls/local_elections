@@ -1,0 +1,511 @@
+{
+  "version": 1,
+  "sha256": "5a55fd96a4f41c475e10dadc105d96056d9f6a9888d8b3dce9892d97e2bb65eb",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE\nBLOCK : TEHATTA - I\nNumber of members to be elected in the Gram\nPamchayat Seats reserved for Seats reserved for\nSeats allocated to\nName of Number, name & area of constituencies Schedule Caste or Women against\neach constituency\nGram Total No. Schedule Schedule with serial numbers Schedule Tribe against serial number of\nWomen with serial number\nof Castes Tribes serial number of Seats Seats.\nmembers\nmembers Members members\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nBetai-I /I Part No. 73/11\nMouza-Betai, J.L. No. 89\nBetai-I 12 9 1 4 1 1, SC 1,SC(Women)\na) Rattalapara\nb) Post Office Para\nBetai-I /II Part No. 73/12\n2 2, SC -\nMouza-Betai, J.L. No. 89\na) Dangapara\n3 3, SC -\nb) Malenga Para\nBetai-I /III Part No. 73/13\nMouza-Betai, J.L. No. 89\n4 4, SC 4,SC(Women)\na) Belechuya Para\nb) Joardarpara\nBetai-I /IV Part No. 73/14\nMouza-Betai, J.L. No. 89 5 5, SC -\na) Civil Ganj Purba Para\nb) Natun Para, Bazar Para\nc) Akhanra Para 6 - -\nd) Shaeb Pukur Para\nBetai-I /V Part No. 73/15\nMouza-Betai, J.L. No. 89 7 7, SC -\na) Lalbazar Purbapara\nBetai-I /VI Part No. 73/16\nMouza-Betai, J.L. No. 89\n8 8, SC 8,SC(Women)\na) Paschimpara\nb) Schoolpara\nBetai-I /VII Part No. 73/17\nMouza-Betai, J.L. No. 89\n9 9, SC -\na) Purbapara\nb) Schoolpara\n1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            22.776903,
+            76.10820000000001,
+            690.5878829999999,
+            520.873683
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial number",
+              "Seats reserved for\nSchedule Caste or\nSchedule Tribe against\nserial number of Seats",
+              "Seats reserved for\nWomen against\nserial number of\nSeats."
+            ],
+            [
+              null,
+              "Total No.\nof\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Betai-I",
+              "12",
+              "9",
+              "1",
+              "4",
+              "Betai-I /I Part No. 73/11\nMouza-Betai, J.L. No. 89\na) Rattalapara\nb) Post Office Para",
+              "1",
+              "1, SC",
+              "1,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-I /II Part No. 73/12",
+              "2",
+              "2, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Mouza-Betai, J.L. No. 89",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Dangapara",
+              "3",
+              "3, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "b) Malenga Para",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-I /III Part No. 73/13",
+              "4",
+              "4, SC",
+              "4,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Mouza-Betai, J.L. No. 89",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Belechuya Para",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "b) Joardarpara",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-I /IV Part No. 73/14",
+              "5",
+              "5, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Mouza-Betai, J.L. No. 89",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Civil Ganj Purba Para",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "b) Natun Para, Bazar Para",
+              "6",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "c) Akhanra Para",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "d) Shaeb Pukur Para",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-I /V Part No. 73/15",
+              "7",
+              "7, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Mouza-Betai, J.L. No. 89",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Lalbazar Purbapara",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-I /VI Part No. 73/16",
+              "8",
+              "8, SC",
+              "8,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Mouza-Betai, J.L. No. 89",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Paschimpara",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "b) Schoolpara",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-I /VII Part No. 73/17",
+              "9",
+              "9, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Mouza-Betai, J.L. No. 89",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Purbapara",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "b) Schoolpara",
+              null,
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1183
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "Number of members to be elected in the Gram\nSeats reserved for Seats reserved for\nPamchayat Seats allocated to\nName of Number, name & area of constituencies Schedule Caste or Women against\nGram Tota o l f No. S C ch a e s d te u s le Sc T h ri e b d e u s l e m W e o m m b e e n rs with serial numbers w ea it c h h s c e o ri n a s l t n it u u m en b c e y r S se ch ri e a d l n u u le m T b r e ib r e o a f g S a e i a n t s s t seria S l n e u a m ts b . er of\nmembers Members members\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nBetai-I /VIII Part No. 73/18\nMouza-Betai, J.L. No. 89\n10 - -\na) Itkholapara\nb) Majherpara\nBetai-I /IX Part No. 73/19\nMouza-Bhatupara, J.L. No. 88 11 11, SC -\na) Bhatupara\nBetai-I /X Part No. 73/20\nMouza-Bhatupara, J.L. No. 88 12 12, ST 12,ST(Women)\na)Nafarchandrapur\nDate : 07/02/2008 District Panchayat Election Officer\n& District Magistrate, Nadia\n2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            22.776903,
+            30.635762999999997,
+            690.5878829999999,
+            230.22228299999998
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial number",
+              "Seats reserved for\nSchedule Caste or\nSchedule Tribe against\nserial number of Seats",
+              "Seats reserved for\nWomen against\nserial number of\nSeats."
+            ],
+            [
+              null,
+              "Total No.\nof\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-I /VIII Part No. 73/18",
+              "10",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Mouza-Betai, J.L. No. 89",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Itkholapara",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "b) Majherpara",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-I /IX Part No. 73/19",
+              "11",
+              "11, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Mouza-Bhatupara, J.L. No. 88",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a) Bhatupara",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Betai-I /X Part No. 73/20",
+              "12",
+              "12, ST",
+              "12,ST(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Mouza-Bhatupara, J.L. No. 88",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "a)Nafarchandrapur",
+              null,
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 757
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

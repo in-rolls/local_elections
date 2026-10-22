@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "sha256": "8b7ab9c412f8ee47fd244bda3f72c9298c9f60b5c58a82d00443b64466e5033d",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock : Chakdaha\nNumber of members to be elected in the Gram Panchayat\nName of\nScheduled Caste Scheduled Tribe\nGram Total number of members Women members\nmembers Members\n1 (2a) (2b) (2c) (2d)\nSilinda-I 15 5 1 5\nSeats reserved for\nSeats allocated to Seats reserved for\nScheduled Caste\neach constituency women against\nNumber, name and area of constituencies with serial numbers or Scheduled Tribe\nwith serial serial number of\nagainst serial\nnumbers seats\nnumber of seats\n3 4 5 6\nSilinda-I/I\nMouza :Silinda, J.L.No.167 ,(a) Silinda Paschim(Partly) 1 - 1W\nPart No. 80/201\nSilinda-I/II\nMouza : silinda, J.L. No. 167(a)Uttar Part of Silinda Paschim\n2 2 ST 2 STW\nPartly\nPart No. 80/202\nSilinda-I/III\nMouza : silinda, J.L. No. 167(a)Silinda\n3 3 SC -\nDakshinpara(Ghoraghata)\nPart No. 80/203\nSilinda-I/IV\nMouza : Silinda, J.L.No.167 ,(a) Silinda Purbapara Partly (b) 4 SC\n4,5 -\nSilinda Purbapara Partly\nPart No. 80/204\nSilinda-I/V\nMouza : Silinda, J.L.No.167 ,(a) Silinda Uttarpatra 6 6 S C 6 S C W\nPart No. 80/205\nSilinda-I/VI\nMouza :Natapuli , J.L.No.168 ,(a) Natapuli Partly\n7,8 - 8 W\nMouza :Natapuli , J.L.No.168 (b) Natapuli Partly\nPart No. 80/206\nSilinda-I/VII\nMouza :Rajberia , J.L.No.169 ,(a) Rajberia Full\n9 9 SC -\n(b) Balarampur Uttar, Kamdebpurpara\nPart No. 80/207\nSilinda-I/VIII\nMouza :Balia , J.L.No.170 ,(a) Balia Purbapara Partly\n10,11 - -\nMouza :Balia , J.L.No.170 (b) Balia Purbapara Partly\nPart No. 208",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            118.19040000000007,
+            567.954,
+            179.9844
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of members",
+              "Scheduled Caste\nmembers",
+              "Scheduled Tribe\nMembers",
+              "Women members"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Silinda-I",
+              "15",
+              "5",
+              "1",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            18.5191254,
+            192.3444,
+            567.954,
+            693.0624
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nScheduled Caste\nor Scheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              null,
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Silinda-I/I\nMouza :Silinda, J.L.No.167 ,(a) Silinda Paschim(Partly)\nPart No. 80/201",
+              "1",
+              "-",
+              "1W"
+            ],
+            [
+              "Silinda-I/II\nMouza : silinda, J.L. No. 167(a)Uttar Part of Silinda Paschim\nPartly\nPart No. 80/202",
+              "2",
+              "2 ST",
+              "2 STW"
+            ],
+            [
+              "Silinda-I/III\nMouza : silinda, J.L. No. 167(a)Silinda\nDakshinpara(Ghoraghata)\nPart No. 80/203",
+              "3",
+              "3 SC",
+              "-"
+            ],
+            [
+              "Silinda-I/IV\nMouza : Silinda, J.L.No.167 ,(a) Silinda Purbapara Partly (b)\nSilinda Purbapara Partly\nPart No. 80/204",
+              "4,5",
+              "4 SC",
+              "-"
+            ],
+            [
+              "Silinda-I/V\nMouza : Silinda, J.L.No.167 ,(a) Silinda Uttarpatra\nPart No. 80/205",
+              "6",
+              "6 S C",
+              "6 S C W"
+            ],
+            [
+              "Silinda-I/VI\nMouza :Natapuli , J.L.No.168 ,(a) Natapuli Partly\nMouza :Natapuli , J.L.No.168 (b) Natapuli Partly\nPart No. 80/206",
+              "7,8",
+              "-",
+              "8 W"
+            ],
+            [
+              "Silinda-I/VII\nMouza :Rajberia , J.L.No.169 ,(a) Rajberia Full\n(b) Balarampur Uttar, Kamdebpurpara\nPart No. 80/207",
+              "9",
+              "9 SC",
+              "-"
+            ],
+            [
+              "Silinda-I/VIII\nMouza :Balia , J.L.No.170 ,(a) Balia Purbapara Partly\nMouza :Balia , J.L.No.170 (b) Balia Purbapara Partly\nPart No. 208",
+              "10,11",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 3208
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Seats reserved for\nSeats allocated to Seats reserved for\nScheduled Caste\neach constituency women against\nNumber, name and area of constituencies with serial numbers or Scheduled Tribe\nwith serial serial number of\nagainst serial\nnumbers seats\nnumber of seats\nSilinda-I/IX\nMouza : Balia, J.L.No.170 ,(a) Balia Madhyapara Assembly Part 12 - 12 W\nNo. 80/209\nSilinda-I/X\nMouza : Balia, J.L.No.170,(a) Balia Pashchimpara 1 3 1 3 S C -\nPart No. 80/210\nSilinda-I/XI\nMouza : Balia, J.L.No.170 ,(a) Balarampur Pashchimpara 1 4 - -\nPart No. 80/211\nSilinda-I/XII\nMouza :Balarampur , J.L.No.171 ,(a) Balarampur (Purba\n15 - -\nDakshim Para)\nPart No. 80/212\nDate:07.02.2008 District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            72.47399999999999,
+            567.954,
+            352.89
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nScheduled Caste\nor Scheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              "Silinda-I/IX\nMouza : Balia, J.L.No.170 ,(a) Balia Madhyapara Assembly Part\nNo. 80/209",
+              "12",
+              "-",
+              "12 W"
+            ],
+            [
+              "Silinda-I/X\nMouza : Balia, J.L.No.170,(a) Balia Pashchimpara\nPart No. 80/210",
+              "1 3",
+              "1 3 S C",
+              "-"
+            ],
+            [
+              "Silinda-I/XI\nMouza : Balia, J.L.No.170 ,(a) Balarampur Pashchimpara\nPart No. 80/211",
+              "1 4",
+              "-",
+              "-"
+            ],
+            [
+              "Silinda-I/XII\nMouza :Balarampur , J.L.No.171 ,(a) Balarampur (Purba\nDakshim Para)\nPart No. 80/212",
+              "15",
+              "-",
+              "-"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1488
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

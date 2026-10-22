@@ -1,0 +1,42 @@
+1 2 3
+Pudupalayam Panchayat Union Contd.,
+31 Eraiyur General
+32 Amarnatha Pudur General
+33 Dhamaraipakkam General
+34 Unnamalaipalayam General
+35 Alliyandal General
+36 C.Namiyandal General
+37 Melnachipattu General
+Thandrampet Panchayat Union
+1 Melpachar ST (Women)
+2 Mothakkal ST (Women)
+3 Vanapuram ST(General)
+4 Kilvanakkampadi SC(Women)
+5 Puthur Chekkadi SC(Women)
+6 Kolamanjanur SC(Women)
+7 Edathanoor SC(Women)
+8 Kozhundampattu SC(General)
+9 Kottaiyur SC(General)
+10 Malkarippoor SC(General)
+11 Nedungavadi SC(General)
+12 Perunduraipattu SC(General)
+13 Thandrampattu SC(General)
+14 Agarampallipattu General(Women)
+15 Narayanakuppam General(Women)
+16 Pudur Chekkadi General(Women)
+17 Radhapuram General(Women)
+18 Thanipadi General(Women)
+19 Thenkarimbalur General(Women)
+20 Thiruvadathanur General(Women)
+21 Varagur General(Women)
+22 Veeranam General(Women)
+23 P.Quilam General(Women)
+24 Sathanoor General
+25 T.Velur General
+26 Serppapattu General
+27 Allappanoor General
+28 Athipadi General
+29 Bondai General
+30 Chiniyampettai General
+31 Elayankanni General
+32 Perayampattu General

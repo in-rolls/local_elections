@@ -1,0 +1,32 @@
+{
+  "semantic_coverage": {
+    "ocr_pages": 1523,
+    "coverage": {
+      "candidate_rows": 1046,
+      "raw_only": 458,
+      "verified_nondata": 19
+    },
+    "pages_with_any_reservation_field": 689,
+    "raw_only_distinct_documents": 149,
+    "page_ledger": "data/wb/derived/ward_schedules/semantic_backlog.csv",
+    "baseline": "data/wb/derived/ward_schedules/semantic_backlog_baseline.csv",
+    "quality_claim": "Candidate coverage is not complete semantic parsing. OCR names/codes require review; null fields remain unresolved. Raw-only reasons are parser diagnostics except explicitly source-verified nondata pages."
+  },
+  "documents": 271,
+  "distinct_documents": 260,
+  "pages": 1791,
+  "rows": 8196,
+  "other_tier_rows": 928,
+  "constituency_crosswalk_rows": 945,
+  "page_status": {
+    "ocr_extracted_semantic_review_required": 1523,
+    "native_other_tier_rows_parsed": 72,
+    "semantic_review_required": 71,
+    "native_rows_parsed": 125
+  },
+  "row_review_status": {
+    "needs_review": 7051,
+    "source_controls_passed": 1145
+  },
+  "quality_claim": "Native field parsing and complete page extraction are not field accuracy validation. Ward reservations are not GP office reservations."
+}

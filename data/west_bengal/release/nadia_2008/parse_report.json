@@ -1,0 +1,15 @@
+{
+  "pages": 454,
+  "documents": 141,
+  "document_status": {
+    "parsed": 92,
+    "not_identified_gp_schedule": 41,
+    "gp_rows_unresolved": 8
+  },
+  "seats": 1919,
+  "review_status": {
+    "source_controls_passed": 1210,
+    "needs_review": 709
+  },
+  "quality_claim": "Source controls test completeness and counts, not field-level accuracy or order finality. Review before use."
+}

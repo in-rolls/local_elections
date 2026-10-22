@@ -1,0 +1,983 @@
+{
+  "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+  "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+  "review_method": "All five named schedules visually transcribed from source page renders at130dpi; original spellings retained. Embedded OCR is separately preserved.",
+  "reviewer": "Codex visual review 2026-09-07",
+  "coordinate_system": "PDF points, origin top-left",
+  "rows": [
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "TURTURIKHANDA",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        190.723,
+        540,
+        204.723
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "RYDAK",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        205.239,
+        540,
+        219.239
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "NEWLANDS KUMARGRAM SANKOSH",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        219.756,
+        540,
+        233.756
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "CHENGMARI",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        234.272,
+        540,
+        248.272
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "VOLKA BAROBISHA - I",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        248.788,
+        540,
+        262.788
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "VOLKA BAROBISHA - II",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        263.305,
+        540,
+        277.305
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "KHOARDANGA - II",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        277.821,
+        540,
+        291.821
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "KAMAKHYAGURI - I",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        292.337,
+        540,
+        306.337
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "KAMAKHYAGURI - II",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        306.854,
+        540,
+        320.854
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "TURTURI",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        321.37,
+        540,
+        335.37
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "KOHINOOR",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        335.886,
+        540,
+        349.886
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "MAHAKALGURI",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        350.402,
+        540,
+        364.402
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "BHATIBARI",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        364.919,
+        540,
+        378.919
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "PAROKATA",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        379.435,
+        540,
+        393.435
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "JAIGAON-II",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        393.951,
+        540,
+        407.951
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "DALSING PARA",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        408.468,
+        540,
+        422.468
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "CHUAPARA",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        422.984,
+        540,
+        436.984
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "MALANGI",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        437.5,
+        540,
+        451.5
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "KALCHINI",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        452.017,
+        540,
+        466.017
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "GAROPARA",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        466.533,
+        540,
+        480.533
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "MENDABARI",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        481.049,
+        540,
+        495.049
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "RAJABHATKHAOA",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        495.566,
+        540,
+        509.566
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "MAJHERDABRI",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        510.082,
+        540,
+        524.082
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "SHALKUMAR-I",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        524.598,
+        540,
+        538.598
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "SHALKUMAR-II",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        539.114,
+        540,
+        553.114
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "PATLAKHAWA",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        553.631,
+        540,
+        567.631
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "CHAKOWAKHETI",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        568.147,
+        540,
+        582.147
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "TAPSIKHATA",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        582.663,
+        540,
+        596.663
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "PARORPAR",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        597.18,
+        540,
+        611.18
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "VIVEKANANDA-II",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        611.696,
+        540,
+        625.696
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "VIVEKANANDA-I",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        626.212,
+        540,
+        640.212
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "TATPARA-II",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        640.729,
+        540,
+        654.729
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "CHAPORER PAR-II",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        655.245,
+        540,
+        669.245
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "DHANIRAMPUR-I",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        669.761,
+        540,
+        683.761
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "DHANIRAMPUR-II",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        684.278,
+        540,
+        698.278
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "JATESWAR-I",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        698.794,
+        540,
+        712.794
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "DEOGAON",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        713.31,
+        540,
+        727.31
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "SHALKUMAR",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        727.826,
+        540,
+        741.826
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "MAIRADANGA",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        742.343,
+        540,
+        756.343
+      ]
+    },
+    {
+      "source_page": 5,
+      "office": "pradhan",
+      "name_printed": "GUABARNAGAR",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        756.859,
+        540,
+        770.859
+      ]
+    },
+    {
+      "source_page": 6,
+      "office": "pradhan",
+      "name_printed": "PARANGERPAR",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        154.169,
+        540,
+        168.169
+      ]
+    },
+    {
+      "source_page": 6,
+      "office": "pradhan",
+      "name_printed": "FALAKATA-II",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        168.625,
+        540,
+        182.625
+      ]
+    },
+    {
+      "source_page": 6,
+      "office": "pradhan",
+      "name_printed": "PURBA KANTHALBARI",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        183.08,
+        540,
+        197.08
+      ]
+    },
+    {
+      "source_page": 6,
+      "office": "pradhan",
+      "name_printed": "BIRPARA-II",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        197.535,
+        540,
+        211.535
+      ]
+    },
+    {
+      "source_page": 6,
+      "office": "pradhan",
+      "name_printed": "LANKAPARA",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        211.991,
+        540,
+        225.991
+      ]
+    },
+    {
+      "source_page": 6,
+      "office": "pradhan",
+      "name_printed": "HANTAPARA",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        226.446,
+        540,
+        240.446
+      ]
+    },
+    {
+      "source_page": 6,
+      "office": "pradhan",
+      "name_printed": "MADARIHAT",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        240.902,
+        540,
+        254.902
+      ]
+    },
+    {
+      "source_page": 6,
+      "office": "pradhan",
+      "name_printed": "KHAYARBARI",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        255.357,
+        540,
+        269.357
+      ]
+    },
+    {
+      "source_page": 6,
+      "office": "pradhan",
+      "name_printed": "RANGALIBAJNA",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        269.812,
+        540,
+        283.812
+      ]
+    },
+    {
+      "source_page": 6,
+      "office": "pradhan",
+      "name_printed": "BIRPARA-I",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        284.268,
+        540,
+        298.268
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "KUMARGRAM",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        191.277,
+        540,
+        205.277
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "KHOARDANGA - I",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        205.777,
+        540,
+        219.777
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "SHAMUKTALA",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        220.276,
+        540,
+        234.276
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "TATPARA-I",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        234.776,
+        540,
+        248.776
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "JAIGAON-I",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        249.276,
+        540,
+        263.276
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "SATALI",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        263.775,
+        540,
+        277.775
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "LATABARI",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        278.275,
+        540,
+        292.275
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "MATHURA",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        292.775,
+        540,
+        306.775
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "BANCHUKAMARI",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        307.274,
+        540,
+        321.274
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "CHAPORER PAR-I",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        321.774,
+        540,
+        335.774
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "DALGAON",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        336.274,
+        540,
+        350.274
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "JATESWAR-II",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        350.774,
+        540,
+        364.774
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "FALAKATA-I",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        365.273,
+        540,
+        379.273
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "BANDAPANI",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        379.773,
+        540,
+        393.773
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "TOTOPARA BALLALGURI",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        394.273,
+        540,
+        408.273
+      ]
+    },
+    {
+      "source_page": 8,
+      "office": "upa_pradhan",
+      "name_printed": "SHISHUJHUMRA",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        408.772,
+        540,
+        422.772
+      ]
+    },
+    {
+      "source_page": 10,
+      "office": "sabhapati",
+      "name_printed": "KUMARGRAM",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        197.369,
+        540,
+        211.369
+      ]
+    },
+    {
+      "source_page": 10,
+      "office": "sabhapati",
+      "name_printed": "ALIPURDUAR - II",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        226.446,
+        540,
+        240.446
+      ]
+    },
+    {
+      "source_page": 10,
+      "office": "sabhapati",
+      "name_printed": "KALCHINI",
+      "caste_mark_printed": null,
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        255.523,
+        540,
+        269.523
+      ]
+    },
+    {
+      "source_page": 10,
+      "office": "sabhapati",
+      "name_printed": "ALIPURDUAR - I",
+      "caste_mark_printed": "ST",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        284.6,
+        540,
+        298.6
+      ]
+    },
+    {
+      "source_page": 10,
+      "office": "sabhapati",
+      "name_printed": "MADARIHAT BIRPARA",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": null,
+      "bbox": [
+        255,
+        313.677,
+        540,
+        327.677
+      ]
+    },
+    {
+      "source_page": 12,
+      "office": "sahakari_sabhapati",
+      "name_printed": "FALAKATA",
+      "caste_mark_printed": "SC",
+      "women_mark_printed": "WOMEN",
+      "bbox": [
+        255,
+        288.754,
+        540,
+        302.754
+      ]
+    }
+  ],
+  "controls": [
+    {
+      "office": "pradhan",
+      "source_page": 5,
+      "total_offices": 66,
+      "SC": 18,
+      "ST": 15,
+      "BC": 0,
+      "women": 33
+    },
+    {
+      "office": "upa_pradhan",
+      "source_page": 8,
+      "total_offices": 66,
+      "SC": 6,
+      "ST": 7,
+      "BC": 0,
+      "women": 9
+    },
+    {
+      "office": "sabhapati",
+      "source_page": 10,
+      "total_offices": 6,
+      "SC": 2,
+      "ST": 1,
+      "BC": 0,
+      "women": 3
+    },
+    {
+      "office": "sahakari_sabhapati",
+      "source_page": 12,
+      "total_offices": 6,
+      "SC": 1,
+      "ST": 0,
+      "BC": 0,
+      "women": 1
+    }
+  ]
+}

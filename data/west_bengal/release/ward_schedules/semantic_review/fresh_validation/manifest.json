@@ -1,0 +1,46 @@
+[
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/malda_Gazole.pdf",
+    "source_sha256": "51c85e144ecf93bab44597781ec47bd81263b28c2162486f86ac33e1819423c3",
+    "district": "Malda",
+    "year": "2013",
+    "stage": "unclassified",
+    "source_page": 2,
+    "layout": "ps_explicit",
+    "image_path": "data/wb/derived/ward_schedules/semantic_review/fresh_validation/page_1.png",
+    "image_sha256": "ad923cd67629534d506df55edd962928cf3cb89698851a9d2dd86bae2c9791bd"
+  },
+  {
+    "source_path": "data/wb/2023/cooch_behar/extracted/CBR FINAL ORDER  FORM A1 B1/Cooch Behar-I/form B1@Ps Coochbehar l.pdf",
+    "source_sha256": "c780887dc2a7aa4c70511a93dd0581d5a1c77790ba71507c8a37748bbfa221c4",
+    "district": "Cooch Behar",
+    "year": "2023",
+    "stage": "final",
+    "source_page": 2,
+    "layout": "ps_explicit",
+    "image_path": "data/wb/derived/ward_schedules/semantic_review/fresh_validation/page_2.png",
+    "image_sha256": "184264f86a5e54fba8b480b19f61efb8835823a18071e793d81811fc93576a24"
+  },
+  {
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_form_a_all_gp_maynaguri_3_mb.pdf",
+    "source_sha256": "78f5e97a7f1f3aeaff376cd994c3c6ccd200249594bc580e7cd692562ad24768",
+    "district": "Jalpaiguri",
+    "year": "2023",
+    "stage": "draft",
+    "source_page": 4,
+    "layout": "rotated_gp",
+    "image_path": "data/wb/derived/ward_schedules/semantic_review/fresh_validation/page_3.png",
+    "image_sha256": "67c9bb391d847a92d2f8b20cb081a582285f681196d96631a46ab404f9896524"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/malda_Bamongola.pdf",
+    "source_sha256": "a1311dabd26cf077177a83bed3f32e8665bea1d84413d5c4b460ba6ddbe267df",
+    "district": "Malda",
+    "year": "2013",
+    "stage": "unclassified",
+    "source_page": 5,
+    "layout": "gp_fallback",
+    "image_path": "data/wb/derived/ward_schedules/semantic_review/fresh_validation/page_5.png",
+    "image_sha256": "de4209503a56bfab05073119ffc0033d2b069ff2ae697a40dd8d4e6986c82914"
+  }
+]

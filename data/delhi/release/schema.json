@@ -1,0 +1,95 @@
+{
+  "row_unit": "One elected ward in one election",
+  "key": [
+    "year",
+    "ward_number"
+  ],
+  "missing": "Nulls remain unknown; no missing profile is coded zero.",
+  "columns": [
+    {
+      "name": "year",
+      "type": "int64",
+      "description": "Election year; 2012, 2017 or 2022. Not a ward panel."
+    },
+    {
+      "name": "ward_number",
+      "type": "large_string",
+      "description": "Ward identifier within year, including corporation suffix in 2017."
+    },
+    {
+      "name": "reservation_raw",
+      "type": "large_string",
+      "description": "Source seat category: W/WOMAN, G/GENERAL, SC or SCW."
+    },
+    {
+      "name": "assembly_id",
+      "type": "int64",
+      "description": "Assembly constituency; Goyal mapping in 2012/2017, SEC gazette in 2022."
+    },
+    {
+      "name": "winner_party",
+      "type": "large_string",
+      "description": "Election roster party; Goyal in 2012/2017, OpenCity/Lok Dhaba in 2022."
+    },
+    {
+      "name": "profile_party",
+      "type": "large_string",
+      "description": "MyNeta party; must equal roster party for every linked profile."
+    },
+    {
+      "name": "education",
+      "type": "large_string",
+      "description": "MyNeta education category verbatim; unspecified categories are not degrees."
+    },
+    {
+      "name": "age",
+      "type": "int64",
+      "description": "MyNeta age in years; null when absent or unparseable."
+    },
+    {
+      "name": "pending_cases",
+      "type": "int64",
+      "description": "Number of accusation/pending-case table entries, excluding convictions; null if unknown."
+    },
+    {
+      "name": "convicted_cases",
+      "type": "int64",
+      "description": "Separate conviction-table entry count; null if unknown."
+    },
+    {
+      "name": "occupation",
+      "type": "large_string",
+      "description": "MyNeta profession verbatim; not used as a quality ranking."
+    },
+    {
+      "name": "source_url",
+      "type": "large_string",
+      "description": "Individual MyNeta profile URL; null for unlinked winners."
+    },
+    {
+      "name": "source_sha256",
+      "type": "large_string",
+      "description": "SHA-256 of UTF-8 cached response body."
+    },
+    {
+      "name": "source_capture",
+      "type": "large_string",
+      "description": "UTC timestamp when the response was fetched."
+    },
+    {
+      "name": "source_path",
+      "type": "large_string",
+      "description": "Cached JSON gzip path relative to qualification_audit."
+    },
+    {
+      "name": "quota",
+      "type": "int64",
+      "description": "1 for a women-reserved seat, 0 for a seat open to either sex."
+    },
+    {
+      "name": "caste_reservation",
+      "type": "large_string",
+      "description": "SC or NONE; distinct from the winner's caste."
+    }
+  ]
+}

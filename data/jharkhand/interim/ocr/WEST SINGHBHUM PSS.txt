@@ -1,0 +1,2796 @@
+<div>
+<div data-bbox="392 90 630 151" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=8:23</b><br/>
+<b>*k; e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlkku</b></p>
+</div>
+<div data-bbox="66 155 960 213" data-label="Text">
+<p>&gt;kj[k M i pk; r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. keaevcqDdj fi nnf[ki h<br/>
+, r n~}kjk; g v f/k fp r d jr k@d jr h gwfd uhp snh x bZvub ph d sLr EHk 1/4 1/2eauker Q fDr] Lr EHk 1/2 1/2eav Ed r i n<br/>
+i j] Lr EHk 1/2 1/2eaof. kZ x æ i pk; r@ i pk; r l fefr@ft y k i fj"kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="475 223 552 242" data-label="Section-Header">
+<p style="text-align: center;"><b>vubph</b></p>
+</div>
+<div data-bbox="64 246 962 602" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th rowspan="2"><b>QfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xke i pk; r@i pk; r l fefr@ft y k<br/>
+i fj'kn ft l l si n l afkr gS<br/>
+fuolžu -ls l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjfkr@vubjfkr</b></th>
+<th><b>efgyk@vU</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i žkM &amp; xqMn</b></td>
+</tr>
+<tr>
+<td>ejl fy u y ke x k</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHe@ 01@ xqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l sæ cq+</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHe@ 01@ xqMh &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>bfy l ck cjt ks</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHe@ 01@ xqMh &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>d ey i fp r h</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>vU;</td>
+<td>XXII i 0 fl gHe@ 01@ xqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l kek: xq</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>vU;</td>
+<td>XXII i 0 fl gHe@ 01@ xqMh &amp; 1/5 1/2</td>
+</tr>
+<tr>
+<td>Qq euhy ke x k</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHe@ 01@ xqMh &amp; 1/5 1/2</td>
+</tr>
+<tr>
+<td>euks uk d</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>vU;</td>
+<td>XXII i 0 fl gHe@ 01@ xqMh &amp; 1/2 1/2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="125 616 294 661" data-label="Text">
+<p><b>Lfku &amp; pkbzk kA</b><br/>
+<b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="720 667 883 726" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>
+ft y k n. Mkf/kd kjh]<br/>
+i 0 fl gHe@] pkbzk kA</p>
+</div>
+<div data-bbox="489 964 504 979" data-label="Page-Footer">
+<p style="text-align: center;">1</p>
+</div><div>
+<div data-bbox="392 85 630 145" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=8:23</b><br/>
+<b>fu; e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlklu</b></p>
+</div>
+<div data-bbox="66 150 954 207" data-label="Text">
+<p>&gt; kj[ k M i pk; r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. kea <b>esvcqDj fi nnfkih</b>, r n~ kjk; g v f/k fp r d jr k@ d jr h gwfd uh snh x bZv ub ph d sLr EH 1/2 eau ker Q fDr] Lr EH 1/2 eav fd r i n ij] Lr EH 1/2 eaof. kz x æ i pk; r@ i pk; r l fefr@ ft y k i fj "kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="475 214 552 232" data-label="Section-Header">
+<p style="text-align: center;"><b>vubph</b></p>
+</div>
+<div data-bbox="66 234 954 675" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th rowspan="2"><b>OfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xlæ i pk; r@i pk; r l fefr@ft y k i fj'kn ft l l si n l afkr gS fuolžu fs l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjfkr@vukjfkr</b></th>
+<th><b>efgyk@vU</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i EkM &amp; caxlklu</b></td>
+</tr>
+<tr>
+<td>nkA n Mgka k</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td></td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>i ou ckajk</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ukjfkr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/8 1/2</td>
+</tr>
+<tr>
+<td>y fy r k gLl k</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>t kkkseqMk</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ukjfkr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/8 1/2</td>
+</tr>
+<tr>
+<td>x ksjk : x w</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/6 1/2</td>
+</tr>
+<tr>
+<td>l ky u i gr h</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/7 1/2</td>
+</tr>
+<tr>
+<td>I; kjh l ks</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/8 1/2</td>
+</tr>
+<tr>
+<td>' kkk y kgkj</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ukjfkr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/9 1/2</td>
+</tr>
+<tr>
+<td>v fur k ckajk</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/10 1/2</td>
+</tr>
+<tr>
+<td>' kkkk gLl k i gr h</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>v t q d ekZ</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/4 2/2</td>
+</tr>
+<tr>
+<td>v k kh ckajk</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/4 3/2</td>
+</tr>
+<tr>
+<td>e kk x kx jkbZ</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/4 4/2</td>
+</tr>
+<tr>
+<td>Q q euh l jnkj</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/4 5/2</td>
+</tr>
+<tr>
+<td>Q w ksfl t bZ</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/4 6/2</td>
+</tr>
+<tr>
+<td>; eqk noh</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v ukjfkr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 02@ cthx kb &amp; 1/4 7/2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="125 690 295 735" data-label="Text">
+<p><b>Lfku &amp; pkbzk kA</b><br/>
+<b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="720 740 880 800" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>
+ft y k n. Mkf/kd kjh]<br/>
+i 0 fl gHa] pkbzk kA</p>
+</div>
+<div data-bbox="490 965 510 985" data-label="Page-Footer">
+<p style="text-align: center;">2</p>
+</div><div>
+<div data-bbox="392 77 630 125" data-label="Section-Header">
+<p style="text-align: center;"><b>i z-&amp;23<br/>*k; e 85 në k 3/2<br/>fuolzu i fj. ke dki zlklu</b></p>
+</div>
+<div data-bbox="66 125 957 182" data-label="Text">
+<p>&gt;kj[ k M i pk r fuolzu fu;ekoy h] 2001 d sfu;e 85 d svubj.keaesvcqDj fl nnh[ki h<br/>,r n~}kjk;g v f/k fp r d jr k@d jr hgwfd uhpsnhxbZvubphd sLr Ek 1/2/eaukfer Q fDr] Lr Ek 1/2/eav Ed r i n<br/>i j] Lr Ek 1/2/eaof.kZ x ke i pk r@ i pk r l fefr@ft y k i fj"kn~d sfy;sl E;d ~: i l sfuolzpr gksx;k g&amp;</p>
+</div>
+<div data-bbox="475 187 552 206" data-label="Section-Header">
+<p style="text-align: center;"><b>vubph</b></p>
+</div>
+<div data-bbox="63 206 959 785" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">QfDr dkule</th>
+<th colspan="3">i n dkfogj.k</th>
+<th rowspan="2">xke i pk r@i pk r l fefr@ft yki fj'kn<br/>ft l l si n l afkr gSfuolzu ks<br/>l fj; k@ule l fgr 1/2</th>
+</tr>
+<tr>
+<th>i n</th>
+<th>vljfkr@vuljfkr</th>
+<th>efgyk@vU</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5"><b>i EkM &amp; pdzji gj</b></td>
+</tr>
+<tr>
+<td>y knxqgk nk</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/2%</td>
+</tr>
+<tr>
+<td>fp r kauh l ks</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/2%</td>
+</tr>
+<tr>
+<td>l fjr k Mkx y</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/2%</td>
+</tr>
+<tr>
+<td>t eqk l kekM</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/2%</td>
+</tr>
+<tr>
+<td>l jLorh d skbZ</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/2%</td>
+</tr>
+<tr>
+<td>l i uk noh</td>
+<td>i pk r l fefr l nL;</td>
+<td>v U; fi NMk ox Z</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/2%</td>
+</tr>
+<tr>
+<td>l bkhy k noh</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/2%</td>
+</tr>
+<tr>
+<td>l gno eqMk</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/2%</td>
+</tr>
+<tr>
+<td>[ kkkcqT; kfr "kh</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukj fkkr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/2%</td>
+</tr>
+<tr>
+<td>ukud h d b jv</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/20%</td>
+</tr>
+<tr>
+<td>t ; d qkj fl gno</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukj fkkr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/21%</td>
+</tr>
+<tr>
+<td>l bzk [ kkr w</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukj fkkr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/2%</td>
+</tr>
+<tr>
+<td>l a ; d qkj</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukj fkkr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/3%</td>
+</tr>
+<tr>
+<td>i qe xkxjkbZ</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/4%</td>
+</tr>
+<tr>
+<td>eky k xks</td>
+<td>i pk r l fefr l nL;</td>
+<td>v U; fi NMk ox Z</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/5%</td>
+</tr>
+<tr>
+<td>euks d qkj egrks</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukj fkkr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/6%</td>
+</tr>
+<tr>
+<td>J terhuk d</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukj fkkr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/7%</td>
+</tr>
+<tr>
+<td>u; uk noh</td>
+<td>i pk r l fefr l nL;</td>
+<td>v U; fi NMk ox Z</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/8%</td>
+</tr>
+<tr>
+<td>jkt Sk d PNi</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/9%</td>
+</tr>
+<tr>
+<td>l bkhy nkks</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/20%</td>
+</tr>
+<tr>
+<td>l jLorh ckajk</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/21%</td>
+</tr>
+<tr>
+<td>v a u uk d</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/22%</td>
+</tr>
+<tr>
+<td>v fer d qkj egrks</td>
+<td>i pk r l fefr l nL;</td>
+<td>v U; fi NMk ox Z</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/23%</td>
+</tr>
+<tr>
+<td>y kehukjk .k ckajk</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/24%</td>
+</tr>
+<tr>
+<td>l kgajke t keqk</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/25%</td>
+</tr>
+<tr>
+<td>nq wt keqk</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/26%</td>
+</tr>
+<tr>
+<td>j hr k l fc: bZ</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/27%</td>
+</tr>
+<tr>
+<td>ukud k i grh</td>
+<td>i pk r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHa@ 03@ p 0 /kj i gj &amp; 1/28%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="32 789 188 825" data-label="Text">
+<p><b>Lfku &amp; pkbzk kA<br/>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="728 826 875 877" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>ft y k n.Mk/kd kj h]<br/>i 0 fl gHa] pkbzk kA</p>
+</div>
+<div data-bbox="490 964 504 978" data-label="Page-Footer">
+<p>3</p>
+</div><div>
+<div data-bbox="392 77 630 138" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=8,23</b><br/>
+<b>fu; e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlku</b></p>
+</div>
+<div data-bbox="66 144 950 199" data-label="Text">
+<p>&gt;k[ k M i pk r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. kea <b>esvcqDj fi nnf[ki h</b><br/>
+, r n~}kjk ; g v f/k fp r d jr k@ d jr h gwfd uhp snh x bZv ub ph d sLr Ek 1/2 zeauker Q fDr] Lr Ek 1/2 zeav fd r i n<br/>
+i j] Lr Ek 1/2 zeaof. kZ x te i pk r@ i pk r l fefr@ft y k i fj "kn~d sfy ; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="476 209 552 228" data-label="Section-Header">
+<p style="text-align: center;"><b>vubjph</b></p>
+</div>
+<div data-bbox="63 233 955 727" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"><b>©fDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xte i pk r@i pk r l fefr@ft y k</b><br/><b>i fj'kn ft l l si n l afkr gS</b><br/><b>fuolžu fs l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjffkr@vubjffkr</b></th>
+<th><b>efgyk@vUj</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5"><b>i žkM &amp; l kaqk</b></td>
+</tr>
+<tr>
+<td>t x u k c j t ks</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukjffkr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/2</td>
+</tr>
+<tr>
+<td>e bu h e ka h, ku</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/2</td>
+</tr>
+<tr>
+<td>?kk hj ke e ka h</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/2</td>
+</tr>
+<tr>
+<td>d kt y e k&gt; h</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/4</td>
+</tr>
+<tr>
+<td>l bkhy k l kss</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/5</td>
+</tr>
+<tr>
+<td>y fefd ka uk d</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/5</td>
+</tr>
+<tr>
+<td>u hy e c ka j k</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukjffkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/7</td>
+</tr>
+<tr>
+<td>j key ky g Ec z</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/8</td>
+</tr>
+<tr>
+<td>j p u k e g r ks</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukjffkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/9</td>
+</tr>
+<tr>
+<td>c l Ur ç/ku</td>
+<td>i pk r l fefr l nL;</td>
+<td>v U; fi NMk ox Z</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/10</td>
+</tr>
+<tr>
+<td>j ku h c kn; k</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/11</td>
+</tr>
+<tr>
+<td>l ko=h g bl k</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/12</td>
+</tr>
+<tr>
+<td>l fp=k d kalkg</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/13</td>
+</tr>
+<tr>
+<td>x qkoUr uk d</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/14</td>
+</tr>
+<tr>
+<td>f[ kj kaky k uk d</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/15</td>
+</tr>
+<tr>
+<td>l bhj y ky e g r ks</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukjffkr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 04@ l kaqk &amp; 1/16</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="31 728 185 746" data-label="Text">
+<p><b>Lfku &amp; pkbzk ka</b></p>
+</div>
+<div data-bbox="31 754 200 771" data-label="Text">
+<p><b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="722 777 877 836" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>ft y k n. Mkf/kd kj h]<br/>i 0 fl gHa] pkbzk ka</p>
+</div>
+<div data-bbox="490 964 504 978" data-label="Page-Footer">
+<p>4</p>
+</div><div>
+<div data-bbox="392 77 630 138" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=8,23</b><br/>
+<b>fu; e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlklu</b></p>
+</div>
+<div data-bbox="65 144 950 199" data-label="Text">
+<p>&gt;k[ k M i pk r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. kea <b>esvcqDj fi nnf[ki h</b><br/>
+, r n~}kj k; g v f/k fp r d jr k@ d jr h gwfd uhp snh x bZv ub ph d sLr Ek 1/2/eau kfer Q fDr] Lr Ek 1/2/eav fd r i n<br/>
+i j] Lr Ek 1/2/eaof. kZ x te i pk r@ i pk r l fefr@ft y k i fj"kn~d sfy; sl E; d~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="476 209 552 228" data-label="Section-Header">
+<p style="text-align: center;"><b>vubph</b></p>
+</div>
+<div data-bbox="63 233 955 732" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"><b>©fDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xte i pk r@i pk r l fefr@ft y k</b><br/>
+<b>i fj'kn ft l si n l afkr gS</b><br/>
+<b>fuolžu fs= l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjffkr@vubjffkr</b></th>
+<th><b>efgyk@vUj</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5"><b>i fkM &amp; xkbzdsk</b></td>
+</tr>
+<tr>
+<td>eks y si nk</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukjffkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/2</td>
+</tr>
+<tr>
+<td>t gshzl ke M</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/2</td>
+</tr>
+<tr>
+<td>eky r h ckgth k</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/2</td>
+</tr>
+<tr>
+<td>l fur k l jnkj</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/4</td>
+</tr>
+<tr>
+<td>euks l ghu</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukjffkr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/5</td>
+</tr>
+<tr>
+<td>?kk hj ke i kel; k</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/6</td>
+</tr>
+<tr>
+<td>v ubek p kffl ; k</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ukjffkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/7</td>
+</tr>
+<tr>
+<td>uthuh d kelkg</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/8</td>
+</tr>
+<tr>
+<td>y (eh d ky fuM; k</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/9</td>
+</tr>
+<tr>
+<td>d b jh d skbZ</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/10</td>
+</tr>
+<tr>
+<td>p thzekgu cksi kbZ</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/11</td>
+</tr>
+<tr>
+<td>fu: ekuh d kelkg</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/12</td>
+</tr>
+<tr>
+<td>j hr k ckbi kbZ</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/13</td>
+</tr>
+<tr>
+<td>cksefr d bZ</td>
+<td>i pk r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHev@ 05@ x kbz d sk &amp; 1/14</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="31 734 185 752" data-label="Text">
+<p><b>Lfku &amp; pkbzk kA</b></p>
+</div>
+<div data-bbox="31 761 200 777" data-label="Text">
+<p><b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="722 784 877 843" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>
+ft y k n. Mk/kd kj h]<br/>
+i 0 fl gHev] pkbzk kA</p>
+</div>
+<div data-bbox="490 964 504 978" data-label="Page-Footer">
+<p>5</p>
+</div><div>
+<div data-bbox="392 104 630 165" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=&amp;23</b><br/>
+<b>*fr, e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlkku</b></p>
+</div>
+<div data-bbox="66 171 954 227" data-label="Text">
+<p>&gt;kj[ k M i pk, r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. kea <b>esvcqDj fi nnf[ki h</b>, r n~}kjk; g v f/k fp r d jr k@ d jr h gwfd uhp snh x bZv ub ph d sLr EHk 1/4 1/2eaukfer Q fDr] Lr EHk 1/2 1/2eav fd r i n i j] Lr EHk 1/4 1/2eaof. kZ x te i pk, r@ i pk, r l fefr@ ft y k i fj "kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="475 237 553 256" data-label="Section-Header">
+<p style="text-align: center;"><b>vubjph</b></p>
+</div>
+<div data-bbox="64 261 958 601" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th rowspan="2"><b>QfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xte i pk, r@i pk, r l fefr@ft y k i fj'kn ft l l si n l afkr gS fuolžu fs l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjfkr@vubjfkr</b></th>
+<th><b>efgyk@vUj</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i žkM &amp; vkuzi gj</b></td>
+</tr>
+<tr>
+<td>j ?kj fi g</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v U; fi NMk oxZ</td>
+<td>v U;</td>
+<td>xxiii0 fi gHa@06@vkuthi gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>v ko s Hajk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxiii0 fi gHa@06@vkuthi gj &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>u wu I; kjh r ksuks</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxiii0 fi gHa@06@vkuthi gj &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>d : . kk cjt ks</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxiii0 fi gHa@06@vkuthi gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>i wkzk fi g</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>xxiii0 fi gHa@06@vkuthi gj &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>j ft uk Hajk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxiii0 fi gHa@06@vkuthi gj &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>Hky BV hu r ksuks</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>v U;</td>
+<td>xxiii0 fi gHa@06@vkuthi gj &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>j kskuh [ kk[ kk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxiii0 fi gHa@06@vkuthi gj &amp; 1/2 1/2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="32 603 185 621" data-label="Text">
+<p><b>Lfku &amp; pkbzk kA</b></p>
+</div>
+<div data-bbox="32 630 201 646" data-label="Text">
+<p><b>frud &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="722 653 880 711" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>ft y k n. Mkf/kd kjh]<br/>i 0 fi gHa] pkbzk kA</p>
+</div>
+<div data-bbox="490 964 504 978" data-label="Page-Footer">
+<p style="text-align: center;">6</p>
+</div><div>
+<div data-bbox="392 104 630 165" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=&amp;23</b><br/>
+<b>*fr, e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlklu</b></p>
+</div>
+<div data-bbox="66 171 954 227" data-label="Text">
+<p>&gt;kj[ k M i pk, r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. kea <b>esvcqDj fl nnf[ki h</b>, r n~jkk; g v f/k fp r d jr k@ d jr h gwfd uhp snh x bZv ub ph d sLr Ek 1/4 1/2eauker Q fDr] Lr Ek 1/2 1/2eav fd r i n ij] Lr Ek 1/4 1/2eaof. kz x te i pk, r@ i pk, r l fefr@ ft y k i fj "kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="475 237 552 256" data-label="Section-Header">
+<p style="text-align: center;"><b>vubph</b></p>
+</div>
+<div data-bbox="64 261 958 746" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"><b>QfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xte i pk, r@i pk, r l fefr@ft y k i fj'kn ft l l si n l afkr gS fuolžu fs l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjfkr@vubjfkr</b></th>
+<th><b>efgyk@vU</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i fkM &amp; eulgji gi</b></td>
+</tr>
+<tr>
+<td>l qhy d qkj y qq</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l fjr k d tj y</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>d q nhi d UMq uk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>e a qn o h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>uj sk p Uh zeg r ks</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v U; fi NMk ox Z</td>
+<td>v U;</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l b kuk p skok</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>y sckst kr s</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l bkhy k l o sk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>v H; ' kq i kf. k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>v U;</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l a ; fd ' ks fl gn o</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>v U;</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>Hke l a fr Xx k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l a hi x qM # k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>e Dr k c j y k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>v y fcuk d UMq uk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>x ka h p kfE ; k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>x gokj h n ox e</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i a fl gHa @ 07@eulgji g&amp; 1/4 1/2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="32 748 185 766" data-label="Text">
+<p><b>Lfku &amp; pkbzk ka</b></p>
+</div>
+<div data-bbox="32 773 201 790" data-label="Text">
+<p><b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="720 797 880 856" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>ft y k n. Mk/kd kj h]<br/>i 0 fl gHa] p kbzk ka</p>
+</div>
+<div data-bbox="490 964 504 978" data-label="Page-Footer">
+<p>7</p>
+</div><div>
+<div data-bbox="392 104 629 165" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=8:23</b><br/>
+<b>*fr, e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlkku</b></p>
+</div>
+<div data-bbox="66 171 957 227" data-label="Text">
+<p>&gt;kj[kM i pk, r fuolžu fu;ekoy h] 2001 d sfu;e 85 d svubj.keae<b>svcqDj fi nnfkih</b>, r n~kjk; g v f/k fp r d jr k@d jr h gwfd uhp snh x bZv ub ph d sLr EHk 1/4 1/2eaukfer Q fDr] Lr EHk 1/2 1/2eav fd r i n i j] Lr EHk 1/4 1/2eaof.kZ x æ i pk, r@ i pk, r l fefr@ft y k i fj"kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="475 237 552 256" data-label="Section-Header">
+<p style="text-align: center;"><b>vubph</b></p>
+</div>
+<div data-bbox="64 261 962 755" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"><b>OfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj.k</b></th>
+<th rowspan="2"><b>xle i pk, r@i pk, r l fefr@ft y k i fj'kn ft l l si n l afkr gS fuolžu fs l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjfkr@vukjfkr</b></th>
+<th><b>efgyk@vUj</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5"><b>i žkM &amp; ulsleqMh</b></td>
+</tr>
+<tr>
+<td>fjr šk d qkj</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>i žre x k8N kbZ</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ukjfkr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>i nek nah</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ukjfkr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>v uhr k i gr h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l qu y d Mk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l a ho d qkj x gr k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ukjfkr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l j Lor h i gr h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>T; kfr nk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v U; fi NMk ox Z</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>eky r h d qkj h i gr h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l fjr k d šd êk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>y {eh i gr h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>eš kr h i gr h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>y y hr k i gr h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>?ku'; ke c ks kak</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>' kgn k d qkj x ks</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v U; fi NMk ox Z</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>p qu y ky y kx gh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>T; k8 uk f[ ky kj</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v U; fi NMk ox Z</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>ue z k l ga</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ukjfkr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>eer k d : ok</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ukjfkr</td>
+<td>efgy k</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l gshzfr fj; k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>x. ksk y kx gh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxii i 0 fl gHæ@ 08@ ulsleqMh &amp; 1/4 1/2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="32 757 184 775" data-label="Text">
+<p><b>Lfku &amp; pkbzk kA</b></p>
+</div>
+<div data-bbox="32 783 201 800" data-label="Text">
+<p><b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="720 806 881 865" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>ft y k n. Mkf/kd kj h]<br/>i 0 fl gHæ] p kbzk kA</p>
+</div>
+<div data-bbox="489 964 504 978" data-label="Page-Footer">
+<p>8</p>
+</div><div>
+<div data-bbox="392 104 630 165" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=8:23</b><br/>
+<b>*fr, e 85 nf[k §2</b><br/>
+<b>fuolžu i fj. ke dki zlklu</b></p>
+</div>
+<div data-bbox="66 171 957 227" data-label="Text">
+<p>&gt;kj[ k M i pk, r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. kea <b>esvcqDj fi nnf[ki h</b>, r n~}kjk; g v f/k fp r d jr k@ d jr h gwfd uhp snh x bZv ub ph d sLr EHk 1/4½eaukfer Q fDr] Lr EHk 1/2½eav fd r i n ij] Lr EHk 1/4½eaof. kZ x te i pk, r@ i pk, r l fefr@ft y k i fj"kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="475 237 552 256" data-label="Section-Header">
+<p style="text-align: center;"><b>vubjph</b></p>
+</div>
+<div data-bbox="64 261 962 706" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th rowspan="2"><b>QfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xte i pk, r@i pk, r l fefr@ft y k i fj'kn ft l l si n l afkr gS fuolžu fs l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjfkr@vubjfkr</b></th>
+<th><b>efgyk@vUj</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i žkM &amp; vMMs</b></td>
+</tr>
+<tr>
+<td>fl ) soj cks i kbZ</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t u t kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHar @ 09@ V k8V/ks&amp; 1/4½</td>
+</tr>
+<tr>
+<td>x ksckj h v a kfj; k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t u t kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar @ 09@ V k8V/ks&amp; 1/4½</td>
+</tr>
+<tr>
+<td>v fur k y kx jjh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar @ 09@ V k8V/ks&amp; 1/4½</td>
+</tr>
+<tr>
+<td>l qk, gsl k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t u t kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar @ 09@ V k8V/ks&amp; 1/4½</td>
+</tr>
+<tr>
+<td>x hr k l qMh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHar @ 09@ V k8V/ks&amp; 1/4½</td>
+</tr>
+<tr>
+<td>fQ y ksr fp M</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t u t kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar @ 09@ V k8V/ks&amp; 1/4½</td>
+</tr>
+<tr>
+<td>l a; ckjh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t u t kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHar @ 09@ V k8V/ks&amp; 1/4½</td>
+</tr>
+<tr>
+<td>ckfe; k l qMh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t u t kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHar @ 09@ V k8V/ks&amp; 1/4½</td>
+</tr>
+<tr>
+<td>cl U h gsl k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t u t kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar @ 09@ V k8V/ks&amp; 1/4½</td>
+</tr>
+<tr>
+<td>y fy r k nsh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar @ 09@ V k8V/ks&amp; 1/4½</td>
+</tr>
+<tr>
+<td>eay r fp M</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t u t kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHar @ 09@ V k8V/ks&amp; 1/4½</td>
+</tr>
+<tr>
+<td>y fy r k y kx jjh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t u t kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar @ 09@ V k8V/ks&amp; 1/4½</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="32 708 186 727" data-label="Text">
+<p><b>Lfku &amp; pkbzk kA</b></p>
+</div>
+<div data-bbox="32 734 201 752" data-label="Text">
+<p><b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="720 758 881 816" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>ft y k n. Mk/kd kj h]<br/>i 0 fl gHar] pkbzk kA</p>
+</div>
+<div data-bbox="489 964 504 978" data-label="Page-Footer">
+<p style="text-align: center;">9</p>
+</div><div>
+<div data-bbox="392 104 630 165" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=8,23</b><br/>
+<b>*fr, e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlkku</b></p>
+</div>
+<div data-bbox="66 171 957 227" data-label="Text">
+<p>&gt;kj[kM i pk, r fuolžu fu;ekoy h] 2001 d sfu; e 85 d svubj.keae<b>esvcqDj fi nnf[ki h</b>, r n~jkk; g v f/k fp r d jr k@d jr h gwfd uhp snh x bZv ub ph d sLr EHk 1/4 1/2eauker Q fDr] Lr EHk 1/2 1/2eav Ed r i n i j] Lr EHk 1/4 1/2eaof.kZ x æ i pk, r@ i pk, r l fefr@ft y k i fj"kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="475 237 553 256" data-label="Section-Header">
+<p style="text-align: center;"><b>vubjph</b></p>
+</div>
+<div data-bbox="64 261 962 772" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"><b>QfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj.k</b></th>
+<th rowspan="2"><b>xže i pk, r@i pk, r l fefr@ft y k i fj'kn ft l l si n l afkr gS fuolžu fs l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjfkr@vubjfkr</b></th>
+<th><b>efgyk@vUj</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i žkM &amp; o[kaf kuh</b></td>
+</tr>
+<tr>
+<td>i žrekt keqk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>uwu ckajk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>fuy eqh d bZ</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>i ky ksd qknk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>t ; fl g ckajk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>' kkuh gkbZq</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>ey [kku fl g y skkh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l fpr k t kd ks</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>fMEcqfr ; q</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>j kt šk ckujk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>n kZp j. k gEc e</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>j t uh ckujk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>ekgu fl g ckujk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>euhy k cks i kbZ</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>v t ; r fp M+</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>N ksy ky l qMh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 10@ [kafi kuh &amp; 1/4 1/2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="32 775 185 793" data-label="Text">
+<p><b>Lfku &amp; pkbZk kA</b></p>
+</div>
+<div data-bbox="32 801 202 818" data-label="Text">
+<p><b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="721 824 881 883" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>ft y k n. Mk/kd kjh]<br/>i 0 fl gHa] pkbZk kA</p>
+</div>
+<div data-bbox="484 963 509 978" data-label="Page-Footer">
+<p>10</p>
+</div><div>
+<div data-bbox="393 104 629 165" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=&amp;23</b><br/>
+<b>*fr, e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlklu</b></p>
+</div>
+<div data-bbox="66 171 957 227" data-label="Text">
+<p>&gt;kj[ k M i pk, r fuolžu fu;ekoy h] 2001 d sfu; e 85 d svubj. keaesvcqDj fi nnf[ki h, r n~]kjk; g v f/k fp r d jr k@ d jr h gwfd uhp snh x bZv ub ph d sLr EHk 1/4 1/2eaukfer Q fDr] Lr EHk 1/2 1/2eav fd r i n i j] Lr EHk 1/4 1/2eaof. kZ x te i pk, r@ i pk, r l fefr@ ft y k i fj "kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="475 237 552 256" data-label="Section-Header">
+<p style="text-align: center;"><b>vubjph</b></p>
+</div>
+<div data-bbox="64 261 959 781" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"><b>QfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj.k</b></th>
+<th rowspan="2"><b>xle i pk, r@i pk, r l fefr@ft yki fj'kn ft l l si n l afkr gSfuolžu fs l fj; l@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vljffkr@vuljffkr</b></th>
+<th><b>efgyl@vUJ</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i fkM &amp; ol nj plbzk k</b></td>
+</tr>
+<tr>
+<td>l kkjj. k fi g d fUV; k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 1</td>
+</tr>
+<tr>
+<td>t ; Ur h l qMh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 2</td>
+</tr>
+<tr>
+<td>t okgkj y ky jke</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 3</td>
+</tr>
+<tr>
+<td>i zku x ks</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjffkr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 4</td>
+</tr>
+<tr>
+<td>ukjk, k ckujk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 5</td>
+</tr>
+<tr>
+<td>v k kbZgka gkx k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjffkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 6</td>
+</tr>
+<tr>
+<td>i dj ka y h l keM</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 7</td>
+</tr>
+<tr>
+<td>l gksfi g d fUV; k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 8</td>
+</tr>
+<tr>
+<td>fj Dr i n</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 9</td>
+</tr>
+<tr>
+<td>l a ; noxe</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 10</td>
+</tr>
+<tr>
+<td>l kah cky eq w</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjffkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 11</td>
+</tr>
+<tr>
+<td>eky r h noxe</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 12</td>
+</tr>
+<tr>
+<td>j ka r qnoxe</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjffkr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 13</td>
+</tr>
+<tr>
+<td>l for k noxe</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjffkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 14</td>
+</tr>
+<tr>
+<td>x g l u l qMh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 15</td>
+</tr>
+<tr>
+<td>i qe cks i kbZ</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 16</td>
+</tr>
+<tr>
+<td>enu ckjh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 17</td>
+</tr>
+<tr>
+<td>l gk ckjh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 18</td>
+</tr>
+<tr>
+<td>i z ki fi g l koSki</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 19</td>
+</tr>
+<tr>
+<td>l gfHd k v YMk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 20</td>
+</tr>
+<tr>
+<td>t ; fd ' ku fc: y h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 21</td>
+</tr>
+<tr>
+<td>i s ka noxe</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHa@ 11@ pkbzk k &amp; 22</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="32 784 185 802" data-label="Text">
+<p><b>Lfku &amp; plbzk ka</b></p>
+</div>
+<div data-bbox="32 809 201 826" data-label="Text">
+<p><b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="721 833 881 891" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>ft y k n. Mkf/kd kjh]<br/>i 0 fi gHa] pkbzk ka</p>
+</div>
+<div data-bbox="484 964 508 978" data-label="Page-Footer">
+<p>11</p>
+</div><div>
+<div data-bbox="392 94 630 155" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=8:23</b><br/>
+<b>*k; e 85 nf[k 5/2</b><br/>
+<b>fuolžu i fj. ke dki zlklu</b></p>
+</div>
+<div data-bbox="66 160 957 217" data-label="Text">
+<p>&gt;k[ k M i pk; r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. keaesvcqDlj fl nnf[ki h<br/>
+, r n~}kjk; g v f/k fp r d jr k@ d jr hgwfd ulp snh x bZv ub ph d sLr EHk 1/4½eaukfer Q fDr] Lr EHk 1/2½eav Ed r i n<br/>
+i j] Lr EHk 1/5½eaof. kZ x ke i pk; r@ i pk; r l fefr @ ft y k i fj"kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="475 227 552 246" data-label="Section-Header">
+<p style="text-align: center;"><b>vubph</b></p>
+</div>
+<div data-bbox="66 250 957 643" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th rowspan="2"><b>QfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xke i pk; r@i pk; r l fefr@ft yk<br/>
+i fj'kn ft l l si n l afkr gS<br/>
+fuolžu fs l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vljffkr@vubjffkr</b></th>
+<th><b>efgyk@vlj</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i fkM &amp; &gt;lai kh</b></td>
+</tr>
+<tr>
+<td>eku fi g gbl k</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vubjffkr</td>
+<td>v U;</td>
+<td>XXII po sishmum/12/ ziikpani – (1)</td>
+</tr>
+<tr>
+<td>r : .k d qkj l koSk</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vubfpr t u t kfr</td>
+<td>v U;</td>
+<td>XXII po sishmum/12/ ziikpani – (2)</td>
+</tr>
+<tr>
+<td>[ kfn; k [ ky [ kks</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vubfpr t u t kfr</td>
+<td>v U;</td>
+<td>XXII po sishmum/12/ ziikpani – (3)</td>
+</tr>
+<tr>
+<td>ek/kjh d bZ</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vubfpr t u t kfr</td>
+<td>v U;</td>
+<td>XXII po sishmum/12/ ziikpani – (4)</td>
+</tr>
+<tr>
+<td>bfUhjk ckjh</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vubfpr t u t kfr</td>
+<td>efgyk</td>
+<td>XXII po sishmum/12/ ziikpani – (5)</td>
+</tr>
+<tr>
+<td>t ; U h c blkmy h</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vubjffkr</td>
+<td>efgyk</td>
+<td>XXII po sishmum/12/ ziikpani – (6)</td>
+</tr>
+<tr>
+<td>enu eNqk</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vubfpr t kfr</td>
+<td>v U;</td>
+<td>XXII po sishmum/12/ ziikpani – (7)</td>
+</tr>
+<tr>
+<td>j ?kq kFk x ks</td>
+<td>i pk; r l fefr l nL;</td>
+<td>v U; fi NMkoxZ</td>
+<td>v U;</td>
+<td>XXII po sishmum/12/ ziikpani – (8)</td>
+</tr>
+<tr>
+<td>ne; U h fi kaqk</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vubfpr t u t kfr</td>
+<td>efgyk</td>
+<td>XXII po sishmum/12/ ziikpani – (9)</td>
+</tr>
+<tr>
+<td>v b uk r kel ks</td>
+<td>i pk; r l fefr l nL;</td>
+<td>vubfpr t u t kfr</td>
+<td>efgyk</td>
+<td>XXII po sishmum/12/ ziikpani – (10)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="32 645 185 663" data-label="Text">
+<p><b>Lfku &amp; plbzk ka</b></p>
+</div>
+<div data-bbox="32 671 202 688" data-label="Text">
+<p><b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="720 694 881 753" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>
+ft y k n. Mkf/kd kjh]<br/>
+i 0 fl gHkv] plbzk ka</p>
+</div>
+<div data-bbox="484 963 509 978" data-label="Page-Footer">
+<p>12</p>
+</div><div>
+<div data-bbox="392 103 630 164" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=&amp;23</b><br/>
+<b>*fr, e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlkku</b></p>
+</div>
+<div data-bbox="65 169 950 225" data-label="Text">
+<p>&gt;kj[ k M i pk, r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. kea <b>esvcqDj fi nnf[ki h</b>, r n~}kjk; g v f/k fp r d jr k@ d jr h gwfd uhp snh x bZv ub ph d sLr EHk 1/4 1/2eauker Q fDr] Lr EHk 1/2 1/2eav fd r i n ij] Lr EHk 1/4 1/2eaof. kZ x te i pk, r@ i pk, r l fefr@ft y k i fj"kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="476 235 553 254" data-label="Section-Header">
+<p style="text-align: center;"><b>vubph</b></p>
+</div>
+<div data-bbox="63 259 955 732" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th rowspan="2"><b>QfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xte i pk, r@i pk, r l fefr@ft y k i fj"kn ft l l si n l afkr gS fuolžu fs l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjfkr@vubjfkr</b></th>
+<th><b>efgyk@vUj</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i žkM &amp; or lauxj</b></td>
+</tr>
+<tr>
+<td>fx fj/kj d ky fM; k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>uUhh d ky fM; k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>ed r h fo: y h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l fuy d qkj l keM</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>mfe Z k x ks</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>t ; er h i jpr h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>ne; ah l qMh</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l qkr k d q y</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>' kr y d qkj i jpr h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>i kfl g l oSka</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>ekkk, ckujk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l fur k ckujk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>l jyt x ks</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>v U;</td>
+<td>XXII i 0 fl gHa@ 13@ r lauxj &amp; 1/4 1/2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="31 734 183 752" data-label="Text">
+<p><b>Lfku &amp; pkbZk kA</b></p>
+</div>
+<div data-bbox="31 761 200 777" data-label="Text">
+<p><b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="722 784 877 843" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>ft y k n. Mk/kd kj h]<br/>i 0 fl gHa] pkbZk kA</p>
+</div>
+<div data-bbox="485 964 509 978" data-label="Page-Footer">
+<p>13</p>
+</div><div>
+<div data-bbox="392 104 630 165" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=&amp;23</b><br/>
+<b>*fr, e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlkku</b></p>
+</div>
+<div data-bbox="66 171 954 227" data-label="Text">
+<p>&gt;kj[ k M i pk, r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. kea <b>esvcqDj fi nnf[ki h</b>, r n~}kjk; g v f/k fp r d jr k@ d jr h gwfd uhp snh x bZv ub ph d sLr EHk 1/4 1/2eau kfer Q fDr] Lr EHk 1/2 1/2eav fd r i n i j] Lr EHk 1/4 1/2eaof. kZ x te i pk, r@ i pk, r l fefr@ ft y k i fj "kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="475 237 552 256" data-label="Section-Header">
+<p style="text-align: center;"><b>vubjph</b></p>
+</div>
+<div data-bbox="64 261 958 759" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th rowspan="2"><b>QfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xte i pk, r@i pk, r l fefr@ft y k i fj'kn ft l l si n l afkr gS fuolžu -ls l fj; l@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjfkr@vukjfkr</b></th>
+<th><b>efgyk@vUj</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i žkM &amp; eakjh</b></td>
+</tr>
+<tr>
+<td>l for k r kel ks</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgyk</td>
+<td>XXII po sishmum / 14 / msari - (01)</td>
+</tr>
+<tr>
+<td>ehuk n kskbZq</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgyk</td>
+<td>XXII po sishmum / 14 / msari - (02)</td>
+</tr>
+<tr>
+<td>l j fr k fo: ok</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgyk</td>
+<td>XXII po sishmum / 14 / msari - (03)</td>
+</tr>
+<tr>
+<td>Mks h n a h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgyk</td>
+<td>XXII po sishmum / 14 / msari - (04)</td>
+</tr>
+<tr>
+<td>t kEch d bZ</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgyk</td>
+<td>XXII po sishmum / 14 / msari - (05)</td>
+</tr>
+<tr>
+<td>uj kske d qkj x ksl</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>vUj</td>
+<td>XXII po sishmum / 14 / msari - (06)</td>
+</tr>
+<tr>
+<td>v fur k fc: ok</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgyk</td>
+<td>XXII po sishmum / 14 / msari - (07)</td>
+</tr>
+<tr>
+<td>egy h eukgj fc: ok</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>vUj</td>
+<td>XXII po sishmum / 14 / msari - (08)</td>
+</tr>
+<tr>
+<td>ea q h p kr j</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgyk</td>
+<td>XXII po sishmum / 14 / msari - (09)</td>
+</tr>
+<tr>
+<td>l for k fo: ok</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgyk</td>
+<td>XXII po sishmum / 14 / msari - (10)</td>
+</tr>
+<tr>
+<td>/ku soj fc: ok</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>vUj</td>
+<td>XXII po sishmum / 14 / msari - (11)</td>
+</tr>
+<tr>
+<td>n ke kaj i zkku</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>vUj</td>
+<td>XXII po sishmum / 14 / msari - (12)</td>
+</tr>
+<tr>
+<td>l k/kqp j. k fc: ok</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>vUj</td>
+<td>XXII po sishmum / 14 / msari - (13)</td>
+</tr>
+<tr>
+<td>f' k l kss</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>vUj</td>
+<td>XXII po sishmum / 14 / msari - (14)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="32 761 185 779" data-label="Text">
+<p><b>Lfku &amp; pkbZk kA</b></p>
+</div>
+<div data-bbox="32 787 201 804" data-label="Text">
+<p><b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="720 810 880 869" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>ft y k n. Mk/kd kjh]<br/>i 0 fl gHav] pkbZk kA</p>
+</div>
+<div data-bbox="484 964 509 978" data-label="Page-Footer">
+<p>14</p>
+</div><div>
+<div data-bbox="392 103 630 164" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=8:23</b><br/>
+<b>*fr, e 85 nf[k §½</b><br/>
+<b>fuolžu i fj. ke dki zlkku</b></p>
+</div>
+<div data-bbox="65 170 950 225" data-label="Text">
+<p>&gt;k[ k M i pk, r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. kea <b>esvcqDj fi nnf[ki h</b>, r n~}kk; g v f/k fp r d jr k@ d jr h gwfd uhp snh x bZv ub ph d sLr EHk 1/4½eauker Q fDr] Lr EHk 1/2½eav fd r i n i j] Lr EHk 1/5½eaof. kZ x te i pk, r@ i pk, r l fefr@ ft y k i fj"kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="475 235 555 255" data-label="Section-Header">
+<p style="text-align: center;"><b>vubjph</b></p>
+</div>
+<div data-bbox="65 260 955 680" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th rowspan="2"><b>QfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xte i pk, r@i pk, r l fefr@ft y k i fj'kn ft l l si n l afkr gS fuolžu fs l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjfkr@vubjfk r</b></th>
+<th><b>efgyk@vU</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i žkM &amp; gkvxEfj; k</b></td>
+</tr>
+<tr>
+<td>t kk fl d q</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar@ 15@ gkvxEfj; k &amp; 1/4½</td>
+</tr>
+<tr>
+<td>fc Ø e fl d q</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>vU</td>
+<td>XXII i 0 fl gHar@ 15@ gkvxEfj; k &amp; 1/2½</td>
+</tr>
+<tr>
+<td>l bkhy d qkj fc: ok</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>vU</td>
+<td>XXII i 0 fl gHar@ 15@ gkvxEfj; k &amp; 1/4½</td>
+</tr>
+<tr>
+<td>eer k fl d q</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar@ 15@ gkvxEfj; k &amp; 1/4½</td>
+</tr>
+<tr>
+<td>x q okj h gEc e</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar@ 15@ gkvxEfj; k &amp; 1/4½</td>
+</tr>
+<tr>
+<td>t kEc hj k fc: ok</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>vU</td>
+<td>XXII i 0 fl gHar@ 15@ gkvxEfj; k &amp; 1/4½</td>
+</tr>
+<tr>
+<td>i žey k fi a qk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar@ 15@ gkvxEfj; k &amp; 1/4½</td>
+</tr>
+<tr>
+<td>d § k k fi a qk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>vU</td>
+<td>XXII i 0 fl gHar@ 15@ gkvxEfj; k &amp; 1/4½</td>
+</tr>
+<tr>
+<td>t Ec h x kx j kbZ</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar@ 15@ gkvxEfj; k &amp; 1/4½</td>
+</tr>
+<tr>
+<td>v k kk i jpr h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fl gHar@ 15@ gkvxEfj; k &amp; 1/4½</td>
+</tr>
+<tr>
+<td>fo Hkfk k fc: y h</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>vU</td>
+<td>XXII i 0 fl gHar@ 15@ gkvxEfj; k &amp; 1/4½</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="30 680 200 725" data-label="Text">
+<p><b>Lfku &amp; pkbzk kA</b><br/>
+<b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="720 730 880 790" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>
+ft y k n. Mk/kd kj h]<br/>
+i 0 fl gHar] p kbzk kA</p>
+</div>
+<div data-bbox="485 960 515 980" data-label="Page-Footer">
+<p style="text-align: center;">15</p>
+</div><div>
+<div data-bbox="392 104 630 165" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=8,23</b><br/>
+<b>*fr, e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlkku</b></p>
+</div>
+<div data-bbox="66 171 957 227" data-label="Text">
+<p>&gt; k[ k M i pk, r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. kea <b>esvcqDj fi nnf[ki h</b>, r n~ kjk; g v f/k fp r d jr k@ d jr h gwfd uhp snh x bZv ub ph d sLr EHk 1/4 1/2eauker Q fDr] Lr EHk 1/2 1/2eav Ed r i n i j] Lr EHk 1/4 1/2eaof. kZ x æ i pk, r@ i pk, r I fefr@ ft y k i fj "kn ~d sfy; sl E; d ~: i I sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="475 237 552 256" data-label="Section-Header">
+<p style="text-align: center;"><b>vubjph</b></p>
+</div>
+<div data-bbox="64 261 962 692" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th rowspan="2"><b>QfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xke i pk, r@i pk, r I fefr@ft y k i fj'kn ft I I si n I afkr gS fuolžu fs I fj; k@ule I fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjfkr@vubjfkr</b></th>
+<th><b>efgyk@vUj</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i EkM &amp; ot xukki gj</b></td>
+</tr>
+<tr>
+<td>y d soj x kx j kbZ</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ub fp r t u t kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>i ou d qkj fl g</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ukjfkr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>I kskjke fl d q</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ub fp r t u t kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>t ek d qkj h</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ukjfkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>cgl quh gbl k</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ub fp r t u t kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>d ". kk fr fj; k</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ub fp r t u t kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>o "kefr n sx e</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ub fp r t u t kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>moZkh n sh</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ukjfkr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>Lkfo=h fr fj; k</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ub fp r t u t kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>r i Lohu h uk, d</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ukjfkr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>I b; ckj hd</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v U; fi NMk ox Z</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>t g h uk, d</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ub fp r t kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>y (eh I ko SkW</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ub fp r t u t kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>I ykt i gr h</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ub fp r t u t kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>j kt d qkj h n kskbZq</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ub fp r t u t kfr</td>
+<td>efgy k</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>eu ks n kskbZ</td>
+<td>i pk, r I fefr I nL;</td>
+<td>v ub fp r t u t kfr</td>
+<td>v U;</td>
+<td>XXII i 0 fi gHer @ 16@ t x Ukfki gj &amp; 1/4 1/2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="32 695 185 713" data-label="Text">
+<p><b>Lfku &amp; pkbzk kA</b></p>
+</div>
+<div data-bbox="32 722 201 738" data-label="Text">
+<p><b>frud &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="722 745 881 803" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>ft y k n. Mk/kd kj h]<br/>i 0 fi gHer] pkbzk kA</p>
+</div>
+<div data-bbox="484 964 509 978" data-label="Page-Footer">
+<p>16</p>
+</div><div>
+<div data-bbox="392 103 630 164" data-label="Section-Header">
+<p style="text-align: center;"><b>i ž=&amp;23</b><br/>
+<b>*fr, e 85 nf[k š/2</b><br/>
+<b>fuolžu i fj. ke dki zlkku</b></p>
+</div>
+<div data-bbox="66 170 950 226" data-label="Text">
+<p>&gt;kj[ k M i pk, r fuolžu fu; ekoy h] 2001 d sfu; e 85 d svubj. kea <b>esvcqDdj fi nnf[ki h</b>, r n~}kjk; g v f/k fp r d jr k@ d jr h gwfd uhp snh x bZv ub ph d sLr EHk 1/4 1/2eaukfer Q fDr] Lr EHk 1/2 1/2eav fd r i n i j] Lr EHk 1/4 1/2eaof. kZ x te i pk, r@ i pk, r l fefr@ ft y k i fj "kn~d sfy; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+</div>
+<div data-bbox="476 236 553 254" data-label="Section-Header">
+<p style="text-align: center;"><b>vubjph</b></p>
+</div>
+<div data-bbox="64 259 955 680" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th rowspan="2"><b>QfDr dkule</b></th>
+<th colspan="3"><b>i n dkfooj. k</b></th>
+<th rowspan="2"><b>xte i pk, r@i pk, r l fefr@ft y k i fj'kn ft l l si n l afkr gS fuolžu fs l fj; k@ule l fgr 1/2</b></th>
+</tr>
+<tr>
+<th><b>i n</b></th>
+<th><b>vkjfkr@vubjfkr</b></th>
+<th><b>efgyk@vUj</b></th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<th><b>2</b></th>
+<th><b>3</b></th>
+<th><b>4</b></th>
+<th><b>5</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i žkM &amp; dqkj Mqh</b></td>
+</tr>
+<tr>
+<td>ehuk nah</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgyk</td>
+<td>xxiii 0 fl gHa@ 17@ d qkj Mqh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>i koZh x kx j kbZ</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgyk</td>
+<td>xxiii 0 fl gHa@ 17@ d qkj Mqh &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>fefFky k ckx s</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgyk</td>
+<td>xxiii 0 fl gHa@ 17@ d qkj Mqh &amp; 1/8 1/2</td>
+</tr>
+<tr>
+<td>l d kLr h fl d q</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgyk</td>
+<td>xxiii 0 fl gHa@ 17@ d qkj Mqh &amp; 1/4 1/2</td>
+</tr>
+<tr>
+<td>egshzd qkj ckjt ks</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxiii 0 fl gHa@ 17@ d qkj Mqh &amp; 1/5 1/2</td>
+</tr>
+<tr>
+<td>fd ' kks d qkj fl d q</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxiii 0 fl gHa@ 17@ d qkj Mqh &amp; 1/6 1/2</td>
+</tr>
+<tr>
+<td>l jnkj ethbZk</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxiii 0 fl gHa@ 17@ d qkj Mqh &amp; 1/2 1/2</td>
+</tr>
+<tr>
+<td>j kuh gsl k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgyk</td>
+<td>xxiii 0 fl gHa@ 17@ d qkj Mqh &amp; 1/8 1/2</td>
+</tr>
+<tr>
+<td>v uhr k gsl k</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgyk</td>
+<td>xxiii 0 fl gHa@ 17@ d qkj Mqh &amp; 1/9 1/2</td>
+</tr>
+<tr>
+<td>eFkjk d ksMkd s</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>xxiii 0 fl gHa@ 17@ d qkj Mqh &amp; 1/4 0/2</td>
+</tr>
+<tr>
+<td>x q ' ku gscz</td>
+<td>i pk, r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>v U;</td>
+<td>xxiii 0 fl gHa@ 17@ d qkj Mqh &amp; 1/4 1/2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="32 682 185 700" data-label="Text">
+<p><b>Lfku &amp; pkbzk kA</b></p>
+</div>
+<div data-bbox="32 708 201 725" data-label="Text">
+<p><b>fnuld &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="722 731 877 790" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>ft y k n. Mk/kd kj h]<br/>i 0 fl gHa] p kbzk kA</p>
+</div>
+<div data-bbox="485 964 509 978" data-label="Page-Footer">
+<p>17</p>
+</div><div> <div style="text-align: center;">
+<p style="text-align: center;"><b>i ž=823</b><br/>
+<b>*k; e 85 nĘk š/2</b><br/>
+<b>fuolžu i fj. ke dki zlkku</b></p>
+<p>&gt; kj[ k M i p k r fuolžu fu; ekoy h] 2001 d sfu; e 85 d sv u b j. k ea <b>e sv cqDlj fi nnfjki h</b><br/>
+, r n~} kjk ; g v f/k fp r d jr k@ d jr h gwfd uhp snh x bZv u b ph d sLr Ek 1/4 1/2eaukfer Q fDr] Lr Ek 1/2 1/2eav Ed r i n<br/>
+i j] Lr Ek 1/5 1/2eaof. kz x ke i p k r@ i p k r l fefr@ ft y k i fj"kn~d sfy ; sl E; d ~: i l sfuolžp r gksx; k g&amp;</p>
+<p style="text-align: center;"><b>vubph</b></p>
+</div>
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th rowspan="2">QfDr dkule</th>
+<th colspan="3">i n dkfooj. k</th>
+<th rowspan="2">xke i pk r@i pk r l fefr@ft yk<br/>i fj'kn ft l l si n l afkr gS<br/>fuolžu fs l fj; k@ule l fgr 1/2</th>
+</tr>
+<tr>
+<th>i n</th>
+<th>vkjfkr@vukjfk<br/>r</th>
+<th>efgyk@vUj</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5" style="text-align: center;"><b>i žkM &amp; e&gt;xikV</b></td>
+</tr>
+<tr>
+<td>i neuhi qhZ</td>
+<td>i p k r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/4%</td>
+</tr>
+<tr>
+<td>l g k fo: ok</td>
+<td>i p k r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/2%</td>
+</tr>
+<tr>
+<td>d for k fl d q</td>
+<td>i p k r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/4%</td>
+</tr>
+<tr>
+<td>' kd qr y k fi a qk</td>
+<td>i p k r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/4%</td>
+</tr>
+<tr>
+<td>fl ak r kel ks</td>
+<td>i p k r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/5%</td>
+</tr>
+<tr>
+<td>v t he v [ r j</td>
+<td>i p k r l fefr l nL;</td>
+<td>v U; fi NMk ox Z</td>
+<td>v U;</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/6%</td>
+</tr>
+<tr>
+<td>t x Uukfk fi a qk</td>
+<td>i p k r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/7%</td>
+</tr>
+<tr>
+<td>fuMkh b jkmr</td>
+<td>i p k r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/8%</td>
+</tr>
+<tr>
+<td>i q k fQy kehuk gEc z</td>
+<td>i p k r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/9%</td>
+</tr>
+<tr>
+<td>fnusk p Uhzg Ec z</td>
+<td>i p k r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/10%</td>
+</tr>
+<tr>
+<td>l qk gEc z</td>
+<td>i p k r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>v U;</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/11%</td>
+</tr>
+<tr>
+<td>v kjr h noh</td>
+<td>i p k r l fefr l nL;</td>
+<td>vukjfkr</td>
+<td>efgy k</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/12%</td>
+</tr>
+<tr>
+<td>foey k x b Z k</td>
+<td>i p k r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/13%</td>
+</tr>
+<tr>
+<td>i we t skb Z</td>
+<td>i p k r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/14%</td>
+</tr>
+<tr>
+<td>i z ki p Uhzp kr kj</td>
+<td>i p k r l fefr l nL;</td>
+<td>vub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXII i å fl gHa@ 18@ e&gt;x kb &amp; 1/15%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="32 650 200 695" data-label="Text">
+<p><b>Lfku &amp; pkbzk kA</b><br/>
+<b>fnud &amp; 23-12-2015</b></p>
+</div>
+<div data-bbox="730 700 880 760" data-label="Text">
+<p style="text-align: right;">g0@ &amp; v Li "V<br/>
+ft y k n. Mkf/kd kjh]<br/>
+i 0 fl gHa] pkbzk kA</p>
+</div>
+<div data-bbox="32 775 950 815" data-label="Text">
+<p>&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&

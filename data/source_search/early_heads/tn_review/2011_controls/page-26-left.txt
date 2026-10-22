@@ -1,0 +1,62 @@
+1 2 3
+ULUNDURPET PANCHAYAT UNION Contd..
+12 Nedumanur SC General
+13 Pu.Konalvadi SC General
+14 Pullur SC General
+15 Puthamangalam SC General
+16 Veeramangalam SC General
+17 Asanur General Women
+18 Dhamal General Women
+19 Gunamangalam General Women
+20 Paali General Women
+21 Parinthal General Women
+22 Periyakurukkai General Women
+23 Pidagam General Women
+24 Pinnalvadi General Women
+25 Pu.Malaiyanur General Women
+26 R.R.Kuppam General Women
+27 Vellaiyur General Women
+28 M.Kunnathur General Women
+29 Pallavadi General
+30 Nathamur General
+31 A.Athipakkam General
+32 A.Kolathur General
+33 A.Kumaramangalam General
+34 A.Sathanur General
+35 Alangiri General
+36 Athaiyur General
+37 Emam General
+38 Eraiyur General
+39 Kattunemili General
+40 Kattusellur General
+41 Kiliyur General
+42 Koothanur General
+43 Moolasamuthiram General
+44 Neivanai General
+45 Nonaiyavadi General
+46 Pugaipatti General
+47 Pu.Killanur General
+48 Seedevi General
+49 Seekampattu General
+50 Sirupakkam General
+51 Thengunam General
+52 Vadakurumbur General
+53 Vadamampakkam General
+KANAI PANCHAYAT UNION
+1 Kangayanur SC Woman
+2 Siruvalai SC Woman
+3 Vellayampattu SC Woman
+4 Vengamoor SC Woman
+5 Kozhipattu SC General
+6 Agaramsithamur SC General
+7 Salavanur SC General
+8 Mambalapattu SC General
+9 Thirukkunam SC General
+10 Det nagar SC General
+11 Sangeethamangalam SC General
+12 Venmaniyathur SC General
+13 C.N.Palayam General Women
+14 Perumbakkam General Women
+15 Hanumandapuram General Women
+16 Athanur General Women
+Page 24

@@ -1,0 +1,48 @@
+1 2 3
+ACHARAPAKKAM PANCHAYAT UNION (Contd..)
+14 Keelathivakkam SC (General)
+15 Agili SC (General)
+16 Vadamanipakkam SC (General)
+17 Vellaputhur SC (General)
+18 Unamalai SC (General)
+19 Nedungal SC (General)
+20 Kalathur SC (General)
+21 Kadambur SC (General)
+22 Ananikunnam SC (General)
+23 Kattukaranai SC (General)
+24 Morapakkam General (Women)
+25 Kadamaliputhur General (Women)
+26 Vedanthangal General (Women)
+27 Thirumukkadu General (Women)
+28 Theetalam General (Women)
+29 Perumpakkam General (Women)
+30 Perumbaikandigai General (Women)
+31 Guddalur General (Women)
+32 Vinnampondi General (Women)
+33 Seethapuram General (Women)
+34 Kattugudalur General (Women)
+35 Thozhupedu General (Women)
+36 Alapakkam General
+37 Velamur General
+38 Pallipettai General
+39 Orathy General
+40 Madhur General
+41 Kiliyanagar General
+42 Athivakkam General
+43 Elapakkam General
+44 Veliyampakkam General
+45 Siruperpondy General
+46 Papanallur General
+47 Kozhiyalam General
+48 Poragal General
+49 Baburayanpettai General
+50 Mathur General
+51 Karasangal General
+52 Karikili General
+53 Athur General
+54 Thandaripuuducherry General
+55 Porparangakaranai General
+56 Orathur General
+57 Mogalvadi General
+58 Vilangadu General
+59 Sirunagalur General

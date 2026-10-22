@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "sha256": "38402adb2abd6c386fd8782ccc16a57fe3b04eb73febdee8dabbf63103156d29",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "fo\nrebmun\nlatoT\nsrebmem\nsetsaC\ndeludehS srebmem\nsrebirT\ndeludehcS\nsrebmem\nsrbmem\nnemoW\n1 (2a) (2b) (2c) (2d) 3 4 5 6\nHaranagar / I\nMouza- Haranagar, J.L.No. 1\na) Barobhege Uttarpara b) Barobhege 1 - 1 Women\n14 Nil Nil 5 Dakshinpara\nAssembly Part No 71/ 01\nHaranagar / II\nMouza- Haranagar, J.L.No. 1\n2 - -\na) Barobhege Paschimpara\nAssembly Part No 71/ 02\nHaranagar / III\nMouza- Haranagar, J.L.No. 1\na) Haranagar Madhyapara 3 - -\nb) Haranagar Paschimpara\nAssembly Part No 71/ 03\nHaranagar / IV\nMouza- Haranagar, J.L.No. 1\na) Haranagar Uttarpara b) Haranagar Purbapara\n4 - 4 Women\nMouza- Chak Ghuni, J.L.No.2\nc) Chak Ghuni\nAssembly Part No 71/ 04\n5 - -\n6 - -\n7 - 7 Women\n8 - -\nHaranagar / VII\nMouza- Senpur, J.L. No. 4\n9 - -\na) Senpur\nAssembly Part No 71/ 07\nraganaraH\n[ Form-A1 ]\nTHE SCHEDULE\nBlock : NAKASHIPARA\nHaranagar / V\nMouza- Bandakhola\nJ.L.No.32\na) Bandakhola Paschimpara b) Bandakhola\nPurbapara\nAssembly Part No 71/ 05\nHaranagar / VI\nMouza- Giridharipur,\nJ.L. No. 3\na) Giridharipur b) Joynagar\nAssembly Part No 71/ 06\nmarG\nfo\nemaN\nNumber of members to be\nelected in the Gram Panchayat\nNumber, Name and Area of Constituencies\nwith serial numbrs\nhcae\not\ndetacolla\nstaeS\nlaires\nhtiw\nycneutitsnoc\nsrebmun\ndeludehcS\nrof\ndevreser\nstaeS\nsebirT\ndeludehcS\nro\nsetsaC\nstaes\nfo\nrebmun\nlaires\ntsniaga\nnemow\nrof\ndevreser\nstaeS\nstaes\nfo\nrebmun\nlaires\ntsniaga\nC:\\Documents and Settings\\PANCHAYET SECTION\\Desktop\\Nakashipara\\Nakashipara\\Gram Panchayats\\Schedule-A1",
+      "tables": [
+        {
+          "bbox": [
+            59.61564,
+            84.1728,
+            583.1315999999999,
+            735.71856
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of members to be\nelected in the Gram Panchayat",
+              null,
+              null,
+              null,
+              "Number, Name and Area of Constituencies\nwith serial numbrs",
+              "hcae laires\not htiw\ndetacolla\nycneutitsnoc\nsrebmun\nstaeS",
+              "staes\ndeludehcS\nsebirT\nfo\nrebmun\ndeludehcS\nrof\ndevreser\nlaires\nro\nsetsaC tsniaga\nstaeS",
+              "staes\nnemow\nfo\nrebmun\nrof\ndevreser\nlaires\ntsniaga\nstaeS"
+            ],
+            [
+              null,
+              "fo\nrebmun\nsrebmem\nlatoT",
+              "setsaC\ndeludehS srebmem",
+              "srebirT\ndeludehcS\nsrebmem",
+              "srbmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "raganaraH",
+              "14",
+              "Nil",
+              "Nil",
+              "5",
+              "Haranagar / I\nMouza- Haranagar, J.L.No. 1\na) Barobhege Uttarpara b) Barobhege\nDakshinpara\nAssembly Part No 71/ 01",
+              "1",
+              "-",
+              "1 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Haranagar / II\nMouza- Haranagar, J.L.No. 1\na) Barobhege Paschimpara\nAssembly Part No 71/ 02",
+              "2",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Haranagar / III\nMouza- Haranagar, J.L.No. 1\na) Haranagar Madhyapara\nb) Haranagar Paschimpara\nAssembly Part No 71/ 03",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Haranagar / IV\nMouza- Haranagar, J.L.No. 1\na) Haranagar Uttarpara b) Haranagar Purbapara\nMouza- Chak Ghuni, J.L.No.2\nc) Chak Ghuni\nAssembly Part No 71/ 04",
+              "4",
+              "-",
+              "4 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Haranagar / V\nMouza- Bandakhola\nJ.L.No.32\na) Bandakhola Paschimpara b) Bandakhola\nPurbapara\nAssembly Part No 71/ 05",
+              "5\n6",
+              "-\n-",
+              "-\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Haranagar / VI\nMouza- Giridharipur,\nJ.L. No. 3\na) Giridharipur b) Joynagar\nAssembly Part No 71/ 06",
+              "7\n8",
+              "-\n-",
+              "7 Women\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Haranagar / VII\nMouza- Senpur, J.L. No. 4\na) Senpur\nAssembly Part No 71/ 07",
+              "9",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1451
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "fo\nrebmun\nlatoT\nsrebmem\nsetsaC\ndeludehS srebmem\nsrebirT\ndeludehcS\nsrebmem\nsrbmem\nnemoW\n[ Form-A1 ]\nTHE SCHEDULE\nBlock : NAKASHIPARA\n1 (2a) (2b) (2c) (2d) 3 4 5 6\nmarG\nfo\nemaN\nNumber of members to be\nelected in the Gram Panchayat\nNumber, Name and Area of Constituencies\nwith serial numbrs\nhcae\not\ndetacolla\nstaeS\nlaires\nhtiw\nycneutitsnoc\nsrebmun\ndeludehcS\nrof\ndevreser\nstaeS\nsebirT\ndeludehcS\nro\nsetsaC\nstaes\nfo\nrebmun\nlaires\ntsniaga\nnemow\nrof\ndevreser\nstaeS\nstaes\nfo\nrebmun\nlaires\ntsniaga\n10 - 10 Women\n11 - -\nHaranagar / IX\nMouza- Ghuni J.L.No. 29\n12 - -\na) Ghuni\nAssembly Part No 71/ 09\nHaranagar / X\nMouza- Malumgachha J.L.No. 31\n13 - 13 Women\na) Malumgachha\nAssembly Part No 71/ 10\nHaranagar / XI\nMouza-Gobipur J.L. No. 41\na) Gobipur Purbapara b) Gobipur Madhyapara c) 14 - -\nGobipur Paschimpara\nAssembly Part No 71/ 11.\nraganaraH\nHaranagar / VIII\nMouza- Chandipur J.L. No. 30\na) Chandipur Haranagarpara b) Chandipur\nMadhyapara c) Chandipur Dakshinpara\nAssembly Part No 71/ 08\nDated : 07.02.2008 District Panchayat Election Officer, Nadia\n&\nDistrict Magistrate, Nadia\nBlock Development Officer\nNakashipara Dev. Block\nC:\\Documents and Settings\\PANCHAYET SECTION\\Desktop\\Nakashipara\\Nakashipara\\Gram Panchayats\\Schedule-A1",
+      "tables": [
+        {
+          "bbox": [
+            59.61564,
+            84.1728,
+            583.1315999999999,
+            493.3392
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of members to be\nelected in the Gram Panchayat",
+              null,
+              null,
+              null,
+              "Number, Name and Area of Constituencies\nwith serial numbrs",
+              "hcae laires\not htiw\ndetacolla\nycneutitsnoc\nsrebmun\nstaeS",
+              "staes\ndeludehcS\nsebirT\nfo\nrebmun\ndeludehcS\nrof\ndevreser\nlaires\nro\nsetsaC tsniaga\nstaeS",
+              "staes\nnemow\nfo\nrebmun\nrof\ndevreser\nlaires\ntsniaga\nstaeS"
+            ],
+            [
+              null,
+              "fo\nrebmun\nsrebmem\nlatoT",
+              "setsaC\ndeludehS srebmem",
+              "srebirT\ndeludehcS\nsrebmem",
+              "srbmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "raganaraH",
+              "",
+              "",
+              "",
+              "",
+              "Haranagar / VIII\nMouza- Chandipur J.L. No. 30\na) Chandipur Haranagarpara b) Chandipur\nMadhyapara c) Chandipur Dakshinpara\nAssembly Part No 71/ 08",
+              "10\n11",
+              "-\n-",
+              "10 Women\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Haranagar / IX\nMouza- Ghuni J.L.No. 29\na) Ghuni\nAssembly Part No 71/ 09",
+              "12",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Haranagar / X\nMouza- Malumgachha J.L.No. 31\na) Malumgachha\nAssembly Part No 71/ 10",
+              "13",
+              "-",
+              "13 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Haranagar / XI\nMouza-Gobipur J.L. No. 41\na) Gobipur Purbapara b) Gobipur Madhyapara c)\nGobipur Paschimpara\nAssembly Part No 71/ 11.",
+              "14",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1177
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

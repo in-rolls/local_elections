@@ -1,0 +1,685 @@
+state,year,district,block,gram_panchayat,ward_no,tier,tier_local,reservation,caste_reservation,woman_reserved,winner,votes,unopposed,reservation_raw,script,source_pdf,source_path,source_page
+Goa,2017,North Goa,Bardez,Siolim­Sodiem,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,1
+Goa,2017,North Goa,Bardez,Siolim­Sodiem,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,1
+Goa,2017,North Goa,Bardez,Siolim­Sodiem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,1
+Goa,2017,North Goa,Bardez,Siolim­Marna,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,2
+Goa,2017,North Goa,Bardez,Siolim­Marna,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,2
+Goa,2017,North Goa,Bardez,Siolim­Marna,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,3
+Goa,2017,North Goa,Bardez,Camurlim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,4
+Goa,2017,North Goa,Bardez,Camurlim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,4
+Goa,2017,North Goa,Bardez,Camurlim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,4
+Goa,2017,North Goa,Bardez,Oxel,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,5
+Goa,2017,North Goa,Bardez,Colvale,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,6
+Goa,2017,North Goa,Bardez,Colvale,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,6
+Goa,2017,North Goa,Bardez,Colvale,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,6
+Goa,2017,North Goa,Bardez,Colvale,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,6
+Goa,2017,North Goa,Bardez,Assonora,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,7
+Goa,2017,North Goa,Bardez,Assonora,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,7
+Goa,2017,North Goa,Bardez,Assonora,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,7
+Goa,2017,North Goa,Bardez,Assonora,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,8
+Goa,2017,North Goa,Bardez,Revora,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,9
+Goa,2017,North Goa,Bardez,Revora,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,9
+Goa,2017,North Goa,Bardez,Revora,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,9
+Goa,2017,North Goa,Bardez,Revora,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,9
+Goa,2017,North Goa,Bardez,Pirna,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,10
+Goa,2017,North Goa,Bardez,Pirna,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,10
+Goa,2017,North Goa,Bardez,Pirna,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,10
+Goa,2017,North Goa,Bardez,Pirna,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,10
+Goa,2017,North Goa,Bardez,Nadora,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,11
+Goa,2017,North Goa,Bardez,Nadora,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,11
+Goa,2017,North Goa,Bardez,Nadora,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,11
+Goa,2017,North Goa,Bardez,Aldona,II,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,11
+Goa,2017,North Goa,Bardez,Aldona,III,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,11
+Goa,2017,North Goa,Bardez,Aldona,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,12
+Goa,2017,North Goa,Bardez,Aldona,X,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,13
+Goa,2017,North Goa,Bardez,Pomburpa­,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,13
+Goa,2017,North Goa,Bardez,Olaulim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,13
+Goa,2017,North Goa,Bardez,Pomburpa­,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,13
+Goa,2017,North Goa,Bardez,Pomburpa­,V,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,14
+Goa,2017,North Goa,Bardez,Bastora,I,gp_ward,ward,SC Other than Woman,SC,0,,,,SC,latin,bardez.pdf,data/goa/2017/bardez.pdf,14
+Goa,2017,North Goa,Bardez,Bastora,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,14
+Goa,2017,North Goa,Bardez,Bastora,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,14
+Goa,2017,North Goa,Bardez,Bastora,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,15
+Goa,2017,North Goa,Bardez,Ucassaim­,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,15
+Goa,2017,North Goa,Bardez,Ucassaim­,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,15
+Goa,2017,North Goa,Bardez,Ucassaim­,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,16
+Goa,2017,North Goa,Bardez,Sirsaim,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,16
+Goa,2017,North Goa,Bardez,Sirsaim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,16
+Goa,2017,North Goa,Bardez,Sirsaim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,17
+Goa,2017,North Goa,Bardez,Tivim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,17
+Goa,2017,North Goa,Bardez,Tivim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,18
+Goa,2017,North Goa,Bardez,Tivim,X,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,19
+Goa,2017,North Goa,Bardez,Moira,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,19
+Goa,2017,North Goa,Bardez,Moira,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,19
+Goa,2017,North Goa,Bardez,Moira,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,20
+Goa,2017,North Goa,Bardez,Nachinola,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,20
+Goa,2017,North Goa,Bardez,Nachinola,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,20
+Goa,2017,North Goa,Bardez,Nachinola,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,21
+Goa,2017,North Goa,Bardez,Nachinola,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,21
+Goa,2017,North Goa,Bardez,Anjuna­Caisua,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,21
+Goa,2017,North Goa,Bardez,Anjuna­Caisua,II,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,22
+Goa,2017,North Goa,Bardez,Anjuna­Caisua,III,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,22
+Goa,2017,North Goa,Bardez,Anjuna­Caisua,X,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,24
+Goa,2017,North Goa,Bardez,Verla­Canca,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,24
+Goa,2017,North Goa,Bardez,Verla­Canca,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,24
+Goa,2017,North Goa,Bardez,Verla­Canca,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,24
+Goa,2017,North Goa,Bardez,Verla­Canca,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,24
+Goa,2017,North Goa,Bardez,Verla­Canca,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,25
+Goa,2017,North Goa,Bardez,Assagao,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,25
+Goa,2017,North Goa,Bardez,Assagao,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,26
+Goa,2017,North Goa,Bardez,Assagao,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,26
+Goa,2017,North Goa,Bardez,Calangute,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,27
+Goa,2017,North Goa,Bardez,Calangute,II,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,27
+Goa,2017,North Goa,Bardez,Calangute,III,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,27
+Goa,2017,North Goa,Bardez,Calangute,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,28
+Goa,2017,North Goa,Bardez,Calangute,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,28
+Goa,2017,North Goa,Bardez,Candolim,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,29
+Goa,2017,North Goa,Bardez,Candolim,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,29
+Goa,2017,North Goa,Bardez,Candolim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,29
+Goa,2017,North Goa,Bardez,Candolim,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,29
+Goa,2017,North Goa,Bardez,Candolim,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,30
+Goa,2017,North Goa,Bardez,Arpora­Nagao,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,31
+Goa,2017,North Goa,Bardez,Arpora­Nagao,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,31
+Goa,2017,North Goa,Bardez,Arpora­Nagao,V,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,31
+Goa,2017,North Goa,Bardez,,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,33
+Goa,2017,North Goa,Bardez,Saligao,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,34
+Goa,2017,North Goa,Bardez,Saligao,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,34
+Goa,2017,North Goa,Bardez,Saligao,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,34
+Goa,2017,North Goa,Bardez,Saligao,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,34
+Goa,2017,North Goa,Bardez,Parra,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,35
+Goa,2017,North Goa,Bardez,Parra,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,35
+Goa,2017,North Goa,Bardez,,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,36
+Goa,2017,North Goa,Bardez,Guirim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,36
+Goa,2017,North Goa,Bardez,Guirim,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,36
+Goa,2017,North Goa,Bardez,Guirim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,36
+Goa,2017,North Goa,Bardez,Guirim,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,36
+Goa,2017,North Goa,Bardez,Reis­Magos,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,37
+Goa,2017,North Goa,Bardez,Reis­Magos,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,37
+Goa,2017,North Goa,Bardez,Reis­Magos,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,38
+Goa,2017,North Goa,Bardez,Reis­Magos,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,38
+Goa,2017,North Goa,Bardez,Reis­Magos,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,38
+Goa,2017,North Goa,Bardez,Pilerne­Marra,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,39
+Goa,2017,North Goa,Bardez,Pilerne­Marra,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,39
+Goa,2017,North Goa,Bardez,Pilerne­Marra,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,39
+Goa,2017,North Goa,Bardez,Pilerne­Marra,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,39
+Goa,2017,North Goa,Bardez,Nerul,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,40
+Goa,2017,North Goa,Bardez,Nerul,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,40
+Goa,2017,North Goa,Bardez,Nerul,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,41
+Goa,2017,North Goa,Bardez,Sangolda,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,42
+Goa,2017,North Goa,Bardez,Sangolda,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,42
+Goa,2017,North Goa,Bardez,Sangolda,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,42
+Goa,2017,North Goa,Bardez,Sangolda,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,42
+Goa,2017,North Goa,Bardez,Penha­de,II,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,43
+Goa,2017,North Goa,Bardez,Penha­de,III,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,43
+Goa,2017,North Goa,Bardez,Penha­de,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,44
+Goa,2017,North Goa,Bardez,Salvador­do­,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,44
+Goa,2017,North Goa,Bardez,Mundo,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bardez.pdf,data/goa/2017/bardez.pdf,44
+Goa,2017,North Goa,Bardez,Salvador­do­,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,44
+Goa,2017,North Goa,Bardez,Mundo,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bardez.pdf,data/goa/2017/bardez.pdf,45
+Goa,2017,North Goa,Bardez,Salvador­do­,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bardez.pdf,data/goa/2017/bardez.pdf,45
+Goa,2017,North Goa,Bicholim,Latambarcem,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,1
+Goa,2017,North Goa,Bicholim,Latambarcem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,1
+Goa,2017,North Goa,Bicholim,Latambarcem,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,2
+Goa,2017,North Goa,Bicholim,Latambarcem,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,2
+Goa,2017,North Goa,Bicholim,Latambarcem,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,2
+Goa,2017,North Goa,Bicholim,Latambarcem,VII,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,2
+Goa,2017,North Goa,Bicholim,Latambarcem,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,2
+Goa,2017,North Goa,Bicholim,Latambarcem,IX,gp_ward,ward,SC Other than Woman,SC,0,,,,SC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,2
+Goa,2017,North Goa,Bicholim,Mulgao,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,3
+Goa,2017,North Goa,Bicholim,Mulgao,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,3
+Goa,2017,North Goa,Bicholim,Mulgao,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,3
+Goa,2017,North Goa,Bicholim,Mulgao,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,3
+Goa,2017,North Goa,Bicholim,Mulgao,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,3
+Goa,2017,North Goa,Bicholim,Mulgao,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,3
+Goa,2017,North Goa,Bicholim,Mulgao,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,3
+Goa,2017,North Goa,Bicholim,Salem,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,3
+Goa,2017,North Goa,Bicholim,Salem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,4
+Goa,2017,North Goa,Bicholim,Salem,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,4
+Goa,2017,North Goa,Bicholim,Salem,V,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,4
+Goa,2017,North Goa,Bicholim,Salem,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,4
+Goa,2017,North Goa,Bicholim,Salem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,4
+Goa,2017,North Goa,Bicholim,Mencurem­,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,4
+Goa,2017,North Goa,Bicholim,Dhumasem,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,4
+Goa,2017,North Goa,Bicholim,Mencurem­,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,4
+Goa,2017,North Goa,Bicholim,Mencurem­,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,5
+Goa,2017,North Goa,Bicholim,Dhumasem,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,5
+Goa,2017,North Goa,Bicholim,Advalpal,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,5
+Goa,2017,North Goa,Bicholim,Advalpal,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,5
+Goa,2017,North Goa,Bicholim,Advalpal,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,5
+Goa,2017,North Goa,Bicholim,Advalpal,IV,gp_ward,ward,SC Other than Woman,SC,0,,,,SC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,5
+Goa,2017,North Goa,Bicholim,Advalpal,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,5
+Goa,2017,North Goa,Bicholim,Karapur­Sarvan,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,5
+Goa,2017,North Goa,Bicholim,Karapur­Sarvan,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,6
+Goa,2017,North Goa,Bicholim,Karapur­Sarvan,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,6
+Goa,2017,North Goa,Bicholim,Karapur­Sarvan,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,6
+Goa,2017,North Goa,Bicholim,Karapur­Sarvan,VI,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,6
+Goa,2017,North Goa,Bicholim,Karapur­Sarvan,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,7
+Goa,2017,North Goa,Bicholim,Karapur­Sarvan,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,7
+Goa,2017,North Goa,Bicholim,Karapur­Sarvan,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,7
+Goa,2017,North Goa,Bicholim,Karapur­Sarvan,X,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,7
+Goa,2017,North Goa,Bicholim,Karapur­Sarvan,XI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,7
+Goa,2017,North Goa,Bicholim,Ona­Maulinguem­,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,8
+Goa,2017,North Goa,Bicholim,Ona­Maulinguem­,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,8
+Goa,2017,North Goa,Bicholim,Ona­Maulinguem­,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,8
+Goa,2017,North Goa,Bicholim,Ona­Maulinguem­,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,8
+Goa,2017,North Goa,Bicholim,Ona­Maulinguem­,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,8
+Goa,2017,North Goa,Bicholim,Ona­Maulinguem­,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,9
+Goa,2017,North Goa,Bicholim,Cudnem,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,9
+Goa,2017,North Goa,Bicholim,Cudnem,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,9
+Goa,2017,North Goa,Bicholim,Cudnem,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,9
+Goa,2017,North Goa,Bicholim,Cudnem,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,9
+Goa,2017,North Goa,Bicholim,Cudnem,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,10
+Goa,2017,North Goa,Bicholim,Cudnem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,10
+Goa,2017,North Goa,Bicholim,Piligao,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,10
+Goa,2017,North Goa,Bicholim,Piligao,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,10
+Goa,2017,North Goa,Bicholim,Piligao,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,10
+Goa,2017,North Goa,Bicholim,Piligao,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,11
+Goa,2017,North Goa,Bicholim,Piligao,V,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,11
+Goa,2017,North Goa,Bicholim,Piligao,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,11
+Goa,2017,North Goa,Bicholim,Piligao,VII,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,11
+Goa,2017,North Goa,Bicholim,Maem­Vainguinim,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,11
+Goa,2017,North Goa,Bicholim,Maem­Vainguinim,III,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,12
+Goa,2017,North Goa,Bicholim,Maem­Vainguinim,IV,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,12
+Goa,2017,North Goa,Bicholim,Maem­Vainguinim,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,12
+Goa,2017,North Goa,Bicholim,Maem­Vainguinim,VII,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,12
+Goa,2017,North Goa,Bicholim,Maem­Vainguinim,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,13
+Goa,2017,North Goa,Bicholim,Maem­Vainguinim,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,13
+Goa,2017,North Goa,Bicholim,Maem­Vainguinim,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,13
+Goa,2017,North Goa,Bicholim,Maem­Vainguinim,XI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,13
+Goa,2017,North Goa,Bicholim,Sirigao,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,14
+Goa,2017,North Goa,Bicholim,Sirigao,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,14
+Goa,2017,North Goa,Bicholim,Sirigao,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,14
+Goa,2017,North Goa,Bicholim,Sirigao,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,14
+Goa,2017,North Goa,Bicholim,Sirigao,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,14
+Goa,2017,North Goa,Bicholim,Naroa,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,14
+Goa,2017,North Goa,Bicholim,Naroa,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,15
+Goa,2017,North Goa,Bicholim,Naroa,IV,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,15
+Goa,2017,North Goa,Bicholim,Naroa,V,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,15
+Goa,2017,North Goa,Bicholim,Pale­Kotambi,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,15
+Goa,2017,North Goa,Bicholim,Pale­Kotambi,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,15
+Goa,2017,North Goa,Bicholim,Pale­Kotambi,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,15
+Goa,2017,North Goa,Bicholim,Pale­Kotambi,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,15
+Goa,2017,North Goa,Bicholim,Pale­Kotambi,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,16
+Goa,2017,North Goa,Bicholim,Pale­Kotambi,VII,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,16
+Goa,2017,North Goa,Bicholim,Pale­Kotambi,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,16
+Goa,2017,North Goa,Bicholim,Pale­Kotambi,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,16
+Goa,2017,North Goa,Bicholim,Surla,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,16
+Goa,2017,North Goa,Bicholim,Surla,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,17
+Goa,2017,North Goa,Bicholim,Surla,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,17
+Goa,2017,North Goa,Bicholim,Surla,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,17
+Goa,2017,North Goa,Bicholim,Surla,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,17
+Goa,2017,North Goa,Bicholim,Surla,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,18
+Goa,2017,North Goa,Bicholim,Surla,VII,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,18
+Goa,2017,North Goa,Bicholim,Surla,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,18
+Goa,2017,North Goa,Bicholim,Surla,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,18
+Goa,2017,North Goa,Bicholim,Amona,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,18
+Goa,2017,North Goa,Bicholim,Amona,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,18
+Goa,2017,North Goa,Bicholim,Amona,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,19
+Goa,2017,North Goa,Bicholim,Amona,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,19
+Goa,2017,North Goa,Bicholim,Amona,V,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,19
+Goa,2017,North Goa,Bicholim,Amona,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,19
+Goa,2017,North Goa,Bicholim,Amona,VII,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,19
+Goa,2017,North Goa,Bicholim,Navelim,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,20
+Goa,2017,North Goa,Bicholim,Navelim,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,20
+Goa,2017,North Goa,Bicholim,Navelim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,20
+Goa,2017,North Goa,Bicholim,Navelim,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,20
+Goa,2017,North Goa,Bicholim,Navelim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,20
+Goa,2017,North Goa,Bicholim,Navelim,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,20
+Goa,2017,North Goa,Bicholim,Navelim,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,20
+Goa,2017,North Goa,Bicholim,Velguem,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,21
+Goa,2017,North Goa,Bicholim,Velguem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,21
+Goa,2017,North Goa,Bicholim,Velguem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,21
+Goa,2017,North Goa,Bicholim,Velguem,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,21
+Goa,2017,North Goa,Bicholim,Velguem,V,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,22
+Goa,2017,North Goa,Bicholim,Velguem,VI,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,22
+Goa,2017,North Goa,Bicholim,Velguem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,bicholim.pdf,data/goa/2017/bicholim.pdf,22
+Goa,2017,South Goa,Canacona,Cola,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,canacona.pdf,data/goa/2017/canacona.pdf,1
+Goa,2017,South Goa,Canacona,Cola,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,canacona.pdf,data/goa/2017/canacona.pdf,1
+Goa,2017,South Goa,Canacona,Cola,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,1
+Goa,2017,South Goa,Canacona,Cola,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,1
+Goa,2017,South Goa,Canacona,Cola,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,1
+Goa,2017,South Goa,Canacona,Cola,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,2
+Goa,2017,South Goa,Canacona,Cola,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,2
+Goa,2017,South Goa,Canacona,Cola,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,2
+Goa,2017,South Goa,Canacona,Cola,IX,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,2
+Goa,2017,South Goa,Canacona,Shrishthal,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,2
+Goa,2017,South Goa,Canacona,Shrishthal,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,2
+Goa,2017,South Goa,Canacona,Shrishthal,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,3
+Goa,2017,South Goa,Canacona,Shrishthal,V,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,3
+Goa,2017,South Goa,Canacona,Shrishthal,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,3
+Goa,2017,South Goa,Canacona,Shrishthal,VII,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,3
+Goa,2017,South Goa,Canacona,Agonda,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,3
+Goa,2017,South Goa,Canacona,Agonda,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,canacona.pdf,data/goa/2017/canacona.pdf,4
+Goa,2017,South Goa,Canacona,Agonda,III,gp_ward,ward,ST Woman,ST,1,,,,ST Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,4
+Goa,2017,South Goa,Canacona,Agonda,V,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,canacona.pdf,data/goa/2017/canacona.pdf,4
+Goa,2017,South Goa,Canacona,Agonda,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,4
+Goa,2017,South Goa,Canacona,Agonda,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,4
+Goa,2017,South Goa,Canacona,Poinguinim,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,4
+Goa,2017,South Goa,Canacona,Poinguinim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,4
+Goa,2017,South Goa,Canacona,Poinguinim,IV,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,5
+Goa,2017,South Goa,Canacona,Poinguinim,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,5
+Goa,2017,South Goa,Canacona,Poinguinim,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,5
+Goa,2017,South Goa,Canacona,Poinguinim,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,5
+Goa,2017,South Goa,Canacona,Loliem­Polem,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,6
+Goa,2017,South Goa,Canacona,Loliem­Polem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,6
+Goa,2017,South Goa,Canacona,Loliem­Polem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,6
+Goa,2017,South Goa,Canacona,Loliem­Polem,IV,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,canacona.pdf,data/goa/2017/canacona.pdf,6
+Goa,2017,South Goa,Canacona,Loliem­Polem,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,6
+Goa,2017,South Goa,Canacona,Loliem­Polem,VI,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,canacona.pdf,data/goa/2017/canacona.pdf,6
+Goa,2017,South Goa,Canacona,Loliem­Polem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,6
+Goa,2017,South Goa,Canacona,Loliem­Polem,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,7
+Goa,2017,South Goa,Canacona,Loliem­Polem,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,7
+Goa,2017,South Goa,Canacona,Gaondongrem,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,7
+Goa,2017,South Goa,Canacona,Gaondongrem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,7
+Goa,2017,South Goa,Canacona,Gaondongrem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,7
+Goa,2017,South Goa,Canacona,Gaondongrem,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,7
+Goa,2017,South Goa,Canacona,Gaondongrem,VII,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,8
+Goa,2017,South Goa,Canacona,Gaondongrem,VIII,gp_ward,ward,ST Woman,ST,1,,,,ST Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,8
+Goa,2017,South Goa,Canacona,Gaondongrem,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,8
+Goa,2017,South Goa,Canacona,Cotigao,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,8
+Goa,2017,South Goa,Canacona,Cotigao,II,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,8
+Goa,2017,South Goa,Canacona,Cotigao,III,gp_ward,ward,ST Woman,ST,1,,,,ST Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,8
+Goa,2017,South Goa,Canacona,Cotigao,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,canacona.pdf,data/goa/2017/canacona.pdf,8
+Goa,2017,South Goa,Canacona,Cotigao,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,canacona.pdf,data/goa/2017/canacona.pdf,9
+Goa,2017,South Goa,Canacona,Cotigao,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,9
+Goa,2017,South Goa,Canacona,Cotigao,VII,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,canacona.pdf,data/goa/2017/canacona.pdf,9
+Goa,2017,South Goa,Mormugao,Sancoale,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,1
+Goa,2017,South Goa,Mormugao,Sancoale,III,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,1
+Goa,2017,South Goa,Mormugao,Sancoale,IV,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,1
+Goa,2017,South Goa,Mormugao,Sancoale,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,2
+Goa,2017,South Goa,Mormugao,Sancoale,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,2
+Goa,2017,South Goa,Mormugao,Sancoale,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,2
+Goa,2017,South Goa,Mormugao,Sancoale,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,3
+Goa,2017,South Goa,Mormugao,Sancoale,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,3
+Goa,2017,South Goa,Mormugao,Sancoale,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,3
+Goa,2017,South Goa,Mormugao,Sancoale,XI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,4
+Goa,2017,South Goa,Mormugao,Chicalim,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,4
+Goa,2017,South Goa,Mormugao,Chicalim,III,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,4
+Goa,2017,South Goa,Mormugao,Chicalim,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,5
+Goa,2017,South Goa,Mormugao,Chicalim,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,5
+Goa,2017,South Goa,Mormugao,Chicalim,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,5
+Goa,2017,South Goa,Mormugao,Chicalim,VII,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,5
+Goa,2017,South Goa,Mormugao,Chicalim,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,5
+Goa,2017,South Goa,Mormugao,Chicalim,IX,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,5
+Goa,2017,South Goa,Mormugao,Chicalim,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,5
+Goa,2017,South Goa,Mormugao,Chicalim,XI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,5
+Goa,2017,South Goa,Mormugao,Cortalim,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,6
+Goa,2017,South Goa,Mormugao,Cortalim,II,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,6
+Goa,2017,South Goa,Mormugao,Cortalim,III,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,6
+Goa,2017,South Goa,Mormugao,Cortalim,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,6
+Goa,2017,South Goa,Mormugao,Cortalim,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,6
+Goa,2017,South Goa,Mormugao,Cortalim,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,6
+Goa,2017,South Goa,Mormugao,Cortalim,VII,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,7
+Goa,2017,South Goa,Mormugao,Cortalim,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,7
+Goa,2017,South Goa,Mormugao,Cortalim,IX,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,7
+Goa,2017,South Goa,Mormugao,Cortalim,X,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,7
+Goa,2017,South Goa,Mormugao,Cortalim,XI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,7
+Goa,2017,South Goa,Mormugao,Arossim­,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,7
+Goa,2017,South Goa,Mormugao,Arossim­,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,7
+Goa,2017,South Goa,Mormugao,Arossim­,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,8
+Goa,2017,South Goa,Mormugao,Arossim­,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,8
+Goa,2017,South Goa,Mormugao,Arossim­,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,8
+Goa,2017,South Goa,Mormugao,Arossim­,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,8
+Goa,2017,South Goa,Mormugao,Arossim­,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,8
+Goa,2017,South Goa,Mormugao,Arossim­,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,8
+Goa,2017,South Goa,Mormugao,Issorcim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,9
+Goa,2017,South Goa,Mormugao,Issorcim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,9
+Goa,2017,South Goa,Mormugao,Issorcim,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,9
+Goa,2017,South Goa,Mormugao,Issorcim,V,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,9
+Goa,2017,South Goa,Mormugao,Velsao­Pale­,VI,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,9
+Goa,2017,South Goa,Mormugao,Velsao­Pale­,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,9
+Goa,2017,South Goa,Mormugao,Chicolna­,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,10
+Goa,2017,South Goa,Mormugao,Chicolna­,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,10
+Goa,2017,South Goa,Mormugao,Chicolna­,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,10
+Goa,2017,South Goa,Mormugao,Chicolna­,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,10
+Goa,2017,South Goa,Mormugao,Chicolna­,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,10
+Goa,2017,South Goa,Mormugao,Chicolna­,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,10
+Goa,2017,South Goa,Mormugao,Chicolna­,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,10
+Goa,2017,South Goa,Mormugao,Quelossim,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,10
+Goa,2017,South Goa,Mormugao,Quelossim,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,11
+Goa,2017,South Goa,Mormugao,Quelossim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,11
+Goa,2017,South Goa,Mormugao,Quelossim,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,11
+Goa,2017,South Goa,Mormugao,Quelossim,VII,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,mormugao.pdf,data/goa/2017/mormugao.pdf,11
+Goa,2017,North Goa,Pernem,Dhargalim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,pernem.pdf,data/goa/2017/pernem.pdf,13
+Goa,2017,North Goa,Pernem,Tuem,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,pernem.pdf,data/goa/2017/pernem.pdf,15
+Goa,2017,North Goa,Pernem,Tuem,VII,gp_ward,ward,SC Other than Woman,SC,0,,,,SC,latin,pernem.pdf,data/goa/2017/pernem.pdf,15
+Goa,2017,North Goa,Pernem,Casne­Amberem­,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,pernem.pdf,data/goa/2017/pernem.pdf,17
+Goa,2017,North Goa,Pernem,Tamboxem­Mopa­,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,pernem.pdf,data/goa/2017/pernem.pdf,18
+Goa,2017,North Goa,Pernem,Torxem,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,pernem.pdf,data/goa/2017/pernem.pdf,19
+Goa,2017,North Goa,Pernem,Ibrampur­Hankhane,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,pernem.pdf,data/goa/2017/pernem.pdf,20
+Goa,2017,North Goa,Pernem,Ibrampur­Hankhane,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,pernem.pdf,data/goa/2017/pernem.pdf,20
+Goa,2017,North Goa,Pernem,Ozarim,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,pernem.pdf,data/goa/2017/pernem.pdf,20
+Goa,2017,North Goa,Pernem,Ozarim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,pernem.pdf,data/goa/2017/pernem.pdf,20
+Goa,2017,North Goa,Pernem,Varkhand­Nagzar,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,pernem.pdf,data/goa/2017/pernem.pdf,21
+Goa,2017,North Goa,Pernem,Varkhand­Nagzar,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,pernem.pdf,data/goa/2017/pernem.pdf,21
+Goa,2017,South Goa,Quepem,Balli­Adnem,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,1
+Goa,2017,South Goa,Quepem,Balli­Adnem,II,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,1
+Goa,2017,South Goa,Quepem,Balli­Adnem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,1
+Goa,2017,South Goa,Quepem,Balli­Adnem,IV,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,quepem.pdf,data/goa/2017/quepem.pdf,1
+Goa,2017,South Goa,Quepem,Balli­Adnem,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,1
+Goa,2017,South Goa,Quepem,Balli­Adnem,VI,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,quepem.pdf,data/goa/2017/quepem.pdf,2
+Goa,2017,South Goa,Quepem,Balli­Adnem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,2
+Goa,2017,South Goa,Quepem,Balli­Adnem,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,2
+Goa,2017,South Goa,Quepem,Balli­Adnem,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,2
+Goa,2017,South Goa,Quepem,Ambaulim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,2
+Goa,2017,South Goa,Quepem,Ambaulim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,2
+Goa,2017,South Goa,Quepem,Ambaulim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,3
+Goa,2017,South Goa,Quepem,Ambaulim,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,3
+Goa,2017,South Goa,Quepem,Ambaulim,VII,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,3
+Goa,2017,South Goa,Quepem,Xeldem,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,quepem.pdf,data/goa/2017/quepem.pdf,3
+Goa,2017,South Goa,Quepem,Xeldem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,3
+Goa,2017,South Goa,Quepem,Xeldem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,3
+Goa,2017,South Goa,Quepem,Xeldem,IV,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,quepem.pdf,data/goa/2017/quepem.pdf,4
+Goa,2017,South Goa,Quepem,Xeldem,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,4
+Goa,2017,South Goa,Quepem,Xeldem,VI,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,quepem.pdf,data/goa/2017/quepem.pdf,4
+Goa,2017,South Goa,Quepem,Xeldem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,4
+Goa,2017,South Goa,Quepem,Xeldem,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,4
+Goa,2017,South Goa,Quepem,Xeldem,IX,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,4
+Goa,2017,South Goa,Quepem,Assolda,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,4
+Goa,2017,South Goa,Quepem,Assolda,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,5
+Goa,2017,South Goa,Quepem,Assolda,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,5
+Goa,2017,South Goa,Quepem,Assolda,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,5
+Goa,2017,South Goa,Quepem,Assolda,VI,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,quepem.pdf,data/goa/2017/quepem.pdf,5
+Goa,2017,South Goa,Quepem,Assolda,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,5
+Goa,2017,South Goa,Quepem,Chaifi,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,5
+Goa,2017,South Goa,Quepem,Avedem­Cotombi­,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,6
+Goa,2017,South Goa,Quepem,Avedem­Cotombi­,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,6
+Goa,2017,South Goa,Quepem,Avedem­Cotombi­,V,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,6
+Goa,2017,South Goa,Quepem,Avedem­Cotombi­,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,6
+Goa,2017,South Goa,Quepem,Avedem­Cotombi­,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,6
+Goa,2017,South Goa,Quepem,Barcem­Quedem,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,6
+Goa,2017,South Goa,Quepem,Barcem­Quedem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,6
+Goa,2017,South Goa,Quepem,Barcem­Quedem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,7
+Goa,2017,South Goa,Quepem,Barcem­Quedem,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,7
+Goa,2017,South Goa,Quepem,Barcem­Quedem,V,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,7
+Goa,2017,South Goa,Quepem,Barcem­Quedem,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,7
+Goa,2017,South Goa,Quepem,Barcem­Quedem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,7
+Goa,2017,South Goa,Quepem,Caurem­Pirla,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,7
+Goa,2017,South Goa,Quepem,Caurem­Pirla,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,7
+Goa,2017,South Goa,Quepem,Caurem­Pirla,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,7
+Goa,2017,South Goa,Quepem,Caurem­Pirla,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,7
+Goa,2017,South Goa,Quepem,Caurem­Pirla,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,8
+Goa,2017,South Goa,Quepem,Caurem­Pirla,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,8
+Goa,2017,South Goa,Quepem,Caurem­Pirla,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,8
+Goa,2017,South Goa,Quepem,Molcornem,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,quepem.pdf,data/goa/2017/quepem.pdf,8
+Goa,2017,South Goa,Quepem,Molcornem,II,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,8
+Goa,2017,South Goa,Quepem,Molcornem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,8
+Goa,2017,South Goa,Quepem,Molcornem,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,9
+Goa,2017,South Goa,Quepem,Molcornem,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,9
+Goa,2017,South Goa,Quepem,Molcornem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,9
+Goa,2017,South Goa,Quepem,Morpila,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,9
+Goa,2017,South Goa,Quepem,Morpila,II,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,9
+Goa,2017,South Goa,Quepem,Morpila,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,10
+Goa,2017,South Goa,Quepem,Morpila,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,10
+Goa,2017,South Goa,Quepem,Morpila,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,10
+Goa,2017,South Goa,Quepem,Fatorpa­Quitol,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,10
+Goa,2017,South Goa,Quepem,Fatorpa­Quitol,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,quepem.pdf,data/goa/2017/quepem.pdf,10
+Goa,2017,South Goa,Quepem,Fatorpa­Quitol,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,10
+Goa,2017,South Goa,Quepem,Fatorpa­Quitol,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,10
+Goa,2017,South Goa,Quepem,Fatorpa­Quitol,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,11
+Goa,2017,South Goa,Quepem,Fatorpa­Quitol,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,11
+Goa,2017,South Goa,Quepem,Fatorpa­Quitol,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,11
+Goa,2017,South Goa,Quepem,Naqueira Betul,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,11
+Goa,2017,South Goa,Quepem,Naqueira Betul,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,11
+Goa,2017,South Goa,Quepem,Naqueira Betul,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,quepem.pdf,data/goa/2017/quepem.pdf,11
+Goa,2017,South Goa,Quepem,Naqueira Betul,V,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,quepem.pdf,data/goa/2017/quepem.pdf,11
+Goa,2017,South Goa,Quepem,Naqueira Betul,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,quepem.pdf,data/goa/2017/quepem.pdf,11
+Goa,2017,South Goa,Quepem,Naqueira Betul,VII,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,quepem.pdf,data/goa/2017/quepem.pdf,12
+Goa,2017,South Goa,Salcete,Raia,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,1
+Goa,2017,South Goa,Salcete,Raia,II,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,salcete.pdf,data/goa/2017/salcete.pdf,1
+Goa,2017,South Goa,Salcete,Raia,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,1
+Goa,2017,South Goa,Salcete,Raia,X,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,salcete.pdf,data/goa/2017/salcete.pdf,2
+Goa,2017,South Goa,Salcete,Rachol,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,2
+Goa,2017,South Goa,Salcete,Rachol,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,3
+Goa,2017,South Goa,Salcete,Loutolim,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,salcete.pdf,data/goa/2017/salcete.pdf,3
+Goa,2017,South Goa,Salcete,Loutolim,II,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,salcete.pdf,data/goa/2017/salcete.pdf,3
+Goa,2017,South Goa,Salcete,Loutolim,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,3
+Goa,2017,South Goa,Salcete,Loutolim,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,3
+Goa,2017,South Goa,Salcete,Camurlim,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,salcete.pdf,data/goa/2017/salcete.pdf,4
+Goa,2017,South Goa,Salcete,Camurlim,II,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,salcete.pdf,data/goa/2017/salcete.pdf,4
+Goa,2017,South Goa,Salcete,Camurlim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,4
+Goa,2017,South Goa,Salcete,Camurlim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,4
+Goa,2017,South Goa,Salcete,Nuvem,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,5
+Goa,2017,South Goa,Salcete,Nuvem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,5
+Goa,2017,South Goa,Salcete,Nuvem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,5
+Goa,2017,South Goa,Salcete,Nuvem,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,6
+Goa,2017,South Goa,Salcete,Verna,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,6
+Goa,2017,South Goa,Salcete,Verna,II,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,salcete.pdf,data/goa/2017/salcete.pdf,6
+Goa,2017,South Goa,Salcete,Verna,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,7
+Goa,2017,South Goa,Salcete,Verna,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,7
+Goa,2017,South Goa,Salcete,Verna,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,7
+Goa,2017,South Goa,Salcete,Nagoa,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,7
+Goa,2017,South Goa,Salcete,Nagoa,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,salcete.pdf,data/goa/2017/salcete.pdf,7
+Goa,2017,South Goa,Salcete,Nagoa,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,8
+Goa,2017,South Goa,Salcete,Colva,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,8
+Goa,2017,South Goa,Salcete,Colva,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,8
+Goa,2017,South Goa,Salcete,Colva,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,8
+Goa,2017,South Goa,Salcete,Utorda­Calata,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,9
+Goa,2017,South Goa,Salcete,Majorda­,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,10
+Goa,2017,South Goa,Salcete,Majorda­,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,10
+Goa,2017,South Goa,Salcete,Majorda­,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,10
+Goa,2017,South Goa,Salcete,Utorda­Calata,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,11
+Goa,2017,South Goa,Salcete,Betalbatim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,11
+Goa,2017,South Goa,Salcete,Betalbatim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,11
+Goa,2017,South Goa,Salcete,Betalbatim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,11
+Goa,2017,South Goa,Salcete,Betalbatim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,11
+Goa,2017,South Goa,Salcete,Seraulim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,11
+Goa,2017,South Goa,Salcete,Seraulim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,12
+Goa,2017,South Goa,Salcete,Seraulim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,12
+Goa,2017,South Goa,Salcete,Seraulim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,12
+Goa,2017,South Goa,Salcete,Velim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,13
+Goa,2017,South Goa,Salcete,Velim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,13
+Goa,2017,South Goa,Salcete,Velim,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,13
+Goa,2017,South Goa,Salcete,Chinchinim­,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,14
+Goa,2017,South Goa,Salcete,Ambelim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,15
+Goa,2017,South Goa,Salcete,Ambelim,II,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,salcete.pdf,data/goa/2017/salcete.pdf,15
+Goa,2017,South Goa,Salcete,Ambelim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,15
+Goa,2017,South Goa,Salcete,Ambelim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,15
+Goa,2017,South Goa,Salcete,Ambelim,VII,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,salcete.pdf,data/goa/2017/salcete.pdf,15
+Goa,2017,South Goa,Salcete,Assolna,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,15
+Goa,2017,South Goa,Salcete,Assolna,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,16
+Goa,2017,South Goa,Salcete,Assolna,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,16
+Goa,2017,South Goa,Salcete,Assolna,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,16
+Goa,2017,South Goa,Salcete,Cana­,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,16
+Goa,2017,South Goa,Salcete,Benaulim,II,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,17
+Goa,2017,South Goa,Salcete,Cana­,III,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,17
+Goa,2017,South Goa,Salcete,Benaulim,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,17
+Goa,2017,South Goa,Salcete,Cana­,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,18
+Goa,2017,South Goa,Salcete,Varca,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,18
+Goa,2017,South Goa,Salcete,Cavelossin,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,salcete.pdf,data/goa/2017/salcete.pdf,21
+Goa,2017,South Goa,Salcete,Orlim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,22
+Goa,2017,South Goa,Salcete,Rumdamol­,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,22
+Goa,2017,South Goa,Salcete,Aquem­Baixo,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,26
+Goa,2017,South Goa,Salcete,Guirdolim,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,salcete.pdf,data/goa/2017/salcete.pdf,27
+Goa,2017,South Goa,Salcete,Guirdolim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,27
+Goa,2017,South Goa,Salcete,Guirdolim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,27
+Goa,2017,South Goa,Salcete,Guirdolim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,28
+Goa,2017,South Goa,Salcete,Paroda,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,28
+Goa,2017,South Goa,Salcete,Paroda,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,28
+Goa,2017,South Goa,Salcete,Paroda,VII,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,salcete.pdf,data/goa/2017/salcete.pdf,29
+Goa,2017,South Goa,Salcete,Cavorim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,29
+Goa,2017,South Goa,Salcete,Cavorim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,29
+Goa,2017,South Goa,Salcete,Chandor­,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,29
+Goa,2017,South Goa,Salcete,Chandor­,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,29
+Goa,2017,South Goa,Salcete,Curtorim,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,29
+Goa,2017,South Goa,Salcete,Curtorim,II,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,29
+Goa,2017,South Goa,Salcete,Curtorim,III,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,salcete.pdf,data/goa/2017/salcete.pdf,30
+Goa,2017,South Goa,Salcete,Curtorim,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,30
+Goa,2017,South Goa,Salcete,Curtorim,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,31
+Goa,2017,South Goa,Salcete,Sao Jose de,II,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,salcete.pdf,data/goa/2017/salcete.pdf,31
+Goa,2017,South Goa,Salcete,Sao Jose de,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,31
+Goa,2017,South Goa,Salcete,Areal,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,31
+Goa,2017,South Goa,Salcete,Areal,VII,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,salcete.pdf,data/goa/2017/salcete.pdf,32
+Goa,2017,South Goa,Salcete,Sao Jose de,X,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,salcete.pdf,data/goa/2017/salcete.pdf,32
+Goa,2017,South Goa,Salcete,Macasana,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,32
+Goa,2017,South Goa,Salcete,Macasana,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,32
+Goa,2017,South Goa,Salcete,Macasana,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,33
+Goa,2017,South Goa,Salcete,Macasana,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,33
+Goa,2017,South Goa,Salcete,Navelim,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,33
+Goa,2017,South Goa,Salcete,Telaulim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,35
+Goa,2017,South Goa,Salcete,Telaulim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,35
+Goa,2017,South Goa,Salcete,Dramapur­,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,35
+Goa,2017,South Goa,Salcete,Sarzora,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,salcete.pdf,data/goa/2017/salcete.pdf,36
+Goa,2017,South Goa,Salcete,Sarzora,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,36
+Goa,2017,South Goa,Salcete,Sarzora,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,salcete.pdf,data/goa/2017/salcete.pdf,36
+Goa,2017,South Goa,Salcete,Sarzora,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,salcete.pdf,data/goa/2017/salcete.pdf,37
+Goa,2017,South Goa,Sanguem,Sanvordem,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,1
+Goa,2017,South Goa,Sanguem,Sanvordem,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,1
+Goa,2017,South Goa,Sanguem,Sanvordem,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,1
+Goa,2017,South Goa,Sanguem,Sanvordem,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,2
+Goa,2017,South Goa,Sanguem,Sanvordem,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,2
+Goa,2017,South Goa,Sanguem,Sanvordem,VII,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,2
+Goa,2017,South Goa,Sanguem,Sanvordem,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,2
+Goa,2017,South Goa,Sanguem,Calem,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,2
+Goa,2017,South Goa,Sanguem,Calem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,3
+Goa,2017,South Goa,Sanguem,Calem,IV,gp_ward,ward,ST Woman,ST,1,,,,ST Women,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,3
+Goa,2017,South Goa,Sanguem,Calem,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,3
+Goa,2017,South Goa,Sanguem,Calem,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,3
+Goa,2017,South Goa,Sanguem,Calem,VII,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,3
+Goa,2017,South Goa,Sanguem,Rivona,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,4
+Goa,2017,South Goa,Sanguem,Rivona,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,4
+Goa,2017,South Goa,Sanguem,Rivona,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,4
+Goa,2017,South Goa,Sanguem,Rivona,IV,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,4
+Goa,2017,South Goa,Sanguem,Rivona,VI,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,4
+Goa,2017,South Goa,Sanguem,Rivona,VII,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,4
+Goa,2017,South Goa,Sanguem,Rivona,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,5
+Goa,2017,South Goa,Sanguem,Rivona,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,5
+Goa,2017,South Goa,Sanguem,Uguem,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,5
+Goa,2017,South Goa,Sanguem,Uguem,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,5
+Goa,2017,South Goa,Sanguem,Uguem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,5
+Goa,2017,South Goa,Sanguem,Uguem,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,5
+Goa,2017,South Goa,Sanguem,Uguem,VI,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,6
+Goa,2017,South Goa,Sanguem,Uguem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,6
+Goa,2017,South Goa,Sanguem,Netorlim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,6
+Goa,2017,South Goa,Sanguem,Netorlim,II,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,6
+Goa,2017,South Goa,Sanguem,Netorlim,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,6
+Goa,2017,South Goa,Sanguem,Netorlim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,6
+Goa,2017,South Goa,Sanguem,Netorlim,VI,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,6
+Goa,2017,South Goa,Sanguem,Netorlim,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,7
+Goa,2017,South Goa,Sanguem,Curdi­Vaddem,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,7
+Goa,2017,South Goa,Sanguem,Curdi­Vaddem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,7
+Goa,2017,South Goa,Sanguem,Curdi­Vaddem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,7
+Goa,2017,South Goa,Sanguem,Curdi­Vaddem,IV,gp_ward,ward,ST Woman,ST,1,,,,ST Women,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,7
+Goa,2017,South Goa,Sanguem,Curdi­Vaddem,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,7
+Goa,2017,South Goa,Sanguem,Curdi­Vaddem,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,8
+Goa,2017,South Goa,Sanguem,Curdi­Vaddem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,8
+Goa,2017,South Goa,Sanguem,Bhati,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,8
+Goa,2017,South Goa,Sanguem,Bhati,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,8
+Goa,2017,South Goa,Sanguem,Bhati,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,8
+Goa,2017,South Goa,Sanguem,Bhati,IV,gp_ward,ward,ST Woman,ST,1,,,,ST Women,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,8
+Goa,2017,South Goa,Sanguem,Bhati,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,8
+Goa,2017,South Goa,Sanguem,Bhati,VI,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,8
+Goa,2017,South Goa,Sanguem,Bhati,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sanguem.pdf,data/goa/2017/sanguem.pdf,9
+Goa,2017,North Goa,Sattari,Honda,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,1
+Goa,2017,North Goa,Sattari,Honda,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,1
+Goa,2017,North Goa,Sattari,Honda,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,1
+Goa,2017,North Goa,Sattari,Honda,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,1
+Goa,2017,North Goa,Sattari,Honda,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,2
+Goa,2017,North Goa,Sattari,Honda,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,2
+Goa,2017,North Goa,Sattari,Honda,IX,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sattari.pdf,data/goa/2017/sattari.pdf,2
+Goa,2017,North Goa,Sattari,Honda,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,2
+Goa,2017,North Goa,Sattari,Poriem,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,3
+Goa,2017,North Goa,Sattari,Poriem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,3
+Goa,2017,North Goa,Sattari,Poriem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,3
+Goa,2017,North Goa,Sattari,Poriem,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,3
+Goa,2017,North Goa,Sattari,Poriem,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,3
+Goa,2017,North Goa,Sattari,Poriem,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,3
+Goa,2017,North Goa,Sattari,Poriem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,4
+Goa,2017,North Goa,Sattari,Poriem,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,4
+Goa,2017,North Goa,Sattari,Pissurlem,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,sattari.pdf,data/goa/2017/sattari.pdf,4
+Goa,2017,North Goa,Sattari,Pissurlem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,4
+Goa,2017,North Goa,Sattari,Pissurlem,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,4
+Goa,2017,North Goa,Sattari,Pissurlem,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,4
+Goa,2017,North Goa,Sattari,Pissurlem,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,5
+Goa,2017,North Goa,Sattari,Pissurlem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,5
+Goa,2017,North Goa,Sattari,Querim,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,5
+Goa,2017,North Goa,Sattari,Querim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,5
+Goa,2017,North Goa,Sattari,Querim,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,5
+Goa,2017,North Goa,Sattari,Querim,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,5
+Goa,2017,North Goa,Sattari,Querim,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,6
+Goa,2017,North Goa,Sattari,Querim,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,6
+Goa,2017,North Goa,Sattari,Querim,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,6
+Goa,2017,North Goa,Sattari,Querim,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,6
+Goa,2017,North Goa,Sattari,Thane,I,gp_ward,ward,SC Other than Woman,SC,0,,,,SC,latin,sattari.pdf,data/goa/2017/sattari.pdf,6
+Goa,2017,North Goa,Sattari,Thane,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,6
+Goa,2017,North Goa,Sattari,Dongurli­,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,6
+Goa,2017,North Goa,Sattari,Thane,IV,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,7
+Goa,2017,North Goa,Sattari,Dongurli­,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,7
+Goa,2017,North Goa,Sattari,Dongurli­,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,7
+Goa,2017,North Goa,Sattari,Dongurli­,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,7
+Goa,2017,North Goa,Sattari,Dongurli­,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,7
+Goa,2017,North Goa,Sattari,Dongurli­,IX,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,7
+Goa,2017,North Goa,Sattari,Mauxi,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,7
+Goa,2017,North Goa,Sattari,Mauxi,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sattari.pdf,data/goa/2017/sattari.pdf,8
+Goa,2017,North Goa,Sattari,Mauxi,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,8
+Goa,2017,North Goa,Sattari,Mauxi,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,8
+Goa,2017,North Goa,Sattari,Mauxi,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,8
+Goa,2017,North Goa,Sattari,Mauxi,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,8
+Goa,2017,North Goa,Sattari,Mauxi,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,8
+Goa,2017,North Goa,Sattari,Morlem,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sattari.pdf,data/goa/2017/sattari.pdf,8
+Goa,2017,North Goa,Sattari,Morlem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,9
+Goa,2017,North Goa,Sattari,Morlem,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,9
+Goa,2017,North Goa,Sattari,Morlem,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,9
+Goa,2017,North Goa,Sattari,Morlem,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,9
+Goa,2017,North Goa,Sattari,Morlem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,9
+Goa,2017,North Goa,Sattari,Nagargao,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,9
+Goa,2017,North Goa,Sattari,Nagargao,II,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sattari.pdf,data/goa/2017/sattari.pdf,9
+Goa,2017,North Goa,Sattari,Nagargao,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,9
+Goa,2017,North Goa,Sattari,Nagargao,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,10
+Goa,2017,North Goa,Sattari,Nagargao,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,10
+Goa,2017,North Goa,Sattari,Nagargao,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,10
+Goa,2017,North Goa,Sattari,Nagargao,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,10
+Goa,2017,North Goa,Sattari,Cotorem,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,10
+Goa,2017,North Goa,Sattari,Cotorem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,10
+Goa,2017,North Goa,Sattari,Cotorem,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,11
+Goa,2017,North Goa,Sattari,Cotorem,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,11
+Goa,2017,North Goa,Sattari,Cotorem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,11
+Goa,2017,North Goa,Sattari,Bhironda,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,11
+Goa,2017,North Goa,Sattari,Bhironda,II,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,sattari.pdf,data/goa/2017/sattari.pdf,11
+Goa,2017,North Goa,Sattari,Bhironda,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,12
+Goa,2017,North Goa,Sattari,Bhironda,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,12
+Goa,2017,North Goa,Sattari,Bhironda,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,12
+Goa,2017,North Goa,Sattari,Sanvordem,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,12
+Goa,2017,North Goa,Sattari,Sanvordem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,12
+Goa,2017,North Goa,Sattari,Sanvordem,IV,gp_ward,ward,Woman,NONE,1,,,,Women,latin,sattari.pdf,data/goa/2017/sattari.pdf,12
+Goa,2017,North Goa,Sattari,Sanvordem,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,13
+Goa,2017,North Goa,Sattari,Sanvordem,VI,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,13
+Goa,2017,North Goa,Sattari,Sanvordem,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,13
+Goa,2017,North Goa,Sattari,Guleli,I,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,sattari.pdf,data/goa/2017/sattari.pdf,13
+Goa,2017,North Goa,Sattari,Guleli,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,13
+Goa,2017,North Goa,Sattari,Guleli,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,14
+Goa,2017,North Goa,Sattari,Guleli,VI,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,sattari.pdf,data/goa/2017/sattari.pdf,14
+Goa,2017,North Goa,Sattari,Guleli,VII,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,sattari.pdf,data/goa/2017/sattari.pdf,14
+Goa,2017,North Goa,Tiswadi,St.Cruz,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,1
+Goa,2017,North Goa,Tiswadi,St.Cruz,II,gp_ward,ward,Woman,NONE,1,,,,Women,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,1
+Goa,2017,North Goa,Tiswadi,St.Cruz,III,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,1
+Goa,2017,North Goa,Tiswadi,St.Cruz,V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,2
+Goa,2017,North Goa,Tiswadi,St.Cruz,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,4
+Goa,2017,North Goa,Tiswadi,Curca­Bambolim­,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,4
+Goa,2017,North Goa,Tiswadi,Curca­Bambolim­,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,4
+Goa,2017,North Goa,Tiswadi,Talaulim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,5
+Goa,2017,North Goa,Tiswadi,Curca­Bambolim­,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,6
+Goa,2017,North Goa,Tiswadi,Siridao­Palem,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,7
+Goa,2017,North Goa,Tiswadi,Siridao­Palem,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,7
+Goa,2017,North Goa,Tiswadi,Siridao­Palem,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,8
+Goa,2017,North Goa,Tiswadi,Batim,I,gp_ward,ward,BC Other than Woman,BC,0,,,,OBC,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,8
+Goa,2017,North Goa,Tiswadi,Batim,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,9
+Goa,2017,North Goa,Tiswadi,Batim,III,gp_ward,ward,Woman,NONE,1,,,,Women,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,9
+Goa,2017,North Goa,Tiswadi,Batim,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,9
+Goa,2017,North Goa,Tiswadi,Chimbel,I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,10
+Goa,2017,North Goa,Tiswadi,Chimbel,II,gp_ward,ward,Woman,NONE,1,,,,Women,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,10
+Goa,2017,North Goa,Tiswadi,Chimbel,III,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,11
+Goa,2017,North Goa,Tiswadi,Chimbel,X,gp_ward,ward,ST Other than Woman,ST,0,,,,ST,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,14
+Goa,2017,North Goa,Tiswadi,Merces,II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,15
+Goa,2017,North Goa,Tiswadi,Merces,X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,17
+Goa,2017,North Goa,Tiswadi,St.Lawrence(Agassaim),I,gp_ward,ward,Woman,NONE,1,,,,Women,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,30
+Goa,2017,North Goa,Tiswadi,St.Lawrence(Agassaim),III,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,31
+Goa,2017,North Goa,Tiswadi,St.Lawrence(Agassaim),V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,31
+Goa,2017,North Goa,Tiswadi,St.Lawrence(Agassaim),X,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,32
+Goa,2017,North Goa,Tiswadi,St.Andre (Goa Velha),I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,35
+Goa,2017,North Goa,Tiswadi,St.Andre (Goa Velha),II,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,35
+Goa,2017,North Goa,Tiswadi,St.Andre (Goa Velha),V,gp_ward,ward,Woman,NONE,1,,,,Women,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,36
+Goa,2017,North Goa,Tiswadi,Neura,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,38
+Goa,2017,North Goa,Tiswadi,Neura,V,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,39
+Goa,2017,North Goa,Tiswadi,,I,gp_ward,ward,Other than Woman,NONE,0,,,,General,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,40
+Goa,2017,North Goa,Tiswadi,,VIII,gp_ward,ward,Woman,NONE,1,,,,Women,latin,tiswadi.pdf,data/goa/2017/tiswadi.pdf,42

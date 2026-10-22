@@ -1,0 +1,59 @@
+1 2 3
+Kamuthi Panchayat Union Contd.
+48 Keelaramanathi General
+49 Thimmanathapuram General
+50 Marakkulam General
+51 T.Vallasubramaniyapuram General
+52 Pammanendal General
+53 Ponthampuli General
+Kadaladi Panchayat Union
+1 Sevalpatti SC (Women)
+SC (Women)
+2 Pillaiyarkulam
+3 P.Keeranthai SC (Women)
+4 A.Usilankulam SC (General)
+5 Panivasal SC (General)
+6 Pannanthai SC (General)
+7 Sikkal SC (General)
+8 Keelasakkulam SC (General)
+9 Kandilan SC (General)
+10 Keelaselvanoor General (Women)
+11 S.Tharaikudi General (Women)
+12 Idamabadal General (Women)
+13 Mangalam General (Women)
+14 T.Veppankulam General (Women)
+15 Maranthai General (Women)
+16 Keelasirupothu General (Women)
+17 Senjadainathapuram General (Women)
+18 Kannirajapuram General (Women)
+19 S.Keeranthai General (Women)
+20 Kadugusanthai General (Women)
+21 Mookaiyur General (Women)
+22 A.Punvasal General (Women)
+23 Valinokkam General (Women)
+24 Narippaiyur General (Women)
+25 Karunkulam General (Women)
+26 Orivayal General (Women)
+27 Sokkanai General
+28 Oppilan General
+29 Avathandai General
+30 Saveriyarpattinam General
+31 Melakidaram General
+32 Keelakidaram General
+33 Sonaipriyankottai General
+34 Enathi General
+35 Illanjembur General
+36 V.Sethurajapuram General
+37 Periyakulam General
+38 Melasirupothu General
+39 Appanoor General
+40 Kothankulam General
+41 Kondunallanpatti General
+42 Peikulam General
+43 Oruvanendal General
+44 T.Karisalkulam General
+45 Uchinatham General
+46 S.Vakaikulam General
+47 Pothikulam General
+48 T.Mariyur General
+49 Siraikulam General

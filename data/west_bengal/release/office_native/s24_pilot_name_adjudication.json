@@ -1,0 +1,32 @@
+{
+  "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_Form-1A_Upa_Pradhan_1_50f5d7f2.pdf",
+  "source_sha256": "38b4d02632b217adabd34f14c77445628d402221452990726e41e8cc743c68ba",
+  "source_page": 4,
+  "source_bbox": [
+    427.3,
+    356.17,
+    640.01,
+    377.11
+  ],
+  "bbox_units": "PDF points",
+  "row_id": "dbed1fdf1745fb30cecd8f9d",
+  "image_path": "data/wb/derived/office_native/ocr/38b4d02632b217adabd34f14c77445628d402221452990726e41e8cc743c68ba/visual-600-dbed1fdf1745fb30cecd8f9d.png",
+  "image_sha256": "d4eef81adf913da26aa290e6ea88be9daeed4eca95fa74e70c9ec2f143b660b5",
+  "render_dpi": 600,
+  "pixel_crop_bbox": [
+    3560,
+    2968,
+    5334,
+    3143
+  ],
+  "exact_printed_name": "Gokorni",
+  "category_explicit": "SC",
+  "raw_text": "Gokorni (SC)",
+  "blank": false,
+  "nondata": false,
+  "ambiguous": false,
+  "category_ambiguous": false,
+  "reviewer": "agent_b",
+  "review_method": "Direct visual reading of a fresh Poppler 600 dpi crop from the original PDF and requested bbox, then enlarged inspection of the same source pixels. Existing transcriptions and model outputs were not consulted.",
+  "note": "A horizontal pale scan band crosses the name. The final letter has a distinct dot and an i stem; read literally as Gokorni. The printed SC code is clear. No external locality-name normalization applied."
+}

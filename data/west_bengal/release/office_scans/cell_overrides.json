@@ -1,0 +1,3372 @@
+[
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 3,
+    "table_row": 4,
+    "axis": "women",
+    "reading": "Takagachh-Rajarhat",
+    "note": "Visually read from the source cell; direct-render OCR missed the bold touching letters.",
+    "bbox": [
+      949.12,
+      507.53,
+      1135.93,
+      555.39
+    ]
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 3,
+    "table_row": 19,
+    "axis": "women",
+    "reading": "Khalisamari",
+    "note": "Visually read from the source cell; direct-render OCR missed the bold touching letters.",
+    "bbox": [
+      942.9,
+      1203.97,
+      1129.16,
+      1251.01
+    ]
+  },
+  {
+    "sha256": "103f216a2639fd1d114f26e87ed846966ca61d8756623d85fdb86088ea32a5a1",
+    "page": 3,
+    "table_row": 8,
+    "axis": "women",
+    "bbox": [
+      973.42,
+      610.84,
+      1208.72,
+      642.88
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_pradhan_view_pdf_1_mb_2023030211.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 2,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "c4ee8998073fc2a80fd4c586b309c1d938d4580ff893672761af8f46f77d65a1",
+        "sample_id": 2
+      },
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "c4ee8998073fc2a80fd4c586b309c1d938d4580ff893672761af8f46f77d65a1",
+        "sample_id": 2
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 6,
+    "table_row": 29,
+    "axis": "women",
+    "bbox": [
+      1257.03,
+      225.05,
+      1288.99,
+      496.96
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 3,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "8ce52dd1d1dce47fc6315aff9ce9015f02b626413a31dd5dfb01186f857cacc1",
+        "sample_id": 3
+      },
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "8ce52dd1d1dce47fc6315aff9ce9015f02b626413a31dd5dfb01186f857cacc1",
+        "sample_id": 3
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded. Source crop viewed rotated 90 degrees clockwise."
+  },
+  {
+    "sha256": "1c238d8a73dbbc4083f4bcea8dbc3ccca1e4ded7100f7e9d88cbaf0d5eee8fef",
+    "page": 2,
+    "table_row": 7,
+    "axis": "women",
+    "bbox": [
+      974.42,
+      581.84,
+      1205.93,
+      638.07
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_upa_pradhan_723_kb.pdf",
+    "reading": "Bonsanka\tW",
+    "exact_name": "Bonsanka",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 4,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "9a767ddf02a32a81306a4d56e1c110ed2cb83e1a6043502634b773c38dd1cac4",
+        "sample_id": 4
+      },
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "9a767ddf02a32a81306a4d56e1c110ed2cb83e1a6043502634b773c38dd1cac4",
+        "sample_id": 4
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present."
+  },
+  {
+    "sha256": "bbd210aed7e3b06d6339440eb52b3e638dd76c020bb640c458addef5523f7ae5",
+    "page": 2,
+    "table_row": 4,
+    "axis": "women",
+    "bbox": [
+      936.1,
+      613.86,
+      1216.55,
+      657.3
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_upa_pradhan_view_pdf_590_kb_2023030278.pdf",
+    "reading": "KOHINOOR",
+    "exact_name": "KOHINOOR",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 5,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "04fd8e6b0f71fa185b7ce15695d95b86d2fb9b968b3cb9d176bc0164fc0e1590",
+        "sample_id": 5
+      },
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "04fd8e6b0f71fa185b7ce15695d95b86d2fb9b968b3cb9d176bc0164fc0e1590",
+        "sample_id": 5
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 7,
+    "table_row": 5,
+    "axis": "caste",
+    "bbox": [
+      721.05,
+      716.45,
+      941.48,
+      790.64
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "Gitaldaha-II (SC)",
+    "exact_name": "Gitaldaha-II",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 7,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "406b915e43c014464ca49b4fea6e7482b479084725904ea4b1020103a2a428e5",
+        "sample_id": 7
+      },
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "406b915e43c014464ca49b4fea6e7482b479084725904ea4b1020103a2a428e5",
+        "sample_id": 7
+      }
+    ],
+    "note": "Legible printed name and caste code."
+  },
+  {
+    "sha256": "3d2bcfd846d98b2e0b02fa2d644686bcecbe023e9014577d3349a9c877497250",
+    "page": 4,
+    "table_row": 26,
+    "axis": "caste",
+    "bbox": [
+      723.22,
+      1333.28,
+      968.7,
+      1390.26
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_prodhan_2_mb.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 8,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "98dfec48890b9fd8017babaa75d414412d5098e0a69b37fb80e86dc2de0918f1",
+        "sample_id": 8
+      },
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "98dfec48890b9fd8017babaa75d414412d5098e0a69b37fb80e86dc2de0918f1",
+        "sample_id": 8
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "bbd210aed7e3b06d6339440eb52b3e638dd76c020bb640c458addef5523f7ae5",
+    "page": 2,
+    "table_row": 12,
+    "axis": "women",
+    "bbox": [
+      934.92,
+      948.33,
+      1215.48,
+      992.47
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_upa_pradhan_view_pdf_590_kb_2023030278.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 9,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "7b9ed211bcfed212d76ad8098e18c01e44ecc2623d7ac56df0609f385f794e21",
+        "sample_id": 9
+      },
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "7b9ed211bcfed212d76ad8098e18c01e44ecc2623d7ac56df0609f385f794e21",
+        "sample_id": 9
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 2,
+    "table_row": 29,
+    "axis": "caste",
+    "bbox": [
+      1227.7,
+      512.68,
+      1259.58,
+      842.18
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 10,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "5e6c20a627596d03c14a530a5df2267190c67f34e1bc39c2cd294be3649a9568",
+        "sample_id": 10
+      },
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "5e6c20a627596d03c14a530a5df2267190c67f34e1bc39c2cd294be3649a9568",
+        "sample_id": 10
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded. Source crop viewed rotated 90 degrees clockwise."
+  },
+  {
+    "sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "page": 3,
+    "table_row": 14,
+    "axis": "women",
+    "bbox": [
+      985.04,
+      794.19,
+      1218.41,
+      826.48
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_pradhan_view_pdf_914_kb_2023030228.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 11,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "c88f38b076451a5f22d7353d14cb1ff11b06c11add0551ebb67d434158e4a189",
+        "sample_id": 11
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "3d2bcfd846d98b2e0b02fa2d644686bcecbe023e9014577d3349a9c877497250",
+    "page": 5,
+    "table_row": 20,
+    "axis": "women",
+    "bbox": [
+      968.65,
+      1307.16,
+      1233.29,
+      1366.78
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_prodhan_2_mb.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 12,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "de9d7f0e75fab0e8d2fd2fb1a4a9273856ecb622451db22778b498abe1fc08e3",
+        "sample_id": 12
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "page": 2,
+    "table_row": 7,
+    "axis": "women",
+    "bbox": [
+      987.67,
+      713.42,
+      1222.74,
+      745.91
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_pradhan_view_pdf_914_kb_2023030228.pdf",
+    "reading": "VOLKA BAROBISHA II",
+    "exact_name": "VOLKA BAROBISHA II",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 13,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "2b063b823207fe7c82b5dee188d3a6e16583dc378dde358be14cb553dc5288e9",
+        "sample_id": 13
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present."
+  },
+  {
+    "sha256": "3d2bcfd846d98b2e0b02fa2d644686bcecbe023e9014577d3349a9c877497250",
+    "page": 2,
+    "table_row": 11,
+    "axis": "caste",
+    "bbox": [
+      727.3,
+      764.5,
+      972.72,
+      814.58
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_prodhan_2_mb.pdf",
+    "reading": "Chinpai\tSC",
+    "exact_name": "Chinpai",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 15,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "d9bdfe36aa40139fccaa5e7e26c5b6bcc149754ee7555d115392188489835d8e",
+        "sample_id": 15
+      }
+    ],
+    "note": "Legible printed name and caste code."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 2,
+    "table_row": 20,
+    "axis": "caste",
+    "bbox": [
+      679.85,
+      1334.52,
+      944.45,
+      1382.45
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 17,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "85a186adbacccf208b8f5fe08406712b9854aad97aaffc250385d4730340860b",
+        "sample_id": 17
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 5,
+    "table_row": 16,
+    "axis": "caste",
+    "bbox": [
+      677.42,
+      1068.07,
+      938.94,
+      1118.51
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 18,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "67865393f056ab7b9a5dd266fc0c9a0f43516fb020011e296e2b0461194e704f",
+        "sample_id": 18
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 2,
+    "table_row": 16,
+    "axis": "women",
+    "bbox": [
+      946.07,
+      1147.16,
+      1133.09,
+      1195.07
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "Unishbisha",
+    "exact_name": "Unishbisha",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 19,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "e29df6574043bc2ceb06b6d652da6786fe5d1ab01e76219cc3fa4ed25419d5d8",
+        "sample_id": 19
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present."
+  },
+  {
+    "sha256": "103f216a2639fd1d114f26e87ed846966ca61d8756623d85fdb86088ea32a5a1",
+    "page": 3,
+    "table_row": 6,
+    "axis": "caste",
+    "bbox": [
+      545.78,
+      546.14,
+      973.74,
+      578.92
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_pradhan_view_pdf_1_mb_2023030211.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 20,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "8bce2d50ce59659b5db1aadb48f9ae79d6e74d5ad04a48e30aaf7017b9307753",
+        "sample_id": 20
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "103f216a2639fd1d114f26e87ed846966ca61d8756623d85fdb86088ea32a5a1",
+    "page": 2,
+    "table_row": 26,
+    "axis": "women",
+    "bbox": [
+      983.46,
+      1301.84,
+      1224.34,
+      1337.94
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_pradhan_view_pdf_1_mb_2023030211.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 21,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "aeea537d3fc76bedc20ea08440921766463fedd637a2120c8a576d4ca12934bd",
+        "sample_id": 21
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "bbd210aed7e3b06d6339440eb52b3e638dd76c020bb640c458addef5523f7ae5",
+    "page": 2,
+    "table_row": 11,
+    "axis": "caste",
+    "bbox": [
+      545.46,
+      903.92,
+      935.21,
+      948.33
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_upa_pradhan_view_pdf_590_kb_2023030278.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 22,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "0a98cb0ce2efd75ad67595afdebf021dbe6a4767f991f8fe5775411fa3b7060e",
+        "sample_id": 22
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "103f216a2639fd1d114f26e87ed846966ca61d8756623d85fdb86088ea32a5a1",
+    "page": 2,
+    "table_row": 6,
+    "axis": "women",
+    "bbox": [
+      982.43,
+      677.99,
+      1221.13,
+      713.34
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_pradhan_view_pdf_1_mb_2023030211.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 23,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "9f1f94556237b54ba824475ca73add4e0cf1f7187d6a27b36119d15b3a377d3d",
+        "sample_id": 23
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 7,
+    "table_row": 14,
+    "axis": "caste",
+    "bbox": [
+      726.6,
+      1368.05,
+      946.42,
+      1446.49
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "Mahishkuchi - II (SC)",
+    "exact_name": "Mahishkuchi - II",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 26,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "fa2cb65c96c96cde24267c187fb1f372e49ba6b8c828aeef70d61bf84d527959",
+        "sample_id": 26
+      }
+    ],
+    "note": "Legible printed name and caste code. Crop enlarged for spelling check."
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 6,
+    "table_row": 5,
+    "axis": "women",
+    "bbox": [
+      502.96,
+      214.19,
+      535.56,
+      485.66
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 28,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "710bf295367e2f8bde488a3941051cc13453c53c345fde31692224012329bf2f",
+        "sample_id": 28
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded. Source crop viewed rotated 90 degrees clockwise."
+  },
+  {
+    "sha256": "c94f363f20effead613bd74ad5c6885fd2b4bd2904641a1740653c2a5880f706",
+    "page": 2,
+    "table_row": 4,
+    "axis": "women",
+    "bbox": [
+      929.26,
+      621.79,
+      1213.27,
+      664.39
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_upa_pradhan_view_pdf_737_kb_2023030292.pdf",
+    "reading": "KOHINOOR",
+    "exact_name": "KOHINOOR",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 31,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "ce04d1cba88311e352073fc5a27e938d03d628a8742eed62c7dbbf4d763af2be",
+        "sample_id": 31
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 6,
+    "table_row": 8,
+    "axis": "women",
+    "bbox": [
+      948.02,
+      1006.04,
+      1144.38,
+      1080.81
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "Baneswar",
+    "exact_name": "Baneswar",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 33,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "35b46c1c261a8d6ebde7df3a86e201242c7c1dcad0bda6534e5a11d2fc5295a3",
+        "sample_id": 33
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 7,
+    "table_row": 8,
+    "axis": "women",
+    "bbox": [
+      942.58,
+      929.35,
+      1135.03,
+      1004.08
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 35,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "2233b8d0b1282dcdbfc7bab0a0b4270e08646de60e6eab84c9fe855374c31e5a",
+        "sample_id": 35
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 7,
+    "table_row": 10,
+    "axis": "women",
+    "bbox": [
+      943.67,
+      1072.97,
+      1136.01,
+      1149.12
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 36,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "d154929525499c9288f347a7327a5d75d1fe2abe0d1e57beb855692e844d456b",
+        "sample_id": 36
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 3,
+    "table_row": 6,
+    "axis": "women",
+    "bbox": [
+      948.28,
+      601.33,
+      1135.02,
+      648.64
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 37,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "a2aef60c6114e319b6c7155d4412f276dcc8a8547c7e18197daa9fcf21c7681e",
+        "sample_id": 37
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "page": 2,
+    "table_row": 26,
+    "axis": "caste",
+    "bbox": [
+      555.12,
+      1309.73,
+      989.09,
+      1341.0
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_pradhan_view_pdf_914_kb_2023030228.pdf",
+    "reading": "SATALI (SC)",
+    "exact_name": "SATALI",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 38,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "0b4bf9285a5bb3c51b23f655bb0aa05dcd509eae36a12cbdb0c6780b34a11b7c",
+        "sample_id": 38
+      }
+    ],
+    "note": "Legible printed name and caste code."
+  },
+  {
+    "sha256": "103f216a2639fd1d114f26e87ed846966ca61d8756623d85fdb86088ea32a5a1",
+    "page": 3,
+    "table_row": 11,
+    "axis": "caste",
+    "bbox": [
+      546.23,
+      703.74,
+      973.2,
+      735.78
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_pradhan_view_pdf_1_mb_2023030211.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 40,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "2b4275f7b4101f3c8ecefbd84ab1c19a91f2be872fe4062ed7b3898c8243e043",
+        "sample_id": 40
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "c94f363f20effead613bd74ad5c6885fd2b4bd2904641a1740653c2a5880f706",
+    "page": 2,
+    "table_row": 11,
+    "axis": "caste",
+    "bbox": [
+      541.9,
+      907.34,
+      930.85,
+      949.52
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_upa_pradhan_view_pdf_737_kb_2023030292.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 42,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "0f45839a659694f81e183e0285eaf1188c3ab798bf43d7524937e19ef729aa30",
+        "sample_id": 42
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 5,
+    "table_row": 22,
+    "axis": "women",
+    "bbox": [
+      776.56,
+      194.04,
+      809.34,
+      465.97
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "Dubra",
+    "exact_name": "Dubra",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 44,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "64e7fc2c0c1a564c42042d85d480bba94ac8219bb7d1aaf9213c26d65bccb00f",
+        "sample_id": 44
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present. Source crop viewed rotated 90 degrees clockwise."
+  },
+  {
+    "sha256": "1c238d8a73dbbc4083f4bcea8dbc3ccca1e4ded7100f7e9d88cbaf0d5eee8fef",
+    "page": 1,
+    "table_row": 3,
+    "axis": "caste",
+    "bbox": [
+      730.69,
+      824.5,
+      976.95,
+      859.75
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_upa_pradhan_723_kb.pdf",
+    "reading": "Balijuri\tSC",
+    "exact_name": "Balijuri",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 45,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "f89bcf1ac95496c1c034828646bcaaa95019b243bcc3ae99f7ed98581f2a766b",
+        "sample_id": 45
+      }
+    ],
+    "note": "Legible printed name and caste code."
+  },
+  {
+    "sha256": "bbd210aed7e3b06d6339440eb52b3e638dd76c020bb640c458addef5523f7ae5",
+    "page": 2,
+    "table_row": 12,
+    "axis": "caste",
+    "bbox": [
+      545.29,
+      945.41,
+      935.07,
+      990.34
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_upa_pradhan_view_pdf_590_kb_2023030278.pdf",
+    "reading": "MATHURA (ST)",
+    "exact_name": "MATHURA",
+    "explicit_category": "ST",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 50,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "12ea77d4a4a20432c9f977fb1da3b9a2d7cfa8dca651f3e926cdae6e2ba6517d",
+        "sample_id": 50
+      }
+    ],
+    "note": "Legible printed name and caste code."
+  },
+  {
+    "sha256": "3d2bcfd846d98b2e0b02fa2d644686bcecbe023e9014577d3349a9c877497250",
+    "page": 6,
+    "table_row": 2,
+    "axis": "women",
+    "bbox": [
+      977.96,
+      348.58,
+      1243.2,
+      399.67
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_prodhan_2_mb.pdf",
+    "reading": "Palsa\tW",
+    "exact_name": "Palsa",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 52,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "ad112a5911ee2f66aafb9f00bb027be0358a7654ad08ac696022782181c00311",
+        "sample_id": 52
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present."
+  },
+  {
+    "sha256": "1c238d8a73dbbc4083f4bcea8dbc3ccca1e4ded7100f7e9d88cbaf0d5eee8fef",
+    "page": 2,
+    "table_row": 17,
+    "axis": "caste",
+    "bbox": [
+      731.15,
+      1073.1,
+      977.07,
+      1121.95
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_upa_pradhan_723_kb.pdf",
+    "reading": "Kaluha\tSC",
+    "exact_name": "Kaluha",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 53,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "d6d4a6fd4d1aeeb0a4e9f7eeccef455de3dba7e63ae74026c71521317dba78b5",
+        "sample_id": 53
+      }
+    ],
+    "note": "Legible printed name and caste code."
+  },
+  {
+    "sha256": "bbd210aed7e3b06d6339440eb52b3e638dd76c020bb640c458addef5523f7ae5",
+    "page": 2,
+    "table_row": 4,
+    "axis": "caste",
+    "bbox": [
+      546.6,
+      611.17,
+      936.24,
+      655.34
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_upa_pradhan_view_pdf_590_kb_2023030278.pdf",
+    "reading": "KOHINOOR (ST)",
+    "exact_name": "KOHINOOR",
+    "explicit_category": "ST",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 54,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "dab2c18c57d22518aaccb47d6ca7e8c9f4d6876a25c1a923fd0b39d5383ef373",
+        "sample_id": 54
+      }
+    ],
+    "note": "Legible printed name and caste code."
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 4,
+    "table_row": 29,
+    "axis": "women",
+    "bbox": [
+      1000.8,
+      243.27,
+      1042.73,
+      514.37
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 59,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "8aac633b066fba8dce9015e077e5dee87dda177df8811d3bdaebd1271efeca55",
+        "sample_id": 59
+      }
+    ],
+    "note": "Empty target between table rules; visible adjacent-row text fragments excluded after rotating and enlarging the crop. Source crop viewed rotated 90 degrees clockwise."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 2,
+    "table_row": 6,
+    "axis": "women",
+    "bbox": [
+      951.51,
+      681.52,
+      1138.13,
+      728.87
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 62,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "d72b530da0d9f0c6f165253fe8595cbdd818b15b858141493da5935896e89c5a",
+        "sample_id": 62
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "3d2bcfd846d98b2e0b02fa2d644686bcecbe023e9014577d3349a9c877497250",
+    "page": 4,
+    "table_row": 1,
+    "axis": "caste",
+    "bbox": [
+      731.25,
+      304.63,
+      976.6,
+      344.18
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_prodhan_2_mb.pdf",
+    "reading": "Hatora\tBC",
+    "exact_name": "Hatora",
+    "explicit_category": "BC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 65,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "3bfb155e1634c9d245963d5fd5f299c18e55e656c69272c980df38e1af9f2961",
+        "sample_id": 65
+      }
+    ],
+    "note": "Legible printed name and caste code."
+  },
+  {
+    "sha256": "c94f363f20effead613bd74ad5c6885fd2b4bd2904641a1740653c2a5880f706",
+    "page": 2,
+    "table_row": 7,
+    "axis": "women",
+    "bbox": [
+      929.86,
+      744.74,
+      1213.96,
+      786.2
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_upa_pradhan_view_pdf_737_kb_2023030292.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 67,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "680d47766ecf8792608cfaa4868ef0cf9fb6d3d66c19a13774fadf86fc79ea60",
+        "sample_id": 67
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 2,
+    "table_row": 29,
+    "axis": "women",
+    "bbox": [
+      1230.02,
+      240.61,
+      1261.5,
+      513.07
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "Patharghata-II",
+    "exact_name": "Patharghata-II",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 68,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "e4bc95e9c6b68108a63a5edc151ddc536d20ecd11b142e54af24727df178573d",
+        "sample_id": 68
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present. Source crop viewed rotated 90 degrees clockwise."
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 3,
+    "table_row": 18,
+    "axis": "women",
+    "bbox": [
+      631.8,
+      199.24,
+      668.77,
+      470.34
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "Dogachhia",
+    "exact_name": "Dogachhia",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 69,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "9a975d36b2e6f94ae863210e044872d24d9b75714fe59ea0fa35fe4faf9d824a",
+        "sample_id": 69
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present. Crop enlarged for spelling check. Source crop viewed rotated 90 degrees clockwise."
+  },
+  {
+    "sha256": "1c238d8a73dbbc4083f4bcea8dbc3ccca1e4ded7100f7e9d88cbaf0d5eee8fef",
+    "page": 2,
+    "table_row": 10,
+    "axis": "women",
+    "bbox": [
+      975.15,
+      730.85,
+      1206.66,
+      784.61
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_upa_pradhan_723_kb.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 71,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "543b6c457be8b80e223e1b12859cc40861868be684866b2197b26b3e9c21a884",
+        "sample_id": 71
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "page": 2,
+    "table_row": 29,
+    "axis": "women",
+    "bbox": [
+      989.23,
+      1403.36,
+      1224.3,
+      1434.9
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_pradhan_view_pdf_914_kb_2023030228.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 72,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "1dc1defa4a69c9014ba391b9079e61d5eb530a8d8e1dc83173a385327ee1c231",
+        "sample_id": 72
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "103f216a2639fd1d114f26e87ed846966ca61d8756623d85fdb86088ea32a5a1",
+    "page": 2,
+    "table_row": 18,
+    "axis": "women",
+    "bbox": [
+      983.05,
+      1052.34,
+      1223.05,
+      1087.64
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_pradhan_view_pdf_1_mb_2023030211.pdf",
+    "reading": "PAROKATA",
+    "exact_name": "PAROKATA",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 75,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "452344ca3fc3fd6a266c86e832e58538f90edbbf8be7618cdd67f58956e9050f",
+        "sample_id": 75
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present."
+  },
+  {
+    "sha256": "3d2bcfd846d98b2e0b02fa2d644686bcecbe023e9014577d3349a9c877497250",
+    "page": 3,
+    "table_row": 19,
+    "axis": "women",
+    "bbox": [
+      970.77,
+      1060.97,
+      1235.38,
+      1108.99
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_prodhan_2_mb.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 77,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "54c90d00abcbaba5a8ffd54d3b4ce90f297ae8137566720ad1c5a5b07c3e1f78",
+        "sample_id": 77
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "page": 2,
+    "table_row": 9,
+    "axis": "caste",
+    "bbox": [
+      553.91,
+      775.28,
+      987.88,
+      807.7
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_pradhan_view_pdf_914_kb_2023030228.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 78,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "777f2b31925563adf89af681a18be06f3f89e794461821bde7e99918e41bfa7e",
+        "sample_id": 78
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "c94f363f20effead613bd74ad5c6885fd2b4bd2904641a1740653c2a5880f706",
+    "page": 2,
+    "table_row": 17,
+    "axis": "women",
+    "bbox": [
+      931.85,
+      1155.53,
+      1216.29,
+      1197.5
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_upa_pradhan_view_pdf_737_kb_2023030292.pdf",
+    "reading": "SALKUMAR",
+    "exact_name": "SALKUMAR",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 82,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "f1a983763a8f3b5396cfb134588db8b900f32bfd5ce6269daf91e216090b77bb",
+        "sample_id": 82
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present."
+  },
+  {
+    "sha256": "103f216a2639fd1d114f26e87ed846966ca61d8756623d85fdb86088ea32a5a1",
+    "page": 3,
+    "table_row": 8,
+    "axis": "caste",
+    "bbox": [
+      545.96,
+      609.46,
+      973.52,
+      642.24
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_pradhan_view_pdf_1_mb_2023030211.pdf",
+    "reading": "FALAKATA II (ST)",
+    "exact_name": "FALAKATA II",
+    "explicit_category": "ST",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 84,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "fbf6cac889b00049956f1af3f45e9af190b7c4d86f4a554a40e0b2f273a6838c",
+        "sample_id": 84
+      }
+    ],
+    "note": "Legible printed name and caste code."
+  },
+  {
+    "sha256": "bbd210aed7e3b06d6339440eb52b3e638dd76c020bb640c458addef5523f7ae5",
+    "page": 2,
+    "table_row": 16,
+    "axis": "women",
+    "bbox": [
+      934.33,
+      1115.9,
+      1214.94,
+      1160.14
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_upa_pradhan_view_pdf_590_kb_2023030278.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 85,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "8e2cfdef95772e7c063c1dd26e86bdd5edee701761ba65a98aa9661630c20ead",
+        "sample_id": 85
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "3d2bcfd846d98b2e0b02fa2d644686bcecbe023e9014577d3349a9c877497250",
+    "page": 4,
+    "table_row": 17,
+    "axis": "women",
+    "bbox": [
+      971.49,
+      927.22,
+      1236.38,
+      977.5
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_prodhan_2_mb.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 88,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "009671bd8e303083910b4121a1c0d409203962152f039c701dbbfd170f2ba5e9",
+        "sample_id": 88
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "1c238d8a73dbbc4083f4bcea8dbc3ccca1e4ded7100f7e9d88cbaf0d5eee8fef",
+    "page": 2,
+    "table_row": 21,
+    "axis": "women",
+    "bbox": [
+      977.67,
+      1245.0,
+      1209.17,
+      1287.38
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_upa_pradhan_723_kb.pdf",
+    "reading": "Kaitha-II\tW",
+    "exact_name": "Kaitha-II",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 89,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "5cbaf536febbbab338ba918344ac84fec930a101fbb5f3152f67830a4b4dda1d",
+        "sample_id": 89
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present. Hyphen partly smudged; name and Roman II are legible."
+  },
+  {
+    "sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "page": 3,
+    "table_row": 13,
+    "axis": "women",
+    "bbox": [
+      984.96,
+      762.7,
+      1218.34,
+      794.96
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_pradhan_view_pdf_914_kb_2023030228.pdf",
+    "reading": "MADARIHAT",
+    "exact_name": "MADARIHAT",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 93,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "f31310a8588ea4802f34f601d96620d8e98635cf112418ba92c5d59c37bb5de8",
+        "sample_id": 93
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present."
+  },
+  {
+    "sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "page": 2,
+    "table_row": 32,
+    "axis": "women",
+    "bbox": [
+      989.44,
+      1496.65,
+      1224.51,
+      1527.13
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_pradhan_view_pdf_914_kb_2023030228.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 94,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "8fd85e4e4009f571b8d72cc97a43c7bb9054791f85847eb2aea9d71321f9affd",
+        "sample_id": 94
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 2,
+    "table_row": 24,
+    "axis": "caste",
+    "bbox": [
+      1079.42,
+      510.77,
+      1112.29,
+      840.2
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "Barnia (SC)",
+    "exact_name": "Barnia",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 95,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "44e6c76f7350beffc939f361362fa4988df7d3d1fbfaab1ef037a6ae1482585f",
+        "sample_id": 95
+      }
+    ],
+    "note": "Legible printed name and caste code. Crop enlarged for spelling check. Source crop viewed rotated 90 degrees clockwise."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 4,
+    "table_row": 15,
+    "axis": "caste",
+    "bbox": [
+      645.2,
+      975.07,
+      914.82,
+      1025.78
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 99,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "363ee6e961a8f270f6e3faddcf3287b7c983fa5769a0c51d254c88c1f8755ddb",
+        "sample_id": 99
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded."
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 5,
+    "table_row": 21,
+    "axis": "women",
+    "bbox": [
+      747.05,
+      193.62,
+      778.8,
+      465.51
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 100,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "a792d7054b90b1048c548485d3a08b04018c1f28f1ad7248c1b8a7f12f117bb2",
+        "sample_id": 100
+      }
+    ],
+    "note": "Empty target cell; table rules and scan marks excluded. Source crop viewed rotated 90 degrees clockwise."
+  },
+  {
+    "sha256": "3d2bcfd846d98b2e0b02fa2d644686bcecbe023e9014577d3349a9c877497250",
+    "page": 4,
+    "table_row": 22,
+    "axis": "women",
+    "bbox": [
+      969.8,
+      1145.24,
+      1234.71,
+      1197.5
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_prodhan_2_mb.pdf",
+    "reading": "Dakhalbati\tW",
+    "exact_name": "Dakhalbati",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 102,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "ff3d79811f91cf03914bf0b92b716130dfb1eeba83ebc91a9897e5916b06b7e4",
+        "sample_id": 102
+      },
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "ff3d79811f91cf03914bf0b92b716130dfb1eeba83ebc91a9897e5916b06b7e4",
+        "sample_id": 102
+      }
+    ],
+    "note": "Legible printed name in women-reserved cell; W marker transcribed when present."
+  },
+  {
+    "sha256": "c94f363f20effead613bd74ad5c6885fd2b4bd2904641a1740653c2a5880f706",
+    "page": 2,
+    "table_row": 13,
+    "axis": "caste",
+    "bbox": [
+      542.21,
+      989.76,
+      931.25,
+      1032.29
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_upa_pradhan_view_pdf_737_kb_2023030292.pdf",
+    "reading": "BANCHUKAMARI (ST)",
+    "exact_name": "BANCHUKAMARI",
+    "explicit_category": "ST",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 103,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "b3cb9ae65b7bbf0f99f6f05a38c697afdc3c8291aa34ceb5cf98aa22152a9856",
+        "sample_id": 103
+      },
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "b3cb9ae65b7bbf0f99f6f05a38c697afdc3c8291aa34ceb5cf98aa22152a9856",
+        "sample_id": 103
+      }
+    ],
+    "note": "Legible printed name and caste code."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 3,
+    "table_row": 18,
+    "axis": "caste",
+    "bbox": [
+      677.28,
+      1158.22,
+      943.73,
+      1205.57
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "Kursamari (SC)",
+    "exact_name": "Kursamari",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 106,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "186565784da9cafce058b2d606c48e636dd540f0769c66ebaf98e84585e9f4ef",
+        "sample_id": 106
+      },
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "186565784da9cafce058b2d606c48e636dd540f0769c66ebaf98e84585e9f4ef",
+        "sample_id": 106
+      }
+    ],
+    "note": "Legible printed name and caste code. Crop enlarged for spelling check. Initial K touches the crop edge but is legible."
+  },
+  {
+    "sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "page": 2,
+    "table_row": 32,
+    "axis": "caste",
+    "bbox": [
+      555.55,
+      1496.54,
+      989.51,
+      1527.09
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_pradhan_view_pdf_914_kb_2023030228.pdf",
+    "reading": "SALKUMAR II (ST)",
+    "exact_name": "SALKUMAR II",
+    "explicit_category": "ST",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 110,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_a.json",
+        "gold_sha256": "89eaae3df88aa6358dfaf848878cc03e90411b3cfcc8513bc1661aaa202ccfa2",
+        "image_sha256": "8babf09ae4f73110c73fc89a9284f2ad6ee1a4995cd6c505bf37851af2b95dde",
+        "sample_id": 110
+      },
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "8babf09ae4f73110c73fc89a9284f2ad6ee1a4995cd6c505bf37851af2b95dde",
+        "sample_id": 110
+      }
+    ],
+    "note": "Legible printed name and caste code."
+  },
+  {
+    "sha256": "103f216a2639fd1d114f26e87ed846966ca61d8756623d85fdb86088ea32a5a1",
+    "page": 2,
+    "table_row": 17,
+    "axis": "women",
+    "bbox": [
+      983.0,
+      1020.78,
+      1222.89,
+      1056.54
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_pradhan_view_pdf_1_mb_2023030211.pdf",
+    "reading": "BHATIBARI",
+    "exact_name": "BHATIBARI",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 112,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "316276022558308b9ccaf66740c01f1c4f2be75bbeb6c91ce1d3e6eb808e1f1e",
+        "sample_id": 112
+      }
+    ],
+    "note": "Name listed in women-reserved column."
+  },
+  {
+    "sha256": "1c238d8a73dbbc4083f4bcea8dbc3ccca1e4ded7100f7e9d88cbaf0d5eee8fef",
+    "page": 1,
+    "table_row": 1,
+    "axis": "women",
+    "bbox": [
+      976.68,
+      754.68,
+      1208.09,
+      791.39
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_upa_pradhan_723_kb.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 113,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "170a6ee69550ce30fc0e11898fd9bd6f89dd42dd09fe33a0140404e66ecc0c22",
+        "sample_id": 113
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "page": 2,
+    "table_row": 30,
+    "axis": "women",
+    "bbox": [
+      989.3,
+      1434.79,
+      1224.37,
+      1465.31
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_pradhan_view_pdf_914_kb_2023030228.pdf",
+    "reading": "RAJABHATKHAWA",
+    "exact_name": "RAJABHATKHAWA",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 114,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "5fb9fade0b88b0409d3b539edaa8a889e439c1d23e7fb6681c79ddbba7db19d4",
+        "sample_id": 114
+      }
+    ],
+    "note": "Name listed in women-reserved column."
+  },
+  {
+    "sha256": "1c238d8a73dbbc4083f4bcea8dbc3ccca1e4ded7100f7e9d88cbaf0d5eee8fef",
+    "page": 1,
+    "table_row": 2,
+    "axis": "women",
+    "bbox": [
+      976.77,
+      790.71,
+      1208.17,
+      825.92
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_upa_pradhan_723_kb.pdf",
+    "reading": "Khoyrasole W",
+    "exact_name": "Khoyrasole",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 115,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "d884fc4656fc1ad530c66dbcb4e12371042fa7106f33782bb8557ce3b6d05a20",
+        "sample_id": 115
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 4,
+    "table_row": 7,
+    "axis": "women",
+    "bbox": [
+      891.06,
+      612.03,
+      1088.32,
+      660.86
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 119,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "c5b2c718a8212c3e14fd0c30907cf23582bf5e3003bd2be54547207b3564de86",
+        "sample_id": 119
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "bbd210aed7e3b06d6339440eb52b3e638dd76c020bb640c458addef5523f7ae5",
+    "page": 2,
+    "table_row": 20,
+    "axis": "caste",
+    "bbox": [
+      543.98,
+      1279.38,
+      933.89,
+      1323.57
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_upa_pradhan_view_pdf_590_kb_2023030278.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 121,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "b623cdb90017161d7128a77b50fda274c8635380a31d3b1b6c7a5aeba0983d0d",
+        "sample_id": 121
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 4,
+    "table_row": 5,
+    "axis": "caste",
+    "bbox": [
+      620.53,
+      524.28,
+      888.4,
+      575.45
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "Bhetaguri-II (SC)",
+    "exact_name": "Bhetaguri-II",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 123,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "6537d228d155e5a80f53f026216a2dc727675844278c36f6cb993c97c0d01a40",
+        "sample_id": 123
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 5,
+    "table_row": 8,
+    "axis": "caste",
+    "bbox": [
+      354.15,
+      459.11,
+      386.46,
+      788.73
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 125,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "477bd9b06a0ce43d4cec6d39a60911bf27ab3bfc2d0cbfc397c35d8b84926c53",
+        "sample_id": 125
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 2,
+    "table_row": 15,
+    "axis": "caste",
+    "bbox": [
+      804.59,
+      507.22,
+      836.93,
+      836.49
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 126,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "83246dad705d5adb64688ae4af5899e3da3d617789a008fe381883d139b43f1f",
+        "sample_id": 126
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 7,
+    "table_row": 11,
+    "axis": "caste",
+    "bbox": [
+      999.12,
+      437.49,
+      1329.25,
+      470.31
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "Ghetugachhi (ST)",
+    "exact_name": "Ghetugachhi",
+    "explicit_category": "ST",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 127,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "95be5dec081c81541229da3930354c3f15d8e6689b97a0e1bec0187f252b801a",
+        "sample_id": 127
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 7,
+    "table_row": 5,
+    "axis": "women",
+    "bbox": [
+      940.94,
+      714.33,
+      1133.58,
+      787.93
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "Gitaldaha-iI",
+    "exact_name": null,
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": true,
+    "category_ambiguous": false,
+    "sample_id": 128,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "f3780452ec83cc84e2371f2c5b8e42e8bcc7b64751b518dae6fd7e0d3977d0f2",
+        "sample_id": 128
+      }
+    ],
+    "note": "Women-listed name prefix Gitaldaha is clear; suffix appears iI, possibly a degraded II. Exact suffix case unresolved."
+  },
+  {
+    "sha256": "3d2bcfd846d98b2e0b02fa2d644686bcecbe023e9014577d3349a9c877497250",
+    "page": 6,
+    "table_row": 1,
+    "axis": "caste",
+    "bbox": [
+      733.4,
+      298.19,
+      978.88,
+      348.58
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_prodhan_2_mb.pdf",
+    "reading": "Mohurapur SC",
+    "exact_name": "Mohurapur",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 130,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "fa2172cb45a4e102e2ac2c611749db2898781a312d0881c3c184071ff63f0d65",
+        "sample_id": 130
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "3d2bcfd846d98b2e0b02fa2d644686bcecbe023e9014577d3349a9c877497250",
+    "page": 5,
+    "table_row": 22,
+    "axis": "caste",
+    "bbox": [
+      722.84,
+      1416.11,
+      968.18,
+      1471.45
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_prodhan_2_mb.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 131,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "c4f9ab56f2b657f87ca66ea88b0808ddafdf00ead4f7460ec25e3bc4746bf2cd",
+        "sample_id": 131
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 4,
+    "table_row": 25,
+    "axis": "women",
+    "bbox": [
+      879.42,
+      237.61,
+      920.82,
+      508.71
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 132,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "ee9b2c84479186f05f0af1c825e939bce034525fb13d574bc10127bf189e355f",
+        "sample_id": 132
+      }
+    ],
+    "note": "Original PDF context checked: blank row between Khisma and Ramnagar-I. Neighboring edge ink is outside this row."
+  },
+  {
+    "sha256": "1c238d8a73dbbc4083f4bcea8dbc3ccca1e4ded7100f7e9d88cbaf0d5eee8fef",
+    "page": 2,
+    "table_row": 14,
+    "axis": "women",
+    "bbox": [
+      976.13,
+      930.89,
+      1207.63,
+      978.7
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_upa_pradhan_723_kb.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 135,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "7cf1d5972fcbe72469ccbeb5760566210fb8c63db086bb8bed6da4960c77de4d",
+        "sample_id": 135
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 3,
+    "table_row": 1,
+    "axis": "caste",
+    "bbox": [
+      112.71,
+      453.3,
+      150.84,
+      783.26
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "Plassey-II (BC)",
+    "exact_name": "Plassey-II",
+    "explicit_category": "BC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 136,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "487130939b794a52698795bc87637b8a87daf75e1eaff4a2a8d0df2b6abd1ff7",
+        "sample_id": 136
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "c94f363f20effead613bd74ad5c6885fd2b4bd2904641a1740653c2a5880f706",
+    "page": 2,
+    "table_row": 12,
+    "axis": "caste",
+    "bbox": [
+      542.05,
+      948.3,
+      931.05,
+      990.9
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_upa_pradhan_view_pdf_737_kb_2023030292.pdf",
+    "reading": "MATHURA (ST)",
+    "exact_name": "MATHURA",
+    "explicit_category": "ST",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 137,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "0cdd7ab883ecdfc59f4e29b457deb04373b3cdd9ab6086c3a30a92a5a71a4e70",
+        "sample_id": 137
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 6,
+    "table_row": 18,
+    "axis": "women",
+    "bbox": [
+      924.97,
+      220.27,
+      957.77,
+      491.99
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "Dharmadah",
+    "exact_name": "Dharmadah",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 138,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "3b68ea1e622a82a39ff1561093bd5f7a0e0afeee29d40a2442d50acb6a26d9c3",
+        "sample_id": 138
+      }
+    ],
+    "note": "Name listed in women-reserved column."
+  },
+  {
+    "sha256": "bbd210aed7e3b06d6339440eb52b3e638dd76c020bb640c458addef5523f7ae5",
+    "page": 2,
+    "table_row": 17,
+    "axis": "women",
+    "bbox": [
+      934.18,
+      1157.93,
+      1214.8,
+      1202.19
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_upa_pradhan_view_pdf_590_kb_2023030278.pdf",
+    "reading": "SALKUMAR",
+    "exact_name": "SALKUMAR",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 139,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "bf0f79d6e5b81ba385bb185c0f83014577ee6907d8d905ea255ac7813a4b40bf",
+        "sample_id": 139
+      }
+    ],
+    "note": "Name listed in women-reserved column; no numeral printed."
+  },
+  {
+    "sha256": "103f216a2639fd1d114f26e87ed846966ca61d8756623d85fdb86088ea32a5a1",
+    "page": 2,
+    "table_row": 20,
+    "axis": "caste",
+    "bbox": [
+      550.25,
+      1107.45,
+      983.2,
+      1146.2
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_pradhan_view_pdf_1_mb_2023030211.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 140,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "a0e4406663932303f3b34d2341cb51b28c1f60dac9facaed28024c7c55cbda0c",
+        "sample_id": 140
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 4,
+    "table_row": 22,
+    "axis": "caste",
+    "bbox": [
+      776.75,
+      503.14,
+      819.98,
+      833.01
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "Fulia Township (SC)",
+    "exact_name": "Fulia Township",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 144,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "df5ff0bb9817cac5480e45afe01784460428d0cd5a3659e1879e09bdd55fe12d",
+        "sample_id": 144
+      }
+    ],
+    "note": "Small clipped ink above the upper ruling belongs to the neighboring row."
+  },
+  {
+    "sha256": "c94f363f20effead613bd74ad5c6885fd2b4bd2904641a1740653c2a5880f706",
+    "page": 2,
+    "table_row": 21,
+    "axis": "women",
+    "bbox": [
+      932.66,
+      1322.81,
+      1217.24,
+      1365.09
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_upa_pradhan_view_pdf_737_kb_2023030292.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 148,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "176f0aa0126b1a0d880429f8e3d5bb90f7fea804bf99d11000d6e1e38d6d9647",
+        "sample_id": 148
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 6,
+    "table_row": 13,
+    "axis": "women",
+    "bbox": [
+      744.87,
+      217.67,
+      777.08,
+      489.28
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 150,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "5a865b6aecc2e9c9276318444d921e8022b9966aa04fa298c8b1e589bea9c92b",
+        "sample_id": 150
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "c94f363f20effead613bd74ad5c6885fd2b4bd2904641a1740653c2a5880f706",
+    "page": 2,
+    "table_row": 4,
+    "axis": "caste",
+    "bbox": [
+      540.82,
+      619.94,
+      929.46,
+      663.1
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_upa_pradhan_view_pdf_737_kb_2023030292.pdf",
+    "reading": "KOHINOOR (ST)",
+    "exact_name": "KOHINOOR",
+    "explicit_category": "ST",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 151,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "a41859fdca43c10662d5ae818d69ef0c8fa4ff31091cbefe83026627495d7c1f",
+        "sample_id": 151
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 5,
+    "table_row": 7,
+    "axis": "women",
+    "bbox": [
+      944.01,
+      666.66,
+      1128.35,
+      716.44
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "Jiranpur",
+    "exact_name": "Jiranpur",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 152,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "52f5e8fd2bf20e1efd4608989ff80c77fcb89a0f4d2a0adfbe89fdf8155cdbcc",
+        "sample_id": 152
+      }
+    ],
+    "note": "Name listed in women-reserved column."
+  },
+  {
+    "sha256": "bbd210aed7e3b06d6339440eb52b3e638dd76c020bb640c458addef5523f7ae5",
+    "page": 2,
+    "table_row": 2,
+    "axis": "women",
+    "bbox": [
+      936.39,
+      501.43,
+      1216.92,
+      573.8
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_upa_pradhan_view_pdf_590_kb_2023030278.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 153,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "ce1c20ab950c01a1dc314e889c0feadacd9cd44bb0078d521ee6b22758b3eb00",
+        "sample_id": 153
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "bbd210aed7e3b06d6339440eb52b3e638dd76c020bb640c458addef5523f7ae5",
+    "page": 2,
+    "table_row": 21,
+    "axis": "caste",
+    "bbox": [
+      543.82,
+      1320.39,
+      933.75,
+      1364.12
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_upa_pradhan_view_pdf_590_kb_2023030278.pdf",
+    "reading": "RANGALIBAZNA (SC)",
+    "exact_name": "RANGALIBAZNA",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 154,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "c60211d339b290045ed53322944a5c57dc55fb402a0badddc4f8ec42d5f03b5f",
+        "sample_id": 154
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "1c238d8a73dbbc4083f4bcea8dbc3ccca1e4ded7100f7e9d88cbaf0d5eee8fef",
+    "page": 2,
+    "table_row": 1,
+    "axis": "caste",
+    "bbox": [
+      727.38,
+      293.19,
+      973.28,
+      350.35
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_upa_pradhan_723_kb.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 155,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "31153b49348ee7a4e0edd2d448d61c60ad89cde53966fd1bdcfcf5af520216d7",
+        "sample_id": 155
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 3,
+    "table_row": 13,
+    "axis": "women",
+    "bbox": [
+      945.38,
+      925.78,
+      1131.87,
+      972.95
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "Ghughumari",
+    "exact_name": "Ghughumari",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 156,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "4b749fe12e1f139a139f2e5b5937ed258c7599c55712ad63328414436c223e33",
+        "sample_id": 156
+      }
+    ],
+    "note": "Name listed in women-reserved column."
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 6,
+    "table_row": 21,
+    "axis": "caste",
+    "bbox": [
+      1013.29,
+      492.9,
+      1046.62,
+      823.02
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "Bhanderkhola (SC)",
+    "exact_name": "Bhanderkhola",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 159,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "8e2eb02dd5cdd2a8249488c6d15b1f006d0a7e99f9454d6fef43fa3efd68b3ad",
+        "sample_id": 159
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 6,
+    "table_row": 14,
+    "axis": "women",
+    "bbox": [
+      945.35,
+      1445.5,
+      1141.12,
+      1520.24
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "Jorepatki",
+    "exact_name": "Jorepatki",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 161,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "71dc46bdb5afc22c948f3e5e0d3f2f7a238be31113fae2fd5cc8effbe6abe025",
+        "sample_id": 161
+      }
+    ],
+    "note": "Name listed in women-reserved column."
+  },
+  {
+    "sha256": "1c238d8a73dbbc4083f4bcea8dbc3ccca1e4ded7100f7e9d88cbaf0d5eee8fef",
+    "page": 2,
+    "table_row": 19,
+    "axis": "caste",
+    "bbox": [
+      731.59,
+      1163.11,
+      977.47,
+      1203.98
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_upa_pradhan_723_kb.pdf",
+    "reading": "Kushmore-I SC",
+    "exact_name": "Kushmore-I",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 162,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "209fbb714eefcf7869cfc0df8b6bbf6ca73f47530e8679124066bee9a84fb1a4",
+        "sample_id": 162
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "103f216a2639fd1d114f26e87ed846966ca61d8756623d85fdb86088ea32a5a1",
+    "page": 2,
+    "table_row": 21,
+    "axis": "caste",
+    "bbox": [
+      550.11,
+      1138.58,
+      983.25,
+      1177.37
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_pradhan_view_pdf_1_mb_2023030211.pdf",
+    "reading": "CHAPARERPAR II (SC)",
+    "exact_name": "CHAPARERPAR II",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 164,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "18c1fb5039ea23cd12afceaf766eb80161e180cd79af88e73fef7c2fd33ea45f",
+        "sample_id": 164
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "103f216a2639fd1d114f26e87ed846966ca61d8756623d85fdb86088ea32a5a1",
+    "page": 3,
+    "table_row": 2,
+    "axis": "women",
+    "bbox": [
+      974.06,
+      421.34,
+      1210.02,
+      454.77
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_pradhan_view_pdf_1_mb_2023030211.pdf",
+    "reading": "DHANIRAMPUR II",
+    "exact_name": "DHANIRAMPUR II",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 165,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "6f61ac0afd9ff602b76421ef570bd31cd1521680aaa4aba1e2fa987e299a5086",
+        "sample_id": 165
+      }
+    ],
+    "note": "Name listed in women-reserved column."
+  },
+  {
+    "sha256": "322ba5a0cfee1abe610e3d00a16966e20ae1b72e6b113746705c81d34a2baea1",
+    "page": 6,
+    "table_row": 9,
+    "axis": "women",
+    "bbox": [
+      947.57,
+      1079.38,
+      1143.84,
+      1154.06
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/cooch_behar_final_office_reservations.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 167,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "46978b53852556c11fccf9cda4e8ac3e2d3866fbec48ffa5d6b8ac1be6d86a33",
+        "sample_id": 167
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "3d2bcfd846d98b2e0b02fa2d644686bcecbe023e9014577d3349a9c877497250",
+    "page": 3,
+    "table_row": 21,
+    "axis": "caste",
+    "bbox": [
+      725.15,
+      1143.63,
+      970.41,
+      1190.34
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_prodhan_2_mb.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 168,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "cac2c4350b0f4d8410ae66348ec62f7383990b56e8ddfd4344a8b0451f8aeff6",
+        "sample_id": 168
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "3d2bcfd846d98b2e0b02fa2d644686bcecbe023e9014577d3349a9c877497250",
+    "page": 3,
+    "table_row": 1,
+    "axis": "women",
+    "bbox": [
+      977.28,
+      302.51,
+      1241.91,
+      345.79
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_prodhan_2_mb.pdf",
+    "reading": "Kirnahar-2 W",
+    "exact_name": "Kirnahar-2",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 169,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "06334de058e52bd147375ce92cf2b52dbe010de57a35394c85cfc90259771476",
+        "sample_id": 169
+      }
+    ],
+    "note": "Printed Arabic numeral 2 retained."
+  },
+  {
+    "sha256": "bbd210aed7e3b06d6339440eb52b3e638dd76c020bb640c458addef5523f7ae5",
+    "page": 2,
+    "table_row": 22,
+    "axis": "women",
+    "bbox": [
+      933.46,
+      1364.12,
+      1214.14,
+      1408.0
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_upa_pradhan_view_pdf_590_kb_2023030278.pdf",
+    "reading": "SISHUJHUMRA",
+    "exact_name": "SISHUJHUMRA",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 171,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "764fdca6dcbc147cc415b1e41824d3ef5324fd2240c9b425987f48f4363bcf31",
+        "sample_id": 171
+      }
+    ],
+    "note": "Name listed in women-reserved column."
+  },
+  {
+    "sha256": "c94f363f20effead613bd74ad5c6885fd2b4bd2904641a1740653c2a5880f706",
+    "page": 2,
+    "table_row": 20,
+    "axis": "caste",
+    "bbox": [
+      543.3,
+      1279.76,
+      932.66,
+      1322.81
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_upa_pradhan_view_pdf_737_kb_2023030292.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 172,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "9e34caaf447c7506e9eb3d4b505274b0d2a587680f505488df343b1159ae5e0d",
+        "sample_id": 172
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "c94f363f20effead613bd74ad5c6885fd2b4bd2904641a1740653c2a5880f706",
+    "page": 2,
+    "table_row": 5,
+    "axis": "women",
+    "bbox": [
+      929.46,
+      663.1,
+      1213.51,
+      705.64
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_upa_pradhan_view_pdf_737_kb_2023030292.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 173,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "4cb08843ee18c25613ebe8162c79c5dba465c2d169204a6e835f9ddfa814a1cc",
+        "sample_id": 173
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "1c238d8a73dbbc4083f4bcea8dbc3ccca1e4ded7100f7e9d88cbaf0d5eee8fef",
+    "page": 2,
+    "table_row": 15,
+    "axis": "caste",
+    "bbox": [
+      730.69,
+      978.09,
+      976.6,
+      1025.92
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/gp_sources/birbhum_form_1b_upa_pradhan_723_kb.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 174,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "ad162242f5539954f73114cfa5ef84f4834b871de42da434d09083cffbfa4fcd",
+        "sample_id": 174
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "c94f363f20effead613bd74ad5c6885fd2b4bd2904641a1740653c2a5880f706",
+    "page": 2,
+    "table_row": 20,
+    "axis": "women",
+    "bbox": [
+      932.46,
+      1280.35,
+      1217.0,
+      1323.18
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_upa_pradhan_view_pdf_737_kb_2023030292.pdf",
+    "reading": "TOTOPARA-BALLALGURI",
+    "exact_name": "TOTOPARA-BALLALGURI",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 180,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "c9aadc2ba95590030d58572deebd59996461555954fe83a5868d4c26e5af1802",
+        "sample_id": 180
+      }
+    ],
+    "note": "Name listed in women-reserved column; W conveyed by header."
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 7,
+    "table_row": 10,
+    "axis": "caste",
+    "bbox": [
+      999.61,
+      407.48,
+      1329.71,
+      440.29
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "Tatla-II (SC)",
+    "exact_name": "Tatla-II",
+    "explicit_category": "SC",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 184,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "74ee959601d9814bbb8be63f8208c2238641f005558ec5fb3161b955dd19a646",
+        "sample_id": 184
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "103f216a2639fd1d114f26e87ed846966ca61d8756623d85fdb86088ea32a5a1",
+    "page": 2,
+    "table_row": 32,
+    "axis": "caste",
+    "bbox": [
+      548.49,
+      1485.43,
+      983.83,
+      1525.21
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form_1a_pradhan_view_pdf_1_mb_2023030211.pdf",
+    "reading": "SALKUMAR II (ST)",
+    "exact_name": "SALKUMAR II",
+    "explicit_category": "ST",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 185,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "ce9b33ba1fa7228d73f75e9bbc7ce3d92832e201f1ce520352e7fb2438061ff0",
+        "sample_id": 185
+      }
+    ],
+    "note": "Partial stamp at left does not obscure the printed name or category."
+  },
+  {
+    "sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "page": 3,
+    "table_row": 4,
+    "axis": "caste",
+    "bbox": [
+      551.22,
+      478.76,
+      984.33,
+      511.23
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_pradhan_view_pdf_914_kb_2023030228.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 187,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "c0b87b8d005f91102f2ad05a7bb1a6bb2df1941dc06e400930dd2452d25c00d3",
+        "sample_id": 187
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "page": 2,
+    "table_row": 27,
+    "axis": "caste",
+    "bbox": [
+      555.19,
+      1340.7,
+      989.16,
+      1372.43
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_pradhan_view_pdf_914_kb_2023030228.pdf",
+    "reading": "",
+    "exact_name": null,
+    "explicit_category": null,
+    "blank": true,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 188,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "4ac87fb60abf1030534254046b0d2145ee86c9bc14f5b9db94f94c367362cfde",
+        "sample_id": 188
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "page": 3,
+    "table_row": 12,
+    "axis": "caste",
+    "bbox": [
+      551.85,
+      730.36,
+      984.96,
+      762.7
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "2023/alipurduar/form1b_pradhan_view_pdf_914_kb_2023030228.pdf",
+    "reading": "HANTAPARA (ST)",
+    "exact_name": "HANTAPARA",
+    "explicit_category": "ST",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 189,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "0429e41154b10669c1a1ef901d33f388217b7802a0ab9efd6611af0336998576",
+        "sample_id": 189
+      }
+    ],
+    "note": ""
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 7,
+    "table_row": 5,
+    "axis": "women",
+    "bbox": [
+      1331.58,
+      259.24,
+      1602.23,
+      291.48
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "Duttapulia",
+    "exact_name": "Duttapulia",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 192,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "753b02e49ffe72975c3b857893b552d2261e67d27f411509c8aaea94c2a0f73a",
+        "sample_id": 192
+      }
+    ],
+    "note": "Name listed in women-reserved column."
+  },
+  {
+    "sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "page": 7,
+    "table_row": 15,
+    "axis": "women",
+    "bbox": [
+      1326.92,
+      560.92,
+      1597.79,
+      593.31
+    ],
+    "bbox_coordinate_system": "rendered_original_page_pixels_scale_to_1800",
+    "source_file": "gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "reading": "Mollabelia",
+    "exact_name": "Mollabelia",
+    "explicit_category": "women",
+    "blank": false,
+    "name_ambiguous": false,
+    "category_ambiguous": false,
+    "sample_id": 196,
+    "reference_evidence": [
+      {
+        "gold_path": "data/wb/derived/qwen_review/expanded/gold_b.json",
+        "gold_sha256": "7d6a312a6db77cc6acb325473ab1b6fbdc22443d1984356a9a1e2faf69a2a5ea",
+        "image_sha256": "32cb5ad2a3a94053183643acdfbe2273bf298365698241b185d7d4f66f6a2228",
+        "sample_id": 196
+      }
+    ],
+    "note": "Name listed in women-reserved column."
+  }
+]

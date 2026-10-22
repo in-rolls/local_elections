@@ -1,0 +1,4 @@
+
+Detected 377 diacritics
+Image too small to scale!! (2x36 vs min width of 3)
+Line cannot be recognized!!

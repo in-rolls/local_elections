@@ -1,0 +1,178 @@
+[
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/malda_Gazole.pdf",
+    "source_sha256": "51c85e144ecf93bab44597781ec47bd81263b28c2162486f86ac33e1819423c3",
+    "source_page": 12,
+    "district": "Malda",
+    "year": "2013",
+    "stage": "unclassified",
+    "source_page_bbox": [
+      0,
+      0,
+      597.12,
+      846.24
+    ],
+    "status": "ocr_extracted_semantic_review_required",
+    "rows": 0,
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/51c85e144ecf93bab44597781ec47bd81263b28c2162486f86ac33e1819423c3.json",
+    "other_tier_rows": 0,
+    "ocr_cache": "data/wb/derived/ward_schedules/ocr/51c85e144ecf93bab44597781ec47bd81263b28c2162486f86ac33e1819423c3/0012.json",
+    "ocr_rows": 0,
+    "sample_image": "data/wb/derived/ward_schedules/semantic_review/sample_1.png"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/malda_Gazole.pdf",
+    "source_sha256": "51c85e144ecf93bab44597781ec47bd81263b28c2162486f86ac33e1819423c3",
+    "source_page": 1,
+    "district": "Malda",
+    "year": "2013",
+    "stage": "unclassified",
+    "source_page_bbox": [
+      0,
+      0,
+      595.68,
+      845.76
+    ],
+    "status": "ocr_extracted_semantic_review_required",
+    "rows": 0,
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/51c85e144ecf93bab44597781ec47bd81263b28c2162486f86ac33e1819423c3.json",
+    "other_tier_rows": 0,
+    "ocr_cache": "data/wb/derived/ward_schedules/ocr/51c85e144ecf93bab44597781ec47bd81263b28c2162486f86ac33e1819423c3/0001.json",
+    "ocr_rows": 0,
+    "sample_image": "data/wb/derived/ward_schedules/semantic_review/sample_2.png"
+  },
+  {
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_form_a_all_gp_maynaguri_3_mb.pdf",
+    "source_sha256": "78f5e97a7f1f3aeaff376cd994c3c6ccd200249594bc580e7cd692562ad24768",
+    "source_page": 2,
+    "district": "Jalpaiguri",
+    "year": "2023",
+    "stage": "draft",
+    "source_page_bbox": [
+      0,
+      0,
+      595.2,
+      841.67999
+    ],
+    "status": "ocr_extracted_semantic_review_required",
+    "rows": 0,
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/78f5e97a7f1f3aeaff376cd994c3c6ccd200249594bc580e7cd692562ad24768.json",
+    "other_tier_rows": 0,
+    "ocr_cache": "data/wb/derived/ward_schedules/ocr/78f5e97a7f1f3aeaff376cd994c3c6ccd200249594bc580e7cd692562ad24768/0002.json",
+    "ocr_rows": 0,
+    "sample_image": "data/wb/derived/ward_schedules/semantic_review/sample_3.png"
+  },
+  {
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_form_a_all_gp_maynaguri_3_mb.pdf",
+    "source_sha256": "78f5e97a7f1f3aeaff376cd994c3c6ccd200249594bc580e7cd692562ad24768",
+    "source_page": 10,
+    "district": "Jalpaiguri",
+    "year": "2023",
+    "stage": "draft",
+    "source_page_bbox": [
+      0,
+      0,
+      595.2,
+      841.67999
+    ],
+    "status": "ocr_extracted_semantic_review_required",
+    "rows": 0,
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/78f5e97a7f1f3aeaff376cd994c3c6ccd200249594bc580e7cd692562ad24768.json",
+    "other_tier_rows": 0,
+    "ocr_cache": "data/wb/derived/ward_schedules/ocr/78f5e97a7f1f3aeaff376cd994c3c6ccd200249594bc580e7cd692562ad24768/0010.json",
+    "ocr_rows": 0,
+    "sample_image": "data/wb/derived/ward_schedules/semantic_review/sample_4.png"
+  },
+  {
+    "source_path": "data/wb/2023/cooch_behar/extracted/CBR FINAL ORDER  FORM A1 B1/Cooch Behar-I/formA1Gp All Gp Coochbehar l_compressed.pdf",
+    "source_sha256": "bbb2f6385e040fd5b065d89ff2f67287e8b25dd7e3bbbc76afb950f8f1cabd10",
+    "source_page": 2,
+    "district": "Cooch Behar",
+    "year": "2023",
+    "stage": "final",
+    "source_page_bbox": [
+      0,
+      0,
+      595.276,
+      841.89
+    ],
+    "status": "ocr_extracted_semantic_review_required",
+    "rows": 0,
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/bbb2f6385e040fd5b065d89ff2f67287e8b25dd7e3bbbc76afb950f8f1cabd10.json",
+    "other_tier_rows": 0,
+    "ocr_cache": "data/wb/derived/ward_schedules/ocr/bbb2f6385e040fd5b065d89ff2f67287e8b25dd7e3bbbc76afb950f8f1cabd10/0002.json",
+    "ocr_rows": 5,
+    "sample_image": "data/wb/derived/ward_schedules/semantic_review/sample_5.png"
+  },
+  {
+    "source_path": "data/wb/2023/cooch_behar/extracted/CBR FINAL ORDER  FORM A1 B1/Cooch Behar-I/form B1@Ps Coochbehar l.pdf",
+    "source_sha256": "c780887dc2a7aa4c70511a93dd0581d5a1c77790ba71507c8a37748bbfa221c4",
+    "source_page": 1,
+    "district": "Cooch Behar",
+    "year": "2023",
+    "stage": "final",
+    "source_page_bbox": [
+      0,
+      0,
+      595.276,
+      841.89001
+    ],
+    "status": "ocr_extracted_semantic_review_required",
+    "rows": 0,
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/c780887dc2a7aa4c70511a93dd0581d5a1c77790ba71507c8a37748bbfa221c4.json",
+    "other_tier_rows": 0,
+    "ocr_cache": "data/wb/derived/ward_schedules/ocr/c780887dc2a7aa4c70511a93dd0581d5a1c77790ba71507c8a37748bbfa221c4/0001.json",
+    "ocr_rows": 0,
+    "sample_image": "data/wb/derived/ward_schedules/semantic_review/sample_6.png"
+  },
+  {
+    "source_path": "data/wb/2023/gp_sources/birbhum_nalhati_i_form_a1_6_mb.pdf",
+    "source_sha256": "fd1ebf4c6c4aae09268c4c00140626ec7d4d778610511dfcee504b4db34e95ac",
+    "source_page": 2,
+    "district": "Birbhum",
+    "year": "2023",
+    "stage": "final",
+    "source_page_bbox": [
+      0,
+      0,
+      null,
+      null
+    ],
+    "status": "ocr_extracted_semantic_review_required",
+    "rows": 0,
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/fd1ebf4c6c4aae09268c4c00140626ec7d4d778610511dfcee504b4db34e95ac.json",
+    "other_tier_rows": 0,
+    "ocr_cache": "data/wb/derived/ward_schedules/ocr/fd1ebf4c6c4aae09268c4c00140626ec7d4d778610511dfcee504b4db34e95ac/0002.json",
+    "ocr_rows": 0,
+    "sample_image": "data/wb/derived/ward_schedules/semantic_review/sample_7.png"
+  },
+  {
+    "source_path": "data/wb/2023/alipurduar/kalchini_form_b_kalchini_ps_pdf_3_67mb_2023030243-1.pdf",
+    "source_sha256": "b108ce3a9346fbc3d16aa246d8a55725c8416769a1a5a9ce736d86c0c5b97048",
+    "source_page": 2,
+    "district": "Alipurduar",
+    "year": "2023",
+    "stage": "final",
+    "source_page_bbox": [
+      0,
+      0,
+      596,
+      842
+    ],
+    "status": "ocr_extracted_semantic_review_required",
+    "rows": 0,
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/b108ce3a9346fbc3d16aa246d8a55725c8416769a1a5a9ce736d86c0c5b97048.json",
+    "other_tier_rows": 0,
+    "ocr_cache": "data/wb/derived/ward_schedules/ocr/b108ce3a9346fbc3d16aa246d8a55725c8416769a1a5a9ce736d86c0c5b97048/0002.json",
+    "ocr_rows": 0,
+    "sample_image": "data/wb/derived/ward_schedules/semantic_review/sample_8.png"
+  }
+]

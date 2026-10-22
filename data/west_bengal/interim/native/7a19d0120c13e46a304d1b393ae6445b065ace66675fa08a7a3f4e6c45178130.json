@@ -1,0 +1,2520 @@
+{
+  "version": 1,
+  "sha256": "7a19d0120c13e46a304d1b393ae6445b065ace66675fa08a7a3f4e6c45178130",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "Form-A1\n[See Rule 23(4)]\nO R D E R\nNo. 246 (12)/ P&RD Dated 07.02.2008\nIn exercise of the power conferred by sections 12 and 17 of the West Bengal\nPanchayat Elections Act. 2003 (West Bengal Act XXI of 2003) read with rules 22 and 23\nof the West Bengal Panchayat Election Rules, 2006, I, the District Panchayat Election\nOfficer and District Magistrate of the district of Nadia, as the prescribed authority\nappointed by the State Government in the Department of Panchyats and Rural\nDevelopment under notification No.623-PN/O/I/3R-3/2004 Dated 09.02.2007 for the\npurpose of rules 22 and 23 of the said rules , hereby determine, after previous\npublication of the draft of this order as required under the said rules for the Grams\nspecified in column (1) of the schedule below, the total number of members, Scheduled\nCastes members , Scheduled Tribes members and women members to be elected to such\nGram Panchayats specified in the corresponding entries in columns (2a), (2b),(2c) and\n(2d) respectively, to divide the area of the Grams into constituencies with serial numbers\nassigned to them specified in the corresponding entries in column (3), to allocate to each\nsuch constituency seat or seats specified in the corresponding entries in column(4), seat\nor seats reserved for the Scheduled Castes or the Scheduled Tribes persons specified in\nthe corresponding entries in column(5), and seat or seats reserved for women specified in\nthe corresponding entries in column (6) of the Schedule.",
+      "tables": [],
+      "images": 0,
+      "characters": 1526
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock: Krishnagar-I Dev. Block, Nadia\nNumber of members to be Elected in the Gram Panchayat\nName of Gram\nTotal number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nBhaluka 11 3 Nil 4\nSeats\nSeats reserved\nSeats reserved\nfor Scheduled\nallocated to for\nCastes or\nNumber, name & area of Constituencies with Serial each women\nScheduled\nNumbers Constituency against\nTribes against\nwith serial serial\nserial numbers\nnumbers number\nof Seats\nof seats\n3 4 5 6\nBhaluka / I\nMouza- Bhaluka, J.L. No- 68\n1 -- 1 W\n1. Mondalpara. 2. Mollapara.\n3. Sadhukhanpara\nAssembly Part No. 76/123\nBhaluka / II\nMouza- Bhaluka, J.L. No. 68\n1. Musalmanpara. 2 -- --\n2. Simultalapara (Part)\n3. Gopalan Colony\nAssembly Part No. 76/124\nBhaluka / III\nMouza- Bhaluka, J.L. No. 68\n3 -- --\n1. Banagram Dangapara ,Chatimtala\n2. Simultalapara (Part)\nAssembly Part No. 76/125",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            113.75040000000001,
+            574.1927999999999,
+            203.26319999999998
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Bhaluka",
+              "11",
+              "3",
+              "Nil",
+              "4"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            217.78200000000004,
+            586.9116,
+            593.9508000000001
+          ],
+          "rows": [
+            [
+              "Number, name & area of Constituencies with Serial\nNumbers",
+              "Seats\nallocated to\neach\nConstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled\nTribes against\nserial numbers\nof Seats",
+              "Seats\nreserved\nfor\nwomen\nagainst\nserial\nnumber\nof seats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Bhaluka / I\nMouza- Bhaluka, J.L. No- 68\n1. Mondalpara. 2. Mollapara.\n3. Sadhukhanpara\nAssembly Part No. 76/123",
+              "1",
+              "--",
+              "1 W"
+            ],
+            [
+              "Bhaluka / II\nMouza- Bhaluka, J.L. No. 68\n1. Musalmanpara.\n2. Simultalapara (Part)\n3. Gopalan Colony\nAssembly Part No. 76/124",
+              "2",
+              "--",
+              "--"
+            ],
+            [
+              "Bhaluka / III\nMouza- Bhaluka, J.L. No. 68\n1. Banagram Dangapara ,Chatimtala\n2. Simultalapara (Part)\nAssembly Part No. 76/125",
+              "3",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 915
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "Number of members to be Elected in the Gram Panchayat\nName of Gram\nTotal number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nBhaluka 11 3 Nil 4\nBhaluka / IV\nMouza- Bhaluka, J.L. No. 68 4, 5 -- 4 W\n1. Santoshpur, 2. Jangalbash. 3. Hatdanga\nAssembly Part No. 76/126\nBhaluka / V\n6 SC\nMouza- Satkullia, J.L. No. 72 6 6 SC\n(W)\n1. Senpara. 2. Santrapara 3. Bagpara\nAssembly Part No. 76/127\nBhaluka / VI\nMouza- Bhaluka, J.L. No. 68\n1. Bhaluka Uttar Paschim Musalmanpara. 7 7 SC --\n2. Bhaluka Paschim Dakshin Musalmanpara\n3. Bhaluka Paschim Sadhukhanpara\nAssembly Part No. 76/128\nBhaluka / VII\n1. Bhaluka Paschim Singhapara. Mouza- Bhaluka, J.L. No.\n68 8 8 SC --\n2. Bhaluka Paschim, Mouza- Chak-Pansila, J.L. No. 70\n3. Sijaipur, Mouza- Sijaipur, J.L. No. 69\nAssembly Part No. 76/129\nBhaluka / VIII\nMouza- Bhaluka, J.L. No. 68 9, 10 -- 10 W\n1. Ostagarpara. 2. Brahmanpara\nAssembly Part No. 76/130\nBhaluka / IX\nMouza- Bhaluka, J.L. No. 68 11 -- --\n1. Refujipara. 2. Pirtala Natunpara\nAssembly Part No. 76/131\nDate. 07.02.2008 _____________________________________\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            50.27520000000004,
+            574.7686592399999,
+            139.90800000000002
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Bhaluka",
+              "11",
+              "3",
+              "Nil",
+              "4"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            154.42680000000007,
+            574.7686592399999,
+            613.3884
+          ],
+          "rows": [
+            [
+              "Bhaluka / IV\nMouza- Bhaluka, J.L. No. 68\n1. Santoshpur, 2. Jangalbash. 3. Hatdanga\nAssembly Part No. 76/126",
+              "4, 5",
+              "--",
+              "4 W"
+            ],
+            [
+              "Bhaluka / V\nMouza- Satkullia, J.L. No. 72\n1. Senpara. 2. Santrapara 3. Bagpara\nAssembly Part No. 76/127",
+              "6",
+              "6 SC",
+              "6 SC\n(W)"
+            ],
+            [
+              "Bhaluka / VI\nMouza- Bhaluka, J.L. No. 68\n1. Bhaluka Uttar Paschim Musalmanpara.\n2. Bhaluka Paschim Dakshin Musalmanpara\n3. Bhaluka Paschim Sadhukhanpara\nAssembly Part No. 76/128",
+              "7",
+              "7 SC",
+              "--"
+            ],
+            [
+              "Bhaluka / VII\n1. Bhaluka Paschim Singhapara. Mouza- Bhaluka, J.L. No.\n68\n2. Bhaluka Paschim, Mouza- Chak-Pansila, J.L. No. 70\n3. Sijaipur, Mouza- Sijaipur, J.L. No. 69\nAssembly Part No. 76/129",
+              "8",
+              "8 SC",
+              "--"
+            ],
+            [
+              "Bhaluka / VIII\nMouza- Bhaluka, J.L. No. 68\n1. Ostagarpara. 2. Brahmanpara\nAssembly Part No. 76/130",
+              "9, 10",
+              "--",
+              "10 W"
+            ],
+            [
+              "Bhaluka / IX\nMouza- Bhaluka, J.L. No. 68\n1. Refujipara. 2. Pirtala Natunpara\nAssembly Part No. 76/131",
+              "11",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1227
+    },
+    {
+      "page": 4,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock: Krishnagar-I Dev. Block, Nadia\nNumber of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nBhanderkhola 14 4 Nil 5\nSeats reserved\nSeats\nSeats allocated for Scheduled\nreserved for\nto each Castes or\nNumber, name & area of Constituencies with women\nConstituency Scheduled\nSerial Numbers against serial\nwith serial Tribes against\nnumber of\nnumbers serial numbers\nseats\nof Seats\n3 4 5 6\nBhanderkhola / I\nMouza- Haranagar, J.L No. 44\n1 -- 1 W\n1. Haranagar Uttarapara\n2. Haranagar Paschimpara\nAssembly Part No. 75/1\nBhanderkhola / II\nMouza- Haranagar, J.L. No. 44 2 -- --\nHaranagar Purbapara\nAssembly Part No. 75/2\nBhanderkhola / III\nMouza- Haranagar, J.L. No. 44 3 3 SC 3 SC (W)\n1. Haranagar Dakshinpara 2. Goalbari\nAssembly Part No. 75/3\nBhanderkhola / IV\nMouza- Paninala, J.L. No. 43 4 -- --\n1. Purbapara, 2. Ghosh Para\nAssembly Part No. 75/4",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            117.23040000000003,
+            574.7686592399999,
+            203.9832
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Bhanderkhola",
+              "14",
+              "4",
+              "Nil",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            218.62200000000007,
+            574.7686592399999,
+            646.506
+          ],
+          "rows": [
+            [
+              "Number, name & area of Constituencies with\nSerial Numbers",
+              "Seats allocated\nto each\nConstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled\nTribes against\nserial numbers\nof Seats",
+              "Seats\nreserved for\nwomen\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Bhanderkhola / I\nMouza- Haranagar, J.L No. 44\n1. Haranagar Uttarapara\n2. Haranagar Paschimpara\nAssembly Part No. 75/1",
+              "1",
+              "--",
+              "1 W"
+            ],
+            [
+              "Bhanderkhola / II\nMouza- Haranagar, J.L. No. 44\nHaranagar Purbapara\nAssembly Part No. 75/2",
+              "2",
+              "--",
+              "--"
+            ],
+            [
+              "Bhanderkhola / III\nMouza- Haranagar, J.L. No. 44\n1. Haranagar Dakshinpara 2. Goalbari\nAssembly Part No. 75/3",
+              "3",
+              "3 SC",
+              "3 SC (W)"
+            ],
+            [
+              "Bhanderkhola / IV\nMouza- Paninala, J.L. No. 43\n1. Purbapara, 2. Ghosh Para\nAssembly Part No. 75/4",
+              "4",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 988
+    },
+    {
+      "page": 5,
+      "width": 612,
+      "height": 792,
+      "text": "Number of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nBhanderkhola 14 4 Nil 5\nBhanderkhola / V\nMouza- Ghurni, J.L. No. 95 5 -- 5 W\nGhurni Natunpara\nAssembly Part No. 75/5\nBhanderkhola / VI\n1. Gukulnagar, Mouza- Gokulnagar, J.L. No. 42\n6 -- --\n2. Uttarpara, Mouza- Gokulnagar, J.L. No. 42\n3. Bhanderkhola, Mouza- Bhanderkhola, J.L. No. 41\nAssembly Part No. 75/6\nBhanderkhola /VII\nMouza- Bhanderkhola, J.L. No. 41 7, 8 -- 8 W\n1. Dakshinpara, 2. Bhanderkhola Mallickpara\nAssembly Part No. 75/7\nBhanderkhola / VIII\nMouza- Naldaha, J.L. No. 99 9 -- --\n1. Tarakdaspur, 2. Parulpara\nAssembly Part No. 75/8\nBhanderkhola / IX\n1. Naldaha, Mouza- Naldaha, J.L. No. 99 10 -- --\n2. Java, Mouza- Java(Part), J.L. No. 40\nAssembly Part No. 75/9\nBhanderkhola /X\n11 SC,\n11, 12 12 SC(W)\nMouza- Java , J.L.No. 40, Java (Part) 12 SC\nAssembly Part No. 75/10\nBhanderkhola /XI\nMouza- Naldaha, J.L. No. 99 13 13 SC --\n1. Purbapara, 2. Dakshinpara\nAssembly Part No. 75/11\nBhanderkhola /XII\nMouza- Naldaha, J.L. No. 99\n14 -- --\n1. Paschimpara, 2. Arshihari\nAssembly Part No. 75/12\nDate. 07.02.2008 _____________________________________\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            46.79640000000006,
+            574.1927999999999,
+            120.95040000000006
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Bhanderkhola",
+              "14",
+              "4",
+              "Nil",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            133.06920000000002,
+            586.9116,
+            635.8272
+          ],
+          "rows": [
+            [
+              "Bhanderkhola / V\nMouza- Ghurni, J.L. No. 95\nGhurni Natunpara\nAssembly Part No. 75/5",
+              "5",
+              "--",
+              "5 W"
+            ],
+            [
+              "Bhanderkhola / VI\n1. Gukulnagar, Mouza- Gokulnagar, J.L. No. 42\n2. Uttarpara, Mouza- Gokulnagar, J.L. No. 42\n3. Bhanderkhola, Mouza- Bhanderkhola, J.L. No. 41\nAssembly Part No. 75/6",
+              "6",
+              "--",
+              "--"
+            ],
+            [
+              "Bhanderkhola /VII\nMouza- Bhanderkhola, J.L. No. 41\n1. Dakshinpara, 2. Bhanderkhola Mallickpara\nAssembly Part No. 75/7",
+              "7, 8",
+              "--",
+              "8 W"
+            ],
+            [
+              "Bhanderkhola / VIII\nMouza- Naldaha, J.L. No. 99\n1. Tarakdaspur, 2. Parulpara\nAssembly Part No. 75/8",
+              "9",
+              "--",
+              "--"
+            ],
+            [
+              "Bhanderkhola / IX\n1. Naldaha, Mouza- Naldaha, J.L. No. 99\n2. Java, Mouza- Java(Part), J.L. No. 40\nAssembly Part No. 75/9",
+              "10",
+              "--",
+              "--"
+            ],
+            [
+              "Bhanderkhola /X\nMouza- Java , J.L.No. 40, Java (Part)\nAssembly Part No. 75/10",
+              "11, 12",
+              "11 SC,\n12 SC",
+              "12 SC(W)"
+            ],
+            [
+              "Bhanderkhola /XI\nMouza- Naldaha, J.L. No. 99\n1. Purbapara, 2. Dakshinpara\nAssembly Part No. 75/11",
+              "13",
+              "13 SC",
+              "--"
+            ],
+            [
+              "Bhanderkhola /XII\nMouza- Naldaha, J.L. No. 99\n1. Paschimpara, 2. Arshihari\nAssembly Part No. 75/12",
+              "14",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1370
+    },
+    {
+      "page": 6,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock: Krishnagar-I Dev. Block, Nadia\nNumber of members to be Elected in the Gram Panchayat\nName of Gram\nTotal number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nPoragachha 16 4 Nil 6\nSeats reserved\nSeats\nSeats allocated for Scheduled\nreserved for\nto each Castes or\nNumber, name & area of Constituencies with women\nConstituency Scheduled\nSerial Numbers against serial\nwith serial Tribes against\nnumber of\nnumbers serial numbers\nseats\nof Seats\n3 4 5 6\nPoragachha / I\nMouza- Purba Bhatjungla, J.L. No. 102\n1. Biswaspara, 2. Biswas & Madhyapara 1,2 -- 1 W\n3. Biswaspara Mathpara\nAssembly Part No.75/13\nPoragachha /II\nMouza- Poragachha, J.L. No. 103\n1. Poragachha, 2. Poragachha Colony, (Uttar) 3 -- --\n3. Poragachha Colony(Dakshin)\nAssembly Part No.75/14\nPoragachha /III\nMouza- Bansberia, J.L. No. 104\n1. Bansberia Halderpara, 4 4 SC 4 SC (W)\n2. Bansberia Musalmanpara\nAssembly Part No.75/15\nPoragachha /IV\nMouza- Kulgachi, J.L. No. 105\n5 -- 5 W\n1. Uttarpara\nAssembly Part No.75/16\nPoragachha /V\nMouza- Kulgachi, J.L. No. 105\n6 -- --\n1. Dakshinpara\nAssembly Part No.75/17\nPoragachha /VI\nMouza- Kulgachi, J.L. No. 105\n1. Kulgachi Colony (Madhyapara) 7 -- --\n2. Kulgachhi Colony (Dakshinpara)\nAssembly Part No.75/18",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            96.11160000000007,
+            574.8326435999999,
+            181.5444
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Poragachha",
+              "16",
+              "4",
+              "Nil",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            196.06319999999994,
+            574.8326435999999,
+            690.1824
+          ],
+          "rows": [
+            [
+              "Number, name & area of Constituencies with\nSerial Numbers",
+              "Seats allocated\nto each\nConstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled\nTribes against\nserial numbers\nof Seats",
+              "Seats\nreserved for\nwomen\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Poragachha / I\nMouza- Purba Bhatjungla, J.L. No. 102\n1. Biswaspara, 2. Biswas & Madhyapara\n3. Biswaspara Mathpara\nAssembly Part No.75/13",
+              "1,2",
+              "--",
+              "1 W"
+            ],
+            [
+              "Poragachha /II\nMouza- Poragachha, J.L. No. 103\n1. Poragachha, 2. Poragachha Colony, (Uttar)\n3. Poragachha Colony(Dakshin)\nAssembly Part No.75/14",
+              "3",
+              "--",
+              "--"
+            ],
+            [
+              "Poragachha /III\nMouza- Bansberia, J.L. No. 104\n1. Bansberia Halderpara,\n2. Bansberia Musalmanpara\nAssembly Part No.75/15",
+              "4",
+              "4 SC",
+              "4 SC (W)"
+            ],
+            [
+              "Poragachha /IV\nMouza- Kulgachi, J.L. No. 105\n1. Uttarpara\nAssembly Part No.75/16",
+              "5",
+              "--",
+              "5 W"
+            ],
+            [
+              "Poragachha /V\nMouza- Kulgachi, J.L. No. 105\n1. Dakshinpara\nAssembly Part No.75/17",
+              "6",
+              "--",
+              "--"
+            ],
+            [
+              "Poragachha /VI\nMouza- Kulgachi, J.L. No. 105\n1. Kulgachi Colony (Madhyapara)\n2. Kulgachhi Colony (Dakshinpara)\nAssembly Part No.75/18",
+              "7",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1283
+    },
+    {
+      "page": 7,
+      "width": 612,
+      "height": 792,
+      "text": "Number of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nPoragachha 16 4 Nil 6\nPoragachha /VII\nMouza- Kulgachi, J.L. No. 105\n8 -- 8 W\n1. Kulgachi Colony (Uttarpara)\nAssembly Part No.75/19\nPoragachha /VIII\nMouza- Khamarpara, J.L. No. 100\n1. Harinagar Colony (Paschim) , 2. Harinagar 9 9 SC --\nColony (Purba)\nAssembly Part No.75/20\nPoragachha /IX\nMouza- Khamarpara, J.L. No. 100\n10 -- --\n1. Khamarpara (Palpara)\nAssembly Part No.75/21\nPoragachha /X\nMouza- Gobrapota, J.L. No. 106\n11 11 SC 11 SC (W)\n1. Madhyapara, 2. Purbapara\nAssembly Part No.75/22\nPoragachha /XI\nMouza- Gobrapota, J.L. No. 106\n12 -- --\n1. Uttarpara, 2. Paschimpara\nAssembly Part No.75/23\nPoragachha /XII\nMouza- Hijulu, J.L. No. 107\n13 -- 13 W\n1. Hijuli Sahapara, 2. Hijuli Biswaspara\nAssembly Part No.75/24\nPoragachha /XIII\nMouza- Sandhya, J.L. No. 97\n14 14 SC 14 SC\n1. Hijuli Sandhya Mathpara (Uttardik)\nAssembly Part No.75/25\nPoragachha /XIV\nMouza- Sandhya, J.L. No. 97\n1. Hijuli Sandhya Mathpara (Dakshindik), 15 -- --\nSukantapally, Basantanagar.\nAssembly Part No.75/26\nPoragachha /XV\nMouza- Sandhya, J.L. No. 97\n16 -- --\n1. S.A.P Camp\nAssembly Part No.75/27\nDate. 07.02.2008 _____________________________________\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            50.27520000000004,
+            574.8572529692307,
+            119.2704
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Poragachha",
+              "16",
+              "4",
+              "Nil",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            133.78920000000005,
+            574.8572529692307,
+            646.0260000000001
+          ],
+          "rows": [
+            [
+              "Poragachha /VII\nMouza- Kulgachi, J.L. No. 105\n1. Kulgachi Colony (Uttarpara)\nAssembly Part No.75/19",
+              "8",
+              "--",
+              "8 W"
+            ],
+            [
+              "Poragachha /VIII\nMouza- Khamarpara, J.L. No. 100\n1. Harinagar Colony (Paschim) , 2. Harinagar\nColony (Purba)\nAssembly Part No.75/20",
+              "9",
+              "9 SC",
+              "--"
+            ],
+            [
+              "Poragachha /IX\nMouza- Khamarpara, J.L. No. 100\n1. Khamarpara (Palpara)\nAssembly Part No.75/21",
+              "10",
+              "--",
+              "--"
+            ],
+            [
+              "Poragachha /X\nMouza- Gobrapota, J.L. No. 106\n1. Madhyapara, 2. Purbapara\nAssembly Part No.75/22",
+              "11",
+              "11 SC",
+              "11 SC (W)"
+            ],
+            [
+              "Poragachha /XI\nMouza- Gobrapota, J.L. No. 106\n1. Uttarpara, 2. Paschimpara\nAssembly Part No.75/23",
+              "12",
+              "--",
+              "--"
+            ],
+            [
+              "Poragachha /XII\nMouza- Hijulu, J.L. No. 107\n1. Hijuli Sahapara, 2. Hijuli Biswaspara\nAssembly Part No.75/24",
+              "13",
+              "--",
+              "13 W"
+            ],
+            [
+              "Poragachha /XIII\nMouza- Sandhya, J.L. No. 97\n1. Hijuli Sandhya Mathpara (Uttardik)\nAssembly Part No.75/25",
+              "14",
+              "14 SC",
+              "14 SC"
+            ],
+            [
+              "Poragachha /XIV\nMouza- Sandhya, J.L. No. 97\n1. Hijuli Sandhya Mathpara (Dakshindik),\nSukantapally, Basantanagar.\nAssembly Part No.75/26",
+              "15",
+              "--",
+              "--"
+            ],
+            [
+              "Poragachha /XV\nMouza- Sandhya, J.L. No. 97\n1. S.A.P Camp\nAssembly Part No.75/27",
+              "16",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1418
+    },
+    {
+      "page": 8,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock: Krishnagar-I Dev. Block, Nadia\nNumber of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nRuipukur 15 4 Nil 5\nSeats reserved\nSeats\nSeats allocated for Scheduled\nreserved for\nto each Castes or\nNumber, name & area of Constituencies with women\nConstituency Scheduled\nSerial Numbers against serial\nwith serial Tribes against\nnumber of\nnumbers serial numbers\nseats\nof Seats\n3 4 5 6\nRuipukur / I\nMouza- Ruipukur, J.L. No. 52\n1. Natun Sambhunagar Purbapara, 2. Natun 1 -- 1 W\nSambhunagar Paschimpara\nAssembly Part No.76/111\nRuipukur / II\nMouza- Ruipukur, J.L. No. 52\n1. Road Station, Krishnagar. 2. 2 2 SC 2 SC (W)\nArabindanagar\nAssembly Part No.76/112\nRuipukur / III\nMouza- Ruipukur, J.L. No. 52\n1. Sambhunagar Mill Elaka, 2. Puratan\nSambhunagar Musalman Para\n3. Berij, Mouza- Berij, J.L. No. 55\n3,4 4 SC --\n4. Shyamnagar Purbapara, Mouza-\nShyamnagar, J.L. No. 56\n5. Puratan Shyamnagar Paschimpara, Mouza-\nShyamnagar, J.L. No. 56\nAssembly Part No.76/113\nRuipukur / IV\nMouza- Ruipukur, J.L. No. 52\n1. Natun Char Sambhunagar (Dakshin) 5 -- --\n2. Natun Char Sambhunagar (Uttar)\nAssembly Part No.76/114\nRuipukur / V\nMouza- Ruipukur, J.L. No. 52\n1. Puratan Sambhunagar (Dakshin)\n6 6 SC --\n2. Puratan Char Sambhunagar (Uttar)\n3. Sambhunagar Mill\nAssembly Part No.76/115",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            93.71160000000009,
+            574.8035597999999,
+            164.1468000000001
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Ruipukur",
+              "15",
+              "4",
+              "Nil",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            178.6644,
+            574.8035597999999,
+            700.86144
+          ],
+          "rows": [
+            [
+              "Number, name & area of Constituencies with\nSerial Numbers",
+              "Seats allocated\nto each\nConstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled\nTribes against\nserial numbers\nof Seats",
+              "Seats\nreserved for\nwomen\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Ruipukur / I\nMouza- Ruipukur, J.L. No. 52\n1. Natun Sambhunagar Purbapara, 2. Natun\nSambhunagar Paschimpara\nAssembly Part No.76/111",
+              "1",
+              "--",
+              "1 W"
+            ],
+            [
+              "Ruipukur / II\nMouza- Ruipukur, J.L. No. 52\n1. Road Station, Krishnagar. 2.\nArabindanagar\nAssembly Part No.76/112",
+              "2",
+              "2 SC",
+              "2 SC (W)"
+            ],
+            [
+              "Ruipukur / III\nMouza- Ruipukur, J.L. No. 52\n1. Sambhunagar Mill Elaka, 2. Puratan\nSambhunagar Musalman Para\n3. Berij, Mouza- Berij, J.L. No. 55\n4. Shyamnagar Purbapara, Mouza-\nShyamnagar, J.L. No. 56\n5. Puratan Shyamnagar Paschimpara, Mouza-\nShyamnagar, J.L. No. 56\nAssembly Part No.76/113",
+              "3,4",
+              "4 SC",
+              "--"
+            ],
+            [
+              "Ruipukur / IV\nMouza- Ruipukur, J.L. No. 52\n1. Natun Char Sambhunagar (Dakshin)\n2. Natun Char Sambhunagar (Uttar)\nAssembly Part No.76/114",
+              "5",
+              "--",
+              "--"
+            ],
+            [
+              "Ruipukur / V\nMouza- Ruipukur, J.L. No. 52\n1. Puratan Sambhunagar (Dakshin)\n2. Puratan Char Sambhunagar (Uttar)\n3. Sambhunagar Mill\nAssembly Part No.76/115",
+              "6",
+              "6 SC",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1401
+    },
+    {
+      "page": 9,
+      "width": 612,
+      "height": 792,
+      "text": "Number of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nRuipukur 15 4 Nil 5\nRuipukur / VI\nMouza- Amghata, J.L. No. 57\n1. Amghata Musalman Para, 2. Amghata 7 -- 7 W\nPaschimpara, Mouza- Amghata, J.L. No. 52\nAssembly Part No.76/116\nRuipukur / VII\nMouza- Amghata, J.L. No. 57\n1. Amghta Uttar Shyampur Purbapara\n8,9 -- --\n2. Amghta Uttar Shyampur Madhyapara\n3. Amghta Uttar Shyampur Dakshinpara\nAssembly Part No.76/117\nRuipukur / VIII\nMouza- Amghata, J.L. No. 57\n1. Amghata Bagchipara, 2. Kashibash, Mouza- 10 -- 10 W\nUshidpur, J.L. No. 58\nAssembly Part No.76/118\nRuipukur / IX\nMouza- Amghata, J.L. No. 57\n11 -- --\n1. Amghata Ghoshpara\nAssembly Part No.76/119\nRuipukur / X\n1. Amghata Dakshionpara, Mouza- Amghata,\nJ.L. No. 57, 2. Gangabash, Mouza- Ushidpur, 12 -- --\nJ.L. No. 58\nAssembly Part No.76/120\nRuipukur / XI\nMouza- Ushidpur, J.L. No. 58\n13,14 13 SC 13 SC (W)\n1. Brahmanagar, 2. Dakshinpara\nAssembly Part No.76/121\nRuipukur / XII\nMouza- Ushidpur, J.L. No. 58\n15 -- --\n1. Uttarpara\nAssembly Part No.76/122\nDate. 07.02.2008 _____________________________________\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            50.27520000000004,
+            574.8035597999999,
+            120.71040000000005
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Ruipukur",
+              "15",
+              "4",
+              "Nil",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            135.2292,
+            574.8035597999999,
+            573.072
+          ],
+          "rows": [
+            [
+              "Ruipukur / VI\nMouza- Amghata, J.L. No. 57\n1. Amghata Musalman Para, 2. Amghata\nPaschimpara, Mouza- Amghata, J.L. No. 52\nAssembly Part No.76/116",
+              "7",
+              "--",
+              "7 W"
+            ],
+            [
+              "Ruipukur / VII\nMouza- Amghata, J.L. No. 57\n1. Amghta Uttar Shyampur Purbapara\n2. Amghta Uttar Shyampur Madhyapara\n3. Amghta Uttar Shyampur Dakshinpara\nAssembly Part No.76/117",
+              "8,9",
+              "--",
+              "--"
+            ],
+            [
+              "Ruipukur / VIII\nMouza- Amghata, J.L. No. 57\n1. Amghata Bagchipara, 2. Kashibash, Mouza-\nUshidpur, J.L. No. 58\nAssembly Part No.76/118",
+              "10",
+              "--",
+              "10 W"
+            ],
+            [
+              "Ruipukur / IX\nMouza- Amghata, J.L. No. 57\n1. Amghata Ghoshpara\nAssembly Part No.76/119",
+              "11",
+              "--",
+              "--"
+            ],
+            [
+              "Ruipukur / X\n1. Amghata Dakshionpara, Mouza- Amghata,\nJ.L. No. 57, 2. Gangabash, Mouza- Ushidpur,\nJ.L. No. 58\nAssembly Part No.76/120",
+              "12",
+              "--",
+              "--"
+            ],
+            [
+              "Ruipukur / XI\nMouza- Ushidpur, J.L. No. 58\n1. Brahmanagar, 2. Dakshinpara\nAssembly Part No.76/121",
+              "13,14",
+              "13 SC",
+              "13 SC (W)"
+            ],
+            [
+              "Ruipukur / XII\nMouza- Ushidpur, J.L. No. 58\n1. Uttarpara\nAssembly Part No.76/122",
+              "15",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1300
+    },
+    {
+      "page": 10,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock: Krishnagar-I Dev. Block, Nadia\nNumber of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nDeypara 17 5 Nil 6\nSeats reserved\nSeats\nSeats allocated for Scheduled\nreserved for\nto each Castes or\nNumber, name & area of Constituencies with women\nConstituency Scheduled\nSerial Numbers against serial\nwith serial Tribes against\nnumber of\nnumbers serial numbers\nseats\nof Seats\n3 4 5 6\nDeypara /I\nMouza- Simultala, J.L. No. 53\n1 -- 1 W\n1. Simultala (Upendranagar)\nAssembly Part No.76/94\nDeypara /II\nMouza- Simultala, J.L. No. 53\n2 -- --\n1. Simultala. 2. Paschimpara\nAssembly Part No.76/95\nDeypara / III\nMouza- Simultala, J.L. No. 53\n3 -- --\n1. Gurudham Dakshinpara\nAssembly Part No.76/96\nDeypara / IV\nMouza- Jahangirpur, J.L. No. 88\n1. Dakshin Paschimpara. 2. Dakshinpara 4,5 -- 4 W\n3. Uttar Paschimpara. 4. Uttar Dakshinpara\nAssembly Part No.76/97\nDeypara / V\n1. Uttarpara, Mouza- Jahangirpur, J.L. No. 88\n2. Churnipota, Mouza- Subarnabihar, J.L. No. 6 6 SC 6 SC (W)\n54\nAssembly Part No.76/98\nDeypara / VI\nMouza- Jahangirpur, J.L. No. 88\n1. Horticulture & Jute Seed Firm (Part) 7 -- --\n2. Satgachia, Mouza- Satgachia, J.L. No. 89\nAssembly Part No.76/99\nDeypara / VII\nMouza- Jahangirpur, J.L. No. 88\n1. Sebagram. 2. Horticulture & Jute Seed 8,9 8 SC 9 W\nFirm (Part).\nAssembly Part No.76/100",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            96.11160000000007,
+            574.8572529692307,
+            164.98680000000002
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Deypara",
+              "17",
+              "5",
+              "Nil",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            179.62440000000004,
+            574.8572529692307,
+            718.02
+          ],
+          "rows": [
+            [
+              "Number, name & area of Constituencies with\nSerial Numbers",
+              "Seats allocated\nto each\nConstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled\nTribes against\nserial numbers\nof Seats",
+              "Seats\nreserved for\nwomen\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Deypara /I\nMouza- Simultala, J.L. No. 53\n1. Simultala (Upendranagar)\nAssembly Part No.76/94",
+              "1",
+              "--",
+              "1 W"
+            ],
+            [
+              "Deypara /II\nMouza- Simultala, J.L. No. 53\n1. Simultala. 2. Paschimpara\nAssembly Part No.76/95",
+              "2",
+              "--",
+              "--"
+            ],
+            [
+              "Deypara / III\nMouza- Simultala, J.L. No. 53\n1. Gurudham Dakshinpara\nAssembly Part No.76/96",
+              "3",
+              "--",
+              "--"
+            ],
+            [
+              "Deypara / IV\nMouza- Jahangirpur, J.L. No. 88\n1. Dakshin Paschimpara. 2. Dakshinpara\n3. Uttar Paschimpara. 4. Uttar Dakshinpara\nAssembly Part No.76/97",
+              "4,5",
+              "--",
+              "4 W"
+            ],
+            [
+              "Deypara / V\n1. Uttarpara, Mouza- Jahangirpur, J.L. No. 88\n2. Churnipota, Mouza- Subarnabihar, J.L. No.\n54\nAssembly Part No.76/98",
+              "6",
+              "6 SC",
+              "6 SC (W)"
+            ],
+            [
+              "Deypara / VI\nMouza- Jahangirpur, J.L. No. 88\n1. Horticulture & Jute Seed Firm (Part)\n2. Satgachia, Mouza- Satgachia, J.L. No. 89\nAssembly Part No.76/99",
+              "7",
+              "--",
+              "--"
+            ],
+            [
+              "Deypara / VII\nMouza- Jahangirpur, J.L. No. 88\n1. Sebagram. 2. Horticulture & Jute Seed\nFirm (Part).\nAssembly Part No.76/100",
+              "8,9",
+              "8 SC",
+              "9 W"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1427
+    },
+    {
+      "page": 11,
+      "width": 612,
+      "height": 792,
+      "text": "Number of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nDeypara 17 5 Nil 6\nDeypara / VIII\nMouza- Subarnabihar, J.L. No. 54\n10 10 SC --\n1. Deypara Nrisinghadeb Para\nAssembly Part No.76/101\nDeypara / IX\nMouza- Subarnabihar, J.L. No. 54\n11 11 SC 11 SC (W)\n1. Deypara, Purbapara (Part)\nAssembly Part No.76/102\nDeypara / X\nMouza- Subarnabihar, J.L. No. 54\n1. Deypara, Purbapara (Part). 2. Deypara 12 -- --\nPaschimpara\nAssembly Part No.76/103\nDeypara / XI\nMouza- Subarnabihar, J.L. No. 54\n13 -- --\n1. Gouranga Colony, 2. Purbapara\nAssembly Part No.76/106\nDeypara / XII\nMouza- Subarnabihar, J.L. No. 54\n14 -- 14 W\n1. Nikunja Colony. 2. Modakpara\nAssembly Part No.76/107\nDeypara /XIII\nMouza- Subarnabihar, J.L. No. 54\n15 -- --\n1. Madhya Para. 2. Ghosh Para\nAssembly Part No.76/108\nDeypara / XIV\nMouza- Subarnabihar, J.L. No. 54\n16 16 SC --\n1. Harishpur Uttarpara\nAssembly Part No.76/109\nDeypara / XV\nMouza- Subarnabihar, J.L. No. 54\n1. Harishpur Dakshinpara. 2. Harishpur\n17 -- --\nPaschimpara 3. Harishpur Champta Camp 1\nNo. Block\nAssembly Part No.76/110\nDate. 07.02.2008 _____________________________________\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            50.27520000000004,
+            574.8326435999999,
+            119.2704
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Deypara",
+              "17",
+              "5",
+              "Nil",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            133.78920000000005,
+            574.8326435999999,
+            599.1098346
+          ],
+          "rows": [
+            [
+              "Deypara / VIII\nMouza- Subarnabihar, J.L. No. 54\n1. Deypara Nrisinghadeb Para\nAssembly Part No.76/101",
+              "10",
+              "10 SC",
+              "--"
+            ],
+            [
+              "Deypara / IX\nMouza- Subarnabihar, J.L. No. 54\n1. Deypara, Purbapara (Part)\nAssembly Part No.76/102",
+              "11",
+              "11 SC",
+              "11 SC (W)"
+            ],
+            [
+              "Deypara / X\nMouza- Subarnabihar, J.L. No. 54\n1. Deypara, Purbapara (Part). 2. Deypara\nPaschimpara\nAssembly Part No.76/103",
+              "12",
+              "--",
+              "--"
+            ],
+            [
+              "Deypara / XI\nMouza- Subarnabihar, J.L. No. 54\n1. Gouranga Colony, 2. Purbapara\nAssembly Part No.76/106",
+              "13",
+              "--",
+              "--"
+            ],
+            [
+              "Deypara / XII\nMouza- Subarnabihar, J.L. No. 54\n1. Nikunja Colony. 2. Modakpara\nAssembly Part No.76/107",
+              "14",
+              "--",
+              "14 W"
+            ],
+            [
+              "Deypara /XIII\nMouza- Subarnabihar, J.L. No. 54\n1. Madhya Para. 2. Ghosh Para\nAssembly Part No.76/108",
+              "15",
+              "--",
+              "--"
+            ],
+            [
+              "Deypara / XIV\nMouza- Subarnabihar, J.L. No. 54\n1. Harishpur Uttarpara\nAssembly Part No.76/109",
+              "16",
+              "16 SC",
+              "--"
+            ],
+            [
+              "Deypara / XV\nMouza- Subarnabihar, J.L. No. 54\n1. Harishpur Dakshinpara. 2. Harishpur\nPaschimpara 3. Harishpur Champta Camp 1\nNo. Block\nAssembly Part No.76/110",
+              "17",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1339
+    },
+    {
+      "page": 12,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock: Krishnagar-I Dev. Block, Nadia\nNumber of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nJoania 13 5 3 5\nSeats reserved\nSeats\nSeats allocated for Scheduled\nreserved for\nto each Castes or\nNumber, name & area of Constituencies with women\nConstituency Scheduled\nSerial Numbers against serial\nwith serial Tribes against\nnumber of\nnumbers serial numbers\nseats\nof Seats\n3 4 5 6\nJoania / I\n1. Purba Bishnupur, Mouza- Bishnupur, J.L.\nNo. 59 1 1 SC 1 SC (W)\n2. Monipota, Mouza- Bishnupur, J.L. No. 59\nAssembly Part No.76/104\nJoania / II\nMouza- Bishnupur, J.L. No. 59\n2 - 2 (W)\n1. Paschim Bishnupur\nAssembly Part No.76/105\nJoania / III\nMouza- Kundapara, J.L. No. 60\n3 - -\n1. Purba Kundapara, 2. Paschim Kundapara\nAssembly Part No.76/132\nJoania / IV\n1. Purba Suchia, Mouza- Suchia, J.L. No. 62\n2. Ektarpur, Mouza- Ektarpur, J.L. No. 63\n4 4 ST -\n3. Purba Hazrapole, Mouza- Hazrapole, J.L.\nNo. 64\nAssembly Part No.76/133\nJoania / V\nMouza- Rowtara, J.L. No. 87\n5,6 6 SC -\n1. Rowtara Mathpara, 2. Rowtara Sardarpara\nAssembly Part No.76/134\nJoania / VI\n1. Rowtara Janakalyanpara, Mouza- Rowtara,\nJ.L. No. 87 7 SC,\n7,8 7 SC (W)\n2. Singerdanga, Mouza- Singerdanaga, J.L. 8 SC\nNo. 89\nAssembly Part No.76/135",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            92.63279999999997,
+            574.8326435999999,
+            163.42680000000007
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Joania",
+              "13",
+              "5",
+              "3",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            177.94463460000003,
+            574.8326435999999,
+            667.8648000000001
+          ],
+          "rows": [
+            [
+              "Number, name & area of Constituencies with\nSerial Numbers",
+              "Seats allocated\nto each\nConstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled\nTribes against\nserial numbers\nof Seats",
+              "Seats\nreserved for\nwomen\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Joania / I\n1. Purba Bishnupur, Mouza- Bishnupur, J.L.\nNo. 59\n2. Monipota, Mouza- Bishnupur, J.L. No. 59\nAssembly Part No.76/104",
+              "1",
+              "1 SC",
+              "1 SC (W)"
+            ],
+            [
+              "Joania / II\nMouza- Bishnupur, J.L. No. 59\n1. Paschim Bishnupur\nAssembly Part No.76/105",
+              "2",
+              "-",
+              "2 (W)"
+            ],
+            [
+              "Joania / III\nMouza- Kundapara, J.L. No. 60\n1. Purba Kundapara, 2. Paschim Kundapara\nAssembly Part No.76/132",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              "Joania / IV\n1. Purba Suchia, Mouza- Suchia, J.L. No. 62\n2. Ektarpur, Mouza- Ektarpur, J.L. No. 63\n3. Purba Hazrapole, Mouza- Hazrapole, J.L.\nNo. 64\nAssembly Part No.76/133",
+              "4",
+              "4 ST",
+              "-"
+            ],
+            [
+              "Joania / V\nMouza- Rowtara, J.L. No. 87\n1. Rowtara Mathpara, 2. Rowtara Sardarpara\nAssembly Part No.76/134",
+              "5,6",
+              "6 SC",
+              "-"
+            ],
+            [
+              "Joania / VI\n1. Rowtara Janakalyanpara, Mouza- Rowtara,\nJ.L. No. 87\n2. Singerdanga, Mouza- Singerdanaga, J.L.\nNo. 89\nAssembly Part No.76/135",
+              "7,8",
+              "7 SC,\n8 SC",
+              "7 SC (W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1337
+    },
+    {
+      "page": 13,
+      "width": 612,
+      "height": 792,
+      "text": "Number of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nJoania 13 5 3 5\nJoania / VII\n1. Paschim Hazrapole, Mouza- Hazrapole, J.L.\nNo. 64\n9 9 ST -\n2. Paschim Suchia, Mouza- Suchia, J.L. No.\n62\nAssembly Part No.76/136\nJoania / VIII\nMouza- Joania, J.L. No. 66\n10 10 SC 10 SC(W)\n1. Uttar Joania\nAssembly Part No.76/137\nJoania / IX\n1. Uttar Boalia, Mouza- Boalia, J.L. No. 73\n2. Malipota, Mouza- Malipota, J.L. No.67\n11 - 11 (W)\n3. Dakshin Joania, Mouza- Joania, J.L. No.\n66\nAssembly Part No.76/138\nJoania / X\n1. Tiabali, Mouza- Tiabali, J.L. No. 75\n12 12 ST -\n2. Kurshi, Mouza- Kurshi, J.L. No. 65\nAssembly Part No.76/139\nJoania / XI\n1. Sardanga, Mouza- Sardanga, J.L. No. 74\n2. Dakshin Boalia, Mouza- Boalia, J.L. No. 13 - --\n73\nAssembly Part No.76/140\nDate. 07.02.2008 _____________________________________\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            50.27520000000004,
+            574.7260029999999,
+            121.19040000000007
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Joania",
+              "13",
+              "5",
+              "3",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            135.7092,
+            574.7260029999999,
+            466.8816
+          ],
+          "rows": [
+            [
+              "Joania / VII\n1. Paschim Hazrapole, Mouza- Hazrapole, J.L.\nNo. 64\n2. Paschim Suchia, Mouza- Suchia, J.L. No.\n62\nAssembly Part No.76/136",
+              "9",
+              "9 ST",
+              "-"
+            ],
+            [
+              "Joania / VIII\nMouza- Joania, J.L. No. 66\n1. Uttar Joania\nAssembly Part No.76/137",
+              "10",
+              "10 SC",
+              "10 SC(W)"
+            ],
+            [
+              "Joania / IX\n1. Uttar Boalia, Mouza- Boalia, J.L. No. 73\n2. Malipota, Mouza- Malipota, J.L. No.67\n3. Dakshin Joania, Mouza- Joania, J.L. No.\n66\nAssembly Part No.76/138",
+              "11",
+              "-",
+              "11 (W)"
+            ],
+            [
+              "Joania / X\n1. Tiabali, Mouza- Tiabali, J.L. No. 75\n2. Kurshi, Mouza- Kurshi, J.L. No. 65\nAssembly Part No.76/139",
+              "12",
+              "12 ST",
+              "-"
+            ],
+            [
+              "Joania / XI\n1. Sardanga, Mouza- Sardanga, J.L. No. 74\n2. Dakshin Boalia, Mouza- Boalia, J.L. No.\n73\nAssembly Part No.76/140",
+              "13",
+              "-",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1042
+    },
+    {
+      "page": 14,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock: Krishnagar-I Dev. Block, Nadia\nNumber of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nBhimpur 19 9 Nil 7\nSeats reserved\nSeats allocated for Scheduled Seats reserved\nto each Castes or for women\nNumber, name & area of Constituencies with\nConstituency Scheduled Tribes against serial\nSerial Numbers\nwith serial against serial number of\nnumbers numbers of seats\nSeats\n3 4 5 6\nBhimpur / I\n1. Andulpota, Mouza- Andulpota, J.L. No. 137\n2. Uttarpara, Mouza- Muragachha, , J.L. 1 1 SC 1 SC (W)\nNo.138\nAssembly Part No.74/41\nBhimpur / II\nMouza- Muragachha, J.L. No. 138\n2 -- 2 W\n1. Dakshinpara, 2. Jhor Muragachha\nAssembly Part No.74/42\nBhimpur / III\nMouza- Chandpur, J.L. No. 134\n3 3 SC --\n1. Uttarpara, 2. Dakshinpara\nAssembly Part No.74/43\nBhimpur / IV\nMouza- Digree, J.L. No. 136 1. Digree 4 4 SC --\nAssembly Part No.74/44\nBhimpur / V\nMouza- Adapota, J.L. No. 135 1. Adapota 5 -- --\nAssembly Part No.74/45\nBhimpur / VI\nMouza- Jalkar Mathurapur, J.L. No. 131\n1. Jalkar Mathurapur Paschimpara, 2. Jalkar\nMathurapur Purbapara 6 6 SC 6 SC (W)\n3. Jalkar Mathurapur Gobindapur, Mouza-\nGobindapur, J.L. No. 132\nAssembly Part No.74/46\nBhimpur / VII\nMouza- Krishnapur, J.L. No. 130\n1. Krishnapur Purbapara, 2. Krishnapur 7,8 8 SC --\nMajherpara, 3. Krishnapur Paschimpara\nAssembly Part No.74/47\nBhimpur / VIII\nMouza- Damodarkhali, J.L. No. 129\n1. Nelua Musalman Para, 2. Nelua Uttarpara, 9,10 9 SC 10 W\n3. Nelua Dakshinpara\nAssembly Part No.74/48",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            92.63279999999997,
+            574.8783467142856,
+            164.50680000000006
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Bhimpur",
+              "19",
+              "9",
+              "Nil",
+              "7"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            179.0244,
+            574.8783467142856,
+            754.49724
+          ],
+          "rows": [
+            [
+              "Number, name & area of Constituencies with\nSerial Numbers",
+              "Seats allocated\nto each\nConstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled Tribes\nagainst serial\nnumbers of\nSeats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Bhimpur / I\n1. Andulpota, Mouza- Andulpota, J.L. No. 137\n2. Uttarpara, Mouza- Muragachha, , J.L.\nNo.138\nAssembly Part No.74/41",
+              "1",
+              "1 SC",
+              "1 SC (W)"
+            ],
+            [
+              "Bhimpur / II\nMouza- Muragachha, J.L. No. 138\n1. Dakshinpara, 2. Jhor Muragachha\nAssembly Part No.74/42",
+              "2",
+              "--",
+              "2 W"
+            ],
+            [
+              "Bhimpur / III\nMouza- Chandpur, J.L. No. 134\n1. Uttarpara, 2. Dakshinpara\nAssembly Part No.74/43",
+              "3",
+              "3 SC",
+              "--"
+            ],
+            [
+              "Bhimpur / IV\nMouza- Digree, J.L. No. 136 1. Digree\nAssembly Part No.74/44",
+              "4",
+              "4 SC",
+              "--"
+            ],
+            [
+              "Bhimpur / V\nMouza- Adapota, J.L. No. 135 1. Adapota\nAssembly Part No.74/45",
+              "5",
+              "--",
+              "--"
+            ],
+            [
+              "Bhimpur / VI\nMouza- Jalkar Mathurapur, J.L. No. 131\n1. Jalkar Mathurapur Paschimpara, 2. Jalkar\nMathurapur Purbapara\n3. Jalkar Mathurapur Gobindapur, Mouza-\nGobindapur, J.L. No. 132\nAssembly Part No.74/46",
+              "6",
+              "6 SC",
+              "6 SC (W)"
+            ],
+            [
+              "Bhimpur / VII\nMouza- Krishnapur, J.L. No. 130\n1. Krishnapur Purbapara, 2. Krishnapur\nMajherpara, 3. Krishnapur Paschimpara\nAssembly Part No.74/47",
+              "7,8",
+              "8 SC",
+              "--"
+            ],
+            [
+              "Bhimpur / VIII\nMouza- Damodarkhali, J.L. No. 129\n1. Nelua Musalman Para, 2. Nelua Uttarpara,\n3. Nelua Dakshinpara\nAssembly Part No.74/48",
+              "9,10",
+              "9 SC",
+              "10 W"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1593
+    },
+    {
+      "page": 15,
+      "width": 612,
+      "height": 792,
+      "text": "Number of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nBhimpur 19 9 Nil 7\nBhimpur / IX\nMouza- Rampur, J.L. No. 133\n11 -- --\n1.Rampur Uttarpara, 2. Rampur Dakshinpara\nAssembly Part No.74/49\nBhimpur / X\nMouza- Pakurgachhi, J.L. No. 139\n12 12 SC 12 SC (W)\n1. Pakurgachhi\nAssembly Part No.74/50\nBhimpur / XI\nMouza- Pakurgachhi, J.L. No. 139\n1. Pakurgachhi Colony Uttarpara,\n2. Pakurgachhi Colony Purbapara, 13 13 SC --\n3. Pakurgachhi Colony Dakshinpara,\n4. Pakurgachhi Colony Paschimpara\nAssembly Part No.74/51\nBhimpur / XII\nMouza- Bhimpur, J.L. No. 140\n14 -- --\n1. Uttar Bhimpur Jhorpara 2. Singhanagar\nAssembly Part No.74/52\nBhimpur / XIII\nMouza- Bhimpur, J.L. No. 140\n1. Uttar Bhimpur Palpara, 2. Uttar Bhimpur\n15,16 -- 15 W\nMajherpara, 3. Purba Bhimpur (Das &\nGhoshpara)\nAssembly Part No.74/53\nBhimpur / XIV\nMouza- Joginidaha, J.L. No. 141\n17 -- --\n1. Purba Bhimpur Joginidaha\nAssembly Part No.74/54\nBhimpur / XV\nMouza- Bhimpur, J.L. No. 140\n18 -- 18 W\n1. Bazarpara, 2. Sarberiapara\nAssembly Part No.74/55\nBhimpur / XVI\nMouza- Bhimpur, J.L. No. 140\n19 19 SC --\n1. Natunpara\nAssembly Part No.74/56\nDate. 07.02.2008 _____________________________________\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            50.27520000000004,
+            574.8326435999999,
+            122.2692
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Bhimpur",
+              "19",
+              "9",
+              "Nil",
+              "7"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            136.78920000000005,
+            574.8326435999999,
+            627.9072
+          ],
+          "rows": [
+            [
+              "Bhimpur / IX\nMouza- Rampur, J.L. No. 133\n1.Rampur Uttarpara, 2. Rampur Dakshinpara\nAssembly Part No.74/49",
+              "11",
+              "--",
+              "--"
+            ],
+            [
+              "Bhimpur / X\nMouza- Pakurgachhi, J.L. No. 139\n1. Pakurgachhi\nAssembly Part No.74/50",
+              "12",
+              "12 SC",
+              "12 SC (W)"
+            ],
+            [
+              "Bhimpur / XI\nMouza- Pakurgachhi, J.L. No. 139\n1. Pakurgachhi Colony Uttarpara,\n2. Pakurgachhi Colony Purbapara,\n3. Pakurgachhi Colony Dakshinpara,\n4. Pakurgachhi Colony Paschimpara\nAssembly Part No.74/51",
+              "13",
+              "13 SC",
+              "--"
+            ],
+            [
+              "Bhimpur / XII\nMouza- Bhimpur, J.L. No. 140\n1. Uttar Bhimpur Jhorpara 2. Singhanagar\nAssembly Part No.74/52",
+              "14",
+              "--",
+              "--"
+            ],
+            [
+              "Bhimpur / XIII\nMouza- Bhimpur, J.L. No. 140\n1. Uttar Bhimpur Palpara, 2. Uttar Bhimpur\nMajherpara, 3. Purba Bhimpur (Das &\nGhoshpara)\nAssembly Part No.74/53",
+              "15,16",
+              "--",
+              "15 W"
+            ],
+            [
+              "Bhimpur / XIV\nMouza- Joginidaha, J.L. No. 141\n1. Purba Bhimpur Joginidaha\nAssembly Part No.74/54",
+              "17",
+              "--",
+              "--"
+            ],
+            [
+              "Bhimpur / XV\nMouza- Bhimpur, J.L. No. 140\n1. Bazarpara, 2. Sarberiapara\nAssembly Part No.74/55",
+              "18",
+              "--",
+              "18 W"
+            ],
+            [
+              "Bhimpur / XVI\nMouza- Bhimpur, J.L. No. 140\n1. Natunpara\nAssembly Part No.74/56",
+              "19",
+              "19 SC",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1400
+    },
+    {
+      "page": 16,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock: Krishnagar-I Dev. Block, Nadia\nNumber of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nAssannagar 16 9 Nil 6\nSeats reserved\nSeats allocated for Scheduled Seats reserved\nto each Castes or for women\nNumber, name & area of Constituencies with\nConstituency Scheduled Tribes against serial\nSerial Numbers\nwith serial against serial number of\nnumbers numbers of seats\nSeats\n3 4 5 6\nAssannagar / I\nMouza- Dafarpota, J.L. No. 127\n1, 2 -- 1 W\n1. Ghoshpara, 2. Paschimpara\nAssembly Part No.74/57\nAssannagar / II\nMouza- Assannagar, J.L. No. 126\n3 3 SC 3 SC (W)\n1. Payradangapara\nAssembly Part No.74/58\nAssannagar / III\nMouza- Assannagar, J.L. No. 126\n4 4 SC --\n1. Kashipurpara, 2. Beltalapara\nAssembly Part No.74/59\nAssannagar / IV\nMouza- Assannagar, J.L. No. 126\n1. Paschimpara, 2. Musalmanpara, 5, 6 -- 6 W\n3. Bazarpara, 4. Bhatapara\nAssembly Part No.74/60\nAssannagar / V\nMouza- Assannagar, J.L. No. 126\n7 7 SC --\n1. Tripurapara\nAssembly Part No.74/61\nAssannagar / VI\nMouza- Assannagar, J.L. No. 126\n8 -- --\n1. Paschimpara\nAssembly Part No.74/62\nAssannagar / VII\nMouza- Assannagar, J.L. No. 126\n9, 10 -- 10 W\n1. Chanderpole, 2. Dakshin Assannagar\nAssembly Part No.74/63\nAssannagar / VIII\nMouza- Assannagar, J.L. No. 126\n1. Paschim Assannagar Uttarpara 11 11 SC 11 SC (W)\n2. Purba Assannagar Uttarpara\nAssembly Part No.74/64",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            92.63279999999997,
+            574.8783467142856,
+            163.78680000000008
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Assannagar",
+              "16",
+              "9",
+              "Nil",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            178.4244,
+            574.8783467142856,
+            732.29904
+          ],
+          "rows": [
+            [
+              "Number, name & area of Constituencies with\nSerial Numbers",
+              "Seats allocated\nto each\nConstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled Tribes\nagainst serial\nnumbers of\nSeats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Assannagar / I\nMouza- Dafarpota, J.L. No. 127\n1. Ghoshpara, 2. Paschimpara\nAssembly Part No.74/57",
+              "1, 2",
+              "--",
+              "1 W"
+            ],
+            [
+              "Assannagar / II\nMouza- Assannagar, J.L. No. 126\n1. Payradangapara\nAssembly Part No.74/58",
+              "3",
+              "3 SC",
+              "3 SC (W)"
+            ],
+            [
+              "Assannagar / III\nMouza- Assannagar, J.L. No. 126\n1. Kashipurpara, 2. Beltalapara\nAssembly Part No.74/59",
+              "4",
+              "4 SC",
+              "--"
+            ],
+            [
+              "Assannagar / IV\nMouza- Assannagar, J.L. No. 126\n1. Paschimpara, 2. Musalmanpara,\n3. Bazarpara, 4. Bhatapara\nAssembly Part No.74/60",
+              "5, 6",
+              "--",
+              "6 W"
+            ],
+            [
+              "Assannagar / V\nMouza- Assannagar, J.L. No. 126\n1. Tripurapara\nAssembly Part No.74/61",
+              "7",
+              "7 SC",
+              "--"
+            ],
+            [
+              "Assannagar / VI\nMouza- Assannagar, J.L. No. 126\n1. Paschimpara\nAssembly Part No.74/62",
+              "8",
+              "--",
+              "--"
+            ],
+            [
+              "Assannagar / VII\nMouza- Assannagar, J.L. No. 126\n1. Chanderpole, 2. Dakshin Assannagar\nAssembly Part No.74/63",
+              "9, 10",
+              "--",
+              "10 W"
+            ],
+            [
+              "Assannagar / VIII\nMouza- Assannagar, J.L. No. 126\n1. Paschim Assannagar Uttarpara\n2. Purba Assannagar Uttarpara\nAssembly Part No.74/64",
+              "11",
+              "11 SC",
+              "11 SC (W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1481
+    },
+    {
+      "page": 17,
+      "width": 612,
+      "height": 792,
+      "text": "Number of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nAssannagar 16 9 Nil 6\nAssannagar / IX\nMouza- Assannagar, J.L. No. 126\n1. Naikura Khalpara, 2. Naikura Dobillpara, 12 12 SC --\nBillpara\nAssembly Part No.74/65\nAssannagar / X\nMouza- Dafarpota, J.L. No. 127\n1. Naikura Musalmanpara, 2. Naikura 13 13 SC --\nDulepara, 3. Naikura Radhanagarpara\nAssembly Part No.74/66\nAssannagar / XI\nMouza- Dafarpota, J.L. No. 127\n1. Dafarpota Jamtalapara, 2. Dhakuria 14 SC,\n14, 15 14 SC (W)\nMundaripara, 3. Dhakuria Potapara, 15 SC\n4. Dhakuria Bagdipara\nAssembly Part No.74/67\nAssannagar / XII\nMouza- Nidhirpota, J.L. No. 128\n1. Nidhirpota Natunpata, 2. Nidhirpota 16 16 SC --\nPaschimpara, 3. Nidhirpota Purbapara\nAssembly Part No.74/68\nDate. 07.02.2008 _____________________________________\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            50.27520000000004,
+            574.6726826999999,
+            121.54943460000004
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Assannagar",
+              "16",
+              "9",
+              "Nil",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            136.18920000000003,
+            574.6726826999999,
+            413.9654346
+          ],
+          "rows": [
+            [
+              "Assannagar / IX\nMouza- Assannagar, J.L. No. 126\n1. Naikura Khalpara, 2. Naikura Dobillpara,\nBillpara\nAssembly Part No.74/65",
+              "12",
+              "12 SC",
+              "--"
+            ],
+            [
+              "Assannagar / X\nMouza- Dafarpota, J.L. No. 127\n1. Naikura Musalmanpara, 2. Naikura\nDulepara, 3. Naikura Radhanagarpara\nAssembly Part No.74/66",
+              "13",
+              "13 SC",
+              "--"
+            ],
+            [
+              "Assannagar / XI\nMouza- Dafarpota, J.L. No. 127\n1. Dafarpota Jamtalapara, 2. Dhakuria\nMundaripara, 3. Dhakuria Potapara,\n4. Dhakuria Bagdipara\nAssembly Part No.74/67",
+              "14, 15",
+              "14 SC,\n15 SC",
+              "14 SC (W)"
+            ],
+            [
+              "Assannagar / XII\nMouza- Nidhirpota, J.L. No. 128\n1. Nidhirpota Natunpata, 2. Nidhirpota\nPaschimpara, 3. Nidhirpota Purbapara\nAssembly Part No.74/68",
+              "16",
+              "16 SC",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1021
+    },
+    {
+      "page": 18,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock: Krishnagar-I Dev. Block, Nadia\nNumber of members to be Elected in the Gram Panchayat\nName of Gram\nTotal number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nBhatjungla 22 7 Nil 8\nSeats reserved\nSeats allocated for Scheduled Seats reserved\nto each Castes or for women\nNumber, name & area of Constituencies with\nConstituency Scheduled Tribes against serial\nSerial Numbers\nwith serial against serial number of\nnumbers numbers of seats\nSeats\n3 4 5 6\nBhatjungla /I\nMouza- Dakshin Jhitkipota, J.L No. 116\n1, 2 -- 1 W\n1. Mollapara, 2. Paschimpara, 3. Uttarpara\nAssembly Part No.75/135\nBhatjungla /II\nMouza- Dakshin Jhitkipota, J.L No. 116\n3 -- --\n1. Majherpara\nAssembly Part No.75/136\nBhatjungla / III\nMouza- Dakshin Jhitkipota, J.L No. 116\n4 -- 4 W\n1. Purbapara\nAssembly Part No.75/137\nBhatjungla / IV\nMouza- Baruihuda, J.L No. 91 5 SC,\n5, 6 5 SC (W)\n1. Subhashnagar (Part) 6 SC\nAssembly Part No.75/138\nBhatjungla / V\nMouza- Baruihuda, J.L No. 91\n7 7 SC --\n1. Baruihudapara, 2. Bidhannagar\nAssembly Part No.75/139\nBhatjungla / VI\nMouza- Baruihuda, J.L No. 91\n8 8 SC 8 SC (W)\n1. Natun Kalipur\nAssembly Part No.75/140\nBhatjungla / VII\nMouza- Baruihuda (City), J.L No. 91\n9 -- --\n1. Kalipur\nAssembly Part No.75/141\nBhatjungla / VIII\nMouza- Krishnagar, J.L No. 92\n1. Ghorapatti, 2. Stationpara, 3. Anadinagar, 10, 11 -- 11 W\n4. Asadanpara\nAssembly Part No.75/142",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            92.63279999999997,
+            574.8783467142856,
+            177.10560000000004
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Bhatjungla",
+              "22",
+              "7",
+              "Nil",
+              "8"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            191.74440000000004,
+            574.8783467142856,
+            728.4592746
+          ],
+          "rows": [
+            [
+              "Number, name & area of Constituencies with\nSerial Numbers",
+              "Seats allocated\nto each\nConstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled Tribes\nagainst serial\nnumbers of\nSeats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Bhatjungla /I\nMouza- Dakshin Jhitkipota, J.L No. 116\n1. Mollapara, 2. Paschimpara, 3. Uttarpara\nAssembly Part No.75/135",
+              "1, 2",
+              "--",
+              "1 W"
+            ],
+            [
+              "Bhatjungla /II\nMouza- Dakshin Jhitkipota, J.L No. 116\n1. Majherpara\nAssembly Part No.75/136",
+              "3",
+              "--",
+              "--"
+            ],
+            [
+              "Bhatjungla / III\nMouza- Dakshin Jhitkipota, J.L No. 116\n1. Purbapara\nAssembly Part No.75/137",
+              "4",
+              "--",
+              "4 W"
+            ],
+            [
+              "Bhatjungla / IV\nMouza- Baruihuda, J.L No. 91\n1. Subhashnagar (Part)\nAssembly Part No.75/138",
+              "5, 6",
+              "5 SC,\n6 SC",
+              "5 SC (W)"
+            ],
+            [
+              "Bhatjungla / V\nMouza- Baruihuda, J.L No. 91\n1. Baruihudapara, 2. Bidhannagar\nAssembly Part No.75/139",
+              "7",
+              "7 SC",
+              "--"
+            ],
+            [
+              "Bhatjungla / VI\nMouza- Baruihuda, J.L No. 91\n1. Natun Kalipur\nAssembly Part No.75/140",
+              "8",
+              "8 SC",
+              "8 SC (W)"
+            ],
+            [
+              "Bhatjungla / VII\nMouza- Baruihuda (City), J.L No. 91\n1. Kalipur\nAssembly Part No.75/141",
+              "9",
+              "--",
+              "--"
+            ],
+            [
+              "Bhatjungla / VIII\nMouza- Krishnagar, J.L No. 92\n1. Ghorapatti, 2. Stationpara, 3. Anadinagar,\n4. Asadanpara\nAssembly Part No.75/142",
+              "10, 11",
+              "--",
+              "11 W"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1448
+    },
+    {
+      "page": 19,
+      "width": 612,
+      "height": 792,
+      "text": "Number of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nBhatjungla 22 7 Nil 8\nBhatjungla / IX\nMouza- Baruihuda, J.L No. 91\n12 -- --\n1. Satyapirtala\nAssembly Part No.75/143\nBhatjungla / X\nMouza- Baruihuda, J.L No. 91\n13 13 SC --\n1. Nabab Road, 2. Angana\nAssembly Part No.75/144\nBhatjungla / XI\nMouza- Paschim Bhatjungla, J.L No. 90\n14, 15 15 SC --\n1. Purbapara, 2. Bakultala\nAssembly Part No.75/145\nBhatjungla / XII\nMouza- Paschim Bhatjungla, J.L No. 90\n16 -- 16 W\n1. Satishnagar\nAssembly Part No.75/146\nBhatjungla / XIII\nMouza- Paschim Bhatjungla, J.L No. 90\n17 17 SC 17 SC (W)\n1. Uttarpara\nAssembly Part No.75/147\nBhatjungla / XIV\nMouza- Paschim Bhatjungla, J.L No. 90\n18 -- --\n1. Uttarpara (Part), 2. Bardhanpara\nAssembly Part No.75/148\nBhatjungla / XV\nMouza- Paschim Bhatjungla, J.L No. 90\n19 -- --\n1. Dakshin Bhatjungla Bakultala\nAssembly Part No.75/149\nBhatjungla / XVI\nMouza- Durgapur, J.L No. 117\n20, 21 -- 20 W\n1. Natun Durgapur, 2. Mallickpara\nAssembly Part No.75/150\nBhatjungla / XVII\nMouza- Durgapur, J.L No. 117\n22 -- --\n1. Purbapara, 2. Gharamipara\nAssembly Part No.75/151\nDate. 07.02.2008 _____________________________________\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            50.27520000000004,
+            574.8572529692307,
+            119.2704
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Bhatjungla",
+              "22",
+              "7",
+              "Nil",
+              "8"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            133.78920000000005,
+            574.8572529692307,
+            613.7484
+          ],
+          "rows": [
+            [
+              "Bhatjungla / IX\nMouza- Baruihuda, J.L No. 91\n1. Satyapirtala\nAssembly Part No.75/143",
+              "12",
+              "--",
+              "--"
+            ],
+            [
+              "Bhatjungla / X\nMouza- Baruihuda, J.L No. 91\n1. Nabab Road, 2. Angana\nAssembly Part No.75/144",
+              "13",
+              "13 SC",
+              "--"
+            ],
+            [
+              "Bhatjungla / XI\nMouza- Paschim Bhatjungla, J.L No. 90\n1. Purbapara, 2. Bakultala\nAssembly Part No.75/145",
+              "14, 15",
+              "15 SC",
+              "--"
+            ],
+            [
+              "Bhatjungla / XII\nMouza- Paschim Bhatjungla, J.L No. 90\n1. Satishnagar\nAssembly Part No.75/146",
+              "16",
+              "--",
+              "16 W"
+            ],
+            [
+              "Bhatjungla / XIII\nMouza- Paschim Bhatjungla, J.L No. 90\n1. Uttarpara\nAssembly Part No.75/147",
+              "17",
+              "17 SC",
+              "17 SC (W)"
+            ],
+            [
+              "Bhatjungla / XIV\nMouza- Paschim Bhatjungla, J.L No. 90\n1. Uttarpara (Part), 2. Bardhanpara\nAssembly Part No.75/148",
+              "18",
+              "--",
+              "--"
+            ],
+            [
+              "Bhatjungla / XV\nMouza- Paschim Bhatjungla, J.L No. 90\n1. Dakshin Bhatjungla Bakultala\nAssembly Part No.75/149",
+              "19",
+              "--",
+              "--"
+            ],
+            [
+              "Bhatjungla / XVI\nMouza- Durgapur, J.L No. 117\n1. Natun Durgapur, 2. Mallickpara\nAssembly Part No.75/150",
+              "20, 21",
+              "--",
+              "20 W"
+            ],
+            [
+              "Bhatjungla / XVII\nMouza- Durgapur, J.L No. 117\n1. Purbapara, 2. Gharamipara\nAssembly Part No.75/151",
+              "22",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1395
+    },
+    {
+      "page": 20,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock: Krishnagar-I Dev. Block, Nadia\nNumber of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nChak-Dignagar 16 7 1 6\nSeats reserved\nSeats\nSeats allocated for Scheduled\nreserved for\nto each Castes or\nNumber, name & area of Constituencies with women\nConstituency Scheduled\nSerial Numbers against serial\nwith serial Tribes against\nnumber of\nnumbers serial numbers\nseats\nof Seats\n3 4 5 6\nChak-Dignagar /I\nMouza- Tentia, J.L. No. 86\n1 1 SC 1 SC (W)\n1. Paschimpara, 2. Uttarpara\nAssembly Part No.75/152\nChak-Dignagar /II\nMouza- Tentia, J.L. No. 86\n1. Daspara, 2. Ghoshpara 2 -- 2 W\n3. Nayapara, Mouza- Itla, J.L. No. 85\nAssembly Part No.75/153\nChak-Dignagar /III\nMouza- Senpur, J.L. No. 119\n1. Karimpur Paschimpara, 3 3 SC --\n2. Karimpur Purbapara\nAssembly Part No.75/154\nChak-Dignagar /IV\nMouza- Itla, J.L. No. 85\n4 4 SC --\n1. Porapara\nAssembly Part No.75/155\nChak-Dignagar /V\nMouza- Chak-Dignagar, J.L. No. 118\n5 5 SC 5 SC (W)\n1. Chak-Dignagar\nAssembly Part No.75/156\nChak-Dignagar /VI\nMouza- Senpur, J.L. No. 119\n1. Dhakapara Purba, 2. Dhakapara Paschim, 6, 7 6 SC --\n3. Kamardingipara\nAssembly Part No.75/157",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            92.63279999999997,
+            574.8326435999999,
+            163.78680000000008
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Chak-Dignagar",
+              "16",
+              "7",
+              "1",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            178.4244,
+            574.8326435999999,
+            653.826
+          ],
+          "rows": [
+            [
+              "Number, name & area of Constituencies with\nSerial Numbers",
+              "Seats allocated\nto each\nConstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled\nTribes against\nserial numbers\nof Seats",
+              "Seats\nreserved for\nwomen\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Chak-Dignagar /I\nMouza- Tentia, J.L. No. 86\n1. Paschimpara, 2. Uttarpara\nAssembly Part No.75/152",
+              "1",
+              "1 SC",
+              "1 SC (W)"
+            ],
+            [
+              "Chak-Dignagar /II\nMouza- Tentia, J.L. No. 86\n1. Daspara, 2. Ghoshpara\n3. Nayapara, Mouza- Itla, J.L. No. 85\nAssembly Part No.75/153",
+              "2",
+              "--",
+              "2 W"
+            ],
+            [
+              "Chak-Dignagar /III\nMouza- Senpur, J.L. No. 119\n1. Karimpur Paschimpara,\n2. Karimpur Purbapara\nAssembly Part No.75/154",
+              "3",
+              "3 SC",
+              "--"
+            ],
+            [
+              "Chak-Dignagar /IV\nMouza- Itla, J.L. No. 85\n1. Porapara\nAssembly Part No.75/155",
+              "4",
+              "4 SC",
+              "--"
+            ],
+            [
+              "Chak-Dignagar /V\nMouza- Chak-Dignagar, J.L. No. 118\n1. Chak-Dignagar\nAssembly Part No.75/156",
+              "5",
+              "5 SC",
+              "5 SC (W)"
+            ],
+            [
+              "Chak-Dignagar /VI\nMouza- Senpur, J.L. No. 119\n1. Dhakapara Purba, 2. Dhakapara Paschim,\n3. Kamardingipara\nAssembly Part No.75/157",
+              "6, 7",
+              "6 SC",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1251
+    },
+    {
+      "page": 21,
+      "width": 612,
+      "height": 792,
+      "text": "Number of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nChak-Dignagar 16 7 1 6\nChak-Dignagar /VII\nMouza- Senpur, J.L. No. 119\n8, 9 9 SC --\n1. Shyamnagar Para\nAssembly Part No.75/158\nChak-Dignagar /VIII\nMouza- Senpur, J.L. No. 119\n1. Senpur Nimtalapara, 2. Senpur Battalapara\n10 -- 10 W\n3. Senpur Chapra Dangapara,\n4. Senpur Paikpara\nAssembly Part No.75/159\nChak-Dignagar /IX\nMouza- Itla, J.L. No. 85\n11 -- --\n1. Dakshinpara, 2. Paikpara\nAssembly Part No.75/160\nChak-Dignagar /X\nMouza- Itla, J.L. No. 85\n12 -- --\n1. Mathpara, 2. Uttarpara, 3. Mathurapara\nAssembly Part No.75/161\nChak-Dignagar /XI\nMouza- Naduria, J.L. No. 122 13 SC (W),\n13, 14 13 SC\n1. Naduria Dhakapara, 2. Naduria Ghoshpara 14 W\nAssembly Part No.75/175\nChak-Dignagar /XII\nMouza- Dharmadaha, J.L. No. 124\n15 -- --\n1. Dharmadaha\nAssembly Part No.75/176\nChak-Dignagar /XIII\nMouza- Dharmadaha, J.L. No. 124\n16 16 ST --\n1. Gopalpur\nAssembly Part No.75/177\nDate. 07.02.2008 _____________________________________\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            50.27520000000004,
+            574.8035597999999,
+            121.54943460000004
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Chak-Dignagar",
+              "16",
+              "7",
+              "1",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            136.18920000000003,
+            574.8035597999999,
+            535.1556
+          ],
+          "rows": [
+            [
+              "Chak-Dignagar /VII\nMouza- Senpur, J.L. No. 119\n1. Shyamnagar Para\nAssembly Part No.75/158",
+              "8, 9",
+              "9 SC",
+              "--"
+            ],
+            [
+              "Chak-Dignagar /VIII\nMouza- Senpur, J.L. No. 119\n1. Senpur Nimtalapara, 2. Senpur Battalapara\n3. Senpur Chapra Dangapara,\n4. Senpur Paikpara\nAssembly Part No.75/159",
+              "10",
+              "--",
+              "10 W"
+            ],
+            [
+              "Chak-Dignagar /IX\nMouza- Itla, J.L. No. 85\n1. Dakshinpara, 2. Paikpara\nAssembly Part No.75/160",
+              "11",
+              "--",
+              "--"
+            ],
+            [
+              "Chak-Dignagar /X\nMouza- Itla, J.L. No. 85\n1. Mathpara, 2. Uttarpara, 3. Mathurapara\nAssembly Part No.75/161",
+              "12",
+              "--",
+              "--"
+            ],
+            [
+              "Chak-Dignagar /XI\nMouza- Naduria, J.L. No. 122\n1. Naduria Dhakapara, 2. Naduria Ghoshpara\nAssembly Part No.75/175",
+              "13, 14",
+              "13 SC",
+              "13 SC (W),\n14 W"
+            ],
+            [
+              "Chak-Dignagar /XII\nMouza- Dharmadaha, J.L. No. 124\n1. Dharmadaha\nAssembly Part No.75/176",
+              "15",
+              "--",
+              "--"
+            ],
+            [
+              "Chak-Dignagar /XIII\nMouza- Dharmadaha, J.L. No. 124\n1. Gopalpur\nAssembly Part No.75/177",
+              "16",
+              "16 ST",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1209
+    },
+    {
+      "page": 22,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock: Krishnagar-I Dev. Block, Nadia\nNumber of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nDignagar 15 4 Nil 5\nSeats reserved\nSeats\nSeats allocated for Scheduled\nreserved for\nto each Castes or\nNumber, name & area of Constituencies with women\nConstituency Scheduled\nSerial Numbers against serial\nwith serial Tribes against\nnumber of\nnumbers serial numbers\nseats\nof Seats\n3 4 5 6\nDignagar /I\nMouza- Dignagar, J.L. No. 83\n1 -- 1 W\n1. Uttar Ghosh para, 2. Dakshin Ghosh para\nAssembly Part No.75/162\nDignagar /II\nMouza- Dignagar, J.L. No. 83\n1. Mahiswapara, 2. Mathpara Singerdanga, 2, 3 -- --\n3. Chabighatapara\nAssembly Part No.75/163\nDignagar /III\nMouza- Baliadanga, J.L. No. 78\n1. Baliadanga Purbapara, 2. Baliadanga 4, 5 -- 4 W\nPaschimpara (Part)\nAssembly Part No.75/164\nDignagar /IV\n1. Gholgachhi, Mouza- Gholgachhi, J.L. No.\n77,\n6 6 SC 6 SC (W)\n2. Baliadanga Paschimpara (Part), Mouza-\nBaliadanga, J.L. No. 78\nAssembly Part No.75/165\nDignagar /V\nMouza- Goalpara, J.L. No. 76\n7 7 SC --\n1. Goalpara\nAssembly Part No.75/166\nDignagar /VI\nMouza- Dignagar, J.L. No. 83\n8 -- --\n1. Modakpara\nAssembly Part No.75/167",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            106.67160000000007,
+            574.8326435999999,
+            177.94463460000003
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Dignagar",
+              "15",
+              "4",
+              "Nil",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            192.4644,
+            574.8326435999999,
+            724.97952
+          ],
+          "rows": [
+            [
+              "Number, name & area of Constituencies with\nSerial Numbers",
+              "Seats allocated\nto each\nConstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled\nTribes against\nserial numbers\nof Seats",
+              "Seats\nreserved for\nwomen\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Dignagar /I\nMouza- Dignagar, J.L. No. 83\n1. Uttar Ghosh para, 2. Dakshin Ghosh para\nAssembly Part No.75/162",
+              "1",
+              "--",
+              "1 W"
+            ],
+            [
+              "Dignagar /II\nMouza- Dignagar, J.L. No. 83\n1. Mahiswapara, 2. Mathpara Singerdanga,\n3. Chabighatapara\nAssembly Part No.75/163",
+              "2, 3",
+              "--",
+              "--"
+            ],
+            [
+              "Dignagar /III\nMouza- Baliadanga, J.L. No. 78\n1. Baliadanga Purbapara, 2. Baliadanga\nPaschimpara (Part)\nAssembly Part No.75/164",
+              "4, 5",
+              "--",
+              "4 W"
+            ],
+            [
+              "Dignagar /IV\n1. Gholgachhi, Mouza- Gholgachhi, J.L. No.\n77,\n2. Baliadanga Paschimpara (Part), Mouza-\nBaliadanga, J.L. No. 78\nAssembly Part No.75/165",
+              "6",
+              "6 SC",
+              "6 SC (W)"
+            ],
+            [
+              "Dignagar /V\nMouza- Goalpara, J.L. No. 76\n1. Goalpara\nAssembly Part No.75/166",
+              "7",
+              "7 SC",
+              "--"
+            ],
+            [
+              "Dignagar /VI\nMouza- Dignagar, J.L. No. 83\n1. Modakpara\nAssembly Part No.75/167",
+              "8",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1254
+    },
+    {
+      "page": 23,
+      "width": 612,
+      "height": 792,
+      "text": "Number of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nDignagar 15 4 Nil 5\nDignagar /VII\nMouza- Dignagar, J.L. No. 83\n9 -- 9 W\n1. Brahmanpara, 2. Bazarpara\nAssembly Part No.75/168\nDignagar /VIII\nMouza- Chapra Dignagar, J.L. No. 82\n1. Chapra Dignagar Uttarpara, 10 -- --\n2. Chapra Dignagar Dakshinpara\nAssembly Part No.75/169\nDignagar /IX\n1. Jeolgari, Mouza- Jeolgari, J.L. No. 80\n2. Dakshinpara (Hatisala), Mouza- Hatisala, 11 -- --\nJ.L. No. 81\nAssembly Part No.75/170\nDignagar /X\nMouza- Hatisala, J.L. No. 81\n12 -- --\n1. Uttar Hatisala\nAssembly Part No.75/171\nDignagar /XI\nMouza- Hatisala, J.L. No. 81\n13 13 SC 13 SC(W)\n1. Majherpara\nAssembly Part No.75/172\nDignagar /XII\nMouza- Kaya, J.L. No. 121\n14 -- --\n1. Kaya Mathpara. 2. Kaya\nAssembly Part No.75/173\nDignagar /XIII\nMouza- Mailka, J.L. No. 120\n15 15 SC\n1. Mailka Purbapara, 2. Mailka Paschimpara\nAssembly Part No.75/174\nDate. 07.02.2008 _____________________________________\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            50.27520000000004,
+            574.8035597999999,
+            121.54943460000004
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Dignagar",
+              "15",
+              "4",
+              "Nil",
+              "5"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            136.18920000000003,
+            574.8035597999999,
+            578.592
+          ],
+          "rows": [
+            [
+              "Dignagar /VII\nMouza- Dignagar, J.L. No. 83\n1. Brahmanpara, 2. Bazarpara\nAssembly Part No.75/168",
+              "9",
+              "--",
+              "9 W"
+            ],
+            [
+              "Dignagar /VIII\nMouza- Chapra Dignagar, J.L. No. 82\n1. Chapra Dignagar Uttarpara,\n2. Chapra Dignagar Dakshinpara\nAssembly Part No.75/169",
+              "10",
+              "--",
+              "--"
+            ],
+            [
+              "Dignagar /IX\n1. Jeolgari, Mouza- Jeolgari, J.L. No. 80\n2. Dakshinpara (Hatisala), Mouza- Hatisala,\nJ.L. No. 81\nAssembly Part No.75/170",
+              "11",
+              "--",
+              "--"
+            ],
+            [
+              "Dignagar /X\nMouza- Hatisala, J.L. No. 81\n1. Uttar Hatisala\nAssembly Part No.75/171",
+              "12",
+              "--",
+              "--"
+            ],
+            [
+              "Dignagar /XI\nMouza- Hatisala, J.L. No. 81\n1. Majherpara\nAssembly Part No.75/172",
+              "13",
+              "13 SC",
+              "13 SC(W)"
+            ],
+            [
+              "Dignagar /XII\nMouza- Kaya, J.L. No. 121\n1. Kaya Mathpara. 2. Kaya\nAssembly Part No.75/173",
+              "14",
+              "--",
+              "--"
+            ],
+            [
+              "Dignagar /XIII\nMouza- Mailka, J.L. No. 120\n1. Mailka Purbapara, 2. Mailka Paschimpara\nAssembly Part No.75/174",
+              "15",
+              "15 SC",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1173
+    },
+    {
+      "page": 24,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock: Krishnagar-I Dev. Block, Nadia\nNumber of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nDogachhi 21 11 2 7\nSeats reserved\nSeats\nSeats allocated for Scheduled\nreserved for\nto each Castes or\nNumber, name & area of Constituencies with women\nConstituency Scheduled\nSerial Numbers against serial\nwith serial Tribes against\nnumber of\nnumbers serial numbers\nseats\nof Seats\n3 4 5 6\nDogachhi /I\nMouza- Krishnagar, J.L. No. 92\n1 1 SC 1 SC (W)\n1. Baikunthasarak\nAssembly Part No.75/117\nDogachhi /II\nMouza- Krishnagar, J.L. No. 92\n2, 3 -- 2 W\n1. Natungram\nAssembly Part No.75/118\nDogachhi /III\nMouza- Krishnagar, J.L. No. 92\n1. Paschim Ichapur, 2. Uttar Ichapur 4 4 ST --\n3. Dakshin Ichapur\nAssembly Part No.75/119\nDogachhi /IV\nMouza- Mahishnangra, J.L. No. 108 5 SC,\n5, 6 6 SC (W)\n1. Purba Mahishnangra 6 SC\nAssembly Part No.75/120\nDogachhi /V\nMouza- Krishnagar, J.L. No. 92\n7, 8 -- 8 W\n1. Purba Goaldah\nAssembly Part No.75/121\nDogachhi /VI\nMouza- Jatrapur, J.L. No. 111\n9 - --\n1. Dakshin Jatrapur\nAssembly Part No.75/122\nDogachhi /VII\nMouza- Jatrapur, J.L. No. 111\n10 10 SC --\n1. Uttar Jatrapur\nAssembly Part No.75/123\nDogachhi /VIII\n1. Beraberia, Mouza- Beraberia, J.L. No. 109\n2. Tegharia, Mouza- Tegharia, J.L. No. 110 11 11 SC -\n3. Manicktala, Mouza- Jatrapur, J.L. No. 111\nAssembly Part No.75/124",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            92.63279999999997,
+            574.8783467142856,
+            163.78680000000008
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Dogachhi",
+              "21",
+              "11",
+              "2",
+              "7"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            178.4244,
+            574.8783467142856,
+            752.69724
+          ],
+          "rows": [
+            [
+              "Number, name & area of Constituencies with\nSerial Numbers",
+              "Seats allocated\nto each\nConstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCastes or\nScheduled\nTribes against\nserial numbers\nof Seats",
+              "Seats\nreserved for\nwomen\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Dogachhi /I\nMouza- Krishnagar, J.L. No. 92\n1. Baikunthasarak\nAssembly Part No.75/117",
+              "1",
+              "1 SC",
+              "1 SC (W)"
+            ],
+            [
+              "Dogachhi /II\nMouza- Krishnagar, J.L. No. 92\n1. Natungram\nAssembly Part No.75/118",
+              "2, 3",
+              "--",
+              "2 W"
+            ],
+            [
+              "Dogachhi /III\nMouza- Krishnagar, J.L. No. 92\n1. Paschim Ichapur, 2. Uttar Ichapur\n3. Dakshin Ichapur\nAssembly Part No.75/119",
+              "4",
+              "4 ST",
+              "--"
+            ],
+            [
+              "Dogachhi /IV\nMouza- Mahishnangra, J.L. No. 108\n1. Purba Mahishnangra\nAssembly Part No.75/120",
+              "5, 6",
+              "5 SC,\n6 SC",
+              "6 SC (W)"
+            ],
+            [
+              "Dogachhi /V\nMouza- Krishnagar, J.L. No. 92\n1. Purba Goaldah\nAssembly Part No.75/121",
+              "7, 8",
+              "--",
+              "8 W"
+            ],
+            [
+              "Dogachhi /VI\nMouza- Jatrapur, J.L. No. 111\n1. Dakshin Jatrapur\nAssembly Part No.75/122",
+              "9",
+              "-",
+              "--"
+            ],
+            [
+              "Dogachhi /VII\nMouza- Jatrapur, J.L. No. 111\n1. Uttar Jatrapur\nAssembly Part No.75/123",
+              "10",
+              "10 SC",
+              "--"
+            ],
+            [
+              "Dogachhi /VIII\n1. Beraberia, Mouza- Beraberia, J.L. No. 109\n2. Tegharia, Mouza- Tegharia, J.L. No. 110\n3. Manicktala, Mouza- Jatrapur, J.L. No. 111\nAssembly Part No.75/124",
+              "11",
+              "11 SC",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1439
+    },
+    {
+      "page": 25,
+      "width": 612,
+      "height": 792,
+      "text": "Number of members to be Elected in the Gram Panchayat\nName of Gram Total number of Scheduled Castes Scheduled Tribes\nWomen Members\nMembers Members Members\n1 2a 2b 2c 2d\nDogachhi 21 11 2 7\nDogachhi /IX\nMouza- Jatrapur, J.L. No. 111\n12 -- --\n1. Bhutpara\nAssembly Part No.75/125\nDogachhi /X\nMouza- Dogachhi, J.L. No. 113\n13, 14 13 SC 13 SC(w)\n1. Uttarpara, 2. Madhyapara\nAssembly Part No.75/128\nDogachhi /XI\nMouza- Dogachhi, J.L. No. 113\n15 15 SC --\n1. Dakshinpara\nAssembly Part No.75/129\nDogachhi /XII\nMouza- Hatboalia, J.L. No. 114 16 SC,\n16, 17 17 SC (W)\n1. Purbapara, 2. Schoolpara & Purbapara 17 SC\nAssembly Part No.75/130\nDogachhi /XIII\nMouza- Jalalkhali, J.L. No. 115\n18 -- --\n1. Mondalpara, 2. Haripurpara\nAssembly Part No.75/131\nDogachhi /XIV\nMouza- Jalalkhali, J.L. No. 115\n19 19 SC --\n1. Anjanapara\nAssembly Part No.75/132\nDogachhi /XV\nMouza- Jalalkhali, J.L. No. 115\n20 20 SC --\n1. Anjanapara\nAssembly Part No.75/133\nDogachhi /XVI\nMouza- Jalalkhali, J.L. No. 115\n21 21 ST 21 ST (W)\n1. Hazaripota\nAssembly Part No.75/134\nDate. 07.02.2008 _____________________________________\nSeal District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            37.837559999999996,
+            50.27520000000004,
+            574.8326435999999,
+            121.54943460000004
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be Elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nMembers",
+              "Scheduled Castes\nMembers",
+              "Scheduled Tribes\nMembers",
+              "Women Members"
+            ],
+            [
+              "1",
+              "2a",
+              "2b",
+              "2c",
+              "2d"
+            ],
+            [
+              "Dogachhi",
+              "21",
+              "11",
+              "2",
+              "7"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            37.837559999999996,
+            136.18920000000003,
+            574.8326435999999,
+            580.512
+          ],
+          "rows": [
+            [
+              "Dogachhi /IX\nMouza- Jatrapur, J.L. No. 111\n1. Bhutpara\nAssembly Part No.75/125",
+              "12",
+              "--",
+              "--"
+            ],
+            [
+              "Dogachhi /X\nMouza- Dogachhi, J.L. No. 113\n1. Uttarpara, 2. Madhyapara\nAssembly Part No.75/128",
+              "13, 14",
+              "13 SC",
+              "13 SC(w)"
+            ],
+            [
+              "Dogachhi /XI\nMouza- Dogachhi, J.L. No. 113\n1. Dakshinpara\nAssembly Part No.75/129",
+              "15",
+              "15 SC",
+              "--"
+            ],
+            [
+              "Dogachhi /XII\nMouza- Hatboalia, J.L. No. 114\n1. Purbapara, 2. Schoolpara & Purbapara\nAssembly Part No.75/130",
+              "16, 17",
+              "16 SC,\n17 SC",
+              "17 SC (W)"
+            ],
+            [
+              "Dogachhi /XIII\nMouza- Jalalkhali, J.L. No. 115\n1. Mondalpara, 2. Haripurpara\nAssembly Part No.75/131",
+              "18",
+              "--",
+              "--"
+            ],
+            [
+              "Dogachhi /XIV\nMouza- Jalalkhali, J.L. No. 115\n1. Anjanapara\nAssembly Part No.75/132",
+              "19",
+              "19 SC",
+              "--"
+            ],
+            [
+              "Dogachhi /XV\nMouza- Jalalkhali, J.L. No. 115\n1. Anjanapara\nAssembly Part No.75/133",
+              "20",
+              "20 SC",
+              "--"
+            ],
+            [
+              "Dogachhi /XVI\nMouza- Jalalkhali, J.L. No. 115\n1. Hazaripota\nAssembly Part No.75/134",
+              "21",
+              "21 ST",
+              "21 ST (W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1207
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 25
+}

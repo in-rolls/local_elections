@@ -1,0 +1,523 @@
+{
+  "title": "Pooled seats",
+  "description": "One row per seat-event as a source states it (data/master/master_<state>.parquet).",
+  "fields": [
+    {
+      "name": "dataset_id",
+      "type": "string",
+      "description": "state_slug/tier/year: the slice the row belongs to.",
+      "constraints": {
+        "required": true,
+        "pattern": "[a-z_]+/[a-z_]+/\\d{4}"
+      }
+    },
+    {
+      "name": "row_id",
+      "type": "string",
+      "description": "Stable row identifier: sha1 of source repository, path, page, seat key and occurrence, first 12 hex digits. Changes when provenance changes.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{12}"
+      }
+    },
+    {
+      "name": "seat_key",
+      "type": "string",
+      "description": "The ten seat-identity parts joined by '|' ('|' and '%' escaped). Not unique: a source can state a seat twice.",
+      "constraints": {
+        "required": true,
+        "minLength": 1
+      }
+    },
+    {
+      "name": "seat_key_unique",
+      "type": "boolean",
+      "description": "True when no other row in the pooled corpus has this seat_key.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "state",
+      "type": "string",
+      "description": "Printed name of the state.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "Andhra Pradesh",
+          "Assam",
+          "Bihar",
+          "Goa",
+          "Gujarat",
+          "Haryana",
+          "Jammu & Kashmir",
+          "Jharkhand",
+          "Karnataka",
+          "Kerala",
+          "Maharashtra",
+          "Rajasthan",
+          "Tamil Nadu",
+          "Telangana",
+          "Uttar Pradesh",
+          "Uttarakhand",
+          "West Bengal"
+        ]
+      }
+    },
+    {
+      "name": "year",
+      "type": "integer",
+      "description": "Election year.",
+      "constraints": {
+        "required": true,
+        "minimum": 1990,
+        "maximum": 2030
+      }
+    },
+    {
+      "name": "election_type",
+      "type": "string",
+      "description": "General or by-election, where the source names it (Rajasthan).",
+      "constraints": {
+        "enum": [
+          "General Election",
+          "By Election"
+        ]
+      }
+    },
+    {
+      "name": "election_duration",
+      "type": "string",
+      "description": "The polling period as the source prints it.",
+      "constraints": {
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "district",
+      "type": "string",
+      "description": "District as printed.",
+      "constraints": {
+        "required": true,
+        "minLength": 2,
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "block",
+      "type": "string",
+      "description": "Block, mandal or taluk as printed.",
+      "constraints": {
+        "maxLength": 100
+      }
+    },
+    {
+      "name": "body",
+      "type": "string",
+      "description": "Local body name where the source names one.",
+      "constraints": {
+        "maxLength": 60
+      }
+    },
+    {
+      "name": "gp_no",
+      "type": "string",
+      "description": "Panchayat number as printed.",
+      "constraints": {
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "gram_panchayat",
+      "type": "string",
+      "description": "Panchayat as printed.",
+      "constraints": {
+        "maxLength": 160
+      }
+    },
+    {
+      "name": "gp_term",
+      "type": "string",
+      "description": "Which word the source used for the panchayat.",
+      "constraints": {
+        "enum": [
+          "gram_panchayat",
+          "halqa"
+        ]
+      }
+    },
+    {
+      "name": "ward_no",
+      "type": "string",
+      "description": "Ward number as printed (may carry a suffix).",
+      "constraints": {
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "ward_name",
+      "type": "string",
+      "description": "Ward name as printed.",
+      "constraints": {
+        "maxLength": 160
+      }
+    },
+    {
+      "name": "seat_no",
+      "type": "integer",
+      "description": "Seat number within a multi-member ward.",
+      "constraints": {
+        "minimum": 1
+      }
+    },
+    {
+      "name": "district_latin",
+      "type": "string",
+      "description": "District romanized by tools/transliterate.py.",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 255
+      }
+    },
+    {
+      "name": "district_latin_method",
+      "type": "string",
+      "description": "The transliteration model, and its version where the run recorded one. Blank where the reading is blank.",
+      "constraints": {
+        "maxLength": 80
+      }
+    },
+    {
+      "name": "block_latin",
+      "type": "string",
+      "description": "Block romanized by tools/transliterate.py.",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 255
+      }
+    },
+    {
+      "name": "block_latin_method",
+      "type": "string",
+      "description": "The transliteration model, and its version where the run recorded one. Blank where the reading is blank.",
+      "constraints": {
+        "maxLength": 80
+      }
+    },
+    {
+      "name": "gram_panchayat_latin",
+      "type": "string",
+      "description": "Panchayat romanized by tools/transliterate.py.",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 255
+      }
+    },
+    {
+      "name": "gram_panchayat_latin_method",
+      "type": "string",
+      "description": "The transliteration model, and its version where the run recorded one. Blank where the reading is blank.",
+      "constraints": {
+        "maxLength": 80
+      }
+    },
+    {
+      "name": "tier",
+      "type": "string",
+      "description": "Canonical office (canon.py maps local names onto it).",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "gp_head",
+          "gp_vice_head",
+          "gp_ward",
+          "block_member",
+          "block_head",
+          "block_vice_head",
+          "zp_member",
+          "zp_head",
+          "kachahari_head",
+          "kachahari_member",
+          "ulb_ward",
+          "ulb_head"
+        ]
+      }
+    },
+    {
+      "name": "tier_local",
+      "type": "string",
+      "description": "The office as the state names it.",
+      "constraints": {
+        "required": true,
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "reserved_caste",
+      "type": "string",
+      "description": "Caste category the seat is reserved for; NONE = unreserved. A property of the seat, never of the winner.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "SC",
+          "ST",
+          "BC",
+          "NONE"
+        ]
+      }
+    },
+    {
+      "name": "reserved_caste_local",
+      "type": "string",
+      "description": "The state's own caste label before the fold to SC/ST/BC/NONE.",
+      "constraints": {
+        "maxLength": 40
+      }
+    },
+    {
+      "name": "reserved_caste_scheme",
+      "type": "string",
+      "description": "The state's reservation regime, which fixes what BC means.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "sc_st_bc",
+          "sc_st_bca_bcb",
+          "sc_st_bca_only",
+          "sc_st_obc",
+          "sc_st_only"
+        ]
+      }
+    },
+    {
+      "name": "reserved_woman",
+      "type": "integer",
+      "description": "1 if the seat is reserved for a woman, 0 if not. Never filled from a name.",
+      "constraints": {
+        "minimum": 0,
+        "maximum": 1,
+        "required": true
+      },
+      "arrow": "int8"
+    },
+    {
+      "name": "reserved_label",
+      "type": "string",
+      "description": "Caste and woman reservation combined.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "Woman",
+          "Other than Woman",
+          "SC Woman",
+          "SC Other than Woman",
+          "ST Woman",
+          "ST Other than Woman",
+          "BC Woman",
+          "BC Other than Woman"
+        ]
+      }
+    },
+    {
+      "name": "reserved_raw",
+      "type": "string",
+      "description": "The reservation exactly as printed.",
+      "constraints": {
+        "maxLength": 200
+      }
+    },
+    {
+      "name": "listing_scope",
+      "type": "string",
+      "description": "Whether the source lists every seat or only some.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "all_seats",
+          "reserved_only",
+          "partial"
+        ]
+      }
+    },
+    {
+      "name": "unit_of_observation",
+      "type": "string",
+      "description": "seat, or seat_from_candidates where a candidate-level source was collapsed to seats.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "seat",
+          "seat_from_candidates"
+        ]
+      }
+    },
+    {
+      "name": "seat_candidates",
+      "type": "integer",
+      "description": "Number of candidates, where the row was collapsed from candidates.",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "winner",
+      "type": "string",
+      "description": "Elected person as printed.",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 255
+      }
+    },
+    {
+      "name": "winner_latin",
+      "type": "string",
+      "description": "Winner romanized by tools/transliterate.py.",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 255
+      }
+    },
+    {
+      "name": "winner_latin_method",
+      "type": "string",
+      "description": "The transliteration model, and its version where the run recorded one. Blank where the reading is blank.",
+      "constraints": {
+        "maxLength": 80
+      }
+    },
+    {
+      "name": "winner_basis",
+      "type": "string",
+      "description": "How the winner is known.",
+      "constraints": {
+        "enum": [
+          "published",
+          "argmax_votes",
+          "uncontested",
+          "sole_candidate",
+          "lot"
+        ]
+      }
+    },
+    {
+      "name": "votes",
+      "type": "integer",
+      "description": "Winner's votes.",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "runner_up",
+      "type": "string",
+      "description": "Second-placed candidate as printed.",
+      "constraints": {
+        "minLength": 1,
+        "maxLength": 255
+      }
+    },
+    {
+      "name": "runner_up_votes",
+      "type": "integer",
+      "description": "Runner-up's votes.",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "margin",
+      "type": "integer",
+      "description": "Winner's votes minus runner-up's.",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "vacant",
+      "type": "boolean",
+      "description": "No one was elected."
+    },
+    {
+      "name": "unopposed",
+      "type": "boolean",
+      "description": "Elected without a contest."
+    },
+    {
+      "name": "script",
+      "type": "string",
+      "description": "Script of the printed names.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "latin",
+          "devanagari",
+          "kannada",
+          "gujarati",
+          "bengali",
+          "krutidev",
+          "tamil"
+        ]
+      }
+    },
+    {
+      "name": "source_repo",
+      "type": "string",
+      "description": "Repository the row was read from.",
+      "constraints": {
+        "required": true,
+        "pattern": "local_elections(_[a-z_]+)?"
+      }
+    },
+    {
+      "name": "source_commit",
+      "type": "string",
+      "description": "Full commit of source_repo the row was read at.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{40}"
+      }
+    },
+    {
+      "name": "source_path",
+      "type": "string",
+      "description": "File within source_repo.",
+      "constraints": {
+        "required": true,
+        "minLength": 1
+      }
+    },
+    {
+      "name": "source_page",
+      "type": "integer",
+      "description": "1-based page of source_path, for documents.",
+      "constraints": {
+        "minimum": 1
+      }
+    },
+    {
+      "name": "provenance_level",
+      "type": "string",
+      "description": "The finest unit a row can be traced to.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "row",
+          "page",
+          "document",
+          "dataset"
+        ]
+      }
+    },
+    {
+      "name": "quality_flags",
+      "type": "string",
+      "description": "';'-joined flags a consumer should read before trusting the row (master.quality_flags).",
+      "constraints": {
+        "pattern": "[a-z_]+(;[a-z_]+)*"
+      }
+    }
+  ],
+  "primaryKey": [
+    "row_id"
+  ]
+}

@@ -1,0 +1,63 @@
+1 2 3
+Kuthalam Panchayat Union Contd…
+50 Vazhuvur General
+51 Vanathirajapuram General
+Sembanarkoil Panchayat Union
+1 Eravanchery SC (Women)
+2 Iluppur SC (Women)
+3 Kalamanallur SC (Women)
+4 Karuvalakarai SC (Women)
+5 Narasinganatham SC (Women)
+6 Parasalur SC (Women)
+7 Alaveli SC (General)
+8 Eachankudi SC (General)
+9 Kattuchery SC (General)
+10 Kazhiyappanallur SC (General)
+11 Keelaperumpallam SC (General)
+12 Keelmathur SC (General)
+13 Kidarankondan SC (General)
+14 Mamakudi SC (General)
+15 Melaiyur SC (General)
+16 Mudikandanallur SC (General)
+17 Thillaiyadi SC (General)
+18 Thiruvilaiyattam SC (General)
+19 Akkur General (Women)
+20 Gudalur General (Women)
+21 Madapuram General (Women)
+22 Manickapangu General (Women)
+23 Mathur General (Women)
+24 Memathur General (Women)
+25 Mukkarambur General (Women)
+26 Nadukkarai General (Women)
+27 Natham General (Women)
+28 Semangalam General (Women)
+29 Sembanarkoil General (Women)
+30 Thalaiyudayavar koilpathu General (Women)
+31 Thiruchampalli General (Women)
+32 Annavasal General
+33 Arasur General
+34 Arupathi General
+35 Chandrapadi General
+36 Eduthukatti General
+37 Elaiyalur General
+38 Kalakasthinathapuram General
+39 Kanjanagaram General
+40 Keelaiyur General
+41 Kidangal General
+42 Killiyur General
+43 Kondathur General
+44 Kothankudi General
+45 Maruthampallam General
+46 Melaperumpallam General
+47 Nalladai General
+48 Neduvasal General
+49 Pagasalai General
+50 Pillaiperumanallur General
+51 T.Manalmedu General
+52 Thirukkadaiyur General
+53 Thirukkalachery General
+54 Thiruvidaikazhi General
+55 Uthirankudi General
+56 Vilagam General
+57 Visalur General
+Page 86

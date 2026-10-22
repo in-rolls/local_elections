@@ -1,0 +1,356 @@
+[
+  {
+    "file_id": 13986379,
+    "file_name": "election_pradhan_alldist.tab",
+    "physical_cases": 1316,
+    "variables": [
+      "temp_id",
+      "sexratio_under6",
+      "app_pucca_road",
+      "hand_pump",
+      "app_pucca_road_missing",
+      "hand_pump_missing",
+      "gp_code_anon",
+      "res_woman",
+      "res_sc",
+      "res_st",
+      "AA0_1a_code_anon",
+      "AA0_1b",
+      "AA0_2a_code_anon",
+      "AA0_2b",
+      "res_female",
+      "res_femprev",
+      "res_curraprev",
+      "res_2003",
+      "res_both",
+      "res_1998",
+      "blockname_code_anon",
+      "gpno",
+      "gpname_code_anon",
+      "gender2008",
+      "incumb2008",
+      "res_f2008",
+      "res_type",
+      "_merge",
+      "res_once",
+      "data2008",
+      "district",
+      "name1998",
+      "res1998",
+      "gender1998",
+      "name2003_code_anon",
+      "res2003",
+      "gender2003",
+      "name2008_code_anon",
+      "res2008",
+      "res_f1998",
+      "res_f2003",
+      "res_history"
+    ],
+    "sex_statistics": {
+      "gender1998": {
+        "medn": "NaN",
+        "invd": "1316.0",
+        "stdev": "NaN",
+        "mode": ".",
+        "mean": "NaN",
+        "max": "NaN",
+        "vald": "0.0",
+        "min": "NaN"
+      },
+      "gender2003": {
+        "stdev": "0.4824996800345621",
+        "min": "0.0",
+        "invd": "175.0",
+        "mode": ".",
+        "medn": "0.0",
+        "mean": "0.36809815950920255",
+        "max": "1.0",
+        "vald": "1141.0"
+      },
+      "gender2008": {
+        "invd": "7.0",
+        "medn": "0.0",
+        "stdev": "0.49135188927623913",
+        "min": "0.0",
+        "mean": "0.40641711229946537",
+        "mode": ".",
+        "max": "1.0",
+        "vald": "1309.0"
+      }
+    },
+    "metadata_url": "https://dataverse.harvard.edu/api/access/datafile/13986379/metadata/ddi",
+    "metadata_path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/election_pradhan_alldist_ddi.body",
+    "metadata_sha256": "70f4120c449f9c75b31c514253fcfc01cd4bab5c4667648a8d29ec6b35218ae5"
+  },
+  {
+    "file_id": 13986285,
+    "file_name": "nadia.tab",
+    "physical_cases": 188,
+    "variables": [
+      "blockname_code_anon",
+      "gpname_code_anon",
+      "name1998",
+      "res1998",
+      "gender1998",
+      "name2003_code_anon",
+      "res2003",
+      "gender2003",
+      "name2008_code_anon",
+      "res2008",
+      "gender2008",
+      "incumb2008"
+    ],
+    "sex_statistics": {
+      "gender1998": {
+        "min": "NaN",
+        "mode": ".",
+        "max": "NaN",
+        "invd": "188.0",
+        "medn": "NaN",
+        "mean": "NaN",
+        "stdev": "NaN",
+        "vald": "0.0"
+      },
+      "gender2003": {
+        "max": "1.0",
+        "medn": "0.0",
+        "mode": ".",
+        "min": "0.0",
+        "mean": "0.3903743315508021",
+        "vald": "187.0",
+        "stdev": "0.4891438306669362",
+        "invd": "1.0"
+      },
+      "gender2008": {
+        "invd": "1.0",
+        "mode": ".",
+        "medn": "0.0",
+        "vald": "187.0",
+        "mean": "0.45454545454545453",
+        "min": "0.0",
+        "stdev": "0.49926632388945325",
+        "max": "1.0"
+      }
+    },
+    "metadata_url": "https://dataverse.harvard.edu/api/access/datafile/13986285/metadata/ddi",
+    "metadata_path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/nadia_ddi.xml",
+    "metadata_sha256": "c06544a10022dad330d94d25fd86ac904cce02e5c68fb14255a30a13e48efb13"
+  },
+  {
+    "file_id": 13986350,
+    "file_name": "howrah.tab",
+    "physical_cases": 158,
+    "variables": [
+      "blockname_code_anon",
+      "gpname_code_anon",
+      "name1998",
+      "res1998",
+      "gender1998",
+      "name2003_code_anon",
+      "res2003",
+      "gender2003",
+      "name2008_code_anon",
+      "res2008",
+      "gender2008",
+      "incumb2008"
+    ],
+    "sex_statistics": {
+      "gender1998": {
+        "max": "NaN",
+        "mean": "NaN",
+        "vald": "0.0",
+        "medn": "NaN",
+        "mode": ".",
+        "min": "NaN",
+        "stdev": "NaN",
+        "invd": "158.0"
+      },
+      "gender2003": {
+        "min": "0.0",
+        "invd": "2.0",
+        "mean": "0.35256410256410253",
+        "mode": ".",
+        "vald": "156.0",
+        "medn": "0.0",
+        "stdev": "0.47930712329882524",
+        "max": "1.0"
+      },
+      "gender2008": {
+        "medn": "0.0",
+        "min": "0.0",
+        "stdev": "0.48807110086925",
+        "max": "1.0",
+        "vald": "156.0",
+        "mean": "0.3846153846153848",
+        "mode": ".",
+        "invd": "2.0"
+      }
+    },
+    "metadata_url": "https://dataverse.harvard.edu/api/access/datafile/13986350/metadata/ddi",
+    "metadata_path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/howrah_ddi.xml",
+    "metadata_sha256": "187707afcc467d276bc555cc5997350b66fdf7e0053444f4a0fdd2b49ca2f3f7"
+  },
+  {
+    "file_id": 13986337,
+    "file_name": "hooghly.tab",
+    "physical_cases": 211,
+    "variables": [
+      "blockname_code_anon",
+      "gpname_code_anon",
+      "name1998",
+      "res1998",
+      "gender1998",
+      "name2003_code_anon",
+      "res2003",
+      "gender2003",
+      "name2008_code_anon",
+      "res2008",
+      "gender2008",
+      "incumb2008"
+    ],
+    "sex_statistics": {
+      "gender1998": {
+        "vald": "0.0",
+        "max": "NaN",
+        "medn": "NaN",
+        "mode": ".",
+        "stdev": "NaN",
+        "mean": "NaN",
+        "invd": "211.0",
+        "min": "NaN"
+      },
+      "gender2003": {
+        "min": "0.0",
+        "max": "1.0",
+        "vald": "210.0",
+        "stdev": "0.47081610622230496",
+        "invd": "1.0",
+        "mode": ".",
+        "medn": "0.0",
+        "mean": "0.32857142857142857"
+      },
+      "gender2008": {
+        "stdev": "0.49292095109022843",
+        "invd": "1.0",
+        "min": "0.0",
+        "mode": ".",
+        "vald": "210.0",
+        "medn": "0.0",
+        "mean": "0.4095238095238095",
+        "max": "1.0"
+      }
+    },
+    "metadata_url": "https://dataverse.harvard.edu/api/access/datafile/13986337/metadata/ddi",
+    "metadata_path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/hooghly_ddi.xml",
+    "metadata_sha256": "6e03a88eecf134577c46231c947aef9d763a980af1146d4f3b9551463b177f7c"
+  },
+  {
+    "file_id": 13986358,
+    "file_name": "burdwan.tab",
+    "physical_cases": 278,
+    "variables": [
+      "blockname_code_anon",
+      "gpname_code_anon",
+      "name1998",
+      "res1998",
+      "gender1998",
+      "name2003_code_anon",
+      "res2003",
+      "gender2003",
+      "name2008_code_anon",
+      "res2008",
+      "gender2008",
+      "incumb2008"
+    ],
+    "sex_statistics": {
+      "gender1998": {
+        "medn": "NaN",
+        "max": "NaN",
+        "invd": "278.0",
+        "vald": "0.0",
+        "mean": "NaN",
+        "mode": ".",
+        "min": "NaN",
+        "stdev": "NaN"
+      },
+      "gender2003": {
+        "max": "1.0",
+        "mode": ".",
+        "invd": "1.0",
+        "min": "0.0",
+        "vald": "277.0",
+        "mean": "0.39711191335740076",
+        "stdev": "0.49018515257689466",
+        "medn": "0.0"
+      },
+      "gender2008": {
+        "invd": "1.0",
+        "mean": "0.38989169675090246",
+        "max": "1.0",
+        "vald": "277.0",
+        "min": "0.0",
+        "stdev": "0.4886082599651466",
+        "medn": "0.0",
+        "mode": "."
+      }
+    },
+    "metadata_url": "https://dataverse.harvard.edu/api/access/datafile/13986358/metadata/ddi",
+    "metadata_path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/burdwan_ddi.xml",
+    "metadata_sha256": "e50147075c0c05f4e03ef8ffa73ee61e1e223c30cc53f472fc7bc8e0ef9ed48f"
+  },
+  {
+    "file_id": 13986347,
+    "file_name": "s24para.tab",
+    "physical_cases": 313,
+    "variables": [
+      "blockname_code_anon",
+      "gpname_code_anon",
+      "name1998",
+      "res1998",
+      "gender1998",
+      "name2003_code_anon",
+      "res2003",
+      "gender2003",
+      "name2008_code_anon",
+      "res2008",
+      "gender2008",
+      "incumb2008"
+    ],
+    "sex_statistics": {
+      "gender1998": {
+        "mode": ".",
+        "mean": "NaN",
+        "stdev": "NaN",
+        "min": "NaN",
+        "medn": "NaN",
+        "invd": "313.0",
+        "vald": "0.0",
+        "max": "NaN"
+      },
+      "gender2003": {
+        "stdev": "0.47986099013974776",
+        "mode": ".",
+        "min": "0.0",
+        "medn": "0.0",
+        "vald": "311.0",
+        "invd": "2.0",
+        "max": "1.0",
+        "mean": "0.35691318327974275"
+      },
+      "gender2008": {
+        "vald": "312.0",
+        "min": "0.0",
+        "medn": "0.0",
+        "stdev": "0.4857182002002504",
+        "max": "1.0",
+        "invd": "1.0",
+        "mode": ".",
+        "mean": "0.37820512820512825"
+      }
+    },
+    "metadata_url": "https://dataverse.harvard.edu/api/access/datafile/13986347/metadata/ddi",
+    "metadata_path": "data/wb/vintage_search/dataverse_o3ukfo_followup_20260908/south24_ddi.xml",
+    "metadata_sha256": "77e581eca03354e0ee76cbd689b4c15a51e6baa46af2837ed1509b0d42afc3cc"
+  }
+]

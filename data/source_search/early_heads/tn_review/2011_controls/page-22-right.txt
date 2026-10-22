@@ -1,0 +1,53 @@
+1 2 3
+NALLUR PANCHAYAT UNION Contd
+50 Murugankudi General
+51 Pe.Ponnery General
+52 Pelandurai General
+53 Sathiyam General
+54 Sepakkam General
+55 Sevur General
+56 Sirumangalam General
+57 Sirunesalur General
+58 Thirupayar General
+59 Valasai General
+60 Vannathur General
+61 Veppur General
+62 N.Naraiyur General
+63 Nagar General
+64 Pa.Kothanur General
+MANGALORE PANCHAYAT UNION
+1 Edaicheruvai SC(Women)
+2 Ja.Endal SC(Women)
+3 Korakkavadi SC(Women)
+4 Pothiramangalam SC(Women)
+5 Thatchur SC(Women)
+6 Kaludur SC(Women)
+7 Keelacheruvai SC(Women)
+8 Ma.Pudaiyur SC(Women)
+9 Poyanapadi SC(Women)
+10 Adari SC(General)
+11 S.Pudur SC(General)
+12 Alambadi SC(General)
+13 Avatti SC(General)
+14 E.Keeranur SC(General)
+15 Ma.Pudur SC(General)
+16 Melakalpoondi SC(General)
+17 Perumulai SC(General)
+18 Pullur SC(General)
+19 Pulivalam SC(General)
+20 Sirumulai SC(General)
+21 Sevveri SC(General)
+22 T.Endal SC(General)
+23 Vaiyangudi SC(General)
+24 Venganur SC(General)
+25 Vinayagananthal SC(General)
+26 Korakkai SC(General)
+27 Vagaiyur SC(General)
+28 Kanchirankulam General (Women)
+29 Lakkur General (Women)
+30 Ma.Kothanur General (Women)
+31 Keelakalpoondi General (Women)
+32 S.Naraiyur General (Women)
+33 Pulikarambalur General (Women)
+34 Nithinatham General (Women)
+35 Sirukarambalur General (Women)

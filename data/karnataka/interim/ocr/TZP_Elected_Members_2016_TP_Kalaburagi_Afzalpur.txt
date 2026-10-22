@@ -1,0 +1,227 @@
+<div><img/></div>
+<div data-bbox="54 118 307 135" data-label="Page-Header">
+<p>RW No. 67/RLS/00014757</p>
+</div>
+<div data-bbox="592 114 884 133" data-label="Page-Header">
+<p>Reg. No. L2/Gulbarga/06/2015-20</p>
+</div>
+<div data-bbox="425 117 516 181" data-label="Image"><img/></div>
+<div data-bbox="122 169 859 244" data-label="Section-Header">
+<h1 style="text-align: center;">ಕರ್ನಾಟಕ ರಾಜ್ಯ ಪತ್ರಿಕೆ</h1>
+<h2 style="text-align: center;">ಅಧಿಕೃತವಾಗಿ ಪಕಟಿಸಲಾದುದು</h2>
+<h3 style="text-align: center;">ವಿಶೇಷ ರಾಜ್ಯ ಪತ್ರಿಕೆ</h3>
+</div>
+<div data-bbox="54 273 904 323" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 15%;">ಭಾಗ - 6ಸಿ<br/>Part - 6C</td>
+<td style="width: 75%;">ಕಲಬುರಗಿ, ಶುಕ್ರವಾರ, ಮಾರ್ಚ್ ೧೮, ೨೦೧೬ (ಫಾಲ್ಗುಣ ೨೮, ಶಕ ವರ್ಷ ೧೯೩೭)<br/>Kalaburagi, Friday, March 18, 2016 ( Phalguna 28, Shaka Varsha 1937 )</td>
+<td style="width: 15%;">ನಂ. ೪೧<br/>No. 41</td>
+</tr>
+</table>
+</div>
+<div data-bbox="256 327 708 348" data-label="Text">
+<p style="text-align: center;">ಪ್ರಾದೇಶಿಕ ಆಯುಕ್ತರ ಕಾರ್ಯಾಲಯ ಕಲಬುರಗಿ ವಿಭಾಗ ಕಲಬುರಗಿ</p>
+</div>
+<div data-bbox="440 348 524 362" data-label="Text">
+<p style="text-align: center;"><u>ಅಧಿಸೂಚನೆ</u></p>
+</div>
+<div data-bbox="103 368 433 384" data-label="Text">
+<p>ಸಂ/ಕಂದಾಯ/ಪ್ರಾಆಕ/ಕಲಬುರಗಿ/68/2015-16</p>
+</div>
+<div data-bbox="638 365 799 379" data-label="Text">
+<p style="text-align: right;">ದಿನಾಂಕ: 14.03.2016</p>
+</div>
+<div data-bbox="103 427 867 557" data-label="Text">
+<p>1993 ರ ಕರ್ನಾಟಕ ಪಂಚಾಯತ ರಾಜ (ಚುನಾವಣೆಯನ್ನು ನಡೆಸುವ) ನಿಯಮಾವಳಿ 12ನೇ ನಿಯಮದ ಉಪ ನಿಯಮ 2 ರ ಮೇರೆಗೆ ಜಿಲ್ಲಾಧಿಕಾರಿಗಳು ಕಲಬುರಗಿ ಹೊರಡಿಸಿದ ದಿನಾಂಕ: 01.02.2016 ರ ಅಧಿಸೂಚನೆ ಸಂಖ್ಯೆ/ಕಂ/ಚುನಾವಣೆ/ಜಿಪಂತಾಪಂ/64/2015-16 ರ ಪ್ರಕಾರ ಕಲಬುರಗಿ ಜಿಲ್ಲೆಯ ಅಫಜಲಪೂರ ತಾಲೂಕಿನ ತಾಲೂಕು ಪಂಚಾಯತಗೆ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಯನ್ನು (ದಿನಾಂಕ: 20.02.2016 ರಂದು) ನಡೆಸಲಾಗುವುದರಿಂದ ಮತ್ತು ಸದರಿ ತಾಲೂಕು ಪಂಚಾಯತಿಯ ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ನಡೆಸಲಾದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಯ ಫಲಿತಾಂಶವನ್ನು ಸಂಬಂಧಪಟ್ಟ ಚುನಾವಣಾಧಿಕಾರಿಗಳು ದಿನಾಂಕ: 23.02.2016 ರಂದು ಘೋಷಿಸಿರುವುದರಿಂದ.</p>
+</div>
+<div data-bbox="103 567 867 643" data-label="Text">
+<p>1993 ರ ಕರ್ನಾಟಕ ಪಂಚಾಯತ ರಾಜ ಅಧಿನಿಯಮ ಕಲಂ 133ನೇ ಪ್ರಕರಣದಿಂದ ಪ್ರದತ್ತವಾದ ಅಧಿಕಾರವನ್ನು ಜಲಾಯಿಸಿ ಕಲಬುರಗಿ ವಿಭಾಗದ ಪ್ರಾದೇಶಿಕ ಆಯುಕ್ತರಾದ ನಾನು ಅಮ್ಮನ್ ಆದಿತ್ಯ ಬಿಸ್ವಾಸ್. ಭಾ.ಆ.ಸೇ. ಕಲಬುರಗಿ ಜಿಲ್ಲೆಯ ಅಫಜಲಪೂರ ತಾಲೂಕು ಪಂಚಾಯತಿಗೆ ಆಯ್ಕೆಯಾದ ಸದಸ್ಯರ ಹೆಸರುಗಳನ್ನು ಈ ಕೇಳಗೆ ನಮೂದಿಸಿದಂತೆ ಅಧಿಸೂಚಿಸಿರುತ್ತೇನೆ.</p>
+</div>
+<div data-bbox="107 656 223 672" data-label="Text">
+<p>ಜಿಲ್ಲೆ: ಕಲಬುರಗಿ</p>
+</div>
+<div data-bbox="708 654 847 668" data-label="Text">
+<p style="text-align: right;">ತಾ|| ಅಫಜಲಪೂರ</p>
+</div>
+<div data-bbox="107 685 889 1000" data-label="Table">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th style="width: 10%;">ಕ್ರಮ ಸಂಖ್ಯೆ</th>
+<th style="width: 15%;">ತಾಲೂಕು ಪಂಚಾಯತಿಯ ಕ್ಷೇತ್ರದ ಸಂಖ್ಯೆ ಮತ್ತು ಹೆಸರು</th>
+<th style="width: 15%;">ವೀಸಲಾತಿ/ವೀಸಲಿರಿಸಿದ ವರ್ಗ</th>
+<th style="width: 15%;">ಚುನಾಯಿತ ಸದಸ್ಯರ ಹೆಸರು ಶ್ರೀ/ಶ್ರೀಮತಿ</th>
+<th style="width: 15%;">ರಾಜಕೀಯ ಪಕ್ಷ/ಪಕ್ಷೇತರ</th>
+</tr>
+<tr>
+<th style="text-align: center;">1</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;">3</th>
+<th style="text-align: center;">4</th>
+<th style="text-align: center;">5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">1-ಮಣ್ಣೂರ</td>
+<td style="text-align: center;">ಸಾಮಾನ್ಯ (ಮಹಿಳೆ)</td>
+<td style="text-align: center;">ಭಾನುವೇಗಂ ಹಾಜಿಮಲಂಗ ಮೂತವಲ್ಲಿ ಸಾ|| ಮಣ್ಣೂರ ತಾ|| ಅಫಜಲಪೂರ</td>
+<td style="text-align: center;">ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">2-ಕರಜಗಿ</td>
+<td style="text-align: center;">ಹಿಂದುಳಿದ "ಅ" ವರ್ಗ</td>
+<td style="text-align: center;">ಭೇಮಾಶಂಕರ ಸಾಯಬಣ್ಣ ಹೊನ್ನಕೇರಿ ಸಾ|| ಕರಜಗಿ ತಾ|| ಅಫಜಲಪೂರ</td>
+<td style="text-align: center;">ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">3-ಉಡಚಾಣ</td>
+<td style="text-align: center;">ಸಾಮಾನ್ಯ</td>
+<td style="text-align: center;">ಶಿವಶರಣಪ್ಪ ಗುರಣ್ಣ ಪಡಶಟ್ಟಿ ಸಾ|| ಉಡಚಾಣ ತಾ|| ಅಫಜಲಪೂರ</td>
+<td style="text-align: center;">ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೇಸ್</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">4-ಅಳ್ಳಗಿ (ಬಿ)</td>
+<td style="text-align: center;">ಸಾಮಾನ್ಯ</td>
+<td style="text-align: center;">ಶಂಕರಗೌಡ ಶರಣಪ್ಪಗೌಡ ಪಾಟೀಲ ಸಾ|| ಅಳ್ಳಗಿ (ಬಿ) ತಾ|| ಅಫಜಲಪೂರ</td>
+<td style="text-align: center;">ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೇಸ್</td>
+</tr>
+</tbody>
+</table>
+</div><div> <span style="float: right;">ಪ್ರತಿ ಸಂಖ್ಯೆ 41</span> <span style="float: right;">2</span> <span style="float: right;">ಭಾಗ-6೩</span></div>
+<div data-bbox="35 100 850 965" data-label="Table">
+<table border="1">
+<tbody>
+<tr>
+<td>5</td>
+<td>5-ಮಲ್ಲಾಬಾದ</td>
+<td>ಹಿಂದುಳಿದ "ಬ" ವರ್ಗ<br/>(ಮಹಿಳೆ)</td>
+<td>ಸುಜಾತಾ ಮಹಾಂತವ<br/>ಬಬಲೇಶ್ವರ<br/>ಸಾ|| ಮಾತೋಳ ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ ಜನತಾ<br/>ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>6</td>
+<td>6-ತೆಲ್ಲೂರ</td>
+<td>ಸಾಮಾನ್ಯ (ಮಹಿಳೆ)</td>
+<td>ಪಾರ್ವತಿ ಶಂಕರ ಕಣ್ಣಿ<br/>ತಾ|| ತೆಲ್ಲೂರ ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ<br/>ರಾಷ್ಟ್ರೀಯ<br/>ಕಾಂಗ್ರೇಸ್</td>
+</tr>
+<tr>
+<td>7</td>
+<td>7-ಕಲ್ಲೂರ</td>
+<td>ಸಾಮಾನ್ಯ</td>
+<td>ವಿಠ್ಠಲ ಅಡಿವೆಪ್ಪ ನಾಟೇಕಾರ<br/>ಸಾ|| ಹಾವಳಗಾ ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ ಜನತಾ<br/>ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>8</td>
+<td>8-ರೇವೂರ (ಐ)</td>
+<td>ಅನುಸೂಚಿತ ಜಾತಿ<br/>(ಮಹಿಳೆ)</td>
+<td>ಅನಸೂಚಾಯಿ ಮೋತಿರಾಮ<br/>ಸಾ|| ರೇವೂರ (ಐ) ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ ಜನತಾ<br/>ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>9</td>
+<td>9-ಅತನೂರ</td>
+<td>ಹಿಂದುಳಿದ "ಅ" ವರ್ಗ<br/>(ಮಹಿಳೆ)</td>
+<td>ಲಕ್ಷ್ಮೀ ನಾಗೇಶ ಗುತ್ತೇದಾರ<br/>ಸಾ|| ಅತನೂರ ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ<br/>ರಾಷ್ಟ್ರೀಯ<br/>ಕಾಂಗ್ರೇಸ್</td>
+</tr>
+<tr>
+<td>10</td>
+<td>10-ಭೈರಾಮಡಗಿ</td>
+<td>ಸಾಮಾನ್ಯ (ಮಹಿಳೆ)</td>
+<td>ಲಕ್ಷ್ಮೀಬಾಯಿ ಸಿದ್ಧಲಿಂಗ<br/>ಅಲ್ಲದ<br/>ಸಾ|| ಭೈರಾಮಡಗಿ ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ ಜನತಾ<br/>ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>11</td>
+<td>11-ಕೋಗನೂರ</td>
+<td>ಹಿಂದುಳಿದ "ಅ" ವರ್ಗ<br/>(ಮಹಿಳೆ)</td>
+<td>ಅಂಬಕಾ ನಿಂಗಪ್ಪ<br/>ಸಾ|| ಅಂಕಲಗಾ ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ ಜನತಾ<br/>ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>12</td>
+<td>12-ಗುಡೂರ</td>
+<td>ಅನುಸೂಚಿತ ಜಾತಿ</td>
+<td>ಮಾಪಣ್ಣಾ ಸಾಯುಬಣ್ಣಾ<br/>ಸಾ|| ನೀಲೂರ ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ<br/>ರಾಷ್ಟ್ರೀಯ<br/>ಕಾಂಗ್ರೇಸ್</td>
+</tr>
+<tr>
+<td>13</td>
+<td>13-ದೇವಲ<br/>ಗಾಣಗಾಪೂರ</td>
+<td>ಸಾಮಾನ್ಯ</td>
+<td>ಬಲವಂತ ಪ ಜಕಬಾ<br/>ಸಾ|| ದೇವಲ ಗಾಣಗಾಪೂರ<br/>ತಾ|| ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ<br/>ರಾಷ್ಟ್ರೀಯ<br/>ಕಾಂಗ್ರೇಸ್</td>
+</tr>
+<tr>
+<td>14</td>
+<td>14-ಗೊಬ್ಬುರ (ಐ)</td>
+<td>ಅನುಸೂಚಿತ ಜಾತಿ<br/>(ಮಹಿಳೆ)</td>
+<td>ಮಹಾದೇವಿ ಚೋಕಲು<br/>ಸಾ|| ಗೊಬ್ಬುರವಾಡಿ ತಾಂಡಾ<br/>ತಾ|| ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ<br/>ರಾಷ್ಟ್ರೀಯ<br/>ಕಾಂಗ್ರೇಸ್</td>
+</tr>
+<tr>
+<td>15</td>
+<td>15-ಜೌಡಾಪೂರ</td>
+<td>ಅನುಸೂಚಿತ ಪಂಗಡ<br/>(ಮಹಿಳೆ)</td>
+<td>ದುಕ್ಕೇಣಿ ಬಾಬು<br/>ಸಾ|| ದೇವಲ ಗಾಣಗಾಪೂರ<br/>ತಾ|| ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ<br/>ರಾಷ್ಟ್ರೀಯ<br/>ಕಾಂಗ್ರೇಸ್</td>
+</tr>
+<tr>
+<td>16</td>
+<td>16-ಹಸರಗುಂಡಗಿ</td>
+<td>ಸಾಮಾನ್ಯ</td>
+<td>ಗುರಣ್ಣ (ಐ) ತೆಗ್ಗಳ್ಳ<br/>ಸಾ|| ತೆಗ್ಗಳ್ಳ ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ<br/>ರಾಷ್ಟ್ರೀಯ<br/>ಕಾಂಗ್ರೇಸ್</td>
+</tr>
+<tr>
+<td>17</td>
+<td>17-ಬಂದರವಾಡ</td>
+<td>ಸಾಮಾನ್ಯ (ಮಹಿಳೆ)</td>
+<td>ಕೃಷ್ಣಾದಾಯಿ ಶಟ್ಟಿಪ್ಪ<br/>ಡೂಂಗರಿ<br/>ಸಾ|| ಬಿದನೂರ ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ ಜನತಾ<br/>ಪಕ್ಷ</td>
+</tr>
+</tbody>
+</table>
+</div><div><img/></div>
+<div data-bbox="117 104 924 352" data-label="Table">
+<table border="1">
+<tr>
+<td>18</td>
+<td>18-ಮಾಹಿತಿ</td>
+<td>ಅನುಸೂಚಿತ ಜಾತಿ</td>
+<td>ರಾಜಕುಮಾರ ಮಹಾದೇವ<br/>ಸಾ|| ಮಾಹಿತಿ ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ ಜನತಾ<br/>ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>19</td>
+<td>19-ಗೌರ (ಬಿ)</td>
+<td>ಹಿಂದುಳಿದ "ಆ" ವರ್ಗ</td>
+<td>ಕಲ್ಲಿಪ್ಪ ಶಿವಪ್ಪ ಪ್ಯಾಟ<br/>ಸಾ|| ಭರಕಲಗಾ ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ ಜನತಾ<br/>ಪಕ್ಷ</td>
+</tr>
+<tr>
+<td>20</td>
+<td>20-ಬಳೂರ್ಗಿ</td>
+<td>ಸಾಮಾನ್ಯ</td>
+<td>ವಸವಂತರಾವ<br/>ಮಲ್ಲಿಕಾರ್ಜುನ ಚಿತ್ತೂರ<br/>ಸಾ|| ತೆಲ್ಲೋಣಿ ತಾ||<br/>ಅಫಜಲಪೂರ</td>
+<td>ಭಾರತೀಯ<br/>ರಾಷ್ಟ್ರೀಯ<br/>ಕಾಂಗ್ರೇಸ್</td>
+</tr>
+</table>
+</div>
+<div data-bbox="104 368 175 402" data-label="Text">
+<p>PR 130<br/>SC 50</p>
+</div>
+<div data-bbox="615 398 838 473" data-label="Text">
+<p>(ಅಮ್ಮನ ಆದಿತ್ಯ ಬಸ್ವಾಸ್)<br/>ಪಕ್ಷದೇಶಿಕ ಆಯುಕ್ತರು<br/>ಕಲಬುರಗಿ ವಿಭಾಗ ಕಲಬುರಗಿ</p>
+</div>
+<div data-bbox="188 467 796 526" data-label="Text">
+<p>ಉಪ ನಿರ್ದೇಶಕರು, ಸರ್ಕಾರಿ ವಿಭಾಗೀಯ ಮುದ್ರಣಾಲಯ, ಕಲಬುರಗಿ ಇವರಿಂದ ಮುದ್ರಿಸಲ್ಪಟ್ಟಿತು</p>
+</div>

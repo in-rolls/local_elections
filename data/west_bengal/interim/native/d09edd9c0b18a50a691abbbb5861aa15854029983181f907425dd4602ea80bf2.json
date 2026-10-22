@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "sha256": "d09edd9c0b18a50a691abbbb5861aa15854029983181f907425dd4602ea80bf2",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock : Chakdaha\nNumber of members to be elected in the Gram Panchayat\nName of Gram Scheduled Caste Scheduled Tribe\nTotal number of members Women members\nmembers Members\n1 (2a) (2b) (2c) (2d)\nMadanpur-I 20 9 NIL 7\nSeats reserved for\nSeats allocated Seats reserved for\nScheduled Caste\nNumber, name and area of constituencies with serial to each women against\nor Scheduled Tribe\nnumbers constituency with serial number of\nagainst serial\nserial numbers seats\nnumber of seats\n3 4 5 6\nMadanpur- I/I\nMouza - Madanpur J.L No - 94\n(a) Gourangapara and Kaltala(Dakshin Part) 1,2 -- 1 W\n(b) Gourangapara and Kaltala Uttar Part\nPart No. -82/71\nMadanpur- I/II\nMouza - Madanpur J.L No - 94\n(a) Madanpur Purbapara(Basudebnagar)\n3,4 4 SC 4 SCW\n(b) Madanpur Purbapara Partly(Gangulypara, High\nSchoolpara)\nPart No. -82/72\nMadanpur- I/III\nMouza - Madanpur J.L No - 94\n(a) Madanpur Paschim Kalyannagar (Purba)\n5,6 5 SC 6 W\n(b) Madanpur Paschimpara Patly, Kalitalapara,\nChatterjeepara\nPart No. -82/73\nMadanpur- I/IV\nMouza - Madanpur J.L No - 94\n(a) Madanpur Paschim Kalyannagar (Paschim)\n7,8 8 SC --\n(b) Madanpur Paschimpara Partly, (Ghoshpara,\nSinghpara)\nPart No. -82/74\nMadanpur- I/V\nMouza - Madanpur J.L No - 94\n(a) 1No.Gobindanagar Dakshin Paschim Part 9 9 SC 9 SCW\n(b) 1 No. Gobindanagar Uttar-Purba Part\nPart No. -82/75\nMadanpur- I/VI\nMouza - Madanpur J.L No - 94\n10 -- --\n(a) 2 No. Gobindanagar (Madanpur)\nPart No. -82/76\nMadanpur- I/VII\nMouza - Jangal J.L No - 95\n11 11 SC --\n(a) Jangal Dakshinpara\nPart No. -82/77",
+      "tables": [
+        {
+          "bbox": [
+            54.51612,
+            109.55160000000006,
+            556.794,
+            171.34560000000005
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of members",
+              "Scheduled Caste\nmembers",
+              "Scheduled Tribe\nMembers",
+              "Women members"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Madanpur-I",
+              "20",
+              "9",
+              "NIL",
+              "7"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            54.51612,
+            181.4244,
+            556.794,
+            715.38048
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial\nnumbers",
+              "Seats allocated\nto each\nconstituency with\nserial numbers",
+              "Seats reserved for\nScheduled Caste\nor Scheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Madanpur- I/I\nMouza - Madanpur J.L No - 94\n(a) Gourangapara and Kaltala(Dakshin Part)\n(b) Gourangapara and Kaltala Uttar Part\nPart No. -82/71",
+              "1,2",
+              "--",
+              "1 W"
+            ],
+            [
+              "Madanpur- I/II\nMouza - Madanpur J.L No - 94\n(a) Madanpur Purbapara(Basudebnagar)\n(b) Madanpur Purbapara Partly(Gangulypara, High\nSchoolpara)\nPart No. -82/72",
+              "3,4",
+              "4 SC",
+              "4 SCW"
+            ],
+            [
+              "Madanpur- I/III\nMouza - Madanpur J.L No - 94\n(a) Madanpur Paschim Kalyannagar (Purba)\n(b) Madanpur Paschimpara Patly, Kalitalapara,\nChatterjeepara\nPart No. -82/73",
+              "5,6",
+              "5 SC",
+              "6 W"
+            ],
+            [
+              "Madanpur- I/IV\nMouza - Madanpur J.L No - 94\n(a) Madanpur Paschim Kalyannagar (Paschim)\n(b) Madanpur Paschimpara Partly, (Ghoshpara,\nSinghpara)\nPart No. -82/74",
+              "7,8",
+              "8 SC",
+              "--"
+            ],
+            [
+              "Madanpur- I/V\nMouza - Madanpur J.L No - 94\n(a) 1No.Gobindanagar Dakshin Paschim Part\n(b) 1 No. Gobindanagar Uttar-Purba Part\nPart No. -82/75",
+              "9",
+              "9 SC",
+              "9 SCW"
+            ],
+            [
+              "Madanpur- I/VI\nMouza - Madanpur J.L No - 94\n(a) 2 No. Gobindanagar (Madanpur)\nPart No. -82/76",
+              "10",
+              "--",
+              "--"
+            ],
+            [
+              "Madanpur- I/VII\nMouza - Jangal J.L No - 95\n(a) Jangal Dakshinpara\nPart No. -82/77",
+              "11",
+              "11 SC",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2897
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Seats reserved for\nSeats allocated Seats reserved for\nScheduled Caste\nNumber, name and area of constituencies with serial to each women against\nor Scheduled Tribe\nnumbers constituency with serial number of\nagainst serial\nserial numbers seats\nnumber of seats\nMadanpur- I/VIII\nMouza -Jangal J.L No - 95\n(a) Jangal Purbapara\nMouza - Koutukpur J.L No - 97\n12,13 12 SC 13 W\n(b) Koutuk pur Full\nMouza - Jibannagar J.L No - 96\n(c) Jibannagar Full\nPart No. -82/78\nMadanpur- I/IX\nMouza -Jangal J.L No - 95\n14 -- --\n(a) Jangal Paschim\nPart No. -82/79\nMadanpur- I/X\nMouza - Koutukpur J.L No - 97\n(a) New Koutukpur Dakshin Part\nMouza - Uchitpur J.L No - 98\n15 -- --\n(b) Uchitpur Full\nMouza - Koutukpur J.L No - 97\n(c) New Koutukpur Uttar Part\nPart No. -82/80\nMadanpur- I/XI\nMouza -Priyanagar J.L No -39\n16 16 SC 16 SCW\n(a) Priyanagar Uttar Part\nPart No. -82/81\nMadanpur- I/XII\nMouza -Priyanagar J.L No -39\n17 17 SC --\n(a) Dakshin Part of Priyanagar Dakshin\nPart No. -82/82\nMadanpur- I/XIII\nMouza -Priyanagar J.L No -39\n18 18 SC --\n(a) Uttar Part of Priyanagar Dakshin\nPart No. -82/83\nMadanpur- I/XIV\nMouza -Srikrishnapur Char J.L No -189\n(a) Srikrishnapur Char Natunpara, Bagdipara & Purba\nBhag 19,20 -- 19 W\n(b) Srikrisnnapur Char Dakshinpara Partly,Madhaya\nPara Partly and Paschimpara\nPart No. -82/84\nDate:07.02.2008 District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            54.51612,
+            72.47399999999999,
+            556.794,
+            632.1072
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial\nnumbers",
+              "Seats allocated\nto each\nconstituency with\nserial numbers",
+              "Seats reserved for\nScheduled Caste\nor Scheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved for\nwomen against\nserial number of\nseats"
+            ],
+            [
+              "Madanpur- I/VIII\nMouza -Jangal J.L No - 95\n(a) Jangal Purbapara\nMouza - Koutukpur J.L No - 97\n(b) Koutuk pur Full\nMouza - Jibannagar J.L No - 96\n(c) Jibannagar Full\nPart No. -82/78",
+              "12,13",
+              "12 SC",
+              "13 W"
+            ],
+            [
+              "Madanpur- I/IX\nMouza -Jangal J.L No - 95\n(a) Jangal Paschim\nPart No. -82/79",
+              "14",
+              "--",
+              "--"
+            ],
+            [
+              "Madanpur- I/X\nMouza - Koutukpur J.L No - 97\n(a) New Koutukpur Dakshin Part\nMouza - Uchitpur J.L No - 98\n(b) Uchitpur Full\nMouza - Koutukpur J.L No - 97\n(c) New Koutukpur Uttar Part\nPart No. -82/80",
+              "15",
+              "--",
+              "--"
+            ],
+            [
+              "Madanpur- I/XI\nMouza -Priyanagar J.L No -39\n(a) Priyanagar Uttar Part\nPart No. -82/81",
+              "16",
+              "16 SC",
+              "16 SCW"
+            ],
+            [
+              "Madanpur- I/XII\nMouza -Priyanagar J.L No -39\n(a) Dakshin Part of Priyanagar Dakshin\nPart No. -82/82",
+              "17",
+              "17 SC",
+              "--"
+            ],
+            [
+              "Madanpur- I/XIII\nMouza -Priyanagar J.L No -39\n(a) Uttar Part of Priyanagar Dakshin\nPart No. -82/83",
+              "18",
+              "18 SC",
+              "--"
+            ],
+            [
+              "Madanpur- I/XIV\nMouza -Srikrishnapur Char J.L No -189\n(a) Srikrishnapur Char Natunpara, Bagdipara & Purba\nBhag\n(b) Srikrisnnapur Char Dakshinpara Partly,Madhaya\nPara Partly and Paschimpara\nPart No. -82/84",
+              "19,20",
+              "--",
+              "19 W"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 3148
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

@@ -1,0 +1,60 @@
+1 2 3
+KANDAMANGALAM PANCHAYAT UNION Contd..
+39 Seshanganur General
+40 pakkiripalayam General
+41 Navamalmaruthur General
+42 Kothampakkam General
+43 Kandamangalam General
+44 Kalithirampattu General
+45 Sornavurmelpathy General
+VIKRAVANDI PANCHAYAT UNION
+1 Thirunanthipuram SC Women
+2 Madurapakkam SC Women
+3 V. Pagandai SC Women
+4 Brammadesam SC Women
+5 Papanapattu SC Women
+6 Siruvallikuppam SC General
+7 Esalam SC General
+8 Asoor SC General
+9 Ennaiyram SC General
+10 T.Pudupalayam SC General
+11 Thennavarayanpattu SC General
+12 Narasinganur SC General
+13 Vettukadu SC General
+14 Radhapuram SC General
+15 Nagar SC General
+16 Moongilpattu General Women
+17 Thenpair General Women
+18 Reddikuppam General Women
+19 Panayapuram General Women
+20 Thoravi General Women
+21 Mundiyampakkam General Women
+22 Chinnathachur General Women
+23 Melakondai General Women
+24 Mandagapattu General Women
+25 Vadakuchipalayam General Women
+26 Vakkur General Women
+27 V. Sathanur General Women
+28 Ponnankuppam General
+29 Ulagalampoondi General
+30 Se.Pudur General
+31 Kottiyampoondi General
+32 Orathur General
+33 Avudayarpattu General
+34 Veliyandal General
+35 Ayyuragaram General
+36 Nandivadi General
+37 Thumbur General
+38 Eachankuppam General
+39 Pidaripattu General
+40 Kuthampoondi General
+41 Nemur General
+42 Panapakkam General
+43 Kaspakaranai General
+44 Kundalapuliyur General
+45 Muttathur General
+46 Kappiyampuliyur General
+47 Kayathur General
+48 Vembi General
+49 Kongarampoondi General
+50 V.Salai General

@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "sha256": "22b2bb47d74728b9eee949c8471b5bf2be6e9b65e1b458606945111e587e9ac5",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock : Chakdaha\nNumber of members to be elected in the Gram Panchayat\nName of Gram Scheduled Scheduled Tribe Women\nTotal number of members\nCaste members Members members\n1 (2a) (2b) (2c) (2d)\nDewli 20 11 1 7\nSeats reserved for\nSeats allocated\nScheduled Caste Seats reserved\nto each\nor Scheduled for women\nNumber, name and area of constituencies with serial numbers constituency\nTribe against against serial\nwith serial\nserial number of number of seats\nnumbers\nseats\n3 4 5 6\nDewli/I\nMouza :Narayanpur , J.L. No.136 , (a) Narayanpur Partly(Narkel\n1 - 1 W\nDanga)\nPart No. 83/49\nDewli/II\nMouza : Narayanpur, J.L. No.136 , (a)Narayanpur(Narayanpur\n2 2 SC 2 SCW\nVillage) Partly\nPart No. 83/50\nDewli/III\nMouza :Dakshinpanch Potta , J.L. No. 134, (a) Dakshinpanchpotta\n3 3 SC -\nFull\nPart No. 83/51\nDewli/IV\nMouza :Kadambagachhi , J.L. No.133 , (a) Kadambagachhi Full\n4 - -\nMouza : Chakmirzapur, J.L. No. 132, (b) Chakmirjapur Full\nPart No. 83/52\nDewli/V\nMouza :Rasullapur , J.L. No.186 , (a) Rasullapur Purba 5 5 SC -\nPart No. 83/53\nDewli/VI\nMouza :Rasullapur , J.L. No.186 , (a) Rasullapur Paschim 6 - -\nPart No. 83/54\nDewli/VII\nMouza :Kundulia , J.L. No. 135, (a)Kundulia Full 7 7 SC 7 SCW\nPart No. 83/55\nDewli/VIII\nMouza : Dewli, J.L. No.187 , (a) Dewli Metho Para\n8,9 - 8W\nMouza : Goruimari, J.L. No. 188, (b) Goruimari Partly\nPart No. 83/56",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            118.19040000000007,
+            558.7137653999999,
+            179.9844
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of members",
+              "Scheduled\nCaste members",
+              "Scheduled Tribe\nMembers",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Dewli",
+              "20",
+              "11",
+              "1",
+              "7"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            18.5191254,
+            192.3444,
+            558.7137653999999,
+            687.42276
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial numbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumbers",
+              "Seats reserved for\nScheduled Caste\nor Scheduled\nTribe against\nserial number of\nseats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Dewli/I\nMouza :Narayanpur , J.L. No.136 , (a) Narayanpur Partly(Narkel\nDanga)\nPart No. 83/49",
+              "1",
+              "-",
+              "1 W"
+            ],
+            [
+              "Dewli/II\nMouza : Narayanpur, J.L. No.136 , (a)Narayanpur(Narayanpur\nVillage) Partly\nPart No. 83/50",
+              "2",
+              "2 SC",
+              "2 SCW"
+            ],
+            [
+              "Dewli/III\nMouza :Dakshinpanch Potta , J.L. No. 134, (a) Dakshinpanchpotta\nFull\nPart No. 83/51",
+              "3",
+              "3 SC",
+              "-"
+            ],
+            [
+              "Dewli/IV\nMouza :Kadambagachhi , J.L. No.133 , (a) Kadambagachhi Full\nMouza : Chakmirzapur, J.L. No. 132, (b) Chakmirjapur Full\nPart No. 83/52",
+              "4",
+              "-",
+              "-"
+            ],
+            [
+              "Dewli/V\nMouza :Rasullapur , J.L. No.186 , (a) Rasullapur Purba\nPart No. 83/53",
+              "5",
+              "5 SC",
+              "-"
+            ],
+            [
+              "Dewli/VI\nMouza :Rasullapur , J.L. No.186 , (a) Rasullapur Paschim\nPart No. 83/54",
+              "6",
+              "-",
+              "-"
+            ],
+            [
+              "Dewli/VII\nMouza :Kundulia , J.L. No. 135, (a)Kundulia Full\nPart No. 83/55",
+              "7",
+              "7 SC",
+              "7 SCW"
+            ],
+            [
+              "Dewli/VIII\nMouza : Dewli, J.L. No.187 , (a) Dewli Metho Para\nMouza : Goruimari, J.L. No. 188, (b) Goruimari Partly\nPart No. 83/56",
+              "8,9",
+              "-",
+              "8W"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2185
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Seats reserved for\nSeats allocated\nScheduled Caste Seats reserved\nto each\nor Scheduled for women\nNumber, name and area of constituencies with serial numbers constituency\nTribe against against serial\nwith serial\nserial number of number of seats\nnumbers\nseats\nDewli/IX\nMouza :Sarappur , J.L. No. 185, (a) Sarap Pur (Paschim part of\nSukhen Das's house)\n10,11 11 SC -\nMouza :Sarappur , J.L. No. 185,(b) Sarap Pur (Purba Part of\nSukhen Das's house)\nPart No. 83/57\nDewli/X\nMouza :Berbari , J.L. No.177 , (a) Berbari Gram\n12 12 SC -\nMouza : Manpur, J.L. No. 176, (b) Manpur Full\nPart No. 83/58\nDewli/XI\nMouza : Berbari, J.L. No.177 , (a) Chinili Gram 13 13 SC 13 SCW\nPart No. 83/59\nDewli/XII\nMouza :Dumuria , J.L. No.175 , (a) Dumuria Full 14 14 ST -\nPart No. 83/60\nDewli/XIII\nMouza :Chowgachha , J.L. No.142 , (a) Chowgachha Uttar-\n15 15 SC --\nPaschim Part\nPart No. 83/61\nDewli/XIV\nMouza :Chowgachha , J.L. No. 142, (a) Chowgachha Ghoshpara\n1 6 W\nPartly and Colonypara Partly Mouza :Chowgachha , J.L. No. 16,17\n17 SC 17 SCW\n142,(b) Fakirpara Part No.\n83/62\nDewli/XV\nMouza : Chowgachha, J.L. No. 142, (a) Chowgachha Madhya Part 1 8 1 8 S C - -\nPart No. 83/63\nDewli/XVI\nMouza :Chowgacha , J.L. No.142 , (a) Goalbari Purba and Madhya\n19 19 SC -\nPara\nPart No. 83/64\nDewli/XVII\nMouza :Goara , J.L. No. 144, (a) Goalbari Dakshin Part 20 -- -\nNo. 83/65\nDate:07.02.2008 District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            72.47399999999999,
+            558.7137653999999,
+            647.346
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial numbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumbers",
+              "Seats reserved for\nScheduled Caste\nor Scheduled\nTribe against\nserial number of\nseats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "Dewli/IX\nMouza :Sarappur , J.L. No. 185, (a) Sarap Pur (Paschim part of\nSukhen Das's house)\nMouza :Sarappur , J.L. No. 185,(b) Sarap Pur (Purba Part of\nSukhen Das's house)\nPart No. 83/57",
+              "10,11",
+              "11 SC",
+              "-"
+            ],
+            [
+              "Dewli/X\nMouza :Berbari , J.L. No.177 , (a) Berbari Gram\nMouza : Manpur, J.L. No. 176, (b) Manpur Full\nPart No. 83/58",
+              "12",
+              "12 SC",
+              "-"
+            ],
+            [
+              "Dewli/XI\nMouza : Berbari, J.L. No.177 , (a) Chinili Gram\nPart No. 83/59",
+              "13",
+              "13 SC",
+              "13 SCW"
+            ],
+            [
+              "Dewli/XII\nMouza :Dumuria , J.L. No.175 , (a) Dumuria Full\nPart No. 83/60",
+              "14",
+              "14 ST",
+              "-"
+            ],
+            [
+              "Dewli/XIII\nMouza :Chowgachha , J.L. No.142 , (a) Chowgachha Uttar-\nPaschim Part\nPart No. 83/61",
+              "15",
+              "15 SC",
+              "--"
+            ],
+            [
+              "Dewli/XIV\nMouza :Chowgachha , J.L. No. 142, (a) Chowgachha Ghoshpara\nPartly and Colonypara Partly Mouza :Chowgachha , J.L. No.\n142,(b) Fakirpara Part No.\n83/62",
+              "16,17",
+              "17 SC",
+              "1 6 W\n17 SCW"
+            ],
+            [
+              "Dewli/XV\nMouza : Chowgachha, J.L. No. 142, (a) Chowgachha Madhya Part\nPart No. 83/63",
+              "1 8",
+              "1 8 S C",
+              "- -"
+            ],
+            [
+              "Dewli/XVI\nMouza :Chowgacha , J.L. No.142 , (a) Goalbari Purba and Madhya\nPara\nPart No. 83/64",
+              "19",
+              "19 SC",
+              "-"
+            ],
+            [
+              "Dewli/XVII\nMouza :Goara , J.L. No. 144, (a) Goalbari Dakshin Part\nNo. 83/65",
+              "20",
+              "--",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2542
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

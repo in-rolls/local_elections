@@ -1,0 +1,200 @@
+[
+  {
+    "sample_id": "malda_name",
+    "source_path": "data/wb/gp_source_search/archived_district_files/malda_Bamongola.pdf",
+    "source_sha256": "a1311dabd26cf077177a83bed3f32e8665bea1d84413d5c4b460ba6ddbe267df",
+    "source_page": 1,
+    "source_bbox_pdf_points": [
+      124.73837455830389,
+      206.91299999999998,
+      230.55575971731452,
+      234.969
+    ],
+    "bbox_coordinate_system": "pdf_points_top_left",
+    "render_dpi": 300,
+    "crop_path": "data/wb/derived/ward_schedules/language_pilot/malda_name.png",
+    "gold_transcription": "Madnabati/PS-1",
+    "gold_method": "direct visual reading of original PDF rendering, not OCR",
+    "source_language": "English",
+    "page_dimensions_pdf_points": [
+      594.96,
+      841.68
+    ]
+  },
+  {
+    "sample_id": "malda_caste",
+    "source_path": "data/wb/gp_source_search/archived_district_files/malda_Bamongola.pdf",
+    "source_sha256": "a1311dabd26cf077177a83bed3f32e8665bea1d84413d5c4b460ba6ddbe267df",
+    "source_page": 1,
+    "source_bbox_pdf_points": [
+      346.18402826855123,
+      202.7046,
+      447.79674911660777,
+      237.07319999999999
+    ],
+    "bbox_coordinate_system": "pdf_points_top_left",
+    "render_dpi": 300,
+    "crop_path": "data/wb/derived/ward_schedules/language_pilot/malda_caste.png",
+    "gold_transcription": "Madnabati/P.S.-1 (SC)",
+    "gold_method": "direct visual reading of original PDF rendering, not OCR",
+    "source_language": "English",
+    "page_dimensions_pdf_points": [
+      594.96,
+      841.68
+    ]
+  },
+  {
+    "sample_id": "malda_women",
+    "source_path": "data/wb/gp_source_search/archived_district_files/malda_Bamongola.pdf",
+    "source_sha256": "a1311dabd26cf077177a83bed3f32e8665bea1d84413d5c4b460ba6ddbe267df",
+    "source_page": 1,
+    "source_bbox_pdf_points": [
+      459.009187279152,
+      202.7046,
+      571.1335689045936,
+      237.07319999999999
+    ],
+    "bbox_coordinate_system": "pdf_points_top_left",
+    "render_dpi": 300,
+    "crop_path": "data/wb/derived/ward_schedules/language_pilot/malda_women.png",
+    "gold_transcription": "Madnabati/P.S.-1 (SCW)",
+    "gold_method": "direct visual reading of original PDF rendering, not OCR",
+    "source_language": "English",
+    "page_dimensions_pdf_points": [
+      594.96,
+      841.68
+    ]
+  },
+  {
+    "sample_id": "birbhum_name",
+    "source_path": "data/wb/2023/gp_sources/birbhum_bolpur_sriniketan_form_a1_5_mb.pdf",
+    "source_sha256": "b02635e0f17d89ee7ab7fb54a295c6d1747a788d6a22a5b909dd295208c7aaaa",
+    "source_page": 1,
+    "source_bbox_pdf_points": [
+      408.7858823529412,
+      403.4583333333333,
+      460.6729411764706,
+      428.7183333333333
+    ],
+    "bbox_coordinate_system": "pdf_points_top_left",
+    "render_dpi": 300,
+    "crop_path": "data/wb/derived/ward_schedules/language_pilot/birbhum_name.png",
+    "gold_transcription": "Sattore/I-1",
+    "gold_method": "direct visual reading of original PDF rendering, not OCR",
+    "source_language": "English",
+    "page_dimensions_pdf_points": [
+      596,
+      842
+    ]
+  },
+  {
+    "sample_id": "birbhum_caste",
+    "source_path": "data/wb/2023/gp_sources/birbhum_bolpur_sriniketan_form_a1_5_mb.pdf",
+    "source_sha256": "b02635e0f17d89ee7ab7fb54a295c6d1747a788d6a22a5b909dd295208c7aaaa",
+    "source_page": 1,
+    "source_bbox_pdf_points": [
+      479.60470588235296,
+      406.265,
+      514.6635294117647,
+      430.8233333333333
+    ],
+    "bbox_coordinate_system": "pdf_points_top_left",
+    "render_dpi": 300,
+    "crop_path": "data/wb/derived/ward_schedules/language_pilot/birbhum_caste.png",
+    "gold_transcription": "1-SC",
+    "gold_method": "direct visual reading of original PDF rendering, not OCR",
+    "source_language": "English",
+    "page_dimensions_pdf_points": [
+      596,
+      842
+    ]
+  },
+  {
+    "sample_id": "birbhum_women",
+    "source_path": "data/wb/2023/gp_sources/birbhum_bolpur_sriniketan_form_a1_5_mb.pdf",
+    "source_sha256": "b02635e0f17d89ee7ab7fb54a295c6d1747a788d6a22a5b909dd295208c7aaaa",
+    "source_page": 1,
+    "source_bbox_pdf_points": [
+      534.2964705882353,
+      409.07166666666666,
+      562.3435294117647,
+      429.42
+    ],
+    "bbox_coordinate_system": "pdf_points_top_left",
+    "render_dpi": 300,
+    "crop_path": "data/wb/derived/ward_schedules/language_pilot/birbhum_women.png",
+    "gold_transcription": "1-W",
+    "gold_method": "direct visual reading of original PDF rendering, not OCR",
+    "source_language": "English",
+    "page_dimensions_pdf_points": [
+      596,
+      842
+    ]
+  },
+  {
+    "sample_id": "jalpaiguri_name",
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_form_a_all_gp_banarhat_2_mb.pdf",
+    "source_sha256": "6cb6adc734efd26995a47b9c470b69b27b71ee2b4c7f587d0f8480d81b28695d",
+    "source_page": 1,
+    "source_bbox_pdf_points": [
+      225.04028268551238,
+      183.76679781666667,
+      245.37102473498237,
+      249.69839703333332
+    ],
+    "bbox_coordinate_system": "pdf_points_top_left",
+    "render_dpi": 300,
+    "crop_path": "data/wb/derived/ward_schedules/language_pilot/jalpaiguri_name.png",
+    "gold_transcription": "Binnaguri/I-1",
+    "gold_method": "direct visual reading of original PDF rendering, not OCR",
+    "source_language": "English",
+    "page_dimensions_pdf_points": [
+      595.2,
+      841.67999
+    ]
+  },
+  {
+    "sample_id": "jalpaiguri_caste",
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_form_a_all_gp_banarhat_2_mb.pdf",
+    "source_sha256": "6cb6adc734efd26995a47b9c470b69b27b71ee2b4c7f587d0f8480d81b28695d",
+    "source_page": 1,
+    "source_bbox_pdf_points": [
+      224.339222614841,
+      126.95339849166666,
+      243.9689045936396,
+      160.62059809166666
+    ],
+    "bbox_coordinate_system": "pdf_points_top_left",
+    "render_dpi": 300,
+    "crop_path": "data/wb/derived/ward_schedules/language_pilot/jalpaiguri_caste.png",
+    "gold_transcription": "1-SC",
+    "gold_method": "direct visual reading of original PDF rendering, not OCR",
+    "source_language": "English",
+    "page_dimensions_pdf_points": [
+      595.2,
+      841.67999
+    ]
+  },
+  {
+    "sample_id": "jalpaiguri_women",
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_form_a_all_gp_banarhat_2_mb.pdf",
+    "source_sha256": "6cb6adc734efd26995a47b9c470b69b27b71ee2b4c7f587d0f8480d81b28695d",
+    "source_page": 1,
+    "source_bbox_pdf_points": [
+      225.04028268551238,
+      72.24419914166666,
+      243.9689045936396,
+      105.91139874166666
+    ],
+    "bbox_coordinate_system": "pdf_points_top_left",
+    "render_dpi": 300,
+    "crop_path": "data/wb/derived/ward_schedules/language_pilot/jalpaiguri_women.png",
+    "gold_transcription": "1-SCW",
+    "gold_method": "direct visual reading of original PDF rendering, not OCR",
+    "source_language": "English",
+    "page_dimensions_pdf_points": [
+      595.2,
+      841.67999
+    ]
+  }
+]

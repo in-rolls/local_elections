@@ -1,0 +1,51 @@
+VELLORE
+VILLAGE PANCHA
+Reservation of Seats for Scheduled Caste / Scheduled T
+Tamil Na
+Category to which
+Sl. No. Name of the Village Panchayat
+reservation is made
+.(1) .(2) .(3)
+Alangayam Panchayt Union
+1 Periakurumbatheru ST (Women)
+2 Bheemakulam ST (Women)
+3 Naickanoor ST (General)
+4 Vizilapuram ST (General)
+5 Girisamudram SC (Women)
+6 Valayambattu SC (Women)
+7 Devasthanam SC (General)
+8 Neknamalai SC (General)
+9 Jaffrabad General (Women)
+10 Kalendra General (Women)
+11 Madanancheri General (Women)
+12 Narasingapuram General (Women)
+13 Nimmiyambattu General (Women)
+14 Vellakuttai General (Women)
+15 Kothakottai General
+16 Sammandikuppam General
+17 Elayanagaram General
+18 Govindapuram General
+19 Chettiappanur General
+20 Melkuppam General
+21 Nellivasalnadu General
+22 Pallipattu General
+23 Peddaveppambattu General
+24 Pudurnadu General
+25 Pungampattunadu General
+26 Reddiyur General
+27 Echangal General
+28 Vallipattu General
+29 Velathigamanibenta General
+Anaicut Panchayat Union
+1 Kilkothur ST (Women)
+2 Appukal ST (Women)
+3 Melarasampattu ST (General)
+4 Seduvalai ST (General)
+5 Genganallore SC (Women)
+6 Ongapadi SC (Women)
+7 Poigai SC (Women)
+8 Devichettikuppam SC (General)
+9 Sathiyamangalam SC (General)
+10 Tippasamudram SC (General)
+11 Varadalampattu SC (General)
+Page 32

@@ -1,0 +1,551 @@
+{
+  "method": "Visually transcribed from original PDF renders after parser rules were fixed. One reviewer (Codex); not double-entry human verification. Convenience sample; not a population accuracy estimate.",
+  "rows": [
+    {
+      "dataset": "nadia_2008",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Chanduria-II_61a7353a.pdf",
+      "source_page": 1,
+      "seat_no": 1,
+      "expected": {
+        "gram_panchayat": "Chanduria -II",
+        "caste_reservation": "SC",
+        "woman_reserved": 1
+      },
+      "source_sha256": "6e995525d640d1e97ca96b417f1d6c895c1b42fca753b8a98ff042276afdd851"
+    },
+    {
+      "dataset": "nadia_2008",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Chanduria-II_61a7353a.pdf",
+      "source_page": 1,
+      "seat_no": 2,
+      "expected": {
+        "gram_panchayat": "Chanduria -II",
+        "caste_reservation": "UR",
+        "woman_reserved": 1
+      },
+      "source_sha256": "6e995525d640d1e97ca96b417f1d6c895c1b42fca753b8a98ff042276afdd851"
+    },
+    {
+      "dataset": "nadia_2008",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Chanduria-II_61a7353a.pdf",
+      "source_page": 1,
+      "seat_no": 3,
+      "expected": {
+        "gram_panchayat": "Chanduria -II",
+        "caste_reservation": "SC",
+        "woman_reserved": 0
+      },
+      "source_sha256": "6e995525d640d1e97ca96b417f1d6c895c1b42fca753b8a98ff042276afdd851"
+    },
+    {
+      "dataset": "nadia_2008",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Chanduria-II_61a7353a.pdf",
+      "source_page": 1,
+      "seat_no": 4,
+      "expected": {
+        "gram_panchayat": "Chanduria -II",
+        "caste_reservation": "SC",
+        "woman_reserved": 0
+      },
+      "source_sha256": "6e995525d640d1e97ca96b417f1d6c895c1b42fca753b8a98ff042276afdd851"
+    },
+    {
+      "dataset": "nadia_2008",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Chanduria-II_61a7353a.pdf",
+      "source_page": 1,
+      "seat_no": 5,
+      "expected": {
+        "gram_panchayat": "Chanduria -II",
+        "caste_reservation": "UR",
+        "woman_reserved": 0
+      },
+      "source_sha256": "6e995525d640d1e97ca96b417f1d6c895c1b42fca753b8a98ff042276afdd851"
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+      "source_page": 9,
+      "seat_no": 10,
+      "expected": {
+        "gram_panchayat": "Samuktala",
+        "reservation": null,
+        "electors": 813,
+        "votes_polled": 689,
+        "votes_rejected": 45,
+        "winner_name": "AMIT BHATTACHARYA",
+        "winner_party": "BJP",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        251,
+        169,
+        224
+      ],
+      "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf"
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+      "source_page": 9,
+      "seat_no": 11,
+      "expected": {
+        "gram_panchayat": "Samuktala",
+        "reservation": "W",
+        "electors": 900,
+        "votes_polled": 729,
+        "votes_rejected": 37,
+        "winner_name": "SWAPNA TAPURIA CHANDAK",
+        "winner_party": "AITC",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        193,
+        332,
+        167
+      ],
+      "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf"
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+      "source_page": 9,
+      "seat_no": 12,
+      "expected": {
+        "gram_panchayat": "Samuktala",
+        "reservation": null,
+        "electors": 1025,
+        "votes_polled": 882,
+        "votes_rejected": 41,
+        "winner_name": "PABAN RAI",
+        "winner_party": "AITC",
+        "candidate_count": 6
+      },
+      "candidate_votes": [
+        209,
+        357,
+        1,
+        65,
+        208,
+        1
+      ],
+      "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf"
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+      "source_page": 9,
+      "seat_no": 13,
+      "expected": {
+        "gram_panchayat": "Samuktala",
+        "reservation": "W",
+        "electors": 1099,
+        "votes_polled": 913,
+        "votes_rejected": 70,
+        "winner_name": "SABITA DE SARKAR",
+        "winner_party": "AITC",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        296,
+        212,
+        335
+      ],
+      "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf"
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+      "source_page": 9,
+      "seat_no": 14,
+      "expected": {
+        "gram_panchayat": "Samuktala",
+        "reservation": null,
+        "electors": 892,
+        "votes_polled": 708,
+        "votes_rejected": 18,
+        "winner_name": "RAHABIAM MURMU",
+        "winner_party": "AITC",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        206,
+        283,
+        201
+      ],
+      "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf"
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+      "source_page": 9,
+      "seat_no": 15,
+      "expected": {
+        "gram_panchayat": "Samuktala",
+        "reservation": "STW",
+        "electors": 1225,
+        "votes_polled": 989,
+        "votes_rejected": 43,
+        "winner_name": "MANIKA HEMBROM",
+        "winner_party": "INC",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        242,
+        384,
+        320
+      ],
+      "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf"
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+      "source_page": 9,
+      "seat_no": 16,
+      "expected": {
+        "gram_panchayat": "Samuktala",
+        "reservation": "W",
+        "electors": 1094,
+        "votes_polled": 937,
+        "votes_rejected": 68,
+        "winner_name": "BHARATI PAUL",
+        "winner_party": "BJP",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        247,
+        445,
+        177
+      ],
+      "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf"
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+      "source_page": 9,
+      "seat_no": 10,
+      "expected": {
+        "reservation": "UR",
+        "electors": 729,
+        "votes_polled": 715,
+        "votes_rejected": 24,
+        "winner_name": "PARTHA PRATIM ROY",
+        "winner_party": "AITC",
+        "candidate_count": 2
+      },
+      "candidate_votes": [
+        397,
+        217
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+      "source_page": 9,
+      "seat_no": 11,
+      "expected": {
+        "reservation": "W",
+        "electors": 788,
+        "votes_polled": 715,
+        "votes_rejected": 51,
+        "winner_name": "AJUFA KHATUN (BIBI)",
+        "winner_party": "IND",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        334,
+        311,
+        25
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+      "source_page": 9,
+      "seat_no": 12,
+      "expected": {
+        "reservation": "UR",
+        "electors": 1333,
+        "votes_polled": 1172,
+        "votes_rejected": 54,
+        "winner_name": "DIBYENDU PAL(NINGKU)",
+        "winner_party": "AITC",
+        "candidate_count": 4
+      },
+      "candidate_votes": [
+        910,
+        63,
+        40,
+        122
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+      "source_page": 9,
+      "seat_no": 13,
+      "expected": {
+        "reservation": "SCW",
+        "electors": 1393,
+        "votes_polled": 1276,
+        "votes_rejected": 91,
+        "winner_name": "SABITA MOHANTA (DAS)",
+        "winner_party": "AITC",
+        "candidate_count": 2
+      },
+      "candidate_votes": [
+        417,
+        770
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+      "source_page": 9,
+      "seat_no": 14,
+      "expected": {
+        "reservation": "W",
+        "electors": 878,
+        "votes_polled": 777,
+        "votes_rejected": 44,
+        "winner_name": "SOMA DEY SARKAR",
+        "winner_party": "AITC",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        73,
+        300,
+        368
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+      "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+      "source_page": 9,
+      "seat_no": 15,
+      "expected": {
+        "reservation": "UR",
+        "electors": 659,
+        "votes_polled": 599,
+        "votes_rejected": 41,
+        "winner_name": "PROSENJIT ROY",
+        "winner_party": "BJP",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        231,
+        11,
+        312
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+      "source_page": 15,
+      "seat_no": 1,
+      "expected": {
+        "reservation": "SC",
+        "electors": 1071,
+        "votes_polled": 972,
+        "votes_rejected": 30,
+        "winner_name": "HARI MOHAN ROY",
+        "winner_party": "AITC",
+        "candidate_count": 2
+      },
+      "candidate_votes": [
+        434,
+        508
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+      "source_page": 15,
+      "seat_no": 2,
+      "expected": {
+        "reservation": "W",
+        "electors": 1274,
+        "votes_polled": 1122,
+        "votes_rejected": 64,
+        "winner_name": "RANJANA BARMAN",
+        "winner_party": "AITC",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        415,
+        629,
+        14
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+      "source_page": 15,
+      "seat_no": 3,
+      "expected": {
+        "reservation": null,
+        "electors": 1085,
+        "votes_polled": 989,
+        "votes_rejected": 69,
+        "winner_name": "SAHIDUL MIA",
+        "winner_party": "AITC",
+        "candidate_count": 2
+      },
+      "candidate_votes": [
+        393,
+        527
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+      "source_page": 15,
+      "seat_no": 4,
+      "expected": {
+        "reservation": "SCW",
+        "electors": 922,
+        "votes_polled": 822,
+        "votes_rejected": 60,
+        "winner_name": "KOUSHALYA ROY",
+        "winner_party": "AITC",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        397,
+        37,
+        328
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+      "source_page": 15,
+      "seat_no": 5,
+      "expected": {
+        "reservation": "SC",
+        "electors": 842,
+        "votes_polled": 760,
+        "votes_rejected": 30,
+        "winner_name": "JITEN ROY",
+        "winner_party": "AITC",
+        "candidate_count": 2
+      },
+      "candidate_votes": [
+        400,
+        330
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+      "source_page": 15,
+      "seat_no": 6,
+      "expected": {
+        "reservation": "W",
+        "electors": 951,
+        "votes_polled": 850,
+        "votes_rejected": 31,
+        "winner_name": "HASINA KHATUN",
+        "winner_party": "AITC",
+        "candidate_count": 2
+      },
+      "candidate_votes": [
+        187,
+        632
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+      "source_page": 15,
+      "seat_no": 7,
+      "expected": {
+        "reservation": "SCW",
+        "electors": 1038,
+        "votes_polled": 899,
+        "votes_rejected": 53,
+        "winner_name": "SARADA ROY",
+        "winner_party": "AITC",
+        "candidate_count": 2
+      },
+      "candidate_votes": [
+        228,
+        618
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+      "source_page": 15,
+      "seat_no": 8,
+      "expected": {
+        "reservation": null,
+        "electors": 1172,
+        "votes_polled": 1005,
+        "votes_rejected": 45,
+        "winner_name": "GOPAL KANTHA",
+        "winner_party": "BJP",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        18,
+        492,
+        447
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+      "source_page": 15,
+      "seat_no": 9,
+      "expected": {
+        "reservation": "W",
+        "electors": 883,
+        "votes_polled": 787,
+        "votes_rejected": 58,
+        "winner_name": "RAMA BHOWMIK",
+        "winner_party": "AITC",
+        "candidate_count": 3
+      },
+      "candidate_votes": [
+        12,
+        287,
+        430
+      ]
+    },
+    {
+      "dataset": "alipurduar_2018",
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+      "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+      "source_page": 15,
+      "seat_no": 10,
+      "expected": {
+        "reservation": "ST",
+        "electors": 791,
+        "votes_polled": 660,
+        "votes_rejected": 11,
+        "winner_name": "MAHESH KARJEE",
+        "winner_party": "AITC",
+        "candidate_count": 2
+      },
+      "candidate_votes": [
+        110,
+        539
+      ]
+    }
+  ]
+}

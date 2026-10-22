@@ -1,0 +1,65 @@
+{
+  "a1311dabd26cf077177a83bed3f32e8665bea1d84413d5c4b460ba6ddbe267df": {
+    "source_path": "data/wb/gp_source_search/archived_district_files/malda_Bamongola.pdf",
+    "pages": [
+      1
+    ],
+    "language": "eng",
+    "evidence": "data/wb/derived/ward_schedules/language_pilot/manifest.json"
+  },
+  "b02635e0f17d89ee7ab7fb54a295c6d1747a788d6a22a5b909dd295208c7aaaa": {
+    "source_path": "data/wb/2023/gp_sources/birbhum_bolpur_sriniketan_form_a1_5_mb.pdf",
+    "pages": [
+      1
+    ],
+    "language": "eng",
+    "evidence": "data/wb/derived/ward_schedules/language_pilot/manifest.json"
+  },
+  "6cb6adc734efd26995a47b9c470b69b27b71ee2b4c7f587d0f8480d81b28695d": {
+    "source_path": "data/wb/2023/gp_sources/jalpaiguri_form_a_all_gp_banarhat_2_mb.pdf",
+    "pages": [
+      1
+    ],
+    "language": "eng",
+    "evidence": "data/wb/derived/ward_schedules/language_pilot/manifest.json"
+  },
+  "457065b0416a00f7c930834c5037c1976fe0f27095004bba5f4e45336e2a7781": {
+    "source_path": "data/wb/vintage_search/raw/74ba30419d75cf82.pdf",
+    "pages": [
+      342
+    ],
+    "language": "eng",
+    "evidence": "data/wb/derived/reference_tables/additional_classification/environment_contact.png",
+    "inspection": "Printed English confirmed visually on the listed pages. No extension to uninspected pages."
+  },
+  "d34785e3aa65c32026142552da65c8fe815355afeaf1ce6b68c80537f47e6b0e": {
+    "source_path": "data/wb/PE_Manual_2022_Vol-I.pdf",
+    "pages": [
+      410,
+      411,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419,
+      420,
+      421
+    ],
+    "language": "eng",
+    "evidence": "data/wb/derived/reference_tables/additional_classification/manual_contact.png",
+    "inspection": "Printed English confirmed visually on the listed pages. No extension to uninspected pages."
+  },
+  "a17cf038a2e41d4afebf1724f19c90656dfc4eec40eccece3a3d3ced00ba795f": {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_SeatReservation_6ec10e5a.pdf",
+    "pages": [
+      6,
+      8,
+      70
+    ],
+    "language": "eng",
+    "evidence": "data/wb/derived/ward_schedules/language_pilot/alipurduar_2018_retry_contact.png",
+    "inspection": "Printed English, including table labels and stamps, confirmed visually. Bilingual OCR introduced Bengali glyphs into English-only row codes; rerun these pages with English."
+  }
+}

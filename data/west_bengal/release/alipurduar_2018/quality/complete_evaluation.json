@@ -1,0 +1,239 @@
+{
+  "baseline": {
+    "pages_seen": 176,
+    "pages_expected": 176,
+    "gp_detail_pages_expected": 112,
+    "ocr_version": 3,
+    "page_status": {
+      "not_gp_detail": 64,
+      "parsed": 104,
+      "gp_rows_unresolved": 1,
+      "gp_layout_unresolved": 7
+    },
+    "seats": 875,
+    "candidates": 2445,
+    "by_block": {
+      "Alipurduar-I": 139,
+      "Alipurduar-II": 152,
+      "Falakata": 190,
+      "Kalchini": 169,
+      "Kumargram": 95,
+      "Madarihat-Birpara": 130
+    },
+    "review_status": {
+      "needs_review": 861,
+      "automated_checks_passed": 14
+    },
+    "flags": {
+      "candidate_cells:review": 660,
+      "votes:accounting_mismatch": 192,
+      "winner_name:readers_disagree": 306,
+      "seat_id:low_ocr_confidence": 374,
+      "seat_id:readers_disagree": 492,
+      "votes_polled:unread_numeric": 144,
+      "votes_rejected:single_reader": 51,
+      "gram_panchayat:missing_cell": 81,
+      "winner:party_mismatch": 48,
+      "winner_party:readers_disagree": 163,
+      "reservation_raw:readers_disagree": 234,
+      "votes_polled:single_reader": 58,
+      "votes_rejected:readers_disagree": 49,
+      "electors:single_reader": 55,
+      "layout:missing_leading_columns": 48,
+      "winner:not_uniquely_matched": 133,
+      "winner_name:low_ocr_confidence": 38,
+      "gram_panchayat:readers_disagree": 297,
+      "votes_rejected:unread_numeric": 144,
+      "winner_party:low_ocr_confidence": 39,
+      "gram_panchayat:low_ocr_confidence": 150,
+      "votes_polled:readers_disagree": 42,
+      "electors:readers_disagree": 28,
+      "reservation:unresolved": 232,
+      "reservation_raw:low_ocr_confidence": 85,
+      "seat_key:duplicate": 14,
+      "electors:unread_numeric": 160,
+      "winner:below_maximum": 4,
+      "votes:impossible_range": 1,
+      "reservation_raw:missing_cell": 4,
+      "electors:missing_cell": 8,
+      "votes_polled:missing_cell": 2,
+      "votes_rejected:missing_cell": 2,
+      "winner_party:missing_cell": 3,
+      "winner_name:missing_cell": 1
+    },
+    "quality_claim": "Review-stage extraction; passing automated checks is not verified accuracy.",
+    "heldout_metrics": {
+      "expected_rows": 23,
+      "uniquely_matched_rows": 23,
+      "fields_checked": 168,
+      "fields_correct": 159,
+      "candidate_votes_expected": 65,
+      "candidate_rows_observed": 65,
+      "candidate_votes_correct_by_position": 63
+    }
+  },
+  "after": {
+    "pages_seen": 176,
+    "pages_expected": 176,
+    "gp_detail_pages_expected": 112,
+    "ocr_version": 3,
+    "page_status": {
+      "not_gp_detail": 64,
+      "parsed": 112
+    },
+    "seats": 984,
+    "candidates": 2803,
+    "unassigned_candidate_bands": 34,
+    "seat_numbers_unresolved": 71,
+    "by_block": {
+      "Alipurduar-I": 154,
+      "Alipurduar-II": 160,
+      "Falakata": 206,
+      "Kalchini": 183,
+      "Kumargram": 144,
+      "Madarihat-Birpara": 137
+    },
+    "review_status": {
+      "needs_review": 966,
+      "automated_checks_passed": 18
+    },
+    "flags": {
+      "candidate_cells:review": 732,
+      "votes:accounting_mismatch": 216,
+      "winner_name:readers_disagree": 378,
+      "seat_id:low_ocr_confidence": 438,
+      "seat_id:readers_disagree": 571,
+      "votes_polled:unread_numeric": 65,
+      "votes_rejected:single_reader": 67,
+      "gram_panchayat:missing_cell": 96,
+      "winner:party_mismatch": 67,
+      "winner_party:readers_disagree": 225,
+      "reservation_raw:readers_disagree": 287,
+      "votes_polled:single_reader": 72,
+      "votes_rejected:readers_disagree": 52,
+      "electors:single_reader": 66,
+      "layout:missing_leading_columns": 67,
+      "winner:not_uniquely_matched": 80,
+      "winner_name:low_ocr_confidence": 54,
+      "gram_panchayat:readers_disagree": 363,
+      "votes_rejected:unread_numeric": 64,
+      "winner_party:low_ocr_confidence": 61,
+      "reservation_raw:low_ocr_confidence": 99,
+      "votes_polled:readers_disagree": 50,
+      "gram_panchayat:low_ocr_confidence": 206,
+      "seat_id:number_unresolved": 71,
+      "seat_id:numeric_readers_disagree": 17,
+      "reservation:unresolved": 191,
+      "electors:readers_disagree": 39,
+      "seat_key:duplicate": 6,
+      "electors:unread_numeric": 98,
+      "winner:below_maximum": 4,
+      "winner_name:multiple_field_cells": 10,
+      "reservation_raw:multiple_field_cells": 26,
+      "seat_id:alternate_reader_suffix": 9,
+      "electors:missing_cell": 3,
+      "gram_panchayat:multiple_field_cells": 80,
+      "votes:impossible_range": 1,
+      "winner_party:multiple_field_cells": 7
+    },
+    "quality_claim": "Review-stage extraction; passing automated checks is not verified accuracy."
+  },
+  "heldout_metrics": {
+    "expected_rows": 23,
+    "uniquely_matched_rows": 23,
+    "fields_checked": 168,
+    "fields_correct": 161,
+    "candidate_rows_observed": 65,
+    "candidate_votes_expected": 65,
+    "candidate_votes_correct_by_position": 63
+  },
+  "block_controls": [
+    {
+      "block": "Alipurduar-I",
+      "total_gp_seats": 155,
+      "uncontested_printed": 16,
+      "seats_election_held": 139,
+      "contesting_candidates": 428,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IA.PDF",
+      "source_page": 1,
+      "source_sha256": "223116f5e34c72d88739a00aa548eac0cc57e1f08216558f4fc9e2dcb9b86a1c",
+      "parsed_seats": 154,
+      "parsed_candidates": 421
+    },
+    {
+      "block": "Alipurduar-II",
+      "total_gp_seats": 161,
+      "uncontested_printed": null,
+      "seats_election_held": 160,
+      "contesting_candidates": 457,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IA.PDF",
+      "source_page": 1,
+      "source_sha256": "cee41439672bb0c03c7c714df12080642bb1cc5003d9d3e207d6d22e0dfd8ce9",
+      "parsed_seats": 160,
+      "parsed_candidates": 457
+    },
+    {
+      "block": "Falakata",
+      "total_gp_seats": 206,
+      "uncontested_printed": null,
+      "seats_election_held": 206,
+      "contesting_candidates": 633,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP PS ZP IA IB AND IC.PDF",
+      "source_page": 1,
+      "source_sha256": "31728b90ddaae450a322e7dc0d82c586d0a20d24641091e98690650077f183ce",
+      "parsed_seats": 206,
+      "parsed_candidates": 630
+    },
+    {
+      "block": "Kalchini",
+      "total_gp_seats": 193,
+      "uncontested_printed": 9,
+      "seats_election_held": 184,
+      "contesting_candidates": 547,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+      "source_page": 1,
+      "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+      "parsed_seats": 183,
+      "parsed_candidates": 535
+    },
+    {
+      "block": "Kumargram",
+      "total_gp_seats": 144,
+      "uncontested_printed": 0,
+      "seats_election_held": 144,
+      "contesting_candidates": 436,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+      "source_page": 1,
+      "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+      "parsed_seats": 144,
+      "parsed_candidates": 435
+    },
+    {
+      "block": "Madarihat-Birpara",
+      "total_gp_seats": 140,
+      "uncontested_printed": 20,
+      "seats_election_held": 120,
+      "contesting_candidates": 353,
+      "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+      "source_page": 1,
+      "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+      "parsed_seats": 137,
+      "parsed_candidates": 325
+    }
+  ],
+  "tests": "34 passed: tests/test_wb_gp.py and tests/test_wb_results_complete.py; owned Ruff checks pass",
+  "runtime": {
+    "targeted_local_ocr_four_pages_seconds": 32.3,
+    "full_parser_seconds": 2.129,
+    "timing_caveat": "Single production timings under shared-machine load; not an A/B speed estimate."
+  },
+  "limitations": [
+    "34 candidate bands with recognizable parties remain unassigned to seats; preserved with all three cells in page_audit.json. Some are page continuations.",
+    "71 seat numbers are null rather than inferred from totals or corrected OCR glyphs.",
+    "All112 GP pages produce records, which does not establish complete or accurate seat/candidate coverage.",
+    "Source totals are independent controls, never used to set extracted values."
+  ],
+  "rejected_attempts": [
+    "Removing scanner lines using horizontal ink outside the table did not remove their diagonal intersection inside the table. Rejected in favor of alignment across far columns, guarded by blank identity fragments."
+  ]
+}

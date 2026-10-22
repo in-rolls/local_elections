@@ -1,0 +1,57 @@
+1 2 3
+KOVILPATTI PANCHAYAT UNION Contd.,
+6 Kilavipatti SC(General)
+7 Manjanaickenpatti SC(General)
+8 Oothupatti SC(General)
+9 Thonugal SC(General)
+10 Kulasekarapuram General(Women)
+11 Lingampatti General(Women)
+12 Mudukkumeentanpatti General(Women)
+13 Semapudur General(Women)
+14 T. Shanmugapuram. General(Women)
+15 Sindalakarai General(Women)
+16 Suraikkaipatti General(Women)
+17 Thittankulam General(Women)
+18 R.Venkateshvarapuram General(Women)
+19 Villiseri General(Women)
+20 Avalnatham General
+21 Chatrapatti General
+22 Chidambarapuram General
+23 Chinnamalaikuntru General
+24 Duraiyur General
+25 Eratchi General
+26 Ilampuvanam General
+27 Inammaniyachi General
+28 Kadalaiyoor General
+29 Kodukkamparai General
+30 Manthithoppu General
+31 Meenakshipuram General
+32 Mela Eral General
+33 Moopanpatti General
+34 Nalatinpudur General
+35 Pandavarmangalam General
+36 Sivanthipatti General
+37 Theethampatti General
+38 Urulaikkudi General
+KAYATHAR PANCHAYAT UNION
+1 Kurumalai SC(Women)
+2 Kumareddiyapuram SC(Women)
+3 Sannadu Pudukudi SC(Women)
+4 Chettikurichi SC(Women)
+5 Kattalankulam SC(Women)
+6 Ahilandapuram SC(General)
+7 Koppampatti SC(General)
+8 Thirumalapuram SC(General)
+9 Chidambarampatti SC(General)
+10 Kalankaraipatti SC(General)
+11 K.Sivagnanapuram SC(General)
+12 Kuppanapuram SC(General)
+13 Vanaramutti SC(General)
+14 Asoor General(Women)
+15 Kannakattai General(Women)
+16 Kuruvinatham General(Women)
+17 K.Venkateswarapuram General(Women)
+18 Podupatti General(Women)
+19 Savalaperi General(Women)
+20 Thirumangalakurichi General(Women)
+Page 147

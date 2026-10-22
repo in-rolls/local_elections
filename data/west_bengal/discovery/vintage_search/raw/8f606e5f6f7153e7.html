@@ -1,0 +1,1258 @@
+<html>
+
+<!-- ************* for viewing in status bar *************************** -->
+<script LANGUAGE="JavaScript">
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+var osd = "   "
+osd +="This is the official Website of Cooch Behar district of West Bengal, India";
+osd +=" - you are now viewing the page on Cooch Behar - I Block of the District ....";
+var timer;
+var msg = "";
+function scrollMaster () {
+msg = customDateSpring(new Date())
+clearTimeout(timer)
+msg += " " + showtime() + " " + osd
+for (var i= 0; i < 75; i++)
+{
+msg = " " + msg;
+}
+scrollMe()
+}
+function scrollMe()
+{
+window.status = msg;
+msg = msg.substring(1, msg.length) + msg.substring(0,1);
+timer = setTimeout("scrollMe()", 150);
+}
+function showtime (){
+var now = new Date();
+var hours= now.getHours();
+var minutes= now.getMinutes();
+var seconds= now.getSeconds();
+var months= now.getMonth();
+var dates= now.getDate();
+var years= now.getYear();
+var timeValue = ""
+timeValue += ((months >9) ? "" : " ")
+timeValue += ((dates >9) ? "" : " ")
+timeValue = ( months +1)
+timeValue +="/"+ dates
+timeValue +="/"+  years
+var ap="A.M."
+if (hours == 12) {
+ap = "P.M."
+}
+if (hours == 0) {
+hours = 12
+}
+if(hours >= 13){
+hours -= 12;
+ap="P.M."
+}
+var timeValue2 = " " + hours
+timeValue2 += ((minutes < 10) ? ":0":":") + minutes + " " + ap
+return timeValue2;
+}
+function MakeArray(n) {
+this.length = n
+return this
+}
+monthNames = new MakeArray(12)
+monthNames[1] = "Janurary"
+monthNames[2] = "February"
+monthNames[3] = "March"
+monthNames[4] = "April"
+monthNames[5] = "May"
+monthNames[6] = "June"
+monthNames[7] = "July"
+monthNames[8] = "August"
+monthNames[9] = "Sept."
+monthNames[10] = "Oct."
+monthNames[11] = "Nov."
+monthNames[12] = "Dec."
+daysNames = new MakeArray(7)
+daysNames[1] = "Sunday"
+daysNames[2] = "Monday"
+daysNames[3] = "Tuesday"
+daysNames[4] = "Wednesday"
+daysNames[5] = "Thursday"
+daysNames[6] = "Friday"
+daysNames[7] = "Saturday"
+function customDateSpring(oneDate) {
+var theDay = daysNames[oneDate.getDay() +1]
+var theDate =oneDate.getDate()
+var theMonth = monthNames[oneDate.getMonth() +1]
+var dayth="th"
+if ((theDate == 1) || (theDate == 21) || (theDate == 31)) {
+dayth="st";
+}
+if ((theDate == 2) || (theDate ==22)) {
+dayth="nd";
+}
+if ((theDate== 3) || (theDate  == 23)) {
+dayth="rd";
+}
+return theDay + ", " + theMonth + " " + theDate + dayth + ","
+}
+scrollMaster();
+// End -->
+</SCRIPT>
+<!-- ************* for viewing in status bar *************************** -->
+
+<script language="JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+
+<head>
+
+<title>Cooch Behar - I Block</title>
+<script language="JavaScript">
+ <!--
+ // No rightclick script v.2.5
+var message="Sorry! this function is disabled for not giving chance to copy picture. Copyright reserved by NIC - Cooch Behar." 
+// Message for the alert box
+function click(e) {
+if (document.all) {
+if (event.button == 2) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which == 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// --> 
+</script>
+
+</head>
+
+<body bgcolor="#FFFFFF" topmargin="2" leftmargin="2">
+<a name="top_screen"></a>
+<table width="100%" background="../GIFfiles/bcgrnd_for_blocks.gif">
+<tr>
+<td width="767" height="134">&nbsp;</td>
+<td width="33" height="134"></td>
+</tr>
+<tr>
+<td width="761">
+  <table width="760">
+  <tr>
+  <td width="36"><a href="../HTMfiles/index.html"><img border="0" src="../GIFfiles/home.gif" width="26" height="29" alt="opening Index page"></a></td>
+  <td width="710"><font face="Arial" size="2">| <a href="block_demarcated_Map.html"><font color="#0000FF">Block-demarcated
+  Map</font></a><font color="#0000FF"> </font><font color="#000000">|</font> <a href="dist_summaryprofile.html#demography"><font color="#0000FF"> Demography</font></a> | 
+  <a href="#" onClick="MM_openBrWindow('../HTMfiles/CoB_map.htm','','scrollbars=yes,width=625,height=460')"><font color="#0000FF">District Map</font></a> | <a href="dist_summaryprofile.html"><font color="#0000FF"> District Profile</font></a> |
+  <a href="dist_summaryprofile.html#geography"><font color="#0000FF">Geography</font></a>
+  |&nbsp;<span style="background-color: #E7F6FA; text-decoration: overline"><a href="govt_departments.html"><font color="#0000FF">Government
+    Departments</font></a></span>  |<br></font><font face="Arial" size="2">|
+    <a href="#" onClick="MM_openBrWindow('../HTMfiles/CoB_inWB.html','','scrollbars=yes,width=610,height=495')"><font color="#0000FF">Location
+  within West Bengal</font></a> |&nbsp;<a href="physical_infra.html"><font color="#0000FF">Physical Infrastructure</font></a> | <a href="Sadar_admn.html"><font color="#0000FF"> Sadar Office Profile</font></a> |
+    <a href="social_infra.html"><font color="#0000FF">Social
+  Infrastructure</font></a> | <a href="#bottom_screen"><font color="#006600"> Other links below</font></a> |</font></td>
+  </tr>
+  </table>
+</td>
+<td width="25">&nbsp;</td>
+</tr>
+<tr>
+<td width="761">
+  <table width="761">
+  <tr>
+  <td width="290">
+    <p align="right"><font face="Arial" size="2">|| <a href="#block_map"><font color="#0000FF"> Block Map</font></a> ||
+    <a href="#address"><font color="#0000FF"> Address</font></a> || <a href="#contacts"><font color="#0000FF">
+    Contacts</font></a> || <a href="#bdo"><font color="#0000FF"> B.D.O</font></a> ||</font></td>
+  <td width="182">
+    <p align="center"><img border="0" src="../GIFfiles/cob1.gif" width="181" height="30"></td>
+  <td width="289"><font face="Arial" size="2">|| <a href="#gram_panchayats"><font color="#0000FF"> Gram Panchayats</font></a> ||
+    <a href="#villages"><font color="#0000FF"> Villages</font></a> || <a href="#schemes"><font color="#0000FF">
+    Schemes</font></a> ||</font></td>
+  </tr>
+  <tr>
+  <td width="761" colspan="3"><hr width="95%" align="center"></td>
+  </tr>
+  </table>
+</td>
+<td width="25">&nbsp;</td>
+</tr>
+</table>
+<table width="100%">
+<tr>
+<td width="30">
+</td>
+<td width="734"><font face="Arial" size="3" color="#0099FF"><b>Block Development
+  Office</b></font><br>
+  <table width="734">
+  <tr>
+  <td width="395" rowspan="2"><font face="Arial" size="2" color="#333399"><b><a name="bdo">Name of BDO</a> :&nbsp;
+    Shri. Swarup Kr. Malik</b></font></td>
+  <td width="135">
+  </td>
+  <td width="184">
+  </td>
+  </tr>
+  <tr>
+  <td width="135" rowspan="3">
+    <table width="106" height="100%" border="1">
+    <tr>
+    <td width="98" height="88">
+      <p align="center"><font face="Arial" size="2" color="#333399"><b>BDO Photo</b></font></td>
+    </tr>
+    </table>
+  </td>
+  <td width="184" rowspan="3">
+    <div align="center">
+      <center>
+    <table>
+    <tr>
+    <td>
+      <p align="center"><font face="Arial" size="2" color="#990033"><b>12 Blocks
+      of Dist.</b></font></td></tr>
+    <tr>
+    <td>
+  <!-- ************* for scrolling links *************************** -->
+
+    <table bordercolor="#0000FF" border="1" width="107">
+     <tr>
+    <td width="107" bordercolor="#CC3300">
+    <p><font face="Arial" size="2" color="#990033">
+  
+     <script language="JavaScript1.2">
+var marqueewidth=150
+var marqueeheight=50
+var speed=1
+var mcontents='&nbsp;&nbsp;<a href="../HTMfiles/Cooch_Behar1_Block.html">Cooch Behar - I</a><br><br>&nbsp;&nbsp;<a href="../HTMfiles/Cooch_Behar2_Block.html">Cooch Behar - II</a><br><br>&nbsp;&nbsp;<a href="../HTMfiles/Dinhata1_Block.html">Dinhata - I</a><br><br>&nbsp;&nbsp;<a href="../HTMfiles/Dinhata2_Block.html">Dinhata - II</a><br><br>&nbsp;&nbsp;<a href="../HTMfiles/Haldibari_Block.html">Haldibari</a><br><br>&nbsp;&nbsp;<a href="../HTMfiles/Mathabhanga1_Block.html">Mathabhanga - I</a><br><br>&nbsp;&nbsp;<a href="../HTMfiles/Mathabhanga2_Block.html">Mathabhanga - II</a><br><br>&nbsp;&nbsp;<a href="../HTMfiles/Mekhliganj_Block.html">Mekhliganj</a><br><br>&nbsp;&nbsp;<a href="../HTMfiles/Sitai_Block.html">Sitai</a><br><br>&nbsp;&nbsp;<a href="../HTMfiles/Sitalkuchi_Block.html">Sitalkuchi</a><br><br>&nbsp;&nbsp;<a href="../HTMfiles/Tufanganj1_Block.html">Tufanganj - I</a><br><br>&nbsp;&nbsp;<a href="../HTMfiles/Tufanganj2_Block.html">Tufanganj - II</a>'
+if (document.all)
+document.write('<marquee direction="up" scrollAmount='+speed+' style="width:'+marqueewidth+';height:'+marqueeheight+'" >'+mcontents+'</marquee>')
+function regenerate(){
+window.location.reload()
+}
+function regenerate2(){
+if (document.layers){
+setTimeout("window.onresize=regenerate",350)
+intializemarquee()
+}
+}
+function intializemarquee(){
+document.scr1.document.scr2.document.write(mcontents)
+document.scr1.document.scr2.document.close()
+thelength=document.scr1.document.scr2.document.height
+scrollit()
+}
+
+function scrollit(){
+if (document.scr1.document.scr2.top>=thelength*(-1)){
+document.scr1.document.scr2.top-=speed
+setTimeout("scrollit()",50)
+}
+else{
+document.scr1.document.scr2.top=marqueeheight
+scrollit()
+}
+}
+window.onload=regenerate2
+  
+     </script>
+     
+  </font></p>
+</td>
+    
+</tr>
+</table>
+<!-- ************* end for scrolling links *************************** -->
+   </td>
+   </tr>
+   </table>
+
+      </center>
+    </div>
+
+  </td>
+  </tr>
+  <tr>
+  <td width="395"><font face="Arial" size="2" color="#333399"><b><a name="address">Office Address</a> :</b><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P.O. - Dhaluabari,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Dinhata Main Road,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cooch Behar - 736 </font></td>
+  </tr>
+  <tr>
+  <td width="395"><font face="Arial" size="2" color="#333399"><b><a name="contacts">Contacts</a> :-</b><br>&nbsp;&nbsp;&nbsp;
+    Phone (O)&nbsp;&nbsp; :&nbsp;03582-274555&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ||&nbsp;&nbsp;Fax :<br>&nbsp;&nbsp;&nbsp; Res. Phone :&nbsp;03582-255207<br>&nbsp;&nbsp;&nbsp; E-mail :</font></td>
+  </tr>
+  </table>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30">
+</td>
+<td width="734"><img border="0" src="../JPGfiles/divider5.jpg" width="85" height="14"><img border="0" src="../JPGfiles/divider5.jpg" width="85" height="14"><img border="0" src="../JPGfiles/divider5.jpg" width="85" height="14"><img border="0" src="../JPGfiles/divider5.jpg" width="85" height="14"><img border="0" src="../JPGfiles/divider5.jpg" width="85" height="14"><img border="0" src="../JPGfiles/divider5.jpg" width="85" height="14"><img border="0" src="../JPGfiles/divider5.jpg" width="85" height="14"><img border="0" src="../JPGfiles/divider5.jpg" width="85" height="14"></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30">
+  <p align="right"><b><font face="Arial" size="2" color="#CC3300">1.</font></b></td>
+<td width="734"><b><font face="Arial" size="2" color="#CC3300"><u>GEOGRAPHY</u></font></b></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30"></td>
+<td width="734">
+  <TABLE width="661">
+  <tr>
+  <td width="381"><font face="Arial" size="2" color="#336699">i) Total Area : 362.42 sq. km.</font></td>
+  <td width="266"><font face="Arial" size="2" color="#336699">&nbsp;[Location
+    within Cooch Behar District]</font></td>
+  </tr>
+  <tr>
+  <td width="381"><font face="Arial" size="2" color="#336699">&nbsp;&nbsp;&nbsp;
+    Rural Area : 353.52 sq. km, Urban Area : 8.90 sq. km.</font></td>
+  <td width="266"></td>
+  </tr>
+  <tr>
+  <td width="381"><font face="Arial" size="2" color="#336699">ii) Geographical
+    boundaries/borders :</font></td>
+  <td width="266"><font face="Arial" size="2" color="#336699">&nbsp;[ <b><a name="block_map">Block
+    Map</a></b> ]</font></td>
+  </tr>
+  <tr>
+  <td width="381"><font face="Arial" size="2" color="#336699">iii) Agricultural
+    Land : 23,899 ha (cultivable)</font></td>
+  <td width="266"><font face="Arial" size="2" color="#336699">iv) Forest Area :</font></td>
+  </tr>
+  <tr>
+  <td width="381"><font face="Arial" size="2" color="#336699">v) Climate :</font></td>
+  <td width="266"><font face="Arial" size="2" color="#336699">vi) Average Yearly
+    Rainfall :</font></td>
+  </tr>
+  <tr>
+  <td width="381"><font face="Arial" size="2" color="#336699">vii) Rivers
+    Flowing :&nbsp;</font></td>
+  <td width="266"></td>
+  </tr>
+  </table>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30"></td>
+<td width="734"><b><font color="#FF3300" face="Times New Roman" size="3">*****************************************************************************</font></b></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"><b><font face="Arial" size="2" color="#CC3300">2.</font></b></td>
+<td width="734"><font face="Arial" size="2" color="#CC3300"><b><u>Important
+  CITIES, TOWNS</u></b></font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734">
+  <table width="734">
+  <tr>
+  <td width="176" align="center"><font face="Arial" size="2" color="#333399">Name</font></td>
+  <td width="252" align="center"><font face="Arial" size="2" color="#333399">Tourist
+    Guide</font></td>
+  <td width="286"><font face="Arial" size="2" color="#333399">Reason(s) of
+    Importance</font></td>
+  </tr>
+  <tr>
+  <td width="176" align="center"><font face="Arial" size="2" color="#333399">Cooch
+    Behar Sadar</font></td>
+  <td width="252" align="center"><font face="Arial" size="2" color="#333399">-</font></td>
+  <td width="286"><font face="Arial" size="2" color="#333399">-</font></td>
+  </tr>
+  <tr>
+  <td width="176" align="center"><font face="Arial" size="2" color="#333399">-</font></td>
+  <td width="252" align="center"><font face="Arial" size="2" color="#333399">-</font></td>
+  <td width="286"><font face="Arial" size="2" color="#333399">-</font></td>
+  </tr>
+  </table>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><b><font color="#FF3300" face="Times New Roman" size="3">*****************************************************************************</font></b></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"><b><font face="Arial" size="2" color="#CC3300">3.</font></b></td>
+<td width="734"><font face="Arial" size="2" color="#CC3300"><b><u>FAMOUS FOR</u></b></font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734">
+  <table width="734">
+  <tr>
+  <td width="36">
+    <p align="right"><font size="6" color="#0066FF">*</font></td>
+  <td width="318"> <font face="Arial" size="2" color="#336600">Tourist
+    Spots :<br>(details)</font></td>
+  <td width="19">
+    <p align="right"><font size="6" color="#0066FF">*</font></td>
+  <td width="335"><font face="Arial" size="2" color="#336600">Products/Services
+    :<br>(details)</font></td>
+  </tr>
+  </table>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><b><font color="#FF3300" face="Times New Roman" size="3">*****************************************************************************</font></b></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"><b><font face="Arial" size="2" color="#CC3300">4.</font></b></td>
+<td width="734"><font face="Arial" size="2" color="#CC3300"><b><u>DEMOGRAPHY</u></b></font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734">
+  <table width="736">
+  <tr>
+  <td width="399">
+    <table width="350">
+    <tr>
+    <td width="22"><font size="6" color="#0000FF">*</font></td>
+    <td width="147" colspan="2">
+      <p align="center"><b><u><font face="Arial" size="3" color="#0000FF">
+    Population</font></u></b></td>
+    <td width="71">
+      <p align="center"><font face="Arial" size="2" color="#666633"><b> Rural</b></font></td>
+    <td width="78">
+      <p align="center"><font face="Arial" size="2" color="#666633"><b> Urban</b></font></td>
+    </tr>
+    <tr>
+    <td width="22"></td>
+    <td width="71">
+      <p align="right"><font face="Arial" size="2" color="#666633"><b> Male :</b></font></td>
+    <td width="76" align="center"><font face="Arial" size="2" color="#666633">1,46,298</font></td>
+    <td width="71">
+      <p align="center"><font face="Arial" size="2" color="#666633">1,33,054</font></td>
+    <td width="78" align="center"><font face="Arial" size="2" color="#666633">13,244</font></td>
+    </tr>
+    <tr>
+    <td width="22"></td>
+    <td width="71">
+      <p align="right"><font face="Arial" size="2" color="#666633"><b> Female :</b></font></td>
+    <td width="76" align="center"><font face="Arial" size="2" color="#666633"> 1,38,266</font></td>
+    <td width="71">
+      <p align="center"><font face="Arial" size="2" color="#666633">1,25,400</font></td>
+    <td width="78" align="center"><font face="Arial" size="2" color="#666633">12,866</font></td>
+    </tr>
+    <tr>
+    <td width="22"></td>
+    <td width="71">
+      <p align="right"><font face="Arial" size="2" color="#666633"><b> Total
+      =&nbsp;</b></font></td>
+    <td width="76" align="center"><font face="Arial" size="2" color="#666633"> 2,84,564</font></td>
+    <td width="71">
+      <p align="center"><font face="Arial" size="2" color="#666633"> 2,58,454</font></td>
+    <td width="78" align="center"><font face="Arial" size="2" color="#666633"> 26,110</font></td>
+    </tr>
+    </table>
+    
+  </td>
+  <td width="323">
+    <table width="283">
+    <tr>
+    <td width="221">
+      <p align="left"><font face="Arial" size="2" color="#666633"><b> Sex Ratio </b><i>(females
+    per 1000 males) </i><b>: </b></font></td>
+    <td width="48"><font face="Arial" size="2" color="#666633">
+    945</font></td>
+    </tr>
+    <tr>
+    <td width="221">
+      <p align="right"><font face="Arial" size="2" color="#666633"><b> Rural :</b></font></td>
+    <td width="48"><font face="Arial" size="2" color="#666633">945</font></td>
+    </tr>
+    <tr>
+    <td width="221">
+      <p align="right"><font face="Arial" size="2" color="#666633"><b> Urban :</b></font></td>
+    <td width="48"><font face="Arial" size="2" color="#666633"> 942</font></td>
+    </tr>
+    </table>
+    
+  </td>
+  </tr>
+  <tr>
+  <td width="399">
+    <table width="316">
+    <tr>
+    <td width="18"><font size="6" color="#0000FF">*</font></td>
+    <td width="152">
+      <p align="right"><font face="Arial" size="2" color="#666633"><b> Density of</b>
+      <b>Population :</b></font></td>
+    <td width="126"><font face="Arial" size="2" color="#666633"> 785&nbsp;</font></td>
+    </tr>
+    <tr>
+    <td width="18"></td>
+    <td width="152">
+      <p align="right"><font face="Arial" size="2" color="#666633"><b>Rural :</b></font></td>
+    <td width="126"><font face="Arial" size="2" color="#666633">731</font></td>
+    </tr>
+    <tr>
+    <td width="18"></td>
+    <td width="152">
+      <p align="right"><font face="Arial" size="2" color="#666633"><b>Urban :</b></font></td>
+    <td width="126"><font face="Arial" size="2" color="#666633"> 2934</font></td>
+    </tr>
+    </table>
+    
+  </td>
+  <td width="323"></td>
+  </tr>
+  <tr>
+  <td width="399" bgcolor="#FFFFCC">
+    <table width="326" height="125">
+    <tr>
+    <td width="18" height="38"><font size="6" color="#0000FF">*</font></td>
+    <td width="448" colspan="4" height="38">
+      <font face="Arial" size="2" color="#333399"><b>
+    Child population </b>
+    ( 0 - 6 years ) <b>: </b>
+    -</font>
+    </td>
+    </tr>
+    <tr>
+    <td width="18" height="4"></td>
+    <td width="115" height="4">
+    </td>
+    <td width="78" height="4"></td>
+    <td width="98" align="center" height="4"><font face="Arial" size="2" color="#333399"><b><u>Rural</u></b></font></td>
+    <td width="157" align="center" height="4"><font face="Arial" size="2" color="#333399"><b><u>Urban</u></b></font></td>
+    </tr>
+    <tr>
+    <td width="18" height="21"></td>
+    <td width="115" height="21">
+      <p align="right"><b> <font face="Arial" size="2" color="#000099"> Male :</font></b></td>
+    <td width="78" align="center" height="21"><font face="Arial" size="2" color="#333399">22,712</font></td>
+    <td width="98" align="center" height="21"><font face="Arial" size="2" color="#333399">21,266</font></td>
+    <td width="157" align="center" height="21"><font face="Arial" size="2" color="#333399">1,446</font></td>
+    </tr>
+    <tr>
+    <td width="18" height="21"></td>
+    <td width="115" height="21">
+      <p align="right"><b> <font face="Arial" size="2" color="#000099"> Female :</font></b></td>
+    <td width="78" align="center" height="21"><font face="Arial" size="2" color="#333399"> 21,677</font></td>
+    <td width="98" align="center" height="21"><font face="Arial" size="2" color="#333399">20,323</font></td>
+    <td width="157" align="center" height="21"><font face="Arial" size="2" color="#333399">1,354</font></td>
+    </tr>
+    <tr>
+    <td width="18" height="21"></td>
+    <td width="115" height="21">
+      <p align="right"><b><font face="Arial" size="2" color="#000099"> Total
+      =&nbsp;</font></b></td>
+    <td width="78" align="center" height="21"><font face="Arial" size="2" color="#333399"> 44,389</font></td>
+    <td width="98" align="center" height="21"><font face="Arial" size="2" color="#333399"> 41,589</font></td>
+    <td width="157" align="center" height="21"><font face="Arial" size="2" color="#333399"> 2,800</font></td>
+    </tr>
+    </table>
+  </td>
+  <td width="323" bgcolor="#FFFFCC">
+    <table width="313">
+    <tr>
+    <td width="201"></td>
+    <td width="46" align="center"><font face="Arial" size="2" color="#333399"><b><u>Rural</u></b></font></td>
+    <td width="46" align="center"><font face="Arial" size="2" color="#333399"><b><u>Urban</u></b></font></td>
+    </tr>
+    <tr>
+    <td width="201"><font face="Arial" size="2" color="#333399"><b>Child Sex Ratio</b> 
+      (954) <b>:</b></font></td>
+    <td width="46" align="center"><font face="Arial" size="2" color="#333399">956</font></td>
+    <td width="46" align="center"><font face="Arial" size="2" color="#333399"> 936</font></td>
+    </tr>
+    <tr>
+    <td width="201"><font face="Arial" size="2" color="#333399"><b>Percentage
+      of Child population in comparison to total population</b>  (15.60%) <b>:</b></font></td>
+    <td width="46" align="center"><font face="Arial" size="2" color="#333399">16.09%</font></td>
+    <td width="46" align="center"><font face="Arial" size="2" color="#333399"> 10.72%</font></td>
+    </tr>
+    </table>
+  </td>
+  </tr>
+  <tr>
+  <td width="399"><font face="Arial" size="2" color="#333399">
+    - - - - - - - - - - - - - -
+    - - - - - - - - - - - - - -
+    - - - - - - - - - - - - - -
+    - - - -&nbsp;</font>
+  </td>
+  <td width="323"></td>
+  </tr>
+  <tr>
+  <td width="399"><font face="Arial" size="2" color="#666633">&nbsp;SC - 96082, ST
+    - 886 and
+    Others (in %)</font></td>
+  <td width="323"><font face="Arial" size="2" color="#666633">&nbsp;Religion wise
+    Priority :</font></td>
+  </tr>
+  <tr>
+  <td width="399"><font face="Arial" size="2" color="#666633">&nbsp;Colloquial
+    Languages :</font></td>
+  <td width="323"></td>
+  </tr>
+  </table>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><b><font color="#FF3300" face="Times New Roman" size="3">*****************************************************************************</font></b></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"><b><font face="Arial" size="2" color="#CC3300">5.</font></b></td>
+<td width="734"><font face="Arial" size="2" color="#CC3300"><b><u><a name="gram_panchayats">GRAM
+  PANCHAYATS</a></u></b></font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#3333CC">Total number of GPs
+  : 15&nbsp;&nbsp;&nbsp;&nbsp; # </font><b><a href="../HTMfiles/District_Administration.html#blocks_GPs"><font face="Arial" size="2" color="#993399">Click
+  here</font></a></b><font face="Arial" size="2" color="#3333CC"> to get names
+  of the GPs</font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><b><font color="#FF3300" face="Times New Roman" size="3">*****************************************************************************</font></b></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"><b><font face="Arial" size="2" color="#CC3300">6.</font></b></td>
+<td width="734"><font face="Arial" size="2" color="#CC3300"><b><u><a name="villages">VILLAGES</a></u></b></font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#3333CC">Total number of
+  Villages : 143&nbsp;&nbsp;&nbsp;&nbsp; # </font><b><a href="../HTMfiles/District_Administration.html#blocks_GPs"><font face="Arial" size="2" color="#993399">Click
+  here</font></a></b><font face="Arial" size="2" color="#3333CC"> to get names
+  of the villages segregated under respective GPs</font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><b><font color="#FF3300" face="Times New Roman" size="3">*****************************************************************************</font></b></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"><b><font face="Arial" size="2" color="#CC3300">7.</font></b></td>
+<td width="734"><font face="Arial" size="2" color="#CC3300"><b><u>ECONOMY</u></b></font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#FF3300"><b># Main Souce of
+  Income :-</b></font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734">
+  <table width="734">
+  <tr>
+  <td width="21">
+    <p align="right"><font size="5" face="Comic Sans MS" color="#FF3399">®</font></td>
+  <td width="348"><font face="Arial" size="2" color="#009933"><b>Agriculture</b></font></td>
+  <td width="21">
+    <p align="right"><font size="5" face="Comic Sans MS" color="#FF3399">®</font></td>
+  <td width="318"><font face="Arial" size="2" color="#993333"><b>Industry</b></font></td>
+  </tr>
+  <tr>
+  <td width="21">
+  </td>
+  <td width="348">
+    <table width="100%">
+    <tr>
+    <td><font face="Arial" size="2" color="#990000">a) Total Area available for
+      cultivation : 23,899 hectare</font></td>
+    </tr>
+    <tr>
+    <td><font face="Arial" size="2" color="#990000">b) Means of Irrigation :<br>
+      &nbsp;&nbsp;&nbsp;&nbsp; R.L.I. - 7, deep tube well - 10, shallow tube
+      well - 1107</font></td>
+    </tr>
+    <tr>
+    <td><font face="Arial" size="2" color="#990000">c) Types of Crops :&nbsp;</font></td>
+    </tr>
+    <tr>
+    <td><font face="Arial" size="2" color="#990000">d) Crop Pattern :</font></td>
+    </tr>
+    <tr>
+    <td><font face="Arial" size="2" color="#990000">e) Per-capita food grain
+      production :&nbsp;</font></td>
+    </tr>
+    </table>
+  </td>
+  <td width="21">
+  </td>
+  <td width="318">
+    <table width="100%">
+    <tr>
+    <td><font face="Arial" size="2" color="#000099">a) Type of Industry :</font></td>
+    </tr>
+    <tr>
+    <td><font face="Arial" size="2" color="#000099">b) Scale of Production :</font></td>
+    </tr>
+    <tr>
+    <td><font face="Arial" size="2" color="#000099">c) Market Share :</font></td>
+    </tr>
+    <tr>
+    <td><font face="Arial" size="2" color="#000099">.</font></td>
+    </tr>
+    <tr>
+    <td><font face="Arial" size="2" color="#000099">.</font></td>
+    </tr>
+    <tr>
+    <td><font face="Arial" size="2" color="#000099">.</font></td>
+    </tr>
+    </table>
+  </td>
+  </tr>
+  </table>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#0000FF">- - - - - - - - - -
+  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  -------------------</font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#FF3300"><b># Distinction
+  between Agricultural &amp; Industrial Labours </b>(in %)</font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#000099">&nbsp;&nbsp;&nbsp; No. of Agricultural Labourers : 18,185</font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#0000FF">- - - - - - - - - -
+  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  -------------------</font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#FF3300"><b># Other means of
+  Income Generation </b>(like animal resource farming, dairy, fishery, etc.)</font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#0000FF">- - - - - - - - - -
+  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+  -------------------</font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><b><font face="Arial" size="2" color="#FF3300"># Banks&nbsp; </font><font face="Arial" size="2" color="#000099">Total
+  number of Banks : 12</font></b></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734">
+  <table width="734">
+  <tr>
+  <td width="367"><font face="Arial" size="2" color="#333399">i) Name with
+    Address &amp; Contact nos. :</font></td>
+  <td><font face="Arial" size="2" color="#333399">ii) Per-capita Bank Deposits :</font></td>
+  </tr>
+  <tr>
+  <td width="367"><font face="Arial" size="2" color="#333399">iii) Per-capita
+    Bank Credit to SSIs</font></td>
+  <td><font face="Arial" size="2" color="#333399">iv) Per-capita Bank Credit to
+    Industries :</font></td>
+  </tr>
+  </table>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734">
+  <table width="533">
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000"><b><u>Sl.
+    no.</u></b></font></td>
+  <td width="73" align="center"><font face="Arial" size="2" color="#800000"><b><u>Bank
+    Name</u></b></font></td>
+  <td width="85" align="left"><font face="Arial" size="2" color="#800000"><b><u>Branch</u></b></font></td>
+  <td width="190" align="left"><font face="Arial" size="2" color="#800000"><b><u>Address
+    (G.P.)</u></b></font></td>
+  <td width="104" align="center"><font face="Arial" size="2" color="#800000"><b><u>Contact
+    no.</u></b></font></td>
+  <td width="2"></td>
+  </tr>
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000">1.</font></td>
+  <td width="73" align="center"><font face="Arial" size="2" color="#800000"><b>ALB</b></font></td>
+  <td width="85"><font face="Arial" size="2" color="#800000">Panisala</font></td>
+  <td width="57"></td>
+  <td width="104"></td>
+  <td width="2"></td>
+  </tr>
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000">2.</font></td>
+  <td width="73" align="center"><font face="Arial" size="2" color="#800000"><b>CBI</b></font></td>
+  <td width="85"><font face="Arial" size="2" color="#800000">Dewanhat</font></td>
+  <td width="57"></td>
+  <td width="104"></td>
+  <td width="2"></td>
+  </tr>
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000">3.</font></td>
+  <td width="73" align="center"></td>
+  <td width="85"><font face="Arial" size="2" color="#800000">Akrarhat</font></td>
+  <td width="57"></td>
+  <td width="104"></td>
+  <td width="2"></td>
+  </tr>
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000">4.</font></td>
+  <td width="73" align="center"></td>
+  <td width="85"><font face="Arial" size="2" color="#800000">Chandramai</font></td>
+  <td width="57"></td>
+  <td width="104"></td>
+  <td width="2"></td>
+  </tr>
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000">5.</font></td>
+  <td width="73" align="center"><font face="Arial" size="2" color="#800000"><b>UBI</b></font></td>
+  <td width="85"><font face="Arial" size="2" color="#800000">Guriahati</font></td>
+  <td width="57"></td>
+  <td width="104"></td>
+  <td width="2"></td>
+  </tr>
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000">6.</font></td>
+  <td width="73" align="center"></td>
+  <td width="85"><font face="Arial" size="2" color="#800000">Ghugumari</font></td>
+  <td width="57"></td>
+  <td width="104"></td>
+  <td width="2"></td>
+  </tr>
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000">7.</font></td>
+  <td width="73" align="center"><font face="Arial" size="2" color="#800000"><b>UCO</b></font></td>
+  <td width="85"><font face="Arial" size="2" color="#800000">Dawaguri</font></td>
+  <td width="57"></td>
+  <td width="104"></td>
+  <td width="2"></td>
+  </tr>
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000">8.</font></td>
+  <td width="73" align="center"><font face="Arial" size="2" color="#800000"><b>UBKG</b></font></td>
+  <td width="85"><font face="Arial" size="2" color="#800000">Chilkirhat</font></td>
+  <td width="57"></td>
+  <td width="104"></td>
+  <td width="2"></td>
+  </tr>
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000">9.</font></td>
+  <td width="73"></td>
+  <td width="85"><font face="Arial" size="2" color="#800000">Jiranpur</font></td>
+  <td width="57"></td>
+  <td width="104"></td>
+  <td width="2"></td>
+  </tr>
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000">10.</font></td>
+  <td width="73"></td>
+  <td width="85"><font face="Arial" size="2" color="#800000">Saheberhat</font></td>
+  <td width="57"></td>
+  <td width="104"></td>
+  <td width="2"></td>
+  </tr>
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000">11.</font></td>
+  <td width="73"></td>
+  <td width="85"><font face="Arial" size="2" color="#800000">Satmile</font></td>
+  <td width="57"></td>
+  <td width="104"></td>
+  <td width="2"></td>
+  </tr>
+  <tr>
+  <td width="41" align="center"><font face="Arial" size="2" color="#800000">12.</font></td>
+  <td width="73"></td>
+  <td width="85"><font face="Arial" size="2" color="#800000">Suktabari</font></td>
+  <td width="57"></td>
+  <td width="104"></td>
+  <td width="2"></td>
+  </tr>
+  </table>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><b><font color="#FF3300" face="Times New Roman" size="3">*****************************************************************************</font></b></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"><b><font face="Arial" size="2" color="#CC3300">8.</font></b></td>
+<td width="734"><font face="Arial" size="2" color="#CC3300"><b><u>EDUCATION</u></b></font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734">
+  <table width="734">
+  <tr>
+  <td width="726" colspan="2"><font face="Arial" size="2" color="#333399">Literacy
+    Rate (excluding 0 - 6 years population) : 67.98%
+    <table width="362">
+    <tr>
+    <td width="19"></td>
+    <td width="193"></td>
+    <td width="61" align="center"><font face="Arial" size="2" color="#333399"><b> <u> Male</u></b></font></td>
+    <td width="63" align="center"><font face="Arial" size="2" color="#333399"><b> <u> Female</u></b></font></td>
+    </tr>
+    <tr>
+    <td width="19"></td>
+    <td width="193"><font face="Arial" size="2" color="#333399"><b>Literacy
+    Rate </b>(67.98%)<b> :</b></font></td>
+    <td width="61" align="center"><font face="Arial" size="2" color="#333399">
+    77.41%</font></td>
+    <td width="63" align="center"><font face="Arial" size="2" color="#333399"> 57.99%</font></td>
+    </tr>
+    <tr>
+    <td width="19"></td>
+    <td width="193"><font face="Arial" size="2" color="#333399"><b>Rural Literacy Rate</b>
+      (66.41%) <b>:</b></font></td>
+    <td width="61" align="center"><font face="Arial" size="2" color="#333399"> 76.24%</font></td>
+    <td width="63" align="center"><font face="Arial" size="2" color="#333399"> 55.96%</font></td>
+    </tr>
+    <tr>
+    <td width="19"></td>
+    <td width="193"><font face="Arial" size="2" color="#333399"><b>
+    Urban Literacy Rate</b> (82.60%)<b> :</b></font></td>
+    <td width="61" align="center"><font face="Arial" size="2" color="#333399">88.54%</font></td>
+    <td width="63" align="center"><font face="Arial" size="2" color="#333399">
+    76.51%</font></td>
+    </tr>
+    </table>
+    <hr width="55%" align="left"></font></td>
+  </tr>
+  <tr>
+  <td width="726" colspan="2"><b><font face="Arial" size="2" color="#996633">&nbsp;
+    Literates </font></b><font face="Arial" size="2" color="#996633"> <b>: </b>
+    -</font><font face="Arial" size="2" color="#333399">
+    <table width="362">
+    <tr>
+    <td width="30"></td>
+    <td width="187"></td>
+    </font>
+    <td width="56" align="center"><b><font face="Arial" size="2" color="#996633"><u> Male</u></font></b></td>
+    <td width="63" align="center"><b><font face="Arial" size="2" color="#996633"><u> Female</u></font></b></td>
+    <td width="63" align="center"><b><font face="Arial" size="2" color="#996633"><u>Total</u></font></b></td>
+    </tr>
+    <font face="Arial" size="2" color="#333399">
+    <tr>
+    <td width="30"></td>
+    </font>
+    <td width="187">
+    <font face="Arial" size="2" color="#996633">
+    <b>
+    No. of&nbsp; </b></font><b><font face="Arial" size="2" color="#996633">Literates</font></b><font face="Arial" size="2" color="#996633"><b>
+      :</b></font></td>
+    <td width="56" align="center">
+    <font face="Arial" size="2" color="#996633">
+    95,668</font></td>
+    <td width="63" align="center">
+    <font face="Arial" size="2" color="#996633">
+ 67,609</font></td>
+    <td width="63" align="center">
+    <font face="Arial" size="2" color="#996633">
+ 1,63,277</font></td>
+    </tr>
+    <font face="Arial" size="2" color="#333399">
+    <tr>
+    <td width="30"></td>
+    </font>
+    <td width="187"><b><font face="Arial" size="2" color="#996633">Rural </font></b><font face="Arial" size="2" color="#996633"><b>
+      </b></font><b><font face="Arial" size="2" color="#996633">Literates</font></b><font face="Arial" size="2" color="#996633">
+      <b>:</b></font></td>
+    <td width="56" align="center"><font face="Arial" size="2" color="#996633">85,222</font></td>
+    <td width="63" align="center"><font face="Arial" size="2" color="#333399"><font face="Arial" size="2" color="#996633"> 58,801</font></td>
+    <td width="63" align="center"><font face="Arial" size="2" color="#996633">
+      1,44,023</font></td>
+    </tr>
+    <tr>
+    <td width="30"></td>
+    <td width="187"><b><font face="Arial" size="2" color="#996633">
+    Urban Literates</font></b><font face="Arial" size="2" color="#996633"><b>
+      :</b></font></td>
+    <td width="56" align="center"><font face="Arial" size="2" color="#996633">10,446</font></td>
+    <td width="63" align="center"><font face="Arial" size="2" color="#996633"> 8,808</font></td>
+    <td width="63" align="center"><font face="Arial" size="2" color="#996633">
+      19,254</font></td>
+    </tr>
+    </table>
+<hr width="55%" align="left"></td>
+  </tr>
+  <tr>
+  <td width="359"><font face="Arial" size="2" color="#333399">i) School Names
+    with Address &amp; brief Profile</font></td>
+  <td width="361"><font face="Arial" size="2" color="#333399">ii) Colleges/University (if
+    any)</font></td>
+  </tr>
+  <tr>
+  <td width="359"><font face="Arial" size="2" color="#333399">iii) Outstanding Achievements
+    or Plans</font></td>
+  <td width="361"></td>
+  </tr>
+  </table>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><b><font color="#FF3300" face="Times New Roman" size="3">*****************************************************************************</font></b></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"><b><font face="Arial" size="2" color="#CC3300">9.</font></b></td>
+<td width="734"><font face="Arial" size="2" color="#CC3300"><b><u>HEALTH</u></b></font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#990099"><b>i) Primary Health
+  Center (PHC)</b></font>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#990099"><b>ii) Anganwari
+  Health Center (AHC)</b></font>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#990099"><b>iii) Block Health
+  Center (BHC)</b></font>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#990099"><b>iv) Hospitals</b></font>
+</td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#990099"><b>v) Famous Doctors, Nursing
+  Homes, Medical facilities</b></font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#993399"><b>vi) Veterinary
+  Health </b><b>Centers</b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Veterinary Aid
+  Center : 1 ;&nbsp; Addl. Veterinary Aid Center : 1 ;&nbsp; Vet. Dispensary :
+  1&nbsp; ;&nbsp; Addl. Vet. Dispensary : 1</font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><b><font color="#FF3300" face="Times New Roman" size="3">*****************************************************************************</font></b></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"><b><font face="Arial" size="2" color="#CC3300">10.</font></b></td>
+<td width="734"><font face="Arial" size="2" color="#CC3300"><b><u><a name="schemes">Under District
+  Administration WHAT??</a></u></b></font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#333399">i) Projects Running
+  or taken-up under District Administration</font></td>
+<td width="16"></td>
+</tr>
+<tr>
+<td width="30" align="right"></td>
+<td width="734"><font face="Arial" size="2" color="#333399">ii) Upliftment/Development
+  Schemes under Private management</font></td>
+<td width="16"></td>
+</tr>
+</table>
+<p align="center"><font face="Garamond" size="7" color="#0000FF"><b>Under
+Construction</b></font>
+<a name="bottom_screen">
+<p align="center"></a><b><font face="Arial" size="2"><a href="#top_screen"><font color="#FFFFFF" size="2" face="Arial"><span style="background-color: #003366; text-decoration: overline">Top
+Page</span></font></a></font></b>
+<div align="center">
+  <center>
+  <table width="100%">
+    <tr>
+      <td width="758" colspan="3">
+        <p align="center"><b><font color="#999999" face="Arial" size="3">--------
+        </font><a href="#" onClick="MM_openBrWindow('../HTMfiles/govt_telnos.html','','scrollbars=yes,width=620,height=500')"><font face="Arial" size="2" color="#CC3300">Government
+        Departmental Contacts</font></a><font color="#999999" face="Arial" size="2">
+        </font><font color="#999999" face="Arial" size="3">-------- </font><font color="#999999" face="Arial" size="2"><i>Other
+        Links</i></font><font color="#999999" face="Arial" size="3"> -------- </font><a href="#" onClick="MM_openBrWindow('../HTMfiles/public_telinfo.html','','scrollbars=yes,width=750,height=500')"><font face="Arial" size="2" color="#CC3300">Important
+        Public Contacts</font></a><font color="#999999" face="Arial" size="3">
+        -------------------</font></b></td>
+    </tr>
+    <tr>
+      <td width="311">
+        <p align="right"><font face="Arial" size="2">| <a href="admn_diary.html"><font color="#0000FF">Administrative
+        Diary</font></a> | <a href="admn_form.html"><font color="#0000FF">Administrative
+        Forms</font></a> |<br>
+        | <a href="admn_orders.html"><font color="#0000FF">Administrative Orders</font></a>
+        | <a href="admn_tenders.html"><font color="#0000FF">Administrative
+        Tenders</font></a> |<br>
+        | <a href="admn_schemes.html"><font color="#0000FF">Administrative
+        Schemes</font></a> | <a href="cob_agriculture.html"><font color="#0000FF">Agriculture</font></a>
+        | <a href="brief_history.html"><font color="#0000FF">Brief History</font></a>
+        |<br>
+        | <a href="Transport.html#roads"><font color="#0000FF">Bus Service</font></a><font color="#3333FF">
+        </font><font color="#000000">| </font><a href="Education_inCoB.html"><font color="#0000FF">Education</font></a>
+        | <a href="cob_employment.html"><font color="#0000FF">Employment</font></a>
+        |</font></p>
+      </td>
+      <td width="126">
+        <p align="center"><a href="index.html" Title="www.coochbehar.nic.in"><img border="0" src="../GIFfiles/gen_logo.gif" alt="click to go to Opening Home page" width="120" height="90"></a></td>
+      <td width="309"><font face="Arial" size="2">| <a href="cob_health.html"><font color="#0000FF">Health</font></a>
+        | <a href="cob_industry.html"><font color="#0000FF">Industry/Economy</font></a>
+        | <a href="Web_links.html"><font color="#0000FF">Important Web-links</font></a>
+        |<br>
+        | <a href="scope_industry.html"><font color="#0000FF">Industrial Scope</font></a>
+        | <a href="IT_in_CoB.html"><font color="#0000FF">IT Awareness in CoB</font></a>
+        |<br>
+        | <a href="../XLSfiles/Vested_Land.xls" target="23Jul4"><font color="#0000FF">Land
+        Data Bank</font></a> |&nbsp;<a href="public_utility.html"><font color="#0000FF">Public
+        Utility Information</font></a> |<br>
+        | <a href="royal_history.html#raj_itihas"><font color="#0000FF">Royal
+        History</font></a> | <a href="Sadar_admn.html"><font color="#0000FF">Sadar
+        Administration</font></a> | <a href="Transport.html#top_train"><font color="#0000FF">Train
+        Service</font></a> |</font></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="125">
+        <p align="right"><font face="Arial" size="2"><b><a href="Tourism_in_CoB.html"><font color="#CC3300">Tourism</font></a>
+        - <a href="tour.html"><font color="#CC3300">Snapshot</font></a></b></font></td>
+      <center>
+      <td width="482" rowspan="2">
+        <p align="center"><a href="Tourism_in_CoB.html"><img border="0" src="../GIFfiles/banner_top.gif" width="480" height="40"></a></td>
+      </center>
+      <td width="144">
+        <p align="left"><b><font face="Arial" size="2"><a href="Tourism_in_CoB.html#calender"><font color="#CC3300">Tourist
+        Calender</font></a></font></b></td>
+    </tr>
+    <tr>
+      <td width="125">
+        <p align="right"><font face="Arial" size="2"><b><a href="tourist_guide.html"><font color="#CC3300">Tourist
+        Guide</font></a></b></font></td>
+      <center>
+      <td width="144"><b><font face="Arial" size="2"><a href="#" onClick="MM_openBrWindow('../HTMfiles/tourist_development.html','','scrollbars=yes,width=700,height=470')"><font color="#CC3300">Tourism
+        Development</font></a></font></b></td>
+      </tr>
+    </table>
+  </center>
+</div>
+<table width="100%">
+  <tr>
+    <td width="583" colspan="2">
+      <p align="center"><a href="home.html" title="NIC (CoB) Home"><img border="0" src="../GIFfiles/cob_home.gif" width="22" height="22"></a>&nbsp;
+      <b><font color="#999999" face="Arial" size="3">------------------------------------------
+      </font><font color="#999999" face="Arial" size="2"><i>NIC Links</i></font><font color="#999999" face="Arial" size="3">
+      ----------------------------------------------</font></b></p>
+    </td>
+    <td width="163"><a href="index.html" title="Cooch Behar's opening page"><img border="0" src="../GIFfiles/home.gif" alt="click 2 go 2 Cooch Behar's opening page" width="26" height="25"></a></td>
+  </tr>
+  <tr>
+    <td width="758" colspan="3"><font face="Arial" size="2">&nbsp;&nbsp; | <a href="nic_cob.html"><font color="#0000FF">NIC
+      (CoB) Profile</font></a> | <a href="favourite.htm"><font color="#0000FF">NIC-
+      CoB's Favourite</font></a> | <a href="Soft_Databank.htm"><font color="#0000FF">Data-Bank</font></a>
+      || &nbsp;<a href="#" onClick="MM_openBrWindow('../HTMfiles/data_library.htm','','scrollbars=yes,width=440,height=425')"><font color="#FFFFFF" size="2" face="Arial"><b><span style="background-color: #993333; text-decoration: overline">Data-Library&nbsp;</span></b></font></a>&nbsp;||
+      <a href="favourite.htm#bulletin"><font color="#0000FF">Bulletin</font></a>
+      | <a href="NIC_events.html"><font color="#0000FF">Events</font></a> | <a href="nic_cob.html#personals"><font color="#0000FF">Personals</font></a>
+      | <a href="favourite.htm#other_nic_centres"><font color="#0000FF">Other
+      Centres of NIC</font></a> |</font></td>
+  </tr>
+  <tr>
+    <td width="149" bgcolor="#336600" bordercolorlight="#CCCC00" bordercolordark="#FFFFFF" bordercolor="#CCCC00">
+      <p align="center"><font face="Arial" size="2"><font color="#FFFFFF">||</font><b>
+      <a href="feedback.html"><font color="#CCCC00">Feedback</font></a></b> <font color="#FFFFFF">||</font></font></td>
+    <td width="434">
+      <p align="center"><font face="Arial" size="2">|&nbsp; <a href="CoB_Markets.html#Huts"><font color="#0000FF">Haats</font></a>
+      or&nbsp; <a href="CoB_Markets.html"><font color="#0000FF">Local Market</font></a>
+      |</font></td>
+    <td width="163" bgcolor="#990000">
+      <p align="center"><font face="Arial" size="2"><font color="#FFFFFF">||</font><b>
+      <a href="CoB_Advertisements.html"><font color="#FF9900">Advertisement</font></a></b>
+      <font color="#FFFFFF">||</font></font></td>
+  </tr>
+</table>
+
+<table width="100%" height="16">
+  <tr>
+    <td width="700" height="1" colspan="3">
+      <hr align="center" width="730">
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td width="19">
+      <p align="center"></p>
+    </td>
+    <td width="113">
+      <p align="center"><a href="http://home.nic.in/htm/nicnet.htm" title="NICNET - (satellite based VSAT)"><img border="0" src="../GIFfiles/satellite.gif" width="85" height="65" alt="NICNET - (satellite based VSAT)"></a></p>
+    </td>
+    <td width="12">
+      <p align="center"><img border="0" src="../GIFfiles/ashok_stambha.gif" width="83" height="51" align="left"></td>
+    <td width="268">
+      <p align="center"><font face="Arial" size="1"><font color="#0033CC">Copyright
+      © 2002 . </font><font color="#CC6600">All rights reserved by NIC (CoB)</font><br>
+      <font color="#993399">National Informatics Centre, Cooch Behar District
+      Unit</font><br>
+      <font color="#0066FF">Email -</font><a href="mailto:root@coochbehar.wb.nic.in?subject=Attention CoB - regarding your website (CoB1-page)"><font color="#0066FF"> root@coochbehar.wb.nic.in</font></a></font></p>
+    </td>
+    <td width="239">
+      <p align="center"><img border="0" src="../GIFfiles/jai_hind.gif" align="left" width="116" height="44"></p>
+    </td>
+  </tr>
+</table>
+</body>
+

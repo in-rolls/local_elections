@@ -1,0 +1,213 @@
+{
+  "version": 1,
+  "sha256": "2708c44c3e04cd6d9efa03c89c3a5e488a693ff934813967d794dd89979221c3",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock : Chakdaha\nNumber of members to be elected in the Gram Panchayat\nName of Gram Scheduled Scheduled Tribe Women\nTotal number of members\nCaste members Members members\n1 (2a) (2b) (2c) (2d)\nGhetugachhi 20 9 1 7\nSeats reserved\nSeats allocated\nfor Scheduled Seats reserved\nto each\nCaste or for women\nNumber, name and area of constituencies with serial numbers constituency\nScheduled Tribe against serial\nwith serial\nagainst serial number of seats\nnumbers\nnumber of seats\n3 4 5 6\nGetugachhi/I\nMouza : Kugachhi, J.L. No.119, (a) Purbapara\nMouza : Kugachhi, J.L. No.119,(b) Madhyapara\nMouza : Kugachhi, J.L. No.119,(c) Ghoshpara 1 - 1 W\nMouza : Kugachhi, J.L. No.119,(d) Adibasipara\nMouza : Juranpur, J.L. No. 128, (e) Juranpur Purbapara\nPart No. 83/31\nGetugachhi/II\nMouza :Nikhargachhi , J.L. No.117, (a) Khaldharpara\nMouza :Nikhargachhi , J.L. No.117,(b) Bagpara 2 2 SC 2 SCW\nMouza ; Ghetugachhi, J.L. No. 129, (c) Majherpara\nPart No. 83/32\nGetugachhi/III\nMouza :Dighra , J.L. No.122, (a)Dighra Full 3 - -\nPart No. 83/33\nGetugachhi/IV\nMouza :Gobindapur , J.L. No.121, (a)Gobindapur Full 4 4 SC -\nPart No. 83/34\nGetugachhi/V\nMouza :Belgaria , J.L. No.127, (a) Belgaria Full\n5 - --\nMouza : Ruxminidanga, J.L. No. 125, (b) Ruxmini Danga Full\nPart No. 83/35\nGetugachhi/VI\nMouza :Srinathpur , J.L. No.126, (a) Srinathput Full\nMouza : Bezpara, J.L. No. 123, (b) Bejpara Full 6 6 SC -\nMouza : Muktipara, J.L. No. 124, (c) Muktipara Full\nPart No. 83/36\nGetugachhi/VII\nMouza :Banamalipara , J.L. No.140, (a) Banamalipara Dakshin 7 -- 7 W\nPart No. 83/37\nGetugachhi/VIII\nMouza :Banamalipara , J.L. No.140, (b) Banamalipara Uttar 8 8 ST 8 STW\nPart No. 83/38",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            118.19040000000007,
+            549.2352,
+            179.9844
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of members",
+              "Scheduled\nCaste members",
+              "Scheduled Tribe\nMembers",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Ghetugachhi",
+              "20",
+              "9",
+              "1",
+              "7"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            18.5191254,
+            192.3444,
+            549.2352,
+            705.4214400000001
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial numbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCaste or\nScheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Getugachhi/I\nMouza : Kugachhi, J.L. No.119, (a) Purbapara\nMouza : Kugachhi, J.L. No.119,(b) Madhyapara\nMouza : Kugachhi, J.L. No.119,(c) Ghoshpara\nMouza : Kugachhi, J.L. No.119,(d) Adibasipara\nMouza : Juranpur, J.L. No. 128, (e) Juranpur Purbapara\nPart No. 83/31",
+              "1",
+              "-",
+              "1 W"
+            ],
+            [
+              "Getugachhi/II\nMouza :Nikhargachhi , J.L. No.117, (a) Khaldharpara\nMouza :Nikhargachhi , J.L. No.117,(b) Bagpara\nMouza ; Ghetugachhi, J.L. No. 129, (c) Majherpara\nPart No. 83/32",
+              "2",
+              "2 SC",
+              "2 SCW"
+            ],
+            [
+              "Getugachhi/III\nMouza :Dighra , J.L. No.122, (a)Dighra Full\nPart No. 83/33",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              "Getugachhi/IV\nMouza :Gobindapur , J.L. No.121, (a)Gobindapur Full\nPart No. 83/34",
+              "4",
+              "4 SC",
+              "-"
+            ],
+            [
+              "Getugachhi/V\nMouza :Belgaria , J.L. No.127, (a) Belgaria Full\nMouza : Ruxminidanga, J.L. No. 125, (b) Ruxmini Danga Full\nPart No. 83/35",
+              "5",
+              "-",
+              "--"
+            ],
+            [
+              "Getugachhi/VI\nMouza :Srinathpur , J.L. No.126, (a) Srinathput Full\nMouza : Bezpara, J.L. No. 123, (b) Bejpara Full\nMouza : Muktipara, J.L. No. 124, (c) Muktipara Full\nPart No. 83/36",
+              "6",
+              "6 SC",
+              "-"
+            ],
+            [
+              "Getugachhi/VII\nMouza :Banamalipara , J.L. No.140, (a) Banamalipara Dakshin\nPart No. 83/37",
+              "7",
+              "--",
+              "7 W"
+            ],
+            [
+              "Getugachhi/VIII\nMouza :Banamalipara , J.L. No.140, (b) Banamalipara Uttar\nPart No. 83/38",
+              "8",
+              "8 ST",
+              "8 STW"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2333
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Seats reserved\nSeats allocated\nfor Scheduled Seats reserved\nto each\nCaste or for women\nNumber, name and area of constituencies with serial numbers constituency\nScheduled Tribe against serial\nwith serial\nagainst serial number of seats\nnumbers\nnumber of seats\nGetugachhi/IX\nMouza :Sahishpur , J.L. No145., (a) Sahishpur Uttar Part\nMouza :Sahishpur , J.L. No145.,(b) Sahishpur Dakshin Part 9,10 9 SC --\nMouza : Kashimpur, J.L. No. 143, (c) Kashimpur Partly\nPart No. 83/39\nGetugachhi/X\nMouza : Kashimpur, J.L. No.143, (a) Natun Goara Para\nMouza : Kashimpur, J.L. No.143,(b) Kashimpur Partly 11 - -\nMouza : Shibpur, J.L. No. 141, (c) Shibpur Uttarpara\nPart No. 83/40\nGetugachhi/XI\nMouza :Shibpur , J.L. No.141, (a) Shibur Dakshin Part\nMouza :Shibpur , J.L. No.141,(b) Shipur Mathpara 12 12 SC -\nMouza :Shibpur , J.L. No.141,(c) Shibpur Majherpara\nPart No. 83/41\nGetugachhi/XII\nMouza :Mondalhat , J.L. No.137, (a) Mondalhat Paschim Part 13 13 SC 13 SCW\nPart No. 83/42\nGetugachhi/XIII\nMouza :Mondalhat , J.L. No.137, (a)Mondalhat Purba Part 14 - 14 W\nPart No. 83/43\nGetugachhi/XIV\nMouza :Jaguli , J.L. No.138, (a) Jaguli PaschimPart 1 5 15 SC -\nPart No. 83/44\nGetugachhi/XV\nMouza :Jaguli , J.L. No.138, (a) Jaguli Purba Part\n16 - -\nMouza : Nizra, J.L. No. 139, (b) Nizra Full\nPart No. 83/45\nGetugachhi/XVI\nMouza : Ghetugachhi, J.L. No.129, (a) Ghetugachhi Dakshin Part\n17,18 18 SC -\nMouza : Ghetugachhi, J.L. No.129,(b) GhetugachhiUttar Part\nPart No. 83/46\nGetugachhi/XVII\nMouza : Gotra, J.L. No.130, (a) Gotra Full 1 9 19 SC 19 SCW\nPart No. 83/47\nGetugachhi/XVIII\nMouza :Ramkrishnapur , J.L. No.131, (a) Ramkrishnapur Full 20 - -\nPart No. 83/48\nDate:07.02.2008 District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            72.47399999999999,
+            549.2352,
+            635.5871999999999
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial numbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCaste or\nScheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "Getugachhi/IX\nMouza :Sahishpur , J.L. No145., (a) Sahishpur Uttar Part\nMouza :Sahishpur , J.L. No145.,(b) Sahishpur Dakshin Part\nMouza : Kashimpur, J.L. No. 143, (c) Kashimpur Partly\nPart No. 83/39",
+              "9,10",
+              "9 SC",
+              "--"
+            ],
+            [
+              "Getugachhi/X\nMouza : Kashimpur, J.L. No.143, (a) Natun Goara Para\nMouza : Kashimpur, J.L. No.143,(b) Kashimpur Partly\nMouza : Shibpur, J.L. No. 141, (c) Shibpur Uttarpara\nPart No. 83/40",
+              "11",
+              "-",
+              "-"
+            ],
+            [
+              "Getugachhi/XI\nMouza :Shibpur , J.L. No.141, (a) Shibur Dakshin Part\nMouza :Shibpur , J.L. No.141,(b) Shipur Mathpara\nMouza :Shibpur , J.L. No.141,(c) Shibpur Majherpara\nPart No. 83/41",
+              "12",
+              "12 SC",
+              "-"
+            ],
+            [
+              "Getugachhi/XII\nMouza :Mondalhat , J.L. No.137, (a) Mondalhat Paschim Part\nPart No. 83/42",
+              "13",
+              "13 SC",
+              "13 SCW"
+            ],
+            [
+              "Getugachhi/XIII\nMouza :Mondalhat , J.L. No.137, (a)Mondalhat Purba Part\nPart No. 83/43",
+              "14",
+              "-",
+              "14 W"
+            ],
+            [
+              "Getugachhi/XIV\nMouza :Jaguli , J.L. No.138, (a) Jaguli PaschimPart\nPart No. 83/44",
+              "1 5",
+              "15 SC",
+              "-"
+            ],
+            [
+              "Getugachhi/XV\nMouza :Jaguli , J.L. No.138, (a) Jaguli Purba Part\nMouza : Nizra, J.L. No. 139, (b) Nizra Full\nPart No. 83/45",
+              "16",
+              "-",
+              "-"
+            ],
+            [
+              "Getugachhi/XVI\nMouza : Ghetugachhi, J.L. No.129, (a) Ghetugachhi Dakshin Part\nMouza : Ghetugachhi, J.L. No.129,(b) GhetugachhiUttar Part\nPart No. 83/46",
+              "17,18",
+              "18 SC",
+              "-"
+            ],
+            [
+              "Getugachhi/XVII\nMouza : Gotra, J.L. No.130, (a) Gotra Full\nPart No. 83/47",
+              "1 9",
+              "19 SC",
+              "19 SCW"
+            ],
+            [
+              "Getugachhi/XVIII\nMouza :Ramkrishnapur , J.L. No.131, (a) Ramkrishnapur Full\nPart No. 83/48",
+              "20",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2732
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

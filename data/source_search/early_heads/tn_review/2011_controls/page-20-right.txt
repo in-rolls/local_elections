@@ -1,0 +1,50 @@
+1 2 3
+PARANGIPETTAI PANCHAYAT UNION Contd
+3 Kanakarapattu SC (Women)
+4 Kuriyamangalam SC (Women)
+5 Kumaramangalam SC (General)
+6 Sendirakillai SC (General)
+7 Meedhikudi SC (General)
+8 B. Arunmozhidevan SC (General)
+9 Chinnakumatti SC (General)
+10 Kovilampoondi SC (General)
+11 Velangipattu SC (General)
+12 Keezhamanakkudi SC (General)
+13 Vasaputhur General (Women)
+14 B. Maduvangarai General (Women)
+15 Poovalai General (Women)
+16 Manjakuzhi General (Women)
+17 Pallipadai General (Women)
+18 Chinnur Pudhupettai General (Women)
+19 B. Mutlur General (Women)
+20 Ayeepuram General (Women)
+21 Periyapattu General (Women)
+22 Ariyakoshti General (Women)
+23 Keezhaperambai General
+24 Nanjaimagathuvazhkai General
+25 Uthamachozha mangalam General
+26 Melathirukazhipalai General
+27 Thillaividangan General
+28 Thatchakadu General
+29 Kavarapattu General
+30 Nakkaravandhankudi General
+31 C. Kothangudi General
+32 Vayalamur General
+33 Keezhanuvampattu General
+34 Villiyanallur General
+35 Thandavarayasozhanpettai General
+36 Silambimangalam General
+37 Keezhathirukazhipalai General
+38 Kothattai General
+39 Pitchavaram General
+40 B.Adhivaraganallur General
+41 Periyakumatti General
+VIRUDHACHALAM PANCHAYAT UNION
+1 Kattuparur SC (Women)
+2 Manavalanallur SC (Women)
+3 Sathiyavadi SC (Women)
+4 Periyavadavadi SC (Women)
+5 Therkku Vadakku Puthur SC (Women)
+6 Gopurapuram SC (Women)
+7 Chinnaparur SC(General)
+8 Ko.Poovanur SC(General)

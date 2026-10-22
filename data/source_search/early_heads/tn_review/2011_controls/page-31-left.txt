@@ -1,0 +1,62 @@
+1 2 3
+MELMALAYANUR PANCHAYAT UNION
+1 Sathampadi ST General
+2 Athipattu SC Women
+3 Kaplampadi SC Women
+4 Melmalayanur SC Women
+5 Devanthavadi SC General
+6 Kalathampattu SC General
+7 Kodampadi SC General
+8 Melacherry SC General
+9 Sinthipattu SC General
+10 Avalurpet General Women
+11 Edappattu General Women
+12 Eyyakunam General Women
+13 Kadappananthal General Women
+14 Kannalam General Women
+15 Kovilpuraiyur General Women
+16 Kottappoondi General Women
+17 Melpudupattu General Women
+18 Naranamangalam General Women
+19 Parayanthangal General Women
+20 Peruvalur General Women
+21 Sankilikuppam General Women
+22 Siruthalipoondi General Women
+23 Thenpalai General Women
+24 Gengapuram General Women
+25 Paruthipuram General Women
+26 Annamangalam General
+27 Devanur General
+28 Eyyil General
+29 Guduvampoondi General
+30 Kadali General
+31 Karadikuppam General
+32 Kodukankuppam General
+33 Kundalampattu General
+34 Marakkonam General
+35 Mananthal General
+36 Melarungunam General
+37 Melnemili General
+38 Melsevalampadi General
+39 Melvailamur General
+40 Nochalur General
+41 Parayampattu General
+42 Periyanolambai General
+43 Sathananthal General
+44 Sitheri General
+45 Sevalapurai General
+46 Sokkananthal General
+47 Thayanur General
+48 Thazhagunam General
+49 Thorapadi General
+50 Thurinjipoondi General
+51 Theppirampattu General
+52 Valathy General
+53 Vadapalai General
+54 Vadavetti General
+55 Vadugappoondi General
+KALLAKURICHI PANCHAYAT UNION
+1 Karadichithur SC Women
+2 Neelamangalam SC Women
+3 Palrampattu SC Women
+Page 29

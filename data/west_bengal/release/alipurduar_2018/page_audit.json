@@ -1,0 +1,5239 @@
+[
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/Falakata Rectified IB.PDF",
+    "source_page": 1,
+    "columns": 27,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "7ade25e0a8649a51f42f97aad4eba4768b832661a591eee0a2255932f3942c32",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE-IB PANCHAYAT SAMITI RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO PANCHAYAT SAMITI SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH 9\" PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IC.PDF",
+    "source_page": 1,
+    "columns": 27,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "f9396ea88fce0541ca8b22b7446af076cf05fcdee5a015d8326cacd0730ff9eb",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE:-IC ZILLA PARISHAD RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO ZILLA PARISHAD SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH G® PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IA.PDF",
+    "source_page": 1,
+    "columns": 27,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "cee41439672bb0c03c7c714df12080642bb1cc5003d9d3e207d6d22e0dfd8ce9",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE-IA GRAM PANCHAYAT RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO GRAM PANCHAYAT SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH 9” PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II ZP IC AND IIC.PDF",
+    "source_page": 1,
+    "columns": 10,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "52b709015ea77896a9b85d7eee1d776c71c8bd9b31a97e7982a20196dd9397f2",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE-IC ZILLA PARISHAD RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO ZILLA PARISHAD SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH 9\" PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II ZP IC AND IIC.PDF",
+    "source_page": 2,
+    "columns": 11,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "52b709015ea77896a9b85d7eee1d776c71c8bd9b31a97e7982a20196dd9397f2",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE - II-C PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS ZILLA PARISHAD NAME OF THE DISTRICT : ALIPURDUAR",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 1,
+    "columns": 27,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "outside_gp_detail",
+    "title": ". ANNEXURE-IA _ SRAM PANCHAYAT RESULT OF ELECTION : CONSOLIDATED RESULT OF ELECTION TO GRAM PANCHAYAT SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH 9\" PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 2,
+    "columns": 27,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE-IB PANCHAYAT SAMITI RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO PANCHAYAT SAMITI SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH G® PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 3,
+    "columns": 27,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE-IC ZILLA PARISHAD I RESULT OF ELECTION Q CONSOLIDATED RESULT OF ELECTION TO ZILLA PARISHAD SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH 9\" PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 4,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "D ANNEXURE - IIA PANCHAYAT GENERAL ELECTION-2018 ELECTION RESULTS : GRAM PANCHAYAT NAME OF THE BLOCK MADARIHAT-BIRPARA",
+    "status": "parsed",
+    "seat_rows": 6,
+    "candidate_rows": 12,
+    "rejected_bands": [
+      {
+        "bbox": [
+          640,
+          1090,
+          1026,
+          1150
+        ],
+        "serial": null,
+        "identity": "=",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          640,
+          1330,
+          1026,
+          1376
+        ],
+        "serial": null,
+        "identity": "E",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          640,
+          1610,
+          1026,
+          1630
+        ],
+        "serial": null,
+        "identity": "1a",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 5,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 22,
+    "rejected_bands": [
+      {
+        "bbox": [
+          640,
+          678,
+          1030,
+          722
+        ],
+        "serial": null,
+        "identity": "TES ER STE Re eee aI MSE cL Ee a ara",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 3,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "8cc45addc27ed1280457",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1860,
+            1876,
+            2318,
+            1936
+          ],
+          "original": "SUNITA KAMI",
+          "clean": "SUNITA KAMI",
+          "original_confidence": 92.703461,
+          "clean_confidence": 92.529999,
+          "column_text": "SUNITA KAMI",
+          "column_confidence": 92.916199
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2318,
+            1875,
+            2564,
+            1936
+          ],
+          "original": "AITC",
+          "clean": "AITC",
+          "original_confidence": 91.835289,
+          "clean_confidence": 91.809372,
+          "column_text": "AITC",
+          "column_confidence": 91.702141
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2564,
+            1874,
+            2831,
+            1937
+          ],
+          "original": "243",
+          "clean": "243",
+          "original_confidence": 95.797226,
+          "clean_confidence": 96.079803,
+          "column_text": "243",
+          "column_confidence": 96.586578
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "776827e96289f2e19d3a",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1860,
+            2174,
+            2318,
+            2235
+          ],
+          "original": "GOBIN KHARIYA",
+          "clean": "GOBIN KHARIYA",
+          "original_confidence": 88.593681,
+          "clean_confidence": 88.593681,
+          "column_text": "GOBIN KHARIYA",
+          "column_confidence": 92.274033
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2318,
+            2175,
+            2564,
+            2236
+          ],
+          "original": "BJP",
+          "clean": "BJP",
+          "original_confidence": 94.997017,
+          "clean_confidence": 94.997017,
+          "column_text": "BJP",
+          "column_confidence": 84.346771
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2564,
+            2176,
+            2831,
+            2236
+          ],
+          "original": "201",
+          "clean": "201",
+          "original_confidence": 96.220573,
+          "clean_confidence": 96.401657,
+          "column_text": "201",
+          "column_confidence": 96.642029
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 6,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 14,
+    "candidate_rows": 18,
+    "rejected_bands": [
+      {
+        "bbox": [
+          647,
+          538,
+          1032,
+          599
+        ],
+        "serial": null,
+        "identity": "=",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          647,
+          729,
+          1032,
+          772
+        ],
+        "serial": null,
+        "identity": "SS ae",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          647,
+          842,
+          1032,
+          902
+        ],
+        "serial": null,
+        "identity": "ee",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          647,
+          1202,
+          1032,
+          1262
+        ],
+        "serial": null,
+        "identity": "ee",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          647,
+          1502,
+          1032,
+          1562
+        ],
+        "serial": null,
+        "identity": "Ease",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          647,
+          1623,
+          1032,
+          1683
+        ],
+        "serial": null,
+        "identity": "ee",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          647,
+          1985,
+          1032,
+          2045
+        ],
+        "serial": null,
+        "identity": "ee",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          647,
+          2285,
+          1032,
+          2345
+        ],
+        "serial": null,
+        "identity": "= elm,",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 7,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 20,
+    "rejected_bands": [
+      {
+        "bbox": [
+          636,
+          791,
+          1024,
+          834
+        ],
+        "serial": null,
+        "identity": "SE Se",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          636,
+          1263,
+          1024,
+          1324
+        ],
+        "serial": 35,
+        "identity": "TOTOPARA-BALLALGURI",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          636,
+          1692,
+          1024,
+          1738
+        ],
+        "serial": null,
+        "identity": "a",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "02520b344d38b3382008",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1854,
+            1260,
+            2310,
+            1320
+          ],
+          "original": "ASHA BOMJAN",
+          "clean": "ASHA BOMJAN",
+          "original_confidence": 92.01004,
+          "clean_confidence": 80.108475,
+          "column_text": "ASHA BOMJAN",
+          "column_confidence": 91.389069
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2310,
+            1260,
+            2560,
+            1320
+          ],
+          "original": "AITC",
+          "clean": "AITC",
+          "original_confidence": 91.811699,
+          "clean_confidence": 89.948357,
+          "column_text": "AITC",
+          "column_confidence": 91.702538
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2560,
+            1260,
+            2822,
+            1321
+          ],
+          "original": "",
+          "clean": "",
+          "original_confidence": null,
+          "clean_confidence": null,
+          "column_text": "",
+          "column_confidence": null
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "c85f17a8ddfd53b4626e",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1854,
+            2223,
+            2310,
+            2283
+          ],
+          "original": "AJAY MOHAR",
+          "clean": "AJAY MOHAR",
+          "original_confidence": 90.873268,
+          "clean_confidence": 91.493248,
+          "column_text": "AJAY MOHAR",
+          "column_confidence": 91.32869
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2310,
+            2223,
+            2560,
+            2283
+          ],
+          "original": "BJP",
+          "clean": "BJP",
+          "original_confidence": 93.878334,
+          "clean_confidence": 92.269226,
+          "column_text": "BJP",
+          "column_confidence": 73.588951
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2560,
+            2223,
+            2822,
+            2284
+          ],
+          "original": "130",
+          "clean": "130",
+          "original_confidence": 96.533585,
+          "clean_confidence": 96.74469,
+          "column_text": "130",
+          "column_confidence": 96.316071
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "d19a2f52b4b2ae8381ef",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1854,
+            2283,
+            2310,
+            2343
+          ],
+          "original": "MINU KARJEE",
+          "clean": "MINU KARJEE",
+          "original_confidence": 91.05233,
+          "clean_confidence": 91.330971,
+          "column_text": "MINU KARJEE",
+          "column_confidence": 90.200615
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2310,
+            2283,
+            2560,
+            2344
+          ],
+          "original": "CPIM",
+          "clean": "CPIM",
+          "original_confidence": 96.739342,
+          "clean_confidence": 80.692848,
+          "column_text": "CPIM",
+          "column_confidence": 95.017181
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2560,
+            2284,
+            2822,
+            2344
+          ],
+          "original": "58",
+          "clean": "58",
+          "original_confidence": 96.854843,
+          "clean_confidence": 76.777634,
+          "column_text": "58",
+          "column_confidence": 96.705681
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 8,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 17,
+    "rejected_bands": [
+      {
+        "bbox": [
+          642,
+          361,
+          1030,
+          480
+        ],
+        "serial": null,
+        "identity": "inwinennny we",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          642,
+          480,
+          1030,
+          540
+        ],
+        "serial": null,
+        "identity": "a",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          642,
+          661,
+          1030,
+          721
+        ],
+        "serial": null,
+        "identity": "a",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          642,
+          843,
+          1030,
+          902
+        ],
+        "serial": null,
+        "identity": "“ Firion",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          642,
+          1380,
+          1030,
+          1442
+        ],
+        "serial": null,
+        "identity": "Ee eee",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          642,
+          1503,
+          1030,
+          1563
+        ],
+        "serial": null,
+        "identity": "SS",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          642,
+          1623,
+          1030,
+          1684
+        ],
+        "serial": null,
+        "identity": "eee",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          642,
+          1993,
+          1030,
+          2037
+        ],
+        "serial": null,
+        "identity": "ab oh Mager alc a",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          642,
+          2164,
+          1030,
+          2224
+        ],
+        "serial": null,
+        "identity": "eee",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "2ea7a500ebcb6514f9ea",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1856,
+            363,
+            2312,
+            422
+          ],
+          "original": "RAKHI THAPA (NEWAR)",
+          "clean": "RAKHI THAPA (NEWAR)",
+          "original_confidence": 91.854485,
+          "clean_confidence": 90.853348,
+          "column_text": "RAKHI THAPA (NEWAR)",
+          "column_confidence": 91.145737
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2312,
+            364,
+            2562,
+            424
+          ],
+          "original": "IND",
+          "clean": "IND",
+          "original_confidence": 96.894302,
+          "clean_confidence": 96.758179,
+          "column_text": "IND",
+          "column_confidence": 96.891068
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2562,
+            365,
+            2829,
+            424
+          ],
+          "original": "38",
+          "clean": "38",
+          "original_confidence": 96.291389,
+          "clean_confidence": 95.060547,
+          "column_text": "38",
+          "column_confidence": 96.257072
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "b30ca3265cb899f1959b",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1856,
+            422,
+            2312,
+            482
+          ],
+          "original": "SANJAY KARII",
+          "clean": "SANJAY KARII",
+          "original_confidence": 77.68602,
+          "clean_confidence": 83.513145,
+          "column_text": "SANJAY KARII",
+          "column_confidence": 85.913597
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2312,
+            424,
+            2562,
+            483
+          ],
+          "original": "AITC",
+          "clean": "AITC",
+          "original_confidence": 91.859772,
+          "clean_confidence": 90.53521,
+          "column_text": "AITC",
+          "column_confidence": 89.952614
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2562,
+            424,
+            2829,
+            484
+          ],
+          "original": "350",
+          "clean": "350",
+          "original_confidence": 96.159569,
+          "clean_confidence": 96.544571,
+          "column_text": "350",
+          "column_confidence": 96.849586
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "b03f9ca259c8f8c2fa49",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1856,
+            1806,
+            2312,
+            1866
+          ],
+          "original": "ARPAN GHISING",
+          "clean": "ARPAN GHISING",
+          "original_confidence": 91.318787,
+          "clean_confidence": 91.272484,
+          "column_text": "ARPAN GHISING",
+          "column_confidence": 92.312279
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2312,
+            1807,
+            2562,
+            1870
+          ],
+          "original": "BJP",
+          "clean": "BJP",
+          "original_confidence": 71.938492,
+          "clean_confidence": 70.140999,
+          "column_text": "BJP",
+          "column_confidence": 78.729446
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2562,
+            1808,
+            2829,
+            1872
+          ],
+          "original": "263",
+          "clean": "263",
+          "original_confidence": 96.664192,
+          "clean_confidence": 96.282501,
+          "column_text": "263",
+          "column_confidence": 96.639168
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "07c814845795767f16c2",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1856,
+            2286,
+            2312,
+            2346
+          ],
+          "original": "SITA LOHAR",
+          "clean": "SITA LOHAR",
+          "original_confidence": 91.370506,
+          "clean_confidence": 90.649055,
+          "column_text": "SITA LOHAR",
+          "column_confidence": 91.623405
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2312,
+            2287,
+            2562,
+            2347
+          ],
+          "original": "AITC",
+          "clean": "AITC",
+          "original_confidence": 90.649849,
+          "clean_confidence": 91.101601,
+          "column_text": "AITC",
+          "column_confidence": 92.093315
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2562,
+            2288,
+            2829,
+            2348
+          ],
+          "original": "201",
+          "clean": "201",
+          "original_confidence": 96.289398,
+          "clean_confidence": 95.93644,
+          "column_text": "201",
+          "column_confidence": 95.93644
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 9,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 7,
+    "candidate_rows": 20,
+    "rejected_bands": [
+      {
+        "bbox": [
+          638,
+          600,
+          1025,
+          660
+        ],
+        "serial": null,
+        "identity": "ee",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          638,
+          1610,
+          1025,
+          1683
+        ],
+        "serial": null,
+        "identity": "=",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          638,
+          1876,
+          1025,
+          1924
+        ],
+        "serial": null,
+        "identity": "E",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "a5f909141c3d8d952df5",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1854,
+            1199,
+            2312,
+            1259
+          ],
+          "original": "|ASHOK RAY",
+          "clean": "ASHOK RAY",
+          "original_confidence": 57.456821,
+          "clean_confidence": 91.951149,
+          "column_text": "ASHOK RAY",
+          "column_confidence": 92.086021
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2312,
+            1199,
+            2562,
+            1259
+          ],
+          "original": "AITC",
+          "clean": "AITC",
+          "original_confidence": 91.749657,
+          "clean_confidence": 91.146973,
+          "column_text": "AITC",
+          "column_confidence": 91.081604
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2562,
+            1198,
+            2823,
+            1259
+          ],
+          "original": "164",
+          "clean": "164",
+          "original_confidence": 95.448135,
+          "clean_confidence": 96.80632,
+          "column_text": "164",
+          "column_confidence": 95.569954
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "ba2131201db2f758feb8",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1854,
+            1378,
+            2312,
+            1438
+          ],
+          "original": "RITA RAY (BABY)",
+          "clean": "RITA RAY (BABY)",
+          "original_confidence": 96.854225,
+          "clean_confidence": 96.217468,
+          "column_text": "RITA RAY (BABY)",
+          "column_confidence": 96.113556
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2312,
+            1378,
+            2562,
+            1438
+          ],
+          "original": "CPIM",
+          "clean": "CPIM",
+          "original_confidence": 87.330383,
+          "clean_confidence": 86.228676,
+          "column_text": "CPIM",
+          "column_confidence": 93.372116
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2562,
+            1378,
+            2823,
+            1438
+          ],
+          "original": "36",
+          "clean": "36",
+          "original_confidence": 96.743561,
+          "clean_confidence": 96.750435,
+          "column_text": "36",
+          "column_confidence": 95.25618
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "c178859eb60305860be2",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1854,
+            1618,
+            2312,
+            1680
+          ],
+          "original": "SHEFALI ROY",
+          "clean": "SHEFALI ROY",
+          "original_confidence": 40.957623,
+          "clean_confidence": 90.322464,
+          "column_text": "SHEFALI ROY",
+          "column_confidence": 61.937939
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2312,
+            1618,
+            2562,
+            1680
+          ],
+          "original": "",
+          "clean": "BJP",
+          "original_confidence": null,
+          "clean_confidence": 94.062744,
+          "column_text": "BJP",
+          "column_confidence": 87.429977
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2562,
+            1618,
+            2823,
+            1679
+          ],
+          "original": "",
+          "clean": "46",
+          "original_confidence": null,
+          "clean_confidence": 95.880196,
+          "column_text": "46",
+          "column_confidence": 96.628563
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "78ed23fd4f0e16885be5",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1854,
+            2280,
+            2312,
+            2340
+          ],
+          "original": "ANJILA ORAON",
+          "clean": "ANJILA ORAON",
+          "original_confidence": 91.478493,
+          "clean_confidence": 38.516197,
+          "column_text": "ANJILA ORAON",
+          "column_confidence": 91.477707
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2312,
+            2280,
+            2562,
+            2340
+          ],
+          "original": "CPIM",
+          "clean": "cPIM",
+          "original_confidence": 96.887817,
+          "clean_confidence": 76.97757,
+          "column_text": "CPIM",
+          "column_confidence": 94.058273
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2562,
+            2280,
+            2823,
+            2340
+          ],
+          "original": "54",
+          "clean": "54",
+          "original_confidence": 96.388939,
+          "clean_confidence": 96.374359,
+          "column_text": "54",
+          "column_confidence": 96.577324
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 10,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 7,
+    "candidate_rows": 21,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "97893946c2789e1cbf86",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1853,
+            361,
+            2310,
+            420
+          ],
+          "original": "SUDHA RANI ORAON",
+          "clean": "SUDHA RANI ORAON",
+          "original_confidence": 92.87339,
+          "clean_confidence": 89.24147,
+          "column_text": "SUDHA RANI ORAON",
+          "column_confidence": 92.835609
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2310,
+            360,
+            2560,
+            420
+          ],
+          "original": "RSP",
+          "clean": "RSP",
+          "original_confidence": 96.195961,
+          "clean_confidence": 96.956909,
+          "column_text": "RSP",
+          "column_confidence": 96.759476
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2560,
+            360,
+            2826,
+            420
+          ],
+          "original": "23",
+          "clean": "23",
+          "original_confidence": 96.714699,
+          "clean_confidence": 95.900841,
+          "column_text": "23",
+          "column_confidence": 95.160049
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "f92e06e0aa1bafc2e6fb",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1853,
+            1622,
+            2310,
+            1683
+          ],
+          "original": "ABHUIT SAHA (BURA)",
+          "clean": "ABHUIT SAHA (BURA) ‘",
+          "original_confidence": 75.546356,
+          "clean_confidence": 9.158478,
+          "column_text": "ABHUIT SAHA (BURA)",
+          "column_confidence": 41.632904
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2310,
+            1622,
+            2560,
+            1682
+          ],
+          "original": "IND",
+          "clean": "IND",
+          "original_confidence": 93.778763,
+          "clean_confidence": 93.601868,
+          "column_text": "IND",
+          "column_confidence": 96.740303
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2560,
+            1619,
+            2826,
+            1682
+          ],
+          "original": "71",
+          "clean": "_e",
+          "original_confidence": 96.532486,
+          "clean_confidence": 0.0,
+          "column_text": "tt",
+          "column_confidence": 7.232122
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "82ed1aa37b9758953acb",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1853,
+            2284,
+            2310,
+            2344
+          ],
+          "original": "DULAL DAS",
+          "clean": "DULAL DAS",
+          "original_confidence": 93.069962,
+          "clean_confidence": 92.311653,
+          "column_text": "DULAL DAS",
+          "column_confidence": 91.986649
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2310,
+            2283,
+            2560,
+            2343
+          ],
+          "original": "CPIM",
+          "clean": "CPIM",
+          "original_confidence": 96.255287,
+          "clean_confidence": 96.104515,
+          "column_text": "CPIM",
+          "column_confidence": 76.253418
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2560,
+            2283,
+            2826,
+            2344
+          ],
+          "original": "23",
+          "clean": "23",
+          "original_confidence": 96.545189,
+          "clean_confidence": 96.744377,
+          "column_text": "23",
+          "column_confidence": 95.43615
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 11,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 24,
+    "rejected_bands": [
+      {
+        "bbox": [
+          638,
+          1878,
+          1025,
+          1921
+        ],
+        "serial": null,
+        "identity": "ii Pa",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 2,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "aa6ca660cd1280f463c0",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1855,
+            2166,
+            2312,
+            2226
+          ],
+          "original": "PARIMAL KARII",
+          "clean": "PARIMAL KARII",
+          "original_confidence": 24.608765,
+          "clean_confidence": 43.8507,
+          "column_text": "PARIMAL KARJI",
+          "column_confidence": 83.311729
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2312,
+            2166,
+            2561,
+            2226
+          ],
+          "original": "AITC",
+          "clean": "AITC",
+          "original_confidence": 90.557304,
+          "clean_confidence": 90.544518,
+          "column_text": "AITC",
+          "column_confidence": 85.866302
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2561,
+            2166,
+            2824,
+            2226
+          ],
+          "original": "579",
+          "clean": "579",
+          "original_confidence": 94.058769,
+          "clean_confidence": 94.976257,
+          "column_text": "579",
+          "column_confidence": 96.855782
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 12,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 25,
+    "rejected_bands": [
+      {
+        "bbox": [
+          638,
+          1029,
+          1023,
+          1089
+        ],
+        "serial": null,
+        "identity": "i",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          638,
+          1629,
+          1023,
+          1689
+        ],
+        "serial": null,
+        "identity": "oe",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          638,
+          1819,
+          1023,
+          1861
+        ],
+        "serial": null,
+        "identity": "a",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          638,
+          2050,
+          1023,
+          2109
+        ],
+        "serial": null,
+        "identity": "ee",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 13,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 23,
+    "rejected_bands": [
+      {
+        "bbox": [
+          642,
+          737,
+          1032,
+          798
+        ],
+        "serial": null,
+        "identity": "aoa",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          642,
+          1100,
+          1032,
+          1159
+        ],
+        "serial": null,
+        "identity": "a",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          642,
+          1378,
+          1032,
+          1399
+        ],
+        "serial": null,
+        "identity": "i nee",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 14,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 21,
+    "rejected_bands": [
+      {
+        "bbox": [
+          648,
+          1152,
+          1034,
+          1212
+        ],
+        "serial": null,
+        "identity": "6",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          648,
+          1332,
+          1034,
+          1374
+        ],
+        "serial": null,
+        "identity": "ey",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          648,
+          1522,
+          1034,
+          1565
+        ],
+        "serial": null,
+        "identity": "22 Ey ee",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          648,
+          1875,
+          1034,
+          1934
+        ],
+        "serial": null,
+        "identity": "f",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "85c4baeff10bc6629760",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1863,
+            1872,
+            2320,
+            1932
+          ],
+          "original": "SUSENA PAUL CHOWDHURY",
+          "clean": "SUSENA PAULCHOWDHURY",
+          "original_confidence": 92.955093,
+          "clean_confidence": 77.605957,
+          "column_text": "SUSENA PAUL CHOWDHURY",
+          "column_confidence": 92.348854
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2320,
+            1872,
+            2570,
+            1932
+          ],
+          "original": "CPIM",
+          "clean": "—_—CPIM",
+          "original_confidence": 87.208031,
+          "clean_confidence": 44.078426,
+          "column_text": "CPIM",
+          "column_confidence": 22.126045
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2570,
+            1874,
+            2832,
+            1931
+          ],
+          "original": "160",
+          "clean": "cae",
+          "original_confidence": 96.935921,
+          "clean_confidence": 26.935177,
+          "column_text": "—",
+          "column_confidence": 9.422054
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "f2359e47c589db9ec7f4",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1863,
+            2292,
+            2320,
+            2353
+          ],
+          "original": "DINESH CHANDRA GHOSH",
+          "clean": "DINESH CHANDRA GHOSH",
+          "original_confidence": 91.924324,
+          "clean_confidence": 92.520966,
+          "column_text": "DINESH CHANDRA GHOSH",
+          "column_confidence": 91.968292
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2320,
+            2292,
+            2570,
+            2352
+          ],
+          "original": "INC",
+          "clean": "INC",
+          "original_confidence": 95.931046,
+          "clean_confidence": 90.786446,
+          "column_text": "INC",
+          "column_confidence": 84.554749
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2570,
+            2292,
+            2832,
+            2352
+          ],
+          "original": "95",
+          "clean": "95",
+          "original_confidence": 96.991463,
+          "clean_confidence": 95.749603,
+          "column_text": "95",
+          "column_confidence": 95.749603
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 15,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 20,
+    "rejected_bands": [
+      {
+        "bbox": [
+          642,
+          1372,
+          1031,
+          1386
+        ],
+        "serial": 4,
+        "identity": "dl",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          642,
+          1626,
+          1031,
+          1679
+        ],
+        "serial": null,
+        "identity": "ese",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "b48f5087cfe7ef2b1ece",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1861,
+            1623,
+            2318,
+            1684
+          ],
+          "original": "JITEN CHHETRI",
+          "clean": "JITEN CHHETRI",
+          "original_confidence": 92.328308,
+          "clean_confidence": 51.869728,
+          "column_text": "JITEN CHHETRI",
+          "column_confidence": 83.279396
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2318,
+            1623,
+            2562,
+            1683
+          ],
+          "original": "AITC",
+          "clean": "AITC",
+          "original_confidence": 90.146217,
+          "clean_confidence": 92.703773,
+          "column_text": "AITC",
+          "column_confidence": 91.958817
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2562,
+            1621,
+            2830,
+            1683
+          ],
+          "original": "569",
+          "clean": "569",
+          "original_confidence": 96.829308,
+          "clean_confidence": 96.787186,
+          "column_text": "569",
+          "column_confidence": 96.830353
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "9365ca1e449a55a14c3f",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1861,
+            2284,
+            2318,
+            2345
+          ],
+          "original": "FULATIBALA BARMAN",
+          "clean": "FULATIBALA BARMAN",
+          "original_confidence": 90.516556,
+          "clean_confidence": 54.64006,
+          "column_text": "FULATIBALA BARMAN",
+          "column_confidence": 90.972847
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2318,
+            2284,
+            2562,
+            2344
+          ],
+          "original": "RSP",
+          "clean": "RSP",
+          "original_confidence": 96.403023,
+          "clean_confidence": 94.824913,
+          "column_text": "RSP",
+          "column_confidence": 96.382195
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2562,
+            2284,
+            2830,
+            2344
+          ],
+          "original": "106",
+          "clean": "106",
+          "original_confidence": 96.908646,
+          "clean_confidence": 94.808647,
+          "column_text": "106",
+          "column_confidence": 95.731117
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 16,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 22,
+    "rejected_bands": [
+      {
+        "bbox": [
+          641,
+          1153,
+          1028,
+          1213
+        ],
+        "serial": null,
+        "identity": "i",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "5d733af07c233b7d800f",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1854,
+            2292,
+            2312,
+            2352
+          ],
+          "original": "JYOTSNA TIGGA",
+          "clean": "JYOTSNATIGGA",
+          "original_confidence": 91.320778,
+          "clean_confidence": 48.342937,
+          "column_text": "JYOTSNA TIGGA",
+          "column_confidence": 90.412933
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2312,
+            2290,
+            2564,
+            2351
+          ],
+          "original": "AITC",
+          "clean": "AITC",
+          "original_confidence": 91.221382,
+          "clean_confidence": 91.541824,
+          "column_text": "AITC",
+          "column_confidence": 91.13485
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2564,
+            2290,
+            2828,
+            2351
+          ],
+          "original": "229",
+          "clean": "229",
+          "original_confidence": 96.195892,
+          "clean_confidence": 96.975128,
+          "column_text": "229",
+          "column_confidence": 96.344391
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 17,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 25,
+    "rejected_bands": [
+      {
+        "bbox": [
+          638,
+          562,
+          1026,
+          604
+        ],
+        "serial": null,
+        "identity": "ij SE",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 18,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 7,
+    "candidate_rows": 25,
+    "rejected_bands": [
+      {
+        "bbox": [
+          636,
+          366,
+          1022,
+          425
+        ],
+        "serial": null,
+        "identity": "eee",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          636,
+          606,
+          1022,
+          666
+        ],
+        "serial": null,
+        "identity": "a",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          636,
+          848,
+          1022,
+          908
+        ],
+        "serial": null,
+        "identity": "ee",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          636,
+          1208,
+          1022,
+          1268
+        ],
+        "serial": null,
+        "identity": "Gee",
+        "reason": "constituency_id_unresolved"
+      },
+      {
+        "bbox": [
+          636,
+          2290,
+          1022,
+          2349
+        ],
+        "serial": null,
+        "identity": "oS",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 2,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 19,
+    "columns": 11,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 1,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 1,
+    "candidate_rows": 3,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 3,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 20,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 2,
+    "candidate_rows": 7,
+    "rejected_bands": [
+      {
+        "bbox": [
+          640,
+          862,
+          1027,
+          904
+        ],
+        "serial": null,
+        "identity": "Mics Casa a ae Te SE",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 21,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE - II-B PANCHAYAT GENERAL ELECTIONS. 2018 : F ELECTION RESULTS PANCHAYAT SAMITI É NAME OF THE BLOCK",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 22,
+    "columns": 13,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "outside_gp_detail",
+    "title": "I 5 | MADARIHAT-BIRPARA HANTAPARA / PS-11 TRIBE _ 5325 ANJU LOPCHAN AITC 0 I S2GE SEE SS EE ES EE EE EE ES EEE EEE SEES EE EE EE I KALI LOHAR RSP 279 B 12 MADARINAT-BIRPARA MADARIHAT / PS-12 — 5240 3999 270 TAAL SAIBA AITC 1558 SANTOSH KARJEE BUP : . I SANTOSH KARJEE BJP 1892 : 5 13 MADARIHAT-BIRPARA MADARIHAT / PS-13 CASTE WON |! WANG 253S BARORI ) VE SEAL RE CHAINA MAJUMDAR BUP WIBIETIIES JHUMA DAS AITC 1610 ( BAROR! ) : SHILA BARMAN CPI(M) 457 ; BINOD CHHETRI BJP 2189 ‘ 14 MADARIHAT-BIRPARA MADARIHAT / PS-14 XX 6370 5063 299 BHARAT DEO RANA CPKM) 766 BINOD-CHHETRI BJP ORE | __ SHAMBHU SHARMA AITC 1809 : KAZI SHAH ALAM IND 1689 15 MADARIHAT-BIRPARA KHAIRBARI / PS-15 X 5115 4426 249 RASHIDUL ALAM AITC 2379 RASHIDUL ALAM AITC SWARNA SIABA KAR. RSP 109 AGAMANI : BARMAN(RAY) BJP 1486 PRATIMA RAY SANDHYA SINGHA 16 MZ2=MAT-BIRPARA KHAIRBARI / PS-16 WOMEN 4283 3688 230 CPI 379 AITC (MAN). = BARMAN",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 23,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "outside_gp_detail",
+    "title": "? ;",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+    "source_page": 24,
+    "columns": 11,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+    "office_scope": "outside_gp_detail",
+    "title": ": ANNEXURE -II-C F PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS ZILLA PARISHAD NAME OF THE DISTRICT “",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/District IC IIC/Anex_II_C.PDF",
+    "source_page": 1,
+    "columns": 11,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "0a9bb716d21cd45071252fdb330930e9bb2faed70c3ef12a3e8927e91e4a7372",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE - II-C PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESUTLS ZILLA PARISHAD NAME OF THE DISTRICT :: ALIPURDUAR",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/District IC IIC/Anex_II_C.PDF",
+    "source_page": 2,
+    "columns": 10,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 2,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "0a9bb716d21cd45071252fdb330930e9bb2faed70c3ef12a3e8927e91e4a7372",
+    "office_scope": "outside_gp_detail",
+    "title": "",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/District IC IIC/Anex_II_C.PDF",
+    "source_page": 3,
+    "columns": 11,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "0a9bb716d21cd45071252fdb330930e9bb2faed70c3ef12a3e8927e91e4a7372",
+    "office_scope": "outside_gp_detail",
+    "title": "",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/District IC IIC/Anex_II_C.PDF",
+    "source_page": 4,
+    "columns": 11,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "0a9bb716d21cd45071252fdb330930e9bb2faed70c3ef12a3e8927e91e4a7372",
+    "office_scope": "outside_gp_detail",
+    "title": "",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP PS ZP IA IB AND IC.PDF",
+    "source_page": 1,
+    "columns": 27,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "31728b90ddaae450a322e7dc0d82c586d0a20d24641091e98690650077f183ce",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE-IA GRAMIPANCHAYAT RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO GRAM PANCHAYAT SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH 9\" PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP PS ZP IA IB AND IC.PDF",
+    "source_page": 2,
+    "columns": 19,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "31728b90ddaae450a322e7dc0d82c586d0a20d24641091e98690650077f183ce",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE-IB PANCHAYAT SAMITI RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO PANCHAYAT SAMITI SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH 9\" PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP PS ZP IA IB AND IC.PDF",
+    "source_page": 3,
+    "columns": 27,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "31728b90ddaae450a322e7dc0d82c586d0a20d24641091e98690650077f183ce",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXU RE-IC ZILLA PARISHAD RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO ZILLA PARISHAD SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH G\"\" PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR ZP IC AND IIC.PDF",
+    "source_page": 1,
+    "columns": -1,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b93cfcbbcadd2f3c86b20710e3ab6430d54ef1f0bee017bee043c09c5ccea75",
+    "office_scope": "outside_gp_detail",
+    "title": "",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR ZP IC AND IIC.PDF",
+    "source_page": 2,
+    "columns": 11,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b93cfcbbcadd2f3c86b20710e3ab6430d54ef1f0bee017bee043c09c5ccea75",
+    "office_scope": "outside_gp_detail",
+    "title": "ME PHE ANNEXURE - HL-C (LY AZ) PANCHAYAT GENERAL ELECTIONS, 2018 I S$! TE ¢| ELECTION RESULTS KO\\ =, & ZILLA PARISHAD O\\ AIO\" / NAME OF THE DISTRICT : KUMAH%SM™ ._ <",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IIC.PDF",
+    "source_page": 1,
+    "columns": 11,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "67ee53224520e436b764e4f2500fe38bda8fae4da115433bcc5202c1dd8ac73a",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE - II-C PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS ZILLA PARISHAD NAME OF THE DISTRICT",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IIC.PDF",
+    "source_page": 2,
+    "columns": 11,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "67ee53224520e436b764e4f2500fe38bda8fae4da115433bcc5202c1dd8ac73a",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE DISTRICT",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 1,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "ANNEXURE - IIA PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 4,
+    "candidate_rows": 12,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 2,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 25,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 3,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 23,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 4,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 23,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "5543189f28d24a61dec0",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            2046,
+            1879,
+            2563,
+            1950
+          ],
+          "original": "Nilmani (Sarkar) Biswas",
+          "clean": "Nilmani (Sarkar) Biswas",
+          "original_confidence": 90.723091,
+          "clean_confidence": 93.143944,
+          "column_text": "Nilmani (Sarkar) Biswas",
+          "column_confidence": 91.546822
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2563,
+            1914,
+            2842,
+            1952
+          ],
+          "original": "BJP",
+          "clean": "BIP",
+          "original_confidence": 93.743172,
+          "clean_confidence": 72.945465,
+          "column_text": "BJP",
+          "column_confidence": 93.689865
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2842,
+            1912,
+            3096,
+            1952
+          ],
+          "original": "406",
+          "clean": "406",
+          "original_confidence": 94.390663,
+          "clean_confidence": 95.037048,
+          "column_text": "406",
+          "column_confidence": 96.859337
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 5,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 6,
+    "candidate_rows": 19,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 6,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 7,
+    "candidate_rows": 21,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 2,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 7,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 24,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 2,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 8,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 6,
+    "candidate_rows": 24,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 9,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 23,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "9bc392b24400a937ba52",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            2034,
+            1865,
+            2552,
+            1936
+          ],
+          "original": "UKIL CHANDRA BHUIMALI",
+          "clean": "UKIL CHANDRA BHUIMALI",
+          "original_confidence": 83.480835,
+          "clean_confidence": 83.480835,
+          "column_text": "UKIL CHANDRA BHUIMALI",
+          "column_confidence": 91.209923
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2552,
+            1865,
+            2832,
+            1936
+          ],
+          "original": "IND",
+          "clean": "IND",
+          "original_confidence": 96.457909,
+          "clean_confidence": 96.417068,
+          "column_text": "IND",
+          "column_confidence": 95.751564
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2832,
+            1865,
+            3086,
+            1937
+          ],
+          "original": "19",
+          "clean": "19",
+          "original_confidence": 96.839363,
+          "clean_confidence": 96.562668,
+          "column_text": "19",
+          "column_confidence": 95.984268
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 10,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 23,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 11,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 5,
+    "candidate_rows": 15,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 12,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 25,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 13,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 7,
+    "candidate_rows": 23,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 14,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 7,
+    "candidate_rows": 23,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 15,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 24,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 16,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 24,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 17,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 7,
+    "candidate_rows": 24,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 2,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 18,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 23,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "dd763462fb8193105fd3",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            2038,
+            1722,
+            2556,
+            1794
+          ],
+          "original": "AMULLYA BARMAN",
+          "clean": "AMULLYA BARMAN",
+          "original_confidence": 92.786156,
+          "clean_confidence": 92.184074,
+          "column_text": "AMULLYA BARMAN",
+          "column_confidence": 92.132278
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2556,
+            1722,
+            2832,
+            1793
+          ],
+          "original": "AITC",
+          "clean": "AITC",
+          "original_confidence": 92.245766,
+          "clean_confidence": 93.229164,
+          "column_text": "AITC",
+          "column_confidence": 91.431686
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2832,
+            1722,
+            3090,
+            1794
+          ],
+          "original": "548",
+          "clean": "548",
+          "original_confidence": 95.649094,
+          "clean_confidence": 88.555756,
+          "column_text": "548",
+          "column_confidence": 96.561348
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 19,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 6,
+    "candidate_rows": 24,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 20,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 3,
+    "candidate_rows": 11,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 21,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 25,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 22,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 5,
+    "candidate_rows": 21,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 23,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 23,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 24,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 24,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 2,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 25,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 5,
+    "candidate_rows": 15,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 26,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 25,
+    "rejected_bands": [
+      {
+        "bbox": [
+          545,
+          406,
+          960,
+          451
+        ],
+        "serial": 1,
+        "identity": "8",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 27,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 6,
+    "candidate_rows": 24,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 28,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 25,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA GP IIA.PDF",
+    "source_page": 29,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "de4a5b9cce211c608d8f46496192a5a1deefa67c179db581b994b9683467bd5c",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK FALAKATA",
+    "status": "parsed",
+    "seat_rows": 5,
+    "candidate_rows": 15,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 1,
+    "columns": 27,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "outside_gp_detail",
+    "title": "(GA CN ‘AIL ON A VEN OO, F OM ASH ANNEXURE-IA SRAM PANCHAYAT. SEAM EE” RESULT OF ELECTION ; CONSOLIDATED RESULT OF ELECTION TO GRAM PANCHAYAT SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH GI\" PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 2,
+    "columns": 10,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 2,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "F2/ WAY = «|\\S\\ ANNEXURE - IIA | RAD AY | | | @ | COP | OI PANCHAYAT GENERAL ELECTIONS, 2018 VE ALIPURDUAR / OF ELECTION RESULTS YY? > —~* CHIN ED GRAM PANCHAYAT NAME OF THE BLOCK : KUMARGRAM",
+    "status": "parsed",
+    "seat_rows": 12,
+    "candidate_rows": 30,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 3,
+    "columns": 10,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 2,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "UE 6 SIRE OL NAME-OI! THE BREES KUMARGRAM",
+    "status": "parsed",
+    "seat_rows": 11,
+    "candidate_rows": 35,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 4,
+    "columns": 10,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 2,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "VA = % SY ; 2 \\\\ NAME OFT E BLOEK2IK UMA \\GTAM",
+    "status": "parsed",
+    "seat_rows": 12,
+    "candidate_rows": 35,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 5,
+    "columns": 10,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 2,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "FAE ON BE AS OF 6 = %. RO) ’ > \\ NARIGE| THE BIE? KUMBRGRAM",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 25,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 6
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 6,
+    "columns": 10,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 2,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE ‘BLACK : KUIITGRAM LOU",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 26,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 7
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 7,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE |SLOCK (KITINARGRAND)",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 26,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 8,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "RE WE Y ON HA / TIES => NAME OF TIE BLOCK IGGYMARG AM \\",
+    "status": "parsed",
+    "seat_rows": 11,
+    "candidate_rows": 36,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 9,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "HE = . A SY S FS/ “EEE = \\2\\ NAME OF THE , TACK 3 KUGIAGGRAM LOD",
+    "status": "parsed",
+    "seat_rows": 11,
+    "candidate_rows": 35,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 10,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "7 Q? “— % \\ “I @ SEA NE \\ I OO. VEE’ P NAME OF THE BIOGK : KUNFARGEAM |",
+    "status": "parsed",
+    "seat_rows": 14,
+    "candidate_rows": 32,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 11,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "IC / BE NO NAME OFTHE BLOCK * KLUMARGIATE * E\\",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 29,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 12,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "IF 8 ~ SE™N FJ “— / ERE > OS, NAME OF THE BLOCK : KIMARGRASY 5. SEEK",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 30,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 5
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 13,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "(FEL) F NE RS QED 2» \\F Y F (I \\E\\ NAME OFTHE BIOCK, | RUIMARGEAAY LOL",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 32,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 3
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 14,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK : KUIMARGRAM3 YE N",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 31,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR GP IA AND IIA.PDF",
+    "source_page": 15,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "d5929eff785447c72aa3f6c2299a29bb195dedf9d31822c6461c0e64a16360d6",
+    "office_scope": "gp_member",
+    "title": "CNA EE\" LHE WAR AL , FE \\ RY, TE =6(\\G NI | FTHE HEE’ KK R@IHRAM",
+    "status": "parsed",
+    "seat_rows": 11,
+    "candidate_rows": 33,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 4
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 1,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "ANNEXURE - IA PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS GRAM PANCHAYAT NAME OF THE BLOCK - ALIPURDUAR-II",
+    "status": "parsed",
+    "seat_rows": 6,
+    "candidate_rows": 21,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 2,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-II",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 27,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 3,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-II",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 26,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 4,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-II",
+    "status": "parsed",
+    "seat_rows": 4,
+    "candidate_rows": 12,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 5,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-II",
+    "status": "parsed",
+    "seat_rows": 17,
+    "candidate_rows": 41,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 6,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-II",
+    "status": "parsed",
+    "seat_rows": 5,
+    "candidate_rows": 18,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 7,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-II",
+    "status": "parsed",
+    "seat_rows": 17,
+    "candidate_rows": 43,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 8,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-II",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 31,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 9,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR:-II",
+    "status": "parsed",
+    "seat_rows": 7,
+    "candidate_rows": 24,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 10,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-II",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 28,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 11,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-I!",
+    "status": "parsed",
+    "seat_rows": 18,
+    "candidate_rows": 47,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 12,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-II",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 21,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 13,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-H]",
+    "status": "parsed",
+    "seat_rows": 11,
+    "candidate_rows": 37,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 2
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 14,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-II",
+    "status": "parsed",
+    "seat_rows": 18,
+    "candidate_rows": 49,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II GP IIA.PDF",
+    "source_page": 15,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c23e10bbe9da55bd5c660dbb34a4587cbeed72e927a9e0a4819b95487c5736cf",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-II",
+    "status": "parsed",
+    "seat_rows": 12,
+    "candidate_rows": 32,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI ZP IC AND IIC.PDF",
+    "source_page": 1,
+    "columns": 27,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "333268e99c74a91f6a8d1c6c6e50ec7a8411a9e10f96bc749c815b891a3f717d",
+    "office_scope": "outside_gp_detail",
+    "title": "AN NEXU RE-IC ZILLA PARISHAD RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO ZILLA PARISHAD SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH 9\" PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI ZP IC AND IIC.PDF",
+    "source_page": 2,
+    "columns": 11,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "333268e99c74a91f6a8d1c6c6e50ec7a8411a9e10f96bc749c815b891a3f717d",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE - II-C PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS ZILLA PARISHAD NAME OF THE DISTRICT ALIPURDUAR.",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 1,
+    "columns": 26,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE-IA GREMIESNCHAYET RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO GRAM PANCHAYAT SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH 9\" PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 2,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "ANNEXURE - IIA PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS GRAM PANCHAYAT NAME OF THE BLOCK : KALCHINI",
+    "status": "parsed",
+    "seat_rows": 7,
+    "candidate_rows": 26,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 3,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 13,
+    "candidate_rows": 35,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 4,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 31,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 2,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 5,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 14,
+    "candidate_rows": 36,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "e3737534ceea634c356e",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1694,
+            2354,
+            2164,
+            2408
+          ],
+          "original": "JAYA BAHADUR RAI",
+          "clean": "JAYA BAHADUR RAI",
+          "original_confidence": 82.968758,
+          "clean_confidence": 92.077255,
+          "column_text": "JAYA BAHADUR RAI",
+          "column_confidence": 92.323601
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2164,
+            2354,
+            2374,
+            2408
+          ],
+          "original": "BJP",
+          "clean": "BJP",
+          "original_confidence": 96.878014,
+          "clean_confidence": 95.873695,
+          "column_text": "BJP",
+          "column_confidence": 89.58091
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2374,
+            2354,
+            2574,
+            2408
+          ],
+          "original": "367",
+          "clean": "367",
+          "original_confidence": 96.411232,
+          "clean_confidence": 96.666603,
+          "column_text": "367",
+          "column_confidence": 96.830986
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 6,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 30,
+    "rejected_bands": [
+      {
+        "bbox": [
+          530,
+          406,
+          924,
+          462
+        ],
+        "serial": null,
+        "identity": "wun wei wry",
+        "reason": "constituency_id_unresolved"
+      }
+    ],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "6359b6665b9be580a977",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1712,
+            410,
+            2185,
+            464
+          ],
+          "original": "REETA CHHETRI",
+          "clean": "REETA CHHETRI",
+          "original_confidence": 91.115829,
+          "clean_confidence": 54.260902,
+          "column_text": "REETA CHHETRI",
+          "column_confidence": 85.737274
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2185,
+            408,
+            2390,
+            464
+          ],
+          "original": "AITC",
+          "clean": "ATC",
+          "original_confidence": 70.459572,
+          "clean_confidence": 33.976143,
+          "column_text": "AITC",
+          "column_confidence": 92.803139
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2390,
+            408,
+            2590,
+            464
+          ],
+          "original": "208",
+          "clean": "208",
+          "original_confidence": 95.856041,
+          "clean_confidence": 96.542183,
+          "column_text": "208",
+          "column_confidence": 96.950195
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 7,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 33,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 8,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 34,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "21fc8e30ad6086e3ce00",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1700,
+            2357,
+            2174,
+            2410
+          ],
+          "original": "KRITILATA KUJUR",
+          "clean": "KRITILATA KUJUR",
+          "original_confidence": 92.631516,
+          "clean_confidence": 92.599518,
+          "column_text": "KRITILATA KUJUR",
+          "column_confidence": 91.140884
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2174,
+            2356,
+            2385,
+            2410
+          ],
+          "original": "AITC",
+          "clean": "AITC",
+          "original_confidence": 90.596466,
+          "clean_confidence": 90.634338,
+          "column_text": "AITC",
+          "column_confidence": 89.841057
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2385,
+            2356,
+            2582,
+            2410
+          ],
+          "original": "196",
+          "clean": "196",
+          "original_confidence": 96.947227,
+          "clean_confidence": 96.933746,
+          "column_text": "196",
+          "column_confidence": 96.963028
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 9,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 12,
+    "candidate_rows": 32,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 10,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 12,
+    "candidate_rows": 35,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 11,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 34,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 12,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 14,
+    "candidate_rows": 34,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 13,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 12,
+    "candidate_rows": 34,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 14,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 12,
+    "candidate_rows": 33,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 2,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 15,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 11,
+    "candidate_rows": 33,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 16,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 12,
+    "candidate_rows": 36,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 17,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 13,
+    "candidate_rows": 34,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI GP  IA AND IIA.PDF",
+    "source_page": 18,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "2b464310bd66efa39b8cbe583ef26c837305507395a5cbbd0a8944715da41874",
+    "office_scope": "gp_member",
+    "title": "",
+    "status": "parsed",
+    "seat_rows": 2,
+    "candidate_rows": 5,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR PS IB AND IIB PART2.PDF",
+    "source_page": 1,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "571f3c5bd4a47c4057b029f1c26f0dd043a82d2b3f7c8c4978fb8ccb48762695",
+    "office_scope": "outside_gp_detail",
+    "title": "VES SP SE, \\ NAME OF TN BG KUMARGRAM BLOCK 16 BIRD ,2IH",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR PS IB AND IIB PART2.PDF",
+    "source_page": 2,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "571f3c5bd4a47c4057b029f1c26f0dd043a82d2b3f7c8c4978fb8ccb48762695",
+    "office_scope": "outside_gp_detail",
+    "title": "OA AT AN | FI FIG LON IDAME OF THE BLOCK II ON",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IA.PDF",
+    "source_page": 1,
+    "columns": 27,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "223116f5e34c72d88739a00aa548eac0cc57e1f08216558f4fc9e2dcb9b86a1c",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE-IA GRAM PANGHAYAT RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO GRAM PANCHAYAT SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH GT PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR PS IB AND IIB.PDF",
+    "source_page": 1,
+    "columns": 28,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "975c9b245ea0187c326d4274b3750d5f66ac26d2b64fc81277db5df28039b0d3",
+    "office_scope": "outside_gp_detail",
+    "title": "Y) OY OAK . ST BL ED 4 ANNEXURE:-IB PANCHAYAT SAMITI \\O AE CA PE SF RESULT OF ELECTION = _.-=~ CONSOLIDATED RESULT OF ELECTION TO PANCHAYAT SAMITI SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH 9\" PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR PS IB AND IIB.PDF",
+    "source_page": 2,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "975c9b245ea0187c326d4274b3750d5f66ac26d2b64fc81277db5df28039b0d3",
+    "office_scope": "outside_gp_detail",
+    "title": "HE OGRE \\? \\ ANNEXURE - II-B = / OF TAO 2\\\\ FF: 1 ADE EI PANCHAYAT GENERAL ELECTIONS, 2018 NZM PENE JOT ELECTION RESULTS I EY PANCHAYAT SAMITI NAME OF THE BLOCK: KAHARYRENRTI. BLOCK",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR PS IB AND IIB PART3.PDF",
+    "source_page": 1,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "4589ce4995003666aed53d552a56b91078feb7b162c1206c6e6b97295c7208d5",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK:,KUMARGRAM DEV. BLOCK",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/Falakata IIB.PDF",
+    "source_page": 1,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "9cfdc984ce03e6daa5424ee3d0a18c0d46049b8d3369792d2e4268a78b534112",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE - II-B PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS PANCHAYAT SAMITI NAME OF THE BLOCK :FALAKATA",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/Falakata IIB.PDF",
+    "source_page": 2,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "9cfdc984ce03e6daa5424ee3d0a18c0d46049b8d3369792d2e4268a78b534112",
+    "office_scope": "outside_gp_detail",
+    "title": "",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/Falakata IIB.PDF",
+    "source_page": 3,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "9cfdc984ce03e6daa5424ee3d0a18c0d46049b8d3369792d2e4268a78b534112",
+    "office_scope": "outside_gp_detail",
+    "title": "",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/Falakata IIB.PDF",
+    "source_page": 4,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "9cfdc984ce03e6daa5424ee3d0a18c0d46049b8d3369792d2e4268a78b534112",
+    "office_scope": "outside_gp_detail",
+    "title": "",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/Falakata IIB.PDF",
+    "source_page": 5,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "9cfdc984ce03e6daa5424ee3d0a18c0d46049b8d3369792d2e4268a78b534112",
+    "office_scope": "outside_gp_detail",
+    "title": "",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/FALAKATA/FALAKATA ZP IIC.PDF",
+    "source_page": 1,
+    "columns": 11,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "59cbce79552cfc9f63e32afff46c730054ff509f4fe6258354a5ed16d17c5b91",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE - II-C PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESUTLS ZILLA PARISHAD NAME OF THE DISTRICT :: ALIPURDUAR",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II PS IB AND IIB.PDF",
+    "source_page": 1,
+    "columns": 27,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "3e827a794ed7edd4a6b8353b180aca93c63af471cdb8a9294842d222e1d65e90",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE-IB PANCHAYAT SAMITI RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO PANCHAYAT SAMITI SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH 9\" PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II PS IB AND IIB.PDF",
+    "source_page": 2,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "3e827a794ed7edd4a6b8353b180aca93c63af471cdb8a9294842d222e1d65e90",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE - II-B PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS PANCHAYAT SAMITI NAME OF THE BLOCK: ALIPURDUAR-II",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II PS IB AND IIB.PDF",
+    "source_page": 3,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "3e827a794ed7edd4a6b8353b180aca93c63af471cdb8a9294842d222e1d65e90",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK: ALIPURDUAR:-II",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II PS IB AND IIB.PDF",
+    "source_page": 4,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "3e827a794ed7edd4a6b8353b180aca93c63af471cdb8a9294842d222e1d65e90",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK: ALIPURDUAR:II",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-II/APD-II PS IB AND IIB.PDF",
+    "source_page": 5,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "3e827a794ed7edd4a6b8353b180aca93c63af471cdb8a9294842d222e1d65e90",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK: ALIPURDUAR-II",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KAL ZP IIC.PDF",
+    "source_page": 1,
+    "columns": 11,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "aa9aa2350273ba015b41ef657f64f20c8ba579accc296535bdc057c5bace1b98",
+    "office_scope": "outside_gp_detail",
+    "title": "_ CORRIGENDUM COPY | ANNEXURE - II-C PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS ZILLA PARISHAD NAME OF THE DISTRICT ALIPURDUAR.",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI PS IB AND IIB.PDF",
+    "source_page": 1,
+    "columns": 27,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "280e1e3d6167a47db52178b0b2fd082d318771a07d3fc78f8ae05715ce8922c9",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE-IB PANCHAYAT SAMITI RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO PANCHAYAT SAMITI SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH 9 PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI PS IB AND IIB.PDF",
+    "source_page": 2,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "280e1e3d6167a47db52178b0b2fd082d318771a07d3fc78f8ae05715ce8922c9",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE - II-B PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS PANCHAYAT SAMITI KGLEBIN? NAME OF THE BLOCK KGAA) /9) 1",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI PS IB AND IIB.PDF",
+    "source_page": 3,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "280e1e3d6167a47db52178b0b2fd082d318771a07d3fc78f8ae05715ce8922c9",
+    "office_scope": "outside_gp_detail",
+    "title": "SHIB TIGGA (ORAON) INC 434",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KALCHINI/KALCHINI PS IB AND IIB.PDF",
+    "source_page": 4,
+    "columns": 11,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "280e1e3d6167a47db52178b0b2fd082d318771a07d3fc78f8ae05715ce8922c9",
+    "office_scope": "outside_gp_detail",
+    "title": "",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR PS IB AND IIB PART1.PDF",
+    "source_page": 1,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c4c410742823792623b4ec4ee0b0dd8af42aea09e7f84fd5960ef321603cb033",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK; KUMARGJAM DEY’ BLOCK",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/KUMARGRAM/KUMAR PS IB AND IIB PART1.PDF",
+    "source_page": 2,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "c4c410742823792623b4ec4ee0b0dd8af42aea09e7f84fd5960ef321603cb033",
+    "office_scope": "outside_gp_detail",
+    "title": "WISE) A CAN IDAME OF THE BLOCK: KUFNARDTAM DEVABLOCK \\> | .",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/District IC IIC/Anex_I_C.PDF",
+    "source_page": 1,
+    "columns": 19,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "6f736d144430a877eb022ccc35adc523d47c101b28d8624add9703d7e91dd75a",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE- IC RESULT OF ELECTION ZILLA PARISHAD CONSOLIADATED RESULT OF ELECTION TO ZILLA PARISHAD SEATS WITH PARTY WISE BREAK UP IN CONNECTION WITH 9TH PANCHAYAT GENERAL ELECTION, 2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 1,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "ANNEXURE - IIA PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS GRAM PANCHAYAT NAME OF THE BLOCK ALIPURDUAR-!",
+    "status": "parsed",
+    "seat_rows": 4,
+    "candidate_rows": 13,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 2,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-!",
+    "status": "parsed",
+    "seat_rows": 5,
+    "candidate_rows": 16,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 3,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-!",
+    "status": "parsed",
+    "seat_rows": 5,
+    "candidate_rows": 15,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 4,
+    "columns": 11,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 1,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-I",
+    "status": "parsed",
+    "seat_rows": 6,
+    "candidate_rows": 17,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 5,
+    "columns": 11,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 1,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-!",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 20,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 6,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 1,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-|",
+    "status": "parsed",
+    "seat_rows": 7,
+    "candidate_rows": 22,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 7,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-!",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 16,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 8,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-I",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 17,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 9,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-!",
+    "status": "parsed",
+    "seat_rows": 6,
+    "candidate_rows": 17,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 10,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-|",
+    "status": "parsed",
+    "seat_rows": 10,
+    "candidate_rows": 11,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 11,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-I",
+    "status": "parsed",
+    "seat_rows": 6,
+    "candidate_rows": 21,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "97aacd5ad677b1d6fb6b",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1899,
+            1898,
+            2391,
+            1944
+          ],
+          "original": "PRASENJIT BISWAS",
+          "clean": "PRASENJIT BISWAS",
+          "original_confidence": 89.284874,
+          "clean_confidence": 90.367798,
+          "column_text": "PRASENJIT BISWAS",
+          "column_confidence": 88.534653
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2391,
+            1898,
+            2632,
+            1944
+          ],
+          "original": "IND",
+          "clean": "IND",
+          "original_confidence": 95.009644,
+          "clean_confidence": 96.318817,
+          "column_text": "IND",
+          "column_confidence": 94.627304
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2632,
+            1897,
+            2798,
+            1944
+          ],
+          "original": "110",
+          "clean": "110",
+          "original_confidence": 96.370224,
+          "clean_confidence": 96.388344,
+          "column_text": "110",
+          "column_confidence": 96.269394
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "b043ad9476bc0934c565",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1899,
+            1944,
+            2391,
+            1992
+          ],
+          "original": "PRAHLAD BARMAN",
+          "clean": "PRAHLAD BARMAN",
+          "original_confidence": 92.994667,
+          "clean_confidence": 92.420486,
+          "column_text": "PRAHLAD BARMAN",
+          "column_confidence": 92.164856
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2391,
+            1944,
+            2632,
+            1990
+          ],
+          "original": "cPu(M)",
+          "clean": "cPyMm)",
+          "original_confidence": 0.999298,
+          "clean_confidence": 0.0,
+          "column_text": "cPi(M)",
+          "column_confidence": 0.0
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2632,
+            1944,
+            2798,
+            1990
+          ],
+          "original": "122",
+          "clean": "122",
+          "original_confidence": 95.861023,
+          "clean_confidence": 96.259491,
+          "column_text": "122",
+          "column_confidence": 95.7444
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "e97da26a5cc5d67e6742",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1899,
+            1992,
+            2391,
+            2038
+          ],
+          "original": "MANOTI BARMAN",
+          "clean": "MANOTI BARMAN",
+          "original_confidence": 92.409325,
+          "clean_confidence": 92.187576,
+          "column_text": "MANOTI BARMAN",
+          "column_confidence": 90.628242
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2391,
+            1990,
+            2632,
+            2037
+          ],
+          "original": "AITC",
+          "clean": "AITC",
+          "original_confidence": 91.180656,
+          "clean_confidence": 85.913429,
+          "column_text": "AITC",
+          "column_confidence": 91.758804
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2632,
+            1990,
+            2798,
+            2036
+          ],
+          "original": "496",
+          "clean": "496",
+          "original_confidence": 96.609055,
+          "clean_confidence": 96.131111,
+          "column_text": "496",
+          "column_confidence": 96.344528
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "eae3e160fe5229a882ca",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1899,
+            2038,
+            2391,
+            2083
+          ],
+          "original": " |SARESHACHANDRA ROY",
+          "clean": "SARESHACHANDRA ROY",
+          "original_confidence": 27.301016,
+          "clean_confidence": 76.410103,
+          "column_text": "SARESHACHANDRA ROY",
+          "column_confidence": 78.958305
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2391,
+            2037,
+            2632,
+            2082
+          ],
+          "original": "IND",
+          "clean": "IND",
+          "original_confidence": 96.798782,
+          "clean_confidence": 96.506866,
+          "column_text": "IND",
+          "column_confidence": 93.716141
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2632,
+            2036,
+            2798,
+            2082
+          ],
+          "original": "9",
+          "clean": "9",
+          "original_confidence": 96.203651,
+          "clean_confidence": 96.268997,
+          "column_text": "9",
+          "column_confidence": 93.741585
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 12,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-!",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 26,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [
+      {
+        "candidate_row_id": "3e78dd7366efddcc7231",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1916,
+            646,
+            2410,
+            742
+          ],
+          "original": "HEMANTA KUMAR BARMAN",
+          "clean": "HEMANTA KUMAR BARMAN",
+          "original_confidence": 92.913452,
+          "clean_confidence": 92.913918,
+          "column_text": "HEMANTA KUMAR BARMAN",
+          "column_confidence": 92.913918
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2410,
+            645,
+            2646,
+            741
+          ],
+          "original": "INC",
+          "clean": "INC",
+          "original_confidence": 96.345131,
+          "clean_confidence": 92.927551,
+          "column_text": "INC",
+          "column_confidence": 96.877678
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2646,
+            646,
+            2812,
+            741
+          ],
+          "original": "14",
+          "clean": "14",
+          "original_confidence": 95.368515,
+          "clean_confidence": 96.680611,
+          "column_text": "14",
+          "column_confidence": 96.782333
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      },
+      {
+        "candidate_row_id": "e5ae847bdc05ac9f24ce",
+        "candidate_cell": {
+          "column": 7,
+          "bbox": [
+            1916,
+            2060,
+            2410,
+            2106
+          ],
+          "original": "DEBEN BARMAN",
+          "clean": "DEBEN BARMAN",
+          "original_confidence": 92.894661,
+          "clean_confidence": 93.089104,
+          "column_text": "DEBEN BARMAN",
+          "column_confidence": 54.960575
+        },
+        "party_cell": {
+          "column": 8,
+          "bbox": [
+            2410,
+            2060,
+            2646,
+            2106
+          ],
+          "original": "BP",
+          "clean": "ByP",
+          "original_confidence": 0.0,
+          "clean_confidence": 40.039772,
+          "column_text": "BJP",
+          "column_confidence": 94.276787
+        },
+        "votes_cell": {
+          "column": 9,
+          "bbox": [
+            2646,
+            2060,
+            2812,
+            2106
+          ],
+          "original": "411",
+          "clean": "411",
+          "original_confidence": 96.311394,
+          "clean_confidence": 93.252075,
+          "column_text": "411",
+          "column_confidence": 96.264618
+        },
+        "reason": "seat_band_unresolved_or_page_continuation"
+      }
+    ],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 13,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-I",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 21,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 14,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-|",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 26,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 15,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-L",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 27,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 1
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 16,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-I",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 30,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 17,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-I",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 23,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 18,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-I",
+    "status": "parsed",
+    "seat_rows": 9,
+    "candidate_rows": 29,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 19,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-|",
+    "status": "parsed",
+    "seat_rows": 11,
+    "candidate_rows": 28,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 0,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/APD-I IIA.PDF",
+    "source_page": 20,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b1c7dd2fbdbb46365231f387536f364fc3b2f5b99b4c7c241867ddc593382b50",
+    "office_scope": "gp_member",
+    "title": "NAME OF THE BLOCK ALIPURDUAR-L",
+    "status": "parsed",
+    "seat_rows": 8,
+    "candidate_rows": 26,
+    "rejected_bands": [],
+    "joined_constituency_fragments": 1,
+    "unassigned_candidate_bands": [],
+    "seat_numbers_unresolved": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+    "source_page": 1,
+    "columns": 8,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b75ee19efec3b1dace3b31f485950ddd1bcc21ada6a9cdba29638bae3c484eb3",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE:-IB PANCHAYAT SAMITI RESULT OF ELECTION CONSOLIDATED RESULT OF ELECTION TO PANCHAYAT SAMITI SEATS WITH PARTY-WISE BREAK UP IN CONNECTION WITH G” PANCHAYAT GENERAL ELECTION-2018",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+    "source_page": 2,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b75ee19efec3b1dace3b31f485950ddd1bcc21ada6a9cdba29638bae3c484eb3",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-L",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+    "source_page": 3,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b75ee19efec3b1dace3b31f485950ddd1bcc21ada6a9cdba29638bae3c484eb3",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-|",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+    "source_page": 4,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b75ee19efec3b1dace3b31f485950ddd1bcc21ada6a9cdba29638bae3c484eb3",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-|",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+    "source_page": 5,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b75ee19efec3b1dace3b31f485950ddd1bcc21ada6a9cdba29638bae3c484eb3",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-|",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+    "source_page": 6,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b75ee19efec3b1dace3b31f485950ddd1bcc21ada6a9cdba29638bae3c484eb3",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-I",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+    "source_page": 7,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b75ee19efec3b1dace3b31f485950ddd1bcc21ada6a9cdba29638bae3c484eb3",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-L SI.NO. NAME OF GRAM NO. & NAME OF PS RESERVATION NUMBER OF NAME OF CONTESTING PARTY AFFILIATION VOTESSECURED NAME OF THE WINNING PARTY PANCHAYAT CONSTITUENCY WITH SEAT NO. STATUS ELECTORS VOTES POLLED VOTES CANDIDATES CANDIDATE AFFILIATION (SC/SCWIST REJECTED",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+    "source_page": 8,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b75ee19efec3b1dace3b31f485950ddd1bcc21ada6a9cdba29638bae3c484eb3",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-L",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+    "source_page": 9,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b75ee19efec3b1dace3b31f485950ddd1bcc21ada6a9cdba29638bae3c484eb3",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-I",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+    "source_page": 10,
+    "columns": 12,
+    "trailing_non_table_columns": 1,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b75ee19efec3b1dace3b31f485950ddd1bcc21ada6a9cdba29638bae3c484eb3",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-|",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+    "source_page": 11,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b75ee19efec3b1dace3b31f485950ddd1bcc21ada6a9cdba29638bae3c484eb3",
+    "office_scope": "outside_gp_detail",
+    "title": "ANNEXURE - II-B PANCHAYAT GENERAL ELECTIONS, 2018 ELECTION RESULTS PANCHAYAT SAMITI NAME OF THE BLOCK - ALIPURDUAR-I",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  },
+  {
+    "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/APD-I/ANX-IB.PDF",
+    "source_page": 12,
+    "columns": 12,
+    "trailing_non_table_columns": 0,
+    "missing_leading_columns": 0,
+    "empty_narrow_columns_removed": 0,
+    "source_sha256": "b75ee19efec3b1dace3b31f485950ddd1bcc21ada6a9cdba29638bae3c484eb3",
+    "office_scope": "outside_gp_detail",
+    "title": "NAME OF THE BLOCK - ALIPURDUAR-I",
+    "status": "not_gp_detail",
+    "seat_rows": 0,
+    "candidate_rows": 0,
+    "rejected_bands": []
+  }
+]

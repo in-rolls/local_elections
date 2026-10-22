@@ -1,0 +1,50 @@
+1 2 3
+KAMMAPURAM PANCHAYAT UNION Contd
+5 T. Pavalangudi SC (Women)
+6 Su. Keenanur SC(General)
+7 Keelpathi SC(General)
+8 Seplanatham (South) SC(General)
+9 Palakkollai SC(General)
+10 Sathapadi SC(General)
+11 Vadakkuvellore SC(General)
+12 Keelapalaiyur SC(General)
+13 Palayapattinam SC(General)
+14 A. Valliyam SC(General)
+15 Karmangudi General (Women)
+16 Kolliruppu General (Women)
+17 Neyveli General (Women)
+18 Marungur General (Women)
+19 Melapaliyur General (Women)
+20 Irulakuruchi General (Women)
+21 U. Kolapakkam General (Women)
+22 C. Keeranur General (Women)
+23 Kottumulai General (Women)
+24 Ko. Adhanur General (Women)
+25 Iruppu General (Women)
+26 Koonankuruchi General (Women)
+27 Manakollai General (Women)
+28 Kavanur General
+29 Iruppukuruchi General
+30 Devangudi General
+31 Kumaramangalam General
+32 Peruvarappur General
+33 Mudhanai General
+34 Uthangal General
+35 Melpathi General
+36 Periyakappankulam General
+37 Mudapuli General
+38 Gopalapuram General
+39 Kotteri General
+40 Nadiyappatu General
+41 Kammapuram General
+42 Periyakuruchi General
+43 Ammeri General
+44 Uyyakondaravi General
+45 Kottagam General
+46 Ko. Mavidanthal General
+47 U. Adhanur General
+48 Tholur General
+49 U. Mangalam General
+50 Tharmanallur General
+51 Siruvarappur General
+52 Mummudicholagan General

@@ -1,0 +1,238 @@
+{
+  "ocr_pages": 1523,
+  "coverage": {
+    "candidate_rows": 1046,
+    "raw_only": 458,
+    "verified_nondata": 19
+  },
+  "pages_with_any_reservation_field": 689,
+  "raw_only_distinct_documents": 149,
+  "reason_counts": {
+    "candidate_rows_require_field_review": 1046,
+    "ps_named_identifier_tokens_missing_split_or_corrupted": 43,
+    "gp_name_or_printed_allocation_not_read_or_split": 54,
+    "gp_header_and_explicit_named_seat_readings_insufficient": 315,
+    "zp_ocr_semantic_layout_not_implemented": 13,
+    "unit_and_named_seat_readings_insufficient": 33,
+    "visually_verified_order_cover": 18,
+    "visually_verified_signature_only": 1
+  },
+  "groups": [
+    {
+      "district": "Alipurduar",
+      "year": "2018",
+      "layout": "gp_form_a",
+      "pages": 58,
+      "raw_only_pages": 26,
+      "pages_with_any_reservation_field": 29,
+      "gp_candidates": 110,
+      "other_tier_candidates": 0,
+      "candidate_rows_pages": 32
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2018",
+      "layout": "ps_form_b",
+      "pages": 14,
+      "candidate_rows_pages": 6,
+      "pages_with_any_reservation_field": 4,
+      "gp_candidates": 0,
+      "other_tier_candidates": 27,
+      "raw_only_pages": 8
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2018",
+      "layout": "unclassified_schedule",
+      "pages": 30,
+      "raw_only_pages": 20,
+      "pages_with_any_reservation_field": 10,
+      "gp_candidates": 67,
+      "other_tier_candidates": 0,
+      "candidate_rows_pages": 10
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2018",
+      "layout": "zp_member_schedule",
+      "pages": 2,
+      "raw_only_pages": 2,
+      "pages_with_any_reservation_field": 0,
+      "gp_candidates": 0,
+      "other_tier_candidates": 0
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2023",
+      "layout": "gp_form_a",
+      "pages": 153,
+      "candidate_rows_pages": 129,
+      "pages_with_any_reservation_field": 80,
+      "gp_candidates": 855,
+      "other_tier_candidates": 0,
+      "raw_only_pages": 24
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2023",
+      "layout": "ps_form_b",
+      "pages": 34,
+      "candidate_rows_pages": 25,
+      "pages_with_any_reservation_field": 23,
+      "gp_candidates": 0,
+      "other_tier_candidates": 112,
+      "raw_only_pages": 9
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2023",
+      "layout": "unclassified_schedule",
+      "pages": 1,
+      "raw_only_pages": 1,
+      "pages_with_any_reservation_field": 0,
+      "gp_candidates": 0,
+      "other_tier_candidates": 0
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2023",
+      "layout": "zp_member_schedule",
+      "pages": 2,
+      "raw_only_pages": 2,
+      "pages_with_any_reservation_field": 0,
+      "gp_candidates": 0,
+      "other_tier_candidates": 0
+    },
+    {
+      "district": "Birbhum",
+      "year": "2023",
+      "layout": "gp_form_a",
+      "pages": 240,
+      "candidate_rows_pages": 240,
+      "pages_with_any_reservation_field": 142,
+      "gp_candidates": 2580,
+      "other_tier_candidates": 0
+    },
+    {
+      "district": "Cooch Behar",
+      "year": "2018",
+      "layout": "gp_form_a",
+      "pages": 2,
+      "raw_only_pages": 2,
+      "pages_with_any_reservation_field": 0,
+      "gp_candidates": 0,
+      "other_tier_candidates": 0
+    },
+    {
+      "district": "Cooch Behar",
+      "year": "2018",
+      "layout": "ps_form_b",
+      "pages": 3,
+      "raw_only_pages": 3,
+      "pages_with_any_reservation_field": 0,
+      "gp_candidates": 0,
+      "other_tier_candidates": 0
+    },
+    {
+      "district": "Cooch Behar",
+      "year": "2023",
+      "layout": "gp_form_a",
+      "pages": 335,
+      "raw_only_pages": 154,
+      "pages_with_any_reservation_field": 86,
+      "gp_candidates": 886,
+      "other_tier_candidates": 0,
+      "candidate_rows_pages": 180,
+      "verified_nondata_pages": 1
+    },
+    {
+      "district": "Cooch Behar",
+      "year": "2023",
+      "layout": "ps_form_b",
+      "pages": 43,
+      "verified_nondata_pages": 1,
+      "pages_with_any_reservation_field": 23,
+      "gp_candidates": 0,
+      "other_tier_candidates": 139,
+      "candidate_rows_pages": 28,
+      "raw_only_pages": 14
+    },
+    {
+      "district": "Jalpaiguri",
+      "year": "2023",
+      "layout": "gp_form_a",
+      "pages": 204,
+      "candidate_rows_pages": 57,
+      "pages_with_any_reservation_field": 12,
+      "gp_candidates": 313,
+      "other_tier_candidates": 0,
+      "raw_only_pages": 130,
+      "verified_nondata_pages": 17
+    },
+    {
+      "district": "Malda",
+      "year": "2013",
+      "layout": "gp_form_a",
+      "pages": 312,
+      "candidate_rows_pages": 279,
+      "pages_with_any_reservation_field": 229,
+      "gp_candidates": 1475,
+      "other_tier_candidates": 0,
+      "raw_only_pages": 33
+    },
+    {
+      "district": "Malda",
+      "year": "2013",
+      "layout": "ps_form_b",
+      "pages": 69,
+      "candidate_rows_pages": 60,
+      "pages_with_any_reservation_field": 51,
+      "gp_candidates": 0,
+      "other_tier_candidates": 271,
+      "raw_only_pages": 9
+    },
+    {
+      "district": "Malda",
+      "year": "2013",
+      "layout": "unclassified_schedule",
+      "pages": 10,
+      "raw_only_pages": 10,
+      "pages_with_any_reservation_field": 0,
+      "gp_candidates": 0,
+      "other_tier_candidates": 0
+    },
+    {
+      "district": "Malda",
+      "year": "2013",
+      "layout": "zp_member_schedule",
+      "pages": 4,
+      "raw_only_pages": 4,
+      "pages_with_any_reservation_field": 0,
+      "gp_candidates": 0,
+      "other_tier_candidates": 0
+    },
+    {
+      "district": "South 24 Parganas",
+      "year": "2018",
+      "layout": "unclassified_schedule",
+      "pages": 2,
+      "raw_only_pages": 2,
+      "pages_with_any_reservation_field": 0,
+      "gp_candidates": 0,
+      "other_tier_candidates": 0
+    },
+    {
+      "district": "South 24 Parganas",
+      "year": "2018",
+      "layout": "zp_member_schedule",
+      "pages": 5,
+      "raw_only_pages": 5,
+      "pages_with_any_reservation_field": 0,
+      "gp_candidates": 0,
+      "other_tier_candidates": 0
+    }
+  ],
+  "page_ledger": "data/wb/derived/ward_schedules/semantic_backlog.csv",
+  "baseline": "data/wb/derived/ward_schedules/semantic_backlog_baseline.csv",
+  "quality_claim": "Candidate coverage is not complete semantic parsing. OCR names/codes require review; null fields remain unresolved. Raw-only reasons are parser diagnostics except explicitly source-verified nondata pages."
+}

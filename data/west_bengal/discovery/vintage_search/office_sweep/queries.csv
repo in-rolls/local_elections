@@ -1,0 +1,145 @@
+district,host,term,status,rows,truncated,detail
+Alipurduar,alipurduar.gov.in,2008,answered,0,False,0 documents
+Alipurduar,alipurduar.gov.in,2013,answered,0,False,0 documents
+Alipurduar,alipurduar.gov.in,2018,answered,70,False,29 documents
+Alipurduar,alipurduar.nic.in,2008,answered,0,False,0 documents
+Alipurduar,alipurduar.nic.in,2013,answered,0,False,0 documents
+Alipurduar,alipurduar.nic.in,2018,answered,0,False,0 documents
+Bankura,bankura.gov.in,2008,answered,58,False,43 documents
+Bankura,bankura.gov.in,2013,answered,181,False,162 documents
+Bankura,bankura.gov.in,2018,answered,191,False,45 documents
+Bankura,bankura.nic.in,2008,answered,51,False,35 documents
+Bankura,bankura.nic.in,2013,answered,75,False,65 documents
+Bankura,bankura.nic.in,2018,answered,73,False,55 documents
+Birbhum,birbhum.gov.in,2008,answered,5,False,0 documents
+Birbhum,birbhum.gov.in,2013,answered,40,False,27 documents
+Birbhum,birbhum.gov.in,2018,answered,165,False,150 documents
+Birbhum,birbhum.nic.in,2008,answered,22,False,15 documents
+Birbhum,birbhum.nic.in,2013,answered,9,False,4 documents
+Birbhum,birbhum.nic.in,2018,answered,53,False,36 documents
+Cooch Behar,coochbehar.gov.in,2008,answered,168,False,123 documents
+Cooch Behar,coochbehar.gov.in,2013,answered,73,False,36 documents
+Cooch Behar,coochbehar.gov.in,2018,answered,255,False,201 documents
+Cooch Behar,coochbehar.nic.in,2008,answered,174,False,125 documents
+Cooch Behar,coochbehar.nic.in,2013,answered,74,False,25 documents
+Cooch Behar,coochbehar.nic.in,2018,answered,330,False,262 documents
+Dakshin Dinajpur,ddinajpur.gov.in,2008,answered,2,False,0 documents
+Dakshin Dinajpur,ddinajpur.gov.in,2013,answered,0,False,0 documents
+Dakshin Dinajpur,ddinajpur.gov.in,2018,answered,0,False,0 documents
+Dakshin Dinajpur,ddinajpur.nic.in,2008,answered,116,False,76 documents
+Dakshin Dinajpur,ddinajpur.nic.in,2013,answered,27,False,4 documents
+Dakshin Dinajpur,ddinajpur.nic.in,2018,answered,284,False,10 documents
+Darjeeling,darjeeling.gov.in,2008,answered,19,False,17 documents
+Darjeeling,darjeeling.gov.in,2013,answered,139,False,129 documents
+Darjeeling,darjeeling.gov.in,2018,answered,186,False,71 documents
+Darjeeling,darjeeling.nic.in,2008,answered,0,False,0 documents
+Darjeeling,darjeeling.nic.in,2013,answered,0,False,0 documents
+Darjeeling,darjeeling.nic.in,2018,answered,0,False,0 documents
+Hooghly,hooghly.gov.in,2008,answered,34,False,2 documents
+Hooghly,hooghly.gov.in,2013,answered,174,False,112 documents
+Hooghly,hooghly.gov.in,2018,answered,156,False,122 documents
+Hooghly,hooghly.nic.in,2008,answered,8,False,0 documents
+Hooghly,hooghly.nic.in,2013,answered,23,False,0 documents
+Hooghly,hooghly.nic.in,2018,answered,2,False,2 documents
+Howrah,howrah.gov.in,2008,answered,8,False,4 documents
+Howrah,howrah.gov.in,2013,answered,7,False,3 documents
+Howrah,howrah.gov.in,2018,answered,152,False,122 documents
+Howrah,howrah.nic.in,2008,answered,0,False,0 documents
+Howrah,howrah.nic.in,2013,answered,0,False,0 documents
+Howrah,howrah.nic.in,2018,answered,0,False,0 documents
+Jalpaiguri,jalpaiguri.gov.in,2008,answered,1,False,0 documents
+Jalpaiguri,jalpaiguri.gov.in,2013,answered,37,False,26 documents
+Jalpaiguri,jalpaiguri.gov.in,2018,answered,188,False,151 documents
+Jalpaiguri,jalpaiguri.nic.in,2008,answered,0,False,0 documents
+Jalpaiguri,jalpaiguri.nic.in,2013,answered,2,False,1 documents
+Jalpaiguri,jalpaiguri.nic.in,2018,answered,2,False,0 documents
+Jhargram,jhargram.gov.in,2008,answered,0,False,0 documents
+Jhargram,jhargram.gov.in,2013,answered,0,False,0 documents
+Jhargram,jhargram.gov.in,2018,answered,654,False,0 documents
+Kalimpong,kalimpong.gov.in,2008,answered,0,False,0 documents
+Kalimpong,kalimpong.gov.in,2013,answered,0,False,0 documents
+Kalimpong,kalimpong.gov.in,2018,answered,0,False,0 documents
+Malda,malda.gov.in,2008,answered,0,False,0 documents
+Malda,malda.gov.in,2013,answered,238,False,233 documents
+Malda,malda.gov.in,2018,answered,328,False,304 documents
+Malda,malda.nic.in,2008,answered,22,False,21 documents
+Malda,malda.nic.in,2013,answered,194,False,190 documents
+Malda,malda.nic.in,2018,answered,35,False,25 documents
+Murshidabad,murshidabad.gov.in,2008,answered,9,False,7 documents
+Murshidabad,murshidabad.gov.in,2013,answered,17,False,7 documents
+Murshidabad,murshidabad.gov.in,2018,answered,18,False,9 documents
+Murshidabad,murshidabad.nic.in,2008,answered,42,False,30 documents
+Murshidabad,murshidabad.nic.in,2013,answered,13,False,5 documents
+Murshidabad,murshidabad.nic.in,2018,answered,15,False,8 documents
+Nadia,nadia.gov.in,2008,answered,12,False,9 documents
+Nadia,nadia.gov.in,2013,answered,4956,False,4876 documents
+Nadia,nadia.gov.in,2018,answered,290,False,273 documents
+Nadia,nadia.nic.in,2008,answered,567,False,519 documents
+Nadia,nadia.nic.in,2013,answered,4879,False,4814 documents
+Nadia,nadia.nic.in,2018,answered,113,False,102 documents
+North 24 Parganas,north24parganas.gov.in,2008,answered,14,False,0 documents
+North 24 Parganas,north24parganas.gov.in,2013,answered,76,False,34 documents
+North 24 Parganas,north24parganas.gov.in,2018,answered,300,False,130 documents
+North 24 Parganas,north24parganas.nic.in,2008,answered,4,False,1 documents
+North 24 Parganas,north24parganas.nic.in,2013,answered,1,False,0 documents
+North 24 Parganas,north24parganas.nic.in,2018,answered,73,False,4 documents
+Paschim Bardhaman,paschimbardhaman.gov.in,2008,answered,0,False,0 documents
+Paschim Bardhaman,paschimbardhaman.gov.in,2013,answered,0,False,0 documents
+Paschim Bardhaman,paschimbardhaman.gov.in,2018,answered,0,False,0 documents
+Paschim Medinipur,paschimmedinipur.gov.in,2008,answered,16,False,1 documents
+Paschim Medinipur,paschimmedinipur.gov.in,2013,answered,7,False,4 documents
+Paschim Medinipur,paschimmedinipur.gov.in,2018,answered,37,False,17 documents
+Paschim Medinipur,paschimmedinipur.nic.in,2008,answered,0,False,0 documents
+Paschim Medinipur,paschimmedinipur.nic.in,2013,answered,0,False,0 documents
+Paschim Medinipur,paschimmedinipur.nic.in,2018,answered,0,False,0 documents
+Purba Bardhaman,bardhaman.gov.in,2008,answered,37,False,4 documents
+Purba Bardhaman,bardhaman.gov.in,2013,answered,153,False,102 documents
+Purba Bardhaman,bardhaman.gov.in,2018,answered,133,False,71 documents
+Purba Bardhaman,bardhaman.nic.in,2008,answered,298,False,121 documents
+Purba Bardhaman,bardhaman.nic.in,2013,answered,125,False,89 documents
+Purba Bardhaman,bardhaman.nic.in,2018,answered,247,False,137 documents
+Purba Bardhaman,burdwan.nic.in,2008,answered,0,False,0 documents
+Purba Bardhaman,burdwan.nic.in,2013,answered,0,False,0 documents
+Purba Bardhaman,burdwan.nic.in,2018,answered,0,False,0 documents
+Purba Bardhaman,purbabardhaman.gov.in,2008,answered,0,False,0 documents
+Purba Bardhaman,purbabardhaman.gov.in,2013,answered,0,False,0 documents
+Purba Bardhaman,purbabardhaman.gov.in,2018,answered,90,False,4 documents
+Purba Bardhaman,purbabardhaman.nic.in,2008,answered,0,False,0 documents
+Purba Bardhaman,purbabardhaman.nic.in,2013,answered,0,False,0 documents
+Purba Bardhaman,purbabardhaman.nic.in,2018,answered,0,False,0 documents
+Purba Medinipur,purbamedinipur.gov.in,2008,answered,17,False,13 documents
+Purba Medinipur,purbamedinipur.gov.in,2013,answered,181,False,176 documents
+Purba Medinipur,purbamedinipur.gov.in,2018,answered,147,False,138 documents
+Purba Medinipur,purbamedinipur.nic.in,2008,answered,0,False,0 documents
+Purba Medinipur,purbamedinipur.nic.in,2013,answered,0,False,0 documents
+Purba Medinipur,purbamedinipur.nic.in,2018,answered,0,False,0 documents
+Purulia,purulia.gov.in,2008,answered,11,False,1 documents
+Purulia,purulia.gov.in,2013,answered,75,False,62 documents
+Purulia,purulia.gov.in,2018,answered,65,False,44 documents
+Purulia,purulia.nic.in,2008,answered,25,False,15 documents
+Purulia,purulia.nic.in,2013,answered,19,False,14 documents
+Purulia,purulia.nic.in,2018,answered,35,False,17 documents
+South 24 Parganas,s24pgs.gov.in,2008,answered,7,False,2 documents
+South 24 Parganas,s24pgs.gov.in,2013,answered,55,False,32 documents
+South 24 Parganas,s24pgs.gov.in,2018,answered,201,False,166 documents
+South 24 Parganas,s24pgs.nic.in,2008,answered,0,False,0 documents
+South 24 Parganas,s24pgs.nic.in,2013,answered,0,False,0 documents
+South 24 Parganas,s24pgs.nic.in,2018,answered,0,False,0 documents
+State,prd.wb.gov.in,2008,answered,0,False,0 documents
+State,prd.wb.gov.in,2013,answered,0,False,0 documents
+State,prd.wb.gov.in,2018,answered,0,False,0 documents
+State,wbprd.gov.in,2008,answered,7,False,3 documents
+State,wbprd.gov.in,2013,answered,10,False,2 documents
+State,wbprd.gov.in,2018,answered,53,False,11 documents
+State,wbsec.gov.in,2008,answered,49,False,17 documents
+State,wbsec.gov.in,2013,answered,61,False,9 documents
+State,wbsec.gov.in,2018,answered,952,False,201 documents
+State,wbsec.org,2008,answered,0,False,0 documents
+State,wbsec.org,2013,answered,0,False,0 documents
+State,wbsec.org,2018,answered,3,False,0 documents
+Uttar Dinajpur,uttardinajpur.gov.in,2008,answered,4,False,2 documents
+Uttar Dinajpur,uttardinajpur.gov.in,2013,answered,5,False,3 documents
+Uttar Dinajpur,uttardinajpur.gov.in,2018,answered,86,False,76 documents
+Uttar Dinajpur,uttardinajpur.nic.in,2008,answered,42,False,27 documents
+Uttar Dinajpur,uttardinajpur.nic.in,2013,answered,18,False,15 documents
+Uttar Dinajpur,uttardinajpur.nic.in,2018,answered,36,False,29 documents

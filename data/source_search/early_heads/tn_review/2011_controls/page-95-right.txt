@@ -1,0 +1,30 @@
+LI DISTRICT
+AT PRESIDENTS
+d Women in the Village Panchayat President in TamilNadu
+Sl. Category to which
+Name of the Village Panchayats
+No. reservation is made
+1 2 3
+MANIKANDAM PANCHAYAT UNION
+1 Paganur SC (Women)
+2 K.Kallikudi SC (Women)
+3 Alundur SC (General)
+4 Mekkudi SC (General)
+5 Allithurai General (Women)
+6 Kulathur General (Women)
+7 Mathur General (Women)
+8 Nagamangalam General (Women)
+9 Navalurkuttapattu General (Women)
+10 Thuraikkudi General (Women)
+11 Ammapettai General
+12 Ariyavur General
+13 Athavathur General
+14 Kumaravayalur General
+15 Mudikandam General
+16 Natchikurichi General
+17 Perianayagisathiram General
+18 Punganur General
+19 Sethurapatti General
+20 Somarasampettai General
+21 Thayanur General
+22 Thirumalaisamuthiram General

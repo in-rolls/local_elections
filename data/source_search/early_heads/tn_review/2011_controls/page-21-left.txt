@@ -1,0 +1,51 @@
+1 2 3
+VIRUDHACHALAM PANCHAYAT UNION Contd
+9 Sembalakurichi SC(General)
+10 Peralaiyur SC(General)
+11 Edaiyur SC(General)
+12 Karuvepilankurichi SC(General)
+13 Karnatham SC(General)
+14 Mu.Patti SC(General)
+15 Kuppanatham SC(General)
+16 Rubanarayananallur SC(General)
+17 Mu.Agaram General (Women)
+18 Sathukoodalmelpathi General (Women)
+19 Perambalur General (Women)
+20 Mu.Puthur General (Women)
+21 Ka. Elamangalam General (Women)
+22 Vilankattur General (Women)
+23 Thottikuppam General (Women)
+24 Visalur General (Women)
+25 Mathur General (Women)
+26 Narumanam General (Women)
+27 Paravalur General (Women)
+28 Alichikudi General
+29 Edachittur General
+30 Kovilanur General
+31 Kodukkur General
+32 Ko.Mangalam General
+33 Sitherikuppam General
+34 Rajendirapattinam General
+35 T.Mavidandal General
+36 Mu.Parur General
+37 Mugunthanallur General
+38 Sathukudalkeelpathy General
+39 Ko.Pavalangudi General
+40 Vannankudikadu General
+41 Puliyur General
+42 Aladi General
+43 Vettagudi General
+44 Katchirayanatham General
+45 Pudukoorapettai General
+46 Thoravalur General
+47 Siruvambar General
+48 Vijayamanagaram General
+49 Chinnakandiyankuppam General
+50 Kattiyanallur General
+51 Erumanur General
+KAMMAPURAM PANCHAYAT UNION
+1 Karkudal SC (Women)
+2 Seplanatham (North) SC (Women)
+3 Perundurai SC (Women)
+4 Sathamanglam SC (Women)
+Page 19

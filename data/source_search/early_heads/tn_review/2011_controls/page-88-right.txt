@@ -1,0 +1,62 @@
+1 2 3
+Sirkali Panchayat Union
+1 Agani SC (Women)
+2 Manigramam SC (Women)
+3 Radhanallur SC (Women)
+4 Sattanathapuram SC (Women)
+5 Thirunagari SC (Women)
+6 Athiyur SC (General)
+7 Kondal SC (General)
+8 Nangur SC (General)
+9 Neppathur SC (General)
+10 Perunthottam SC (General)
+11 Punganur SC (General)
+12 Sembathaniruppu SC (General)
+13 Thiruvengadu SC (General)
+14 Kanniyakudi General (Women)
+15 Kathiramangalam General (Women)
+16 Keelasattanathapuram General (Women)
+17 Mangaimadam General (Women)
+18 Maruthankudi General (Women)
+19 Thiruvali General (Women)
+20 Vanagiri General (Women)
+21 Vilanthidasamuthiram General (Women)
+22 Athamangalam General
+23 Edakudivadapathi General
+24 Karaimedu General
+25 Karkoil General
+26 Kathiruppu General
+27 Kaveripoompattinam General
+28 Nemmeli General
+29 Perumangalam General
+30 Poombuhar General
+31 Puduthurai General
+32 Semmankudi General
+33 Thennampattinam General
+34 Thillaividangan General
+35 Thirupungur General
+36 Thittai General
+37 Valluvakudi General
+Kollidam Panchayat Union
+1 Agaravattaram SC (Women)
+2 Mathiravelur SC (Women)
+3 Palayapalayam SC (Women)
+4 Sothiyakudi SC (Women)
+5 Sheeyalam SC (Women)
+6 Achalpuram SC (General)
+7 Agraelathur SC (General)
+8 Alakkudi SC (General)
+9 Keelamathur SC (General)
+10 Koothiyampettai SC (General)
+11 Kunnam SC (General)
+12 Madhanam SC (General)
+13 Mahendrapalli SC (General)
+14 Vadarangam SC (General)
+15 Vettangudi SC (General)
+16 Arasur General (Women)
+17 Kattur General (Women)
+18 Maharajapuram General (Women)
+19 Mudhalaimedu General (Women)
+20 Othavanthangudi General (Women)
+21 Olayamputhur General (Women)
+22 Pudhupattinam General (Women)

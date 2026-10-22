@@ -1,0 +1,153 @@
+[project]
+name = "local-elections"
+description = "Reservation and results data for India's local electoral bodies"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.12"
+version = "0.7.0"
+authors = [{ name = "Gaurav Sood", email = "contact@gsood.com" }]
+keywords = ["india", "panchayat", "elections", "reservation", "local government"]
+classifiers = [
+    "Intended Audience :: Science/Research",
+    "Operating System :: OS Independent",
+    "Private :: Do Not Upload",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+
+# pyarrow is pinned, not floated, and the pin is load-bearing rather than
+# cautious. Parquet writes `created_by: parquet-cpp-arrow version <x>` into
+# every footer, so a different version rewrites every SHA-256 in MANIFEST.json
+# without a single value changing, and `make verify` would report the whole
+# corpus altered. Until now nothing enforced it; uv.lock does.
+dependencies = [
+    "pyarrow==23.0.1",
+    "pdfplumber",
+    "requests",
+    "requests-ratelimiter",
+    # local_elections_rajasthan publishes its historical panels as pandas
+    # parquet. This was
+    # never declared and the system interpreter happened to have it; the first
+    # run inside a locked environment skipped 39,520 rows with a one-line
+    # warning, which is exactly the failure a lockfile is for.
+    "pandas",
+    # Mumbai's BMC result files arrive as spreadsheets: 1997 and 2002 are BIFF
+    # .xls (xlrd), 2007 and 2012 are .xlsx (openpyxl). Nothing else reads Excel.
+    "openpyxl",
+    "xlrd>=2.0.1",
+    # the published tables' Table Schemas (schemas/) and their validation
+    "frictionless>=5.21",
+    "pandera[io]>=0.34",
+]
+
+[project.urls]
+Homepage = "https://github.com/in-rolls/local_elections"
+Repository = "https://github.com/in-rolls/local_elections"
+Issues = "https://github.com/in-rolls/local_elections/issues"
+Changelog = "https://github.com/in-rolls/local_elections/blob/main/CHANGELOG.md"
+
+[dependency-groups]
+dev = [
+    { include-group = "test" },
+    "ruff",
+]
+test = ["pytest", { include-group = "table-ocr" }]
+
+# Reading the scans. Apple Silicon only; Savitr's MLX runtime has no CPU
+# fallback. Kept separate so parser-only work does not install the model stack.
+ocr = ["savitr==0.3.0"]
+table-ocr = ["opencv-python==5.0.0.93", "numpy==2.5.3", "pillow==12.3.0"]
+
+# Console scripts, so the Makefile and anyone else name a command rather than a
+# file path. verify-manifest is deliberately also runnable as a bare file: it
+# has to work from an unpacked tarball with nothing installed.
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+extend-exclude = ["data/west_bengal/discovery/vintage_search/raw"]
+
+[tool.ruff.lint]
+external = ["DOC"]
+select = ["E", "W", "F", "I", "B", "C4", "UP", "N", "D", "S", "SIM", "T20", "PT", "RUF"]
+ignore = [
+    "D203", "D213",
+    # Place names, winners and reservation categories are held in the script
+    # they were printed in - Kannada, Devanagari, and Kruti Dev mojibake that
+    # is deliberately preserved as evidence. "Ambiguous unicode character" is
+    # every one of them, so this rule would fire on the data itself.
+    "RUF001", "RUF002", "RUF003",
+    # Docstrings are written where they carry an argument - this repository's
+    # modules open with several paragraphs on what a source actually does and
+    # why a reading was chosen. Requiring one on every helper would trade that
+    # for 174 restatements of a function's own name.
+    "D100", "D101", "D102", "D103", "D104", "D105", "D107",
+    # Docstrings here open with a paragraph rather than a one-line summary,
+    # because what a reader needs first is usually what the source document
+    # does, not a restatement of the function name.
+    "D205",
+    # `import master as M`, `import dictionary as D`. A deliberate house
+    # convention in the build scripts, where those two names appear on most
+    # lines and the full name would bury the logic.
+    "N812",
+    # The closure is defined and called inside the same iteration, so the late
+    # binding this warns about cannot occur. Checked, at jk/parse.py and
+    # build_state_readmes.py.
+    "B023",
+    # sha1 is a row identifier, not a security boundary - a stable hash of
+    # provenance plus seat key, chosen for length.
+    "S324",
+    # `Unanswered` and `ReservationVaries` read as what they are at the call
+    # site - `except Unanswered` says the request went unanswered. An Error
+    # suffix would add a syllable and no information.
+    "N818",
+]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint.per-file-ignores]
+# Tests shell out to the manifest builder and verifier on purpose - the point
+# of those tests is that the scripts run as scripts.
+"tests/**" = ["S101", "D", "S603", "S607"]
+# These are command-line tools and parsers. Printing is their interface, not a
+# leftover debug statement, and the subprocess calls are deliberate: pdftotext,
+# pdfinfo, pdftoppm and tesseract are the readers, invoked by name because that
+# is how they are installed.
+# proof_page and compare_readers write an HTML file to /tmp and open it; they
+# are for putting a rendered page in front of a human, not for shipping.
+"src/local_elections/tools/**" = ["T201", "S603", "S607", "S108"]
+# S310: the AP harvester opens an https URL built from a CDX response.
+# S105: RE_MUKHIYA_TOKEN is a regex for a Kruti Dev word, not a password.
+"src/local_elections/states/**" = ["T201", "S603", "S607", "S310", "S105", "S101"]
+"src/local_elections/common/**" = ["T201", "S603", "S607"]
+
+[project.scripts]
+build-master = "local_elections.tools.build_master:main"
+build-manifest = "local_elections.tools.build_manifest:main"
+verify-manifest = "local_elections.tools.verify_manifest:main"
+release-check = "local_elections.tools.release_check:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13"]
+build-backend = "uv_build"
+
+[tool.preen]
+# This corpus uses pinned data releases and generated Markdown guides.
+# OCR checks need system packages; spelling checks must exclude source records.
+skip_checks = [
+    "changelog", "deps", "depgroups", "audit", "links", "pydoclint",
+    # OCR tests require apt packages; the reusable CI has no system-dependency hook.
+    "workflows",
+    # codespell is run over the whole repository regardless of .codespellrc or
+    # [tool.codespell], and 830,000 rows of Indian place and personal names -
+    # transliterated several ways, plus Kruti Dev mojibake kept as evidence -
+    # produce ~47,000 "misspellings", every one of them a person or a village.
+    # Checked directly over the code and prose, which is the part that matters:
+    #     uv run --with codespell codespell src tests README.md  ->  0
+    "codespell",
+]

@@ -1,0 +1,9 @@
+source_path,sha256,bytes,text_path,pdf_pages,native_non_whitespace_characters,visually_reviewed_pdf_pages
+data/source_search/early_heads/raw/tn_1_58_1996_395_en.pdf,bf7d114ca27493203573adaaf9334477b481462afa013f8437896d36b3503e27,70126400,data/source_search/early_heads/tn_review/tn_1_58_1996_395_en.txt,224,0,"[1, 2]"
+data/source_search/early_heads/raw/tn_1_58_1996_401_en.pdf,869ffacec087105967d17ee8f072fb417c76aae786d60ef06e63f1c6b88aec07,48284176,data/source_search/early_heads/tn_review/tn_1_58_1996_401_en.txt,114,0,"[1, 2, 3, 57, 110, 111, 112, 113, 114]"
+data/source_search/early_heads/raw/tn_1_58_2001_636_en.pdf,5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3,46417323,data/source_search/early_heads/tn_review/tn_1_58_2001_636_en.txt,77,0,"[1, 2, 3, 4, 5, 6, 7, 8, 17, 18, 19, 20, 21, 22, 23, 24, 39, 77]"
+data/source_search/early_heads/raw/tn_1_58_2006_214_en.pdf,8b9ec221985b122d4b9d0720acd68b07aca400f73375aa8fc07d842b4bae5586,2722375,data/source_search/early_heads/tn_review/tn_1_58_2006_214_en.txt,6,0,"[1, 6]"
+data/source_search/early_heads/raw/tn_1_58_2006_228_en.pdf,1d6db70518c7460a4618032cb91c2818541ad2f4243d72d332b0fb9e94b00498,116427005,data/source_search/early_heads/tn_review/tn_1_58_2006_228_en.txt,509,0,"[1, 2, 144, 145, 146, 147, 509]"
+data/source_search/early_heads/raw/tn_1_58_2006_254_en.pdf,c70a6850423937298c7609007a239171c8afcbd280de6f3b477ea3ee35c85667,2745470,data/source_search/early_heads/tn_review/tn_1_58_2006_254_en.txt,10,0,"[1, 2, 3, 4]"
+data/source_search/early_heads/raw/tn_1_58_2011_316_en.pdf,ee13b9ba82647a7ae1c14583baf3d3083c2aff77346161cdd31700da93c08527,1481656,data/source_search/early_heads/tn_review/tn_1_58_2011_316_en.txt,351,933580,"[1, 2, 7, 8, 161]"
+data/source_search/early_heads/raw/tn_1_58_2011_318_en.pdf,340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd,1425952,data/source_search/early_heads/tn_review/tn_1_58_2011_318_en.txt,153,319557,"[1, 2, 3, 153]"

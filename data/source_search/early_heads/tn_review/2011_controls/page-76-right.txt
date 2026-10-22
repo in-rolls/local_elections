@@ -1,0 +1,55 @@
+UR DISTRICT
+CHAYAT PRESIDENTS
+eduled Tribes and Women in the Village Panchayat
+Sl. Name of the Village Category to which
+No Panchayat reservation is made
+1 2 3
+Gudimangalam Panchyat Union
+1 Illuppanagaram SC (Women)
+2 Athukinathupatti SC (Women)
+3 Pukkulam SC (General)
+4 Virugalpatti SC (General)
+5 Pannaikinar SC (General)
+6 Pudupalayam General (Women)
+7 Kuppampalayam General (Women)
+8 Thottampatti General (Women)
+9 Somavarapatti General (Women)
+10 Kongalnagaram General (Women)
+11 Vadugapalayam General (Women)
+12 Kosavampalayam General
+13 Amanthakadavu General
+14 Anikkadavu General
+15 Kottamangalam General
+16 Moongiltholuvu General
+17 Ponneri General
+18 Veedampatti General
+19 Poolavadi General
+20 Vagatholuvu General
+21 Gudimangalam General
+22 Periyapatti General
+23 Kondampatti General
+Kangeyam Panchayat Union
+1 Thammareddipalayam SC (Women)
+2 Alambadi SC (General)
+3 Keeranur SC (General)
+4 Ganapathipalayam General (Women)
+5 Nathakadayur General (Women)
+6 Sivanmalai General (Women)
+7 Veeranampalayam General (Women)
+8 Balasamudrampudur General
+9 Maravapalayam General
+10 Madurai General
+11 Padiyur General
+12 Palayakottai General
+13 Pappini General
+14 Paranjervazhi General
+15 Pothiyapalayam General
+Kundadam Panchayat Union
+1 Bellampatty SC (Women)
+2 Perumalpalayam SC (Women)
+3 Ellapalayampudur SC(General)
+4 Nandavanampalayam SC (General)
+5 Navanari SC (General)
+6 Sengodampalayam SC (General)
+7 Aratholuvu General (Women)
+8 Jothiampatty General (Women)

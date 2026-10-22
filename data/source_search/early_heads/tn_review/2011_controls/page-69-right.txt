@@ -1,0 +1,55 @@
+1 2 3
+Thally Panchayat Union Contd…
+45 Madakkal General
+46 Natrampalayam General
+47 Noganur General
+48 Palayamkottai General
+49 Thaggatty General
+50 Kempatty General
+Uthangarai Panchayat Union
+1 Singarapettai SC (Women)
+2 Mettuthangal SC (Women)
+3 Naduppatti SC (Women)
+4 Periyathallapadi SC (General)
+5 Katteri SC (General)
+6 Kadavani SC (General)
+7 Kallavi SC (General)
+8 Nochipatti SC (General)
+9 Chandrappatti General (Women)
+10 Karumandapathi General (Women)
+11 Mittapalli General (Women)
+12 Pudur Punganai General (Women)
+13 Maganoorpatti General (Women)
+14 Moondarampatti General (Women)
+15 Pavakkal General (Women)
+16 Vellakuttai General (Women)
+17 Gengapirampatti General (Women)
+18 Naickanoor General
+19 Thiruvanapatti General
+20 Keelkuppam General
+21 Moongileri General
+22 Marampatti General
+23 Veeranakuppam General
+24 Keelmathur General
+25 Eggoor General
+26 Karapattu General
+27 Athipadi General
+28 Reddipatti General
+29 Vengadathampatti General
+30 Badappalli General
+31 Govindapuram General
+32 Kondampatti General
+33 Periyakottakulam General
+34 Upparappatti General
+Veppanapalli Panchayat Union
+1 Marasandiram SC (Women)
+2 Naduvanapalli SC (General)
+3 Pitchukondapeddanapalli SC (General)
+4 Billanakuppam General (Women)
+5 Chennasandiram General (Women)
+6 Chinthagummanapalli General (Women)
+7 Kurubarapalli General (Women)
+8 Manavaranapalli General (Women)
+9 Sigaramaganapalli General (Women)
+10 Veppanapalli General (Women)
+11 Chinnamanavaranapalli General (Women)

@@ -1,0 +1,65 @@
+ERODE DIST
+VILLAGE PANCHAYA
+Reservation of Seats for Scheduled Caste/Scheduled Tribes a
+Nadu Sta
+Name of the Village Category to which
+Sl. No
+Panchayat reservation is made
+1 2 3
+Erode Panchayat Union
+1 Koorapalayam SC (General)
+2 Elavamalai General ( Women)
+3 Mettunasuvampalayam General ( Women)
+4 Kadirampatti General
+5 Perode General
+6 Pitchandampalayam General
+Modakkurichi Panchayat Union
+1 Kulur SC(Women)
+2 Kandikkattuvalasu SC(Women)
+3 Nanjai Uthukuli SC (General)
+4 Punjai Kalamangalam SC (General)
+5 Elumathur General ( Women)
+6 Injampalli General ( Women)
+7 Kagam General ( Women)
+8 Lakkapuram General ( Women)
+9 Nanjai Kalamangalam General ( Women)
+10 Vilakkethi General ( Women)
+11 Ganapathipalayam General
+12 Anandampalayam General
+13 Attavanai Hanumanpalli General
+14 Kanagapuram General
+15 Kulavilakku General
+16 Modavandi Sathiyamangalam General
+17 Mugasi Anumanpalli General
+18 Muthugoundanpalayam General
+19 Palamangalam General
+20 Pudur General
+21 Poonduraisemur General
+22 Thuyyampoondurai General
+23 Velampalayam General
+Kodumudi Panchayat Union
+1 Kolathupalayam SC (Women)
+2 Avudayarparai SC (General)
+3 Elunoothimangalam General (Women)
+4 Itchipalayam General (Women)
+5 Kongudayampalayam General (Women)
+6 Anjur General
+7 Ayyampalayam General
+8 Kondalam General
+9 Nanjaikolanalli General
+10 Vallipuram General
+Perundurai Panchayat Union
+1 Kambuliyampatti SC (Women)
+2 Thiruvachi SC (Women)
+3 Karukkupalayam SC (General)
+4 Singalnallur SC (General)
+5 Kandampalayam General (Women)
+6 Madathupalayam General (Women)
+7 Nichampalayam General (Women)
+8 Pandiampalayam General (Women)
+9 Periavilamalai General (Women)
+10 Sullipalayam General (Women)
+11 Thoranavavi General (Women)
+12 Karandipalayam General (Women)
+13 Periyaveerasangili General
+14 Seenapuram General

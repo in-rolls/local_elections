@@ -1,0 +1,185 @@
+<div>
+<div style="display: flex; justifyeard: space-between;">
+<div data-bbox="100 42 280 68">
+<p><b>vf/k puki ē; lēo 12174/6i 8</b></p>
+</div>
+<div data-bbox="725 42 810 68">
+<p>i p k r fuokāu</p>
+</div>
+<div data-bbox="470 70 535 95">
+<p><b>çi = &amp; 23</b></p>
+</div>
+<div data-bbox="450 100 550 125">
+<p>lāu; e 85 nē[ k šz</p>
+</div>
+<div data-bbox="420 125 580 155">
+<p><b>fuokāu i fj. ke dkçdkku</b></p>
+</div>
+<div data-bbox="100 155 880 205">
+<p>&gt; kj[ k M i p k r fuokāu fu; ekoy h] 2001 d sfu; e 85 d svu q j. k eae 8, r n ~ kj k ; g v f/k fp r d jr k gifd u p snh x b Zv u q p h d s Lr Ek 1/2 eau ker Q fDr ] Lr Ek 1/2 eav fd r i n i j ] Lr Ek 1/2 eaof. kz x ke i p k r d sfy ; sl E; d ~ # i l sfuokāp r gksx; k gS%</p>
+</div>
+<div data-bbox="475 210 525 235">
+<p><b>vutpah</b></p>
+</div>
+<div data-bbox="100 235 895 780">
+<table border="1" style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th rowspan="2">Q fDr d k uke</th>
+<th colspan="3">i n d k fooj. k</th>
+<th rowspan="2">ग्राम पंचायत / पंचायत समिति / जिला परिशद<br/>ft l l sin l aē/kr gS%fuokāu {ke l ē; k@<br/>uke l fgr 1/2</th>
+<th rowspan="2">v H; fDr</th>
+</tr>
+<tr>
+<th>i n</th>
+<th>v kj f{kr @ v ukj f{kr</th>
+<th>efgy k@ v U;</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>t k s d . M q uk</td>
+<td>x ke i p k r l nL;</td>
+<td>v ukj f{kr</td>
+<td>v U;</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/2</td>
+<td></td>
+</tr>
+<tr>
+<td>fl y euh r ksuks</td>
+<td>x ke i p k r l nL;</td>
+<td>v uq fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/2</td>
+<td>fu fo Zksk</td>
+</tr>
+<tr>
+<td>, Fk r ksuks</td>
+<td>x ke i p k r l nL;</td>
+<td>v ukj f{kr</td>
+<td>efgy k</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/2</td>
+<td>fu fo Zksk</td>
+</tr>
+<tr>
+<td>: gkek l en</td>
+<td>x ke i p k r l nL;</td>
+<td>v uq fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/4</td>
+<td>fu fo Zksk</td>
+</tr>
+<tr>
+<td>g s eu y s q q</td>
+<td>x ke i p k r l nL;</td>
+<td>v uq fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/5</td>
+<td>fu fo Zksk</td>
+</tr>
+<tr>
+<td>I; kj h cks</td>
+<td>x ke i p k r l nL;</td>
+<td>v uq fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/6</td>
+<td>fu fo Zksk</td>
+</tr>
+<tr>
+<td>e/kjok kh d UM q uk</td>
+<td>x ke i p k r l nL;</td>
+<td>v uq fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/7</td>
+<td>fu fo Zksk</td>
+</tr>
+<tr>
+<td>I; kj h Mks</td>
+<td>x ke i p k r l nL;</td>
+<td>v uq fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/8</td>
+<td>fu fo Zksk</td>
+</tr>
+<tr>
+<td>i q k d UM q uk</td>
+<td>x ke i p k r l nL;</td>
+<td>v ukj f{kr</td>
+<td>efgy k</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/9</td>
+<td>fu fo Zksk</td>
+</tr>
+<tr>
+<td>l s M+eqMk 1/d UM q uk/2</td>
+<td>x ke i p k r l nL;</td>
+<td>v uq fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/0</td>
+<td>fu fo Zksk</td>
+</tr>
+<tr>
+<td>l q U h l en 1/4 ksuks</td>
+<td>x ke i p k r l nL;</td>
+<td>v uq fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/1</td>
+<td>fu fo Zksk</td>
+</tr>
+<tr>
+<td>x kso Uh uks soj x ksl+</td>
+<td>x ke i p k r l nL;</td>
+<td>v uq fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/2</td>
+<td></td>
+</tr>
+<tr>
+<td>y s kj sy s q q</td>
+<td>x ke i p k r l nL;</td>
+<td>v uq fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/3</td>
+<td>fu fo Zksk</td>
+</tr>
+<tr>
+<td>c gky s l en 1/eqMk/2</td>
+<td>x ke i p k r l nL;</td>
+<td>v uq fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/4</td>
+<td>fu fo Zksk</td>
+</tr>
+<tr>
+<td>i s n ku h Mks</td>
+<td>x ke i p k r l nL;</td>
+<td>v uq fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXI fl eMx k@ 08@ 01@ y Ec kb &amp; 1/5</td>
+<td></td>
+</tr>
+<tr>
+<td><b>f k k j Ms</b></td>
+<td><b>xke i p k r dsef[ k k</b></td>
+<td><b>vutpap r t ut kfr</b></td>
+<td><b>v U</b></td>
+<td><b>XXI fl eMx k@08@01&amp;y Ec kbZ</b></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="100 845 210 895">
+<p>LFku % fl eMx k<br/>fnukd % 23-12-2015</p>
+</div>
+<div data-bbox="700 845 800 925">
+<p>ft y k n. Mk/kd kj h<br/>&amp; l g &amp;<br/>mi k Dr ] fl eMx kA</p>
+</div>
+</div>

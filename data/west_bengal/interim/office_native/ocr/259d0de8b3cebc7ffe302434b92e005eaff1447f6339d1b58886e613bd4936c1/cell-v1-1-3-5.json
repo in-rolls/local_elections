@@ -1,0 +1,1 @@
+{"fingerprint": {"crop_sha256": "951eb5dccc91428980a622dd3c533e3c50db057b3bb3291e9fd0e3ad0b8d608b", "language": "eng", "psm": [6, 7], "format": "tsv", "tsv_reader": "quote_none_v1", "tesseract_version": "tesseract 5.5.2"}, "readings": {"6": {"text": "", "min_confidence": null, "words": []}, "7": {"text": "", "min_confidence": null, "words": []}}}

@@ -1,0 +1,62 @@
+1 2 3
+KOLIYANUR PANCHAYAT UNION Contd..
+24 Mazhavarayanur Genaral
+25 Sathipattu Genaral
+26 Tokavadi Genaral
+27 Alathur Genaral
+28 Arasamangalam Genaral
+29 V.Ariyalur Genaral
+30 Athiurthiruvathi Genaral
+31 Ayyankoilpattu Genaral
+32 Chozhaganur Genaral
+33 Thalavanur Genaral
+34 Kappur Genaral
+35 Kondangi Genaral
+36 Kolathur Genaral
+37 S.Metupalayam Genaral
+38 Panankuppam Genaral
+39 Salaiagaram Genaral
+40 Senkadu Genaral
+41 Thiruvamathur Genaral
+42 Thodarnthanur Genaral
+43 Veliyampakkam Genaral
+KANDAMANGALAM PANCHAYAT UNION
+1 Pallipudupattu SC Women
+2 Motchakulam SC Women
+3 Kongampattu SC Women
+4 Thandavamoorthikuppam SC Women
+5 V.Agaram SC Women
+6 Krishnapuram SC General
+7 Mittamandagapattu SC General
+8 Arpisampalayam SC General
+9 V.Pudur SC General
+10 Azhiyur SC General
+11 Pakkam SC General
+12 Vazhudavur SC General
+13 Siruvanthadu SC General
+14 Chinnababusamuthriam SC General
+15 V.Mathur SC General
+16 Mutrampattu General Women
+17 Chithalampattu General Women
+18 Vadhanur General Women
+19 Parasureddipalayam General Women
+20 Rampakkam General Women
+21 Kodukkur General Women
+22 Veeranam General Women
+23 Kallipattu General Women
+24 Thirumangalam General Women
+25 Gengarampalayam General Women
+26 Periyababusamuthiram General
+27 Pallineliyanur General
+28 Sornavurkelpathy General
+29 Navamalkapper General
+30 Pallithennal General
+31 Kalinjikuppam General
+32 Sorappur General
+33 V.Nerkunam General
+34 Kumulam General
+35 Poovarasankuppam General
+36 Panchamadevi General
+37 Kondur General
+38 Vadvambalam General
+Page 25

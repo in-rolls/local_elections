@@ -1,0 +1,52 @@
+ram District
+ayat Presidents
+nd Women in the Village Panchayat President in
+du State.
+Category to which reservation is
+Sl. No Name of the Village Panchayat
+made
+1 2 3
+WALAJABAD PANCHAYAT UNION
+1 Thiruvankaranai ST (General)
+2 Govindavadi SC(Women)
+3 Nathanallur SC(Women)
+4 Illuppapattu SC(Women)
+5 Enathur SC(Women)
+6 Devariambakkam SC(Women)
+7 Vedal SC(Women)
+8 Pazhayaseevaram SC(Women)
+9 Injambakkam SC(General)
+10 139-Thandalam SC(General)
+11 Kalianur SC(General)
+12 Uthukkadu SC(General)
+13 Ullavur SC(General)
+14 Vaiyavur SC(General)
+15 Thodur SC(General)
+16 Karur SC(General)
+17 Puduppakkam SC(General)
+18 Thangi SC(General)
+19 Padunelli SC(General)
+20 Valathur SC(General)
+21 Pullalur SC(General)
+22 Thimmaianpettai General (Women)
+23 Ozhaiyur General (Women)
+24 Eganampettai General (Women)
+25 Paranthur General (Women)
+26 Muthialpettai General (Women)
+27 Villivalam General (Women)
+28 Purisai General (Women)
+29 Alappakkam General (Women)
+30 Ayimichery General (Women)
+31 Agaram General (Women)
+32 Kizhottivakkam General (Women)
+33 Poosivakkam General (Women)
+34 Singadivakkam General (Women)
+35 Naikkenkuppam General (Women)
+36 Ariambakkam General
+37 Siruvakkam General
+38 Naikkenpettai General
+39 Ayyanpettai General
+40 Kithiripettai General
+41 Thimmarajampettai General
+42 Kottavakkam General
+43 Koothirambakkam General

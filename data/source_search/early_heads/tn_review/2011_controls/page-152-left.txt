@@ -1,0 +1,52 @@
+KANNIYAKUMA
+RESERVATION FOR VILLAGE
+Reservation of seats for Scheduled Caste/Scheduled Trib
+Tamil Na
+Sl.N Category to which
+Name of the Village Panchayat
+o reservation is made
+1 2 3
+Agastheeswaram Panchayat Union
+1 Maharajapuram SC (Women)
+2 Nalloor SC (General)
+3 Kovalam General (Women)
+4 Kulasekarapuram General (Women)
+5 Swamithoppu General (Women)
+6 Therekalputhoor General (Women)
+7 Karumpattoor General
+8 North Thamaraikulam General
+9 Panchalingapuram General
+10 Ramapuram General
+11 Eraviputhoor General
+12 Leepuram General
+Thovalai Panchayat Union
+1 Erachakulam SC (Women)
+2 Beemanagari SC (General)
+3 Thirupathisaram General (Women)
+4 Madhavalayam General (Women)
+5 Sahayanagar General (Women)
+6 Thovalai General (Women)
+7 Thadikkarankonam General (Women)
+8 Arumanalloor General
+9 Esanthimangalam General
+10 Gnalam General
+11 Thidal General
+12 Kattuputhoor General
+13 Derisanamcope General
+14 Thellanthi General
+15 Kadukkarai General
+16 Chenbagaramanputhoor General
+Rajakkamangalam Panchayat Union
+1 Parakkai SC (General)
+2 Elluvilai General (Women)
+3 Pallamthurai General (Women)
+4 Melasankarankuzhi General (Women)
+5 Kesavanputhenthurai General
+6 Manakudi General
+7 Kaniyakulam General
+8 Melakrishnanputhoor General
+9 Rajakkamangalam General
+10 Athikattuvilai General
+11 Dharmapuram General
+12 Putheri General
+Page 150

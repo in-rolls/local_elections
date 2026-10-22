@@ -1,0 +1,162 @@
+[
+  {
+    "name": "archive_menu_2013",
+    "url": "https://archive.wbsec.org/West%20Bengal%20Election%20Detailed%20Results-2013.htm",
+    "checked_at": "2026-09-06",
+    "outcome": "timeout"
+  },
+  {
+    "name": "archive_menu_2018",
+    "url": "https://archive.wbsec.org/West%20Bengal%20Election%20Detailed%20Results-2018.htm",
+    "checked_at": "2026-09-06",
+    "outcome": "timeout"
+  },
+  {
+    "name": "archive_gp_2018",
+    "url": "https://archive.wbsec.org/FinalResult/FinalResult_gp_2018.aspx",
+    "checked_at": "2026-09-06",
+    "outcome": "timeout"
+  },
+  {
+    "name": "archive_orders",
+    "url": "https://archive.wbsec.org/Orders_pan/PanOrder18.aspx",
+    "checked_at": "2026-09-06",
+    "outcome": "timeout"
+  },
+  {
+    "name": "live_sec",
+    "url": "https://wbsec.gov.in/",
+    "checked_at": "2026-09-06",
+    "outcome": "certificate_expired"
+  },
+  {
+    "name": "wayback_jalpaiguri",
+    "url": "https://web.archive.org/cdx/search/cdx?url=jalpaiguri.gov.in/*&filter=urlkey:.*(panch|reserv|pradhan|delimit).*&collapse=urlkey&output=json&fl=original,timestamp,statuscode,mimetype&filter=statuscode:200&limit=1000",
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=jalpaiguri.gov.in/*&filter=urlkey:.*(panch%7Creserv%7Cpradhan%7Cdelimit).*&collapse=urlkey&output=json&fl=original,timestamp,statuscode,mimetype&filter=statuscode:200&limit=1000",
+    "status": 200,
+    "bytes": 2452,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "name": "wayback_old_birbhum",
+    "url": "https://web.archive.org/cdx/search/cdx?url=birbhum.nic.in/*&filter=urlkey:.*(panch|reserv|pradhan|delimit).*&collapse=urlkey&output=json&fl=original,timestamp,statuscode,mimetype&filter=statuscode:200&limit=1000",
+    "final_url": "https://web.archive.org/cdx/search/cdx?url=birbhum.nic.in/*&filter=urlkey:.*(panch%7Creserv%7Cpradhan%7Cdelimit).*&collapse=urlkey&output=json&fl=original,timestamp,statuscode,mimetype&filter=statuscode:200&limit=1000",
+    "status": 200,
+    "bytes": 279,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "birbhum_2003.pdf",
+    "url": "https://web.archive.org/web/20090410094326id_/http://birbhum.nic.in/DPRDO/Panchayat%20Election-2003.pdf",
+    "status": 200,
+    "bytes": 15527,
+    "sha256": "d2cdee262e55e9c7ee8825a8d41f955f1948c7fb221904ebf790c89eb6504a5d",
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "powerful_women_metadata.json",
+    "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/PXV79W",
+    "checked_at": "2026-09-06",
+    "outcome": "HTTP_403"
+  },
+  {
+    "file": "wayback_old_jalpaiguri.json",
+    "url": "https://web.archive.org/cdx/search/cdx?url=jalpaiguri.nic.in/*&filter=urlkey:.*(panch|reserv|pradhan|delimit).*&collapse=urlkey&output=json&fl=original,timestamp,statuscode,mimetype&filter=statuscode:200&limit=1000",
+    "status": 200,
+    "bytes": 3,
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "wayback_old_hooghly.json",
+    "url": "https://web.archive.org/cdx/search/cdx?url=hooghly.nic.in/*&filter=urlkey:.*(panch|reserv|pradhan|delimit).*&collapse=urlkey&output=json&fl=original,timestamp,statuscode,mimetype&filter=statuscode:200&limit=1000",
+    "status": 200,
+    "bytes": 3893,
+    "sha256": "ff101ab307e662e9328daf23d38c2d06cdf979fb59f0262596f172a5ead1d865",
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "coochbehar.html",
+    "url": "https://coochbehar.gov.in/past-notices/announcements/page/11/",
+    "status": 200,
+    "bytes": 154728,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "kranti.html",
+    "url": "https://jalpaiguri.gov.in/notice/notice-from-office-of-the-district-magistrate-district-panchayat-election-officer-for-delimitation-of-constituencies-and-reservation-of-seats-of-kranti/",
+    "status": 200,
+    "bytes": 122105,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "hooghly_elections.html",
+    "url": "https://hooghly.nic.in/panchayat-election-2023/",
+    "status": 200,
+    "bytes": 135994,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "powerful_metadata_retry.json",
+    "url": "https://dataverse.harvard.edu/api/datasets/:persistentId?persistentId=doi%3A10.7910%2FDVN%2FPXV79W",
+    "status": 403,
+    "bytes": 199,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "hooghly_2003_aniva.htm",
+    "url": "https://web.archive.org/web/20041116171811id_/http://hooghly.nic.in:80/hzp/Panch_election1/aniva.htm",
+    "status": 200,
+    "bytes": 63938,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "hooghly_2003_anivb.htm",
+    "url": "https://web.archive.org/web/20041116173454id_/http://hooghly.nic.in:80/hzp/Panch_election1/anivb.htm",
+    "status": 503,
+    "bytes": 11832,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "hooghly_2003_anva.htm",
+    "url": "https://web.archive.org/web/20041116171923id_/http://hooghly.nic.in:80/hzp/Panch_election1/anva.htm",
+    "status": 503,
+    "bytes": 11832,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "hooghly_2003_anvb.htm",
+    "url": "https://web.archive.org/web/20041116173816id_/http://hooghly.nic.in:80/hzp/Panch_election1/anvb.htm",
+    "status": 200,
+    "bytes": 53317,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "hooghly_2003_anvia.htm",
+    "url": "https://web.archive.org/web/20041117101839id_/http://hooghly.nic.in:80/hzp/Panch_election1/anvia.htm",
+    "status": 503,
+    "bytes": 11832,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "hooghly_2003_anvib.htm",
+    "url": "https://web.archive.org/web/20041117102612id_/http://hooghly.nic.in:80/hzp/Panch_election1/anvib.htm",
+    "status": 200,
+    "bytes": 16977,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "hooghly_2003_index.html",
+    "url": "https://web.archive.org/web/20041112023428id_/http://hooghly.nic.in:80/hzp/Panch_election1/index.html",
+    "status": 200,
+    "bytes": 13788,
+    "checked_at": "2026-09-06"
+  },
+  {
+    "file": "hooghly_2003_total.htm",
+    "url": "https://web.archive.org/web/20041117101744id_/http://hooghly.nic.in:80/hzp/Panch_election1/total.htm",
+    "status": 200,
+    "bytes": 649685,
+    "checked_at": "2026-09-06"
+  }
+]

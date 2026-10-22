@@ -1,0 +1,60 @@
+KRISHNAGIR
+Village Pancha
+Reservation of Seats for Scheduled Caste/Scheduled Tribes a
+Sta
+Category to which reservation
+Sl. No Name of the Village Panchayat
+is made
+1 2 3
+Bargur Panchayat Union
+1 Sigaralapalli SC (Women)
+2 Thogarapalli SC (Women)
+3 Kandikuppam SC (General)
+4 Balethottam SC (General)
+5 Parandapalli SC (General)
+6 Orappam General (Women)
+7 Guttur General (Women)
+8 Bandaseemanoor General (Women)
+9 Chinnamattarapalli General (Women)
+10 Ikondamkothapalli General (Women)
+11 Karakuppam General (Women)
+12 Oppathavadi General (Women)
+13 Puliyampatti General (Women)
+14 Veppalampatti General (Women)
+15 Kattagaram General (Women)
+16 Belavarthy General
+17 Batlapalli General
+18 Shoolamalai General
+19 Balinayanapalli General
+20 Perugopanapalli General
+21 Majeethgollahalli General
+22 Valasagoundanoor General
+23 Achamangalam General
+24 Anchoor General
+25 Kondappanayanapalli General
+26 Pochampalli General
+27 Jagadevi General
+28 Guruvinayanapalli General
+29 Zingalkathirampatti General
+30 Kullampatti General
+31 Madepalli General
+32 Mahadevagollahalli General
+33 Mallapadi General
+34 Palepalli General
+35 Thathampatti General
+36 Varattanapalli General
+Hosur Panchayat Union
+1 Achettipalli SC (Women)
+2 Mugalur SC (Women)
+3 Baliganapalli SC (General)
+4 Thummanapalli SC (General)
+5 Alasapalli Batvarapalli SC (General)
+6 Nagondapalli General (Women)
+7 Koladasapuram General (Women)
+8 Chennasandiram General (Women)
+9 Bagalur General (Women)
+10 Belathur General (Women)
+11 Kelavarapalli General (Women)
+12 Onnalvadi General (Women)
+13 Kothakondapalli General
+Page 65

@@ -1,0 +1,36 @@
+1 2 3
+VAIYAMPATTI PANCHAYAT UNION
+1 Aniyappur SC (Women)
+2 Ayanreddiapatti SC (General)
+3 Pudur. SC (General)
+4 Dhavalaiveeranpatti General (Women)
+5 Puduvadi General (Women)
+6 Pudukkottai General (Women)
+7 V.Periyapatti General (Women)
+8 Vaiyampatti General (Women)
+9 Amayapuram General
+10 Elamanam General
+11 Kumaravadi General
+12 Mugavanur General
+13 Nadupatti General
+14 Nallampillai General
+15 Palayakkottai General
+16 Ponnampalampatti. General
+17 Sekkanam General
+18 Vellalapatti General
+MARUNGAPURI PANCHAYAT UNION
+1 Kodumbapatti SC (Women)
+2 Pirampatti SC (Women)
+3 Usilampatti SC (Women)
+4 Vairampatti SC (Women)
+5 Ayyanpudupatti SC (General)
+6 Kannukuzhi SC (General)
+7 Minikkiyur SC (General)
+8 Muthalvarpatti SC (General)
+9 Vaguthalvarpatti SC (General)
+10 Valanadu SC (General)
+11 Alampatti General (Women)
+12 Amanakkampatti General (Women)
+13 Ammachathiram General (Women)
+14 Athikaram General (Women)
+Page 95

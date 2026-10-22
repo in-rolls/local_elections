@@ -1,0 +1,77 @@
+55
+
+SI Name of the Category to which Si. Name of the Category to which
+No. Village. Panchayat Reservation is made No. Village Panchayat Reservation is made
+
+1 2 3 hod 2 3
+19 Thulayanur General 13. Perambur General Women
+20 K.Pallivasal General 14. Pakkudi General Women
+
+1 Rangiem General 15 Thennathirayanpatti General Women
+22. Kottur General 16 Alangudi General Women
+23 Vengalur General 17. Naduppatti General Women
+24 Neikonam Generai 18 Kathalur General Women
+25 Kannanur General 19  Sooriyur General Women
+26 PAlagapuri General 20 Mandaiyur General
+27 VLakshmipuram General 21 Viralur General
+28 Adhanur Generai 22 Vanathirayanpatti General
+28 Lembalakudi General 23  Komangalam General
+30 Aranginampatti General 24 Meenaveli General
+31 Peraiyur General 25 Kumaramangalam General
+32 ~Pilivalam General 26 Nambampatti General
+33. Thirumayam General 27 ~Kongudipatti General
+
+° 28 Nangupatti General
+
+KUNNANDARKOIL PANCHAYAT UNION 29 Maruthampatti General
+1 Odukkur C.{(Women) 30 Meboothagudi General
+2 Senayakudi C.(Women) 31 Palandampatti General
+3 Valamangalam C. (General) 32. Lakshmanampatti Generai
+4 Andakkulam SC (General) 33 Kasavanur General
+5 Killukulavaipatty S.C(General) 34 Thengaithinnipatti General
+6 Rakkathampatty General (Women) 35 Agarapatti General
+7 ~~ Chettipatti General (women) 36 Neerpalani Generai
+8  Pappudaianpatty General (women) 37 Rajagiri General
+9 Uppiliyakudi General (women) 38 Boothagudi General
+10 Vathanakurichi General (women) 39 Avoor General
+11. Kannangudi General (women) 40 _Virudhappatti General
+12 Udayalipatti General (women) 41 Viralimalai General
+13. Vaithur General (women) 42 Kalkudi General
+14. Veerakudi General (women) 43% Mathur General
+15  Melapuduvayal General (women) 44  Kunnathur General
+16 Perambur General (women) 45 Kalmavur General
+17 Thennankudi General PONNAMARAVATHY PANCHAYAT UNION
+18 Puliyur General ae
+19 Periyathambiudayanpatt General 1 Nerunjikudi SC (Women)
+20 ~Visalur General 2 Enathi S.C. (General)
+21 Kullukottai General 3 Kovanur S.C. (General)
+22 ‘T.Keelaiyur General 4 Thoothur S.C (General)
+23 Vathanakottai General 5 Thottiampatty S.C. General)
+24 Themmavur General 6 Karaiyur S.C. (General)
+25 Kulathur General 7 ~~ Sevalur General (women)
+26 Sengalur General 8 ‘Sundaram General (women)
+27 Nanjur General 9 Melasivapuri General(women}
+28 Mootampatti General 10 Melamelaniliai General (women)
+29 Killanur General 11. Bhagavandipatty General (women)
+30 Odukampatty General: 12 Vendanpatty General (women)
+31 Mangathevanpatty. General 13. Nadlur General (women)
+32 Valiyampatti General 14 Semboothy General (women)
+33 Thayinipatty General 15 Konnayampatty General (women)
+34 -Minnathur General 16 Valakuruchi General (women)
+.35  Pallathupatti General 17 Kattupatty General (women)
+36 Koppampatti General 18 Keelathaniyam General (women)
+37 Lekkanapatti General 19 Maravamadural peneral
+VIRALIMALAI PANCHAYAT UNION St Melathaniyam coneral
+1 Mathayanipatti SC Women 22 Vegupatty General
+2. Thennambadi SC Women 23 Koppanapatty General
+3 Poyyamani SC Women 24 Koodalur Generai
+4 Velur SC General 25 R.Palakuruchi General
+5 Vadugapatti SC General 26 Edyathur General
+6  Theravoor SC General 27 Kallampatty General
+7  Kodumbatur SC General 28 .. Thenur General
+8 Vemmani General Women 29 M.Usilampatty General
+9 Vilappatti General Women 30 Ammankuruchi General
+10 ~Thondamanaliur General Women 31 Seranur General
+11. Melapachakkudi General Women 32 Alavayal General
+12 Rasalipatti General Women 33 Oliamangalam General
+

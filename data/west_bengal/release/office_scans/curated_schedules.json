@@ -1,0 +1,1517 @@
+[
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 1,
+    "reading": "Cooch Behar (SC)",
+    "bbox": [
+      746,
+      494,
+      994,
+      530
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 2,
+    "reading": "Alipurduar (ST)",
+    "bbox": [
+      746,
+      530,
+      994,
+      566
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 3,
+    "reading": "Siliguri (BC)",
+    "bbox": [
+      746,
+      603,
+      994,
+      639
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 4,
+    "reading": "Uttar Dinajpur (SC)",
+    "bbox": [
+      746,
+      638,
+      994,
+      674
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 5,
+    "reading": "Malda (SC)",
+    "bbox": [
+      746,
+      675,
+      994,
+      711
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 6,
+    "reading": "Nadia (BC)",
+    "bbox": [
+      746,
+      747,
+      994,
+      783
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 7,
+    "reading": "South 24 Parganas (SC)",
+    "bbox": [
+      746,
+      784,
+      994,
+      820
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 8,
+    "reading": "Hooghly (SC)",
+    "bbox": [
+      746,
+      858,
+      994,
+      894
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 9,
+    "reading": "Purulia (BC)",
+    "bbox": [
+      746,
+      930,
+      994,
+      966
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 10,
+    "reading": "Purba Bardhaman (SC)",
+    "bbox": [
+      746,
+      1002,
+      994,
+      1038
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 1,
+    "reading": "Cooch Behar",
+    "bbox": [
+      994,
+      494,
+      1188,
+      530
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 2,
+    "reading": "Jalpaiguri",
+    "bbox": [
+      994,
+      566,
+      1188,
+      602
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 3,
+    "reading": "Siliguri",
+    "bbox": [
+      994,
+      602,
+      1188,
+      638
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 4,
+    "reading": "Malda",
+    "bbox": [
+      994,
+      676,
+      1188,
+      712
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 5,
+    "reading": "Murshidabad",
+    "bbox": [
+      994,
+      712,
+      1188,
+      748
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 6,
+    "reading": "South 24 Parganas",
+    "bbox": [
+      994,
+      784,
+      1188,
+      820
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 7,
+    "reading": "Howrah",
+    "bbox": [
+      994,
+      821,
+      1188,
+      857
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 8,
+    "reading": "Paschim Medinipur",
+    "bbox": [
+      994,
+      891,
+      1188,
+      927
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 9,
+    "reading": "Purulia",
+    "bbox": [
+      994,
+      929,
+      1188,
+      965
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 10,
+    "reading": "Bankura",
+    "bbox": [
+      994,
+      965,
+      1188,
+      1001
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 1,
+    "reading": "Dakshin Dinajpur (SC)",
+    "bbox": [
+      746,
+      1046,
+      994,
+      1082
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 2,
+    "reading": "North 24 Parganas (SC)",
+    "bbox": [
+      746,
+      1082,
+      994,
+      1118
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 3,
+    "reading": "Purba Medinipur (SC)",
+    "bbox": [
+      746,
+      1118,
+      994,
+      1154
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 4,
+    "reading": "Jhargram (SC)",
+    "bbox": [
+      746,
+      1154,
+      994,
+      1190
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 5,
+    "reading": "Paschim Bardhaman (SC)",
+    "bbox": [
+      746,
+      1190,
+      994,
+      1226
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 6,
+    "reading": "Birbhum (ST)",
+    "bbox": [
+      746,
+      1226,
+      994,
+      1262
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_deputy",
+    "axis": "women",
+    "table_row": 1,
+    "reading": "North 24 Parganas",
+    "bbox": [
+      994,
+      1082,
+      1188,
+      1118
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_deputy",
+    "axis": "women",
+    "table_row": 2,
+    "reading": "Jhargram",
+    "bbox": [
+      994,
+      1154,
+      1188,
+      1190
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e832905b97b1a389c628e510abfc927981763be13e1b0864bdcf8a06ded80651",
+    "page": 4,
+    "tier": "district_deputy",
+    "axis": "women",
+    "table_row": 3,
+    "reading": "Birbhum",
+    "bbox": [
+      994,
+      1226,
+      1188,
+      1262
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "d95d88ab6414b9ba10c818165f350d2fb881189c8d2f5a2edd102c1299e8d1e9",
+    "page": 2,
+    "tier": "block_head",
+    "axis": "caste",
+    "table_row": 1,
+    "reading": "KUMARGRAM (ST)",
+    "bbox": [
+      544,
+      562,
+      918,
+      652
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "d95d88ab6414b9ba10c818165f350d2fb881189c8d2f5a2edd102c1299e8d1e9",
+    "page": 2,
+    "tier": "block_head",
+    "axis": "caste",
+    "table_row": 2,
+    "reading": "KALCHINI (SC)",
+    "bbox": [
+      544,
+      768,
+      918,
+      858
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "d95d88ab6414b9ba10c818165f350d2fb881189c8d2f5a2edd102c1299e8d1e9",
+    "page": 2,
+    "tier": "block_head",
+    "axis": "caste",
+    "table_row": 3,
+    "reading": "FALAKATA (SC)",
+    "bbox": [
+      544,
+      980,
+      918,
+      1070
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "d95d88ab6414b9ba10c818165f350d2fb881189c8d2f5a2edd102c1299e8d1e9",
+    "page": 2,
+    "tier": "block_head",
+    "axis": "women",
+    "table_row": 1,
+    "reading": "KUMARGRAM",
+    "bbox": [
+      914,
+      562,
+      1186,
+      652
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "d95d88ab6414b9ba10c818165f350d2fb881189c8d2f5a2edd102c1299e8d1e9",
+    "page": 2,
+    "tier": "block_head",
+    "axis": "women",
+    "table_row": 2,
+    "reading": "ALIPURDUAR - II",
+    "bbox": [
+      914,
+      669,
+      1186,
+      759
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "d95d88ab6414b9ba10c818165f350d2fb881189c8d2f5a2edd102c1299e8d1e9",
+    "page": 2,
+    "tier": "block_head",
+    "axis": "women",
+    "table_row": 3,
+    "reading": "ALIPURDUAR - I",
+    "bbox": [
+      914,
+      875,
+      1186,
+      965
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "050451281ac4ff997842d0999d42344f99886a323d9f367152028d00ae5f57bb",
+    "page": 2,
+    "tier": "block_deputy",
+    "axis": "caste",
+    "table_row": 1,
+    "reading": "MADARIHAT-BIRPARA (SC)",
+    "bbox": [
+      544,
+      590,
+      922,
+      890
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "905fe1f58a347fc95973bcae468d16871f8a04eb116461b63ede602707b3b6ce",
+    "page": 2,
+    "tier": "block_head",
+    "axis": "caste",
+    "table_row": 1,
+    "reading": "KUMARGRAM (ST)",
+    "bbox": [
+      544,
+      562,
+      918,
+      652
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "905fe1f58a347fc95973bcae468d16871f8a04eb116461b63ede602707b3b6ce",
+    "page": 2,
+    "tier": "block_head",
+    "axis": "caste",
+    "table_row": 2,
+    "reading": "KALCHINI (SC)",
+    "bbox": [
+      544,
+      768,
+      918,
+      858
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "905fe1f58a347fc95973bcae468d16871f8a04eb116461b63ede602707b3b6ce",
+    "page": 2,
+    "tier": "block_head",
+    "axis": "caste",
+    "table_row": 3,
+    "reading": "FALAKATA (SC)",
+    "bbox": [
+      544,
+      980,
+      918,
+      1070
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "905fe1f58a347fc95973bcae468d16871f8a04eb116461b63ede602707b3b6ce",
+    "page": 2,
+    "tier": "block_head",
+    "axis": "women",
+    "table_row": 1,
+    "reading": "KUMARGRAM",
+    "bbox": [
+      914,
+      562,
+      1186,
+      652
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "905fe1f58a347fc95973bcae468d16871f8a04eb116461b63ede602707b3b6ce",
+    "page": 2,
+    "tier": "block_head",
+    "axis": "women",
+    "table_row": 2,
+    "reading": "ALIPURDUAR - II",
+    "bbox": [
+      914,
+      669,
+      1186,
+      759
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "905fe1f58a347fc95973bcae468d16871f8a04eb116461b63ede602707b3b6ce",
+    "page": 2,
+    "tier": "block_head",
+    "axis": "women",
+    "table_row": 3,
+    "reading": "ALIPURDUAR - I",
+    "bbox": [
+      914,
+      875,
+      1186,
+      965
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "535bb0e14f8cc7fc02760873bd41b7a720425bb8c4a325c0ca7a60fefb143c18",
+    "page": 2,
+    "tier": "block_deputy",
+    "axis": "caste",
+    "table_row": 1,
+    "reading": "MADARIHAT-BIRPARA (SC)",
+    "bbox": [
+      544,
+      590,
+      922,
+      890
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 1,
+    "reading": "Cooch Behar (SC)",
+    "bbox": [
+      752,
+      1075,
+      1000,
+      1111
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 2,
+    "reading": "Alipurduar (ST)",
+    "bbox": [
+      752,
+      1110,
+      1000,
+      1146
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 3,
+    "reading": "Siliguri (BC)",
+    "bbox": [
+      752,
+      1182,
+      1000,
+      1218
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 4,
+    "reading": "Uttar Dinajpur (SC)",
+    "bbox": [
+      752,
+      1212,
+      1000,
+      1248
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 5,
+    "reading": "Malda (SC)",
+    "bbox": [
+      752,
+      1239,
+      1000,
+      1275
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 6,
+    "reading": "Nadia (BC)",
+    "bbox": [
+      752,
+      1305,
+      1000,
+      1341
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 7,
+    "reading": "South 24 Parganas (SC)",
+    "bbox": [
+      752,
+      1348,
+      1000,
+      1384
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 8,
+    "reading": "Hooghly (SC)",
+    "bbox": [
+      752,
+      1413,
+      1000,
+      1449
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 9,
+    "reading": "Purulia (BC)",
+    "bbox": [
+      752,
+      1485,
+      1000,
+      1521
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 10,
+    "reading": "Purba Bardhaman (SC)",
+    "bbox": [
+      752,
+      1561,
+      1000,
+      1597
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 1,
+    "reading": "Cooch Behar",
+    "bbox": [
+      1000,
+      1075,
+      1200,
+      1111
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 2,
+    "reading": "Jalpaiguri",
+    "bbox": [
+      1000,
+      1146,
+      1200,
+      1182
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 3,
+    "reading": "Siliguri",
+    "bbox": [
+      1000,
+      1182,
+      1200,
+      1218
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 4,
+    "reading": "Malda",
+    "bbox": [
+      1000,
+      1239,
+      1200,
+      1275
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 5,
+    "reading": "Murshidabad",
+    "bbox": [
+      1000,
+      1269,
+      1200,
+      1305
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 6,
+    "reading": "South 24 Parganas",
+    "bbox": [
+      1000,
+      1348,
+      1200,
+      1384
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 7,
+    "reading": "Howrah",
+    "bbox": [
+      1000,
+      1385,
+      1200,
+      1421
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 8,
+    "reading": "Paschim Medinipur",
+    "bbox": [
+      1000,
+      1450,
+      1200,
+      1486
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 9,
+    "reading": "Purulia",
+    "bbox": [
+      1000,
+      1485,
+      1200,
+      1521
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 1,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 10,
+    "reading": "Bankura",
+    "bbox": [
+      1000,
+      1518,
+      1200,
+      1554
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 1,
+    "reading": "Dakshin Dinajpur (SC)",
+    "bbox": [
+      756,
+      395,
+      1002,
+      445
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 2,
+    "reading": "North 24 Parganas (SC)",
+    "bbox": [
+      756,
+      451,
+      1002,
+      501
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 3,
+    "reading": "Purba Medinipur (SC)",
+    "bbox": [
+      756,
+      509,
+      1002,
+      559
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 4,
+    "reading": "Jhargram (SC)",
+    "bbox": [
+      756,
+      560,
+      1002,
+      610
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 5,
+    "reading": "Paschim Bardhaman (SC)",
+    "bbox": [
+      756,
+      619,
+      1002,
+      669
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 6,
+    "reading": "Birbhum (ST)",
+    "bbox": [
+      756,
+      673,
+      1002,
+      723
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "women",
+    "table_row": 1,
+    "reading": "North 24 Parganas",
+    "bbox": [
+      1002,
+      451,
+      1203,
+      501
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "women",
+    "table_row": 2,
+    "reading": "Jhargram",
+    "bbox": [
+      1002,
+      560,
+      1203,
+      610
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "e6e6140ef80b5998ce7dc02385ef014f3ddeb67ce154133f62ff060dd94b609d",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "women",
+    "table_row": 3,
+    "reading": "Birbhum",
+    "bbox": [
+      1002,
+      673,
+      1203,
+      723
+    ],
+    "note": "Visually transcribed from source page; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 1,
+    "reading": "Alipurduar (SC)",
+    "bbox": [
+      762,
+      501,
+      1005,
+      533
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 2,
+    "reading": "Jalpaiguri (SC)",
+    "bbox": [
+      762,
+      534,
+      1005,
+      566
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 3,
+    "reading": "Siliguri (BC)",
+    "bbox": [
+      762,
+      568,
+      1005,
+      600
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 4,
+    "reading": "Dakshin Dinajpur (SC)",
+    "bbox": [
+      762,
+      636,
+      1005,
+      668
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 5,
+    "reading": "Murshidabad (BC)",
+    "bbox": [
+      762,
+      668,
+      1005,
+      700
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 6,
+    "reading": "North 24 Parganas (SC)",
+    "bbox": [
+      762,
+      735,
+      1005,
+      767
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 7,
+    "reading": "Purba Medinipur (BC)",
+    "bbox": [
+      762,
+      801,
+      1005,
+      833
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 8,
+    "reading": "Jhargram (SC)",
+    "bbox": [
+      762,
+      867,
+      1005,
+      899
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 9,
+    "reading": "Bankura (ST)",
+    "bbox": [
+      762,
+      900,
+      1005,
+      932
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "caste",
+    "table_row": 10,
+    "reading": "Paschim Bardhaman (SC)",
+    "bbox": [
+      762,
+      964,
+      1005,
+      996
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 1,
+    "reading": "Jalpaiguri",
+    "bbox": [
+      1005,
+      534,
+      1207,
+      566
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 2,
+    "reading": "Uttar Dinajpur",
+    "bbox": [
+      1005,
+      601,
+      1207,
+      633
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 3,
+    "reading": "Dakshin Dinajpur",
+    "bbox": [
+      1005,
+      635,
+      1207,
+      667
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 4,
+    "reading": "Nadia",
+    "bbox": [
+      1005,
+      703,
+      1207,
+      735
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 5,
+    "reading": "North 24 Parganas",
+    "bbox": [
+      1005,
+      735,
+      1207,
+      767
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 6,
+    "reading": "Howrah",
+    "bbox": [
+      1005,
+      767,
+      1207,
+      799
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 7,
+    "reading": "Paschim Medinipur",
+    "bbox": [
+      1005,
+      835,
+      1207,
+      867
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 8,
+    "reading": "Jhargram",
+    "bbox": [
+      1005,
+      868,
+      1207,
+      900
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 9,
+    "reading": "Purba Bardhaman",
+    "bbox": [
+      1005,
+      932,
+      1207,
+      964
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_head",
+    "axis": "women",
+    "table_row": 10,
+    "reading": "Paschim Bardhaman",
+    "bbox": [
+      1005,
+      964,
+      1207,
+      996
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 1,
+    "reading": "Cooch Behar (SC)",
+    "bbox": [
+      762,
+      1020,
+      1005,
+      1052
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 2,
+    "reading": "Malda (SC)",
+    "bbox": [
+      762,
+      1052,
+      1005,
+      1084
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 3,
+    "reading": "South 24 Parganas (SC)",
+    "bbox": [
+      762,
+      1085,
+      1005,
+      1117
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 4,
+    "reading": "Hooghly (SC)",
+    "bbox": [
+      762,
+      1118,
+      1005,
+      1150
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 5,
+    "reading": "Purulia (ST)",
+    "bbox": [
+      762,
+      1152,
+      1005,
+      1184
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "caste",
+    "table_row": 6,
+    "reading": "Birbhum (BC)",
+    "bbox": [
+      762,
+      1183,
+      1005,
+      1215
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "women",
+    "table_row": 1,
+    "reading": "Cooch Behar",
+    "bbox": [
+      1005,
+      1020,
+      1207,
+      1052
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "women",
+    "table_row": 2,
+    "reading": "South 24 Parganas",
+    "bbox": [
+      1005,
+      1085,
+      1207,
+      1117
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  },
+  {
+    "sha256": "08d7b1fb879fc3799edbf725f8b7023e9f9c8e203b04e44de7d3d44c6954abbb",
+    "page": 2,
+    "tier": "district_deputy",
+    "axis": "women",
+    "table_row": 3,
+    "reading": "Purulia",
+    "bbox": [
+      1005,
+      1152,
+      1207,
+      1184
+    ],
+    "note": "Visually transcribed from final Form 1D gazette dated 6 March 2018; independent verification pending."
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "fingerprint": {
+    "source_sha256": "4c6f94270d610059c90b650646b82d200067bfdddd9993c3087c2ef5a9e93899",
+    "source_page": 3,
+    "bbox": [
+      985.04,
+      794.19,
+      1218.41,
+      826.48
+    ],
+    "bbox_units": "rendered_original_page_pixels_scale_to_1800",
+    "dpi": 360,
+    "recipe": "source_bbox_v1",
+    "renderer": "pdfplumber",
+    "pdfplumber_version": "0.11.10",
+    "pillow_version": "12.3.0"
+  },
+  "image_sha256": "c88f38b076451a5f22d7353d14cb1ff11b06c11add0551ebb67d434158e4a189",
+  "pdf_bbox": [
+    462.4215555555555,
+    372.8280833333334,
+    571.9758055555556,
+    387.98644444444443
+  ],
+  "verified_by": "fresh_source_render_byte_comparison"
+}

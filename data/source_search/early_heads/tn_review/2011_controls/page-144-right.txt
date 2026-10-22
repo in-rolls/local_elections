@@ -1,0 +1,44 @@
+1 2 3
+AMBASAMUDRAM PANCHAYAT UNION
+1 Terkku PappanKulam S.C. (Women)
+2 Vagai Kulam S.C. (General)
+3 Brammadesam General (Women)
+4 Sivanthipuram General (Women)
+5 Vellanguli General (Women)
+6 Adayakarun Kulam General
+7 Ayansingampatti General
+8 Ayanthiruvalis waram General
+9 Kodaran Kulam General
+10 Mannar Kovil General
+11 Vairavi Kulam General
+12 Zamin Singampatti General
+CHERANMAHADEVI PANCHAYAT UNION
+1 Vadakku Karukurichi S.C. (Women)
+2 Malayankulam S.C. (General)
+3 Therkku Veeravanallur S.C. (General)
+4 Karisalpatti General (Women)
+5 Kooniyoor General (Women)
+6 Pudukudi General (Women)
+7 Moolachi General
+8 Pottal General
+9 Therkku Ariyanayagipuram General
+10 Thiruviruthanpulli General
+11 Ulagankulam General
+12 Venkatrengapuram General
+PALAYAMKOTTAI PANCHAYAT UNION
+1 Rajavallipuram S.C. (Women)
+2 Ramayanpatti S.C. (Women)
+3 Thirumalaikolundupuram S.C. (Women)
+4 Ariyakulam S.C. (General)
+5 Itteri S.C. (General)
+6 Konganthanparai S.C. (General)
+7 Nochikulam S.C. (General)
+8 Tharuvai S.C. (General)
+9 Kansapuram General (Women)
+10 Maruthur General (Women)
+11 Melaputhaneri General (Women)
+12 Melathidiyoor General (Women)
+13 Muthur General (Women)
+14 Palayamchettikulam General (Women)
+15 Reddiyarpatti General (Women)
+16 Keelanatham General

@@ -1,0 +1,98 @@
+[
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+    "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+    "source_page": 1,
+    "office": null,
+    "status": "cover_or_enabling_order",
+    "rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+    "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+    "source_page": 2,
+    "office": null,
+    "status": "cover_or_enabling_order",
+    "rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+    "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+    "source_page": 3,
+    "office": null,
+    "status": "cover_or_enabling_order",
+    "rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+    "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+    "source_page": 4,
+    "office": null,
+    "status": "cover_or_enabling_order",
+    "rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+    "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+    "source_page": 5,
+    "office": "pradhan",
+    "status": "parsed_named_schedule",
+    "rows": 40
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+    "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+    "source_page": 6,
+    "office": "pradhan",
+    "status": "parsed_named_schedule",
+    "rows": 10
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+    "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+    "source_page": 7,
+    "office": null,
+    "status": "cover_or_enabling_order",
+    "rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+    "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+    "source_page": 8,
+    "office": "upa_pradhan",
+    "status": "parsed_named_schedule",
+    "rows": 16
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+    "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+    "source_page": 9,
+    "office": null,
+    "status": "cover_or_enabling_order",
+    "rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+    "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+    "source_page": 10,
+    "office": "sabhapati",
+    "status": "parsed_named_schedule",
+    "rows": 5
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+    "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+    "source_page": 11,
+    "office": null,
+    "status": "cover_or_enabling_order",
+    "rows": 0
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_OfficeBearer_a3ef850d.pdf",
+    "source_sha256": "0e5a4e266527973820c56229f712cc7f093670ef61179177f61face3369fa734",
+    "source_page": 12,
+    "office": "sahakari_sabhapati",
+    "status": "parsed_named_schedule",
+    "rows": 1
+  }
+]

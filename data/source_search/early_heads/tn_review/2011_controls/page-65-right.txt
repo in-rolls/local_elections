@@ -1,0 +1,33 @@
+1 2 3
+MORAPPUR PANCHAYAT UNION Contd.,
+33 Sillarahalli General
+34 Vagurappampatti General
+35 Thoppampatti General
+36 Sandapatti General
+37 Gobinathampatti General
+38 Jakkupatti General
+39 Kelavalli General
+40 Oblinaickanahalli General
+41 Nallgudlahalli General
+42 Bannikulam General
+43 Venkadatharahalli General
+PAPPIREDDIPATTI PANCHAYAT UNION
+1 Pattukonampatti ST (Women)
+2 Irulapatti ST (Women)
+3 Bairanatham ST (General)
+4 Molaiyanoor ST (General)
+5 Mookkareddipatti SC (Women)
+6 Boothanatham SC (women)
+7 Venkadasamudram SC (General)
+8 Menasi SC (General)
+9 Pudupatti General (Women)
+10 Bommidi General (Women)
+11 A.Pallipatti General (Women)
+12 Alapuram General
+13 Sitheri General
+14 Goundampatti General
+15 Adigarapatti General
+16 Pappambadi General
+17 B.Pallipatti General
+18 Manjavadi General
+19 Boothakkadu General

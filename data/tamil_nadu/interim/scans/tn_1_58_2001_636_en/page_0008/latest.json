@@ -1,0 +1,98 @@
+{
+  "identity": {
+    "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+    "source_page": 8,
+    "engine": {
+      "extractor_version": 1,
+      "versions": {
+        "tesseract": "tesseract 5.5.2\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.2.12 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found NEON\n Found libarchive 3.8.6 zlib/1.2.12 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.7.4 CommonCrypto/system libb2/system\n Found libcurl/8.7.1 SecureTransport (LibreSSL/3.3.6) zlib/1.2.12 nghttp2/1.68.1",
+        "pdftoppm": "pdftoppm version 26.03.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC"
+      },
+      "traineddata": {
+        "eng": {
+          "path": "/opt/homebrew/share/tessdata/eng.traineddata",
+          "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+        }
+      },
+      "settings": {
+        "language": "eng",
+        "dpi": 300,
+        "psm": 3,
+        "oem": 1,
+        "OMP_THREAD_LIMIT": "1",
+        "rotation_clockwise": 0,
+        "render_format": "png",
+        "render_grayscale": false
+      }
+    }
+  },
+  "source_url": "https://tnrd.tn.gov.in/project/go_files/1_58_2001_636_en.pdf",
+  "source_path": "/Users/soodoku/Documents/GitHub/local_elections/data/source_search/early_heads/raw/tn_1_58_2001_636_en.pdf",
+  "source_page_bbox": [
+    0,
+    0,
+    595,
+    842
+  ],
+  "started_utc": "2026-09-08T05:39:11.621013+00:00",
+  "status": "extracted",
+  "semantic_status": "raw_extraction_only_not_reservation_records",
+  "artifacts": {
+    "image": {
+      "path": "attempts/f6448dd9df7b46d3928c9476f03f2d02/source.png",
+      "sha256": "c8080aae41621c2953b5359b595ce33de94d1ee1408283ad081fff82917f9b7e",
+      "bytes": 2957434
+    },
+    "tsv": {
+      "path": "attempts/f6448dd9df7b46d3928c9476f03f2d02/ocr.tsv",
+      "sha256": "7b3034abb0576499b930a2181ae1d1a1be0a70f6a1caaa236f8ab5120e80e19e",
+      "bytes": 25348
+    },
+    "text": {
+      "path": "attempts/f6448dd9df7b46d3928c9476f03f2d02/ocr.txt",
+      "sha256": "f4406a4d30df6eb0d86c601b7989dfe6c506b947f7fb842eca763555be99cf44",
+      "bytes": 1443
+    },
+    "stderr": {
+      "path": "attempts/f6448dd9df7b46d3928c9476f03f2d02/stderr.txt",
+      "sha256": "b867f06804f7a12476f18789d1cbb3b5f64c9ee774419c8c35153ff4698e8823",
+      "bytes": 25
+    }
+  },
+  "commands": [
+    [
+      "pdftoppm",
+      "-f",
+      "8",
+      "-l",
+      "8",
+      "-r",
+      "300",
+      "-singlefile",
+      "-png",
+      "/Users/soodoku/Documents/GitHub/local_elections/data/source_search/early_heads/raw/tn_1_58_2001_636_en.pdf",
+      "/Users/soodoku/Documents/GitHub/local_elections/data/tn/derived/scans/tn_1_58_2001_636_en/page_0008/attempts/f6448dd9df7b46d3928c9476f03f2d02/source"
+    ],
+    [
+      "tesseract",
+      "/Users/soodoku/Documents/GitHub/local_elections/data/tn/derived/scans/tn_1_58_2001_636_en/page_0008/attempts/f6448dd9df7b46d3928c9476f03f2d02/source.png",
+      "/Users/soodoku/Documents/GitHub/local_elections/data/tn/derived/scans/tn_1_58_2001_636_en/page_0008/attempts/f6448dd9df7b46d3928c9476f03f2d02/ocr",
+      "-l",
+      "eng",
+      "--psm",
+      "3",
+      "--oem",
+      "1",
+      "tsv",
+      "txt"
+    ]
+  ],
+  "image_size": [
+    2480,
+    3509
+  ],
+  "nonempty_word_count": 253,
+  "text_characters": 1378,
+  "finished_utc": "2026-09-08T05:39:18.815138+00:00",
+  "elapsed_seconds": 7.194
+}

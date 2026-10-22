@@ -1,0 +1,44 @@
+{
+  "manual_index_physical_entries": 531,
+  "manual_index_unique_hashes": 516,
+  "native_index_physical_pdfs": 518,
+  "unique_pdfs": 552,
+  "unique_pdf_pages": 4094,
+  "scope_counts": {
+    "gp_source_search": {
+      "unique_pdfs": 503,
+      "unique_pages": 2838
+    },
+    "base_2018_gazettes": {
+      "unique_pdfs": 39,
+      "unique_pages": 181
+    },
+    "search_references": {
+      "unique_pdfs": 11,
+      "unique_pages": 1082
+    }
+  },
+  "pages_with_parser_audit": 4094,
+  "pages_native_only": 0,
+  "ward_ocr_cached_pages": 1523,
+  "ward_semantic_coverage": {
+    "ocr_pages": 1523,
+    "coverage": {
+      "candidate_rows": 1046,
+      "raw_only": 458,
+      "verified_nondata": 19
+    },
+    "pages_with_any_reservation_field": 689,
+    "raw_only_distinct_documents": 149,
+    "page_ledger": "data/wb/derived/ward_schedules/semantic_backlog.csv",
+    "quality_claim": "Candidate coverage is not complete semantic parsing. OCR names/codes require review; null fields remain unresolved. Raw-only reasons are parser diagnostics except explicitly source-verified nondata pages."
+  },
+  "base_ocr_evidence_pages": 181,
+  "raw_pdf_coverage": {
+    "physical_pdf_paths_on_disk": 568,
+    "unique_pdf_hashes_on_disk": 552,
+    "unindexed_pdf_paths": [],
+    "indexed_hashes_absent_from_disk": []
+  },
+  "note": "A parser audit can still report pending OCR, unresolved cells, or reference-only material. Consult per-page evidence. Row counts are not unique GP counts."
+}

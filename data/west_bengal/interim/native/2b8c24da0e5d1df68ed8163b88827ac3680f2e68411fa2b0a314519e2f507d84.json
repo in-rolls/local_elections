@@ -1,0 +1,563 @@
+{
+  "version": 1,
+  "sha256": "2b8c24da0e5d1df68ed8163b88827ac3680f2e68411fa2b0a314519e2f507d84",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n( FORM – B1)\nBlock : Ranaghat-I Panchayat Samiti: Ranaghat-I\nNumber of\nConstituency reserved for\nmembers to be Constituency reserved\nNumber and name of the Scheduled castes and\nName of Gram elected to the Area of the constituency for Women showing\nconstituency Scheduled Tribes persons\nPanchayat serial numbers\nshowing serial number\nSamiti\n1 2 3 4 5 6\nBarasat/I,II,III,IV&V\nBarasat/PS-1 Part No.79/161,162,163, _\n164,165 1(W)\nBarasat/VI,VII,VIII,IX,X,XI\nBarasat 3 Barasat/PS-2 _ _\nPart No. 79/166,167,168,\n169,170,171\nBarasat/XII,XIII,XIV,XV,XVI\nBarasat/PS-3 Part No. 79/172,173,174, _ _\n175,176\nKhisma/I,II,III\nKhisma/PS-4 _\nPart No. 79/190,191,192 4(W)\nKhisma/IV,V,VIII\nKhisma 3 Khisma/PS-5\nPart No. 79/193,194,197 5SC 5SC(W)\nKhisma/VI,VII\nKhisma/PS-6 _\nPart No. 79/195,196 6SC\nRamnagar-II/I,II,III\nRamnagar-II/PS-7 _\nPart No. 81/1,2,3 7SC\nRamnagar-II/IV,V\nRamnagar-II 3 Ramnagar-II/PS-8\nPart No.81/4,5 8SC 8SC(W)\nRamnagar-II/VI,VII,VIII\nRamnagar-II/PS-9 _ _\nPart No.81/6,7,8\nRamnagar-I/I,II,III,IV\nRamnagar-I/PS-10 _\nPart No.81/9,10,11,12 10SC\nRamnagar-I/V,X,XI\nRamnagar-I 3 Ramnagar-I/PS-11 _\nPart No.81/13,18,19 11SC\nRamnagar-I/VI,VII,VIII,IX\nRamnagar-I/PS-12 _ _\nPart No.81/14,15,16,17\nKalinarayanpur\nKalinarayanpur\nPaharpur/I,II,III,IV,V\nPaharpur/PS-13\nPart No.81/20,21,22,23,24 13SC 13SC(W)\nKalinarayanpur\nKalinarayanpur Kalinarayanpur\n3 Paharpur/VI,VII,VIII,IX,X _\nPaharpur Paharpur/PS-14\nPart No.81/25,26,27,28,29 14 SC\nKalinarayanpur\nKalinarayanpur\nPaharpur/XI,XII,XIII, XIV _\nPaharpur/PS-15\nPart No.81/30,31,32,33 15(W)\nHabibpur/I,II,III,IV\nHabibpur/PS-16 _\nPart No.81/116,117,118,119\n16SC\nHabibpur 3 Habibpur/V,VI,VII\nHabibpur/PS-17\nPart No.81/120,121,122 17SC 17SC(W)\nHabibpur/VIII,IX,X\nHabibpur/PS-18 _ _\nPart No.81/123,124,125\nTarapur/I,II,III\nTarapur/PS-19 _ _\nPart No.81/126,127,128\nTarapur 2\nTarapur/IV,V,VI\nTarapur/PS-20 _\nPart No .81/129,130,131 20 (W)\nPage 1 of 4",
+      "tables": [
+        {
+          "bbox": [
+            50.8566,
+            85.6128,
+            566.694,
+            723.59952
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number and name of the\nconstituency",
+              "Area of the constituency",
+              "Constituency reserved for\nScheduled castes and\nScheduled Tribes persons\nshowing serial number",
+              "Constituency reserved\nfor Women showing\nserial numbers"
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Barasat",
+              "3",
+              "Barasat/PS-1",
+              "Barasat/I,II,III,IV&V",
+              "_",
+              "1(W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.79/161,162,163,\n164,165",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Barasat/PS-2",
+              "Barasat/VI,VII,VIII,IX,X,XI",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 79/166,167,168,\n169,170,171",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Barasat/PS-3",
+              "Barasat/XII,XIII,XIV,XV,XVI",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 79/172,173,174,\n175,176",
+              null,
+              null
+            ],
+            [
+              "Khisma",
+              "3",
+              "Khisma/PS-4",
+              "Khisma/I,II,III",
+              "_",
+              "4(W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 79/190,191,192",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Khisma/PS-5",
+              "Khisma/IV,V,VIII",
+              "5SC",
+              "5SC(W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 79/193,194,197",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Khisma/PS-6",
+              "Khisma/VI,VII",
+              "6SC",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 79/195,196",
+              null,
+              null
+            ],
+            [
+              "Ramnagar-II",
+              "3",
+              "Ramnagar-II/PS-7",
+              "Ramnagar-II/I,II,III",
+              "7SC",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 81/1,2,3",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Ramnagar-II/PS-8",
+              "Ramnagar-II/IV,V",
+              "8SC",
+              "8SC(W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/4,5",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Ramnagar-II/PS-9",
+              "Ramnagar-II/VI,VII,VIII",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/6,7,8",
+              null,
+              null
+            ],
+            [
+              "Ramnagar-I",
+              "3",
+              "Ramnagar-I/PS-10",
+              "Ramnagar-I/I,II,III,IV",
+              "10SC",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/9,10,11,12",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Ramnagar-I/PS-11",
+              "Ramnagar-I/V,X,XI",
+              "11SC",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/13,18,19",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Ramnagar-I/PS-12",
+              "Ramnagar-I/VI,VII,VIII,IX",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/14,15,16,17",
+              null,
+              null
+            ],
+            [
+              "Kalinarayanpur\nPaharpur",
+              "3",
+              "Kalinarayanpur\nPaharpur/PS-13",
+              "Kalinarayanpur\nPaharpur/I,II,III,IV,V",
+              "13SC",
+              "13SC(W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/20,21,22,23,24",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Kalinarayanpur\nPaharpur/PS-14",
+              "Kalinarayanpur\nPaharpur/VI,VII,VIII,IX,X",
+              "14 SC",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/25,26,27,28,29",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Kalinarayanpur\nPaharpur/PS-15",
+              "Kalinarayanpur\nPaharpur/XI,XII,XIII, XIV",
+              "_",
+              "15(W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/30,31,32,33",
+              null,
+              null
+            ],
+            [
+              "Habibpur",
+              "3",
+              "Habibpur/PS-16",
+              "Habibpur/I,II,III,IV",
+              "16SC",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/116,117,118,119",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Habibpur/PS-17",
+              "Habibpur/V,VI,VII",
+              "17SC",
+              "17SC(W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/120,121,122",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Habibpur/PS-18",
+              "Habibpur/VIII,IX,X",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/123,124,125",
+              null,
+              null
+            ],
+            [
+              "Tarapur",
+              "2",
+              "Tarapur/PS-19",
+              "Tarapur/I,II,III",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/126,127,128",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Tarapur/PS-20",
+              "Tarapur/IV,V,VI",
+              "_",
+              "20 (W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No .81/129,130,131",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1988
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Number of\nConstituency reserved for\nmembers to be Constituency reserved\nNumber and name of the Scheduled castes and\nName of Gram elected to the Area of the Constituency for Women showing\nconstituency Scheduled Tribes persons\nPanchayat serial numbers\nshowing serial number\nSamiti\n1 2 3 4 5 6\nNawpara Nawpara Masunda/I,II,III\n_ _\nMasunda/PS-21 Part No81/132,133,134\nNawpara Nawpara Masunda/IV,V,VI\nNawpara _ _\n3 Masunda/PS-22 Part No.81/135,136,137\nMasunda\nNawpara\nNawpara Masunda/VII,VIII,IX _\nMasunda/PS-23\nPart No81/138,139,140 23(W)\nAnulia/I,II,XI\nAnulia/PS-24 _ _\nPart No81/141,142,151\nAnulia/III,IV,VII,VIII\nAnulia/PS-25 Part No. 81/143,144, _ _\nAnulia 3\n147,148\nAnulia/V,VI,IX,X\nAnulia/PS-26 _\nPart No 81/145,146,149,150 26(W)\nPayradanga/I,II,III,IV,V\nPayradanga/PS-27 Part No 81/152,153,154, _ _\n155,156\nPayradanga/VI,VII,VIII,IX\nPayradanga 3 Payradanga/PS-28 Part No .81/157,158, 159, _ _\n160\nPayradanga/X,XI,XII,XIII,XIV\nPayradanga/PS-29 Part No.81/161,162,163, _ _\n164, 165\nDate 07.02.2008\nDistrict Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\nPage 2 of 4",
+      "tables": [
+        {
+          "bbox": [
+            50.8566,
+            42.77663460000008,
+            566.694,
+            388.46760000000006
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number and name of the\nconstituency",
+              "Area of the Constituency",
+              "Constituency reserved for\nScheduled castes and\nScheduled Tribes persons\nshowing serial number",
+              "Constituency reserved\nfor Women showing\nserial numbers"
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Nawpara\nMasunda",
+              "3",
+              "Nawpara\nMasunda/PS-21",
+              "Nawpara Masunda/I,II,III",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No81/132,133,134",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Nawpara\nMasunda/PS-22",
+              "Nawpara Masunda/IV,V,VI",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/135,136,137",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Nawpara\nMasunda/PS-23",
+              "Nawpara Masunda/VII,VIII,IX",
+              "_",
+              "23(W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No81/138,139,140",
+              null,
+              null
+            ],
+            [
+              "Anulia",
+              "3",
+              "Anulia/PS-24",
+              "Anulia/I,II,XI",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No81/141,142,151",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Anulia/PS-25",
+              "Anulia/III,IV,VII,VIII",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No. 81/143,144,\n147,148",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Anulia/PS-26",
+              "Anulia/V,VI,IX,X",
+              "_",
+              "26(W)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No 81/145,146,149,150",
+              null,
+              null
+            ],
+            [
+              "Payradanga",
+              "3",
+              "Payradanga/PS-27",
+              "Payradanga/I,II,III,IV,V",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No 81/152,153,154,\n155,156",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Payradanga/PS-28",
+              "Payradanga/VI,VII,VIII,IX",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No .81/157,158, 159,\n160",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Payradanga/PS-29",
+              "Payradanga/X,XI,XII,XIII,XIV",
+              "_",
+              "_"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Part No.81/161,162,163,\n164, 165",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1006
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "Page 3 of 4",
+      "tables": [],
+      "images": 0,
+      "characters": 11
+    },
+    {
+      "page": 4,
+      "width": 612,
+      "height": 792,
+      "text": "Page 4 of 4",
+      "tables": [],
+      "images": 0,
+      "characters": 11
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 4
+}

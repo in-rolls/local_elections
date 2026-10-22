@@ -1,0 +1,260 @@
+{
+  "year": 2003,
+  "district": "Bardhaman",
+  "blocks": 31,
+  "gram_panchayats": 277,
+  "archived_gp_pages": 34,
+  "block_checks": [
+    {
+      "block_code": "01",
+      "block": "ANDAL",
+      "n_gps": 8,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "02",
+      "block": "AUSGRAM-I",
+      "n_gps": 7,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "03",
+      "block": "AUSGRAM-II",
+      "n_gps": 7,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "04",
+      "block": "BARABANI",
+      "n_gps": 8,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "05",
+      "block": "BHATAR",
+      "n_gps": 14,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "06",
+      "block": "BURDWAN-I",
+      "n_gps": 9,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "07",
+      "block": "BURDWAN-II",
+      "n_gps": 9,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "08",
+      "block": "DURGAPUR-FARIDPUR",
+      "n_gps": 6,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "09",
+      "block": "GALSI-I",
+      "n_gps": 9,
+      "source_variants": 2,
+      "mismatches": {}
+    },
+    {
+      "block_code": "10",
+      "block": "GALSI-II",
+      "n_gps": 9,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "11",
+      "block": "JAMALPUR",
+      "n_gps": 13,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "12",
+      "block": "JAMURIA",
+      "n_gps": 10,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "13",
+      "block": "KALNA I",
+      "n_gps": 9,
+      "source_variants": 2,
+      "mismatches": {}
+    },
+    {
+      "block_code": "14",
+      "block": "KALNA-II",
+      "n_gps": 8,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "15",
+      "block": "KANKSA",
+      "n_gps": 7,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "16",
+      "block": "KATWA-I",
+      "n_gps": 9,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "17",
+      "block": "KATWA-II",
+      "n_gps": 7,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "18",
+      "block": "KETUGRAM-I",
+      "n_gps": 8,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "19",
+      "block": "KETUGRAM-II",
+      "n_gps": 7,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "20",
+      "block": "KHANDOGHOSH",
+      "n_gps": 10,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "21",
+      "block": "MEMARI-I",
+      "n_gps": 10,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "22",
+      "block": "MEMARI-II",
+      "n_gps": 9,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "23",
+      "block": "MONGALKOTE",
+      "n_gps": 15,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "24",
+      "block": "MONTESWAR",
+      "n_gps": 13,
+      "source_variants": 2,
+      "mismatches": {}
+    },
+    {
+      "block_code": "25",
+      "block": "PANDABESWAR",
+      "n_gps": 6,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "26",
+      "block": "PURBASTHALI-I",
+      "n_gps": 7,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "27",
+      "block": "PURBASTHALI-II",
+      "n_gps": 10,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "28",
+      "block": "RAINA-I",
+      "n_gps": 8,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "29",
+      "block": "RAINA-II",
+      "n_gps": 8,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "30",
+      "block": "RANIGANJ",
+      "n_gps": 6,
+      "source_variants": 1,
+      "mismatches": {}
+    },
+    {
+      "block_code": "31",
+      "block": "SALANPUR",
+      "n_gps": 11,
+      "source_variants": 1,
+      "mismatches": {}
+    }
+  ],
+  "needs_review": 6,
+  "gp_column_totals": {
+    "seats_total": 4345,
+    "seats_uncontested": 1229,
+    "seats_election_held": 3116,
+    "contesting_candidates": 7124,
+    "CPI(M)": 3357,
+    "CPI": 88,
+    "AIFB": 91,
+    "RSP": 43,
+    "INC": 232,
+    "AITC": 289,
+    "BJP": 142,
+    "CPI(ML)": 2,
+    "NCP": 1,
+    "IND": 89
+  },
+  "block_column_totals": {
+    "seats_total": 4345,
+    "seats_uncontested": 1229,
+    "seats_election_held": 3116,
+    "contesting_candidates": 7124,
+    "CPI(M)": 3357,
+    "CPI": 88,
+    "AIFB": 91,
+    "RSP": 43,
+    "INC": 232,
+    "AITC": 289,
+    "BJP": 142,
+    "CPI(ML)": 2,
+    "NCP": 1,
+    "IND": 89
+  },
+  "limitation": "Party seat counts including uncontested winners; no candidate names, votes or reservation categories."
+}

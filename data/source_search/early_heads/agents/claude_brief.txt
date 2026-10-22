@@ -1,0 +1,9 @@
+Research historical GP-head election and reservation sources for Rajasthan, Uttar Pradesh and Bihar. Prioritize the earliest post-1993 cycles through 2005. This is source discovery, not estimation or release review.
+
+First read /Users/soodoku/Documents/GitHub/local_elections/SOURCES.md and relevant state data directories, read-only. Do not duplicate known later collections. Search official SEC, Panchayati Raj, district, block, gazette, Wayback and primary research replication sources. Expand Sarpanch, Pradhan and Mukhiya terminology, spelling variants, old hosts, reservation orders and head formation/election rosters.
+
+Report these fields separately: GP identifier/name; GP-head reservation; head winner identity; explicitly recorded head winner sex; election/reference year; original URL; archive snapshot URL; file availability. Ward reservation is not head reservation. Survey incumbent sex is not verified election-winner sex. Never infer sex from names or reservation, or turn positive-list absence into unreserved.
+
+Return exact downloadable URLs, title, publisher, dates and page/section evidence. Distinguish inspected files, metadata, snippets and blocked leads. Keep a query/failure log. Give a verdict and up to five strong leads per state, with exclusions and next queries. Counts must be supported by inspected evidence. Use primary sources for final claims.
+
+Do not edit local files, submit forms/guestbooks, contact people, change authentication or run expensive OCR. Your stdout is archived; the parent independently verifies and downloads sources. State remaining uncertainty explicitly.

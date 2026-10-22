@@ -1,0 +1,235 @@
+[
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/purulia_PanchElec_1.pdf",
+    "source_sha256": "38ce86c0341b47fb55891dfdcf14115362392f2bd42f9b99e038a3baaf98bde6",
+    "source_page": 1,
+    "district": "Purulia",
+    "year": "2013",
+    "content_kind": "election_administration_notice",
+    "status": "ocr_reference_extracted",
+    "source_page_bbox": [
+      0,
+      0,
+      1008,
+      612
+    ],
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/38ce86c0341b47fb55891dfdcf14115362392f2bd42f9b99e038a3baaf98bde6.json",
+    "ocr_cache": "data/wb/derived/ancillary/ocr/38ce86c0341b47fb55891dfdcf14115362392f2bd42f9b99e038a3baaf98bde6/0001.json"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/purulia_PanchElec_1.pdf",
+    "source_sha256": "38ce86c0341b47fb55891dfdcf14115362392f2bd42f9b99e038a3baaf98bde6",
+    "source_page": 2,
+    "district": "Purulia",
+    "year": "2013",
+    "content_kind": "election_administration_notice",
+    "status": "ocr_reference_extracted",
+    "source_page_bbox": [
+      0,
+      0,
+      1008,
+      612
+    ],
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/38ce86c0341b47fb55891dfdcf14115362392f2bd42f9b99e038a3baaf98bde6.json",
+    "ocr_cache": "data/wb/derived/ancillary/ocr/38ce86c0341b47fb55891dfdcf14115362392f2bd42f9b99e038a3baaf98bde6/0002.json"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/purulia_PanchElec_2.pdf",
+    "source_sha256": "f56d0981d67cfc180cf85a8abab6f3d6a4be5b5c8f0324a76678aa0489844c2e",
+    "source_page": 1,
+    "district": "Purulia",
+    "year": "2013",
+    "content_kind": "election_administration_notice",
+    "status": "ocr_reference_extracted",
+    "source_page_bbox": [
+      0,
+      0,
+      596,
+      842
+    ],
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/f56d0981d67cfc180cf85a8abab6f3d6a4be5b5c8f0324a76678aa0489844c2e.json",
+    "ocr_cache": "data/wb/derived/ancillary/ocr/f56d0981d67cfc180cf85a8abab6f3d6a4be5b5c8f0324a76678aa0489844c2e/0001.json"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/purulia_PanchElec_2.pdf",
+    "source_sha256": "f56d0981d67cfc180cf85a8abab6f3d6a4be5b5c8f0324a76678aa0489844c2e",
+    "source_page": 2,
+    "district": "Purulia",
+    "year": "2013",
+    "content_kind": "election_administration_notice",
+    "status": "ocr_reference_extracted",
+    "source_page_bbox": [
+      0,
+      0,
+      842,
+      596
+    ],
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/f56d0981d67cfc180cf85a8abab6f3d6a4be5b5c8f0324a76678aa0489844c2e.json",
+    "ocr_cache": "data/wb/derived/ancillary/ocr/f56d0981d67cfc180cf85a8abab6f3d6a4be5b5c8f0324a76678aa0489844c2e/0002.json"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/purulia_PanchElec_2.pdf",
+    "source_sha256": "f56d0981d67cfc180cf85a8abab6f3d6a4be5b5c8f0324a76678aa0489844c2e",
+    "source_page": 3,
+    "district": "Purulia",
+    "year": "2013",
+    "content_kind": "election_administration_notice",
+    "status": "ocr_reference_extracted",
+    "source_page_bbox": [
+      0,
+      0,
+      842,
+      596
+    ],
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/f56d0981d67cfc180cf85a8abab6f3d6a4be5b5c8f0324a76678aa0489844c2e.json",
+    "ocr_cache": "data/wb/derived/ancillary/ocr/f56d0981d67cfc180cf85a8abab6f3d6a4be5b5c8f0324a76678aa0489844c2e/0003.json"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/archived_district_files/purulia_PanchElec_3.pdf",
+    "source_sha256": "5baca16e908addd6c705f89ff6151534990a04b1a48c5b3688c37187899746e1",
+    "source_page": 1,
+    "district": "Purulia",
+    "year": "2013",
+    "content_kind": "election_administration_notice",
+    "status": "ocr_reference_extracted",
+    "source_page_bbox": [
+      0,
+      0,
+      595,
+      842
+    ],
+    "raw_text": "f¢ÕQjh‰ plL¡l\n−Sm¡ f’¡−ua ¢ehÑ¡Qe B¢dL¡¢lL J −Sm¡ pj¡qaÑ¡l L¡kÑÉ¡mu\nf¤l¦¢mu¡\n¢¢¢¢hhhh‘‘‘‘¢¢¢¢çççç\nHaà¡l¡ Aøj f¢ÕQjh‰ f’¡−ua p¡d¡le ¢ehÑ¡Q−e f¤l¦¢mu¡ −Sm¡u ¢ehÑ¡Qe\nfË¢œ²u¡l p−‰ k¤š² pw¢nÔø pLm−L S¡e¡−e¡ k¡−µR −k jq¡j¡eÉ p¤¤fË£j −L¡VÑ\nHl B−cnh−m J f¢ÕQjh‰ ¢ehÑ¡Qe B−u¡−Nl B−cn¡e¤œ²−j 02-07-\n2013 a¡¢l−M Ae¤¢ùahÉ ¢ehÑ¡Qe h¡¢am qmz H ¢ho−u f¢lh¢aÑa p§Q£\nkb¡pj−u S¡e¡−e¡ q−hz\nB−cnh−m\n−Sm¡ f’¡−ua ¢ehÑ¡Qe B¢dL¡¢lL\nJ\n−Sm¡ pj¡qaÑ¡, f¤l¦¢mu¡",
+    "native_cache": "data/wb/derived/native/5baca16e908addd6c705f89ff6151534990a04b1a48c5b3688c37187899746e1.json",
+    "ocr_cache": "data/wb/derived/ancillary/ocr/5baca16e908addd6c705f89ff6151534990a04b1a48c5b3688c37187899746e1/0001.json"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_AT_A_GLANCE_a5fb489b.pdf",
+    "source_sha256": "b49d17531e69ad192a9c0cd0548b6126fb64a2741a68444e72d663840f066501",
+    "source_page": 1,
+    "district": "Alipurduar",
+    "year": "2018",
+    "content_kind": "reservation_or_election_source",
+    "status": "native_table_parsed",
+    "source_page_bbox": [
+      0,
+      0,
+      792,
+      612
+    ],
+    "raw_text": "PANCHAYAT GENERAL ELECTION, 2018\nP.S. WITH P.S. WITH\nNo. of Premises\nNO. OF Main ELECTOR>1250 ELECTOR>1400 No. of Total No.\nBLOCK Total Elector\nP.S. EXCLUDING DEVIDED INTO TWO Sector Quadrup of P.S.\nSingle Double Triple Total\n1400+ PARTS( AUX) le\nKUMARGRAM 180 6 0 17 154 13 0 0 167 180 149780\nALIPURDUAR - II 183 12 1 (10/190) 18 133 24 1 0 158 184 168448\nKALCHINI 228 14 6 (11/4,8,18,25,28,38) 24 151 29 7 1 188 234 205726\nALIPURDUAR - I 181 9 1 (12/112) 20 102 40 0 0 142 182 163427\nFALAKATA 241 16 2 (13/68,106) 24 185 29 0 0 214 243 219509\nMADARIHAT-\n167 11 0 18 101 28 2 1 132 167 145790\nBIRPARA\nTOTAL 1180 68 10 121 826 163 10 2 1001 1190 1052680",
+    "native_cache": "data/wb/derived/native/b49d17531e69ad192a9c0cd0548b6126fb64a2741a68444e72d663840f066501.json"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_ContestingCandidate_786d71d9.pdf",
+    "source_sha256": "a437b52f4a809130e0a936420da7dd7e0c4e10ce794126732b11ef54cccd3265",
+    "source_page": 1,
+    "district": "Alipurduar",
+    "year": "2018",
+    "content_kind": "reservation_or_election_source",
+    "status": "ocr_reference_extracted",
+    "source_page_bbox": [
+      0,
+      0,
+      595.2,
+      841.92
+    ],
+    "raw_text": "- r\n-o 0 o t- I\nc 6 c C 7\nc . d a } c a f t c F o V t -1 l . o o\nd\no\nu\n-t\n=fl'.\nrq - o { rgo I rgo -{ gq\no\n( ( o o o '- o z o o P o o ! o z o 6 t* O z g ( q u\no o o o-l-\nf\n8.' 8.' 8;' gq\n(,JR (,rrl z\n((o, E-d= ts 8_E= 3 (,J _ lT fi= c\nu) o3.O 0 H o o3,O 6 g.O f\nHe. Po Ho\n5\no\n-t\n(o { ts { o\n(l) c P o a) 11 O\nf\nu @ , o @ @\nT' a T t) ' 1 T t ' ) o\n(n\ns @ ! @ P\\ @ ! ts @ =f t\nT' 6) ! ! oo ! gq\n-t OJ\nr)\n3\nt 3 1 ! a 3 ) o = ) f T 1 ' ! (I g )f\n(u oJ\no) -r. o_\no ol\n( 5 ^) f.1tt 3 ( o t ) , ts t T 1 ' 96'\nO) NJ 3 N >. 0o)A-3\nO.+J\n= !\nN\n!\nP J 2 U5J\nf=)\nt\nH\ns\nf\nz\n')\no\no\nz t^ z z\nIt- o o 3\nT' T' !\no\nNJ n E I at x\n@ @ (')\ns I g c\n9+\n( N , J l t F ! 6 t 7 T 6 ' O) t ! F Jl q f q\n+o l I - c\no o o f\nE ; .o ,?o 5 F o I I d t I l- o- q 5 F ts o a 6 tt o J o\no\nc =\nw\n!\nz\n0 =o\nz\nI o\nV.+r\nl=\no_ o-\ni- VI\no o\n(-D\nNJ g o -{ ls - o { @ o -{ ( O n J\n(o IH st- F o,\nI\nI",
+    "native_cache": "data/wb/derived/native/a437b52f4a809130e0a936420da7dd7e0c4e10ce794126732b11ef54cccd3265.json",
+    "ocr_cache": "data/wb/derived/ancillary/ocr/a437b52f4a809130e0a936420da7dd7e0c4e10ce794126732b11ef54cccd3265/0001.json"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_Reort_20on_20Single_20or_20No_20valid_20Nominations25042018_a6c525a7.pdf",
+    "source_sha256": "6033e8192d72e9570c4e8d2db3250f3be58c46ad6394d82bb4284b13af5e537c",
+    "source_page": 1,
+    "district": "Alipurduar",
+    "year": "2018",
+    "content_kind": "reservation_or_election_source",
+    "status": "ocr_reference_extracted",
+    "source_page_bbox": [
+      0,
+      0,
+      595.2,
+      841.92
+    ],
+    "raw_text": "Report of Single or Nil Vali<l Nomination after scrutiny i.c.w. Panchayat General Election, 2018\nAs on 25.O4.2OL8\nZILLA PARISHAD CONSTITU ENCIES\nSl. No, Name of District Name of Z.P. Constituency with single valid Name of Z.P. ConstituencY with no\nnomination valid nomination\n1 Alipurduar N Ni\nPANCHAYAT SAM ITI CONSTITU ENCI ES\nSl. No. Name of Block Itlarne of P.S. Constituency with single valid Name of P.S. Constituency with no\nnomination valid nomination\nL Mada rihat-Birpara La n ka pa ralPS-6 N\nz Alipurduar-l Patlakhawa/PS-7 Ni\n5 Alipurduar-l Patlakhawa/PS-8 N\nG RAM PANCHAYAT CONSTITU ENCI ES\nSl. No. Name of Block Name of G.P, Constituency with single Name of G.P, Constituency with no\nvalid nomination valid nomination\n'J. Mada rihat-Birpa ra Totopa ra-Ba lla lguri/lll-3 Ni\na Madarihat-Birpa ra La nkapa rall-1 Ni\n3 Mada rihat-Birpa ra La n ka pa rall l-2 Ni\n4 Mada rihat-Biroa ra La nka pa ra/lll-3 Ni\n5 Madarihat-Birpa ra La nka pa rallV-4 Ni\n6 Mada rihat-Birpa ra La n ka pa ralV-5 Ni\n1 Mada rihat- Birpa ra La n ka pa ralVll-7 N\nd Mada rihat- Birpa ra La nka pa rallX-9 N\n9 Mada rihat- Birpa ra Ha nta pa ra/l-1 Ni\n10 Mada riha t-Biroara Ha nta pa ralll-2 Ni\n11. Madarihat-Biroa ra Ha nta pa ra/lll-3 Ni\n1.2 Mada rihat-Biroara Ha nta pa ra/lV-4 Ni\nl_5 Mada rihat-Birpara Ha nta pa ralXl-L 1 N\n1.4 Mada rihat-Biroara Ha nta para/Xll-L2 Ni\n15 Ka lchini Ga ropara/XX-20 Ni\n16 Ka lchini Kalchini/lV-4 Ni\nt7 Ka lchini Kalchini/XV-15 Ni\n18 Alipurduar-l Patlakhawa/l-1 Ni\n19 Alipurduar-l Patlakhawa/ll-2 Ni\n20 Alipurduar-l Patla khawa/lll-3 N\n21. Alipurd ua r-l Patlakhawa/lV-4 N\n?_2 Alipurduar-l Patlakhawa/V-5 Ni\n23 Alipurduar-l Patlakhawa/Vl-6 N\n24 Aliourd uar-l Patla khawa/Vll-7 N\n25 Alipurd uar-l Patla khawa/Vlll-8 N\n26 Alipurduar-l Patlakhawa/lX-9 N\n27 Alipu rd ua r-l Pararoar/lI N\n28 Alipurduar-l Pararpar/ll-2 N\n29 Alipurduar-l Pararpar/lY-4 N\n30 Alipurduar-l PararparlV16 N\n31 Alipu rd ua r-l Vivekananda l/X-L0 N\nDistrict Panchay icer\n&\nDistrict Magistrate\nAlipurduar",
+    "native_cache": "data/wb/derived/native/6033e8192d72e9570c4e8d2db3250f3be58c46ad6394d82bb4284b13af5e537c.json",
+    "ocr_cache": "data/wb/derived/ancillary/ocr/6033e8192d72e9570c4e8d2db3250f3be58c46ad6394d82bb4284b13af5e537c/0001.json"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_ReportonSingleNIL_ValidNominations_5e34b1f4.pdf",
+    "source_sha256": "666b011e1453bd19b6b2a341a82c2497bd1521811464381758e10de2636556f0",
+    "source_page": 1,
+    "district": "Alipurduar",
+    "year": "2018",
+    "content_kind": "reservation_or_election_source",
+    "status": "ocr_reference_extracted",
+    "source_page_bbox": [
+      0,
+      0,
+      595.2,
+      841.92
+    ],
+    "raw_text": "Report of Single or Nil Valid Nominati after scrutiny i.c.w. Panchayat General Election, 2018\nZILLA Pr ISHAD CONSTITUENCIES\nSl. No. Name of District Name of Z.P. onstituency with single valid Name of Z.P. Constituency with no\nnomination valid nomination\n1 Alipurd uar N Ni\nP CHAYAT SAMITI\nSl. No. Name of Block Name of P.S. ( )nstituency with single valid Name of P.S. Constituency with no\nnomination valid nomination\n'1. Mada rihat-Birpara r n ka pa ralPS-6 Ni\n2 Alipurduar-l P tlakhawa/PS-7 Ni\n3 Alipurduar-l P tlakhawa/PS-8 N\nG PANCHAYAT\nSl, No. Name of Block Name of G P. Constituency with single Name of G,P. Constituency with no\n'alid nomination valid nomination\n1 Mada rihat-Birpa ra Tot rpa ra-Balla lguri/l l-3 Ni\nI\na z Mada rihat-Birpa ra La n kapa rall-1 NI\n3 Mada rihat-Biroa ra La n ka pa ra/ll-2 Ni\n4 Mada rihat- Birpa ra La nka pa ra/l I l-3 N\n5 Mada rihat-Birpa ra La n ka pa ra/lV-4 N\n6 Mada rihat-Birpara Lankapara/V-5 Ni\n7 Mada rihat-Birpa ra -a n ka pa ralVll-7 Ni\n8 Madarihat-Birpa ra Lankapara/lX-9 Ni\n9 Mada rihat-Biroa ra Ha nta pa rall-1 Nil\n10 Mada rihat-Birpa ra Ha nta pa ra/ll-2 N\n11. Mada rihat-Birpara Ha nta pa rallll-3 Ni\nLZ Mada rihat-Birpara Hantapara/lV-4 Ni\n13 Madarihat-Birpa ra la ntapa ralXl-11 NI\n1.4 Madarihat-Birpa ra a nta pa ralXl l-12 N\n15 Ka lchini iaropara/XX-20 Ni\n16 Kalchini Kalchini/lV-4 Ni\n17 Ka lch in i Kalchini/XV-15 Ni\n18 Alipurduar-l Patlakhawa/l-1 Ni\n19 Alipurduar-l )atlakhawa/ll-2 Ni\n20 Alipurd uar-l atlakhawa/ilt-3\nN\n21 Alipurduar-l atlakhawa/lV-4 Nil\nzz Alipurd uar-l\n'}atlakhawa/V-5 Ni\n23 Alipurduar-l atlakhawa/Vt-6 Nil\n24 Alipurduar-l atlakhawa/Vll-7 Ni\n25 Alipurd ua r-l ttla khawa/Vlll-8 N\n26 Alipurduar-l atlakhawa/lX-9 Ni\n27 Alipu rd uar-l Pararpar/l-1 NI\n28 Alipurduar-l Pararpar/ll2\nNi\n29 Alipurduar-l Pararpar/lV-4\nN\n30 Alipurduar-l Pararpar/Vl-6 Nil\n3L Alipurduar-l 'ekananda l/X-1.0 Ni\nPancha\nDistrict fficer\n&\nDistrict Magistrate\nAlipurduar",
+    "native_cache": "data/wb/derived/native/666b011e1453bd19b6b2a341a82c2497bd1521811464381758e10de2636556f0.json",
+    "ocr_cache": "data/wb/derived/ancillary/ocr/666b011e1453bd19b6b2a341a82c2497bd1521811464381758e10de2636556f0/0001.json"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_TotalUncontestedSeats_398a668c.pdf",
+    "source_sha256": "f18b8e40f352bbc5cc47c5ed94edbfe99aa7d9ae2ae9fd9c5b30f8e6c1c65067",
+    "source_page": 1,
+    "district": "Alipurduar",
+    "year": "2018",
+    "content_kind": "reservation_or_election_source",
+    "status": "ocr_reference_extracted",
+    "source_page_bbox": [
+      0,
+      0,
+      595.2,
+      841.92
+    ],
+    "raw_text": "r\nc-1,\np v+)\nI\nc o\nv\nil\nl..|\nK2\no\nt\n:]\n)\nL. FT\n*8\nz\nF\n(n\nai;--\no\niDo\nFT\nY\nA.\\\nz=. z ? -\n- - o\n3 < ^o F-F\nO ! l . 1 s)e o 'a .N+ A P '\no\n5\nX cn\n.o.R\n\"1A:1.l\n+q -f\n,i\nrJ talt\n(D\np,\n(n ,7 !-t\nF\n(D\n@\n@ -\n6\no\nCtsqt\no\n,-\nrl o o\n.)\n(+\n\\ rn9, > -.\n- 4+ A v\n!t\n.do\na aJ\nN)\nz\n-\n?/\n€\n-'l\n3 < ^@\nr!DelrG\ng\n6_\noX(,\n5 0(P\n.vP\n@\nrl\n?z\nts\n00\no-\n(D\nI\nN\nrl\n-o\n'/l2 >\na:tJ '-t\nia@ U)\nz\n-.4\nE,5 oQ\neBe o !.,-,- Nx;i.r^\nJ .Vv'P ::\na",
+    "native_cache": "data/wb/derived/native/f18b8e40f352bbc5cc47c5ed94edbfe99aa7d9ae2ae9fd9c5b30f8e6c1c65067.json",
+    "ocr_cache": "data/wb/derived/ancillary/ocr/f18b8e40f352bbc5cc47c5ed94edbfe99aa7d9ae2ae9fd9c5b30f8e6c1c65067/0001.json"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_WithdrawalReport28042018_a3ac0d4f.pdf",
+    "source_sha256": "ba5cf1446850e70efdd1f0e47480a24b70dfdddc6aa5da7b818b3dd9cb017b7b",
+    "source_page": 1,
+    "district": "Alipurduar",
+    "year": "2018",
+    "content_kind": "reservation_or_election_source",
+    "status": "ocr_reference_extracted",
+    "source_page_bbox": [
+      0,
+      0,
+      595.2,
+      841.92
+    ],
+    "raw_text": "NAME OF THE DISTR|CT: AUPURDUAR\nZilla parishad\nNo. Of cPt(\nDate Seats AITC BSP BJP CP M) tNc NCP AIFB RSP Others IND Total\nLlp to\n26.Ct4.2018 0 U 0 0 0 0 0 0 0 0 0 0 0\nl\n27.Ct4.201,8 0 0 0 0 0 0 0 0 0 0 0 0\n28.Ct4.2018 2 0 0 2 0 n 0 0 0 0 0 0 z\nTota\n(Cum ulat I ive) za 0 0 2 0 0 0 0 0 0 0 U 2\nPi nchayat Samiti\nNo. Of\ncPr(\nDtate Seats AITC BSP BJP CP M) rNc NCP AIFB RSP Others IND Total\nUp to\n26.O,4.2078 L4 J 0 10 0 za t o 0 0 0 t 17\n27.04.2018 19 R 0 9 0 2 0 0 U 1 0 9 27\n28.0,4.2018 47 27 0 21, 0 0 I 0 0 I 0 6 56\nTotal\n(Cumulative) 79 36 0 40 0 4 2 0 0 2 0 1,6 100\nG Pancha\nNo. Of cPt(\nDate Seats AITC BSP BJP CP M) NC NCP AIFB RSP Others IND Total\nUpr to\n26.0t1.201,8 53 19 0 26 U 1 0 0 4 0 1.2 65\n27.0t1.20'J.g 78 25 0 59 0 8 2 0 0 4 2 28 L28\n28.04.2018 1_59 46 0 B1 0 21 3 0 1 8 T 22 183\nTotal\n(Cumulative) 305 90 0 166 0 32 6 0 1 16 3 oz 376\nPanchaya\nDistrict icer\n&\nDistrict Magistrate\nAlipurduar",
+    "native_cache": "data/wb/derived/native/ba5cf1446850e70efdd1f0e47480a24b70dfdddc6aa5da7b818b3dd9cb017b7b.json",
+    "ocr_cache": "data/wb/derived/ancillary/ocr/ba5cf1446850e70efdd1f0e47480a24b70dfdddc6aa5da7b818b3dd9cb017b7b/0001.json"
+  },
+  {
+    "source_path": "data/wb/gp_source_search/historical_expansion/alipurduar_finalnomination23042018_c98e1aad.pdf",
+    "source_sha256": "40d7fe1809b78a570ac7d2892ab462b6181fa6f36cc0a4e0952574b3ff12db58",
+    "source_page": 1,
+    "district": "Alipurduar",
+    "year": "2018",
+    "content_kind": "reservation_or_election_source",
+    "status": "ocr_reference_extracted",
+    "source_page_bbox": [
+      0,
+      0,
+      596,
+      842
+    ],
+    "raw_text": "",
+    "native_cache": "data/wb/derived/native/40d7fe1809b78a570ac7d2892ab462b6181fa6f36cc0a4e0952574b3ff12db58.json",
+    "ocr_cache": "data/wb/derived/ancillary/ocr/40d7fe1809b78a570ac7d2892ab462b6181fa6f36cc0a4e0952574b3ff12db58/0001.json"
+  }
+]

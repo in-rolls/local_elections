@@ -1,0 +1,33 @@
+1 2 3
+Veppur Panchayat Union Contd.,
+3 Kolapady SC(Women)
+4 Agaram Sigoor SC(Women)
+5 Olaippady SC(General)
+6 Pennakonam SC(General)
+7 Sirumathur SC(General)
+8 Elumur SC(General)
+9 Nannai SC(General)
+10 Othiyam SC(General)
+11 Puduvettakudi SC(General)
+12 Athiyur General (Women)
+13 Ogalur General (Women)
+14 Varagur General (Women)
+15 Periyammapalayam General (Women)
+16 Sithali General (Women)
+17 Vasistapuram General (Women)
+18 Kilumathur General (Women)
+19 Kadur General
+20 Thirumandurai General
+21 Asur General
+22 Paravai General
+23 Periavenmani General
+24 Keelaperambalur General
+25 Vayalapadi General
+26 Kunnam General
+27 Andur General
+28 Moongilpadi General
+29 Andikurumbalur General
+30 Aduthurai General
+31 Keelapuliyur General
+32 Perali General
+33 Thungapuram General

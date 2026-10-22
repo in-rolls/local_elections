@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "sha256": "86cc57181c15d93393988c8089bd4cf026e5687321b7857391fcc3348e03ce40",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock : Chakdaha\nNumber of members to be elected in the Gram Panchayat\nName of Gram Scheduled Scheduled Women\nTotal number of members\nCaste members Tribe Members members\n1 (2a) (2b) (2c) (2d)\nRautari 12 3 NIL 4\nSeats reserved\nSeats allocated for Scheduled\nSeats reserved\nto each Caste or\nfor women\nNumber, name and area of constituencies with serial numbers constituency Scheduled\nagainst serial\nwith serial Tribe against\nnumber of seats\nnumbers serial number of\nseats\n3 4 5 6\nRautari/I\nMouza :Uttar Panchpotta, J.L. No.120, (a)Uttar Panchpotta Full 1 - 1 W\nPart No. 83/13\nRautari/II\nMouza :Tentulberia, J.L. No.116, (a) Khorgachhi Full\nMouza :Tentulberia, J.L. No.116,(b) TentulberiaPartly, Tentulberia\n2,3 - -\nUtarpara\nMouza :Tentulberia, J.L. No.116,(c) Tentulberia Partly\nPart No. 83/14\nRautari/III\nMouza :Maheswarpur, J.L. No.112, Maheswar Pur Full 4 - 4 W\nPart No. 83/15\nRautari/IV\nMouza :Rautari, J.L. No109., (a) Rautari Partly\n5 -- --\n(b)Mouza ; Tantigachhi, J.L. No. 113, (c) Tanti Gachhi Partly\nPart No. 83/16\nRautari/V\nMouza :Rautari, J.L. No.109, (a) Rautari Partly\nMouza :Rautari, J.L. No.109,(b) Rautari Partly\n6,7 7 SC 7 SCW\nMouza : Tanti Gachhi, J.L. No. 113(c) Tanti Gachhi Partly , Mouza\nEnayetur, J.L. No. 108, (d) Enayetpur Partly\nPart No. 83/17\nRautari/VI\nMouza :Rautari, J.L. No.109, (a) Rautari Partly\n8 - 8 W\nMoza Jatrapur, J.L. No. 110, (b) Jatrapur Full\nPart No. 83/18\nRautari/VII\nMouza :Ekterpur, J.L. No.114, (a)Ektarpur Full 9 , 1 0 9 SC -\nPart No. 83/19",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            118.19040000000007,
+            573.4727999999999,
+            192.3444
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of members",
+              "Scheduled\nCaste members",
+              "Scheduled\nTribe Members",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Rautari",
+              "12",
+              "3",
+              "NIL",
+              "4"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            18.5191254,
+            204.70319999999998,
+            573.4727999999999,
+            698.94192
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial numbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCaste or\nScheduled\nTribe against\nserial number of\nseats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Rautari/I\nMouza :Uttar Panchpotta, J.L. No.120, (a)Uttar Panchpotta Full\nPart No. 83/13",
+              "1",
+              "-",
+              "1 W"
+            ],
+            [
+              "Rautari/II\nMouza :Tentulberia, J.L. No.116, (a) Khorgachhi Full\nMouza :Tentulberia, J.L. No.116,(b) TentulberiaPartly, Tentulberia\nUtarpara\nMouza :Tentulberia, J.L. No.116,(c) Tentulberia Partly\nPart No. 83/14",
+              "2,3",
+              "-",
+              "-"
+            ],
+            [
+              "Rautari/III\nMouza :Maheswarpur, J.L. No.112, Maheswar Pur Full\nPart No. 83/15",
+              "4",
+              "-",
+              "4 W"
+            ],
+            [
+              "Rautari/IV\nMouza :Rautari, J.L. No109., (a) Rautari Partly\n(b)Mouza ; Tantigachhi, J.L. No. 113, (c) Tanti Gachhi Partly\nPart No. 83/16",
+              "5",
+              "--",
+              "--"
+            ],
+            [
+              "Rautari/V\nMouza :Rautari, J.L. No.109, (a) Rautari Partly\nMouza :Rautari, J.L. No.109,(b) Rautari Partly\nMouza : Tanti Gachhi, J.L. No. 113(c) Tanti Gachhi Partly , Mouza\nEnayetur, J.L. No. 108, (d) Enayetpur Partly\nPart No. 83/17",
+              "6,7",
+              "7 SC",
+              "7 SCW"
+            ],
+            [
+              "Rautari/VI\nMouza :Rautari, J.L. No.109, (a) Rautari Partly\nMoza Jatrapur, J.L. No. 110, (b) Jatrapur Full\nPart No. 83/18",
+              "8",
+              "-",
+              "8 W"
+            ],
+            [
+              "Rautari/VII\nMouza :Ekterpur, J.L. No.114, (a)Ektarpur Full\nPart No. 83/19",
+              "9 , 1 0",
+              "9 SC",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2283
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Seats reserved\nSeats allocated for Scheduled\nSeats reserved\nto each Caste or\nfor women\nNumber, name and area of constituencies with serial numbers constituency Scheduled\nagainst serial\nwith serial Tribe against\nnumber of seats\nnumbers serial number of\nseats\nRautari/VIII\nMouza :Enayet Pur, J.L. No.108, (a) Enayetpur Partly 11 11 SC -\nPart No. 83/20\nRautari/IX\nMouza :Enayet Pur, J.L. No.108, (a) Enayetpur Partly 1 2 -- --\nPart No. 83/21\nDate:07.02.2008 District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            72.47399999999999,
+            573.4727999999999,
+            237.46080000000006
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial numbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumbers",
+              "Seats reserved\nfor Scheduled\nCaste or\nScheduled\nTribe against\nserial number of\nseats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "Rautari/VIII\nMouza :Enayet Pur, J.L. No.108, (a) Enayetpur Partly\nPart No. 83/20",
+              "11",
+              "11 SC",
+              "-"
+            ],
+            [
+              "Rautari/IX\nMouza :Enayet Pur, J.L. No.108, (a) Enayetpur Partly\nPart No. 83/21",
+              "1 2",
+              "--",
+              "--"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 753
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

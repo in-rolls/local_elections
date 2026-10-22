@@ -1,0 +1,757 @@
+[
+  {
+    "source_page": 3,
+    "midpoint": 345.12,
+    "parsed_rows": 83
+  },
+  {
+    "source_page": 4,
+    "midpoint": 345.12,
+    "parsed_rows": 91
+  },
+  {
+    "source_page": 5,
+    "midpoint": 345.12,
+    "parsed_rows": 90
+  },
+  {
+    "source_page": 6,
+    "midpoint": 345.12,
+    "parsed_rows": 90
+  },
+  {
+    "source_page": 7,
+    "midpoint": 345.12,
+    "parsed_rows": 90
+  },
+  {
+    "source_page": 8,
+    "midpoint": 345.12,
+    "parsed_rows": 90
+  },
+  {
+    "source_page": 9,
+    "midpoint": 345.12,
+    "parsed_rows": 99
+  },
+  {
+    "source_page": 10,
+    "midpoint": 330.84,
+    "parsed_rows": 75
+  },
+  {
+    "source_page": 11,
+    "midpoint": 330.84,
+    "parsed_rows": 95
+  },
+  {
+    "source_page": 12,
+    "midpoint": 330.84,
+    "parsed_rows": 93
+  },
+  {
+    "source_page": 13,
+    "midpoint": 330.84,
+    "parsed_rows": 94
+  },
+  {
+    "source_page": 14,
+    "midpoint": 330.84,
+    "parsed_rows": 98
+  },
+  {
+    "source_page": 15,
+    "midpoint": 330.84,
+    "parsed_rows": 71
+  },
+  {
+    "source_page": 16,
+    "midpoint": 333.48,
+    "parsed_rows": 81
+  },
+  {
+    "source_page": 17,
+    "midpoint": 333.48,
+    "parsed_rows": 94
+  },
+  {
+    "source_page": 18,
+    "midpoint": 333.48,
+    "parsed_rows": 94
+  },
+  {
+    "source_page": 19,
+    "midpoint": 333.48,
+    "parsed_rows": 94
+  },
+  {
+    "source_page": 20,
+    "midpoint": 333.48,
+    "parsed_rows": 94
+  },
+  {
+    "source_page": 21,
+    "midpoint": 333.48,
+    "parsed_rows": 95
+  },
+  {
+    "source_page": 22,
+    "midpoint": 333.48,
+    "parsed_rows": 100
+  },
+  {
+    "source_page": 23,
+    "midpoint": 333.48,
+    "parsed_rows": 31
+  },
+  {
+    "source_page": 24,
+    "midpoint": 342.6,
+    "parsed_rows": 104
+  },
+  {
+    "source_page": 25,
+    "midpoint": 342.6,
+    "parsed_rows": 115
+  },
+  {
+    "source_page": 26,
+    "midpoint": 342.6,
+    "parsed_rows": 116
+  },
+  {
+    "source_page": 27,
+    "midpoint": 342.6,
+    "parsed_rows": 115
+  },
+  {
+    "source_page": 28,
+    "midpoint": 342.6,
+    "parsed_rows": 116
+  },
+  {
+    "source_page": 29,
+    "midpoint": 342.6,
+    "parsed_rows": 116
+  },
+  {
+    "source_page": 30,
+    "midpoint": 342.6,
+    "parsed_rows": 114
+  },
+  {
+    "source_page": 31,
+    "midpoint": 342.6,
+    "parsed_rows": 117
+  },
+  {
+    "source_page": 32,
+    "midpoint": 342.6,
+    "parsed_rows": 116
+  },
+  {
+    "source_page": 33,
+    "midpoint": 342.6,
+    "parsed_rows": 70
+  },
+  {
+    "source_page": 34,
+    "midpoint": 344.52,
+    "parsed_rows": 80
+  },
+  {
+    "source_page": 35,
+    "midpoint": 344.52,
+    "parsed_rows": 78
+  },
+  {
+    "source_page": 36,
+    "midpoint": 344.52,
+    "parsed_rows": 96
+  },
+  {
+    "source_page": 37,
+    "midpoint": 344.52,
+    "parsed_rows": 83
+  },
+  {
+    "source_page": 38,
+    "midpoint": 344.52,
+    "parsed_rows": 86
+  },
+  {
+    "source_page": 39,
+    "midpoint": 344.52,
+    "parsed_rows": 81
+  },
+  {
+    "source_page": 40,
+    "midpoint": 344.52,
+    "parsed_rows": 80
+  },
+  {
+    "source_page": 41,
+    "midpoint": 344.52,
+    "parsed_rows": 80
+  },
+  {
+    "source_page": 42,
+    "midpoint": 344.52,
+    "parsed_rows": 79
+  },
+  {
+    "source_page": 43,
+    "midpoint": 346.92,
+    "parsed_rows": 81
+  },
+  {
+    "source_page": 44,
+    "midpoint": 346.92,
+    "parsed_rows": 90
+  },
+  {
+    "source_page": 45,
+    "midpoint": 346.92,
+    "parsed_rows": 80
+  },
+  {
+    "source_page": 46,
+    "midpoint": 346.92,
+    "parsed_rows": 79
+  },
+  {
+    "source_page": 47,
+    "midpoint": 346.92,
+    "parsed_rows": 78
+  },
+  {
+    "source_page": 48,
+    "midpoint": 346.92,
+    "parsed_rows": 79
+  },
+  {
+    "source_page": 49,
+    "midpoint": 346.92,
+    "parsed_rows": 78
+  },
+  {
+    "source_page": 50,
+    "midpoint": 346.92,
+    "parsed_rows": 81
+  },
+  {
+    "source_page": 51,
+    "midpoint": 346.92,
+    "parsed_rows": 79
+  },
+  {
+    "source_page": 52,
+    "midpoint": 346.92,
+    "parsed_rows": 78
+  },
+  {
+    "source_page": 53,
+    "midpoint": 346.92,
+    "parsed_rows": 57
+  },
+  {
+    "source_page": 54,
+    "midpoint": 324.0,
+    "parsed_rows": 84
+  },
+  {
+    "source_page": 55,
+    "midpoint": 324.0,
+    "parsed_rows": 96
+  },
+  {
+    "source_page": 56,
+    "midpoint": 324.0,
+    "parsed_rows": 99
+  },
+  {
+    "source_page": 57,
+    "midpoint": 324.0,
+    "parsed_rows": 102
+  },
+  {
+    "source_page": 58,
+    "midpoint": 324.0,
+    "parsed_rows": 4
+  },
+  {
+    "source_page": 59,
+    "midpoint": 334.56,
+    "parsed_rows": 75
+  },
+  {
+    "source_page": 60,
+    "midpoint": 334.56,
+    "parsed_rows": 84
+  },
+  {
+    "source_page": 61,
+    "midpoint": 334.56,
+    "parsed_rows": 77
+  },
+  {
+    "source_page": 62,
+    "midpoint": 334.56,
+    "parsed_rows": 86
+  },
+  {
+    "source_page": 63,
+    "midpoint": 334.8,
+    "parsed_rows": 60
+  },
+  {
+    "source_page": 64,
+    "midpoint": 334.8,
+    "parsed_rows": 67
+  },
+  {
+    "source_page": 65,
+    "midpoint": 334.8,
+    "parsed_rows": 62
+  },
+  {
+    "source_page": 66,
+    "midpoint": 334.8,
+    "parsed_rows": 62
+  },
+  {
+    "source_page": 67,
+    "midpoint": 342.0,
+    "parsed_rows": 98
+  },
+  {
+    "source_page": 68,
+    "midpoint": 342.0,
+    "parsed_rows": 116
+  },
+  {
+    "source_page": 69,
+    "midpoint": 342.0,
+    "parsed_rows": 103
+  },
+  {
+    "source_page": 70,
+    "midpoint": 342.0,
+    "parsed_rows": 16
+  },
+  {
+    "source_page": 71,
+    "midpoint": 354.48,
+    "parsed_rows": 107
+  },
+  {
+    "source_page": 72,
+    "midpoint": 354.48,
+    "parsed_rows": 118
+  },
+  {
+    "source_page": 73,
+    "midpoint": 359.52,
+    "parsed_rows": 91
+  },
+  {
+    "source_page": 74,
+    "midpoint": 359.52,
+    "parsed_rows": 107
+  },
+  {
+    "source_page": 75,
+    "midpoint": 359.52,
+    "parsed_rows": 30
+  },
+  {
+    "source_page": 76,
+    "midpoint": 331.2,
+    "parsed_rows": 93
+  },
+  {
+    "source_page": 77,
+    "midpoint": 331.6,
+    "parsed_rows": 110
+  },
+  {
+    "source_page": 78,
+    "midpoint": 331.2,
+    "parsed_rows": 62
+  },
+  {
+    "source_page": 79,
+    "midpoint": 369.48,
+    "parsed_rows": 35
+  },
+  {
+    "source_page": 80,
+    "midpoint": 327.12,
+    "parsed_rows": 90
+  },
+  {
+    "source_page": 81,
+    "midpoint": 327.12,
+    "parsed_rows": 103
+  },
+  {
+    "source_page": 82,
+    "midpoint": 327.12,
+    "parsed_rows": 107
+  },
+  {
+    "source_page": 83,
+    "midpoint": 327.12,
+    "parsed_rows": 102
+  },
+  {
+    "source_page": 84,
+    "midpoint": 327.12,
+    "parsed_rows": 102
+  },
+  {
+    "source_page": 85,
+    "midpoint": 327.12,
+    "parsed_rows": 85
+  },
+  {
+    "source_page": 86,
+    "midpoint": 355.56,
+    "parsed_rows": 112
+  },
+  {
+    "source_page": 87,
+    "midpoint": 355.56,
+    "parsed_rows": 124
+  },
+  {
+    "source_page": 88,
+    "midpoint": 355.56,
+    "parsed_rows": 118
+  },
+  {
+    "source_page": 89,
+    "midpoint": 355.56,
+    "parsed_rows": 80
+  },
+  {
+    "source_page": 90,
+    "midpoint": 338.88,
+    "parsed_rows": 92
+  },
+  {
+    "source_page": 91,
+    "midpoint": 338.88,
+    "parsed_rows": 106
+  },
+  {
+    "source_page": 92,
+    "midpoint": 338.88,
+    "parsed_rows": 106
+  },
+  {
+    "source_page": 93,
+    "midpoint": 338.88,
+    "parsed_rows": 105
+  },
+  {
+    "source_page": 94,
+    "midpoint": 338.88,
+    "parsed_rows": 21
+  },
+  {
+    "source_page": 95,
+    "midpoint": 354.96,
+    "parsed_rows": 47
+  },
+  {
+    "source_page": 96,
+    "midpoint": 354.96,
+    "parsed_rows": 41
+  },
+  {
+    "source_page": 97,
+    "midpoint": 354.96,
+    "parsed_rows": 67
+  },
+  {
+    "source_page": 98,
+    "midpoint": 354.96,
+    "parsed_rows": 65
+  },
+  {
+    "source_page": 99,
+    "midpoint": 354.96,
+    "parsed_rows": 64
+  },
+  {
+    "source_page": 100,
+    "midpoint": 354.96,
+    "parsed_rows": 64
+  },
+  {
+    "source_page": 101,
+    "midpoint": 354.96,
+    "parsed_rows": 56
+  },
+  {
+    "source_page": 102,
+    "midpoint": 338.28,
+    "parsed_rows": 81
+  },
+  {
+    "source_page": 103,
+    "midpoint": 338.28,
+    "parsed_rows": 76
+  },
+  {
+    "source_page": 104,
+    "midpoint": 341.4,
+    "parsed_rows": 60
+  },
+  {
+    "source_page": 105,
+    "midpoint": 341.4,
+    "parsed_rows": 61
+  },
+  {
+    "source_page": 106,
+    "midpoint": 327.36,
+    "parsed_rows": 73
+  },
+  {
+    "source_page": 107,
+    "midpoint": 327.36,
+    "parsed_rows": 65
+  },
+  {
+    "source_page": 108,
+    "midpoint": 327.36,
+    "parsed_rows": 63
+  },
+  {
+    "source_page": 109,
+    "midpoint": 338.88,
+    "parsed_rows": 95
+  },
+  {
+    "source_page": 110,
+    "midpoint": 338.88,
+    "parsed_rows": 103
+  },
+  {
+    "source_page": 111,
+    "midpoint": 338.88,
+    "parsed_rows": 104
+  },
+  {
+    "source_page": 112,
+    "midpoint": 338.88,
+    "parsed_rows": 102
+  },
+  {
+    "source_page": 113,
+    "midpoint": 338.88,
+    "parsed_rows": 93
+  },
+  {
+    "source_page": 114,
+    "midpoint": 345.12,
+    "parsed_rows": 90
+  },
+  {
+    "source_page": 115,
+    "midpoint": 345.12,
+    "parsed_rows": 98
+  },
+  {
+    "source_page": 116,
+    "midpoint": 345.12,
+    "parsed_rows": 93
+  },
+  {
+    "source_page": 117,
+    "midpoint": 345.12,
+    "parsed_rows": 98
+  },
+  {
+    "source_page": 118,
+    "midpoint": 345.12,
+    "parsed_rows": 41
+  },
+  {
+    "source_page": 119,
+    "midpoint": 345.12,
+    "parsed_rows": 93
+  },
+  {
+    "source_page": 120,
+    "midpoint": 345.12,
+    "parsed_rows": 37
+  },
+  {
+    "source_page": 121,
+    "midpoint": 345.12,
+    "parsed_rows": 90
+  },
+  {
+    "source_page": 122,
+    "midpoint": 345.12,
+    "parsed_rows": 97
+  },
+  {
+    "source_page": 123,
+    "midpoint": 345.12,
+    "parsed_rows": 92
+  },
+  {
+    "source_page": 124,
+    "midpoint": 345.12,
+    "parsed_rows": 27
+  },
+  {
+    "source_page": 125,
+    "midpoint": 332.52,
+    "parsed_rows": 86
+  },
+  {
+    "source_page": 126,
+    "midpoint": 332.52,
+    "parsed_rows": 111
+  },
+  {
+    "source_page": 127,
+    "midpoint": 332.52,
+    "parsed_rows": 111
+  },
+  {
+    "source_page": 128,
+    "midpoint": 332.52,
+    "parsed_rows": 110
+  },
+  {
+    "source_page": 129,
+    "midpoint": 332.52,
+    "parsed_rows": 11
+  },
+  {
+    "source_page": 130,
+    "midpoint": 348.84,
+    "parsed_rows": 74
+  },
+  {
+    "source_page": 131,
+    "midpoint": 348.84,
+    "parsed_rows": 82
+  },
+  {
+    "source_page": 132,
+    "midpoint": 348.84,
+    "parsed_rows": 83
+  },
+  {
+    "source_page": 133,
+    "midpoint": 348.84,
+    "parsed_rows": 82
+  },
+  {
+    "source_page": 134,
+    "midpoint": 348.84,
+    "parsed_rows": 83
+  },
+  {
+    "source_page": 135,
+    "midpoint": 348.84,
+    "parsed_rows": 46
+  },
+  {
+    "source_page": 136,
+    "midpoint": 356.64,
+    "parsed_rows": 86
+  },
+  {
+    "source_page": 137,
+    "midpoint": 356.64,
+    "parsed_rows": 88
+  },
+  {
+    "source_page": 138,
+    "midpoint": 356.64,
+    "parsed_rows": 101
+  },
+  {
+    "source_page": 139,
+    "midpoint": 356.64,
+    "parsed_rows": 83
+  },
+  {
+    "source_page": 140,
+    "midpoint": 356.64,
+    "parsed_rows": 87
+  },
+  {
+    "source_page": 141,
+    "midpoint": 332.88,
+    "parsed_rows": 70
+  },
+  {
+    "source_page": 142,
+    "midpoint": 332.88,
+    "parsed_rows": 84
+  },
+  {
+    "source_page": 143,
+    "midpoint": 332.88,
+    "parsed_rows": 85
+  },
+  {
+    "source_page": 144,
+    "midpoint": 332.88,
+    "parsed_rows": 83
+  },
+  {
+    "source_page": 145,
+    "midpoint": 332.88,
+    "parsed_rows": 76
+  },
+  {
+    "source_page": 146,
+    "midpoint": 332.88,
+    "parsed_rows": 27
+  },
+  {
+    "source_page": 147,
+    "midpoint": 350.88,
+    "parsed_rows": 76
+  },
+  {
+    "source_page": 148,
+    "midpoint": 350.88,
+    "parsed_rows": 93
+  },
+  {
+    "source_page": 149,
+    "midpoint": 350.88,
+    "parsed_rows": 106
+  },
+  {
+    "source_page": 150,
+    "midpoint": 350.88,
+    "parsed_rows": 108
+  },
+  {
+    "source_page": 151,
+    "midpoint": 350.88,
+    "parsed_rows": 20
+  },
+  {
+    "source_page": 152,
+    "midpoint": 347.52,
+    "parsed_rows": 78
+  },
+  {
+    "source_page": 153,
+    "midpoint": 347.52,
+    "parsed_rows": 17
+  }
+]

@@ -1,0 +1,46 @@
+1 2 3
+MELANEELITHANALLUR PANCHAYAT UNION Contd.,
+21 Sendamaram Kasba General
+22 Sendamaram Majara General
+23 Sundankuruchi General
+24 Vadakkupanavadali General
+25 Vellappaneri General
+KADAYANALLUR PANCHAYAT UNION
+1 Nainaragaram SC (Women)
+2 Neduvayal SC (Women)
+3 Idaikal SC (General)
+4 Kambaneri SC (General)
+5 Chockkampatti General (Women)
+6 Kulayaneri General (Women)
+7 Thirikoodapuram General (Women)
+8 Uremelalagian General (Women)
+9 Anaikulam General
+10 Boganallur General
+11 Kasitharmam General
+12 Kodikurichi General
+13 Poigai General
+14 Punnaiahpuram General
+15 Puthukudi General
+16 Velayuthapuram General
+SHENKOTTAI PANCHAYAT UNION
+1 Puliyarai S.C. (Women)
+2 Elathur S.C. (General)
+3 Karkudy General (Women)
+4 Kilankadu General
+5 Seevanallur General
+6 Therkumedu General
+TENKASI PANCHAYAT UNION
+1 Thenpothai SC (Women)
+2 Periyapillai Valasai SC (Women)
+3 Ayiraperi SC (General)
+4 Mathalamparai SC (General)
+5 Kuthukkal Valasai General (Women)
+6 Pattapathu General (Women)
+7 Sumaitheerthapuram General (Women)
+8 Vallam General
+9 Kanakka pillaivalasai General
+10 Kasimajor puram General
+11 Pattakurichi General
+12 Piranoor General
+13 Sillarai puravoo General
+14 Thiruchitrambalam General

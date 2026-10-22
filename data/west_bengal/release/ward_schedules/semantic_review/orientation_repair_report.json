@@ -1,0 +1,17 @@
+{
+  "orientation_evidence": "data/wb/derived/ward_schedules/semantic_review/orientation_audit.json",
+  "orientation_evidence_sha256": "b97dadc16734ba0a72102886b87d3f76d4989bf24af2ed12b9a68621a5bbeeaa",
+  "pages_attempted": 204,
+  "elapsed_seconds": 186.56,
+  "workers": 4,
+  "language": "eng",
+  "pre_ocr_rotation_clockwise_degrees": {
+    "90": 163,
+    "0": 41
+  },
+  "render_scale_to": 2400,
+  "attempt_status": {
+    "extracted": 204
+  },
+  "preservation": "Previous complete OCR records are retained in previous_attempts; exact SHA/page pins govern rotation and language."
+}

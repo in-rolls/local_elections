@@ -1,0 +1,67 @@
+NAGAPATTINAM
+VILLAGE PANCHAYA
+Reservation of seats for Scheduled caste/Scheduled Trib
+in Tamil Nad
+Category to which reservation is
+Sl.No Name of the Village Panchayat
+made
+1 2 3
+Nagapattinam Panchayat Union
+1 Karuvelankadai SC (Women)
+2 Sangamangalam SC (Women)
+3 Themangalam SC (Women)
+4 Vadavoor SC (Women)
+5 Mahathanam SC (General)
+6 Muttam SC (General)
+7 Palaiyur SC (General)
+8 Pappakoil SC (General)
+9 Perunkadambanur SC (General)
+10 Puducheri SC (General)
+11 Agalangan General (Women)
+12 Agaraorathur General (Women)
+13 Alangudi General (Women)
+14 Anthanapettai General (Women)
+15 Therkupoigainallur General (Women)
+16 vadakudi General (Women)
+17 Akkaraipettai General
+18 Avarani General
+19 Azhiyur General
+20 Ivanallur General
+21 Kuruchi General
+22 Manjakollai General
+23 Orathur General
+24 Poravachery General
+25 Sembiyanmahadevi General
+26 Sikkal General
+27 Thethi General
+28 Vadakku poigainallur General
+29 Vadugachery General
+Keelaiyur Panchayat Union
+1 Cholavidhyapuram SC (Women)
+2 Meenambanallur SC (Women)
+3 Thiruvoimoor SC (Women)
+4 Ettugudi SC (General)
+5 Karunganni SC (General)
+6 Keelaiyur SC (General)
+7 Madapuram SC (General)
+8 Thirukkuvalai SC (General)
+9 Veppanchery SC (General)
+10 Melavalakkarai General (Women)
+11 Pudupalli General (Women)
+12 Thalayamazhai General (Women)
+13 Thannilapadi General (Women)
+14 Valakkarai General (Women)
+15 Vilunthamavadi General (Women)
+16 Cinnathumpur General
+17 Easanur General
+18 Erayangudi General
+19 Karapidagai(North) General
+20 Karapidagai(South) General
+21 Keelapidagai General
+22 Palakuruchi General
+23 Pradhabaramapuram General
+24 Thirupoondi(East) General
+25 Thirupoondi(West) General
+26 Venmanachery General
+27 Vettaikaraniruppu General
+Page 84

@@ -1,0 +1,85 @@
+{
+  "gp_rows_before": 3237,
+  "gp_rows_after": 8196,
+  "other_tier_rows_before": 379,
+  "other_tier_rows_after": 928,
+  "candidate_ocr_pages_before": 163,
+  "ocr_pages": 1523,
+  "coverage": {
+    "candidate_rows": 1046,
+    "raw_only": 458,
+    "verified_nondata": 19
+  },
+  "pages_with_any_reservation_field": 689,
+  "raw_only_distinct_documents": 149,
+  "page_ledger": "data/wb/derived/ward_schedules/semantic_backlog.csv",
+  "baseline": "data/wb/derived/ward_schedules/semantic_backlog_baseline.csv",
+  "quality_claim": "Candidate coverage is not complete semantic parsing. OCR names/codes require review; null fields remain unresolved. Raw-only reasons are parser diagnostics except explicitly source-verified nondata pages.",
+  "previous_candidate_pages_lost": 0,
+  "raw_only_by_district_year": [
+    {
+      "district": "Alipurduar",
+      "year": "2018",
+      "pages": 56
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2023",
+      "pages": 36
+    },
+    {
+      "district": "Cooch Behar",
+      "year": "2018",
+      "pages": 5
+    },
+    {
+      "district": "Cooch Behar",
+      "year": "2023",
+      "pages": 168
+    },
+    {
+      "district": "Jalpaiguri",
+      "year": "2023",
+      "pages": 130
+    },
+    {
+      "district": "Malda",
+      "year": "2013",
+      "pages": 56
+    },
+    {
+      "district": "South 24 Parganas",
+      "year": "2018",
+      "pages": 7
+    }
+  ],
+  "development_validation": "semantic_review/heldout/evaluation.json (adaptive development pages; not untouched held-out)",
+  "tests_passed": 71,
+  "parser_sha256": "f9a1ba56632047be60f2f6aac48052c5b45883cf6204cab26eba740c2236cac4",
+  "largest_remaining_blockers": [
+    {
+      "district": "Cooch Behar",
+      "year": 2023,
+      "description": "Mixture of prose order covers and table pages with damaged/split GP identifiers or allocation numbers. 85 raw-only pages carry an unverified order-cover heuristic; they remain in the backlog. Many original scans are rotated, but no unverified district-wide rotation was applied."
+    },
+    {
+      "district": "Jalpaiguri",
+      "year": 2023,
+      "description": "All 204 orientations individually verified and repaired. The 130 remaining raw-only pages are visually confirmed ward tables, chiefly with dense compressed text, split GP-name/Roman tokens, damaged numeric allocations, or unread header labels. Rotation alone does not recover these fields. A 3600-pixel/PSM3 diagnostic still failed to recover Maynaguri p2 column labels."
+    },
+    {
+      "district": "Malda and Alipurduar",
+      "description": "Remaining rows have split/corrupted identity tokens, missing allocation numbers, or unimplemented ZP OCR layouts. Ambiguous GP/PS names withhold category joins. Raw words and previous extraction attempts remain available."
+    }
+  ],
+  "claim": "Extraction attempts cover all selected OCR pages; complete field parsing or field accuracy is not claimed.",
+  "output_validation": {
+    "csv_parquet_row_counts_and_columns_match": true,
+    "all_rows_have_source_path_sha_page_bbox_raw": true,
+    "row_ids_unique_where_present": true,
+    "gp_ward_rows": 8196,
+    "block_ward_rows": 876,
+    "district_ward_rows": 52,
+    "crosswalk_rows": 945
+  }
+}

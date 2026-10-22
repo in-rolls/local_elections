@@ -1,0 +1,54 @@
+1 2 3
+Pudukkottai Panchayat Union Contd...
+10 Varapppur General(Women)
+11 Mullur General(Women)
+12 Sothupalai General(Women)
+13 Puthambur General(Women)
+14 Mookkampatti General
+15 Perunkondanviduthi General
+16 Karuppudayanpatti General
+17 Perungalur General
+18 Adanakkottai General
+19 9 A .Nathampannai General
+20 Thondaman Oorani General
+21 Vadavalam General
+22 Kavinadu West General
+23 Mangalathupatti General
+24 Vagavasal General
+25 Sammatividuthy General
+26 Kavinadu East General
+27 Thirumalairayasamudram General
+THIRUMAYAM PANCHAYAT UNION
+1 Kulipirai SC(Women)
+2 Thirumayam SC(Women)
+3 Kannanur SC(Women)
+4 Kulamangalam SC(General)
+5 Melappanaiyur SC(General)
+6 Pilivalam SC(General)
+7 Thulaiyanur SC(General)
+8 Nachandupatti General (Women)
+9 Neikonam General (Women)
+10 Rarapuram General (Women)
+11 V.Lakshmipuram General (Women)
+12 Lembalakudi General (Women)
+13 Aranginampatti General (Women)
+14 Kottur General (Women)
+15 P.Alagapuri General (Women)
+16 Vengalur General
+17 Kuruvikkondampatti General
+18 Virachilai General
+19 Kottaiyur General
+20 Elanjavur General
+21 Mithilaipatti General
+22 Neivasal General
+23 Konapattu General
+24 Panayappatti General
+25 Sethurapatti General
+26 Peraiyur General
+27 Rangiyam General
+28 Unaiyur General
+29 Melur General
+30 Athur General
+31 Adhanur General
+32 Arasampatti General
+33 K.Pallivasal General

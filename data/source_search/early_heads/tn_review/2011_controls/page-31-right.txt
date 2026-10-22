@@ -1,0 +1,62 @@
+1 2 3
+KALLAKURICHI PANCHAYAT UNION Contd..
+4 Sembadakurichi SC Women
+5 Veersolapuram SC Women
+6 Thenthorasalur SC Women
+7 V . Palayam SC General
+8 Melur SC General
+9 Paramanatham SC General
+10 Manmalai SC General
+11 Siruvathur SC General
+12 Porbadakurichi SC General
+13 Ka. Chellampattu SC General
+14 Siruvangur SC General
+15 Thatchur SC General
+16 Vilambar SC General
+17 Ariyaperumanur General Women
+18 Vannajur General Women
+19 Ranganathapuram General Women
+20 Vanavareddy General Women
+21 Mohur General Women
+22 Kattanandal General Women
+23 Thavadipattu General Women
+24 Ka. Mamanandal General Women
+25 Agarakottalam General Women
+26 Thenkeeranur General Women
+27 Vaniyandal General
+28 Mathur General
+29 Eravar General
+30 Madur General
+31 Niraimathi General
+32 Parigam General
+33 Alathur General
+34 Madhavacherry General
+35 Pukkiravari General
+36 Malaikottalam General
+37 Thandalai General
+38 Perumangalam General
+39 Varadhappanur General
+40 Edhuthavainatham General
+41 Somandarkudi General
+42 Sirumangalam General
+43 Peruvangur General
+44 Ka. Alambalam General
+45 Indhili General
+46 Vinaitheerthapuram General
+CHINNASALEM PANCHAYAT UNION
+1 Karunthalakurichi SC Women
+2 Bangaram SC Women
+3 Poondi SC Women
+4 Kallanatham SC Women
+5 Eliyathur SC Women
+6 Kaniyamoor SC Women
+7 Sadaiyampattu SC General
+8 Ammakalathur SC General
+9 Thottiyam SC General
+10 Ulagiyanallur SC General
+11 Nainarpalayam SC General
+12 Ammaiyagaram SC General
+13 Thengiyanatham SC General
+14 Ulagankathan SC General
+15 Karunkuzhi SC General
+16 Thagarai SC General

@@ -1,0 +1,28 @@
+state,year,tier,rows,gp_name_observed,women_reservation_observed,caste_reservation_observed,winner_name_observed,winner_sex,source_path,source_sha256
+Andhra Pradesh,2020,gp_head,7368,7368,7368,7368,0,not_a_master_column; inspect source-specific extras,data/master/master_andhra_pradesh.parquet,34f5d741635b6f0dd8d881e52afb0e20b1d1beca6c7621f0300b97a73f9a8582
+Assam,2025,gp_head,124,124,124,124,0,not_a_master_column; inspect source-specific extras,data/master/master_assam.parquet,13aa45154949b1597676a82d008f7c7c71d5b812024d604bc027ce8b6a4f570d
+Bihar,2016,gp_head,7997,7997,7996,7996,7970,not_a_master_column; inspect source-specific extras,data/master/master_bihar.parquet,ca13d31a6bf07333b6a5e3a3a93075943883fa1cf5928d20b5e891b26f127bb5
+Haryana,2016,gp_head,6090,6090,6090,6090,6087,not_a_master_column; inspect source-specific extras,data/master/master_haryana.parquet,ec5ccc5832f9c086ba6f3764a4cf45892497ba2670f88e25ce51d529a114fccc
+Haryana,2022,gp_head,6123,6123,6123,6123,6099,not_a_master_column; inspect source-specific extras,data/master/master_haryana.parquet,ec5ccc5832f9c086ba6f3764a4cf45892497ba2670f88e25ce51d529a114fccc
+Jammu & Kashmir,2016,gp_head,1763,1761,1763,1763,0,not_a_master_column; inspect source-specific extras,data/master/master_jammu_and_kashmir.parquet,f17fdd1a2bb30e4bcb7f39df084f484022acd040180083072ea2ce50316ef297
+Jharkhand,2015,gp_head,3972,3843,3972,3972,3945,not_a_master_column; inspect source-specific extras,data/master/master_jharkhand.parquet,6370d5019ac6431dfd5d0ab76a49141f3507c6e232c292faeb8886f7fff094fa
+Karnataka,1993,gp_head,5264,5230,5264,5264,0,not_a_master_column; inspect source-specific extras,data/master/master_karnataka.parquet,3502e0b0e8434c76024e7e10213b38e779c2721fe5af3bc89ad031e17fa5e708
+Karnataka,2000,gp_head,5320,5287,5320,5320,0,not_a_master_column; inspect source-specific extras,data/master/master_karnataka.parquet,3502e0b0e8434c76024e7e10213b38e779c2721fe5af3bc89ad031e17fa5e708
+Karnataka,2002,gp_head,5320,5287,5320,5320,0,not_a_master_column; inspect source-specific extras,data/master/master_karnataka.parquet,3502e0b0e8434c76024e7e10213b38e779c2721fe5af3bc89ad031e17fa5e708
+Karnataka,2005,gp_head,5322,5289,5322,5322,0,not_a_master_column; inspect source-specific extras,data/master/master_karnataka.parquet,3502e0b0e8434c76024e7e10213b38e779c2721fe5af3bc89ad031e17fa5e708
+Karnataka,2007,gp_head,5322,5289,5322,5322,0,not_a_master_column; inspect source-specific extras,data/master/master_karnataka.parquet,3502e0b0e8434c76024e7e10213b38e779c2721fe5af3bc89ad031e17fa5e708
+Rajasthan,2005,gp_head,9178,9175,9178,9178,9176,not_a_master_column; inspect source-specific extras,data/master/master_rajasthan.parquet,a8b8ed7900673c61a6ceb76242c7d8f63111b817e2c2607b530b1afa434dc3f8
+Rajasthan,2010,gp_head,9166,9166,9165,9165,9156,not_a_master_column; inspect source-specific extras,data/master/master_rajasthan.parquet,a8b8ed7900673c61a6ceb76242c7d8f63111b817e2c2607b530b1afa434dc3f8
+Rajasthan,2015,gp_head,9862,9862,9862,9862,9862,not_a_master_column; inspect source-specific extras,data/master/master_rajasthan.parquet,a8b8ed7900673c61a6ceb76242c7d8f63111b817e2c2607b530b1afa434dc3f8
+Rajasthan,2020,gp_head,11304,11304,11304,11304,11300,not_a_master_column; inspect source-specific extras,data/master/master_rajasthan.parquet,a8b8ed7900673c61a6ceb76242c7d8f63111b817e2c2607b530b1afa434dc3f8
+Rajasthan,2021,gp_head,89,89,89,89,79,not_a_master_column; inspect source-specific extras,data/master/master_rajasthan.parquet,a8b8ed7900673c61a6ceb76242c7d8f63111b817e2c2607b530b1afa434dc3f8
+Rajasthan,2022,gp_head,56,56,56,56,53,not_a_master_column; inspect source-specific extras,data/master/master_rajasthan.parquet,a8b8ed7900673c61a6ceb76242c7d8f63111b817e2c2607b530b1afa434dc3f8
+Telangana,2019,gp_head,12018,12018,12018,12018,12018,not_a_master_column; inspect source-specific extras,data/master/master_telangana.parquet,ca103df97133349b79e6ed8ec0ffd1ca752fe1b4d8ac8dab5e5272dd28c5461d
+Uttar Pradesh,2005,gp_head,51872,51749,50572,50572,51695,not_a_master_column; inspect source-specific extras,data/master/master_uttar_pradesh.parquet,0798512bf3eba18b9627a63a3cb51f79e7035305ecfb9e719d8c81e206d753c9
+Uttar Pradesh,2010,gp_head,51861,51855,51828,51828,51852,not_a_master_column; inspect source-specific extras,data/master/master_uttar_pradesh.parquet,0798512bf3eba18b9627a63a3cb51f79e7035305ecfb9e719d8c81e206d753c9
+Uttar Pradesh,2021,gp_head,49772,49772,49772,49772,49771,not_a_master_column; inspect source-specific extras,data/master/master_uttar_pradesh.parquet,0798512bf3eba18b9627a63a3cb51f79e7035305ecfb9e719d8c81e206d753c9
+Uttarakhand,2008,gp_head,6368,6368,6368,6368,6328,not_a_master_column; inspect source-specific extras,data/master/master_uttarakhand.parquet,740e2d243427c27192b269ba3431bbae2ece91e0ffb0a4a16da7ce88e2ae052c
+Uttarakhand,2010,gp_head,314,314,314,314,314,not_a_master_column; inspect source-specific extras,data/master/master_uttarakhand.parquet,740e2d243427c27192b269ba3431bbae2ece91e0ffb0a4a16da7ce88e2ae052c
+Uttarakhand,2014,gp_head,6621,6621,6621,6621,6602,not_a_master_column; inspect source-specific extras,data/master/master_uttarakhand.parquet,740e2d243427c27192b269ba3431bbae2ece91e0ffb0a4a16da7ce88e2ae052c
+Uttarakhand,2015,gp_head,308,308,308,308,308,not_a_master_column; inspect source-specific extras,data/master/master_uttarakhand.parquet,740e2d243427c27192b269ba3431bbae2ece91e0ffb0a4a16da7ce88e2ae052c
+Uttarakhand,2019,gp_head,5846,5846,5846,5846,5833,not_a_master_column; inspect source-specific extras,data/master/master_uttarakhand.parquet,740e2d243427c27192b269ba3431bbae2ece91e0ffb0a4a16da7ce88e2ae052c

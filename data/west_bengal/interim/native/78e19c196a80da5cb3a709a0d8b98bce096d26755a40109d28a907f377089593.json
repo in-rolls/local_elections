@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "sha256": "78e19c196a80da5cb3a709a0d8b98bce096d26755a40109d28a907f377089593",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE\nBLOCK : TEHATTA - I\nNumber of members to be elected in the Gram Seats reserved for\nSeats reserved\nPamchayat Seats allocated to Schedule Caste or\nNumber, name & area of constituencies for Women\nName of Gram Schedule Schedule each constituency Schedule Tribe\nTotal No. of Women with serial numbers against serial\nCastes Tribes with serial number against serial number\nmembers members number of Seats.\nMembers members of Seats\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nChhitka /I Part No.70/38\nMouza-Khanjipur, J.L. No. 78\na) Khanjipur Uttarpara\nChhitka 20 14 - 7 1 1, SC 1, SC(Women)\nb) Khanjipur Kadamtala Para\nc) Khanjipur Thakurpara\nd) Khanjipur School Para\nChhitka /II Part No. 70/39\nMouza-Khanjipur, J.L. No. 78\na) Khanjipur Basatipara\n2 2, SC -\nb) Khanjipur Doctor Para\nc) Khanjipur Dakshin Para\nd) Khanjipur Smashan Para\nChhitka /III Part No. 70/40\nMouza-Aztullanagar, J.L. No. 77\na) Aztullanagar Purbapara\n3 3, SC -\nb) Aztullanagar Madhyapara\nc) Aztullanagar Paschimpara\nd) Aztullanagar Uttarpara\nChhitka /IV Part No. 70/41\n4 4, SC 4,SC(Women)\nMouza-Mobarakpur, J.L. No. 76\na) Ilshamari (Purba)\n5 5, SC -\nb) Ilshamari Paschim\nChhitka /V Part No. 70/42\nMouza-Mobarakpur, J.L. No. 76 6 6, SC -\na) Mobarakpur Paschim Para\nChhitka /VI Part No. 70/43 7 7, SC 7,SC(Women)\nMouza-Mobarakpur, J.L. No. 76\n8 8, SC -\na) Mobarakpur Purba Para\nChhitka /VII Part No. 70/44\nMouza-Haripur, J.L. No.-74 9 9, SC -\na) Haripur Paschim Para\nChhitka /VIII Part No. 70/45\nMouza-Haripur, J.L. No.-74\n10 10, SC 10,SC(Women)\na) Haripur (Purba Para)\nb) Haripur (Dakshin Para)\n1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            36.454679999999996,
+            41.85384299999998,
+            701.141883,
+            490.75919999999996
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial number",
+              "Seats reserved for\nSchedule Caste or\nSchedule Tribe\nagainst serial number\nof Seats",
+              "Seats reserved\nfor Women\nagainst serial\nnumber of Seats."
+            ],
+            [
+              null,
+              "Total No. of\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Chhitka",
+              "20",
+              "14",
+              "-",
+              "7",
+              "Chhitka /I Part No.70/38\nMouza-Khanjipur, J.L. No. 78\na) Khanjipur Uttarpara\nb) Khanjipur Kadamtala Para\nc) Khanjipur Thakurpara\nd) Khanjipur School Para",
+              "1",
+              "1, SC",
+              "1, SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /II Part No. 70/39\nMouza-Khanjipur, J.L. No. 78\na) Khanjipur Basatipara\nb) Khanjipur Doctor Para\nc) Khanjipur Dakshin Para\nd) Khanjipur Smashan Para",
+              "2",
+              "2, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /III Part No. 70/40\nMouza-Aztullanagar, J.L. No. 77\na) Aztullanagar Purbapara\nb) Aztullanagar Madhyapara\nc) Aztullanagar Paschimpara\nd) Aztullanagar Uttarpara",
+              "3",
+              "3, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /IV Part No. 70/41\nMouza-Mobarakpur, J.L. No. 76\na) Ilshamari (Purba)\nb) Ilshamari Paschim",
+              "4",
+              "4, SC",
+              "4,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "5",
+              "5, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /V Part No. 70/42\nMouza-Mobarakpur, J.L. No. 76\na) Mobarakpur Paschim Para",
+              "6",
+              "6, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /VI Part No. 70/43\nMouza-Mobarakpur, J.L. No. 76\na) Mobarakpur Purba Para",
+              "7",
+              "7, SC",
+              "7,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "8",
+              "8, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /VII Part No. 70/44\nMouza-Haripur, J.L. No.-74\na) Haripur Paschim Para",
+              "9",
+              "9, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /VIII Part No. 70/45\nMouza-Haripur, J.L. No.-74\na) Haripur (Purba Para)\nb) Haripur (Dakshin Para)",
+              "10",
+              "10, SC",
+              "10,SC(Women)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1514
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "Number of members to be elected in the Gram Seats reserved for\nSeats reserved\nPamchayat Seats allocated to Schedule Caste or\nNumber, name & area of constituencies for Women\nName of Gram Schedule Schedule each constituency Schedule Tribe\nTotal No. of Women with serial numbers against serial\nCastes Tribes with serial number against serial number\nmembers members number of Seats.\nMembers members of Seats\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nChhitka /IX Part No. 70/46\nMouza-Chhitka, J.L. No, 68 11 11, SC -\na) Nilkhuti\nb) Danga Para\nc) Doctor Para 12 - 12, Women\nd) Das Para\nChhitka /X Part No. 70/47\nMouza-Chhitka, J.L. No, 68\na) Chhitka Natun Para\n13 - -\nb) Chhitka Purba Para\nc) Chalk Para\nd) Chhitka Bhagar Para\nChhitka /XI Part No. 70/48\nMouza- Nazirpur, J.L. No. 66 14 - -\na) Nazirpur Purba\nChhitka /XII Part No. 70/49\nMouza- Nazirpur, J.L. No. 66 15 - 15, Women\na) Nazirpur Paschim\nChhitka /XIII Part No. 70/50\nMouza- Bagadoba, J.L. No.-67\na) Bagadoba Bazar Para 16 16, SC -\nb) Bagadoba Saha Para\nc) Bagadoba Colony Para\nChhitka /XIV Part No. 70/51\nMouza- Mrigi, J.L. No. 69\n17 - -\na) Fakirabad Para\nb) Gupta Para\nChhitka /XV Part No. 70/52\nMouza- Mrigi, J.L. No. 69\na) Mrigi Nutan Para 18 18, SC 18,SC(Women)\nb) Das Para\nc) Sardar Para\nChhitka /XVI Part No. 70/53\nMouza-Mrigi, J.L. No.-69 19 19, SC -\na) Mrigi Dhuluri Para\nb) Colony Para\nc) Board Para 20 - -\nd) Pal Para\nDate : 07/02/2008 District Panchayat Election Officer\n& District Magistrate, Nadia\n2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            36.454679999999996,
+            1.4805479999999989,
+            701.141883,
+            483.5004
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial number",
+              "Seats reserved for\nSchedule Caste or\nSchedule Tribe\nagainst serial number\nof Seats",
+              "Seats reserved\nfor Women\nagainst serial\nnumber of Seats."
+            ],
+            [
+              null,
+              "Total No. of\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /IX Part No. 70/46\nMouza-Chhitka, J.L. No, 68\na) Nilkhuti\nb) Danga Para\nc) Doctor Para\nd) Das Para",
+              "11",
+              "11, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "12",
+              "-",
+              "12, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /X Part No. 70/47\nMouza-Chhitka, J.L. No, 68\na) Chhitka Natun Para\nb) Chhitka Purba Para\nc) Chalk Para\nd) Chhitka Bhagar Para",
+              "13",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /XI Part No. 70/48\nMouza- Nazirpur, J.L. No. 66\na) Nazirpur Purba",
+              "14",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /XII Part No. 70/49\nMouza- Nazirpur, J.L. No. 66\na) Nazirpur Paschim",
+              "15",
+              "-",
+              "15, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /XIII Part No. 70/50\nMouza- Bagadoba, J.L. No.-67\na) Bagadoba Bazar Para\nb) Bagadoba Saha Para\nc) Bagadoba Colony Para",
+              "16",
+              "16, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /XIV Part No. 70/51\nMouza- Mrigi, J.L. No. 69\na) Fakirabad Para\nb) Gupta Para",
+              "17",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /XV Part No. 70/52\nMouza- Mrigi, J.L. No. 69\na) Mrigi Nutan Para\nb) Das Para\nc) Sardar Para",
+              "18",
+              "18, SC",
+              "18,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Chhitka /XVI Part No. 70/53\nMouza-Mrigi, J.L. No.-69\na) Mrigi Dhuluri Para\nb) Colony Para\nc) Board Para\nd) Pal Para",
+              "19",
+              "19, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "20",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1409
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

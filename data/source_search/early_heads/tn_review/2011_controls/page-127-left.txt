@@ -1,0 +1,60 @@
+1 2 3
+Paramakudi Panchayat Union Contd.
+30 Peerkankurichi General
+31 Valimarichan General
+32 Kamuthakudi General
+33 Ariyendal General
+34 Soodiyur General
+35 P.Puthur General
+36 Thelichathanallur General
+37 Nelmadur General
+38 Melakavanoor General
+39 K.Karunkulam General
+Bogalur Panchayat Union
+1 Kumukottai SC (Women)
+2 Pottithatti SC (Women)
+3 Vairavanendal SC (Women)
+4 Kavithaikudi SC (Women)
+5 Bogalur SC (General)
+6 Pandikanmoi SC (General)
+7 Theivendranallur SC (General)
+8 Ettivayal SC (General)
+9 Manjakollai SC (General)
+10 A.Puthur SC (General)
+11 Muthaloor SC (General)
+12 Mennanthinagachi General (Women)
+13 Karuthanendal General (Women )
+14 Kamankottai General (Women)
+15 T.Karunkulam General (Women)
+16 Muthuvayal General (Women)
+17 Seyyalur General
+18 Manjoor General
+19 Veeravanoor General
+20 Semanur General
+21 S.Kodikulam General
+22 K.Valasai General
+23 Keelambal General
+24 Sevvoor General
+25 Theeyanur General
+26 Urathur General
+Nainarkovil Panchayat Union
+1 Pandiyur SC (Women)
+2 Pottagavayal SC (Women)
+3 Mummudisathan SC (Women)
+4 Perungalur SC (General)
+5 Rathapuli SC (General)
+6 Siruvayal SC (General)
+7 Panthapanendal SC (General)
+8 Attangudi SC (General)
+9 Kalliyadiyendal General (Women)
+10 Akkiramesi General (Women)
+11 Vallam General (Women)
+12 Ariyankottai General (Women)
+13 A.Katchan General (Women)
+14 Vadavaneri General (Women)
+15 Arasanoor General (Women)
+16 Nainarkovil General (Women)
+17 Kadaranthakudi General (Women)
+18 Vaniavallam General (Women)
+19 Kulathur General
+Page 125

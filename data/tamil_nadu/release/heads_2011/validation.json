@@ -1,0 +1,71 @@
+{
+  "parser_version": 1,
+  "parser_sha256": "ada5f97ea20929d722b4be5c3883646c5b6d80b90c98d81a88f1647de269d54f",
+  "pdfplumber_version": "0.11.10",
+  "pyarrow_version": "23.0.1",
+  "source": {
+    "source_id": "tn_1_58_2011_318_en",
+    "state": "Tamil Nadu",
+    "path": "data/source_search/early_heads/raw/tn_1_58_2011_318_en.pdf",
+    "sha256": "340e18bc66c484a97c9ea7634f3ba6aa12ab715f2b73745c1d96f1b25bcf3ffd",
+    "bytes": "1425952",
+    "requested_url": "https://tnrd.tn.gov.in/project/go_files/1_58_2011_318_en.pdf",
+    "final_url": "https://tnrd.tn.gov.in/project/go_files/1_58_2011_318_en.pdf",
+    "retrieved_utc": "2026-09-08T04:57:24.242687+00:00",
+    "http_status": "200",
+    "content_type": "application/pdf",
+    "acquired": "True",
+    "artifact_status": "acquired_source",
+    "parent_url": "https://www.tnrd.tn.gov.in/dyn_json_schemes_name_details.php?go_type=MQ%3D%3D&n=bmV3&sch_code=NTg%3D&scheme_type=MQ%3D%3D&y=MjAxMQ%3D%3D",
+    "discovery": "PDF link in retained official reservation-gazette index"
+  },
+  "roster_pdf_pages": [
+    3,
+    153
+  ],
+  "office_rows": 12524,
+  "districts_as_printed": 31,
+  "union_groups": 385,
+  "category_missing": 1,
+  "sex_is_office_reservation_not_observed_winner": true,
+  "serial_anomalies": [
+    {
+      "district": "THOOTHUKUDI",
+      "union_key": "OTTAPIDARAM",
+      "rows": 61,
+      "duplicate_serials": [
+        33,
+        34
+      ],
+      "missing_serials": [
+        49,
+        51
+      ],
+      "source_pages": [
+        150,
+        151
+      ]
+    },
+    {
+      "district": "VELLORE",
+      "union_key": "KAVERIPAKKAM",
+      "rows": 55,
+      "duplicate_serials": [
+        23
+      ],
+      "missing_serials": [
+        22
+      ],
+      "source_pages": [
+        37,
+        38
+      ]
+    }
+  ],
+  "limitations": [
+    "Names not individually visually verified",
+    "No cross-year GP identifier established",
+    "GO60 amendments on PDF1\u20132 remain separate from the GO61 roster",
+    "Later amendments and actual election implementation not established"
+  ]
+}

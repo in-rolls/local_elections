@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "sha256": "b3d00c8ccb5fd59e694f9fe5ff4ee297f5aebb1650a861c2a4d70d24d7563fd5",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "FORM – A1\n[ See rule 23(4) ]\nO R D E R\nNo. 248 (7) /P&RD Dated : 07.02.2008\nIn exercise of the power conferred by sections 12 and 17 of the West Bengal\nPanchayat Elections Act. 2003 (West Bengal Act XXI of 2003) read with rules 22 and 23\nof the West Bengal Panchayat Election Rules, 2006, I, the District Panchayat Election\nOfficer and District Magistrate of the district of Nadia, as the prescribed authority\nappointed by the State Government in the Department of Panchyats and Rural\nDevelopment under notification No.623-PN/O/I/3R-3/2004 Dated 09.02.2007 for the\npurpose of rules 22 and 23 of the said rules , hereby determine, after previous publication\nof the draft of this order as required under the said rules for the Grams specified in column\n(1) of the schedule below, the total number of members, Scheduled Castes members ,\nScheduled Tribes members and women members to be elected to such Gram Panchayats\nspecified in the corresponding entries in columns (2a), (2b),(2c) and (2d) respectively, to\ndivide the area of the Grams into constituencies with serial numbers assigned to them\nspecified in the corresponding entries in column (3), to allocate to each such constituency\nseat or seats specified in the corresponding entries in column(4), seat or seats reserved for\nthe Scheduled Castes or the Scheduled Tribes persons specified in the corresponding\nentries in column(5), and seat or seats reserved for women specified in the corresponding\nentries in column (6) of the Schedule.",
+      "tables": [],
+      "images": 0,
+      "characters": 1542
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "(FORM-A1)\nThe Schedule\nBLOCK : KRISHNAGAR-II\nNumber of members to be elected in the Gram Panchayat\nScheduled\nName of the Gram Total number of Scheduled Women\nTribes\nmembers Castes members members\nmembers\n1 (2a) (2b) (2c) (2d)\nBelpukur 18 2 0 6\nSeats allocated to Seats reserved for Seats reserved\nNumber, Name and area of constituencies each constituency Schedule Castes or for women\nwith serial numbers with serial Schedule Tribes against against serial\nnumbers serial number of seats number of seats\n(3) (4) (5) (6)\nBelpukur/I\nMouza : Dwipchandrapur, J.L. No. – 12\n1 - 1 (W)\n1. Uttarpara Dwipchandrapur Saratpally\nAssembly Part No. – 76/61\nBelpukur/II\nMouza : Dwipchandrapur, J.L. No. -12\n1. Uttar Dwipchandrapur ( Battala Palpara 2 2(SC) 2[SC(W)]\n10 No. Group)\nAssembly Part No. – 76/62\nBelpukur/III\nMouza : Dwipchandrapur, J.L. No. -12\n3 - -\n1. Paschim-Dakshin Dwipchandrapur\nAssembly Part No. – 76/63\nBelpukur/IV\nMouza : Polta, J.L. No. – 13\n1. Uttar Polta\n2. Dakshin Polta 4 - -\n3. Bramhanpara, Hazrapara,\nSantrapara\nAssembly Part No. – 76/64\nBelpukur / V\nMouza : Balainagar, J.L. No. – 7\n1. Purba Balainagar\n2. Uttar-Paschim Balainagar\nBahirdwip 5,6 - 5 (W)\nMouza : Belpukur, J.L. No. – 10\n3. Dakshin Iswarchandrapur\n4. Uttar Iswarchandrapur\nAssembly Part No. – 76/65\n1 of 3",
+      "tables": [
+        {
+          "bbox": [
+            45.037079999999996,
+            128.2692,
+            590.740690909091,
+            240.57960000000003
+          ],
+          "rows": [
+            [
+              "Name of the Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of\nmembers",
+              "Scheduled\nCastes members",
+              "Scheduled\nTribes\nmembers",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Belpukur",
+              "18",
+              "2",
+              "0",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            45.037079999999996,
+            250.29960000000005,
+            590.740690909091,
+            722.9397546
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Belpukur/I\nMouza : Dwipchandrapur, J.L. No. – 12\n1. Uttarpara Dwipchandrapur Saratpally\nAssembly Part No. – 76/61",
+              "1",
+              "-",
+              "1 (W)"
+            ],
+            [
+              "Belpukur/II\nMouza : Dwipchandrapur, J.L. No. -12\n1. Uttar Dwipchandrapur ( Battala Palpara\n10 No. Group)\nAssembly Part No. – 76/62",
+              "2",
+              "2(SC)",
+              "2[SC(W)]"
+            ],
+            [
+              "Belpukur/III\nMouza : Dwipchandrapur, J.L. No. -12\n1. Paschim-Dakshin Dwipchandrapur\nAssembly Part No. – 76/63",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              "Belpukur/IV\nMouza : Polta, J.L. No. – 13\n1. Uttar Polta\n2. Dakshin Polta\n3. Bramhanpara, Hazrapara,\nSantrapara\nAssembly Part No. – 76/64",
+              "4",
+              "-",
+              "-"
+            ],
+            [
+              "Belpukur / V\nMouza : Balainagar, J.L. No. – 7\n1. Purba Balainagar\n2. Uttar-Paschim Balainagar\nBahirdwip\nMouza : Belpukur, J.L. No. – 10\n3. Dakshin Iswarchandrapur\n4. Uttar Iswarchandrapur\nAssembly Part No. – 76/65",
+              "5,6",
+              "-",
+              "5 (W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1327
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "Seats allocated to Seats reserved for Seats reserved\nNumber, Name and area of constituencies each constituency Schedule Castes or for women\nwith serial numbers with serial Schedule Tribes against against serial\nnumbers serial number of seats number of seats\n(3) (4) (5) (6)\nBelpukur / VI\nMouza : Belpukur, J.L. No. – 10\n1. Uttar Rajapur\n2. Dakshin Rajapur\n7,8 - 8 (W)\nMouza : Durgabas, J.L. No. – 8\n3. Uttar Sankarpur\n4. Dakshin Sankarpur\nAssembly Part No. – 76/66\nBelpukur / VII\nMouza : Belpukur, J.L. No. – 10\n1. Pathakpara, Muhuripara\n2. Purbabenepara, Bidyalankarpara\n3. Churamanipara, Majherpara,\n9 - -\nPaschimbenepara\n4. Belpukur Colony\nMouza : Sondanga, J.L. No. -11\n5. Dangapara\nAssembly Part No. – 76/67\nBelpukur / VIII\nMouza : Belpukur, J.L. No. – 10\n1. Bachaspatipara, Garolpara,\nMuchipara 10 10 ( SC ) -\n2. Bazarpar, Dakshin Namashudrapara\n3.Haripara, Uttar Namashudrapara\nAssembly Part No. – 76/68\nBelpukur / IX\nMouza : Belpukur, J.L. No. – 10\n1. Sardarpara 11 - -\n2. Ghoshpara\nAssembly Part No. – 76/69\nBelpukur / X\nMouza : Sondanga, J.L. No. -11\n1. Sondanga Hindupara,\n12,13 - 12 (W)\n2. Pandabpara\n3. Sardarpara\nAssembly Part No. – 76/70\n2 of 3",
+      "tables": [
+        {
+          "bbox": [
+            45.03708,
+            77.63400000000001,
+            590.3916,
+            651.426
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Belpukur / VI\nMouza : Belpukur, J.L. No. – 10\n1. Uttar Rajapur\n2. Dakshin Rajapur\nMouza : Durgabas, J.L. No. – 8\n3. Uttar Sankarpur\n4. Dakshin Sankarpur\nAssembly Part No. – 76/66",
+              "7,8",
+              "-",
+              "8 (W)"
+            ],
+            [
+              "Belpukur / VII\nMouza : Belpukur, J.L. No. – 10\n1. Pathakpara, Muhuripara\n2. Purbabenepara, Bidyalankarpara\n3. Churamanipara, Majherpara,\nPaschimbenepara\n4. Belpukur Colony\nMouza : Sondanga, J.L. No. -11\n5. Dangapara\nAssembly Part No. – 76/67",
+              "9",
+              "-",
+              "-"
+            ],
+            [
+              "Belpukur / VIII\nMouza : Belpukur, J.L. No. – 10\n1. Bachaspatipara, Garolpara,\nMuchipara\n2. Bazarpar, Dakshin Namashudrapara\n3.Haripara, Uttar Namashudrapara\nAssembly Part No. – 76/68",
+              "10",
+              "10 ( SC )",
+              "-"
+            ],
+            [
+              "Belpukur / IX\nMouza : Belpukur, J.L. No. – 10\n1. Sardarpara\n2. Ghoshpara\nAssembly Part No. – 76/69",
+              "11",
+              "-",
+              "-"
+            ],
+            [
+              "Belpukur / X\nMouza : Sondanga, J.L. No. -11\n1. Sondanga Hindupara,\n2. Pandabpara\n3. Sardarpara\nAssembly Part No. – 76/70",
+              "12,13",
+              "-",
+              "12 (W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1191
+    },
+    {
+      "page": 4,
+      "width": 612,
+      "height": 792,
+      "text": "Number, Name and area of constituencies Seats allocated to Seats reserved for Seats reserved\nwith serial numbers each constituency Schedule Castes or for women\nwith serial Schedule Tribes against against serial\nnumbers serial number of seats number of seats\n(3) (4) (5) (6)\nBelpukur / XI\nMouza : Sondanga, J.L. No. -11\n1. Sondanga Paschimpara\n14 - -\n2. Sondanga Majherpar\n3. Sondanga Majherpar\nAssembly Part No. – 76/71\nBelpukur / XII\nMouza : Sondanga, J.L. No. -11\n1. Maniktalapara\n15, 16 - 15 (W)\n2. Sondanga Masjidpara ( Masjidpara)\n3. Sondanga Mondalpara\nAssembly Part No. – 76/72\nBelpukur / XIII\nMouza : Sondanga, J.L. No. -11\n1. Sondanga Nutanpara\n2. Mallickpara\n17 - -\n3. Sondanga Nutanpara ( Masjidpara)\nMouza : Kanthalia Math, J.L. No. -34\n4. Kanthalia Math\nAssembly Part No. – 76/73\nBelpukur / XIV\nMouza : Sondanga, J.L. No. -11\n18 - -\n1. Chowgachha Ghoshpara\nAssembly Part No. – 76/74\nDate : 07-02-2008\nSeal\nDistrict Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\n3 of 3",
+      "tables": [
+        {
+          "bbox": [
+            45.03708,
+            50.03520000000003,
+            590.3916,
+            453.2018346
+          ],
+          "rows": [
+            [
+              "Number, Name and area of constituencies\nwith serial numbers",
+              "Seats allocated to\neach constituency\nwith serial\nnumbers",
+              "Seats reserved for\nSchedule Castes or\nSchedule Tribes against\nserial number of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of seats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Belpukur / XI\nMouza : Sondanga, J.L. No. -11\n1. Sondanga Paschimpara\n2. Sondanga Majherpar\n3. Sondanga Majherpar\nAssembly Part No. – 76/71",
+              "14",
+              "-",
+              "-"
+            ],
+            [
+              "Belpukur / XII\nMouza : Sondanga, J.L. No. -11\n1. Maniktalapara\n2. Sondanga Masjidpara ( Masjidpara)\n3. Sondanga Mondalpara\nAssembly Part No. – 76/72",
+              "15, 16",
+              "-",
+              "15 (W)"
+            ],
+            [
+              "Belpukur / XIII\nMouza : Sondanga, J.L. No. -11\n1. Sondanga Nutanpara\n2. Mallickpara\n3. Sondanga Nutanpara ( Masjidpara)\nMouza : Kanthalia Math, J.L. No. -34\n4. Kanthalia Math\nAssembly Part No. – 76/73",
+              "17",
+              "-",
+              "-"
+            ],
+            [
+              "Belpukur / XIV\nMouza : Sondanga, J.L. No. -11\n1. Chowgachha Ghoshpara\nAssembly Part No. – 76/74",
+              "18",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1030
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 4
+}

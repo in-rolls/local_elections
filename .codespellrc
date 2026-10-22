@@ -1,0 +1,16 @@
+# codespell reads [tool.codespell] from pyproject.toml only when it is passed
+# --toml, and preen does not pass it. This file it finds on its own.
+#
+# The corpus is 830,000 rows of Indian place and personal names transliterated
+# several ways, plus Kruti Dev mojibake kept deliberately as evidence. A spell
+# checker finds tens of thousands of "misspellings" in it and every one is a
+# person or a village. Over src/, tests/ and the prose it finds none, which is
+# the part worth checking.
+#
+# reserv and resevation are inside regexes that match the gazettes' own
+# spelling. The documents print both, and matching only the correct one is how
+# rows go missing - Ambala prints "Unresreved" 79 times and every row carrying
+# it was deleted.
+[codespell]
+skip = ./data,./uv.lock,./.git,./.venv,./MANIFEST.json,./MANIFEST.md,./docs/dictionary.md,./docs/worklist.md,./docs/sources.md,./CHANGELOG.md
+ignore-words-list = reserv,resevation,gool,gir,nd,ot,te,fpr,tkfr,ist,ans,fo,womens

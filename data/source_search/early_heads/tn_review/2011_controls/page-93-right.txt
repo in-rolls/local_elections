@@ -1,0 +1,56 @@
+1 2 3
+KOTTUR PANCHAYAT UNION Contd.,
+38 Alathur General
+39 Cheri General
+40 Irulneeki General
+41 Keluvathur General
+42 Kotturthottam General
+43 57 Kulamanickam General
+44 Kunniyur General
+45 Paingattur General
+46 Palayakkottai parasapuram General
+47 Pallivarthi General
+48 Thirukkalar General
+49 Vengathangudi General
+THIRUTHURAIPOONDI PANCHAYAT UNION
+1 Ammanur SC (Women)
+2 Alathambadi SC (Women)
+3 Varambiyam SC (Women)
+4 Korukkai SC (Women)
+5 Nedumbalam SC (Women)
+6 Rayanallur SC (Women)
+7 Kattimedu SC (General)
+8 Keerakalur SC (General)
+9 Pamani SC (General)
+10 Katchanam SC (General)
+11 Kokkaladi SC (General)
+12 Kurumbal SC (General)
+13 Mettupalayam SC (General)
+14 Vilakudi SC (General)
+15 Velur SC (General)
+16 Kothamangalam SC (General)
+17 Keeralathur General (Women)
+18 Segal General (Women)
+19 Kunnur General (Women)
+20 Thiruthangoor General (Women)
+21 Nunnakadu General (Women)
+22 Melamaruthur General
+23 Manali General
+24 Andankarai General
+25 Adirengam General
+26 Pitchankottagam General
+27 Poosalangudi General
+28 Ezhilur General
+29 Panaiyur General
+30 Palayangudi General
+31 Thiuruvalanjuli General
+32 Komal General
+MUTHUPET PANCHAYAT UNION
+1 Pinnathur SC (Women)
+2 Ariyaloor SC (Women)
+3 Ovarur SC (Women)
+4 Udhayamarthandapuram SC (General)
+5 Edaiyur SC (General)
+6 Sanganthi SC (General)
+7 Veppanchery SC (General)
+8 Vadasanganthi SC (General)

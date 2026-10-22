@@ -1,0 +1,52 @@
+DISTRICT
+AT PRESIDENTS
+s and Women in the Village Panchayat President in
+State
+Name of the Village Category to which reservation
+SL. No
+Panchayat is made
+1 2 3
+Kalayarkovil Panchayat Union
+1 Erivayal SC(Women)
+2 Sengulam SC(Women)
+3 Maravamangalam SC(Women)
+4 Kurunthankudi SC(General)
+5 Velarendal SC(General)
+6 Kanjipatti SC(General)
+7 Usilankulam SC(General)
+8 Puliyadithammam General (Women)
+9 Maranthai General (Women)
+10 Nagarampatti General (Women)
+11 Melamarungoor General (Women)
+12 Kollankudi General (Women)
+13 Udakulam General (Women)
+14 Soorakkulam Pudukkottai General (Women)
+15 Kalakkanmoi General (Women)
+16 Silukkapatti General (Women)
+17 Gowripatti General (Women)
+18 Parutthikkanmoi General (Women)
+19 Periyakannanoor General (Women)
+20 Athappadakki General
+21 Ammanpatti General
+22 Allur General
+23 Chokkanathapuram General
+24 Ilanthakarai General
+25 Kalayarkoil General
+26 Kattendal Sukkanoorani General
+27 Kalayarmangalam General
+28 Kadaneri General
+29 Kottakudi General
+30 Melamangalam General
+31 Mallal General
+32 Mudikkarai General
+33 Muthur Vaniankudi General
+34 Nadamangalam General
+35 Marakkathur General
+36 Paganeri General
+37 Pallithammam General
+38 Sethambal General
+39 Siramam General
+40 Sembanoor General
+41 Thenmavali General
+42 A.Velankulam General
+43 Vitaneri General

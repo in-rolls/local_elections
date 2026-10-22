@@ -1,0 +1,57 @@
+Theni D
+Village Pancha
+Reservation of Seats for Scheduled Caste/Scheduled Tribes an
+Sta
+Category to which reservation is
+Sl. No Name of the Village Panchayat
+made
+1 2 3
+Periyakulam Panchayat Union
+1 Endapuli SC (Women)
+2 Gullapuram SC (Women)
+3 Alagarnaickanpatti SC(General)
+4 Jeyamangalam SC (General)
+5 A.Vadipatti General (Women)
+6 Vadaputhupatti General (Women)
+7 Keelavadakarai General (Women)
+8 Silvarpatti General (Women)
+9 Bomminaickenpatti General
+10 D.Vadipatti General
+11 Erumalainaickenpatti General
+12 G.Kallupatti General
+13 Lakshmipuram General
+14 Melmangalam General
+15 Muthalakkampatti General
+16 Jallipatti General
+17 Saruthupatti General
+Andipatti Panchayat Union
+1 Rajathani SC (Women)
+2 Theppampatti SC (Women)
+3 Thirumalapuram SC (Women)
+4 Kovilpatti SC (General)
+5 Okkaraipatti SC (General)
+6 Pullimankombai SC (General)
+7 Rajakkalpatti SC (General)
+8 T.Subbulapuram SC (General)
+9 Kathirnarasingapuram General (Women)
+10 G.Usilampatti General (Women)
+11 Kothaloothu General (Women)
+12 Kothapatti General (Women)
+13 Palayakottai General (Women)
+14 Rengasamudram General (Women)
+15 Shanmugasundarapuram General (Women)
+16 Ammachiapuram General
+17 Annuppapatti General
+18 Sitharpatti General
+19 Kanniappapillaipatti General
+20 Ethakovil General
+21 Mottanuthu General
+22 Kunnur General
+23 Marikundu General
+24 Palakombai General
+25 Pitchampatti General
+26 Rajagopalanpatti General
+27 Bodithasanpatti General
+28 Ramakrishnapuram General
+29 Thekkampatti General
+30 Thimmarasanaickanur General

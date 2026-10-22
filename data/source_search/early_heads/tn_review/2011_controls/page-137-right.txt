@@ -1,0 +1,47 @@
+1 2 3
+Thiruppuvanam Panchayat Union Contd.
+6 Mukkudi SC(General)
+7 Manaloor SC(General)
+8 Kanchirankulam SC(General)
+9 Michalpattinam SC(General)
+10 K.Pethanendal SC(General)
+11 Madappuram SC(General)
+12 Achangulam General (Women)
+13 Malavarayanendal General (Women)
+14 Pappagudi General (Women)
+15 Ilanthaikulam General (Women)
+16 T.Velangulam General (Women)
+17 Melarangiam General (Women)
+18 Enathi-Theli General (Women)
+19 Keelachorikulam General (Women)
+20 Chellappanendal General (Women)
+21 Kalukerkadai General (Women)
+22 Thiruppachethi General (Women)
+23 Pattam General
+24 Kondagai General
+25 Allinagaram General
+26 Odathur General
+27 Kalloorani General
+28 Kanakkangudi General
+29 Kilathari General
+30 Ladanendal General
+31 Mangudi-Ambalathadi General
+32 Maranadu General
+33 Melachorikulam General
+34 Muthuvanthidal General
+35 Palayanoor General
+36 Poovanthi General
+37 Pottapalayam General
+38 T.Puliyangulam General
+39 Puliyur-Sayanapuram General
+40 Sottathatti General
+41 Thavatharendal General
+42 Thoothai General
+43 Veeranendal General
+44 Velloor General
+45 S.Vagaigulam General
+Ilayangudi Panchayat Union
+1 Nenjathur SC(Women)
+2 Thiruvallur SC(Women)
+3 Virayathakandan SC(Women)
+4 Bramanakurchi SC(Women)

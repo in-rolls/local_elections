@@ -1,0 +1,36 @@
+1 2 3
+Bodinayakanur Panchayat Union Contd.
+11 Koolaiyanur General
+12 Maniampatti General
+13 Manjinayakenpatti General
+14 Nagalapuram General
+15 Rasingapuram General
+Chinnamanur Panchayat Union
+1 Pottipuram SC Women)
+2 Eranampatti SC Women)
+3 Kanniservaipatti SC (General)
+4 Seepalakottai SC (General)
+5 Alagapuri General (Women)
+6 Erasakkanaickanur General (Women)
+7 Muthulapuram General (Women)
+8 Poolanandapuram General
+9 Ayyampatti General
+10 Chinnaovalapuram General
+11 Kamatchipuram General
+12 Pulikuthi General
+13 Sankarapuram General
+14 Veppampatti General
+Uthamapalayam Panchayat Union
+1 Lakshminaickanpatty SC (Women)
+2 T.Sindalaicherry SC (General)
+3 Melasindalaicherry General (Women)
+4 Ramasamynaickanpatty General (Women)
+5 Pallavarayanpatty General (Women)
+6 Gohilapuram General (Women)
+7 Anaimalayanpatty General
+8 U.Ammapatty General
+9 Thamminaickanpatty General
+10 T.Renganathapuram General
+11 T.Meenatchipuram General
+12 Nagaiyagoundanpatty General
+13 Royappanpatty General

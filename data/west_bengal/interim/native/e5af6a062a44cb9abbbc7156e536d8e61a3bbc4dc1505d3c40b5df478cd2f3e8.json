@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "sha256": "e5af6a062a44cb9abbbc7156e536d8e61a3bbc4dc1505d3c40b5df478cd2f3e8",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 5,
+      "characters": 0
+    },
+    {
+      "page": 2,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 3,
+      "characters": 0
+    },
+    {
+      "page": 3,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 6,
+      "characters": 0
+    },
+    {
+      "page": 4,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 6,
+      "characters": 0
+    },
+    {
+      "page": 5,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 5,
+      "characters": 0
+    },
+    {
+      "page": 6,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 6,
+      "characters": 0
+    },
+    {
+      "page": 7,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 3,
+      "characters": 0
+    },
+    {
+      "page": 8,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 3,
+      "characters": 0
+    },
+    {
+      "page": 9,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 3,
+      "characters": 0
+    },
+    {
+      "page": 10,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 4,
+      "characters": 0
+    },
+    {
+      "page": 11,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 4,
+      "characters": 0
+    },
+    {
+      "page": 12,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 3,
+      "characters": 0
+    },
+    {
+      "page": 13,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 6,
+      "characters": 0
+    },
+    {
+      "page": 14,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 7,
+      "characters": 0
+    },
+    {
+      "page": 15,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 4,
+      "characters": 0
+    },
+    {
+      "page": 16,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 4,
+      "characters": 0
+    },
+    {
+      "page": 17,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 5,
+      "characters": 0
+    },
+    {
+      "page": 18,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 3,
+      "characters": 0
+    },
+    {
+      "page": 19,
+      "width": 1008,
+      "height": 612,
+      "text": "",
+      "tables": [],
+      "images": 5,
+      "characters": 0
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 19
+}

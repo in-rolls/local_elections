@@ -1,0 +1,50 @@
+TIRUVALL
+Village Pan
+Reservation of Seats for Scheduled Caste/Scheduled
+Tamil
+Category to which
+Sl. No Name of the Village Panchayat
+reservation is made
+1 2 3
+Villivakkam Panchayat Union
+1 Morai SC(Women)
+2 Alathur SC(General)
+3 Pandeswaram SC(General)
+4 Arakkambakkam General(Women)
+5 Ayappakkam General(Women)
+6 Pammadhukulam General(Women)
+7 Vellacheri General(Women)
+8 Adayalampattu General
+9 Karlapakkam General
+10 Palavedu General
+11 Pothur General
+12 Vanagaram General
+13 Vellanoor General
+Puzhal Panchayat Union
+1 Pullilyon SC(General)
+2 Vilangadupakkam General(Women)
+3 Vadakarai General(Women)
+4 Theerthakariyampattu General
+5 Grantlyon General
+6 Alinjivakkam General
+7 Sendrampakkam General
+Minjur Panchayat Union
+1 Pulicat ST(General)
+2 Thiruppalaivanam SC(Women)
+3 Siruvakkam SC(Women)
+4 Vannipakkam SC(Women)
+5 Thiruvellavoyal SC(Women)
+6 Kammarpalayam SC(Women)
+7 Kolur SC(Women)
+8 Erusivan SC(Women)
+9 Avurivakkam SC(General)
+10 Panapakkam SC(General)
+11 Thathamanji SC(General)
+12 Vanjivakkam SC(General)
+13 Kilikodi SC(General)
+14 Agaram SC(General)
+15 Guduvancheri SC(General)
+16 Sombattu SC(General)
+17 Seganyam SC(General)
+18 Aladu SC(General)
+Page 8

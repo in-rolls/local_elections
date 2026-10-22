@@ -1,0 +1,16 @@
+{
+  "request_url": "https://dataverse.harvard.edu/api/guestbooks/269",
+  "response_url": "https://dataverse.harvard.edu/api/guestbooks/269",
+  "status": 200,
+  "headers": {
+    "Date": "Tue, 08 Sep 2026 05:25:04 GMT",
+    "Content-Type": "application/json;charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Set-Cookie": "AWSALB=EfawYctCfS2hnbSNGQKrHwZEPV6Ieqd4AIQs6JBDAHx5dUe2rEDEtqQdQorc+O0ZxaC9J5VbGjm4w9Yl1DjeWJm4WEWTkcGci05Rcjoa3UE2W+6RHlKtF+540rIM; Expires=Tue, 15 Sep 2026 05:25:04 GMT; Path=/, AWSALBCORS=EfawYctCfS2hnbSNGQKrHwZEPV6Ieqd4AIQs6JBDAHx5dUe2rEDEtqQdQorc+O0ZxaC9J5VbGjm4w9Yl1DjeWJm4WEWTkcGci05Rcjoa3UE2W+6RHlKtF+540rIM; Expires=Tue, 15 Sep 2026 05:25:04 GMT; Path=/; SameSite=None; Secure",
+    "Server": "Apache"
+  },
+  "body_path": "data/wb/vintage_search/dataverse_documentation_followup/responses/guestbook_metadata_00.body",
+  "bytes": 15214,
+  "sha256": "a8b05cd7771371cd40cbcb09637a7f0f66894b3b8677e981d1cd9eb32e7b4c0d"
+}

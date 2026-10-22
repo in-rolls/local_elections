@@ -1,0 +1,222 @@
+PAGE 1
+Table A.1
+Evaluation of Actual Pradhan: Question-wise Analysis
+Pradhan did a good job
+Pradhan is Looking after Looking after
+effective village needs your needs Making BPL lists
+Male Female Male Female Male Female Male Female
+(1) (2) (3) (4) (5) (6) (7) (8)
+Only reserved 2003 -0.206 -0.097 -0.207 -0.113 -0.207 -0.051 -0.191 -0.077
+(0.064) (0.071) (0.063) (0.066) (0.060) (0.066) (0.067) (0.063)
+Reserved 1998 and 2003 -0.023 -0.025 -0.035 -0.041 -0.001 0.015 0.135 0.037
+(0.079) (0.060) (0.080) (0.061) (0.069) (0.048) (0.084) (0.054)
+Only reserved 1998 0.025 0.006 0.007 -0.004 -0.002 0.075 -0.056 0.073
+(0.064) (0.065) (0.065) (0.062) (0.057) (0.053) (0.063) (0.054)
+Test: 2003 = both 1998 and 2003 = 1998 [p-value] 0.011 0.409 0.018 0.305 0.008 0.177 0.004 0.062
+Test: 2003 = both 1998 and 2003 [p-value] 0.047 0.364 0.060 0.351 0.012 0.336 0.001 0.111
+N 6530 6315 6590 6363 6471 6323 6246 5893
+Notes:
+1 Responses to each question are separately standardized by subtracting the mean for the never reserved sample and dividing by the standard deviation.
+2 All regressions include the controls as defined in Table IV, and standard errors are clustered by GP.
+3 We report the p-values from Wald Equality Test.
+
+PAGE 2
+Table A.2
+Effect of Female Leadership on Public Goods Quantity
+Coefficients on:
+Only Reserved in Mean of
+reserved Only reserved 2003 and never
+N 2003 1998 1998 reserved
+At least one new tubewell was built 495 0.152 0.073 0.160 0.365
+(0.066) (0.063) (0.088) (0.482)
+At least one new tubewell was repaired 482 0.208 0.130 0.080 0.628
+(0.067) (0.064) (0.089) (0.484)
+At least one drainage/sanitation facility was built 495 0.053 -0.113 0.052 0.428
+(0.067) (0.059) (0.091) (0.496)
+At least one drainage/sanitation facility was repaired 396 0.150 -0.017 0.032 0.178
+(0.067) (0.062) (0.071) (0.384)
+At least one irrigation pump was built 495 0.137 0.005 -0.013 0.180
+(0.053) (0.051) (0.050) (0.385)
+At least one irrigation pump was repaired 319 0.110 -0.078 -0.005 0.417
+(0.092) (0.086) (0.123) (0.495)
+Number of metal roads built or repaired since 2003 495 0.274 0.046 0.079 0.118
+(0.117) (0.070) (0.065) (0.448)
+Number of transportation related infrastructure 495 0.074 0.250 0.303 1.302
+(bus stop, bus service, taxi) (0.175) (0.160) (0.225) (1.201)
+At least one educational facility was built 495 0.053 -0.030 0.026 0.117
+(0.042) (0.036) (0.055) (0.322)
+At least one educational facility was repaired 465 0.165 0.039 0.001 0.296
+(0.072) (0.069) (0.097) (0.458)
+At least one community education center 495 -0.007 0.030 -0.001 0.009
+(0.010) (0.023) (0.009) (0.095)
+There is a NGO child center/creche 495 -0.045 -0.039 -0.027 0.045
+(0.016) (0.021) (0.023) (0.208)
+Number of health facilities (PHC, Health sub center) 495 -0.025 0.027 -0.005 0.257
+(0.049) (0.052) (0.084) (0.468)
+At least one health facility was built 495 0.011 -0.004 -0.018 0.014
+(0.015) (0.014) (0.009) (0.116)
+At least one health facility was repaired (0 if no fac) 495 0.061 0.016 0.047 0.009
+(0.023) (0.016) (0.024) (0.095)
+Number of trained Dais, untrained Dais and 495 -0.069 -0.158 0.384 1.014
+private doctors (0.232) (0.226) (0.423) (2.012)
+Notes:
+1 All regressions include block fixed effects, and standard errors are clustered by GP.
+2 Reservation status defined in Table I.
+
+PAGE 3
+Table A.3
+Perceptions of Effectiveness of Female Leaders -- Speech and Vignette Results
+Speech Irrigation vignette Water vignette
+Will Pradhan Pradhan
+Address-ed Cares allocate Villager will get will Cares
+Pradhan villager about BPL approves resources collect about Agree Would Pradhan Cares about Would
+is satisfact- villagers' cards Pradhan's by villagers' Pradhan is villagers' with vote for is villagers' Agree with vote for
+effective orily welfare well budget lobbying share well effective welfare Pradhan Pradhan effective welfare Pradhan Pradhan
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) (14) (15)
+I. Males
+Panel A
+Female Pradhan -0.064 -0.107 -0.080 -0.038 -0.034 -0.071 -0.082 -0.065 -0.066 -0.149 -0.082 0.043 0.033 0.048 0.063
+(0.040) (0.040) (0.041) (0.042) (0.040) (0.037) (0.042) (0.053) (0.054) (0.055) (0.059) (0.064) (0.065) (0.052) (0.052)
+Female Pradhan * ever reserved 0.095 0.107 0.125 0.094 0.053 0.140 0.125 0.145 0.163 0.115 0.089 -0.014 -0.015 0.019 0.038
+(0.052) (0.053) (0.054) (0.056) (0.055) (0.051) (0.053) (0.070) (0.074) (0.073) (0.076) (0.080) (0.081) (0.070) (0.076)
+Panel B
+Female Pradhan * only reserved 2003 0.151 0.135 0.198 0.185 0.050 0.175 0.174 0.126 0.158 0.061 0.018 -0.027 -0.031 0.032 0.042
+(0.067) (0.065) (0.067) (0.071) (0.065) (0.070) (0.070) (0.093) (0.095) (0.085) (0.090) (0.099) (0.108) (0.098) (0.108)
+Female Pradhan * reserved 1998 & 2003 0.091 0.048 0.080 0.058 0.050 0.109 0.124 0.184 0.231 0.173 0.167 0.062 0.038 -0.031 0.028
+(0.083) (0.092) (0.088) (0.096) (0.102) (0.092) (0.086) (0.096) (0.114) (0.110) (0.107) (0.118) (0.120) (0.115) (0.122)
+Female Pradhan * only reserved 1998 0.043 0.114 0.081 0.031 0.059 0.128 0.087 0.147 0.137 0.137 0.111 -0.047 -0.031 0.026 0.033
+(0.066) (0.069) (0.068) (0.072) (0.073) (0.063) (0.062) (0.100) (0.104) (0.104) (0.108) (0.097) (0.092) (0.081) (0.096)
+Test: FP* 2003 = FP* (both 1998 and 2003)
+= FP* 1998 0.357 0.668 0.240 0.160 0.994 0.762 0.487 0.875 0.778 0.579 0.379 0.655 0.831 0.879 0.995
+N 6715 6716 6715 6714 6551 6715 6716 3173 3173 3172 3116 3544 3544 3543 3503
+II. Females
+Panel A
+Female Pradhan -0.051 -0.029 -0.056 0.003 -0.086 -0.081 -0.072 -0.059 -0.010 -0.102 -0.083 0.030 0.086 0.003 0.035
+(0.045) (0.046) (0.046) (0.045) (0.045) (0.045) (0.045) (0.058) (0.056) (0.055) (0.056) (0.046) (0.046) (0.042) (0.048)
+Female Pradhan * ever reserved 0.013 0.035 0.025 -0.017 0.077 0.063 0.045 0.023 -0.047 -0.041 -0.035 0.016 0.002 0.002 0.002
+(0.054) (0.057) (0.057) (0.056) (0.057) (0.057) (0.056) (0.073) (0.071) (0.075) (0.075) (0.060) (0.061) (0.061) (0.063)
+Panel B
+Female Pradhan * only reserved 2003 -0.034 -0.024 -0.031 -0.076 0.069 0.008 -0.001 -0.002 -0.072 0.002 -0.020 0.013 0.015 0.061 0.084
+(0.067) (0.074) (0.069) (0.067) (0.076) (0.071) (0.074) (0.086) (0.085) (0.093) (0.090) (0.075) (0.084) (0.079) (0.086)
+Female Pradhan * reserved 1998 & 2003 0.028 0.083 0.069 0.012 0.070 0.086 0.061 0.070 0.013 -0.011 0.105 0.033 0.048 0.039 -0.118
+(0.076) (0.079) (0.086) (0.092) (0.078) (0.094) (0.073) (0.097) (0.101) (0.094) (0.102) (0.094) (0.090) (0.115) (0.105)
+Female Pradhan * only reserved 1998 0.054 0.069 0.057 0.027 0.092 0.107 0.083 -0.003 -0.083 -0.129 -0.153 0.013 -0.033 -0.083 -0.012
+(0.066) (0.066) (0.069) (0.067) (0.068) (0.067) (0.066) (0.105) (0.098) (0.108) (0.108) (0.078) (0.074) (0.084) (0.071)
+Test: FP* 2003 = FP* (both 1998 and 2003)
+= FP* 1998 0.455 0.359 0.382 0.308 0.949 0.401 0.536 0.746 0.653 0.484 0.131 0.977 0.698 0.328 0.214
+N 6771 6772 6771 6770 6372 6770 6770 2869 2869 2869 2740 3908 3908 3902 3797
+Notes:
+1Dependent variables in Columns (1)-(4) and (6)-(7) are originally on a scale of 1 to 10, and in Column (5) is an indicator variable; all normalized by the mean and standard deviation of the never reserved sample. In
+the vignette experiments, "Effectiveness of leader" and "Cares about villager welfare" are originally on a scale of 1 to 10, while "Agree with Pradhan" and "Would vote for Pradhan" are indicator variables which
+equal one if the respondent answers in the affirmative; all normalized by the mean and standard deviation of the never reserved sample.
+2All regressions include controls as defined in Table IV, and standard errors are clustered by GP. The regressions also include: in Panel A, Ever reserved and in Panel B, Only reserved 2003, reserved 1998 and 2003,
+and Only reserved 1998.
+3Female Pradhan is an indicator for when the leader delivering the speech was female or the Pradhan depicted in the vignettes was female.
+
+PAGE 4
+Table A.4
+Knowledge and Participation in Village Politics
+Knows the name of Has approached Has heard of Attended village meeting last
+current Pradhan previous Pradhan current Pradhan village meeting year
+Male Female Male Female Male Female Male Female Male Female
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+Panel A
+Ever reserved -0.088 -0.054 -0.075 -0.043 -0.022 -0.008 -0.029 -0.002 0.000 -0.009
+(0.025) (0.024) (0.024) (0.020) (0.020) (0.022) (0.018) (0.009) (0.018) (0.008)
+Panel B
+Only reserved 2003 -0.134 -0.075 -0.012 -0.032 -0.036 -0.032 -0.038 -0.011 0.000 -0.015
+(0.033) (0.033) (0.027) (0.027) (0.024) (0.026) (0.022) (0.012) (0.024) (0.011)
+Reserved 1998 and 2003 -0.117 -0.024 -0.137 -0.020 0.047 0.052 -0.062 0.007 -0.003 -0.004
+(0.042) (0.036) (0.048) (0.032) (0.030) (0.033) (0.026) (0.014) (0.028) (0.011)
+Only reserved 1998 -0.024 -0.051 -0.098 -0.069 -0.054 -0.023 0.001 0.002 0.002 -0.005
+(0.033) (0.031) (0.033) (0.023) (0.028) (0.029) (0.024) (0.012) (0.024) (0.010)
+Test: 2003 = both 1998 and 2003 = 1998 0.012 0.538 0.012 0.206 0.012 0.051 0.102 0.495 0.987 0.589
+Mean of never reserved sample 0.669 0.332 0.591 0.234 0.534 0.134 0.759 0.560 0.341 0.066
+(0.009) (0.009) (0.009) (0.008) 0.009 0.006 (0.008) (0.009) 0.009 0.004
+N 6717 6780 6717 6780 6716 6779 6717 6780 6717 6780
+Notes:
+1Each dependent variable is an indicator variable which equals one if the respondent answers in the affirmative. "Ever Reserved" is an indicator for whether a GP was reserved for a female Pradhan in either 1998,
+2003 or in both elections. All other reservation variables are as defined in Table I.
+2All regressions include controls listed in Table IV. Standard errors are clustered by GP.
+
+PAGE 5
+Table A.5
+Female Leadership: Experimental Evidence by Exposure Level
+Average effect (speech and vignette)
+All Male Female
+(1) (2) (3)
+Female Pradhan -0.042 -0.028 -0.045
+(0.031) (0.051) (0.037)
+Female Pradhan * ever reserved 0.042 0.054 0.037
+(0.039) (0.067) (0.047)
+Female Pradhan * ever reserved * knows Pradhan's name 0.038 0.050 -0.031
+(0.044) (0.077) (0.072)
+Ever reserved 0.017 -0.049 0.044
+(0.039) (0.056) (0.042)
+Ever reserved * knows Pradhan's name -0.016 0.013 0.039
+(0.041) (0.056) (0.058)
+Female Pradhan * knows pradhan's name -0.004 -0.033 0.026
+(0.035) (0.058) (0.055)
+Knows Pradhan's name 0.074 0.050 0.064
+(0.031) (0.042) (0.044)
+Notes:
+1 The dependent variable is the average of speech and vignette variables listed in A.3. We estimate the effect on the
+average of all the dependent variables in the speech and vignettes.
+2 "Knows Pradhan's name" is an indicator variable equal to one if the respondent knows the name of the current or
+previous Pradhan. Female Pradhan is an indicator for when the leader delivering the speech was female or the
+Pradhan depicted in the vignettes was female. All regressions include the controls defined in Table IV, and
+standard errors are clustered by GP.
+
+PAGE 6
+Table A.6
+Robustness
+Average effect
+Male Female
+(1) (2)
+I. Evaluation of new Pradhans
+First time as pradhan in 2003 term 0.001 0.015
+(0.076) (0.068)
+II. Evaluation of SC Pradhans
+Reserved for SC in 2003 -0.114 -0.037
+(0.063) (0.062)
+Reserved for SC in 1998 -0.087 -0.061
+(0.057) (0.052)
+Reserved for SC in 2003 * reserved for woman in 1998 0.163 0.027
+(0.120) (0.119)
+III. Evaluation of female Pradhans and SC reservation
+Only reserved 2003 (for wWoman) -0.204 -0.068
+(0.077) (0.078)
+Reserved 1998 and 2003 (for woman) 0.050 0.009
+(0.088) (0.066)
+Only reserved 1998 (for woman) 0.029 -0.012
+(0.079) (0.077)
+Only reserved 2003 * previously reserved for SC 0.035 -0.006
+(0.131) (0.132)
+IV. SC reservation on female leadership: speech and vignettes results
+Panel A
+Female Pradhan -0.046 -0.042
+(0.034) (0.034)
+Female Pradhan * ever reserved SC -0.013 0.014
+(0.038) (0.038)
+Panel B
+Female Pradhan * reserved for SC in 2003 0.003 0.005
+(0.041) (0.044)
+Female Pradhan * reserved for SC in 1998 -0.028 0.025
+(0.047) (0.047)
+Notes:
+1 The regressions in Panel I-III use the average evaluation coefficient for Pradhan (explained in notes to Table IV) as
+the dependent variable.
+2 In Panel I the explanatory variable of interest is whether the Pradhan was elected for the first time in 2003 and the
+sample is restricted to the set of never reserved Pradhans.
+3 In Panel II the explanatory variables of interest are whether the GP was reserved for SC in the 2003 and 1998 elections
+and the interaction of being reserved for a woman Pradhan in 1998 and being reserved for an SC Pradhan in 2003.
+4 In Panel III, the explanatory variables of interest are the women reservation status indicators and the interaction of
+"Previously Reserved for SC" indicator with the "Only Reserved 2003" indicator. The regressions also include the
+interaction of "Only Reserved 1998" and "Reserved 1998 and 2003" with "Previously Reserved for SC" indicator.
+5 The regressions in Panel IV use the average perception of Pradhan effectiveness in the speech and vignettes (explained
+in notes to Table VI) as the dependent variable. The explanatory variables of interest are the indicators for female
+Pradhan in the speech/vignette and the interaction of this indicator with the reservation for SC status of the GP. In
+addition, the regressions include the indicator variables for ever reserved for SC in Panel A, and reserved for SC in
+2003 and 1998 in Panel B.
+6 All regressions include the controls defined in Table 4, and standard errors are clustered by GP. Reservation types are
+defined in the notes of Table 1.

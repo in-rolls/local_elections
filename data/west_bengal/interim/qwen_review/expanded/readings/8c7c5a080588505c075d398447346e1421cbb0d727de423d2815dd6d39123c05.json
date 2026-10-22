@@ -1,0 +1,37 @@
+{
+  "source": {
+    "sample_id": 39,
+    "row_id": "828734886b8a469b26ccbde4",
+    "source_path": "data/wb/gp_source_search/archived_district_files/extracted/1B_Upa-Pradhan/1B_Upa-Pradhan_Neturia.pdf",
+    "source_sha256": "5b1a2877fd976ed960b3ecd14908d63c1ac9e21b9b595d56265ebe88eba2d289",
+    "source_page": 1,
+    "axis": "women",
+    "tier": "gp_deputy",
+    "bbox": [
+      472.86,
+      492.24,
+      565.49,
+      579.5
+    ],
+    "bbox_units": "PDF points",
+    "image_path": "data/wb/derived/qwen_review/expanded/cell_039.png",
+    "note": "Crop generation in progress; skip missing images and return to them. These original bbox units are explicit; final manifest will additionally provide converted PDF bbox and image hash.",
+    "raster_dpi": 360,
+    "image_rotation_clockwise": 0
+  },
+  "fingerprint": {
+    "image_sha256": "2cdc4da020da5a6db9cc85f98a98defda671acadfd6be07c25ba2fb8e6a03e21",
+    "model_digest": "5ced39dfa4bac325dc183dd1e4febaa1c46b3ea28bce48896c8e69c1e79611cc",
+    "prompt_sha256": "e747db3c1ff8f5e2ed47cec2266b51cdae006b573cfd6dbfd0ee7eadec5d7903",
+    "temperature": 0,
+    "num_predict": 512
+  },
+  "prompt": "Transcribe only the text visibly printed in this cropped election-table cell. Preserve original spelling, Bengali script, Roman numerals, and reservation codes. Do not correct or complete place names. If blank or only a dash, return an empty text string. Mark unreadable characters with [?]. Return JSON with one key: \"text\". Do not infer reservation from a name.",
+  "response": {
+    "model": "qwen2.5vl:7b",
+    "created_at": "2026-09-08T02:12:39.49515Z",
+    "response": "{\n  \"text\": \"????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????",
+    "done": false
+  },
+  "seconds": 40.0408023330383
+}

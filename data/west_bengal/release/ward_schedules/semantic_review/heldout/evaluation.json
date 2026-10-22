@@ -1,0 +1,701 @@
+{
+  "pages": [
+    {
+      "source_path": "data/wb/gp_source_search/archived_district_files/malda_Bamongola.pdf",
+      "source_sha256": "a1311dabd26cf077177a83bed3f32e8665bea1d84413d5c4b460ba6ddbe267df",
+      "source_page": 4,
+      "district": "Malda",
+      "year": "2013",
+      "stage": "unclassified",
+      "ocr_cache": "data/wb/derived/ward_schedules/ocr/a1311dabd26cf077177a83bed3f32e8665bea1d84413d5c4b460ba6ddbe267df/0004.json",
+      "layout": "gp_form_a",
+      "structured_gp_candidates": "0",
+      "structured_other_tier_candidates": "0",
+      "coverage": "raw_only",
+      "reason": "column_number_style_not_supported_or_ambiguous",
+      "reason_evidence": "reader_diagnostic",
+      "gp_identifier_tokens": "13",
+      "ps_identifier_tokens": "0",
+      "bengali_letter_fraction": "0.022",
+      "source_page_link": "data/wb/gp_source_search/archived_district_files/malda_Bamongola.pdf#page=4",
+      "sample_image": "",
+      "source_page_bbox": [
+        0,
+        0.0,
+        596.16,
+        840.48
+      ],
+      "image_path": "data/wb/derived/ward_schedules/semantic_review/heldout/page_1.png",
+      "image_sha256": "caef8b9063522092153fbc1b5276f418451c55f2d5dd3d14878d225bf55c3cd7",
+      "gold": [
+        {
+          "seat_no": 1,
+          "name": "MADNABATI",
+          "caste_reservation": "ST",
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 2,
+          "name": "MADNABATI",
+          "caste_reservation": null,
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 3,
+          "name": "MADNABATI",
+          "caste_reservation": "SC",
+          "woman_reserved": null
+        },
+        {
+          "seat_no": 4,
+          "name": "MADNABATI",
+          "caste_reservation": "ST",
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 5,
+          "name": "MADNABATI",
+          "caste_reservation": "SC",
+          "woman_reserved": null
+        },
+        {
+          "seat_no": 6,
+          "name": "MADNABATI",
+          "caste_reservation": "SC",
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 7,
+          "name": "MADNABATI",
+          "caste_reservation": null,
+          "woman_reserved": null
+        },
+        {
+          "seat_no": 8,
+          "name": "MADNABATI",
+          "caste_reservation": "SC",
+          "woman_reserved": null
+        },
+        {
+          "seat_no": 9,
+          "name": "MADNABATI",
+          "caste_reservation": null,
+          "woman_reserved": 1
+        }
+      ],
+      "gold_method": "Direct visual transcription from original PDF page render; no OCR used as gold. These pages were subsequently used adaptively during reader development. Null codes mean printed blank/dash, not a UR inference.",
+      "baseline_rows": 0,
+      "current_rows": 8,
+      "comparisons": [
+        {
+          "seat_no": 1,
+          "fields": {
+            "name": "MADNABATII",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [
+            "name"
+          ],
+          "abstained_fields": [
+            "caste_reservation",
+            "woman_reserved"
+          ]
+        },
+        {
+          "seat_no": 2,
+          "fields": {
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "woman_reserved"
+          ]
+        },
+        {
+          "seat_no": 4,
+          "fields": {
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "caste_reservation",
+            "woman_reserved"
+          ]
+        },
+        {
+          "seat_no": 5,
+          "fields": {
+            "name": null,
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "name",
+            "caste_reservation"
+          ]
+        },
+        {
+          "seat_no": 6,
+          "fields": {
+            "name": null,
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "name",
+            "caste_reservation",
+            "woman_reserved"
+          ]
+        },
+        {
+          "seat_no": 7,
+          "fields": {
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 8,
+          "fields": {
+            "name": "MADNABATI",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "caste_reservation"
+          ]
+        },
+        {
+          "seat_no": 9,
+          "fields": {
+            "name": "MADNABATII",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [
+            "name"
+          ],
+          "abstained_fields": [
+            "woman_reserved"
+          ]
+        }
+      ],
+      "missed_seats": [
+        3
+      ]
+    },
+    {
+      "source_path": "data/wb/2023/cooch_behar/extracted/CBR FINAL ORDER  FORM A1 B1/Dinhata 2 from A&B/from_A_Bamanhat 1_DIN2.pdf",
+      "source_sha256": "c1c64007c1e1d53493669c658f41c540c18e9877e229850734f94b830193fa71",
+      "source_page": 1,
+      "district": "Cooch Behar",
+      "year": "2023",
+      "stage": "final",
+      "ocr_cache": "data/wb/derived/ward_schedules/ocr/c1c64007c1e1d53493669c658f41c540c18e9877e229850734f94b830193fa71/0001.json",
+      "layout": "gp_form_a",
+      "structured_gp_candidates": "0",
+      "structured_other_tier_candidates": "0",
+      "coverage": "raw_only",
+      "reason": "possible_order_only_page",
+      "reason_evidence": "reader_diagnostic",
+      "gp_identifier_tokens": "0",
+      "ps_identifier_tokens": "0",
+      "bengali_letter_fraction": "0.007",
+      "source_page_link": "data/wb/2023/cooch_behar/extracted/CBR FINAL ORDER  FORM A1 B1/Dinhata 2 from A&B/from_A_Bamanhat 1_DIN2.pdf#page=1",
+      "sample_image": "",
+      "source_page_bbox": [
+        0,
+        0,
+        595,
+        842
+      ],
+      "image_path": "data/wb/derived/ward_schedules/semantic_review/heldout/page_2.png",
+      "image_sha256": "c74b8364aff20bf2dcc06ae058dd6a72b4b6d177ac31b1f2e1b20bc5843523cf",
+      "gold": [],
+      "gold_method": "Direct visual transcription from original PDF page render; no OCR used as gold. These pages were subsequently used adaptively during reader development. Null codes mean printed blank/dash, not a UR inference.",
+      "baseline_rows": 0,
+      "current_rows": 0,
+      "comparisons": [],
+      "missed_seats": []
+    },
+    {
+      "source_path": "data/wb/2023/gp_sources/birbhum_bolpur_sriniketan_form_a1_5_mb.pdf",
+      "source_sha256": "b02635e0f17d89ee7ab7fb54a295c6d1747a788d6a22a5b909dd295208c7aaaa",
+      "source_page": 1,
+      "district": "Birbhum",
+      "year": "2023",
+      "stage": "final",
+      "ocr_cache": "data/wb/derived/ward_schedules/ocr/b02635e0f17d89ee7ab7fb54a295c6d1747a788d6a22a5b909dd295208c7aaaa/0001.json",
+      "layout": "gp_form_a",
+      "structured_gp_candidates": "0",
+      "structured_other_tier_candidates": "0",
+      "coverage": "raw_only",
+      "reason": "column_number_style_not_supported_or_ambiguous",
+      "reason_evidence": "reader_diagnostic",
+      "gp_identifier_tokens": "13",
+      "ps_identifier_tokens": "0",
+      "bengali_letter_fraction": "0.0",
+      "source_page_link": "data/wb/2023/gp_sources/birbhum_bolpur_sriniketan_form_a1_5_mb.pdf#page=1",
+      "sample_image": "",
+      "source_page_bbox": [
+        0,
+        0,
+        596,
+        842
+      ],
+      "image_path": "data/wb/derived/ward_schedules/semantic_review/heldout/page_3.png",
+      "image_sha256": "e456dd151ae7dfd852cd0e0c3409be302434ecc6dcafac21a33fd2b175d1ce96",
+      "gold": [
+        {
+          "seat_no": 1,
+          "name": "Sattore",
+          "caste_reservation": "SC",
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 2,
+          "name": "Sattore",
+          "caste_reservation": null,
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 3,
+          "name": "Sattore",
+          "caste_reservation": null,
+          "woman_reserved": null
+        },
+        {
+          "seat_no": 4,
+          "name": "Sattore",
+          "caste_reservation": "SC",
+          "woman_reserved": null
+        },
+        {
+          "seat_no": 5,
+          "name": "Sattore",
+          "caste_reservation": null,
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 6,
+          "name": "Sattore",
+          "caste_reservation": "SC",
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 7,
+          "name": "Sattore",
+          "caste_reservation": null,
+          "woman_reserved": null
+        },
+        {
+          "seat_no": 8,
+          "name": "Sattore",
+          "caste_reservation": "ST",
+          "woman_reserved": null
+        },
+        {
+          "seat_no": 9,
+          "name": "Sattore",
+          "caste_reservation": null,
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 10,
+          "name": "Sattore",
+          "caste_reservation": "SC",
+          "woman_reserved": 1
+        }
+      ],
+      "gold_method": "Direct visual transcription from original PDF page render; no OCR used as gold. These pages were subsequently used adaptively during reader development. Null codes mean printed blank/dash, not a UR inference.",
+      "baseline_rows": 0,
+      "current_rows": 10,
+      "comparisons": [
+        {
+          "seat_no": 1,
+          "fields": {
+            "name": "Sattore",
+            "caste_reservation": "SC",
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 2,
+          "fields": {
+            "name": "Sattore",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "woman_reserved"
+          ]
+        },
+        {
+          "seat_no": 3,
+          "fields": {
+            "name": "Sattore",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 4,
+          "fields": {
+            "name": "Sattore",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "caste_reservation"
+          ]
+        },
+        {
+          "seat_no": 5,
+          "fields": {
+            "name": "Sattore",
+            "caste_reservation": null,
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 6,
+          "fields": {
+            "name": "Sattore",
+            "caste_reservation": "SC",
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "woman_reserved"
+          ]
+        },
+        {
+          "seat_no": 7,
+          "fields": {
+            "name": "Sattore",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 8,
+          "fields": {
+            "name": "Sattore",
+            "caste_reservation": "ST",
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 9,
+          "fields": {
+            "name": "Sattore",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "woman_reserved"
+          ]
+        },
+        {
+          "seat_no": 10,
+          "fields": {
+            "name": "Sattore",
+            "caste_reservation": "SC",
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        }
+      ],
+      "missed_seats": []
+    },
+    {
+      "source_path": "data/wb/gp_source_search/archived_district_files/malda_Ratua-I.pdf",
+      "source_sha256": "2b774e20bfb70695a997a5716b6be1767099894d62f4885ce5060be92d06db7c",
+      "source_page": 1,
+      "district": "Malda",
+      "year": "2013",
+      "stage": "unclassified",
+      "ocr_cache": "data/wb/derived/ward_schedules/ocr/2b774e20bfb70695a997a5716b6be1767099894d62f4885ce5060be92d06db7c/0001.json",
+      "layout": "ps_form_b",
+      "structured_gp_candidates": "0",
+      "structured_other_tier_candidates": "0",
+      "coverage": "raw_only",
+      "reason": "ps_form_b_reader_not_implemented",
+      "reason_evidence": "reader_diagnostic",
+      "gp_identifier_tokens": "0",
+      "ps_identifier_tokens": "12",
+      "bengali_letter_fraction": "0.0",
+      "source_page_link": "data/wb/gp_source_search/archived_district_files/malda_Ratua-I.pdf#page=1",
+      "sample_image": "",
+      "source_page_bbox": [
+        0,
+        0.0,
+        844.56,
+        596.16
+      ],
+      "image_path": "data/wb/derived/ward_schedules/semantic_review/heldout/page_4.png",
+      "image_sha256": "2f74e30595e30bfee3edc6357a60285ab9916740585cca57e9b75e92d7b68070",
+      "gold": [
+        {
+          "seat_no": 1,
+          "name": "Mahanandatola",
+          "caste_reservation": null,
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 2,
+          "name": "Mahanandatola",
+          "caste_reservation": null,
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 3,
+          "name": "Mahanandatola",
+          "caste_reservation": null,
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 4,
+          "name": "Belaimari",
+          "caste_reservation": "SC",
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 5,
+          "name": "Belaimari",
+          "caste_reservation": null,
+          "woman_reserved": null
+        },
+        {
+          "seat_no": 6,
+          "name": "Belaimari",
+          "caste_reservation": "BC",
+          "woman_reserved": null
+        }
+      ],
+      "gold_method": "Direct visual transcription from original PDF page render; no OCR used as gold. These pages were subsequently used adaptively during reader development. Null codes mean printed blank/dash, not a UR inference.",
+      "baseline_rows": 0,
+      "current_rows": 6,
+      "comparisons": [
+        {
+          "seat_no": 1,
+          "fields": {
+            "name": "Mahanandatola",
+            "caste_reservation": null,
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 2,
+          "fields": {
+            "name": "Mahanandatola",
+            "caste_reservation": null,
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 3,
+          "fields": {
+            "name": "Mahanandatola",
+            "caste_reservation": null,
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 4,
+          "fields": {
+            "name": "Belaimari",
+            "caste_reservation": "SC",
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 5,
+          "fields": {
+            "name": "Belaimari",
+            "caste_reservation": null,
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 6,
+          "fields": {
+            "name": "Belaimari",
+            "caste_reservation": "BC",
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        }
+      ],
+      "missed_seats": []
+    },
+    {
+      "source_path": "data/wb/2023/alipurduar/kumargram_form_b_kumargram_ps_pdf_3_35mb_2023030252-1.pdf",
+      "source_sha256": "e302cfa47f7583622f52c20ecfd5726d35448d598171ed9820d37aaaebb04139",
+      "source_page": 1,
+      "district": "Alipurduar",
+      "year": "2023",
+      "stage": "final",
+      "ocr_cache": "data/wb/derived/ward_schedules/ocr/e302cfa47f7583622f52c20ecfd5726d35448d598171ed9820d37aaaebb04139/0001.json",
+      "layout": "ps_form_b",
+      "structured_gp_candidates": "0",
+      "structured_other_tier_candidates": "0",
+      "coverage": "raw_only",
+      "reason": "ps_form_b_reader_not_implemented",
+      "reason_evidence": "reader_diagnostic",
+      "gp_identifier_tokens": "0",
+      "ps_identifier_tokens": "5",
+      "bengali_letter_fraction": "0.007",
+      "source_page_link": "data/wb/2023/alipurduar/kumargram_form_b_kumargram_ps_pdf_3_35mb_2023030252-1.pdf#page=1",
+      "sample_image": "",
+      "source_page_bbox": [
+        0,
+        0,
+        596,
+        842
+      ],
+      "image_path": "data/wb/derived/ward_schedules/semantic_review/heldout/page_5.png",
+      "image_sha256": "3e830b46771eed3a99cb2bae8d5a691a01204a01319495bbb2bb3d4cf3c348f1",
+      "gold": [
+        {
+          "seat_no": 1,
+          "name": "Turturikhanda",
+          "caste_reservation": null,
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 2,
+          "name": "Turturikhanda",
+          "caste_reservation": "ST",
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 3,
+          "name": "Turturikhanda",
+          "caste_reservation": "ST",
+          "woman_reserved": null
+        },
+        {
+          "seat_no": 4,
+          "name": "Rydak",
+          "caste_reservation": "ST",
+          "woman_reserved": 1
+        },
+        {
+          "seat_no": 5,
+          "name": "Rydak",
+          "caste_reservation": "ST",
+          "woman_reserved": null
+        },
+        {
+          "seat_no": 6,
+          "name": "Rydak",
+          "caste_reservation": null,
+          "woman_reserved": null
+        }
+      ],
+      "gold_method": "Direct visual transcription from original PDF page render; no OCR used as gold. These pages were subsequently used adaptively during reader development. Null codes mean printed blank/dash, not a UR inference.",
+      "baseline_rows": 0,
+      "current_rows": 5,
+      "comparisons": [
+        {
+          "seat_no": 1,
+          "fields": {
+            "name": "Turturikhanda",
+            "caste_reservation": null,
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 2,
+          "fields": {
+            "name": "Turturikhanda",
+            "caste_reservation": "ST",
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": [
+            "woman_reserved"
+          ]
+        },
+        {
+          "seat_no": 3,
+          "fields": {
+            "name": "Turturikhanda",
+            "caste_reservation": "ST",
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 4,
+          "fields": {
+            "name": "Rydak",
+            "caste_reservation": "ST",
+            "woman_reserved": 1
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        },
+        {
+          "seat_no": 5,
+          "fields": {
+            "name": "Rydak",
+            "caste_reservation": "ST",
+            "woman_reserved": null
+          },
+          "wrong_nonnull_fields": [],
+          "abstained_fields": []
+        }
+      ],
+      "missed_seats": [
+        6
+      ]
+    }
+  ],
+  "gold_rows": 31,
+  "candidate_rows": 29,
+  "wrong_nonnull_fields": 2,
+  "unexpected_rows": 0,
+  "limitations": "Five source-validation pages, including one actual order cover. Initially selected outside the diagnostic sample, then adaptively used to diagnose damaged headers and develop the GP fallback. This is not an untouched held-out evaluation or random corpus accuracy estimate. Frozen visually transcribed gold remains unchanged. Two OCR GP spelling errors remain candidates requiring review; emitted reservation codes agree with these source pages. Missing fields are abstentions.",
+  "evaluation_role": "development_source_validation"
+}

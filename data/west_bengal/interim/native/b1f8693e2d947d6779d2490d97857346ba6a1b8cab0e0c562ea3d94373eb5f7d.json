@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "sha256": "b1f8693e2d947d6779d2490d97857346ba6a1b8cab0e0c562ea3d94373eb5f7d",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "fo\nrebmun\nlatoT\nsrebmem\nsetsaC\ndeludehcS\nsrebmem\nsebirT\neludehcS\nsrebmem\nsrebmem\nnemoW\nThe Schedule\nForm - A1\nBlock : Karimpur-II\nNumber of Members to be elected to the GramPanchayat\nName of Gram\n(1) (2a) (2b) (2c) (2d) (3) (4)\nNatidanga-II 11 Nil Nil 4 Natidanga-II/I, Part No. 69/28\nMouza-Thanarpara ,J.L.No-37 1 1 , (Women)\n(i)Thanarpara Gamakhali\nNatidanga-II/II, Part No. 69/29\nMouza-Thanarpara ,J.L.No-37\n(i)Malipara 2\n(ii) Hayeterpara\n(iii) Vitapara\nNatidanga-II/III, Part No. 69/30\nMouza-Thanarpara ,J.L.No-37,\n(i)Bajkhapara 3\n(ii) Duttapara\n(iii) Daspara\nNatidanga-II/IV, Part No. 69/31\nMouza-Thanarpara ,J.L.No-37\n(i) Ghoshpara\n(ii) Halderpara 4 4 , (Women)\n(iii) Hoglapara\n(iv)Pirtalapara\n(v) Sahajipara\nNatidanga-II/V, Part No. 69/32\nMouza-Thanarpara ,J.L.No-37 5\n(i) Puratanpara\nNatidanga-II/VI, Part No. 69/33\nMouza-Thanarpara ,J.L.No-37\n(i) Natunpara 6\nMouza-Folia ,J.L.No-35\n(ii) Khanpara\nNatidanga-II/VII, Part No. 69/34\nMouza-Folia,J.L.No-35\n(i)Hindupara\n(ii) Daspara\n7 7 , (Women)\nMouza-Usufpur,J.L.No-36\n(iii) Dakshinpara\nMouza- Char Gorbhanga,J.L.No.-16\n(iv) Char Gorbhanga\nNatidanga-II/VIII, Part No. 69/35\nMouza-Charmoktarpur ,J.L.No-17\n(i) Daspara 8\n(ii) Malithyapara\n(iii) Masjidpara\nfo aera\ndna\nemaN\n,rebmuN\nlaires\nhtiw\nseicneutitsnoc\nsrebmun\nhcae\not detacolla\nstaeS\nlaires\nhtiw\nycneutitsnoc\nsrebmun\ndeludehcS\nrof\ndevreser\nstaeS\nsebirT\neludehcS\ndna\nsetsaC\nfo\nrebmun\nlaires\ntsniaga\nstaes\nnemoW\nrof\ndevreser\nstaeS\nfo\nrebmun\nlaires\ntsniaga\nstaes\n(5) (6)\nFORM - A of Natidanga-II G.P. Page 1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            115.31040000000007,
+            562.794,
+            754.25724
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of Members to be elected to\nthe GramPanchayat",
+              null,
+              null,
+              null,
+              "fo\nlaires\naera\ndna htiw\nsrebmun\nemaN seicneutitsnoc\n,rebmuN",
+              "hcae laires\not htiw\ndetacolla srebmun\nycneutitsnoc\nstaeS",
+              "deludehcS sebirT\nfo\nrebmun\neludehcS\nrof\nstaes\nlaires\ndevreser\ndna\ntsniaga\nsetsaC\nstaeS",
+              "nemoW\nfo\nrebmun\nrof\nstaes\ndevreser laires\ntsniaga\nstaeS"
+            ],
+            [
+              null,
+              "fo\nrebmun\nsrebmem\nlatoT",
+              "setsaC\nsrebmem\ndeludehcS",
+              "sebirT\nsrebmem\neludehcS",
+              "srebmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Natidanga-II",
+              "11",
+              "Nil",
+              "Nil",
+              "4",
+              "Natidanga-II/I, Part No. 69/28\nMouza-Thanarpara ,J.L.No-37\n(i)Thanarpara Gamakhali",
+              "1",
+              "",
+              "1 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-II/II, Part No. 69/29\nMouza-Thanarpara ,J.L.No-37\n(i)Malipara\n(ii) Hayeterpara\n(iii) Vitapara",
+              "2",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-II/III, Part No. 69/30\nMouza-Thanarpara ,J.L.No-37,\n(i)Bajkhapara\n(ii) Duttapara\n(iii) Daspara",
+              "3",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-II/IV, Part No. 69/31\nMouza-Thanarpara ,J.L.No-37\n(i) Ghoshpara\n(ii) Halderpara\n(iii) Hoglapara\n(iv)Pirtalapara\n(v) Sahajipara",
+              "4",
+              "",
+              "4 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-II/V, Part No. 69/32\nMouza-Thanarpara ,J.L.No-37\n(i) Puratanpara",
+              "5",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-II/VI, Part No. 69/33\nMouza-Thanarpara ,J.L.No-37\n(i) Natunpara\nMouza-Folia ,J.L.No-35\n(ii) Khanpara",
+              "6",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-II/VII, Part No. 69/34\nMouza-Folia,J.L.No-35\n(i)Hindupara\n(ii) Daspara\nMouza-Usufpur,J.L.No-36\n(iii) Dakshinpara\nMouza- Char Gorbhanga,J.L.No.-16\n(iv) Char Gorbhanga",
+              "7",
+              "",
+              "7 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-II/VIII, Part No. 69/35\nMouza-Charmoktarpur ,J.L.No-17\n(i) Daspara\n(ii) Malithyapara\n(iii) Masjidpara",
+              "8",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1470
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "(1) (2a) (2b) (2c) (2d) (3) (4) (5) (6)\nNatidanga-II Natidanga-II/IX, Part No. 69/36\nMouza-Chormoktarpur ,J.L.No-17\n(i) Purba Moktarpur Masjidpara (ii)Purba\n9\nMoktarpur Purbapara\n(iii) Purba Moktarpur Daspara\n(iv) Purba Moktarpur Charpara\nNatidanga-II/X, Part No. 69/37\nMuza: Char Moktarpur, J.L. No.-17\n(i) Paschimpara\n(ii) Biswaspara\n10, 11 10 , (Women)\n(iii) Mollapara\n(iv) Duttapara\n(v) Saikhpara\n(vi) Madhyapara\nDate : 07.02.2008\nDistrict Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\nFORM - A of Natidanga-II G.P. Page 2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            54.47543460000003,
+            562.794,
+            239.85983460000006
+          ],
+          "rows": [
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Natidanga-II",
+              "",
+              "",
+              "",
+              "",
+              "Natidanga-II/IX, Part No. 69/36\nMouza-Chormoktarpur ,J.L.No-17\n(i) Purba Moktarpur Masjidpara (ii)Purba\nMoktarpur Purbapara\n(iii) Purba Moktarpur Daspara\n(iv) Purba Moktarpur Charpara",
+              "9",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Natidanga-II/X, Part No. 69/37\nMuza: Char Moktarpur, J.L. No.-17\n(i) Paschimpara\n(ii) Biswaspara\n(iii) Mollapara\n(iv) Duttapara\n(v) Saikhpara\n(vi) Madhyapara",
+              "10, 11",
+              "",
+              "10 , (Women)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 515
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

@@ -1,0 +1,355 @@
+{
+  "version": 1,
+  "sha256": "8c34e22257a4393b7f33f275ee3af0ba981b840ceac90b318e4a967211bad7a1",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "[FROM B]\n[See rule 25(1) ]\nORDER\nNo.: PRD/1154 Dated: 15/11/2017\nIn exercise of the powerconferred by sections 14and 17of theWest Bengal Panchayat Election Act, 2003 (West Ben. Act XXI of 2003), read with rules 24 and 25 of theWest\nBengalPanchayatElectionRules,2006,I,theDistrictPanchayatElectionOfficerandDistrictMagistrateoftheDistrictof CoochBehar, astheprescribedauthorityappointedbythe\nState Government in the Department of Panchayats and Rural Development under notification No. ........................................................................................., dated\n.......................................... forthepurposeofrules24and25ofthesaidrules,harebypublishthedraftofthisordertodeterminefortheGramsspecifiedincolumn(1)oftheschedule\nbelow,thenumberofmemberstobeelectedtothePanchayatSamitispecifiedinthecorrespondingentriesincolumn(2),todividetheareaoftheGramsintoconstituenciesspecified\ninthecorrespondingentriesincolumn(3)&(4),constituencyorconstituenciesreservedforthescheduledCastesortheScheduleTribesortheBackwardClassespersonsspecifiedin\nthe corresponding entries in column (5), and constituency or constituencies reserved for woman specified in the corresponding entries in column (6) of the said schedule, for\ninformation of persons likely to be affected thereby.\nThe draft will be taken up for consideration after fifteen days from this day and any objection or suggestion with respect thereto, which may be received by the undersigned\nwithin the said period, shall be duly considered.\nThe Schedule\nBLOCK: MATHABHANGA-II DEVELOPMENT BLOCK PANCHAYAT SAMITY:-MATHABHANGA-II PANCHAYAT SAMITI\nNumber of Constituency reserved for\nName of the members to be Number and Name Scheduled Castes, Scheduled Constituency reserved for\nArea of the Constituency\nGram elected to the of the Assembly Electoral Roll Part No. Tribes and Backward women showing Serial\n(Panchayat Part No.)\nPanchayat Panchayat Constituency Classes persons showing Number.\nSamiti serial Number\n1 2 3 4 5 6\nFulbari/PS-1 Fulbari/I-IV,VI-VIII 2/1, 2/2, 2/3, 2/4, 2/5, 2/7, 2/8, 2/9 Fulbari/PS-1 UR(W)\nFulbari 3 Fulbari/PS-2 Fulbari/V, IX-XIII, XVII 2/6, 2/10, 2/11, 2/12, 2/13, 2/14, 2/18 Fulbari/PS-2 (SC)\nFulbari/PS-3 Fulbari/XIV-XVI, XVIII-XIX 2/15, 2/16, 2/17, 2/19, 2/20, 2/21, 2/22 Fulbari/PS-3 (SC) Fulbari/PS-3 (SCW)\nBarasoulmari/PS-4 Barasoulmari/I-V, IX 2/23, 2/24, 2/25, 2/26, 2/27, 2/28, 2/33 Barasoulmari/PS-4 (SC)\nBarasoulmari 3 Barasoulmari/PS-5 Barasoulmari/VI-VIII, X-XIII 2/29, 2/30, 2/31, 2/32, 2/34, 2/35, 2/36, 2/37 Barasoulmari/PS-5 UR (W)\nBarasoulmari/PS-6 Barasoulmari/XIV-XIX 2/38, 2/39, 2/40, 2/41, 2/42, 2/43, 2/44, 2/45, 2/46 Barasoulmari/PS-6 (SC) Barasoulmari/PS-6 (SCW)\nLatapota/PS-7 Latapota/I-VI 2/47, 2/48, 2/49, 2/50, 2/51, 2/52, 2/53 Latapota/PS-7 (SC)\nLatapota 3 Latapota/PS-8 Latapota/VII-X, XV-XVI 2/54, 2/55, 2/56, 2/57, 2/58, 2/59, 2/64, 2/65 Latapota/PS-8 (SC) Latapota/PS-8 (SCW)\nLatapota/PS-9 Latapota/XI-XIV, XVII-XVIII 2/60, 2/61, 2/62, 2/63, 2/66, 2/67 Latapota/PS-9 UR (W)\nPage:1 of total 2 pages",
+      "tables": [
+        {
+          "bbox": [
+            42.984,
+            244.01000000000005,
+            816.600015,
+            473.0200000000001
+          ],
+          "rows": [
+            [
+              "Name of the\nGram\nPanchayat",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number and Name\nof the\nConstituency",
+              "Area of the Constituency\n(Panchayat Part No.)",
+              "Assembly Electoral Roll Part No.",
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward\nClasses persons showing\nserial Number",
+              "Constituency reserved for\nwomen showing Serial\nNumber."
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "Fulbari",
+              "3",
+              "Fulbari/PS-1",
+              "Fulbari/I-IV,VI-VIII",
+              "2/1, 2/2, 2/3, 2/4, 2/5, 2/7, 2/8, 2/9",
+              "",
+              "Fulbari/PS-1 UR(W)"
+            ],
+            [
+              null,
+              null,
+              "Fulbari/PS-2",
+              "Fulbari/V, IX-XIII, XVII",
+              "2/6, 2/10, 2/11, 2/12, 2/13, 2/14, 2/18",
+              "Fulbari/PS-2 (SC)",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Fulbari/PS-3",
+              "Fulbari/XIV-XVI, XVIII-XIX",
+              "2/15, 2/16, 2/17, 2/19, 2/20, 2/21, 2/22",
+              "Fulbari/PS-3 (SC)",
+              "Fulbari/PS-3 (SCW)"
+            ],
+            [
+              "Barasoulmari",
+              "3",
+              "Barasoulmari/PS-4",
+              "Barasoulmari/I-V, IX",
+              "2/23, 2/24, 2/25, 2/26, 2/27, 2/28, 2/33",
+              "Barasoulmari/PS-4 (SC)",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Barasoulmari/PS-5",
+              "Barasoulmari/VI-VIII, X-XIII",
+              "2/29, 2/30, 2/31, 2/32, 2/34, 2/35, 2/36, 2/37",
+              "",
+              "Barasoulmari/PS-5 UR (W)"
+            ],
+            [
+              null,
+              null,
+              "Barasoulmari/PS-6",
+              "Barasoulmari/XIV-XIX",
+              "2/38, 2/39, 2/40, 2/41, 2/42, 2/43, 2/44, 2/45, 2/46",
+              "Barasoulmari/PS-6 (SC)",
+              "Barasoulmari/PS-6 (SCW)"
+            ],
+            [
+              "Latapota",
+              "3",
+              "Latapota/PS-7",
+              "Latapota/I-VI",
+              "2/47, 2/48, 2/49, 2/50, 2/51, 2/52, 2/53",
+              "Latapota/PS-7 (SC)",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Latapota/PS-8",
+              "Latapota/VII-X, XV-XVI",
+              "2/54, 2/55, 2/56, 2/57, 2/58, 2/59, 2/64, 2/65",
+              "Latapota/PS-8 (SC)",
+              "Latapota/PS-8 (SCW)"
+            ],
+            [
+              null,
+              null,
+              "Latapota/PS-9",
+              "Latapota/XI-XIV, XVII-XVIII",
+              "2/60, 2/61, 2/62, 2/63, 2/66, 2/67",
+              "",
+              "Latapota/PS-9 UR (W)"
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 2977
+    },
+    {
+      "page": 2,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "The Schedule\nBLOCK: MATHABHANGA-II DEVELOPMENT BLOCK PANCHAYAT SAMITY:-MATHABHANGA-II PANCHAYAT SAMITI\nNumber of Constituency reserved for\nName of the members to be Number and Name Scheduled Castes, Scheduled Constituency reserved for\nArea of the Constituency\nGram elected to the of the Assembly Electoral Roll Part No. Tribes and Backward women showing Serial\n(Panchayat Part No.)\nPanchayat Panchayat Constituency Classes persons showing Number.\nSamiti serial Number\n1 2 3 4 5 6\nGhoksadanga/PS-10 Ghoksadanga/I-IV 2/68, 2/69, 2/70, 2/71, 2/72 Ghoksadanga/PS-10 (SC)\nGhoksadanga 3 Ghoksadanga/PS-11 Ghoksadanga/V-X 2/73, 2/74, 2/75, 2/76, 2/77, 2/78\nGhoksadanga/PS-12 Ghoksadanga/XI-XIV 2/79, 2/80, 2/81, 2/82, 2/83, 2/84 Ghoksadanga/PS-12 UR(W)\nRuidanga/PS-13 Ruidanga/I-III, XVII-XIX 2/85, 2/86, 2/87, 2/88, 2/103, 2/104, 2/105 Ruidanga/PS-13 UR(W)\nRuidanga 3 Ruidanga/PS-14 Ruidanga/IV, V, VIII, XIII-XVI 2/89, 2/90, 2/93, 2/99, 2/100, 2/101, 2/102\nRuidanga/PS-15 Ruidanga/VI-VII, IX-XII 2/91, 2/92, 2/94, 2/95, 2/96, 2/97, 2/98 Ruidanga/PS-15 UR(W)\nA.K.Paradubi/PS-16 A.K.Paradubi/I-III, V-VI, VIII 2/106, 2/107, 2/108, 2/109, 2/111, 2/112, 2/114 A.K.Paradubi/PS-16 (SC) A.K.Paradubi/PS-16 (SCW)\nA.K.Paradubi 3 A.K.Paradubi/PS-17 A.K.Paradubi/VII, XIII-XVIII 2/113, 2/120, 2/121, 2/122, 2/123, 2/124, 2/125, 2/126 A.K.Paradubi/PS-17 (SC)\nA.K.Paradubi/PS-18 A.K.Paradubi/IV, IX-XII 2/110, 2/115, 2/116, 2/117, 2/118, 2/119 A.K.Paradubi/PS-18 (SC) A.K.Paradubi/PS-18 (SCW)\nUnishbisha/PS-19 Unishbisha/I-VI 2/127, 2/128, 2/129, 2/130, 2/131, 2/132, 2/133, 2/134\nUnishbisha 3 Unishbisha/PS-20 Unishbisha/VII-IX, XI-XIII 2/135, 2/136, 2/137, 2/140, 2/141, 2/142, 2/143 Unishbisha/PS-20 (SC)\nUnishbisha/PS-21 Unishbisha/X, XIV-XX 2/138, 2/139, 2/144, 2/145, 2/146, 2/147, 2/148, 2/149, 2/150, 2/151 Unishbisha/PS-21 UR (W)\nPremerdanga/PS-22 Premerdanga/I-IV 2/152, 2/153, 2/154, 2/155, 2/156, 2/157, 2/158\nPremerdanga 3 Premerdanga/PS-23 Premerdanga/V-VIII, XV-XVI 2/159, 2/160, 2/161, 2/162, 2/170, 2/171 Premerdanga/PS-23 (SC) Premerdanga/PS-23 (SCW)\nPremerdanga/PS-24 Premerdanga/IX-XIV 2/163, 2/164, 2/165, 2/166, 2/167, 2/168, 2/169\nNishiganj-II/PS-25 Nishiganj-II/I-IV 2/172, 2/173, 2/174, 2/175 Nishiganj-II/PS-25 (SC)\nNishiganj-II 3 Nishiganj-II/PS-26 Nishiganj-II/V-VIII 2/176, 2/177, 2/178, 2/179\nNishiganj-II/PS-27 Nishiganj-II/IX-XI 2/180, 2/181, 2/182, 2/183, 2/184 Nishiganj-II/PS-27 (SC) Nishiganj-II/PS-27 (SCW)\nNishiganj-I/PS-28 Nishiganj-I/I-IV, IX 2/185, 2/186, 2/187, 2/188, 2/189, 2/195 Nishiganj-I/PS-28 UR (W)\nNishiganj-I 3 Nishiganj-I/PS-29 Nishiganj-I/V-VI, VIII, XIV 2/190, 2/191, 2/193, 2/194, 2/200, 2/201 Nishiganj-I/PS-29 (SC)\nNishiganj-I/PS-30 Nishiganj-I/VII, X-XIII 2/192, 2/196, 2/197, 2/198, 2/199\nDate :\nPlace :\nPage:2 of total 2 pages",
+      "tables": [
+        {
+          "bbox": [
+            42.984,
+            63.360000000000014,
+            816.600015,
+            495.456
+          ],
+          "rows": [
+            [
+              "Name of the\nGram\nPanchayat",
+              "Number of\nmembers to be\nelected to the\nPanchayat\nSamiti",
+              "Number and Name\nof the\nConstituency",
+              "Area of the Constituency\n(Panchayat Part No.)",
+              "Assembly Electoral Roll Part No.",
+              "Constituency reserved for\nScheduled Castes, Scheduled\nTribes and Backward\nClasses persons showing\nserial Number",
+              "Constituency reserved for\nwomen showing Serial\nNumber."
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "Ghoksadanga",
+              "3",
+              "Ghoksadanga/PS-10",
+              "Ghoksadanga/I-IV",
+              "2/68, 2/69, 2/70, 2/71, 2/72",
+              "Ghoksadanga/PS-10 (SC)",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Ghoksadanga/PS-11",
+              "Ghoksadanga/V-X",
+              "2/73, 2/74, 2/75, 2/76, 2/77, 2/78",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Ghoksadanga/PS-12",
+              "Ghoksadanga/XI-XIV",
+              "2/79, 2/80, 2/81, 2/82, 2/83, 2/84",
+              "",
+              "Ghoksadanga/PS-12 UR(W)"
+            ],
+            [
+              "Ruidanga",
+              "3",
+              "Ruidanga/PS-13",
+              "Ruidanga/I-III, XVII-XIX",
+              "2/85, 2/86, 2/87, 2/88, 2/103, 2/104, 2/105",
+              "",
+              "Ruidanga/PS-13 UR(W)"
+            ],
+            [
+              null,
+              null,
+              "Ruidanga/PS-14",
+              "Ruidanga/IV, V, VIII, XIII-XVI",
+              "2/89, 2/90, 2/93, 2/99, 2/100, 2/101, 2/102",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Ruidanga/PS-15",
+              "Ruidanga/VI-VII, IX-XII",
+              "2/91, 2/92, 2/94, 2/95, 2/96, 2/97, 2/98",
+              "",
+              "Ruidanga/PS-15 UR(W)"
+            ],
+            [
+              "A.K.Paradubi",
+              "3",
+              "A.K.Paradubi/PS-16",
+              "A.K.Paradubi/I-III, V-VI, VIII",
+              "2/106, 2/107, 2/108, 2/109, 2/111, 2/112, 2/114",
+              "A.K.Paradubi/PS-16 (SC)",
+              "A.K.Paradubi/PS-16 (SCW)"
+            ],
+            [
+              null,
+              null,
+              "A.K.Paradubi/PS-17",
+              "A.K.Paradubi/VII, XIII-XVIII",
+              "2/113, 2/120, 2/121, 2/122, 2/123, 2/124, 2/125, 2/126",
+              "A.K.Paradubi/PS-17 (SC)",
+              ""
+            ],
+            [
+              null,
+              null,
+              "A.K.Paradubi/PS-18",
+              "A.K.Paradubi/IV, IX-XII",
+              "2/110, 2/115, 2/116, 2/117, 2/118, 2/119",
+              "A.K.Paradubi/PS-18 (SC)",
+              "A.K.Paradubi/PS-18 (SCW)"
+            ],
+            [
+              "Unishbisha",
+              "3",
+              "Unishbisha/PS-19",
+              "Unishbisha/I-VI",
+              "2/127, 2/128, 2/129, 2/130, 2/131, 2/132, 2/133, 2/134",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Unishbisha/PS-20",
+              "Unishbisha/VII-IX, XI-XIII",
+              "2/135, 2/136, 2/137, 2/140, 2/141, 2/142, 2/143",
+              "Unishbisha/PS-20 (SC)",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Unishbisha/PS-21",
+              "Unishbisha/X, XIV-XX",
+              "2/138, 2/139, 2/144, 2/145, 2/146, 2/147, 2/148, 2/149, 2/150, 2/151",
+              "",
+              "Unishbisha/PS-21 UR (W)"
+            ],
+            [
+              "Premerdanga",
+              "3",
+              "Premerdanga/PS-22",
+              "Premerdanga/I-IV",
+              "2/152, 2/153, 2/154, 2/155, 2/156, 2/157, 2/158",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Premerdanga/PS-23",
+              "Premerdanga/V-VIII, XV-XVI",
+              "2/159, 2/160, 2/161, 2/162, 2/170, 2/171",
+              "Premerdanga/PS-23 (SC)",
+              "Premerdanga/PS-23 (SCW)"
+            ],
+            [
+              null,
+              null,
+              "Premerdanga/PS-24",
+              "Premerdanga/IX-XIV",
+              "2/163, 2/164, 2/165, 2/166, 2/167, 2/168, 2/169",
+              "",
+              ""
+            ],
+            [
+              "Nishiganj-II",
+              "3",
+              "Nishiganj-II/PS-25",
+              "Nishiganj-II/I-IV",
+              "2/172, 2/173, 2/174, 2/175",
+              "Nishiganj-II/PS-25 (SC)",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Nishiganj-II/PS-26",
+              "Nishiganj-II/V-VIII",
+              "2/176, 2/177, 2/178, 2/179",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Nishiganj-II/PS-27",
+              "Nishiganj-II/IX-XI",
+              "2/180, 2/181, 2/182, 2/183, 2/184",
+              "Nishiganj-II/PS-27 (SC)",
+              "Nishiganj-II/PS-27 (SCW)"
+            ],
+            [
+              "Nishiganj-I",
+              "3",
+              "Nishiganj-I/PS-28",
+              "Nishiganj-I/I-IV, IX",
+              "2/185, 2/186, 2/187, 2/188, 2/189, 2/195",
+              "",
+              "Nishiganj-I/PS-28 UR (W)"
+            ],
+            [
+              null,
+              null,
+              "Nishiganj-I/PS-29",
+              "Nishiganj-I/V-VI, VIII, XIV",
+              "2/190, 2/191, 2/193, 2/194, 2/200, 2/201",
+              "Nishiganj-I/PS-29 (SC)",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Nishiganj-I/PS-30",
+              "Nishiganj-I/VII, X-XIII",
+              "2/192, 2/196, 2/197, 2/198, 2/199",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 2756
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

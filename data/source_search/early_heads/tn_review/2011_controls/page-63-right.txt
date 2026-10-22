@@ -1,0 +1,40 @@
+PURI DISTRICT
+ge Panchayat Presidents
+ed Casts and Women in the village Panchayat President
+l Nadu State
+Sl. Name of the Village Panchayat Category to which reservation is
+NO made
+1 2 3
+NALLAMPALLI PANCHAYAT UNION
+1 Maniyathanahalli SC (women)
+2 Pagalahalli SC (women)
+3 Konangihally SC (General)
+4 Errabaiyanahalli SC (General)
+5 Echanahalli General (Women)
+6 Balajangamanahalli General (Women)
+7 Elagiri General (Women)
+8 Narthampatty General (Women)
+9 Somenahalli General (Women)
+10 Palavadi General (Women)
+11 Palayampudur General (Women)
+12 Sivadi General (Women)
+13 Bandahalli General (Women)
+14 Pangunatham General
+15 Nallamapalli General
+16 Mittareddihalli General
+17 Thoppur General
+18 Mademangalam General
+19 Thadangam General
+20 Kammampatti General
+21 Indur General
+22 Adiyamankottai General
+23 Laligam General
+24 Dhinnahalli General
+25 Samichettipatt General
+26 Dhalavaihalli General
+27 A. Jettihalli General
+28 NagarKoodal General
+29 Dokkubodanahalli General
+30 Bedarahallui General
+31 Boodanahalli General
+32 Bommasamudram General

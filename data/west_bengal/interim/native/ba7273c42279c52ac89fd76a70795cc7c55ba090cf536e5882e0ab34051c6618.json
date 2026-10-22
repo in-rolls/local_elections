@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "sha256": "ba7273c42279c52ac89fd76a70795cc7c55ba090cf536e5882e0ab34051c6618",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "fo\nrebmun\nlatoT\nsrebmem\nsetsaC\ndeludehcS\nsrebmem\nsebirT\neludehcS\nsrebmem\nsrebmem\nnemoW\nThe Schedule\nForm - A1\nBlock : Karimpur-II\nNumber of Members to be elected to\nthe GramPanchayat\nName of Gram\n(1) (2a) (2b) (2c) (2d) (3) (4)\nNarayanpur-I 13 Nil Nil 5 Narayanpur-I/I, Part No. 70/1\nMouza : Fazilnagar ,J.L.No-19\n1 1 , (Women)\n(i) Fazilnagar Purbapara, Purba\nii)Fazilnagar Purbapara, Paschim\nNarayanpur-I/II, Part No. 70/2\nMouza : Fazilnagar ,J.L.No-19\n2\n(i) Fazilnagar Uttarpara\n(ii) Fazilnagar Biswaspara\nNarayanpur-I/III, Part No. 70/3\nMouza: Lalnagar ,J.L.No-20\n(i) Lalnagar Dakshinpara 3\n(ii) Lalnagar Purbapara\n(iii) Lalnagar Majherpara\nNarayanpur-I/IV, Part No. 70/4\nMouza : Fazilnagar ,J.L.No-19\n(i) Fazilnagar Madhyapara (Purba) 4, 5 4 , (Women)\n(ii) Fazilnagar Madhyapara (Paschim)\n(iii) Fazilnagar Karikarpara\nNarayanpur-I/V, Part No. 70/5\nMouza : Fazilnagar ,J.L.No-19\n(i) Fazilnagar Farajipara 6, 7 7 , (Women)\n(ii) Fazilnagar Dakshinpara, Purba\n(iii) Fazilnagar Dakshinpara, Paschim\nNarayanpur-I/VI, Part No. 70/6\nMouza: Narayanpur ,J.L.No.21\n(i) pearpur Dakshinpara\n8, 9\n(ii) Narayanpur Khanpara\n(iii) Pearpur Khanpara\n(iv) Narayanpur Sarderpara\nNarayanpur-I/VII, Part No. 70/7\nMouza: Pearpur J.L.No.18\n(i) Pearpur Uttarpara 10 10 , (Women)\nMouza: Narayanpur J.L.No-21\n(ii) Pearpur Madhyapara\nNarayanpur-I/VIII, Part No. 70/8\nMouza: Narayanpur ,J.L.No.21\n(i) Sarderpara 11\n(ii) Bazarpara\n(iii) Daspara\nfo aera\ndna\nemaN\n,rebmuN\nlaires\nhtiw\nseicneutitsnoc\nsrebmun\nhcae\not detacolla\nstaeS\nlaires\nhtiw\nycneutitsnoc\nsrebmun\nrof\ndevreser\nstaeS\ndna\nsetsaC\ndeludehcS\ntsniaga\nsebirT\neludehcS\nstaes\nfo\nrebmun\nlaires\nnemoW\nrof\ndevreser\nstaeS\nfo\nrebmun\nlaires\ntsniaga\nstaes\n(5) (6)\nFORM - A of Narayanpur-I G.P. Page 1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            115.31040000000007,
+            543.8352,
+            731.69904
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of Members to be elected to\nthe GramPanchayat",
+              null,
+              null,
+              null,
+              "fo\nlaires\naera\ndna htiw\nsrebmun\nemaN seicneutitsnoc\n,rebmuN",
+              "hcae laires\not htiw\ndetacolla srebmun\nycneutitsnoc\nstaeS",
+              "tsniaga\ndna staes\nrof\nsetsaC\ndevreser fo\nsebirT\nrebmun\ndeludehcS\neludehcS\nstaeS\nlaires",
+              "nemoW\nfo\nrebmun\nrof\nstaes\ndevreser laires\ntsniaga\nstaeS"
+            ],
+            [
+              null,
+              "fo\nrebmun\nsrebmem\nlatoT",
+              "setsaC\nsrebmem\ndeludehcS",
+              "sebirT\nsrebmem\neludehcS",
+              "srebmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Narayanpur-I",
+              "13",
+              "Nil",
+              "Nil",
+              "5",
+              "Narayanpur-I/I, Part No. 70/1\nMouza : Fazilnagar ,J.L.No-19\n(i) Fazilnagar Purbapara, Purba\nii)Fazilnagar Purbapara, Paschim",
+              "1",
+              "",
+              "1 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Narayanpur-I/II, Part No. 70/2\nMouza : Fazilnagar ,J.L.No-19\n(i) Fazilnagar Uttarpara\n(ii) Fazilnagar Biswaspara",
+              "2",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Narayanpur-I/III, Part No. 70/3\nMouza: Lalnagar ,J.L.No-20\n(i) Lalnagar Dakshinpara\n(ii) Lalnagar Purbapara\n(iii) Lalnagar Majherpara",
+              "3",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Narayanpur-I/IV, Part No. 70/4\nMouza : Fazilnagar ,J.L.No-19\n(i) Fazilnagar Madhyapara (Purba)\n(ii) Fazilnagar Madhyapara (Paschim)\n(iii) Fazilnagar Karikarpara",
+              "4, 5",
+              "",
+              "4 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Narayanpur-I/V, Part No. 70/5\nMouza : Fazilnagar ,J.L.No-19\n(i) Fazilnagar Farajipara\n(ii) Fazilnagar Dakshinpara, Purba\n(iii) Fazilnagar Dakshinpara, Paschim",
+              "6, 7",
+              "",
+              "7 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Narayanpur-I/VI, Part No. 70/6\nMouza: Narayanpur ,J.L.No.21\n(i) pearpur Dakshinpara\n(ii) Narayanpur Khanpara\n(iii) Pearpur Khanpara\n(iv) Narayanpur Sarderpara",
+              "8, 9",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Narayanpur-I/VII, Part No. 70/7\nMouza: Pearpur J.L.No.18\n(i) Pearpur Uttarpara\nMouza: Narayanpur J.L.No-21\n(ii) Pearpur Madhyapara",
+              "10",
+              "",
+              "10 , (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Narayanpur-I/VIII, Part No. 70/8\nMouza: Narayanpur ,J.L.No.21\n(i) Sarderpara\n(ii) Bazarpara\n(iii) Daspara",
+              "11",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1681
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "(1) (2a) (2b) (2c) (2d) (3) (4) (5) (6)\nNarayanpur-I Narayanpur-I/IX, Part No. 70/9\nMouza: Narayanpur ,J.L.No.21\n12, 13 13 , (Women)\n(i) Narayanpur Barikpara\n(ii) Narayanpur Mondalpara\nDate : 07.02.2008\nDistrict Panchayat Election Officer\n&\nDistrict Magistrate, Nadia\nFORM - A of Narayanpur-I G.P. Page 2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            54.47543460000003,
+            543.8352,
+            119.15040000000005
+          ],
+          "rows": [
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Narayanpur-I",
+              "",
+              "",
+              "",
+              "",
+              "Narayanpur-I/IX, Part No. 70/9\nMouza: Narayanpur ,J.L.No.21\n(i) Narayanpur Barikpara\n(ii) Narayanpur Mondalpara",
+              "12, 13",
+              "",
+              "13 , (Women)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 290
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

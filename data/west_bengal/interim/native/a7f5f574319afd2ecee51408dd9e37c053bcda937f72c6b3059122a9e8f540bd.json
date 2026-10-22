@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "sha256": "a7f5f574319afd2ecee51408dd9e37c053bcda937f72c6b3059122a9e8f540bd",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form-A1)\nBlock : Chakdaha\nNumber of members to be elected in the Gram Panchayat\nName of Gram Scheduled Caste Scheduled Tribe Women\nTotal number of members\nmembers Members members\n1 (2a) (2b) (2c) (2d)\nHingnara 17 14 1 6\nSeats reserved\nSeats reserved\nSeats allocated for Scheduled\nfor women\nto each Caste or\nNumber, name and area of constituencies with serial numbers against serial\nconstituency with Scheduled Tribe\nnumber of\nserial numbers against serial\nseats\nnumber of seats\n3 4 5 6\nHingnara/I\nMouza :Hari Akhi , J.L. No.174, (a) Hari Ankhi Methopara Uttar\nMouza :Hari Akhi , J.L. No.174,(b) Hari Ankhi Methopara Dakshin\nMouza :Hari Akhi , J.L. No.174,(c) Hari Ankhi Methopara Madhya 1 1 SC 1 SCW\nMouza :Hari Akhi , J.L. No.174,(d) Hari Ankhi Methopara Colony\nPart No. 83/66\nHingnara/II\nMouza : Hari Akhi, J.L. No174.,(a) Hari Ankhi Purbapara\n2 SC\nMouza : Hari Akhi, J.L. No174.,(b) Hari Ankhi Purba Palpara 2,3 -\n3 SC\nMouza : Hari Akhi, J.L. No174.,(c) Hari Ankhi Baganpara\nPart No. 83/67\nHingnara/III\nMouza :Hari Akhi , J.L. No.174,(a) Hari Ankhi Jashorpara\nMouza :Hari Akhi , J.L. No.174,(b) Hari Ankhi Palpara Paschim 4 W\n4,5 5 SC\nMouza :Hari Akhi , J.L. No.174,(c) Hari Ankhi Belermath 5 SCW\nPart No. 83/68\nHingnara/IV\nMouza :Raghab Pur , J.L. No.172,(a) Raghabpur Purba\nMouza :Raghab Pur , J.L. No.172,(b) Raghabpur Paschim 6 6 SC -\nMouza : Darappur, J.L. No. 173, (c) Bilpara\nPart No. 83/69\nHingnara/V\nMouza :Darappur , J.L. No.173,(a) Darappur Natun Para\nMouza :Darappur , J.L. No.173,(b) Darappur Kailpara 7 SC\n7,8 8 SCW\nMouza :Darappur , J.L. No.173,(c) Darappur Madhyapara 8 SC\nMouza :Darappur , J.L. No.173,(d) Darapur Uttarpara\nPart No. 83/70",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            167.62560000000002,
+            563.394,
+            229.42080000000004
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Total number of members",
+              "Scheduled Caste\nmembers",
+              "Scheduled Tribe\nMembers",
+              "Women\nmembers"
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Hingnara",
+              "17",
+              "14",
+              "1",
+              "6"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            18.5191254,
+            241.77960000000002,
+            563.394,
+            711.9007146
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial numbers",
+              "Seats allocated\nto each\nconstituency with\nserial numbers",
+              "Seats reserved\nfor Scheduled\nCaste or\nScheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Hingnara/I\nMouza :Hari Akhi , J.L. No.174, (a) Hari Ankhi Methopara Uttar\nMouza :Hari Akhi , J.L. No.174,(b) Hari Ankhi Methopara Dakshin\nMouza :Hari Akhi , J.L. No.174,(c) Hari Ankhi Methopara Madhya\nMouza :Hari Akhi , J.L. No.174,(d) Hari Ankhi Methopara Colony\nPart No. 83/66",
+              "1",
+              "1 SC",
+              "1 SCW"
+            ],
+            [
+              "Hingnara/II\nMouza : Hari Akhi, J.L. No174.,(a) Hari Ankhi Purbapara\nMouza : Hari Akhi, J.L. No174.,(b) Hari Ankhi Purba Palpara\nMouza : Hari Akhi, J.L. No174.,(c) Hari Ankhi Baganpara\nPart No. 83/67",
+              "2,3",
+              "2 SC\n3 SC",
+              "-"
+            ],
+            [
+              "Hingnara/III\nMouza :Hari Akhi , J.L. No.174,(a) Hari Ankhi Jashorpara\nMouza :Hari Akhi , J.L. No.174,(b) Hari Ankhi Palpara Paschim\nMouza :Hari Akhi , J.L. No.174,(c) Hari Ankhi Belermath\nPart No. 83/68",
+              "4,5",
+              "5 SC",
+              "4 W\n5 SCW"
+            ],
+            [
+              "Hingnara/IV\nMouza :Raghab Pur , J.L. No.172,(a) Raghabpur Purba\nMouza :Raghab Pur , J.L. No.172,(b) Raghabpur Paschim\nMouza : Darappur, J.L. No. 173, (c) Bilpara\nPart No. 83/69",
+              "6",
+              "6 SC",
+              "-"
+            ],
+            [
+              "Hingnara/V\nMouza :Darappur , J.L. No.173,(a) Darappur Natun Para\nMouza :Darappur , J.L. No.173,(b) Darappur Kailpara\nMouza :Darappur , J.L. No.173,(c) Darappur Madhyapara\nMouza :Darappur , J.L. No.173,(d) Darapur Uttarpara\nPart No. 83/70",
+              "7,8",
+              "7 SC\n8 SC",
+              "8 SCW"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2132
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Seats reserved\nSeats reserved\nSeats allocated for Scheduled\nfor women\nto each Caste or\nNumber, name and area of constituencies with serial numbers against serial\nconstituency with Scheduled Tribe\nnumber of\nserial numbers against serial\nseats\nnumber of seats\nHingnara/VI\nMouza : Darappur, J.L. No.173,(a) Darappur Paschim(Uttar Part)\n9 9 SC -\nMouza : Darappur, J.L. No.173,(b) Darappur Paschim(Dakshin Part)\nPart No. 83/71\nHingnara/VII\nMouza :Darappur , J.L. No173.,(a) Darappur Halt\n10,11 11 SC -\nMouza :Darappur , J.L. No173.,(b) Chakdob\nPart No. 83/72\nHingnara/VIII\nMouza :Ballav Pur , J.L. No.181,(a) Ballavpur Full 12 12 SC 12 SCW\nPart No. 83/73\nHingnara/IX\nMouza :Hingnara , J.L. No.180,(a) Hingnara Full 13 13 SC -\nPart No. 83/74\nHingnara/X\nMouza : Purulia, J.L. No.182,(a) Purulia\n14 ST\nMouza : Purulia, J.L. No.182,(b) Thotar Math 14,15\n15 SC 15(SCW)\nMouza : Bagrab Pur, J.L. No. 178, (c) Meder Math\nPart No. 83/75\nHingnara/XI\nMouza :Mahesh Cndrapur , J.L. No.179,(a) Mouza :Mahesh\nCndrapur , J.L. No.179,Maheshchandrapur Paschimpara\nMouza :Mahesh Cndrapur , J.L. No.179,(b) Maheshchandrapur\nPurbapara\nMouza :Mahesh Cndrapur , J.L. No.179,(c) Maheshchandrapur Bat\n16 16 SC -\nTala\nMouza :Mahesh Cndrapur , J.L. No.179,(d) Maheschandrapur\nKultala\nMouza :Mahesh Cndrapur , J.L. No.179,(e) Maheshchandrapur\nTentulpara\nPart No. 83/76\nHingnara/XII\nMouza :Laxmipur , J.L. No.184,(a) Laxmipur Dakshinpara\nMouza :Laxmipur , J.L. No.184,(b) Laxmipur Bilpara\n(Mouza :Laxmipur , J.L. No.184,c) Laxmipur Uttarpara 17 17 SC -\nMouza : Bagrabpur, J.L. No. 178, (d) Bagrab Pur\nPart No. 83/77\nDate:07.02.2008 District Panchayat Election Officer\n&\nDistrict Magistrate, Nadia",
+      "tables": [
+        {
+          "bbox": [
+            18.5191254,
+            72.47399999999999,
+            563.394,
+            657.4248
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies with serial numbers",
+              "Seats allocated\nto each\nconstituency with\nserial numbers",
+              "Seats reserved\nfor Scheduled\nCaste or\nScheduled Tribe\nagainst serial\nnumber of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "Hingnara/VI\nMouza : Darappur, J.L. No.173,(a) Darappur Paschim(Uttar Part)\nMouza : Darappur, J.L. No.173,(b) Darappur Paschim(Dakshin Part)\nPart No. 83/71",
+              "9",
+              "9 SC",
+              "-"
+            ],
+            [
+              "Hingnara/VII\nMouza :Darappur , J.L. No173.,(a) Darappur Halt\nMouza :Darappur , J.L. No173.,(b) Chakdob\nPart No. 83/72",
+              "10,11",
+              "11 SC",
+              "-"
+            ],
+            [
+              "Hingnara/VIII\nMouza :Ballav Pur , J.L. No.181,(a) Ballavpur Full\nPart No. 83/73",
+              "12",
+              "12 SC",
+              "12 SCW"
+            ],
+            [
+              "Hingnara/IX\nMouza :Hingnara , J.L. No.180,(a) Hingnara Full\nPart No. 83/74",
+              "13",
+              "13 SC",
+              "-"
+            ],
+            [
+              "Hingnara/X\nMouza : Purulia, J.L. No.182,(a) Purulia\nMouza : Purulia, J.L. No.182,(b) Thotar Math\nMouza : Bagrab Pur, J.L. No. 178, (c) Meder Math\nPart No. 83/75",
+              "14,15",
+              "14 ST\n15 SC",
+              "15(SCW)"
+            ],
+            [
+              "Hingnara/XI\nMouza :Mahesh Cndrapur , J.L. No.179,(a) Mouza :Mahesh\nCndrapur , J.L. No.179,Maheshchandrapur Paschimpara\nMouza :Mahesh Cndrapur , J.L. No.179,(b) Maheshchandrapur\nPurbapara\nMouza :Mahesh Cndrapur , J.L. No.179,(c) Maheshchandrapur Bat\nTala\nMouza :Mahesh Cndrapur , J.L. No.179,(d) Maheschandrapur\nKultala\nMouza :Mahesh Cndrapur , J.L. No.179,(e) Maheshchandrapur\nTentulpara\nPart No. 83/76",
+              "16",
+              "16 SC",
+              "-"
+            ],
+            [
+              "Hingnara/XII\nMouza :Laxmipur , J.L. No.184,(a) Laxmipur Dakshinpara\nMouza :Laxmipur , J.L. No.184,(b) Laxmipur Bilpara\n(Mouza :Laxmipur , J.L. No.184,c) Laxmipur Uttarpara\nMouza : Bagrabpur, J.L. No. 178, (d) Bagrab Pur\nPart No. 83/77",
+              "17",
+              "17 SC",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2430
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

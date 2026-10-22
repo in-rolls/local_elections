@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "sha256": "0ac887d43e52ae60f17d1a063a67e30479d7e69b289656296db87646602de254",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "The Schedule\n(Form A1)\nBlock: Krishnaganj\nName of Gram Number of members to be elected in the Gram Panchayat\nTotal number of Scheduled Castes Scheduled Tribes Women members\nmembers members members\n(1) (2a) (2b) (2c) (2d)\nGobindapur 11 5 1 4\nNumber, name and area of constituencies Seats Seats reserved for Seats reserved\nwith serial numbers allocated to Scheduled Castes or for women\neach Scheduled Tribes against serial\nconstituency against serial number of\nwith serial number of seats seats\nnumbers\n(3) (4) (5) (6)\nGobindapur/I 1 1 Women\nMouza: Pratappur, J.L. No 5\n1. Pratappur (Samagra)\nAssembly Constituency 74/113\nGobindapur/II 2 2 SC 2 SC(W)\nMouza: Digambarpur, J.L. No 2\n1. Digambarpu Dakshin Angsha\nAssembly Constituency 74/114\nGobindapur/III 3, 4 3 SC\nMouza: Kadaghata, J.L. No 7\n1. Kadaghata\nMouza: Kadipur, J.L. No 1\n2. Kadipur Baliurha Paschimpara\nAssembly Constituency 74/115\nGobindapur/IV 5 5 SC\nMouza: Chakpratappur, J.L. No 6\n1. Chakpratappur\nMouza: Kadipur, J.L. No 1\n2. Kadipur Purbapara\nMouza: Digambarpur, J.L. No 2\n3. Digambarpur Uttar Angsha\nAssembly Constituency 74/116\nC:\\Documents and Settings\\PANCHAYET SECTION\\Desktop\\Krishnaganj\\Gram Panchayat\\Form A1\\FormAGOBGP.doc\nPage 1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            75.0344454,
+            132.4692,
+            537.4152,
+            188.50440000000003
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram Panchayat",
+              null,
+              null,
+              null
+            ],
+            [
+              "",
+              "Total number of\nmembers",
+              "Scheduled Castes\nmembers",
+              "Scheduled Tribes\nmembers",
+              "Women members"
+            ],
+            [
+              "(1)",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)"
+            ],
+            [
+              "Gobindapur",
+              "11",
+              "5",
+              "1",
+              "4"
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            75.0344454,
+            201.9432,
+            537.4152,
+            658.0248
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies\nwith serial numbers",
+              "Seats\nallocated to\neach\nconstituency\nwith serial\nnumbers",
+              "Seats reserved for\nScheduled Castes or\nScheduled Tribes\nagainst serial\nnumber of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Gobindapur/I\nMouza: Pratappur, J.L. No 5\n1. Pratappur (Samagra)\nAssembly Constituency 74/113\nGobindapur/II\nMouza: Digambarpur, J.L. No 2\n1. Digambarpu Dakshin Angsha\nAssembly Constituency 74/114\nGobindapur/III\nMouza: Kadaghata, J.L. No 7\n1. Kadaghata\nMouza: Kadipur, J.L. No 1\n2. Kadipur Baliurha Paschimpara\nAssembly Constituency 74/115\nGobindapur/IV\nMouza: Chakpratappur, J.L. No 6\n1. Chakpratappur\nMouza: Kadipur, J.L. No 1\n2. Kadipur Purbapara\nMouza: Digambarpur, J.L. No 2\n3. Digambarpur Uttar Angsha\nAssembly Constituency 74/116",
+              "1\n2\n3, 4\n5",
+              "2 SC\n3 SC\n5 SC",
+              "1 Women\n2 SC(W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1289
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Number, name and area of constituencies Seats Seats reserved for Seats reserved\nwith serial numbers allocated to Scheduled Castes or for women\neach Scheduled Tribes against serial\nconstituency against serial number of\nwith serial number of seats seats\nnumbers\n(3) (4) (5) (6)\nGobindapur/V 6, 7 7 Women\nMouza: Mukundapur, J.L. No 4\n1. Mukundapur (Samagra)\nMouza: Bishnupur, J.L. No 3\n2. Bishnupur Uttar, Ghoshpara,\nMaheshyapara, Kayasthapara,\nPalpara and Musalmanpara\nAssembly Constituency 74/117\n8, 9 8 SC, 9 SC 8 SC(W)\nGobindapur/VI\nMouza: Bishnupur, J.L. No 3\n1. Bishnupur, Sardarpara (Paschim),\nMajhipara\n2. Bishnupur Sardarpara (Purba),\nBazarpara\n3. Namasudrapara, Bazarpara and\nColony\nMouza: Khalboalia, J.L. No 11\n4. Khalboalia (Samagra)\nAssembly Constituency 74/118\nGobindapur/VII 10 10 ST\nMouza: Shyamnagar, J.L. No 14\n1. Nathpur Nutanpara\nMouza: Nathpur, J.L. No 13\n2. Nathpur\nMouza: Maheshchandrapur, J.L. No 12\n3. Maheshchandrapur\nAssembly Constituency 74/119\nGobindapur/VIII 11\nMouza: Gobindapur, J.L. No 48\n1. Gobindapur Dakshinpara\n2. Gobindapur Uttarpara\nAssembly Constituency 74/120\nDate: 07-02-2008 District Panchayat Election Officer\n(Seal) &\nDistrict Magistrate, Nadia\nC:\\Documents and Settings\\PANCHAYET SECTION\\Desktop\\Krishnaganj\\Gram Panchayat\\Form A1\\FormAGOBGP.doc\nPage 2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            75.0344454,
+            54.47520000000003,
+            537.4152,
+            629.7072000000001
+          ],
+          "rows": [
+            [
+              "Number, name and area of constituencies\nwith serial numbers",
+              "Seats\nallocated to\neach\nconstituency\nwith serial\nnumbers",
+              "Seats reserved for\nScheduled Castes or\nScheduled Tribes\nagainst serial\nnumber of seats",
+              "Seats reserved\nfor women\nagainst serial\nnumber of\nseats"
+            ],
+            [
+              "(3)",
+              "(4)",
+              "(5)",
+              "(6)"
+            ],
+            [
+              "Gobindapur/V\nMouza: Mukundapur, J.L. No 4\n1. Mukundapur (Samagra)\nMouza: Bishnupur, J.L. No 3\n2. Bishnupur Uttar, Ghoshpara,\nMaheshyapara, Kayasthapara,\nPalpara and Musalmanpara\nAssembly Constituency 74/117\nGobindapur/VI\nMouza: Bishnupur, J.L. No 3\n1. Bishnupur, Sardarpara (Paschim),\nMajhipara\n2. Bishnupur Sardarpara (Purba),\nBazarpara\n3. Namasudrapara, Bazarpara and\nColony\nMouza: Khalboalia, J.L. No 11\n4. Khalboalia (Samagra)\nAssembly Constituency 74/118\nGobindapur/VII\nMouza: Shyamnagar, J.L. No 14\n1. Nathpur Nutanpara\nMouza: Nathpur, J.L. No 13\n2. Nathpur\nMouza: Maheshchandrapur, J.L. No 12\n3. Maheshchandrapur\nAssembly Constituency 74/119\nGobindapur/VIII\nMouza: Gobindapur, J.L. No 48\n1. Gobindapur Dakshinpara\n2. Gobindapur Uttarpara\nAssembly Constituency 74/120",
+              "6, 7\n8, 9\n10\n11",
+              "8 SC, 9 SC\n10 ST",
+              "7 Women\n8 SC(W)"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1445
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

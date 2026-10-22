@@ -1,0 +1,13 @@
+{
+  "documents": 10,
+  "pages": 13,
+  "polling_infrastructure_rows": 7,
+  "reference_lines": 386,
+  "candidate_report_rows": 22,
+  "single_valid_nomination_rows": 56,
+  "page_status": {
+    "ocr_reference_extracted": 12,
+    "native_table_parsed": 1
+  },
+  "quality_claim": "Reference lines retain reader evidence, not validated electoral observations. Polling-station counts are not Panchayat Samiti reservations."
+}

@@ -1,0 +1,135 @@
+{
+  "source_sha256": "5cc758b6cc8ad025f284276c61ce3f24302890783ea0a0233a6f2d4d76051bf3",
+  "manual_readings_sha256": "21c6adf72c62b3c37f685338321e24f6eb3f6056cfba1d0b3503ef1327e4336b",
+  "gp_operations": 456,
+  "named_gp_operations": 451,
+  "operation_counts": {
+    "replace_section": 434,
+    "replace_category": 5,
+    "insert": 17
+  },
+  "replacement_sections": 16,
+  "context_operations": 20,
+  "clause_audit": [
+    {
+      "clause": "1",
+      "source_pages": [
+        1
+      ],
+      "status": "parsed_context",
+      "scope": "district_heading_renames"
+    },
+    {
+      "clause": "2",
+      "source_pages": [
+        1,
+        2
+      ],
+      "status": "parsed_all_gp_operations",
+      "scope": "gp_president"
+    },
+    {
+      "clause": "3",
+      "source_pages": [
+        2,
+        3
+      ],
+      "status": "parsed_all_gp_operations",
+      "scope": "gp_president"
+    },
+    {
+      "clause": "4",
+      "source_pages": [
+        3,
+        4
+      ],
+      "status": "parsed_all_gp_operations",
+      "scope": "gp_president"
+    },
+    {
+      "clause": "5",
+      "source_pages": [
+        4,
+        5
+      ],
+      "status": "parsed_all_gp_operations",
+      "scope": "gp_president"
+    },
+    {
+      "clause": "6",
+      "source_pages": [
+        6
+      ],
+      "status": "parsed_all_gp_operations",
+      "scope": "gp_president"
+    },
+    {
+      "clause": "7",
+      "source_pages": [
+        6,
+        7
+      ],
+      "status": "parsed_all_gp_operations",
+      "scope": "gp_president"
+    },
+    {
+      "clause": "8",
+      "source_pages": [
+        7
+      ],
+      "status": "parsed_all_gp_operations",
+      "scope": "gp_president"
+    },
+    {
+      "clause": "9",
+      "source_pages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "status": "parsed_all_gp_operations",
+      "scope": "gp_president"
+    },
+    {
+      "clause": "10",
+      "source_pages": [
+        16
+      ],
+      "status": "parsed_all_gp_operations",
+      "scope": "gp_president"
+    },
+    {
+      "clause": "11",
+      "source_pages": [
+        16,
+        17
+      ],
+      "status": "reviewed_excluded_other_tier",
+      "scope": "union_chair"
+    },
+    {
+      "clause": "12",
+      "source_pages": [
+        17,
+        18
+      ],
+      "status": "reviewed_excluded_other_tier",
+      "scope": "district_chair"
+    }
+  ],
+  "unparsed_gp_clauses": [],
+  "unresolved_target_gp_names": 5,
+  "unresolved_source_name_readings": 0,
+  "independent_named_entries_reviewed": 451,
+  "independent_review_sha256": "fa660e697f80dd88764937ead72545cb403e3b19ce1bc402942c77e38f56b118",
+  "applied_to_1996_roster": false,
+  "complete_statewide_2001_roster": false,
+  "winner_name_or_sex_observed": false
+}

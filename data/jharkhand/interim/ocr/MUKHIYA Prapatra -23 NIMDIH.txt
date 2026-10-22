@@ -1,0 +1,132 @@
+<div data-bbox="678 54 761 75" data-label="Page-Header">i pk r fuolzu</div>
+<div data-bbox="385 71 535 142" data-label="Section-Header">
+<p>i ż= &amp; 23<br/>
+  *k; e 85 nf k s/2<br/>
+  fuolzu i fj. ke dki zlkku</p>
+</div>
+<div data-bbox="28 145 921 193" data-label="Text">
+<p>&gt;kj[ kM i pk r fuolzu fu;ekoky h] 2001 d sfu;e 85 d svubj.kea e8, rn~}kjk;g v f/k fp r d jrk @d jrhgWd ulpsnhxbZvubphd sLeEk 1/2/eaukfer Q fDr] Lr Ek 1/2/eav fd r in ij] Lr Ek 1/2/eaof.kz xke i pk r @i pk r l fefr @ft y ki fj "kn~d sfy;sl E; d~: i l sfuolzu gksx;k gS&amp;</p>
+</div>
+<div data-bbox="436 195 489 220" data-label="Section-Header">vubph</div>
+<div data-bbox="28 245 889 731" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">QfDr dkule</th>
+<th colspan="3">i n dkfooj.k</th>
+<th rowspan="2">xke i pk r @i pk r l fefr @ft y ki fj "kn~ft l l si n l afkr gS<br/>fuolzu qs l fj; k@ule l fgr 1/2</th>
+</tr>
+<tr>
+<th>i n</th>
+<th>vkjfkr @vubjfkr</th>
+<th>efgyk@vU</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>l jLorh fl g eqMk</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 01&amp; &gt; heMh</td>
+</tr>
+<tr>
+<td>i q k eka h</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 02&amp; y kd Mh</td>
+</tr>
+<tr>
+<td>l g kpuk noh</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 03&amp; gosa</td>
+</tr>
+<tr>
+<td>i q k fl g</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 04&amp; x qMk</td>
+</tr>
+<tr>
+<td>ne; Urh fl g</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 05&amp; fp a Mki kj d Mhg</td>
+</tr>
+<tr>
+<td>t ks uk fl g</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 06&amp; v knj Mhg</td>
+</tr>
+<tr>
+<td>l qhy fl g</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 07&amp; x kgMhg</td>
+</tr>
+<tr>
+<td>; ' kerh fa g</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 08&amp; ckMsk</td>
+</tr>
+<tr>
+<td>eakfd uh fl g</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 09&amp; l ekui g</td>
+</tr>
+<tr>
+<td>fcuki kuh eka h</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 10&amp; fr Yy k</td>
+</tr>
+<tr>
+<td>t ; no fl g l jnkj</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 11&amp; y qa Mhg</td>
+</tr>
+<tr>
+<td>ckfy d k noh</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 12&amp; Va kMhg</td>
+</tr>
+<tr>
+<td>gjhi n fl g</td>
+<td>eff k k</td>
+<td>v ub fp r t ut kfr</td>
+<td>v U;</td>
+<td>XXIII l jk d g k&amp;[ kj l kokW@ 03@ 13&amp; p fy ; kek</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="28 742 135 769" data-label="Text">LFku &amp; l jk d g k</div>
+<div data-bbox="28 782 156 809" data-label="Text">r kj f k &amp; 18&amp; 12&amp; 2015</div>
+<div data-bbox="612 821 833 875" data-label="Text">
+<p>ft y k fuolzu i nk/kd kj hk pk r 1/2<br/>
+  &amp; l g&amp; mi k Dr] l jk d g k&amp;[ kj l kokW</p>
+</div>

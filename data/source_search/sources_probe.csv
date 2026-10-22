@@ -1,0 +1,19 @@
+state,tier,url,reachable,doc_url,pages,producer,chars_per_page,format,topic_match,note
+Punjab,district,https://rupnagar.nic.in/gram-panchayat-election-2024-reservation-list/,yes,https://cdn.s3waas.gov.in/s3e2c0be24560d78c5e599c2a9c9d0bbd2/uploads/2024/09/20240927100.pdf,1,Microsoft: Print To PDF,1,scan,unknown-no-text,2024 GP election sarpanch reservation by block
+Punjab,district,https://muktsar.nic.in/gram-panchayat-election-2024-reservation-list-block-wise/,yes,https://cdn.s3waas.gov.in/s3d07e70efcfab08731a97e7b91be644de/uploads/2024/09/2024092692.pdf,56,GPL Ghostscript 10.00.0,12,scan,unknown-no-text,2024 sarpanch and panch reservation by block
+Punjab,district,https://ferozepur.nic.in/category-wise-gram-panchayat-for-election-2024/,yes,,,,,no-document-linked,,category-wise GP list 2024
+Maharashtra,district,https://washim.gov.in/en/notice/gram-panchayat-general-election-2020-2025-reservation-for-the-post-of-gram-panchayat-sarpanch-and-post-of-women-sarpanch/,yes,https://cdn.s3waas.gov.in/s3093f65e080a295f8076b1c5722a46aa2/uploads/2021/02/2021020566.pdf,12,intsig.com pdf producer,1,scan,unknown-no-text,2020-25 sarpanch and women sarpanch reservation
+Maharashtra,state,https://mahasec.maharashtra.gov.in/,yes,,,,,no-document-linked,,SEC portal; has an on-going Gram Panchayats document list
+Chhattisgarh,district,https://raigarh.gov.in/en/notice/general-notice-for-reservation-in-panchayat-elections/,yes,https://cdn.s3waas.gov.in/s351d92be1c60d1db1d2e5e7a07da55b26/uploads/2024/12/2024121398.pdf,2,Haru Free PDF Library 2.4.0dev,1,scan,unknown-no-text,2024-25 panchayat reservation notice
+Chhattisgarh,district,https://bilaspur.gov.in/en/notice/,yes,https://cdn.s3waas.gov.in/s3d82c8d1619ad8176d665453cfb2e55f0/uploads/2019/12/2019122378.pdf,4,Adobe PSL 1.3e for Canon,2390,digital-text,no,district notice board; 2024-25 three-tier panchayat election
+Madhya Pradesh,district,https://indore.nic.in/,yes,https://cdn.s3waas.gov.in/s31385974ed5904a438616ff7bdb3f7439/uploads/2020/03/2020032235.pdf,1,Acrobat Distiller 7.0.5 (Windows),1,scan,unknown-no-text,district portal reachable; locate panchayat reservation notices
+Madhya Pradesh,state,https://mplocalelection.gov.in/,no,,,,,needs-india-egress,,SEC local election portal; unverified from here [URLError]
+Andhra Pradesh,district,https://guntur.ap.gov.in/,yes,https://cdn.s3waas.gov.in/s30777d5c17d4066b82ab86dff8a46af6f/uploads/2022/02/2022022654.pdf,11,Microsoft: Print To PDF,2236,digital-text,no,district portal reachable; 2020 GP reservation gazettes
+Andhra Pradesh,state,https://apsec.gov.in/,no,,,,,needs-india-egress,,SEC portal; unverified from here [URLError]
+Odisha,state,https://sec.odisha.gov.in/,no,,,,,needs-india-egress,,SEC portal; unverified from here [URLError]
+Gujarat,state,https://sec.gujarat.gov.in/,no,,,,,needs-india-egress,,SEC portal; unverified from here [URLError]
+Gujarat,state,https://panchayat.gujarat.gov.in/en/grampanchayat-distlist,no,,,,,needs-india-egress,,GP directory by district; unverified from here [URLError]
+Tamil Nadu,state,https://tnsec.tn.gov.in/,no,,,,,needs-india-egress,,SEC portal; rural local body reservation; unverified from here [URLError]
+Himachal Pradesh,state,https://sec.hp.gov.in/,no,,,,,needs-india-egress,,SEC portal; unverified from here [URLError]
+Assam,state,https://sec.assam.gov.in/,no,,,,,needs-india-egress,,SEC portal; unverified from here [URLError]
+All India,national,https://egramswaraj.gov.in/ElectedRepresentativeReport.do,no,,,,,needs-india-egress,,national elected representative report; unverified from here [ConnectionResetError]

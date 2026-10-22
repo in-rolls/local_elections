@@ -1,0 +1,289 @@
+{
+  "version": 1,
+  "sha256": "56b7e42df7cec0867cd2f71c0b850cf33cc3996bb23a9b4d30eb9314cf65bd67",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "srebmem\nfo rebmun\nlatoT\nsrebmem\nsetsaC\ndeludehS\nsrebirT\ndeludehcS\nsrebmem\nsrbmem\nnemoW\n[ Form-A1 ]\nTHE SCHEDULE\nBlock : NAKASHIPARA\n1 (2a) (2b) (2c) (2d) 3 4 5 6\nBikrampur / I\nMouza- Soli, J.L. No. 25\n1 - 1 Women\na) Sali\n16 3 Nil 6\nMouza- Bikrampur, J.L.No. 06\n2 - -\nb) Bikrampur Stationpara (Purbansha)\nAssembly Part No 71/ 71\nBikrampur / II\nMouza- Sonadanga, J.L.No. 23\n3 - -\na) Sonadanga\nAssembly Part No 71/ 72\nBikrampur / III\nMouza- Bamandanga, J.L. No. 24\n4 - 4 Women\na) Bamandanga\nAssembly Part No 71/ 73\nBikrampur / IV\n5 - -\nMouza- Bikrampur, J.L.No. 06\na) Bikrampur Purbapara b) Bikrampur Stationpara c)\nBikrampur Shekh para\n6 - -\nAssembly Part No 71/ 74\nBikrampur / V\nMouza- Dhubi Nagadi, J.L. No. 05\n7 - 7 Women\na) Nagadi Uttarpara b) Nagadi Dakshinpara\nMouza- Bikrampur J.L.No. 06\n8 - -\nc) Sushilnagar\nAssembly Part No 71/ 75\nBikrampur / VI\nMouza- Bikrampur, J.L. No. 06\na) Kalinagar\n9 - -\nMouza- Dubi Nagadi, J.L. No. 05\nb) Dhubi\nAssembly Part No 71/ 76\nmarG\nfo\nemaN\nNumber of members to be\nelected in the Gram Panchayat\nNumber, Name and Area of Constituencies with\nserial numbrs\nrupmarkiB\nhcae\not\ndetacolla\nstaeS\nsrebmun\nlaires\nhtiw\nycneutitsnoc\ndeludehcS\nrof\ndevreser\nstaeS\ntsniaga\nsebirT\ndeludehcS\nro\nsetsaC\nstaes\nfo rebmun\nlaires\ntsniaga\nnemow\nrof\ndevreser\nstaeS\nstaes\nfo rebmun\nlaires\nC:\\Documents and Settings\\PANCHAYET SECTION\\Desktop\\Nakashipara\\Nakashipara\\Gram Panchayats\\Schedule-A1",
+      "tables": [
+        {
+          "bbox": [
+            55.53612,
+            83.45279999999997,
+            587.0916,
+            695.7619199999999
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of members to be\nelected in the Gram Panchayat",
+              null,
+              null,
+              null,
+              "Number, Name and Area of Constituencies with\nserial numbrs",
+              "srebmun\nhcae laires\not htiw\ndetacolla\nycneutitsnoc\nstaeS",
+              "tsniaga\ndeludehcS\nsebirT\nstaes\ndeludehcS\nrof\nfo\ndevreser\nrebmun\nro\nsetsaC\nstaeS laires",
+              "tsniaga\nnemow\nstaes\nrof\nfo\ndevreser\nrebmun\nstaeS laires"
+            ],
+            [
+              null,
+              "srebmem\nfo\nrebmun\nlatoT",
+              "srebmem\nsetsaC\ndeludehS",
+              "srebirT\ndeludehcS\nsrebmem",
+              "srbmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "rupmarkiB",
+              "16",
+              "3",
+              "Nil",
+              "6",
+              "Bikrampur / I\nMouza- Soli, J.L. No. 25\na) Sali\nMouza- Bikrampur, J.L.No. 06\nb) Bikrampur Stationpara (Purbansha)\nAssembly Part No 71/ 71",
+              "1\n2",
+              "-\n-",
+              "1 Women\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bikrampur / II\nMouza- Sonadanga, J.L.No. 23\na) Sonadanga\nAssembly Part No 71/ 72",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bikrampur / III\nMouza- Bamandanga, J.L. No. 24\na) Bamandanga\nAssembly Part No 71/ 73",
+              "4",
+              "-",
+              "4 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bikrampur / IV\nMouza- Bikrampur, J.L.No. 06\na) Bikrampur Purbapara b) Bikrampur Stationpara c)\nBikrampur Shekh para\nAssembly Part No 71/ 74",
+              "5\n6",
+              "-\n-",
+              "-\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bikrampur / V\nMouza- Dhubi Nagadi, J.L. No. 05\na) Nagadi Uttarpara b) Nagadi Dakshinpara\nMouza- Bikrampur J.L.No. 06\nc) Sushilnagar\nAssembly Part No 71/ 75",
+              "7\n8",
+              "-\n-",
+              "7 Women\n-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bikrampur / VI\nMouza- Bikrampur, J.L. No. 06\na) Kalinagar\nMouza- Dubi Nagadi, J.L. No. 05\nb) Dhubi\nAssembly Part No 71/ 76",
+              "9",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1437
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "srebmem\nfo rebmun\nlatoT\nsrebmem\nsetsaC\ndeludehS\nsrebirT\ndeludehcS\nsrebmem\nsrbmem\nnemoW\n[ Form-A1 ]\nTHE SCHEDULE\nBlock : NAKASHIPARA\n1 (2a) (2b) (2c) (2d) 3 4 5 6\nmarG\nfo\nemaN\nNumber of members to be\nelected in the Gram Panchayat\nNumber, Name and Area of Constituencies with\nserial numbrs\nhcae\not\ndetacolla\nstaeS\nsrebmun\nlaires\nhtiw\nycneutitsnoc\ndeludehcS\nrof\ndevreser\nstaeS\ntsniaga\nsebirT\ndeludehcS\nro\nsetsaC\nstaes\nfo rebmun\nlaires\ntsniaga\nnemow\nrof\ndevreser\nstaeS\nstaes\nfo rebmun\nlaires\nBikrampur / VII\nMouza- Goalchandpur J.L. No. 08\na) Goalchandpur Dakshinpara b) Goalchandpur\nUttarpara\n10 - 10 Women\nMouza- Bikrampur, J.L.No. 06\nc) Bargachhi\nAssembly Part No 71/ 77\nBikrampur / VIII\nMouza-Chowmuha,J.L. No. 09\n11 - -\na) Chowmuha\nAssembly Part No 71/ 78\nBikrampur / IX\nMouza- Bhabanipur, J.L. No. 07\n12 - -\na) Bhabanipur b) Arijnagar\nAssembly Part No 71/ 79\nBikrampur / X\nMouza- Sukpukuria, J.L. No. 22\na) Sukpukuria Puratanpara b) Sukpukuria 13 13 SC 13 SC(W)\nJugnitalapara\nMouza- Chak Sukpakuria, J.L.No. 26\nc) Chak Sukpukuria Purbapara\nMouza- Sukpukuria, J.L. No. 22 14 - 14 Women\nd) Sukpukuria (Helepara) e) Sukpukuria (Battalapara)\nAssembly Part No 71/ 80\nBikrampur / XI\nMouza- Arpara, J.L. No. 20\na) Arpara Satyapirpurpara b) Arpara Shekhpara c) 15 15 SC -\nArpara Dakshinpara\nAssembly Part No 71/ 81\nBikrampur / XII\nMouza- Arpara, J.L. No. 20\n16 16 SC -\na) Arpara Maniktalapara b) Arpara Roypara\nAssembly Part No 71/ 82\nDated : 07.02.2008 District Panchayat Election Officer, Nadia\n&\nDistrict Magistrate, Nadia\nrupmarkiB\nC:\\Documents and Settings\\PANCHAYET SECTION\\Desktop\\Nakashipara\\Nakashipara\\Gram Panchayats\\Schedule-A1",
+      "tables": [
+        {
+          "bbox": [
+            55.53612,
+            83.45279999999997,
+            587.0916,
+            684.9627600000001
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of members to be\nelected in the Gram Panchayat",
+              null,
+              null,
+              null,
+              "Number, Name and Area of Constituencies with\nserial numbrs",
+              "srebmun\nhcae laires\not htiw\ndetacolla\nycneutitsnoc\nstaeS",
+              "tsniaga\ndeludehcS\nsebirT\nstaes\ndeludehcS\nrof\nfo\ndevreser\nrebmun\nro\nsetsaC\nstaeS laires",
+              "tsniaga\nnemow\nstaes\nrof\nfo\ndevreser\nrebmun\nstaeS laires"
+            ],
+            [
+              null,
+              "srebmem\nfo\nrebmun\nlatoT",
+              "srebmem\nsetsaC\ndeludehS",
+              "srebirT\ndeludehcS\nsrebmem",
+              "srbmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2c)",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "rupmarkiB",
+              "",
+              "",
+              "",
+              "",
+              "Bikrampur / VII\nMouza- Goalchandpur J.L. No. 08\na) Goalchandpur Dakshinpara b) Goalchandpur\nUttarpara\nMouza- Bikrampur, J.L.No. 06\nc) Bargachhi\nAssembly Part No 71/ 77",
+              "10",
+              "-",
+              "10 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bikrampur / VIII\nMouza-Chowmuha,J.L. No. 09\na) Chowmuha\nAssembly Part No 71/ 78",
+              "11",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bikrampur / IX\nMouza- Bhabanipur, J.L. No. 07\na) Bhabanipur b) Arijnagar\nAssembly Part No 71/ 79",
+              "12",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bikrampur / X\nMouza- Sukpukuria, J.L. No. 22\na) Sukpukuria Puratanpara b) Sukpukuria\nJugnitalapara\nMouza- Chak Sukpakuria, J.L.No. 26\nc) Chak Sukpukuria Purbapara\nMouza- Sukpukuria, J.L. No. 22\nd) Sukpukuria (Helepara) e) Sukpukuria (Battalapara)\nAssembly Part No 71/ 80",
+              "13\n14",
+              "13 SC\n-",
+              "13 SC(W)\n14 Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bikrampur / XI\nMouza- Arpara, J.L. No. 20\na) Arpara Satyapirpurpara b) Arpara Shekhpara c)\nArpara Dakshinpara\nAssembly Part No 71/ 81",
+              "15",
+              "15 SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Bikrampur / XII\nMouza- Arpara, J.L. No. 20\na) Arpara Maniktalapara b) Arpara Roypara\nAssembly Part No 71/ 82",
+              "16",
+              "16 SC",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1606
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "srebmem\nfo rebmun\nlatoT\nsrebmem\nsetsaC\ndeludehS\nsrebirT\ndeludehcS\nsrebmem\nsrbmem\nnemoW\n[ Form-A1 ]\nTHE SCHEDULE\nBlock : NAKASHIPARA\n1 (2a) (2b) (2c) (2d) 3 4 5 6\nmarG\nfo\nemaN\nNumber of members to be\nelected in the Gram Panchayat\nNumber, Name and Area of Constituencies with\nserial numbrs\nhcae\not\ndetacolla\nstaeS\nsrebmun\nlaires\nhtiw\nycneutitsnoc\ndeludehcS\nrof\ndevreser\nstaeS\ntsniaga\nsebirT\ndeludehcS\nro\nsetsaC\nstaes\nfo rebmun\nlaires\ntsniaga\nnemow\nrof\ndevreser\nstaeS\nstaes\nfo rebmun\nlaires\nBlock Development Officer\nNakashipara Dev. Block\nC:\\Documents and Settings\\PANCHAYET SECTION\\Desktop\\Nakashipara\\Nakashipara\\Gram Panchayats\\Schedule-A1",
+      "tables": [
+        {
+          "bbox": [
+            55.53612,
+            83.45279999999997,
+            587.0916,
+            246.27960000000002
+          ],
+          "rows": [
+            [
+              "marG\nfo\nemaN",
+              "Number of members to be\nelected in the Gram Panchayat",
+              null,
+              null,
+              null,
+              "Number, Name and Area of Constituencies with\nserial numbrs",
+              "srebmun\nhcae laires\not htiw\ndetacolla\nycneutitsnoc\nstaeS",
+              "tsniaga\ndeludehcS\nsebirT\nstaes\ndeludehcS\nrof\nfo\ndevreser\nrebmun\nro\nsetsaC\nstaeS laires",
+              "tsniaga\nnemow\nstaes\nrof\nfo\ndevreser\nrebmun\nstaeS laires"
+            ],
+            [
+              null,
+              "srebmem\nfo\nrebmun\nlatoT",
+              "srebmem\nsetsaC\ndeludehS",
+              "srebirT\ndeludehcS\nsrebmem",
+              "srbmem\nnemoW",
+              null,
+              null,
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 619
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

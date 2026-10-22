@@ -1,0 +1,1186 @@
+{
+  "version": 1,
+  "sha256": "58f0bfbe020acc035d55e3df2ae279a7db6e3086ec3dfdd5aefb6c60a641fdea",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "FORM-B1\nBlock : Tehatta-I Panchayat Samiti : Tehatta -I\nConstituency\nNumber of\nreserved for\nmembers to Constituency\nName Scheduled Caste\nbe elected Number and name of the reserved for\nof and Scheduled\nto the constituency Women showing\nGram Tribes Persons\nPanchayat serial Number.\nshowing serial\nSamity\nnumber\nChhitka/I Part No. 70/38\nChhitka/II Part No. 70/39\nChhitka/III Part No. 70/40\nChhitka/IV Part No. 70/41\nChhitka/VI Part No. 70/43\nChhitka/V Part No. 70/42\nChhitka/VII Part No. 70/44\nChhitka/VIII Part No. 70/45\nChhitka/IX Part No. 70/46\nChhitka/X Part No. 70/47\nChhitka/XI Part No. 70/48\nChhitka/XII Part No. 70/49\nChhitka/XIII Part No. 70/50\nChhitka/XIV Part No. 70/51\nChhitka/XV Part No. 70/52\nChhitka/XVI Part No. 70/53\nKanainagar /I Part No. 70/54\nKanainagar /II Part No. 70/55\n4, (Women)\nKanainagar /III Part No. 70/56\nKanainagar /IV Part No. 70/57\nKanainagar /V Part No. 70/58\nKanainagar /VI Part No. 70/59\n- -\nKanainagar /VII Part No. 70/60\nKanainagar /IX Part No. 70/62\nKanainagar /VIII Part No. 70/61\nKanainagar /X Part No. 70/63\n- -\nKanainagar /XI Part No. 70/64\nKanainagar /XII Part No. 70/65\nRaghunathpur /I Part No. 70/66\nRaghunathpur /II Part No. 70/117\n7,SC 7,SC (Women)\nRaghunathpur /III Part No. 70/118\nRaghunathpur /IV Part No. 70/119\nRaghunathpur /V Part No. 70/120\nRaghunathpur /VI Part No. 70/121 - 8,Women\nRaghunathpur /VII Part No. 70/122\nRaghunathpur /VIII Part No. 70/123\nRaghunathpur /IX Part No. 70/124\nRaghunathpur /X Part No. 70/125\nraganianaK\nThe Schedule\nChhitka /PS-1 1, SC 1, SC(Women)\nChhitka /PS-2 2,SC\nChhitka /PS-3 3, SC\n-\n3 Kanainagar /PS-5\naktihhC\nArea of the constituency\n3\n- -\nruphtanuhgaR\nKanainagar /PS-4\nKanainagar /PS-6\nRaghunathpur /PS-7\n3\nRaghunathpur /PS-8\nRaghunathpur /PS-9\n1 of 3",
+      "tables": [
+        {
+          "bbox": [
+            43.923423,
+            70.63799999999998,
+            515.9849999999999,
+            632.9244000000001
+          ],
+          "rows": [
+            [
+              "Name\nof\nGram",
+              "Number of\nmembers to\nbe elected\nto the\nPanchayat\nSamity",
+              "Number and name of the\nconstituency",
+              "Area of the constituency",
+              null,
+              "Constituency\nreserved for\nScheduled Caste\nand Scheduled\nTribes Persons\nshowing serial\nnumber",
+              "Constituency\nreserved for\nWomen showing\nserial Number."
+            ],
+            [
+              "aktihhC",
+              "3",
+              "Chhitka /PS-1",
+              "Chhitka/I",
+              "Part No. 70/38",
+              "1, SC",
+              "1, SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/II",
+              "Part No. 70/39",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/III",
+              "Part No. 70/40",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/IV",
+              "Part No. 70/41",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/VI",
+              "Part No. 70/43",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Chhitka /PS-2",
+              "Chhitka/V",
+              "Part No. 70/42",
+              "2,SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/VII",
+              "Part No. 70/44",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/VIII",
+              "Part No. 70/45",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/IX",
+              "Part No. 70/46",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/X",
+              "Part No. 70/47",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Chhitka /PS-3",
+              "Chhitka/XI",
+              "Part No. 70/48",
+              "3, SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/XII",
+              "Part No. 70/49",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/XIII",
+              "Part No. 70/50",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/XIV",
+              "Part No. 70/51",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/XV",
+              "Part No. 70/52",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chhitka/XVI",
+              "Part No. 70/53",
+              null,
+              null
+            ],
+            [
+              "raganianaK",
+              "3",
+              "Kanainagar /PS-4",
+              "Kanainagar /I",
+              "Part No. 70/54",
+              "-",
+              "4, (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Kanainagar /II",
+              "Part No. 70/55",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Kanainagar /III",
+              "Part No. 70/56",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Kanainagar /IV",
+              "Part No. 70/57",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Kanainagar /PS-5",
+              "Kanainagar /V",
+              "Part No. 70/58",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Kanainagar /VI",
+              "Part No. 70/59",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Kanainagar /VII",
+              "Part No. 70/60",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Kanainagar /IX",
+              "Part No. 70/62",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Kanainagar /PS-6",
+              "Kanainagar /VIII",
+              "Part No. 70/61",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Kanainagar /X",
+              "Part No. 70/63",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Kanainagar /XI",
+              "Part No. 70/64",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Kanainagar /XII",
+              "Part No. 70/65",
+              null,
+              null
+            ],
+            [
+              "ruphtanuhgaR",
+              "3",
+              "Raghunathpur /PS-7",
+              "Raghunathpur /I",
+              "Part No. 70/66",
+              "7,SC",
+              "7,SC (Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Raghunathpur /II",
+              "Part No. 70/117",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Raghunathpur /III",
+              "Part No. 70/118",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Raghunathpur /IV",
+              "Part No. 70/119",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Raghunathpur /PS-8",
+              "Raghunathpur /V",
+              "Part No. 70/120",
+              "-",
+              "8,Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Raghunathpur /VI",
+              "Part No. 70/121",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Raghunathpur /VII",
+              "Part No. 70/122",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Raghunathpur /PS-9",
+              "Raghunathpur /VIII",
+              "Part No. 70/123",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Raghunathpur /IX",
+              "Part No. 70/124",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Raghunathpur /X",
+              "Part No. 70/125",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1847
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 792,
+      "text": "Block : Tehatta-I Panchayat Samiti : Tehatta -I\nConstituency\nNumber of\nreserved for\nmembers to Constituency\nName Scheduled Caste\nbe elected Number and name of the reserved for\nof and Scheduled\nto the constituency Women showing\nGram Tribes Persons\nPanchayat serial Number.\nshowing serial\nSamity\nnumber\nShyamnagar /I Part No. 70/67\nShyamnagar /II Part No. 70/68\nShyamnagar /III Part No. 70/69\nShyamnagar /VI Part No. 70/72\nShyamnagar /IV Part No. 70/70\nShyamnagar /V Part No. 70/71\nShyamnagar /X Part No. 70/76\nShyamnagar /XI Part No. 70/77\nShyamnagar /VII Part No. 70/73\nShyamnagar /VIII Part No. 70/74\nShyamnagar /IX Part No. 70/75\nChanderghat /I Part No. 70/142\nChanderghat /II Part No. 70/143\nChanderghat /IV Part No. 70/144\nChanderghat /III Part No. 70/145\nChanderghat /V Part No. 70/146\nChanderghat /VI Part No. 70/147\nChanderghat /VII Part No. 70/148\n15,Women\nChanderghat /VIII Part No. 70/149\nBetai-II /I Part No. 73/1\nBetai-II /II Part No. 73/2 - -\nBetai-II /VI Part No. 73/6\nBetai-II /III Part No. 73/3\nBetai-II /IV Part No. 73/4\n- -\nBetai-II /V Part No. 73/5\nBetai-II /VII Part No. 73/7\nBetai-II /VIII Part No. 73/8\nBetai-II /IX Part No. 73/9 18,SC -\nBetai-II /X Part No. 73/10\nBetai-I /I Part No. 73/11\nBetai-I /II Part No. 73/12 19,SC 19,SC(Women)\nBetai-I /III Part No. 73/13\nBetai-I /IV Part No. 73/14\nBetai-I /VI Part No. 73/16 - 20,(Women)\nBetai-I /VIII Part No. 73/18\nBetai-I /V Part No. 73/15\nBetai-I /VII Part No. 73/17\n21,SC -\nBetai-I /IX Part No. 73/19\nBetai-I /X Part No. 73/20\nI\n-\niateB\nFORM-B1\nThe Schedule\nArea of the constituency\n- -\n- 11,Women\n- -\n13,SC -\nBetai-II /PS-16\n3 Betai-II /PS-17\nBetai-II /PS-18\nBetai-I /PS-19\nBetai-I /PS-20\n3\nraganmayhS\nShyamnagar /PS-10\n3\nShyamnagar /PS-11\nShyamnagar /PS-12\nBetai-I /PS-21\nII\n-\niateB\n- -\n-\nThe Schedule\ntahgrednahC\nChanderghat /PS-13\n3\nChanderghat /PS-14\nChanderghat /PS-15\nFORM-B1\n2 of 3",
+      "tables": [
+        {
+          "bbox": [
+            43.923423,
+            93.43211700000006,
+            515.9849999999999,
+            515.8243170000001
+          ],
+          "rows": [
+            [
+              "Name\nof\nGram",
+              "Number of\nmembers to\nbe elected\nto the\nPanchayat\nSamity",
+              "Number and name of the\nconstituency",
+              "Area of the constituency",
+              null,
+              "Constituency\nreserved for\nScheduled Caste\nand Scheduled\nTribes Persons\nshowing serial\nnumber",
+              "Constituency\nreserved for\nWomen showing\nserial Number."
+            ],
+            [
+              "raganmayhS",
+              "3",
+              "Shyamnagar /PS-10",
+              "Shyamnagar /I",
+              "Part No. 70/67",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Shyamnagar /II",
+              "Part No. 70/68",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Shyamnagar /III",
+              "Part No. 70/69",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Shyamnagar /VI",
+              "Part No. 70/72",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Shyamnagar /PS-11",
+              "Shyamnagar /IV",
+              "Part No. 70/70",
+              "-",
+              "11,Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Shyamnagar /V",
+              "Part No. 70/71",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Shyamnagar /X",
+              "Part No. 70/76",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Shyamnagar /XI",
+              "Part No. 70/77",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Shyamnagar /PS-12",
+              "Shyamnagar /VII",
+              "Part No. 70/73",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Shyamnagar /VIII",
+              "Part No. 70/74",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Shyamnagar /IX",
+              "Part No. 70/75",
+              null,
+              null
+            ],
+            [
+              "tahgrednahC",
+              "3",
+              "Chanderghat /PS-13",
+              "Chanderghat /I",
+              "Part No. 70/142",
+              "13,SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chanderghat /II",
+              "Part No. 70/143",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chanderghat /IV",
+              "Part No. 70/144",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Chanderghat /PS-14",
+              "Chanderghat /III",
+              "Part No. 70/145",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chanderghat /V",
+              "Part No. 70/146",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chanderghat /VI",
+              "Part No. 70/147",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Chanderghat /PS-15",
+              "Chanderghat /VII",
+              "Part No. 70/148",
+              "-",
+              "15,Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Chanderghat /VIII",
+              "Part No. 70/149",
+              null,
+              null
+            ],
+            [
+              "II\n-\niateB",
+              "3",
+              "Betai-II /PS-16",
+              "Betai-II /I",
+              "Part No. 73/1",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-II /II",
+              "Part No. 73/2",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-II /VI",
+              "Part No. 73/6",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Betai-II /PS-17",
+              "Betai-II /III",
+              "Part No. 73/3",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-II /IV",
+              "Part No. 73/4",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-II /V",
+              "Part No. 73/5",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-II /VII",
+              "Part No. 73/7",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Betai-II /PS-18",
+              "Betai-II /VIII",
+              "Part No. 73/8",
+              "18,SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-II /IX",
+              "Part No. 73/9",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-II /X",
+              "Part No. 73/10",
+              null,
+              null
+            ]
+          ]
+        },
+        {
+          "bbox": [
+            43.923423,
+            527.2224000000001,
+            515.9849999999999,
+            641.2031999999999
+          ],
+          "rows": [
+            [
+              "I\n-\niateB",
+              "3",
+              "Betai-I /PS-19",
+              "Betai-I /I",
+              "Part No. 73/11",
+              "19,SC",
+              "19,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-I /II",
+              "Part No. 73/12",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-I /III",
+              "Part No. 73/13",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Betai-I /PS-20",
+              "Betai-I /IV",
+              "Part No. 73/14",
+              "-",
+              "20,(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-I /VI",
+              "Part No. 73/16",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-I /VIII",
+              "Part No. 73/18",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Betai-I /PS-21",
+              "Betai-I /V",
+              "Part No. 73/15",
+              "21,SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-I /VII",
+              "Part No. 73/17",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-I /IX",
+              "Part No. 73/19",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Betai-I /X",
+              "Part No. 73/20",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1792
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 792,
+      "text": "Block : Tehatta-I Panchayat Samiti : Tehatta -I\nNumber of Constituency\nmembers to reserved for Constituency\nName\nbe elected Number and name of the Scheduled Caste reserved for\nof\nto the constituency and Scheduled Women showing\nGram\nPanchayat Tribes Persons serial Number.\nSamity showing serial\nNatna /I Part No. 73/22\nNatna /II Part No. 73/23\n22,SC -\nNatna /III Part No. 73/24\nNatna /V Part No. 73/25\nNatna /IV Part No. 73/21\nNatna /VI Part No. 73/26\nNatna /VII Part No. 73/27\nNatna /VIII Part No. 73/28\nNatna /IX Part No. 73/29\nNatna /X Part No. 73/30\n24.SC(Women)\nNatna /XI Part No. 73/31\nNatna /XII Part No. 73/32\nTehatta /I Part No. 73/33\nTehatta /II Part No. 73/34\nTehatta /III Part No. 73/35 - -\nTehatta /IV Part No. 73/36\nTehatta /V Part No. 73/37\nTehatta /VI Part No. 73/38\nTehatta /VII Part No. 73/39\n26,SC -\nTehatta /XII Part No. 73/44\nTehatta /XIV Part No. 73/46\nTehatta /VIII Part No. 73/40\nTehatta /IX Part No. 73/41\nTehatta /X Part No. 73/42 27,(Women)\nTehatta /XI Part No. 73/43\nTehatta /XIII Part No. 73/45\nPatharghata-II/I Part No. 73/47\nPatharghata-II/II Part No. 73/48 - -\nPatharghata-II/IV Part No. 73/50\nPatharghata-II/III Part No. 73/49\nPatharghata-II/V Part No. 73/51 -\nPatharghata-II/VI Part No. 73/52\nPatharghata-II/VII Part No. 73/53\nPatharghata-II/VIII Part No. 73/54 30,(Women)\nPatharghata-II/IX Part No. 73/55\nPatharghata-I/I Part No. 73/56\nPatharghata-I/II Part No. 73/57\n- -\nPatharghata-I/III Part No. 73/58\nPatharghata-I/IV Part No. 73/59\nPatharghata-I/V Part No. 73/60\nPatharghata-I/VI Part No. 73/61\nPatharghata-I/VII Part No. 73/62\nPatharghata-I/VIII Part No. 73/63\nDate : 07.02.2008\nattaheT\n- -\nNatna /PS-24 24,SC\nTehatta /PS-25\n3 Tehatta /PS-26\nTehatta /PS-27\nPatharghata-I/PS-32\nII-atahgrahtaP\nArea of the constituency\nPatharghata-II/PS-28\n3 Patharghata-II/PS-29 -\nPatharghata-II/PS-30\nantaN\nNatna /PS-22\n3 Natna /PS-23\n-\n- -\nDistrict Panchayat Election Officer\n& District Magistrate, Nadia\nI-atahgrahtaP Patharghata-I/PS-31\n2\n3 of 3",
+      "tables": [
+        {
+          "bbox": [
+            43.923423,
+            63.19811699999997,
+            515.9849999999999,
+            614.7474
+          ],
+          "rows": [
+            [
+              "Name\nof\nGram",
+              "Number of\nmembers to\nbe elected\nto the\nPanchayat\nSamity",
+              "Number and name of the\nconstituency",
+              "Area of the constituency",
+              null,
+              "Constituency\nreserved for\nScheduled Caste\nand Scheduled\nTribes Persons\nshowing serial",
+              "Constituency\nreserved for\nWomen showing\nserial Number."
+            ],
+            [
+              "antaN",
+              "3",
+              "Natna /PS-22",
+              "Natna /I",
+              "Part No. 73/22",
+              "22,SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natna /II",
+              "Part No. 73/23",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natna /III",
+              "Part No. 73/24",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natna /V",
+              "Part No. 73/25",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Natna /PS-23",
+              "Natna /IV",
+              "Part No. 73/21",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natna /VI",
+              "Part No. 73/26",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natna /VII",
+              "Part No. 73/27",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natna /VIII",
+              "Part No. 73/28",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Natna /PS-24",
+              "Natna /IX",
+              "Part No. 73/29",
+              "24,SC",
+              "24.SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natna /X",
+              "Part No. 73/30",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natna /XI",
+              "Part No. 73/31",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Natna /XII",
+              "Part No. 73/32",
+              null,
+              null
+            ],
+            [
+              "attaheT",
+              "3",
+              "Tehatta /PS-25",
+              "Tehatta /I",
+              "Part No. 73/33",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Tehatta /II",
+              "Part No. 73/34",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Tehatta /III",
+              "Part No. 73/35",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Tehatta /IV",
+              "Part No. 73/36",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Tehatta /V",
+              "Part No. 73/37",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Tehatta /PS-26",
+              "Tehatta /VI",
+              "Part No. 73/38",
+              "26,SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Tehatta /VII",
+              "Part No. 73/39",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Tehatta /XII",
+              "Part No. 73/44",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Tehatta /XIV",
+              "Part No. 73/46",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Tehatta /PS-27",
+              "Tehatta /VIII",
+              "Part No. 73/40",
+              "",
+              "27,(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Tehatta /IX",
+              "Part No. 73/41",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Tehatta /X",
+              "Part No. 73/42",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Tehatta /XI",
+              "Part No. 73/43",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Tehatta /XIII",
+              "Part No. 73/45",
+              null,
+              null
+            ],
+            [
+              "II-atahgrahtaP",
+              "3",
+              "Patharghata-II/PS-28",
+              "Patharghata-II/I",
+              "Part No. 73/47",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patharghata-II/II",
+              "Part No. 73/48",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patharghata-II/IV",
+              "Part No. 73/50",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Patharghata-II/PS-29",
+              "Patharghata-II/III",
+              "Part No. 73/49",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patharghata-II/V",
+              "Part No. 73/51",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patharghata-II/VI",
+              "Part No. 73/52",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Patharghata-II/PS-30",
+              "Patharghata-II/VII",
+              "Part No. 73/53",
+              "-",
+              "30,(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patharghata-II/VIII",
+              "Part No. 73/54",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patharghata-II/IX",
+              "Part No. 73/55",
+              null,
+              null
+            ],
+            [
+              "I-atahgrahtaP",
+              "2",
+              "Patharghata-I/PS-31",
+              "Patharghata-I/I",
+              "Part No. 73/56",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patharghata-I/II",
+              "Part No. 73/57",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patharghata-I/III",
+              "Part No. 73/58",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patharghata-I/IV",
+              "Part No. 73/59",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              "Patharghata-I/PS-32",
+              "Patharghata-I/V",
+              "Part No. 73/60",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patharghata-I/VI",
+              "Part No. 73/61",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patharghata-I/VII",
+              "Part No. 73/62",
+              null,
+              null
+            ],
+            [
+              null,
+              null,
+              null,
+              "Patharghata-I/VIII",
+              "Part No. 73/63",
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1835
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 3
+}

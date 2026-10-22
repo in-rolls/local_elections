@@ -1,0 +1,144 @@
+<div>
+<p style="text-align: right;">i p k r fuokzu</p>
+<p style="text-align: center;"><b>çi = &amp; 23</b></p>
+<p style="text-align: center;">1%u; e 85 n§[ k, §z<br/><b>fuokzu i fj. ke d k çd k ku</b></p>
+<p>&gt; kj [ k M i p k r fuokzu fu; ekoy h] 2001 d sfu; e 85 d svuq j. keae§, rn~} kj k; g v f/k fpr d jr k gwfd ulp snh xbZv uq ph d sLr EHk 1/4 1/2ea ukfer Q fDr] Lr EHk 1/2 1/2eav fd r in i j] Lr EHk 1/5 1/2eaof. kz x xe i p k r d sfy; sl E; d ~#i l sfuokzpr gksx; k gS%</p>
+<p style="text-align: center;"><b>v uq ph</b></p>
+</div>
+<div data-bbox="94 228 929 724" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Q fDr d k uke</th>
+<th colspan="3">i n d k fooj.k</th>
+<th rowspan="2">ग्राम पंचायत / पंचायत समिति / जिला परिशद्<br/>ft l l sin l a§/kr gS1%uokzu {ke l §; k@<br/>uke l fgr 1/2</th>
+<th rowspan="2">v H fDr</th>
+</tr>
+<tr>
+<th>i n</th>
+<th>v kj f{kr @ v ukj f{kr</th>
+<th>efgy k@ v U;</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>fnu§k d qkj ekah</td>
+<td>x xe i p k r l nL;</td>
+<td>v uq fpr t kfr</td>
+<td>v U;</td>
+<td>XXI fl eMs k@ 06@ 01@ d §c MHk 1/4 1/2</td>
+<td></td>
+</tr>
+<tr>
+<td>efj; kuk Ms Ms</td>
+<td>x xe i p k r l nL;</td>
+<td>v uq fpr t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMs k@ 06@ 01@ d §c MHk 1/2 1/2</td>
+<td></td>
+</tr>
+<tr>
+<td>i qe d qkjh</td>
+<td>x xe i p k r l nL;</td>
+<td>v ukj f{kr</td>
+<td>efgy k</td>
+<td>XXI fl eMs k@ 06@ 01@ d §c MHk 1/2 1/2</td>
+<td>fu fozlsk</td>
+</tr>
+<tr>
+<td>v y d k d qy w</td>
+<td>x xe i p k r l nL;</td>
+<td>v uq fpr t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMs k@ 06@ 01@ d §c MHk 1/4 1/2</td>
+<td></td>
+</tr>
+<tr>
+<td>t ; efr noh</td>
+<td>x xe i p k r l nL;</td>
+<td>v uq fpr t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMs k@ 06@ 01@ d §c MHk 1/5 1/2</td>
+<td>fu fozlsk</td>
+</tr>
+<tr>
+<td>uhjt l k§a</td>
+<td>x xe i p k r l nL;</td>
+<td>v uq fpr t ut kfr</td>
+<td>v U;</td>
+<td>XXI fl eMs k@ 06@ 01@ d §c MHk 1/6 1/2</td>
+<td>fu fozlsk</td>
+</tr>
+<tr>
+<td>t q kfku [ ksl</td>
+<td>x xe i p k r l nL;</td>
+<td>v uq fpr t ut kfr</td>
+<td>v U;</td>
+<td>XXI fl eMs k@ 06@ 01@ d §c MHk 1/7 1/2</td>
+<td>fu fozlsk</td>
+</tr>
+<tr>
+<td>t fLVu cd</td>
+<td>x xe i p k r l nL;</td>
+<td>v uq fpr t ut kfr</td>
+<td>v U;</td>
+<td>XXI fl eMs k@ 06@ 01@ d §c MHk 1/8 1/2</td>
+<td></td>
+</tr>
+<tr>
+<td>d ey k noh</td>
+<td>x xe i p k r l nL;</td>
+<td>v ukj f{kr</td>
+<td>efgy k</td>
+<td>XXI fl eMs k@ 06@ 01@ d §c MHk 1/9 1/2</td>
+<td>fu fozlsk</td>
+</tr>
+<tr>
+<td>x hr k noh</td>
+<td>x xe i p k r l nL;</td>
+<td>v uq fpr t kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMs k@ 06@ 01@ d §c MHk 1/10 1/2</td>
+<td>fu fozlsk</td>
+</tr>
+<tr>
+<td>कृति अंजेला लकड़ा</td>
+<td>x xe i p k r l nL;</td>
+<td>v ukj f{kr</td>
+<td>v U;</td>
+<td>XXI fl eMs k@ 06@ 01@ d §c MHk 1/11 1/2</td>
+<td></td>
+</tr>
+<tr>
+<td>v b uk fr d hz</td>
+<td>x xe i p k r l nL;</td>
+<td>v uq fpr t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMs k@ 06@ 01@ d §c MHk 1/12 1/2</td>
+<td>fu fozlsk</td>
+</tr>
+<tr>
+<td><b>r s d qkj mjka</b></td>
+<td><b>x xe i p k r d se§[ k, k</b></td>
+<td><b>v uq fpr t ut kfr</b></td>
+<td><b>v U;</b></td>
+<td><b>XXI fl eMs k@ 06@ 01@ d §c MHk</b></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="94 792 212 847" data-label="Text">
+<p>LFku % fl eMs k<br/>fnukd % 23-12-2015</p>
+</div>
+<div data-bbox="714 792 824 877" data-label="Text">
+<p>ft y k n. Mk/kd kjh<br/>&amp; l g&amp;<br/>mi k Dr] fl eMs kA</p>
+</div>

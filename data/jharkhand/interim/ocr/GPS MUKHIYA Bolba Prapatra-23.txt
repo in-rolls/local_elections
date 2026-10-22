@@ -1,0 +1,150 @@
+<div data-bbox="99 27 291 55" data-label="Page-Header">
+<p>vfk pukl ६; lko 116३/4७i ७</p>
+</div>
+<div data-bbox="842 29 943 56" data-label="Page-Header">
+<p>i p k r fuokpu</p>
+</div>
+<div data-bbox="489 60 561 86" data-label="Text">
+<p><b>çi = &amp; 23</b></p>
+</div>
+<div data-bbox="472 90 572 115" data-label="Text">
+<p>1/u; e 85 n६ k ५2</p>
+</div>
+<div data-bbox="437 117 604 144" data-label="Text">
+<p><b>fuokpu i fj. lke dkçdkku</b></p>
+</div>
+<div data-bbox="99 157 940 210" data-label="Text">
+<p>&gt; kj [ k M i p k r fuokpu fu; ekoy h] 2001 d sfu; e 85 d sv u q j. k eae ६, r n ~} kj k ; g v f/k fp r d jr k giwfd u p snh x bZv u q p h d sLr Ek 1/4 1/2eau kfer Q fDr ] Lr Ek 1/2 1/2eav fd r i n i j] Lr Ek 1/5 1/2eaof. kZ x ke i p k r d sfy; sl E; d ~#i l sfuokpr gksx; k gS%</p>
+</div>
+<div data-bbox="494 227 551 253" data-label="Section-Header">
+<p><b>vuqph</b></p>
+</div>
+<div data-bbox="99 253 946 747" data-label="Table">
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Q fDr d k uke</th>
+<th colspan="3">i n d k fooj. k</th>
+<th rowspan="2">ग्राम पंचायत / पंचायत समिति / जिला परिशद्<br/>ft l l si n l a ६/kr gS1/uokpu {k l ६; k@ uke<br/>l fgr 1/2</th>
+<th rowspan="2">v H fDr</th>
+</tr>
+<tr>
+<th>i n</th>
+<th>v kj f{kr @ v u kj f{kr</th>
+<th>efgy k@ v U</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>l j ks d dy w</td>
+<td>x ke i p k r l nL;</td>
+<td>v u q fp r t ut kfr</td>
+<td>v U</td>
+<td>XXI fl eMsk k@ 03@ 01@ eky l kMke 1/01/2</td>
+<td>fu foZksk</td>
+</tr>
+<tr>
+<td>ex j hr k l kss</td>
+<td>x ke i p k r l nL;</td>
+<td>v u kj f{kr</td>
+<td>efgy k</td>
+<td>XXI fl eMsk k@ 03@ 01@ eky l kMke 1/02/2</td>
+<td>fu foZksk</td>
+</tr>
+<tr>
+<td>के ारी सिंह</td>
+<td>x ke i p k r l nL;</td>
+<td>v u kj f{kr</td>
+<td>v U</td>
+<td>XXI fl eMsk k@ 03@ 01@ eky l kMke 1/03/2</td>
+<td>fu foZksk</td>
+</tr>
+<tr>
+<td>J her hi fr ek [ kk kk</td>
+<td>x ke i p k r l nL;</td>
+<td>v u q fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMsk k@ 03@ 01@ eky l kMke 1/04/2</td>
+<td>fu foZksk</td>
+</tr>
+<tr>
+<td>Ekd l hek Maq Maq</td>
+<td>x ke i p k r l nL;</td>
+<td>v u q fp r t ut kfr</td>
+<td>v U</td>
+<td>XXI fl eMsk k@ 03@ 01@ eky l kMke 1/05/2</td>
+<td>fu foZksk</td>
+</tr>
+<tr>
+<td>t ky t s , Dd k</td>
+<td>x ke i p k r l nL;</td>
+<td>v u kj f{kr</td>
+<td>efgy k</td>
+<td>XXI fl eMsk k@ 03@ 01@ eky l kMke 1/06/2</td>
+<td></td>
+</tr>
+<tr>
+<td>e ६ s [ kM #k</td>
+<td>x ke i p k r l nL;</td>
+<td>v u q fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMsk k@ 03@ 01@ eky l kMke 1/07/2</td>
+<td>fu foZksk</td>
+</tr>
+<tr>
+<td>d s ksy uk fr d hZ</td>
+<td>x ke i p k r l nL;</td>
+<td>v u q fp r t ut kfr</td>
+<td>v U</td>
+<td>XXI fl eMsk k@ 03@ 01@ eky l kMke 1/08/2</td>
+<td>fu foZksk</td>
+</tr>
+<tr>
+<td>fue Z k V s s</td>
+<td>x ke i p k r l nL;</td>
+<td>v u q fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMsk k@ 03@ 01@ eky l kMke 1/09/2</td>
+<td></td>
+</tr>
+<tr>
+<td>d kk h d s d s k</td>
+<td>x ke i p k r l nL;</td>
+<td>v u q fp r t ut kfr</td>
+<td>efgy k</td>
+<td>XXI fl eMsk k@ 03@ 01@ eky l kMke 1/10/2</td>
+<td>fu foZksk</td>
+</tr>
+<tr>
+<td>वे ारखु मांझी</td>
+<td>x ke i p k r l nL;</td>
+<td>v u q fp r t ut kfr</td>
+<td>v U</td>
+<td>XXI fl eMsk k@ 03@ 01@ eky l kMke 1/11/2</td>
+<td></td>
+</tr>
+<tr>
+<td><b>vlsmy MqMq</b></td>
+<td><b>xke i p k r dsefj k k</b></td>
+<td><b>vuq fp r t ut kfr</b></td>
+<td><b>efgy k</b></td>
+<td><b>XXI fl eMsk k@ 03@ 01@ eky l kMke 1/11/2</b></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-bbox="99 831 215 885" data-label="Page-Footer">
+<p>LFku % fl eMsk<br/>fnukd % 23-12-2015</p>
+</div>
+<div data-bbox="721 831 829 915" data-label="Page-Footer">
+<p>ft y k n. Mkf/kd kj h<br/>&amp; l g &amp;<br/>mi k qr ] fl eMsk A</p>
+</div>

@@ -1,0 +1,54 @@
+1 2 3
+Natham Panchayat Union Contd.
+10 Uralipatty General (Women)
+11 Pannuvarpatty General
+12 Kuttupatty General
+13 Pillaiyarnatham General
+14 Avichipatty General
+15 Sirankattupatty General
+16 Lingavadi General
+17 Kosukurichi General
+18 Kudagipatty General
+19 Sethur General
+20 N.Pudupatty General
+21 Paraliputhur General
+22 Reddiapatty General
+23 Sathampadi General
+Nilakottai Panchayat Union
+1 Mattaparai SC (Women)
+2 Nariyuthu SC (Women)
+3 Pallapatty SC (Women)
+4 Gullalagundu SC (General)
+5 Silukkuvarpatti SC (General)
+6 Ethilodu SC (General)
+7 Kullichettipatty SC (General)
+8 Koovanuthu General (Women)
+9 Musuvanuthu General (Women)
+10 Pachamalayan kottai General (Women)
+11 Vilampatty General (Women)
+12 Pillayarnatham General (Women)
+13 Veelinaickenpatty General
+14 Malayagoundanpatty General
+15 Noothulapuram General
+16 Nakkaluthu General
+17 Jambuduraikottai General
+18 Kottur General
+19 S.Mettupatty General
+20 Ramarajapuram General
+21 Sithargalnatham General
+22 Sivagnanapuram General
+23 Kodanginaickenpatti General
+Vathlagundu Panchayat Union
+1 Viralimayanpatty SC (Women)
+2 P.Viralipatty SC (Women)
+3 Old Badlagundu SC (General)
+4 Kunnuvaran kottai SC (General)
+5 Mallanampatti SC (General)
+6 Viruveedu General (Women)
+7 Kanavaipatty General (Women)
+8 Rengappanaickenpatty General (Women)
+9 Sekkapatty General (Women)
+10 Sengattampatty General
+11 Eluvanampatty General
+12 G.Thummalapatti General
+Page 120

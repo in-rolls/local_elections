@@ -1,0 +1,26 @@
+{
+  "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+  "prior_native_pages": 152,
+  "prior_semantic_office_rows": 0,
+  "prior_semantic_ward_rows": 0,
+  "development_pages": [
+    17,
+    48,
+    49,
+    50,
+    57,
+    58,
+    60,
+    62,
+    63,
+    65,
+    67
+  ],
+  "heldout_office_pages": [
+    59,
+    61,
+    64,
+    66
+  ],
+  "note": "Native extraction existed; no handbook-specific semantic output existed before this parser."
+}

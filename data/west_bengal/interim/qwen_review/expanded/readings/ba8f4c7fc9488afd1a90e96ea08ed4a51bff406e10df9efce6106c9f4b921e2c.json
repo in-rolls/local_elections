@@ -1,0 +1,37 @@
+{
+  "source": {
+    "sample_id": 125,
+    "row_id": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339:5:gp_head:8:caste",
+    "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Pradhan_20_20Upa-Pradhan_025b28f9.pdf",
+    "source_sha256": "79149d93b415487624be4a476a3d59c1877b9db25f6c60243caf9583bffb5339",
+    "source_page": 5,
+    "axis": "caste",
+    "tier": "gp_head",
+    "bbox": [
+      354.15,
+      459.11,
+      386.46,
+      788.73
+    ],
+    "bbox_units": "rendered_original_page_pixels_scale_to_1800",
+    "image_path": "data/wb/derived/qwen_review/expanded/cell_125.png",
+    "note": "Crop generation in progress; skip missing images and return to them. These original bbox units are explicit; final manifest will additionally provide converted PDF bbox and image hash.",
+    "raster_dpi": 360,
+    "image_rotation_clockwise": 90
+  },
+  "fingerprint": {
+    "image_sha256": "db736501b55a790e2e0a25290d7d17e41e6a0e97395c2b15a0d6a93cec2cde6b",
+    "model_digest": "5ced39dfa4bac325dc183dd1e4febaa1c46b3ea28bce48896c8e69c1e79611cc",
+    "prompt_sha256": "e747db3c1ff8f5e2ed47cec2266b51cdae006b573cfd6dbfd0ee7eadec5d7903",
+    "temperature": 0,
+    "num_predict": 512
+  },
+  "prompt": "Transcribe only the text visibly printed in this cropped election-table cell. Preserve original spelling, Bengali script, Roman numerals, and reservation codes. Do not correct or complete place names. If blank or only a dash, return an empty text string. Mark unreadable characters with [?]. Return JSON with one key: \"text\". Do not infer reservation from a name.",
+  "response": {
+    "model": "qwen2.5vl:7b",
+    "created_at": "2026-09-08T02:56:21.094518Z",
+    "response": "{\"text\": \"????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????",
+    "done": false
+  },
+  "seconds": 27.491799499839544
+}

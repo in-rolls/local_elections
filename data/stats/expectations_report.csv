@@ -1,0 +1,115 @@
+severity,file,scope,column,rule,count,share,examples,first_source,first_page
+warn,jharkhand/ward_member_reservation_2015.csv,column,block,blank share 36% above the 35% tolerated,7153,0.3616, |  | ,data/jharkhand/2015/13. JAMTARA MUKHIYA PSS/JAMTARA ZP MUKHIYA PSS GPS.pdf,42
+warn,jharkhand/panchayat_samiti_reservation_2015.csv,column,ward_no,blank share 98% above the 30% tolerated,5022,0.9786, |  | ,data/jharkhand/2015/1. GARHWA MUKHIYA PSS/GARHWA PSS.pdf,1
+warn,karnataka/gp_head_2005.csv,column,gp_no,length outside 1..10,4673,0.8781,10_1_CHITAKULA | 10_1_AMADALLI | 10_1_MALLAPUR,data/karnataka/Karnataka_GP_ReservationHistory.dta,
+warn,karnataka/gp_head_2007.csv,column,gp_no,length outside 1..10,4673,0.8781,10_1_CHITAKULA | 10_1_AMADALLI | 10_1_MALLAPUR,data/karnataka/Karnataka_GP_ReservationHistory.dta,
+warn,karnataka/gp_head_2000.csv,column,gp_no,length outside 1..10,4671,0.878,10_1_CHITAKULA | 10_1_AMADALLI | 10_1_MALLAPUR,data/karnataka/Karnataka_GP_ReservationHistory.dta,
+warn,karnataka/gp_head_2002.csv,column,gp_no,length outside 1..10,4671,0.878,10_1_CHITAKULA | 10_1_AMADALLI | 10_1_MALLAPUR,data/karnataka/Karnataka_GP_ReservationHistory.dta,
+warn,jharkhand/panchayat_samiti_reservation_2015.csv,column,gp_no,blank share 91% above the 60% tolerated,4647,0.9055, |  | ,data/jharkhand/2015/1. GARHWA MUKHIYA PSS/GARHWA PSS.pdf,1
+warn,karnataka/gp_head_1993.csv,column,gp_no,length outside 1..10,4626,0.8788,10_1_CHITAKULA | 10_1_AMADALLI | 10_1_MALLAPUR,data/karnataka/Karnataka_GP_ReservationHistory.dta,
+warn,jharkhand/mukhiya_reservation_2015.csv,column,seat_no,blank share 94% above the 90% tolerated,3743,0.9423, |  | ,data/jharkhand/2015/1. GARHWA MUKHIYA PSS/GARHWA MUKHIYA.pdf,1
+warn,jharkhand/mukhiya_reservation_2015.csv,column,gp_no,blank share 75% above the 60% tolerated,2992,0.7533, |  | ,data/jharkhand/2015/1. GARHWA MUKHIYA PSS/GARHWA MUKHIYA.pdf,1
+warn,jharkhand/panchayat_samiti_reservation_2015.csv,column,gram_panchayat,blank share 46% above the 10% tolerated,2359,0.4597, |  | ,data/jharkhand/2015/1. GARHWA MUKHIYA PSS/GARHWA PSS.pdf,4
+warn,jharkhand/mukhiya_reservation_2015.csv,column,block,blank share 54% above the 35% tolerated,2135,0.5375, |  | ,data/jharkhand/2015/1. GARHWA MUKHIYA PSS/GARHWA MUKHIYA.pdf,2
+warn,goa/ward_reservation_2012.csv,column,unopposed,blank share 99% above the 0% tolerated,1452,0.9871, |  | ,data/goa/2012/panres_2012_Bardez.pdf,1
+warn,jk/ward_reservation_2018.csv,column,ward_no,neither a number nor a Roman numeral,1419,1.0,Number & Name of Panch Constit | PC-II | PC-V,data/jk/2018/2018_Anantnag.pdf,1
+warn,jharkhand/ward_member_reservation_2015.csv,row,ward_no,ward row has no ward number,504,0.0255, |  | ,data/jharkhand/2015/15. BOKARO ZP PSS MUKHIYA GPS/Chandankiyari_GPS_GPM_GPVM.pdf,17
+warn,ap/ward_reservation_2020.csv,column,serial,not an integer,276,0.0038,5S | 5S | 5S,data/ap/2020_res_gp/atp_res_gp.pdf,78
+warn,jk/ward_reservation_2018.csv,column,ward_no,length outside 1..6,232,0.1635,Number & Name of Panch Constit | PC-VIII | PC-VIII,data/jk/2018/2018_Anantnag.pdf,1
+warn,jharkhand/zila_parishad_reservation_2015.csv,column,ward_no,blank share 89% above the 30% tolerated,201,0.8894, |  | ,data/jharkhand/2015/13. JAMTARA MUKHIYA PSS/JAMTARA ZP MUKHIYA PSS GPS.pdf,2
+warn,jharkhand/zila_parishad_reservation_2015.csv,column,gram_panchayat,blank share 61% above the 10% tolerated,138,0.6106, |  | ,data/jharkhand/2015/13. JAMTARA MUKHIYA PSS/JAMTARA ZP MUKHIYA PSS GPS.pdf,2
+warn,ap/ward_reservation_2020.csv,column,block,length outside 2..40,112,0.0015,K | K | K,data/ap/2020_res_gp/est_res_gp.pdf,66
+warn,jharkhand/panchayat_samiti_reservation_2015.csv,column,block,length outside 2..40,111,0.0216,चितरपुर- 01 ग्राम पंचायत मायल  | चितरपुर- 02 ग्राम पंचायत सेवई  | चितरपुर- 03 ग्राम पंचायत सेवई ,data/jharkhand/2015/16. RAMGARH ZP PSS MUKHIYA GPS/Panchayat Samiti Final Prapatra - 23/Chiterpur PSS.pdf,1
+warn,jharkhand/panchayat_samiti_reservation_2015.csv,row,ward_no,seat-level row carries a ward number,110,0.0214,01 | 02 | 03,data/jharkhand/2015/23. SERAIKELA KHARSAWAN MUKHIYA PSS/SERAIKELA KHARSAWAN PSS/Prapatra 23 Chandil  Panchayat Samiti.pdf,1
+warn,karnataka/block_member_2016.csv,column,winner,length outside 2..60,77,0.0221,"ಬಹಮಾಡು ಕಂದೆ ಬಳ್ಳು ಬಳ್ಳು ಹಂಪಾಮ್ | ರವೀಶಾ ಜಿ ಗಂಜಿ ರಾಜಾದ್ವಿ ಸಾಹೇಬ್  | ಕಲಿಕೇರಿ ಕೇರಣಾನಾಯ್ಯ, ಕಲಿಕೇರಿ ವಿ",data/karnataka/tzp_2016_elected/TZP_Elected_Members_2016_TP_Ballari_HBHalli.pdf,2
+warn,jharkhand/panchayat_samiti_reservation_2015.csv,column,gram_panchayat,length outside 2..45,66,0.0129,चितरपुर-01 ग्राम पंचायत मायल क | चितरपुर-02 ग्राम पंचायत सेवई द | चितरपुर-03 ग्राम पंचायत सेवई उ,data/jharkhand/2015/16. RAMGARH ZP PSS MUKHIYA GPS/Panchayat Samiti Final Prapatra - 23/Chiterpur PSS.pdf,1
+warn,karnataka/zp_member_2016.csv,column,winner,length outside 2..60,62,0.0698,"ಬಿ.ಎಸ್.ಪ್ರವೀಣ್ ಸಿಂಗ್, ಚಪ್ಪರದಹಳ | ರತ್ನಮ್ಮ ಹೆಚ್.ಟಿ.ಯಲ್ಲಪ್ಪ, ಹಾರೋಕ | ಸಜಿತಾ, ನಂ.174, ವೈಷ್ಣವಿ, ಅಶೋಕ ಬ",data/karnataka/tzp_2016_elected/TZP_Elected_Members_2016_ZP_Ballari.pdf,2
+warn,maharashtra/ulb_ward_2012.csv,column,ward_name,length outside 2..40,43,0.1894,Naravane Sanscrutik center - A | Poinsur Village (West) - Kandi | Poinsur (East) - Rajaram Nagar,data/maharashtra/mumbai/BMC-2007_raw.xlsx,
+warn,assam/chairperson_reservation_2020.csv,column,block,blank share 78% above the 35% tolerated,36,0.7826, |  | ,data/assam/pdfs/Reservation of Wards and post of Chairperson of Municipal Boards_2020.pdf,7
+warn,jk/ward_reservation_2010.csv,column,ward_name,length outside 2..40,31,0.0024,"Sungal Lower Moh Parwana and M | Sungal Lower Moh Karala,Vidhuw | Nai Basti Sungal Lower Moh Tat",data/jk/2010/Akhnoor.pdf,9
+warn,ap/sarpanch_reservation_2020.csv,column,serial,not an integer,27,0.0037,5S | 1g | 1s,data/ap/2020_res_gp/atp_res_gp.pdf,78
+warn,jharkhand/zila_parishad_reservation_2015.csv,row,ward_no,seat-level row carries a ward number,25,0.1106,01 | 02 | 03,data/jharkhand/2015/8. DEOGHAR MUKHIYA PSS/DEOGHAR ZP MUKHIYA PSS GPS.pdf,2
+warn,ap/ward_reservation_2020.csv,column,serial,outside 1..9999,22,0.0003,0 | 0 | 0,data/ap/2020_res_gp/pkm_res_gp.pdf,15
+warn,jk/ward_reservation_2016.csv,column,pop_total,not an integer,20,0.0016,2 2 9 | 446.52 | 252.54,data/jk/2016/Annex B Doda.pdf,6
+warn,jk/ward_reservation_2016.csv,column,pop_oc,not an integer,18,0.0015,2 2 9 | 142.74 | 146.4,data/jk/2016/Annex B Doda.pdf,6
+warn,jk/ward_reservation_2016.csv,column,ward_name,length outside 2..40,16,0.0013,Moh. Uper Ranjol to Ho Charan  | Moh. Pangotra Ram Nath Tarkhan | Lower Ranjol Ho Saran Sharma t,data/jk/2016/Annex A Kathua.pdf,7
+warn,assam/ward_reservation_2020.csv,column,ward_no,neither a number nor a Roman numeral,14,0.0248,3B | 5B | 2A,data/assam/pdfs/Reservation of Wards and post of Chairperson of Municipal Boards_2020.pdf,3
+warn,ap/ward_reservation_2020.csv,column,gram_panchayat,length outside 2..45,12,0.0002,Pe [Fee Noor Ward Reservation  | Pe [Fee Noor Ward Reservation  | Pe [Fee Noor Ward Reservation ,data/ap/2020_res_gp/wg_res_gp.pdf,15
+warn,ap/sarpanch_reservation_2020.csv,column,block,length outside 2..40,10,0.0014,K | h | a,data/ap/2020_res_gp/est_res_gp.pdf,66
+warn,assam/gp_ward_reservation_2025.csv,column,ward_name,length outside 2..40,7,0.0056,"Khangkar Gaon, Khangkar No. 2, | Hajobori, Borchapori, Hajobori | Missamari Gaon, No.2 Missamari",data/assam/2025_reservation/reservation_kamrup_m.pdf,5
+warn,jk/ward_reservation_2016.csv,column,pop_oc,outside 0..100000,7,0.0006,-273 | -301 | -303,data/jk/2016/Publication Jammu B.pdf,38
+warn,ap/sarpanch_reservation_2020.csv,column,gram_panchayat,length outside 2..45,5,0.0007,Chigicherla De (G) zee Dharmav | Chilamakuru B.C (G) _ S.C (W)  | Kunavaram 16 8 8 16 0 0 0 0 0 ,data/ap/2020_res_gp/atp_res_gp.pdf,7
+warn,jk/ward_reservation_2016.csv,column,gp_no,length outside 1..10,4,0.0003,6. Patyari Kattlian | 8. Sangwali | 2.Chak dulma,data/jk/2016/PDF Samba Distt.pdf,5
+warn,jk/ward_reservation_2016.csv,column,pop_sc,not an integer,3,0.0002,NIL | NIL | 1 0 5,data/jk/2016/Publication Udhampur A.pdf,31
+warn,jk/ward_reservation_2018.csv,column,ward_name,length outside 2..40,3,0.0021,"vii-BRADINARD,KHATAN, GANIE,BI | i-DARDKHOWER/KOLI/ BARA /AHENG | ii-DARDKHOWER/ KHATANA /PASWAL",data/jk/2018/Srinagar.pdf,1
+warn,ap/sarpanch_reservation_2020.csv,column,serial,outside 1..9999,2,0.0003,0 | 0,data/ap/2020_res_gp/pkm_res_gp.pdf,15
+warn,gujarat/zp_member_reservation_2020.csv,column,ward_name,length outside 2..40,2,0.0038,જ | ગ,data/gujarat/2020_reservation/zp_member_bharuch_dp_2020.pdf,9
+warn,jharkhand/panchayat_samiti_reservation_2015.csv,column,winner,length outside 2..60,2,0.0004,– | –,data/jharkhand/2015/23. SERAIKELA KHARSAWAN MUKHIYA PSS/SERAIKELA KHARSAWAN PSS/Prapatra 23 Chandil  Panchayat Samiti.pdf,2
+warn,karnataka/block_member_2016.csv,column,ward_name,length outside 2..40,2,0.0006,9 | 9,data/karnataka/tzp_2016_elected/TZP_Elected_Members_2016_TP_Koppal_Gangavathi.pdf,2
+warn,goa/ward_reservation_2012.csv,column,winner,length outside 2..60,1,0.0007,Stael Piedade Ana Michael Anto,data/goa/2012/panres_2012_Salcete.pdf,6
+warn,gujarat/block_member_reservation_2020.csv,column,ward_name,length outside 2..40,1,0.0015,2,data/gujarat/2020_reservation/block_member_patan_tps_2020.pdf,6
+warn,maharashtra/ulb_ward_2012.csv,dataset,ulb_ward,227 rows outside the plausible band 454..454,1,0.0044,227,data/maharashtra/mumbai/BMC-2007_raw.xlsx,
+warn,maharashtra/ulb_ward_2017.csv,dataset,ulb_ward,227 rows outside the plausible band 454..454,1,0.0044,227,data/maharashtra/mumbai/dataverse_IO9SLQ/mumbai_full.tab,
+info,karnataka/block_member_2016.csv,column,party_local,length outside 1..80,20,0.0058,ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್ ಕೆ. | ಭಾರತೀಯ ಜನತಾ ಪಕ್ಷ ಕೆ.ಎಸ್. ರೇವಣ್ | ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್ ಮಹೇ,data/karnataka/tzp_2016_elected/TZP_Elected_Members_2016_TP_Chamarajanagara_Gundlupete.pdf,2
+info,maharashtra/ulb_ward_2012.csv,column,electorate,not an integer,11,0.0485,- | - | -,data/maharashtra/mumbai/BMC-2007_raw.xlsx,
+info,jharkhand/panchayat_samiti_reservation_2015.csv,column,seat_id_raw,length outside 1..90,10,0.0019,XVI रामगढ़/05/चितरपुर -09 ग्रा | XVI रामगढ़/05/चितरपुर -10 ग्रा | XVI रामगढ़/06/गोला -01 ग्राम प,data/jharkhand/2015/16. RAMGARH ZP PSS MUKHIYA GPS/Panchayat Samiti Final Prapatra - 23/Chiterpur PSS.pdf,1
+info,karnataka/block_member_2016.csv,column,relation_name,length outside 1..90,9,0.0026,"ಡಿ. ಎಂ. ಜಾನೇಗೌಡ, ದಿಣ್ಣೇಕೆರೆ, ಕ | ಕೆ.ಇ.ಮಂಜಣ್ಣ, ಭರಮಸಮುದ್ರ, ಜಗಳೂರು | ಬೋರೇಗೌಡ, ಹೊಸೂರುಕೊಪ್ಪಲು ಗಾಮ, ಗೆ",data/karnataka/tzp_2016_elected/TZP_Elected_Members_2016_TP_Chikkamagalur_Chikkamagalur.pdf,4
+info,karnataka/zp_member_2016.csv,column,relation_name,length outside 1..90,6,0.0068,"ಲೇಟ್ ಕೆಂಪಯ್ಯ, ಬೈಲಪ್ಪನಪಾಳ್ಯ, ನಂ | ಲೇಟ್ ಗಂಗಾಧರಯ್ಯ ಎಂ., ನಂ.59, ಕೆರ | ಕೃಷ್ಣಪ್ಪ, ನಂ.8, ಭೈರವೇಶ್ವರ ನಿಲಯ",data/karnataka/tzp_2016_elected/TZP_Elected_Members_2016_ZP_Bangalore_Urban.pdf,1
+info,ap/sarpanch_reservation_2020.csv,column,ward_no,not present in this source (entirely blank),1,0.0001,,data/ap/2020_res_gp/atp_res_gp.pdf,3
+info,assam/block_head_reservation_2025.csv,column,gram_panchayat,not present in this source (entirely blank),1,0.0769,,data/assam/2025_reservation/charaideo_reservation.pdf,5
+info,assam/block_head_reservation_2025.csv,column,ward_no,not present in this source (entirely blank),1,0.0769,,data/assam/2025_reservation/charaideo_reservation.pdf,5
+info,assam/block_head_reservation_2025.csv,column,ward_name,not present in this source (entirely blank),1,0.0769,,data/assam/2025_reservation/charaideo_reservation.pdf,5
+info,assam/block_member_reservation_2025.csv,column,ward_no,not present in this source (entirely blank),1,0.0079,,data/assam/2025_reservation/charaideo_reservation.pdf,3
+info,assam/block_member_reservation_2025.csv,column,ward_name,not present in this source (entirely blank),1,0.0079,,data/assam/2025_reservation/charaideo_reservation.pdf,3
+info,assam/block_vice_head_reservation_2025.csv,column,gram_panchayat,not present in this source (entirely blank),1,0.0769,,data/assam/2025_reservation/charaideo_reservation.pdf,5
+info,assam/block_vice_head_reservation_2025.csv,column,ward_no,not present in this source (entirely blank),1,0.0769,,data/assam/2025_reservation/charaideo_reservation.pdf,5
+info,assam/block_vice_head_reservation_2025.csv,column,ward_name,not present in this source (entirely blank),1,0.0769,,data/assam/2025_reservation/charaideo_reservation.pdf,5
+info,assam/gp_head_reservation_2025.csv,column,ward_no,not present in this source (entirely blank),1,0.0081,,data/assam/2025_reservation/charaideo_reservation.pdf,7
+info,assam/gp_head_reservation_2025.csv,column,ward_name,not present in this source (entirely blank),1,0.0081,,data/assam/2025_reservation/charaideo_reservation.pdf,7
+info,assam/gp_vice_head_reservation_2025.csv,column,ward_no,not present in this source (entirely blank),1,0.008,,data/assam/2025_reservation/charaideo_reservation.pdf,7
+info,assam/gp_vice_head_reservation_2025.csv,column,ward_name,not present in this source (entirely blank),1,0.008,,data/assam/2025_reservation/charaideo_reservation.pdf,7
+info,assam/gp_ward_reservation_2025.csv,column,ward_name,declared source blank: Charaideo numbers wards but does not name their villages; Kamrup Metropolitan prints a village-name cell for every ward,1,0.0008,,data/assam/2025_reservation/charaideo_reservation.pdf,9
+info,assam/zp_member_reservation_2025.csv,column,block,not present in this source (entirely blank),1,0.0455,,data/assam/2025_reservation/charaideo_reservation.pdf,2
+info,assam/zp_member_reservation_2025.csv,column,gram_panchayat,not present in this source (entirely blank),1,0.0455,,data/assam/2025_reservation/charaideo_reservation.pdf,2
+info,assam/zp_member_reservation_2025.csv,column,ward_no,not present in this source (entirely blank),1,0.0455,,data/assam/2025_reservation/charaideo_reservation.pdf,2
+info,goa/ward_reservation_2017.csv,column,winner,not present in this source (entirely blank),1,0.0015,,data/goa/2017/bardez.pdf,1
+info,goa/ward_reservation_2017.csv,column,votes,not present in this source (entirely blank),1,0.0015,,data/goa/2017/bardez.pdf,1
+info,goa/ward_reservation_2017.csv,column,unopposed,not present in this source (entirely blank),1,0.0015,,data/goa/2017/bardez.pdf,1
+info,goa/ward_reservation_2022.csv,column,winner,not present in this source (entirely blank),1,0.0013,,data/goa/2022/list-of-validly-niminated-candidates-quepemvp_2022.pdf,1
+info,goa/ward_reservation_2022.csv,column,votes,not present in this source (entirely blank),1,0.0013,,data/goa/2022/list-of-validly-niminated-candidates-quepemvp_2022.pdf,1
+info,goa/ward_reservation_2022.csv,column,unopposed,not present in this source (entirely blank),1,0.0013,,data/goa/2022/list-of-validly-niminated-candidates-quepemvp_2022.pdf,1
+info,gujarat/block_member_reservation_2020.csv,column,st_rank_ocr,length outside 0..12,1,0.0015,ન5	1	29	1	16	6	1797	1431	37	19,data/gujarat/2020_reservation/block_member_jesar_tps_2020.pdf,5
+info,gujarat/zp_member_reservation_2020.csv,column,st_rank_ocr,length outside 0..12,1,0.0019,BR5	1	55	1	33	7	2009	2032	98	2,data/gujarat/2020_reservation/zp_member_bhavnagar_dp_2020.pdf,9
+info,jharkhand/mukhiya_reservation_2015.csv,column,ward_no,not present in this source (entirely blank),1,0.0003,,data/jharkhand/2015/1. GARHWA MUKHIYA PSS/GARHWA MUKHIYA.pdf,1
+info,jharkhand/mukhiya_reservation_2015.csv,column,seat_id_raw,length outside 1..90,1,0.0003,ग्राम पंचायत/पंचायत समिति/जिला,data/jharkhand/2015/12. DUMKA MUKHIYA PSS/DUMKA MUKHIYA.pdf,8
+info,jharkhand/ward_member_reservation_2015.csv,column,seat_no,not present in this source (entirely blank),1,0.0001,,data/jharkhand/2015/13. JAMTARA MUKHIYA PSS/JAMTARA ZP MUKHIYA PSS GPS.pdf,17
+info,jharkhand/zila_parishad_reservation_2015.csv,column,block,not present in this source (entirely blank),1,0.0044,,data/jharkhand/2015/13. JAMTARA MUKHIYA PSS/JAMTARA ZP MUKHIYA PSS GPS.pdf,2
+info,jharkhand/zila_parishad_reservation_2015.csv,column,block_no,not present in this source (entirely blank),1,0.0044,,data/jharkhand/2015/13. JAMTARA MUKHIYA PSS/JAMTARA ZP MUKHIYA PSS GPS.pdf,2
+info,jharkhand/zila_parishad_reservation_2015.csv,column,gp_no,not present in this source (entirely blank),1,0.0044,,data/jharkhand/2015/13. JAMTARA MUKHIYA PSS/JAMTARA ZP MUKHIYA PSS GPS.pdf,2
+info,jk/sarpanch_reservation_2016.csv,column,ward_no,not present in this source (entirely blank),1,0.0006,,data/jk/2016/Annex A Doda.pdf,1
+info,jk/sarpanch_reservation_2016.csv,column,ward_name,not present in this source (entirely blank),1,0.0006,,data/jk/2016/Annex A Doda.pdf,1
+info,jk/sarpanch_reservation_2016.csv,column,pop_sc,not present in this source (entirely blank),1,0.0006,,data/jk/2016/Annex A Doda.pdf,1
+info,jk/sarpanch_reservation_2016.csv,column,pop_st,not present in this source (entirely blank),1,0.0006,,data/jk/2016/Annex A Doda.pdf,1
+info,jk/sarpanch_reservation_2016.csv,column,pop_oc,not present in this source (entirely blank),1,0.0006,,data/jk/2016/Annex A Doda.pdf,1
+info,jk/sarpanch_reservation_2016.csv,column,pop_total,not present in this source (entirely blank),1,0.0006,,data/jk/2016/Annex A Doda.pdf,1
+info,jk/ward_reservation_2010.csv,column,block_no,not present in this source (entirely blank),1,0.0001,,data/jk/2010/(Arnas).pdf,1
+info,jk/ward_reservation_2010.csv,column,gp_no,not present in this source (entirely blank),1,0.0001,,data/jk/2010/(Arnas).pdf,1
+info,jk/ward_reservation_2010.csv,column,pop_sc,not present in this source (entirely blank),1,0.0001,,data/jk/2010/(Arnas).pdf,1
+info,jk/ward_reservation_2010.csv,column,pop_st,not present in this source (entirely blank),1,0.0001,,data/jk/2010/(Arnas).pdf,1
+info,jk/ward_reservation_2010.csv,column,pop_oc,not present in this source (entirely blank),1,0.0001,,data/jk/2010/(Arnas).pdf,1
+info,jk/ward_reservation_2010.csv,column,pop_total,not present in this source (entirely blank),1,0.0001,,data/jk/2010/(Arnas).pdf,1
+info,jk/ward_reservation_2018.csv,column,block_no,not present in this source (entirely blank),1,0.0007,,data/jk/2018/2018_Anantnag.pdf,1
+info,jk/ward_reservation_2018.csv,column,gp_no,not present in this source (entirely blank),1,0.0007,,data/jk/2018/2018_Anantnag.pdf,1
+info,jk/ward_reservation_2018.csv,column,pop_sc,not present in this source (entirely blank),1,0.0007,,data/jk/2018/2018_Anantnag.pdf,1
+info,jk/ward_reservation_2018.csv,column,pop_st,not present in this source (entirely blank),1,0.0007,,data/jk/2018/2018_Anantnag.pdf,1
+info,jk/ward_reservation_2018.csv,column,pop_oc,not present in this source (entirely blank),1,0.0007,,data/jk/2018/2018_Anantnag.pdf,1
+info,jk/ward_reservation_2018.csv,column,pop_total,not present in this source (entirely blank),1,0.0007,,data/jk/2018/2018_Anantnag.pdf,1
+info,karnataka/gp_head_1993.csv,column,source_page,not present in this source (entirely blank),1,0.0002,,data/karnataka/Karnataka_GP_ReservationHistory.dta,
+info,karnataka/gp_head_2000.csv,column,source_page,not present in this source (entirely blank),1,0.0002,,data/karnataka/Karnataka_GP_ReservationHistory.dta,
+info,karnataka/gp_head_2002.csv,column,source_page,not present in this source (entirely blank),1,0.0002,,data/karnataka/Karnataka_GP_ReservationHistory.dta,
+info,karnataka/gp_head_2005.csv,column,source_page,not present in this source (entirely blank),1,0.0002,,data/karnataka/Karnataka_GP_ReservationHistory.dta,
+info,karnataka/gp_head_2007.csv,column,source_page,not present in this source (entirely blank),1,0.0002,,data/karnataka/Karnataka_GP_ReservationHistory.dta,
+info,karnataka/zp_member_2016.csv,column,block,not present in this source (entirely blank),1,0.0011,,data/karnataka/tzp_2016_elected/TZP_Elected_Members_2016_ZP_Bagalakote.pdf,1
+info,maharashtra/ulb_ward_2012.csv,column,source_page,not present in this source (entirely blank),1,0.0044,,data/maharashtra/mumbai/BMC-2007_raw.xlsx,
+info,maharashtra/ulb_ward_2017.csv,column,ward_name,not present in this source (entirely blank),1,0.0044,,data/maharashtra/mumbai/dataverse_IO9SLQ/mumbai_full.tab,
+info,maharashtra/ulb_ward_2017.csv,column,source_page,not present in this source (entirely blank),1,0.0044,,data/maharashtra/mumbai/dataverse_IO9SLQ/mumbai_full.tab,

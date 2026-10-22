@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "sha256": "40249c2301e00c3bd740b20951cff85e9a8b5850e67f7f33fc755cb121c3400d",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 596,
+      "height": 842,
+      "text": "",
+      "tables": [],
+      "images": 1,
+      "characters": 0
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 1
+}

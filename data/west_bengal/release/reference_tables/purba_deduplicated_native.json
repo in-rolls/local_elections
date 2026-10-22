@@ -1,0 +1,55 @@
+{
+  "source_sha256": "458b1d4636905b5f02e469f162b096a0dc350ff185984a490fd0245ea4beb4e5",
+  "method": "pdfplumber.dedupe_chars",
+  "tolerance": 1,
+  "extra_attrs": [],
+  "method_documentation": "https://github.com/jsvine/pdfplumber",
+  "characters_before": 1021,
+  "characters_after": 262,
+  "visual_control_values": [
+    60,
+    4,
+    14,
+    25
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 792,
+      "text": "MEMBERS OF THREE TIER PANCHAYATI RAJ BODIES\nMembers of Zilla Parishad 60 Elected by Zilla Parishad\nMP 4 Ex-Officio Member Zilla Parishad\nMLA 14 Ex-Officio Member Zilla Parishad\nSabhapaties of Panchayat 25 Elected by Panchayat Samities\nSamities",
+      "tables": [
+        {
+          "bbox": [
+            49.55928539999999,
+            193.08023460000004,
+            553.6797654,
+            374.76023460000005
+          ],
+          "rows": [
+            [
+              "Members of Zilla Parishad",
+              "60",
+              "Elected by Zilla Parishad"
+            ],
+            [
+              "MP",
+              "4",
+              "Ex-Officio Member Zilla Parishad"
+            ],
+            [
+              "MLA",
+              "14",
+              "Ex-Officio Member Zilla Parishad"
+            ],
+            [
+              "Sabhapaties of Panchayat\nSamities",
+              "25",
+              "Elected by Panchayat Samities"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

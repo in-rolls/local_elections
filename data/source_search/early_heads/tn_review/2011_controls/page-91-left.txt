@@ -1,0 +1,57 @@
+1 2 3
+KODAVASAL PANCHAYAT UNION Contd.,
+11 Ayyampettai SC (General)
+12 Sethinipuram General (Women)
+13 Manaparavai General (Women)
+14 Simizhi General (Women)
+15 Prethabaramapuram General (Women)
+16 52-Pudukkudi General (Women)
+17 Nemmeli General (Women)
+18 71. Koothanur General (Women)
+19 Kangeyanagaram General (Women)
+20 Vikkirapandiyam General (Women)
+21 Killiyur General (Women)
+22 Sarabojirajapuram General (Women)
+23 Serugalathur General (Women)
+24 Vilagam General (Women)
+25 Neikuppai General
+26 Thirukudi General
+27 Annavasal General
+28 Vadugagudi General
+29 Manjakkudi General
+30 Serukudi General
+31 Kadagagudi General
+32 Maruthuvancheri General
+33 Vayalur General
+34 Alathur General
+35 Athambar General
+36 Paravakkarai General
+37 Suraikayur General
+38 Maruthuvakudi General
+39 Sarguneswarapuram General
+40 Thiruvidacheri General
+41 18-Pudukkudi General
+42 Kandiramanickam General
+43 Koonthalur General
+44 Paruthiyur General
+45 Thethiyur General
+46 Vishnupuram General
+47 Kadalangudi General
+48 Vadaver General
+49 Manavalanallur General
+VALANGAIMAN PANCHAYAT UNION
+1 Kalathur SC (Women)
+2 Velangudi SC (Women)
+3 Alangudi SC (Women)
+4 Thozhuvur SC (Women)
+5 Thiruvonamangalam SC (Women)
+6 Veeranam SC (Women)
+7 Vadakkupattam SC (Women)
+8 Erivelur SC (Women)
+9 Kandiyur SC (General)
+10 Inamkiliyur SC (General)
+11 Virupatchipuram SC (General)
+12 Kottaiyur SC (General)
+13 Haridhuvaramangalam SC (General)
+14 Melavidayal SC (General)
+Page 89

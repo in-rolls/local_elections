@@ -1,0 +1,42 @@
+.(1) .(2) .(3)
+Thimiri Panchayat Union contd.,
+26 Varagur General (Women)
+27 Vellambi General (Women)
+28 Venkatapuram General (Women)
+29 Mambakkam General (Women)
+30 Allalacheri General
+31 Athiyanam General
+32 Ayiramangalam General
+33 Damarapakkam General
+34 Donimedu General
+35 Durgam General
+36 Kaniyanur General
+37 Kuppam General
+38 Kuttiyam General
+39 Manthangal General
+40 Melathangal General
+41 Melnayakanpalayam General
+42 Nagaleri General
+43 Nallur General
+44 Nambarai General
+45 Palayam General
+46 Pali General
+47 Paradarami General
+48 Parikalpattu General
+49 Pattanam General
+50 Periamangalam General
+51 Perumanthangal General
+52 Pennagar General
+53 Vembi General
+54 Vilari General
+55 Seyyathuvannan General
+Thirupathur Panchayat Union
+1 Kadirimangalam ST (General)
+2 Achamangalam SC (Women)
+3 Mel Achamangalam SC (Women)
+4 Perumapattu SC (Women)
+5 Anandapatti SC (General)
+6 Bommikuppam SC (General)
+7 Chinnasamudram SC (General)
+8 Poorigamanimitta SC (General)
+9 Rachamangalam SC (General)

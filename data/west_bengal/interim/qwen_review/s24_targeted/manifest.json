@@ -1,0 +1,142 @@
+[
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/00.png",
+    "row_id": "503b98bb6c347fb6b6dc2d1e",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf",
+    "source_page": "2",
+    "source_bbox": "[428.83, 423.44, 637.88, 439.45]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/01.png",
+    "row_id": "41606045bd4fa43cc5cf5b87",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf",
+    "source_page": "6",
+    "source_bbox": "[427.05, 358.46, 636.53, 374.97]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/02.png",
+    "row_id": "e09f13990786becc62919ee0",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf",
+    "source_page": "6",
+    "source_bbox": "[427.23, 554.5, 636.61, 568.5]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/03.png",
+    "row_id": "29e2de2261c88dbda8893ab3",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_642_Form-1B_Pradhan_1_e6a3bc68.pdf",
+    "source_page": "11",
+    "source_bbox": "[427.13, 136.18, 636.69, 152.35]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/04.png",
+    "row_id": "62b082c447a72a33831b7e14",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_643_Form-1B_Upa-Pradhan_1_752bf64d.pdf",
+    "source_page": "1",
+    "source_bbox": "[427.82, 441.33, 649.4, 462.92]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/05.png",
+    "row_id": "c8a439617bc1ae8a6f897d35",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_643_Form-1B_Upa-Pradhan_1_752bf64d.pdf",
+    "source_page": "2",
+    "source_bbox": "[427.28, 358.89, 649.11, 380.12]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/06.png",
+    "row_id": "dcfd2dd98836ae5ca7d9033f",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_643_Form-1B_Upa-Pradhan_1_752bf64d.pdf",
+    "source_page": "4",
+    "source_bbox": "[427.36, 421.18, 649.21, 442.28]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/07.png",
+    "row_id": "cc5ae6d2630c619c05da5536",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_643_Form-1B_Upa-Pradhan_1_752bf64d.pdf",
+    "source_page": "5",
+    "source_bbox": "[426.53, 399.88, 648.66, 421.05]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/08.png",
+    "row_id": "3ab5c971f4e94faf5d8b05c1",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_643_Form-1B_Upa-Pradhan_1_752bf64d.pdf",
+    "source_page": "5",
+    "source_bbox": "[426.72, 546.57, 648.89, 567.74]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/09.png",
+    "row_id": "bda2d19ccf5e3e48018b7d28",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_643_Form-1B_Upa-Pradhan_1_752bf64d.pdf",
+    "source_page": "6",
+    "source_bbox": "[426.14, 252.56, 648.08, 273.72]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/10.png",
+    "row_id": "462dac3062b5bcdddfe8c957",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_643_Form-1B_Upa-Pradhan_1_752bf64d.pdf",
+    "source_page": "6",
+    "source_bbox": "[426.18, 273.58, 648.09, 294.73]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/11.png",
+    "row_id": "d97df9535bb4ffc59a1854e4",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_Form-1A_Pradhan_1_2ca5b798.pdf",
+    "source_page": "2",
+    "source_bbox": "[427.8, 206.68, 628.44, 222.22]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/12.png",
+    "row_id": "5cba6b07a355f259f68a6ec5",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_Form-1A_Pradhan_1_2ca5b798.pdf",
+    "source_page": "3",
+    "source_bbox": "[427.93, 360.92, 628.47, 376.43]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/13.png",
+    "row_id": "e769903d8819517db45f9b7c",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_Form-1A_Pradhan_1_2ca5b798.pdf",
+    "source_page": "6",
+    "source_bbox": "[428.47, 530.68, 629.57, 546.96]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/14.png",
+    "row_id": "63828212ed239dd28055efc5",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_Form-1A_Pradhan_1_2ca5b798.pdf",
+    "source_page": "8",
+    "source_bbox": "[428.12, 360.98, 628.77, 376.63]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/15.png",
+    "row_id": "dbed1fdf1745fb30cecd8f9d",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_Form-1A_Upa_Pradhan_1_50f5d7f2.pdf",
+    "source_page": "4",
+    "source_bbox": "[427.3, 356.17, 640.01, 377.11]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/16.png",
+    "row_id": "902b44bd5167c20da7172883",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_Form-1A_Upa_Pradhan_1_50f5d7f2.pdf",
+    "source_page": "4",
+    "source_bbox": "[427.5, 417.23, 640.2, 438.17]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/17.png",
+    "row_id": "c2ad23f8f54be3512ff1b860",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_Form-1A_Upa_Pradhan_1_50f5d7f2.pdf",
+    "source_page": "5",
+    "source_bbox": "[426.82, 397.75, 639.4, 418.78]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/18.png",
+    "row_id": "fba456c6b00286013e4a8707",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_Form-1A_Upa_Pradhan_1_50f5d7f2.pdf",
+    "source_page": "6",
+    "source_bbox": "[425.83, 257.0, 638.5, 277.67]"
+  },
+  {
+    "image_path": "data/wb/derived/qwen_review/s24_targeted/19.png",
+    "row_id": "b162de54840723d8cff15e69",
+    "source_path": "data/wb/gp_source_search/historical_expansion/s24pgs_Form-1A_Upa_Pradhan_1_50f5d7f2.pdf",
+    "source_page": "6",
+    "source_bbox": "[425.79, 277.53, 638.47, 297.71]"
+  }
+]

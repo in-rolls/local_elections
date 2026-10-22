@@ -1,0 +1,44 @@
+1 2 3
+Virudhunagar Panchayat Union (Contd.)
+47 Kottanatham General
+48 Kottaiyur General
+49 Kooraikundu General
+50 Koilveerarpatti General
+51 Kattanarpatti General
+52 Kadambankulam General
+53 Gurumoorthinaickenpatti General
+54 Endapuli General
+55 E.Muthulingapuram General
+56 Chinnavadi General
+57 Chettudaiyanpatti General
+58 Appaiyanaickenpatti General
+Sattur Panchayat Union
+1 Sirukulam SC(Women)
+2 Rengappanaickenpatti SC(Women)
+3 Pulvaipatti SC(Women)
+4 Pothireddipatti SC(Women)
+5 N.Venkateswarapuram SC(General)
+6 Sankaranatham SC(General)
+7 Sadayampatti SC(General)
+8 Periagollapatti SC(General)
+9 N.Mettupatti SC(General)
+10 Muthusamypuram SC(General)
+11 Mettamalai SC(General)
+12 Kanjampatti SC(General)
+13 Venkatachalapuram General (Women)
+14 Thottilovanpatti General (Women)
+15 Perayampatti General (Women)
+16 Nalli General (Women)
+17 Nallamuthampatti General (Women)
+18 N.Subbiahpuram General (Women)
+19 Mulliseval General (Women)
+20 Kosukkundu General (Women)
+21 Kathalampatti General (Women)
+22 K.Mettupatti General (Women)
+23 Chatrapatti General (Women)
+24 Banduvarpatti General (Women)
+25 Uppathur General
+26 Soorangudi General
+27 Sinduvampatti General
+28 Sindapalli General
+29 Pethureddiapatti General

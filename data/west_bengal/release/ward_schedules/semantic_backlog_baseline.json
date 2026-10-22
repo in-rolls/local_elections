@@ -1,0 +1,181 @@
+{
+  "stage": "baseline_before_common_layout_repairs",
+  "ocr_pages": 1523,
+  "structured_candidate_pages": 163,
+  "raw_only_pages": 1360,
+  "groups": [
+    {
+      "district": "Alipurduar",
+      "year": "2018",
+      "layout": "gp_form_a",
+      "pages": 58,
+      "structured_candidate_pages": 31,
+      "raw_only_pages": 27
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2018",
+      "layout": "ps_form_b",
+      "pages": 14,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 14
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2018",
+      "layout": "unclassified_schedule",
+      "pages": 30,
+      "structured_candidate_pages": 10,
+      "raw_only_pages": 20
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2018",
+      "layout": "zp_member_schedule",
+      "pages": 2,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 2
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2023",
+      "layout": "gp_form_a",
+      "pages": 153,
+      "structured_candidate_pages": 46,
+      "raw_only_pages": 107
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2023",
+      "layout": "ps_form_b",
+      "pages": 34,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 34
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2023",
+      "layout": "unclassified_schedule",
+      "pages": 1,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 1
+    },
+    {
+      "district": "Alipurduar",
+      "year": "2023",
+      "layout": "zp_member_schedule",
+      "pages": 2,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 2
+    },
+    {
+      "district": "Birbhum",
+      "year": "2023",
+      "layout": "gp_form_a",
+      "pages": 240,
+      "structured_candidate_pages": 58,
+      "raw_only_pages": 182
+    },
+    {
+      "district": "Cooch Behar",
+      "year": "2018",
+      "layout": "gp_form_a",
+      "pages": 2,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 2
+    },
+    {
+      "district": "Cooch Behar",
+      "year": "2018",
+      "layout": "ps_form_b",
+      "pages": 3,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 3
+    },
+    {
+      "district": "Cooch Behar",
+      "year": "2023",
+      "layout": "gp_form_a",
+      "pages": 335,
+      "structured_candidate_pages": 18,
+      "raw_only_pages": 317
+    },
+    {
+      "district": "Cooch Behar",
+      "year": "2023",
+      "layout": "ps_form_b",
+      "pages": 43,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 43
+    },
+    {
+      "district": "Jalpaiguri",
+      "year": "2023",
+      "layout": "gp_form_a",
+      "pages": 204,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 204
+    },
+    {
+      "district": "Malda",
+      "year": "2013",
+      "layout": "gp_form_a",
+      "pages": 312,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 312
+    },
+    {
+      "district": "Malda",
+      "year": "2013",
+      "layout": "ps_form_b",
+      "pages": 69,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 69
+    },
+    {
+      "district": "Malda",
+      "year": "2013",
+      "layout": "unclassified_schedule",
+      "pages": 10,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 10
+    },
+    {
+      "district": "Malda",
+      "year": "2013",
+      "layout": "zp_member_schedule",
+      "pages": 4,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 4
+    },
+    {
+      "district": "South 24 Parganas",
+      "year": "2018",
+      "layout": "unclassified_schedule",
+      "pages": 2,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 2
+    },
+    {
+      "district": "South 24 Parganas",
+      "year": "2018",
+      "layout": "zp_member_schedule",
+      "pages": 5,
+      "structured_candidate_pages": 0,
+      "raw_only_pages": 5
+    }
+  ],
+  "raw_only_reasons": {
+    "column_number_style_not_supported_or_ambiguous": 614,
+    "missing_or_corrupted_column_number_readings": 364,
+    "ps_form_b_reader_not_implemented": 153,
+    "column_geometry_or_anchor_alignment_not_supported": 12,
+    "possible_order_only_page": 126,
+    "zp_member_schedule_reader_not_implemented": 11,
+    "verified_order_cover_no_observations": 1,
+    "suspected_ocr_orientation_or_recognition_failure": 37,
+    "gp_name_or_allocation_tokens_not_read_or_split": 40,
+    "verified_wrong_orientation_during_ocr": 2
+  },
+  "limitations": "A page with candidates is not necessarily fully parsed. Reasons outside visual samples are reader diagnostics, not independently verified source classifications. Source/page links and per-page counts are retained in the CSV."
+}

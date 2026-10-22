@@ -1,0 +1,48 @@
+1 2 3
+Manamadurai Panchayat Union
+1 Chinnakannanur SC(Women)
+2 Keelapasalai SC(Women)
+3 Muthanendal SC(Women)
+4 M.Karisalkulam SC(General)
+5 Manambakki SC(General)
+6 T.Pudukottai SC(General)
+7 Thanjakkure SC(General)
+8 Vagudi SC(General)
+9 Vembathur SC(General)
+10 Arasakulam General (Women)
+11 Kuvalaiveli General (Women)
+12 Melapidavoor General (Women)
+13 Patcheri General (Women)
+14 Peria Avarangadu General (Women)
+15 Rajagambeeram General (Women)
+16 Seikalathur General (Women)
+17 Therkkuchandanur General (Women)
+18 Vilathur General (Women)
+19 Vellikurichi General (Women)
+20 Annavasal General
+21 Idaikattur General
+22 Kalkurichi General
+23 Kattikulam General
+24 Kalpiravoo General
+25 Keelamelgudi General
+26 Keelapidavoor General
+27 Mangulam General
+28 Melapasalai General
+29 Melanettur General
+30 Milaganoor General
+31 Pathinettankottai General
+32 Periakottai General
+33 Perumpatcheri General
+34 V.Pudukulam General
+35 Sannathipudukulam General
+36 Sirugudi General
+37 Soorakkulam Pillaruthan General
+38 Sullangudi General
+39 Theethanpettai General
+Thiruppuvanam Panchayat Union
+1 Keeladi SC(Women)
+2 Kanoor SC(Women)
+3 T.Alangulam SC(Women)
+4 Piramanoor SC(Women)
+5 Kaliyandoor-Nainarpettai SC(General)
+Page 135

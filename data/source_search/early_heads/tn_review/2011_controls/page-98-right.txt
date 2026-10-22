@@ -1,0 +1,35 @@
+1 2 3
+THOTTIAM PANCHAYAT UNION
+1 Nagaiyanallur SC (Women)
+2 Seelaipillaiyarputhur SC (Women)
+3 Arasalur SC (General)
+4 Kolakkudi SC (General)
+5 Seethapatti SC (General)
+6 Alagarai General (Women)
+7 Chinnapallipalayam General (Women)
+8 M.Kalathur General (Women)
+9 Manamedu General (Women)
+10 Mullipadi General (Women)
+11 Srinivasanallur General (Women)
+12 Sriramasamuthiram General (Women)
+13 Appanallur General
+14 Arangoor General
+15 Elurpatti General
+16 Kaduvetti General
+17 Kamalapuram General
+18 Kidaram General
+19 M.Puthur General
+20 Murungai General
+21 Natham General
+22 Periapallipalayam General
+23 Pidaramangalam General
+24 Tholurpatti General
+25 Unniyur General
+26 Valvelputhur General
+THATHAIYENGARPETTAI PANCHAYAT UNION
+1 Mahadevi SC (Women)
+2 Sittilarai SC (Women)
+3 Devanur SC (General)
+4 Mavilipatti SC (General)
+5 Anjalam General (Women)
+6 Jambumadai General (Women)

@@ -1,0 +1,44 @@
+1 2 3
+Thandrampet Panchayat Union Contd.,
+33 Kampattu General
+34 Kannakandal General
+35 Kilsirupakkam General
+36 Malayanoor Chekkadi General
+37 Malamanjanur General
+38 Perungulathur General
+39 Reddiyapalayam General
+40 Rayandapuram General
+41 Sadakuppam General
+42 Se.Andapattu General
+43 Se.Gudalur General
+44 Tharadapattu General
+45 Thenmudiyanoor General
+46 Thondamanur General
+47 Veppurchekkadi General
+Jawadhu Hills Panchayat Union
+1 Puliyur ST(Women)
+2 Athipattu ST(Women)
+3 Urgoundanur ST(Women)
+4 Kovilur ST(Women)
+5 Nammiyampattu ST(General)
+6 Kuttakarai ST(General)
+7 Veerappanur ST(General)
+8 Melsilambadi ST(General)
+9 Palamarathur ST(General)
+10 Kanamalai ST(General)
+11 Kallathur General
+Cheyyar Panchayat Union
+1 Mariyanallur ST(General)
+2 Pudukottai SC(Women)
+3 Senkattankudil SC(Women)
+4 Palli SC(Women)
+5 Navalpakkam SC(Women)
+6 Melseesamangalam SC(Women)
+7 Kunnathur SC(General)
+8 Eraiyur SC(General)
+9 Thumbai SC(General)
+10 Perungalathur SC(General)
+11 Kazhanipakkam SC(General)
+12 Painkinar SC(General)
+13 Veliyanallur SC(General)
+Page 46

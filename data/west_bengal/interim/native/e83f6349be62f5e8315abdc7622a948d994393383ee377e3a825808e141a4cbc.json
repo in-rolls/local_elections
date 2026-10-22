@@ -1,0 +1,302 @@
+{
+  "version": 1,
+  "sha256": "e83f6349be62f5e8315abdc7622a948d994393383ee377e3a825808e141a4cbc",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 792,
+      "height": 612,
+      "text": "FORM-A1\nTHE SCHEDULE\nBLOCK : TEHATTA - I\nNumber of members to be elected in the Gram\nSeats allocated Seats reserved for\nPamchayat Seats reserved\nto each Schedule Caste or\nNumber, name & area of constituencies with for Women\nName of Gram constituency Schedule Tribe\nSchedule Schedule serial numbers against serial\nTotal No. of Women with serial against serial\nCastes Tribes number of Seats.\nmembers members number number of Seats\nMembers members\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nTehatta/I Part No. 73/33\n1 - 1, Women\nTehatta 17 3 Nil 6 Mouza-Tehatta, J.L. No. 101\na) Tehatta Nutan Para 2 - -\nTehatta /II Part No. 73/34\nMouza-Tehatta, J.L. No. 101 3 - -\na) Nowdapara Purbapara\nb) Nowdapara Madhya Purba\n4 - 4, Women\nc) Nowdapara Purba\nTehatta/III Part No. 73/35\nMouza-Tehatta, J.L. No. 101 5 - -\na) Nowdapara (Paschimpara)\nTehatta/IV Part No. 73/36\nMouza-Tehatta, J.L. No. 101\n6 6, SC 6,SC(Women)\na) Tehatta High School Para\nb) Jitpur Nutan Para\nTehatta/V Part No. 73/37\nMouza-Tehatta, J.L. No. 101 7 - -\na) Nowdapara Majher Para\nTehatta/VI Part No. 73/38\nMouza-Tehatta, J.L. No. 101 8 8, SC -\na) Tehatta Bazar Para\nTehatta/VII Part No. 73/39\nMouza-Tehatta, J.L. No. 101 9 9, SC -\na) Bargidanga Para\nTehatta/VIII Part No. 73/40\nMouza- Khaspur, J.L. No. 33 10 - 10, Women\na) Bayarbandha Para\nTehatta/IX Part No. 73/41\nMouza- Khaspur, J.L. No. 33 11 - -\na) Bayarbandha Para\n1 of 2",
+      "tables": [
+        {
+          "bbox": [
+            29.256003,
+            83.30688299999997,
+            706.661883,
+            549.369483
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of constituencies with\nserial numbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumber",
+              "Seats reserved for\nSchedule Caste or\nSchedule Tribe\nagainst serial\nnumber of Seats",
+              "Seats reserved\nfor Women\nagainst serial\nnumber of Seats."
+            ],
+            [
+              null,
+              "Total No. of\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "Tehatta",
+              "17",
+              "3",
+              "Nil",
+              "6",
+              "Tehatta/I Part No. 73/33\nMouza-Tehatta, J.L. No. 101\na) Tehatta Nutan Para",
+              "1",
+              "-",
+              "1, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "2",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta /II Part No. 73/34\nMouza-Tehatta, J.L. No. 101\na) Nowdapara Purbapara\nb) Nowdapara Madhya Purba\nc) Nowdapara Purba",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "4",
+              "-",
+              "4, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta/III Part No. 73/35\nMouza-Tehatta, J.L. No. 101\na) Nowdapara (Paschimpara)",
+              "5",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta/IV Part No. 73/36\nMouza-Tehatta, J.L. No. 101\na) Tehatta High School Para\nb) Jitpur Nutan Para",
+              "6",
+              "6, SC",
+              "6,SC(Women)"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta/V Part No. 73/37\nMouza-Tehatta, J.L. No. 101\na) Nowdapara Majher Para",
+              "7",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta/VI Part No. 73/38\nMouza-Tehatta, J.L. No. 101\na) Tehatta Bazar Para",
+              "8",
+              "8, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta/VII Part No. 73/39\nMouza-Tehatta, J.L. No. 101\na) Bargidanga Para",
+              "9",
+              "9, SC",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta/VIII Part No. 73/40\nMouza- Khaspur, J.L. No. 33\na) Bayarbandha Para",
+              "10",
+              "-",
+              "10, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta/IX Part No. 73/41\nMouza- Khaspur, J.L. No. 33\na) Bayarbandha Para",
+              "11",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1314
+    },
+    {
+      "page": 2,
+      "width": 792,
+      "height": 612,
+      "text": "Number of members to be elected in the Gram\nPamchayat Seats allocated Seats reserved for\nSeats reserved\nto each Schedule Caste or\nNumber, name & area of constituencies with for Women\nName of Gram Schedule Schedule constituency Schedule Tribe\nTotal No. of Women serial numbers against serial\nCastes Tribes with serial against serial\nmembers members number of Seats.\nMembers members number number of Seats\n1 (2a) (2b) (2 c ) (2d) 3 4 5 6\nTehatta/X Part No. 73/42\nMouza- Khaspur, J.L. No. 33 12 - -\na) Khaspur Gram\nTehatta/XI Part No. 73/43\nMouza- Kulgachi, J.L. No. 32 13 - 13, Women\na) Kulgachi\nTehatta/XII Part No. 73/44\n14 - -\nMouza-Tehatta, J.L. No. 101\na) Tehatta Khan Para\n15 - -\nb) Chatarpara\nTehatta/XIII Part No. 73/45\nMouza-Tehatta, J.L. No. 101 16 - 16, Women\na) Tehatta Paschimpara\nTehatta/XIV Part No. 73/46\nMouza-Tehatta, J.L. No. 101\n17 - -\na) Tehatta Paschimpara (Uttar)\nb) Tehatta Purbapara\nDate : 07/02/2008 District Panchayat Election Officer\n& District Magistrate, Nadia\n2 of 2",
+      "tables": [
+        {
+          "bbox": [
+            29.256003,
+            50.31246299999998,
+            706.661883,
+            354.102
+          ],
+          "rows": [
+            [
+              "Name of Gram",
+              "Number of members to be elected in the Gram\nPamchayat",
+              null,
+              null,
+              null,
+              "Number, name & area of constituencies with\nserial numbers",
+              "Seats allocated\nto each\nconstituency\nwith serial\nnumber",
+              "Seats reserved for\nSchedule Caste or\nSchedule Tribe\nagainst serial\nnumber of Seats",
+              "Seats reserved\nfor Women\nagainst serial\nnumber of Seats."
+            ],
+            [
+              null,
+              "Total No. of\nmembers",
+              "Schedule\nCastes\nMembers",
+              "Schedule\nTribes\nmembers",
+              "Women\nmembers",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "1",
+              "(2a)",
+              "(2b)",
+              "(2 c )",
+              "(2d)",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta/X Part No. 73/42\nMouza- Khaspur, J.L. No. 33\na) Khaspur Gram",
+              "12",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta/XI Part No. 73/43\nMouza- Kulgachi, J.L. No. 32\na) Kulgachi",
+              "13",
+              "-",
+              "13, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta/XII Part No. 73/44\nMouza-Tehatta, J.L. No. 101\na) Tehatta Khan Para\nb) Chatarpara",
+              "14",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              "15",
+              "-",
+              "-"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta/XIII Part No. 73/45\nMouza-Tehatta, J.L. No. 101\na) Tehatta Paschimpara",
+              "16",
+              "-",
+              "16, Women"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Tehatta/XIV Part No. 73/46\nMouza-Tehatta, J.L. No. 101\na) Tehatta Paschimpara (Uttar)\nb) Tehatta Purbapara",
+              "17",
+              "-",
+              "-"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 955
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

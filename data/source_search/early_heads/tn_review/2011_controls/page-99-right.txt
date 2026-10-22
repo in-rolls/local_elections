@@ -1,0 +1,36 @@
+1 2 3
+THURAIYUR PANCHAYAT UNION Contd.,
+14 Muthiyampalayam General (Women)
+15 Nagalapuram General (Women)
+16 Ponnusamgampatti General (Women)
+17 Sellipalayam General (Women)
+18 Adhanur General
+19 Ammapatti General
+20 Kalingamudayanpatti General
+21 Kollapatti General
+22 Kottaiyur General
+23 Kunnupatti General
+24 Madhurapuri General
+25 Murugur General
+26 Naduvalur General
+27 Narasingapuram General
+28 Pagalavadi General
+29 Perumalpalayam General
+30 Singalanthapuram General
+31 T.Renganathapuram General
+32 Vannadu General
+33 Vengadathanur General
+34 Venkatesapuram General
+UPPILIAPURAM PANCHAYAT UNION
+1 Vairachettipalayam ST (General)
+2 Koppampatti SC (Women)
+3 Patchaperumalpatti SC (Women)
+4 Angiyam SC (General)
+5 SC (General)
+Okkarai
+6 Sobanapuram SC (General)
+7 Alagapuri General (Women)
+8 Eragudi General (Women)
+9 Maradi General (Women)
+10 Sirunavalur General (Women)
+11 Alathudaiyanpatti General

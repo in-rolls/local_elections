@@ -1,0 +1,436 @@
+{
+  "version": 1,
+  "sha256": "474d41a821254f4c61c48dc3d4bb482f4f6834011d44e5818531f95c4303013c",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "[FROM B ]\n[See rule 25(4) ]\nORDER\nNo.: PRD/1154 Dated: 15/11/2017\nIn exercise of the power conferred by sections 14 and 17 of the West Bengal Panchayat Election Act, 2003 (West Ben. Act XXI of 2003), read with rules 24 and 25 of the West\nBengal Panchayat Election Rules, 2006, I, the District Panchayat Election Officer and District Magistrate of the District of Cooch Behar, as the prescribed authority appointed by the\nState Government in the Department of Panchayats and Rural Development under notification No. .............................................. dated :.............................. for the purpose of rules 24\nand 25 of the said rules, hareby determine publication of the draft of this order as required under said rules, for the Grams specified in column (1) of the schedule below, the number of\nmembers to be elected to the Panchayat Samiti specified in the corresponding entries in column (2) , to divide the area of the Grams into constituencies with seral numbers assigned to\nthem specified in the corresponding entries in columns (3) & (4), constituency or constituencies reserved for the scheduled Castes or the Schedule Tribes or the Backward Classes\npersons specified in the corresponding entries in column (5), and constituency or constituencies reserved for woman specified in the corresponding entries in column (6) of the said\nschedule.\nThe Schedule\nBLOCK: DINHATA - II PANCHAYAT SAMITY: DINHATA - II\nConstituency\nreserved for\nNumber of Constituency\nScheduled Castes,\nmembers to be Number and Name of reserved for\nName of the Gram Area of the Constituency (Panchayat Part No.) Assembly Electoral Roll Part No. Scheduled Tribes and\nelected to the the Constituency women showing\nBackward Classes\nPanchayat Samiti Serial Number.\npersons showing\nserial Number\n1 2 3 4 5 6\nBurirhat-I/PS-1 I-1,II-2,III-3,IX-9,X-10 1,2,3,4,12,13 SC\nBurirhat-I 2\nBurirhat-I/PS-2 IV-4,V-5,VI-6,VII-7,VIII-8 5,6,7,8,9,10,11 SC W\nNazirhat-I/PS-3 I-1,II-2,III-3,IV-4, 14,15,16,17,18 SC\nNazirhat-I 3 Nazirhat-I/PS-4 V-5,VI-6,VII-7 19,20,21 W\nNazirhat-I/PS-5 VIII-8,IX-9,X-10,XI-11,XII-12 22,23,24,25,26 W\nNazirhat-II/PS-6 I-1,II-2,III-3 27,28,29,30 SC W\nNazirhat-II 3 Nazirhat-II/PS-7 IV-4,V-5,VI-6,,VII-7,VIII-8,IX-9 31,32,33,34,35,36,37 SC\nNazirhat-II/PS-8 X-10,XI-11,XII-12,XIII-13,XIV-14 38,39,40,41,42,43 SC W\nBurirhat-II/PS-9 I-1,II-2,III-3,IV-4 44,45,46,47,48 SC\nBurirhat-II 3 Burirhat-II/PS-10 V-5,VI-6,VII-7,VIII-8 49,50,51,52 SC W\nBurirhat-II/PS-11 IX-9,X-10,XI-11,XII-12,XIII-13 53,54,55,56,57 SC\nBarasakdal/PS-12 I-1,II-2,IX-9,XI-11,XII-12,XIII-13,XIV-14 58,59,68,71,72,73,74 SC W\nBarasakdal 3 Barasakdal/PS-13 II-2,IV-4,V-5,VI-6,VII-7,VIII-8 60,61,62,63,64,65,66,67\nBarasakdal/PS-14 X-10,XV-15,XVI-16,XVII-17,XVIII-18 69,70,75,76,77,78,79 W\nPage:1 of total 2 pages",
+      "tables": [
+        {
+          "bbox": [
+            48.596000000000004,
+            74.13999999999999,
+            789.9933355555555,
+            493.74399600000004
+          ],
+          "rows": [
+            [
+              "In exercise of the power conferred by sections 14 and 17 of the West Bengal Panchayat Election Act, 2003 (West Ben. Act XXI of 2003), read with rules 24 and 25 of the West\nBengal Panchayat Election Rules, 2006, I, the District Panchayat Election Officer and District Magistrate of the District of Cooch Behar, as the prescribed authority appointed by the\nState Government in the Department of Panchayats and Rural Development under notification No. .............................................. dated :.............................. for the purpose of rules 24\nand 25 of the said rules, hareby determine publication of the draft of this order as required under said rules, for the Grams specified in column (1) of the schedule below, the number of\nmembers to be elected to the Panchayat Samiti specified in the corresponding entries in column (2) , to divide the area of the Grams into constituencies with seral numbers assigned to\nthem specified in the corresponding entries in columns (3) & (4), constituency or constituencies reserved for the scheduled Castes or the Schedule Tribes or the Backward Classes\npersons specified in the corresponding entries in column (5), and constituency or constituencies reserved for woman specified in the corresponding entries in column (6) of the said\nschedule.",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "The Schedule",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "BLOCK: DINHATA - II PANCHAYAT SAMITY: DINHATA - II",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat Samiti",
+              "Number and Name of\nthe Constituency",
+              "Area of the Constituency (Panchayat Part No.)",
+              "Assembly Electoral Roll Part No.",
+              "Constituency\nreserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes\npersons showing\nserial Number",
+              "Constituency\nreserved for\nwomen showing\nSerial Number."
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              null,
+              "5",
+              "6"
+            ],
+            [
+              "",
+              "",
+              "Burirhat-I/PS-1",
+              "I-1,II-2,III-3,IX-9,X-10",
+              "1,2,3,4,12,13",
+              "SC",
+              ""
+            ],
+            [
+              "Burirhat-I",
+              "2",
+              "Burirhat-I/PS-2",
+              "IV-4,V-5,VI-6,VII-7,VIII-8",
+              "5,6,7,8,9,10,11",
+              "SC",
+              "W"
+            ],
+            [
+              "Nazirhat-I",
+              "3",
+              "Nazirhat-I/PS-3",
+              "I-1,II-2,III-3,IV-4,",
+              "14,15,16,17,18",
+              "SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Nazirhat-I/PS-4",
+              "V-5,VI-6,VII-7",
+              "19,20,21",
+              "",
+              "W"
+            ],
+            [
+              "",
+              "",
+              "Nazirhat-I/PS-5",
+              "VIII-8,IX-9,X-10,XI-11,XII-12",
+              "22,23,24,25,26",
+              "",
+              "W"
+            ],
+            [
+              "",
+              "",
+              "Nazirhat-II/PS-6",
+              "I-1,II-2,III-3",
+              "27,28,29,30",
+              "SC",
+              "W"
+            ],
+            [
+              "Nazirhat-II",
+              "3",
+              "Nazirhat-II/PS-7",
+              "IV-4,V-5,VI-6,,VII-7,VIII-8,IX-9",
+              "31,32,33,34,35,36,37",
+              "SC",
+              ""
+            ],
+            [
+              null,
+              null,
+              "Nazirhat-II/PS-8",
+              "X-10,XI-11,XII-12,XIII-13,XIV-14",
+              "38,39,40,41,42,43",
+              "SC",
+              "W"
+            ],
+            [
+              "",
+              "",
+              "Burirhat-II/PS-9",
+              "I-1,II-2,III-3,IV-4",
+              "44,45,46,47,48",
+              "SC",
+              ""
+            ],
+            [
+              "Burirhat-II",
+              "3",
+              "Burirhat-II/PS-10",
+              "V-5,VI-6,VII-7,VIII-8",
+              "49,50,51,52",
+              "SC",
+              "W"
+            ],
+            [
+              "",
+              "",
+              "Burirhat-II/PS-11",
+              "IX-9,X-10,XI-11,XII-12,XIII-13",
+              "53,54,55,56,57",
+              "SC",
+              ""
+            ],
+            [
+              "",
+              "",
+              "Barasakdal/PS-12",
+              "I-1,II-2,IX-9,XI-11,XII-12,XIII-13,XIV-14",
+              "58,59,68,71,72,73,74",
+              "SC",
+              "W"
+            ],
+            [
+              "Barasakdal",
+              "3",
+              "Barasakdal/PS-13",
+              "II-2,IV-4,V-5,VI-6,VII-7,VIII-8",
+              "60,61,62,63,64,65,66,67",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "Barasakdal/PS-14",
+              "X-10,XV-15,XVI-16,XVII-17,XVIII-18",
+              "69,70,75,76,77,78,79",
+              "",
+              "W"
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 2736
+    },
+    {
+      "page": 2,
+      "width": 841.8,
+      "height": 595.2,
+      "text": "The Schedule\nBLOCK: DINHATA - II PANCHAYAT SAMITY: DINHATA - II\nConstituency\nreserved for\nNumber of Constituency\nScheduled Castes,\nmembers to be Number and Name of reserved for\nName of the Gram Area of the Constituency (Panchayat Part No.) Assembly Electoral Roll Part No. Scheduled Tribes and\nelected to the the Constituency women showing\nBackward Classes\nPanchayat Samiti Serial Number.\npersons showing\nserial Number\nSahebganj/PS-15 I-1,VIII-8,IX-9,X-10,XII-12 80,81,90,91,92,95\nSahebganj 3 Sahebganj/PS-16 II-2,III-3,IV-4,V-5,VI-6,VII-7 83,84,85,86,87,88,89 W\nSahebganj/PS-17 XI-11,XIII-13,XIV-14,XV-15,XVI-16,XVII-17 93,94,96,97,98,99,100\nBamanhat-II/PS-18 I-1,II-2,V-5,VIII-8 101,102,105,109 SC\nBamanhat-II 3 Bamanhat-II/PS-19 III-3,IV-4,VI-6,VII-7 103,104,106,107,108 W\nBamanhat-II/PS-20 IX-9,X-10,XI-11 110,111,112,113,\nBamanhat-I/PS-21 II-2,III-3,IV-4,V-5 115,116,117,118,119 SC W\nBamanhat-I 3 Bamanhat-I/PS-22 VI-6,VII-7,VIII-8,XII-12 120,121,122,126,129,130 W\nBamanhat-I/PS-23 I-1,IX-9,X-10,XI-11,XIII-13 114,123,124,125,127,128 SC\nK'Dasgram/PS-24 I-1,II-2,III-3,IV-4,VIII-8,IX-9 131,132,133,134,135,140,141\nK'Dasgram 3 K'Dasgram/PS-25 V-5,VI-6,X-10,XI-11,XIV-14 136,137,142,143,146 SC W\nK'Dasgram/PS-26 VII-7, VII-7, XII-12,XIII-13,XV-15,XVI-16 138,139,144,145,147,148\n149,150,151,152,153,170,\nI-1,II-2,III-3,IV-4,V-5,XIX-19, XX-20,XXI-21,XXII-22\nG'Nayerhat/PS-27 171,172,173,174\nVI-6, VII-7,VIII-8,IX-9,X-10,XIII-13,XIV-14 154,155,156,157,158, SC\nG'Nayerhat 3\nG'Nayerhat/PS-28 159,162,163,164\nXI-11,XII-12,XV-15,XVI-16, XVII-17, XVIII-18,XXIII- 160,161,165,166,167,168,175\nW\nG'Nayerhat/PS-29 23\nChowdhurihat/PS-30 I-1,II-2,XII-12,XIII-13,XIV-14,XVI-16, XVII-17 176,178,188,189,190,191,194,195\nChowdhurihat/PS-31 III-3, IV-4,V-5,VI-6,IX-9,X-10,XI-11 178,179,180,181,184,185,186,188 W\nChowdhurihat 3\nVII-7,VIII-8,XV-15, XVIII-18,XIX-19, XX-20, XXI-21 182,183,192,193,196,197,\nChowdhurihat/PS-32 198,199,200\nSukarurkuthi/PS-33 III-3,IV-4,V-5,VI-6,XII-12 203,204,205,206,207,215,216 W\nSukarurkuthi 3 Sukarurkuthi/PS-34 I-1,II-2,VII-7,VIII-8,IX-9 201,202,208,209,210,211 SC W\nSukarurkuthi/PS-35 X-10,XI-11,XIII-13,XIV-14,XV-15,XVI-16,XVII-17 213,214,216,218,219,220,221 BC\nPage:2 of total 2 pages",
+      "tables": [
+        {
+          "bbox": [
+            48.57458823529412,
+            12.340000000000032,
+            789.9685742857143,
+            432.0250025
+          ],
+          "rows": [
+            [
+              "The Schedule",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "BLOCK: DINHATA - II PANCHAYAT SAMITY: DINHATA - II",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "Name of the Gram",
+              "Number of\nmembers to be\nelected to the\nPanchayat Samiti",
+              "Number and Name of\nthe Constituency",
+              "Area of the Constituency (Panchayat Part No.)",
+              "Assembly Electoral Roll Part No.",
+              "Constituency\nreserved for\nScheduled Castes,\nScheduled Tribes and\nBackward Classes\npersons showing\nserial Number",
+              "Constituency\nreserved for\nwomen showing\nSerial Number."
+            ],
+            [
+              "",
+              "",
+              "Sahebganj/PS-15",
+              "I-1,VIII-8,IX-9,X-10,XII-12",
+              "80,81,90,91,92,95",
+              "",
+              ""
+            ],
+            [
+              "Sahebganj",
+              "3",
+              "Sahebganj/PS-16",
+              "II-2,III-3,IV-4,V-5,VI-6,VII-7",
+              "83,84,85,86,87,88,89",
+              "",
+              "W"
+            ],
+            [
+              null,
+              null,
+              "Sahebganj/PS-17",
+              "XI-11,XIII-13,XIV-14,XV-15,XVI-16,XVII-17",
+              "93,94,96,97,98,99,100",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "Bamanhat-II/PS-18",
+              "I-1,II-2,V-5,VIII-8",
+              "101,102,105,109",
+              "SC",
+              ""
+            ],
+            [
+              "Bamanhat-II",
+              "3",
+              "Bamanhat-II/PS-19",
+              "III-3,IV-4,VI-6,VII-7",
+              "103,104,106,107,108",
+              "",
+              "W"
+            ],
+            [
+              "",
+              "",
+              "Bamanhat-II/PS-20",
+              "IX-9,X-10,XI-11",
+              "110,111,112,113,",
+              "",
+              ""
+            ],
+            [
+              "Bamanhat-I",
+              "3",
+              "Bamanhat-I/PS-21",
+              "II-2,III-3,IV-4,V-5",
+              "115,116,117,118,119",
+              "SC",
+              "W"
+            ],
+            [
+              null,
+              null,
+              "Bamanhat-I/PS-22",
+              "VI-6,VII-7,VIII-8,XII-12",
+              "120,121,122,126,129,130",
+              "",
+              "W"
+            ],
+            [
+              null,
+              null,
+              "Bamanhat-I/PS-23",
+              "I-1,IX-9,X-10,XI-11,XIII-13",
+              "114,123,124,125,127,128",
+              "SC",
+              ""
+            ],
+            [
+              "",
+              "",
+              "K'Dasgram/PS-24",
+              "I-1,II-2,III-3,IV-4,VIII-8,IX-9",
+              "131,132,133,134,135,140,141",
+              "",
+              ""
+            ],
+            [
+              "K'Dasgram",
+              "3",
+              "K'Dasgram/PS-25",
+              "V-5,VI-6,X-10,XI-11,XIV-14",
+              "136,137,142,143,146",
+              "SC",
+              "W"
+            ],
+            [
+              null,
+              null,
+              "K'Dasgram/PS-26",
+              "VII-7, VII-7, XII-12,XIII-13,XV-15,XVI-16",
+              "138,139,144,145,147,148",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "G'Nayerhat/PS-27",
+              "I-1,II-2,III-3,IV-4,V-5,XIX-19, XX-20,XXI-21,XXII-22",
+              "149,150,151,152,153,170,\n171,172,173,174",
+              "",
+              ""
+            ],
+            [
+              "G'Nayerhat",
+              "3",
+              "G'Nayerhat/PS-28",
+              "VI-6, VII-7,VIII-8,IX-9,X-10,XIII-13,XIV-14",
+              "154,155,156,157,158,\n159,162,163,164",
+              "SC",
+              ""
+            ],
+            [
+              "",
+              "",
+              "G'Nayerhat/PS-29",
+              "XI-11,XII-12,XV-15,XVI-16, XVII-17, XVIII-18,XXIII-\n23",
+              "160,161,165,166,167,168,175",
+              "",
+              "W"
+            ],
+            [
+              "",
+              "",
+              "Chowdhurihat/PS-30",
+              "I-1,II-2,XII-12,XIII-13,XIV-14,XVI-16, XVII-17",
+              "176,178,188,189,190,191,194,195",
+              "",
+              ""
+            ],
+            [
+              "Chowdhurihat",
+              "3",
+              "Chowdhurihat/PS-31",
+              "III-3, IV-4,V-5,VI-6,IX-9,X-10,XI-11",
+              "178,179,180,181,184,185,186,188",
+              "",
+              "W"
+            ],
+            [
+              null,
+              null,
+              "Chowdhurihat/PS-32",
+              "VII-7,VIII-8,XV-15, XVIII-18,XIX-19, XX-20, XXI-21",
+              "182,183,192,193,196,197,\n198,199,200",
+              "",
+              ""
+            ],
+            [
+              "Sukarurkuthi",
+              "3",
+              "Sukarurkuthi/PS-33",
+              "III-3,IV-4,V-5,VI-6,XII-12",
+              "203,204,205,206,207,215,216",
+              "",
+              "W"
+            ],
+            [
+              null,
+              null,
+              "Sukarurkuthi/PS-34",
+              "I-1,II-2,VII-7,VIII-8,IX-9",
+              "201,202,208,209,210,211",
+              "SC",
+              "W"
+            ],
+            [
+              "",
+              "",
+              "Sukarurkuthi/PS-35",
+              "X-10,XI-11,XIII-13,XIV-14,XV-15,XVI-16,XVII-17",
+              "213,214,216,218,219,220,221",
+              "BC",
+              ""
+            ]
+          ]
+        }
+      ],
+      "images": 1,
+      "characters": 2112
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 2
+}

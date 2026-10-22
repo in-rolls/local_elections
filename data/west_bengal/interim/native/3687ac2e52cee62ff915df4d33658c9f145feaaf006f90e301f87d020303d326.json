@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "sha256": "3687ac2e52cee62ff915df4d33658c9f145feaaf006f90e301f87d020303d326",
+  "pdfplumber_version": "0.11.10",
+  "pages": [
+    {
+      "page": 1,
+      "width": 612,
+      "height": 1008,
+      "text": "- 1 -\nFORM B1\n[(See rule 25 (4)]\nO R D E R.\nNo. 272/P&RD Dated 07.02.08\nIn exercise of the power conferred by sections 14 & 17 of the West\nBengal Panchayat Election Act, 2003 (West Ben. Act XXI of 2003 ), read with\nrules 24 & 25 of the West Bengal Panchayat Election Rules 2006, I, the District\nPanchayat Election Officer & District Magistrate of the district of NADIA, as\nthe prescribed authority appointed by the State Government in the Department\nof Panchayats and Rural Development under notification No.623-PN/O/I/3R-\n3/2004 dated 09-02-2007 for the purpose of rules 24 and 25 of the said rules,\nhereby determine after previous publication of the draft of this order as required\nunder the said rules, for the Grams specified in column (1) of the Schedule below,\nthe number of members to be elected to the Panchayat Samiti specified in the\ncorresponding entries in column (2), to divide the area of the Grams into\nconstituencies with serial numbers assigned to them specified in the\ncorresponding entries in columns (3) & (4), constituency or constituencies\nreserved for the Scheduled Caste or the Scheduled Tribe persons specified in the\ncorresponding entries in column (5), and constituency or constituencies reserved\nfor women specified in the corresponding entries in column (6) of the said\nSchedule.",
+      "tables": [],
+      "images": 0,
+      "characters": 1562
+    },
+    {
+      "page": 2,
+      "width": 612,
+      "height": 1008,
+      "text": "- 2 -\nFORM B1\nTHE SCHEDULE\nBLOCK:- HARINGHATA PANCHAYAT SAMITI – HARINGHATA\nConstituency\nNumber reserved for\nof Scheduled\nConstituency\nName of members Caste and\nNumber & name reserved for\nGram to be Scheduled\nof the Area of the constituency women\nelected to Tribe\nconstituency showing\nthe persons\nserial number\nPanchayat showing\nSamiti serial\nnumber\n1 2 3 4 5 6\nPart no 83/78,79,81,82\nG.P. Constituency No.:- I, II,\nKastodanga -II /\nIV, V 1 ST\nPS - 1 1 ST\nTotal voter – 3645 (Women)\nPart No - 83/ 80,83,84,85,86\nKastodanga -II / G.P. Constituency No.:- III, VI,\nPS - 2 VII,VIII,IX ----\n2 Women\nTotal voter – 3959)\nII\n-agnadotsaK\n3\nPart No - 83/ 87,88,89\nKastodanga -II / G.P. Constituency No.:-- X, XI,\nPS - 3 XII ----- -----\nTotal voter - 3151\nPart no 83/90,91,92,93,94\nKastodanga -I/\nG.P. Constituency No.:- I, II, III,\nPS -4\nIV,Val voter - 472 4 SC ---\nPart no 83/95,96,97,98\nKastodanga -I/ G.P. Constituency No.:- VI,\nPS - 5 VII,VIII,IX ----\n-----\nvoter - 3207\nI\n-agnadotsaK\n3\nPart no 83/ 99,100,101\nKastodanga -I/ G.P. Constituency No.:-\nPS - 6 X,XI,XII ----- 6 Women\nTotal voter - 3213\nPart no 83/102,103,104,105,106\nG.P. Constituency No.:- I, II,\nMollabelia /PS - 7 ---\nIII, IV,Val voter otal voter - 5209 ----\nPart no 83/\n107,108,109,110,111,112\nG.P. Constituency No.:-VI,\nMollabelia /PS - 8 ----\nVII,VIII, IX, X,XI Total voter - ---\n5871\naileballoM\n3\nPart no 83/ 113,114,115,116,117\nG.P. Constituency No.:- XII,\nMollabelia /PS - 9 XIII, XIV, XV,XVIal voter Total 9 SC ---\nvoter - 6201",
+      "tables": [
+        {
+          "bbox": [
+            28.4784,
+            105.23160000000007,
+            573.7127999999999,
+            862.0080000000002
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number\nof\nmembers\nto be\nelected to\nthe\nPanchayat\nSamiti",
+              "Number & name\nof the\nconstituency",
+              "Area of the constituency",
+              "Constituency\nreserved for\nScheduled\nCaste and\nScheduled\nTribe\npersons\nshowing\nserial\nnumber",
+              "Constituency\nreserved for\nwomen\nshowing\nserial number"
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "II\n-agnadotsaK",
+              "3",
+              "Kastodanga -II /\nPS - 1",
+              "Part no 83/78,79,81,82\nG.P. Constituency No.:- I, II,\nIV, V\nTotal voter – 3645",
+              "1 ST",
+              "1 ST\n(Women)"
+            ],
+            [
+              null,
+              null,
+              "Kastodanga -II /\nPS - 2",
+              "Part No - 83/ 80,83,84,85,86\nG.P. Constituency No.:- III, VI,\nVII,VIII,IX\nTotal voter – 3959)",
+              "----",
+              "2 Women"
+            ],
+            [
+              null,
+              null,
+              "Kastodanga -II /\nPS - 3",
+              "Part No - 83/ 87,88,89\nG.P. Constituency No.:-- X, XI,\nXII\nTotal voter - 3151",
+              "-----",
+              "-----"
+            ],
+            [
+              "I\n-agnadotsaK",
+              "3",
+              "Kastodanga -I/\nPS -4",
+              "Part no 83/90,91,92,93,94\nG.P. Constituency No.:- I, II, III,\nIV,Val voter - 472",
+              "4 SC",
+              "---"
+            ],
+            [
+              null,
+              null,
+              "Kastodanga -I/\nPS - 5",
+              "Part no 83/95,96,97,98\nG.P. Constituency No.:- VI,\nVII,VIII,IX\nvoter - 3207",
+              "----",
+              "-----"
+            ],
+            [
+              null,
+              null,
+              "Kastodanga -I/\nPS - 6",
+              "Part no 83/ 99,100,101\nG.P. Constituency No.:-\nX,XI,XII\nTotal voter - 3213",
+              "-----",
+              "6 Women"
+            ],
+            [
+              "aileballoM",
+              "3",
+              "Mollabelia /PS - 7",
+              "Part no 83/102,103,104,105,106\nG.P. Constituency No.:- I, II,\nIII, IV,Val voter otal voter - 5209",
+              "---",
+              "----"
+            ],
+            [
+              null,
+              null,
+              "Mollabelia /PS - 8",
+              "Part no 83/\n107,108,109,110,111,112\nG.P. Constituency No.:-VI,\nVII,VIII, IX, X,XI Total voter -\n5871",
+              "----",
+              "---"
+            ],
+            [
+              null,
+              null,
+              "Mollabelia /PS - 9",
+              "Part no 83/ 113,114,115,116,117\nG.P. Constituency No.:- XII,\nXIII, XIV, XV,XVIal voter Total\nvoter - 6201",
+              "9 SC",
+              "---"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1688
+    },
+    {
+      "page": 3,
+      "width": 612,
+      "height": 1008,
+      "text": "- 3 -\nFORM B1\nTHE SCHEDULE\nBLOCK:- HARINGHATA PANCHAYAT SAMITI – HARINGHATA\nNumber Constituency\nof reserved for Constituency\nName of members Scheduled reserved for\nNumber & name\nGram to be Caste and Women\nof the Area of the constituency\nelected to Scheduled showing\nconstituency\nthe Tribe persons serial\nPanchayat showing number\nSamiti serial number\n1 2 3 4 5 6\nPart no - 83/118,119,120,121\nG.P. Constituency No.:- I, II,\nBirohi - II/PS -10 -- 10 Women\nIII, IVal Total voter - 3416\nPart no - 83/122,123,124,125\nG.P. Constituency No.:- V, VI,\nBirohi - II/PS -11 --- ---\nVII, VIIIal Total voter - 2586\nII\n-\nihoriB 3\nPart no - 83/126,127\nG.P. Constituency No.:- IX, 12 SC\nBirohi - II/PS -12 12 SC\nXal Total voter - 3055 (Women)\nPart no - 83/ 128,129,130\nG.P. Constituency No.:- I, II,\nBirohi - I/PS -13 ---- ----\nIIIal Total voter - 3454\nPart no - 83/131 , 132 ,133\nG.P. Constituency No.:- IV,\nBirohi - I/PS -14 ----- 14 Women\nV, VIal Total voter - 3528\nI\n-\nihoriB\n3\nPart no - 83/134,135& 136\nG.P. Constituency No.:- VII,\nBirohi - I/PS -15 ---- ---\nVIII,IXal otal voter -2757\nPart no - 83/ 137 ,138, 144\n,145 ,146 & 147\nHaringhata - I/PS - ----\nG.P. Constituency No.:- I, II, ----\n16\nVIII, IX, X, XIal Totaer - 6177\nPart no - 83/139 , 140 , 141 ,\n142 , 143\nHaringhata- I/PS -\nG.P. Constituency No.:- III, ---- 17 Women\n17\nIV, V, VI,VIIl voter - 5451\nI-atahgniraH\n3\nPart no - 83/ 148 , 149 , 150\n,151 ,152 ,153\nHaringhata- I/ PS - G.P. Constituency No.:- XII,\n--- ----\n18 XIII, XIV, XV, XVI,\nXVIIalTotal voter - 6513",
+      "tables": [
+        {
+          "bbox": [
+            28.4784,
+            146.628,
+            585.2316,
+            857.5679999999999
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number\nof\nmembers\nto be\nelected to\nthe\nPanchayat\nSamiti",
+              "Number & name\nof the\nconstituency",
+              "Area of the constituency",
+              "Constituency\nreserved for\nScheduled\nCaste and\nScheduled\nTribe persons\nshowing\nserial number",
+              "Constituency\nreserved for\nWomen\nshowing\nserial\nnumber"
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "II\n-\nihoriB",
+              "3",
+              "Birohi - II/PS -10",
+              "Part no - 83/118,119,120,121\nG.P. Constituency No.:- I, II,\nIII, IVal Total voter - 3416",
+              "--",
+              "10 Women"
+            ],
+            [
+              null,
+              null,
+              "Birohi - II/PS -11",
+              "Part no - 83/122,123,124,125\nG.P. Constituency No.:- V, VI,\nVII, VIIIal Total voter - 2586",
+              "---",
+              "---"
+            ],
+            [
+              null,
+              null,
+              "Birohi - II/PS -12",
+              "Part no - 83/126,127\nG.P. Constituency No.:- IX,\nXal Total voter - 3055",
+              "12 SC",
+              "12 SC\n(Women)"
+            ],
+            [
+              "I\n-\nihoriB",
+              "3",
+              "Birohi - I/PS -13",
+              "Part no - 83/ 128,129,130\nG.P. Constituency No.:- I, II,\nIIIal Total voter - 3454",
+              "----",
+              "----"
+            ],
+            [
+              null,
+              null,
+              "Birohi - I/PS -14",
+              "Part no - 83/131 , 132 ,133\nG.P. Constituency No.:- IV,\nV, VIal Total voter - 3528",
+              "-----",
+              "14 Women"
+            ],
+            [
+              null,
+              null,
+              "Birohi - I/PS -15",
+              "Part no - 83/134,135& 136\nG.P. Constituency No.:- VII,\nVIII,IXal otal voter -2757",
+              "----",
+              "---"
+            ],
+            [
+              "I-atahgniraH",
+              "3",
+              "Haringhata - I/PS -\n16",
+              "Part no - 83/ 137 ,138, 144\n,145 ,146 & 147\nG.P. Constituency No.:- I, II,\nVIII, IX, X, XIal Totaer - 6177",
+              "----",
+              "----"
+            ],
+            [
+              null,
+              null,
+              "Haringhata- I/PS -\n17",
+              "Part no - 83/139 , 140 , 141 ,\n142 , 143\nG.P. Constituency No.:- III,\nIV, V, VI,VIIl voter - 5451",
+              "----",
+              "17 Women"
+            ],
+            [
+              null,
+              null,
+              "Haringhata- I/ PS -\n18",
+              "Part no - 83/ 148 , 149 , 150\n,151 ,152 ,153\nG.P. Constituency No.:- XII,\nXIII, XIV, XV, XVI,\nXVIIalTotal voter - 6513",
+              "---",
+              "----"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 1652
+    },
+    {
+      "page": 4,
+      "width": 612,
+      "height": 1008,
+      "text": "- 4 -\nFORM B1\nTHE SCHEDULE\nBLOCK:- HARINGHATA PANCHAYAT SAMITI – HARINGHATA\nNumber Constituency\nof reserved for\nConstituency\nmembers Number & Scheduled\nreserved for\nName of to be name Caste and\nArea of the constituency women\nGram elected to of the Scheduled\nshowing\nthe constituency Tribe persons\nserial number\nPanchayat showing\nSamiti serial number\n1 2 3 4 5 6\nPart no - 83/ 154 ,155, 157,158\nHaringhata-II/\nG.P. Constituency No.:- I, II, IV,V ----- --- PS-19\nHaringhata-II Part no - 83/ 156 , 159 ,160\n20 SC ---\n/PS -20 G.P. Constituency No.:- III, VI, VIIa\nII\n-\natahgniraH\n3\nPart no - 83/161 , 162 ,163 ,& 164\nHaringhata-II\nG.P. Constituency No.:- VIII, IX, X, ------- 21 Women\n/PS-21\nXIal\nPart no - 83/ 165 ,166 ,168\nFatepur/PS- ,170,171,172\n------ -------\n22 G.P. Constituency No.:- I, II, IV,VI,\nVII, VIII\nPart no - 83/ 167 , 169 , 173 , 175 , 176\nFatepur/PS -\nG.P. Constituency No.:- III, V, IX, XI, 23 SC -----\n23\nXII\nrupetaF\n3\nPart no - 83/174 ,177 ,178 ,179 ,180 ,\nFatepur /PS - 181 , 182 24 SC\n24 SC\n24 G.P. Constituency No.:- X, XIII, XIV, (Women)\nXV, XVI, XVII, XVIII. l\nNagarukhra- Part No. 83/183, 187, 188\n25 SC --\nI/PS-25 G.P. Constituency No.:- I, V, VI.\nPart No. 83/184, 185, 186, 193, 194\nNagarukhra-\nG.P. Constituency No.:- II, III, IV, XI, 26 SC ---\nI/PS-26\nXII.\nI-arhkuragaN\n3\nPart No. 83/189, 190, 191, 192,\nNagarukhra-\nG.P. Constituency No.:- VII, VIII, IX, --- ---\nI/PS-27\nX\nPart no - 83/ 195 ,196 ,197 ,204\nNagarukhra- 28\n28 SC\nG.P. Constituency No.:- I, II, III, X\nII /PS -28 SC(Women)\nNagarukhra- Part no - 83/ 198,199,200,201\n-------- -------\nII /PS -29 G.P. Constituency No.:- IV,V, VI, VII\nII-arhkuragaN\n3\nPart no - 83/202,203,205,206\nNagarukhra-\nG.P. Constituency No.:- VIII, IX, XI, 30 SC ------\nII /PS -30\nXII\nDistrict Panchayat Election Officer\n&\nDate:--07-02-2008. District Magistrate, Nadia.",
+      "tables": [
+        {
+          "bbox": [
+            28.478399999999997,
+            105.23160000000007,
+            594.3516,
+            738.2988
+          ],
+          "rows": [
+            [
+              "Name of\nGram",
+              "Number\nof\nmembers\nto be\nelected to\nthe\nPanchayat\nSamiti",
+              "Number &\nname\nof the\nconstituency",
+              "Area of the constituency",
+              "Constituency\nreserved for\nScheduled\nCaste and\nScheduled\nTribe persons\nshowing\nserial number",
+              "Constituency\nreserved for\nwomen\nshowing\nserial number"
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            [
+              "II\n-\natahgniraH",
+              "3",
+              "Haringhata-II/\nPS-19",
+              "Part no - 83/ 154 ,155, 157,158\nG.P. Constituency No.:- I, II, IV,V",
+              "-----",
+              "---"
+            ],
+            [
+              null,
+              null,
+              "Haringhata-II\n/PS -20",
+              "Part no - 83/ 156 , 159 ,160\nG.P. Constituency No.:- III, VI, VIIa",
+              "20 SC",
+              "---"
+            ],
+            [
+              null,
+              null,
+              "Haringhata-II\n/PS-21",
+              "Part no - 83/161 , 162 ,163 ,& 164\nG.P. Constituency No.:- VIII, IX, X,\nXIal",
+              "-------",
+              "21 Women"
+            ],
+            [
+              "rupetaF",
+              "3",
+              "Fatepur/PS-\n22",
+              "Part no - 83/ 165 ,166 ,168\n,170,171,172\nG.P. Constituency No.:- I, II, IV,VI,\nVII, VIII",
+              "------",
+              "-------"
+            ],
+            [
+              null,
+              null,
+              "Fatepur/PS -\n23",
+              "Part no - 83/ 167 , 169 , 173 , 175 , 176\nG.P. Constituency No.:- III, V, IX, XI,\nXII",
+              "23 SC",
+              "-----"
+            ],
+            [
+              null,
+              null,
+              "Fatepur /PS -\n24",
+              "Part no - 83/174 ,177 ,178 ,179 ,180 ,\n181 , 182\nG.P. Constituency No.:- X, XIII, XIV,\nXV, XVI, XVII, XVIII. l",
+              "24 SC",
+              "24 SC\n(Women)"
+            ],
+            [
+              "I-arhkuragaN",
+              "3",
+              "Nagarukhra-\nI/PS-25",
+              "Part No. 83/183, 187, 188\nG.P. Constituency No.:- I, V, VI.",
+              "25 SC",
+              "--"
+            ],
+            [
+              null,
+              null,
+              "Nagarukhra-\nI/PS-26",
+              "Part No. 83/184, 185, 186, 193, 194\nG.P. Constituency No.:- II, III, IV, XI,\nXII.",
+              "26 SC",
+              "---"
+            ],
+            [
+              null,
+              null,
+              "Nagarukhra-\nI/PS-27",
+              "Part No. 83/189, 190, 191, 192,\nG.P. Constituency No.:- VII, VIII, IX,\nX",
+              "---",
+              "---"
+            ],
+            [
+              "II-arhkuragaN",
+              "3",
+              "Nagarukhra-\nII /PS -28",
+              "Part no - 83/ 195 ,196 ,197 ,204\nG.P. Constituency No.:- I, II, III, X",
+              "28 SC",
+              "28\nSC(Women)"
+            ],
+            [
+              null,
+              null,
+              "Nagarukhra-\nII /PS -29",
+              "Part no - 83/ 198,199,200,201\nG.P. Constituency No.:- IV,V, VI, VII",
+              "--------",
+              "-------"
+            ],
+            [
+              null,
+              null,
+              "Nagarukhra-\nII /PS -30",
+              "Part no - 83/202,203,205,206\nG.P. Constituency No.:- VIII, IX, XI,\nXII",
+              "30 SC",
+              "------"
+            ]
+          ]
+        }
+      ],
+      "images": 0,
+      "characters": 2004
+    }
+  ],
+  "reader_status": "pdfplumber_page_count_reconciled",
+  "expected_pages": 4
+}

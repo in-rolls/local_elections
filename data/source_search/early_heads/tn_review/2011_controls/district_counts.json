@@ -1,0 +1,429 @@
+[
+  {
+    "district": "Kancheepuram District",
+    "unions": 13,
+    "rows": 633,
+    "first_page": 3,
+    "last_page": 9,
+    "category_counts": {
+      "stgeneral": 9,
+      "scwomen": 83,
+      "scgeneral": 151,
+      "generalwomen": 136,
+      "general": 254
+    }
+  },
+  {
+    "district": "TIRUVALLUR DISTRICT",
+    "unions": 14,
+    "rows": 526,
+    "first_page": 10,
+    "last_page": 15,
+    "category_counts": {
+      "scwomen": 59,
+      "scgeneral": 102,
+      "generalwomen": 118,
+      "general": 235,
+      "stgeneral": 9,
+      "stwomen": 2,
+      "UNKNOWN_BLANK": 1
+    }
+  },
+  {
+    "district": "CUDDALORE DISTRICT",
+    "unions": 13,
+    "rows": 683,
+    "first_page": 16,
+    "last_page": 23,
+    "category_counts": {
+      "scwomen": 83,
+      "scgeneral": 153,
+      "generalwomen": 146,
+      "general": 301
+    }
+  },
+  {
+    "district": "VILUPPURAM DISTRICT",
+    "unions": 22,
+    "rows": 1099,
+    "first_page": 24,
+    "last_page": 33,
+    "category_counts": {
+      "scwomen": 113,
+      "scgeneral": 209,
+      "generalwomen": 256,
+      "general": 500,
+      "stgeneral": 17,
+      "stwomen": 4
+    }
+  },
+  {
+    "district": "VELLORE DISTRICT",
+    "unions": 20,
+    "rows": 743,
+    "first_page": 34,
+    "last_page": 42,
+    "category_counts": {
+      "stwomen": 5,
+      "stgeneral": 12,
+      "scwomen": 65,
+      "scgeneral": 112,
+      "generalwomen": 185,
+      "general": 364
+    }
+  },
+  {
+    "district": "TIRUAVANNAMALAI DISTRICT",
+    "unions": 18,
+    "rows": 860,
+    "first_page": 43,
+    "last_page": 53,
+    "category_counts": {
+      "stwomen": 7,
+      "stgeneral": 18,
+      "scwomen": 73,
+      "scgeneral": 129,
+      "generalwomen": 214,
+      "general": 419
+    }
+  },
+  {
+    "district": "SALEM DISTRICT",
+    "unions": 20,
+    "rows": 385,
+    "first_page": 54,
+    "last_page": 58,
+    "category_counts": {
+      "stgeneral": 18,
+      "scwomen": 26,
+      "scgeneral": 46,
+      "generalwomen": 99,
+      "general": 187,
+      "stwomen": 9
+    }
+  },
+  {
+    "district": "NAMAKKAL DISTRICT",
+    "unions": 15,
+    "rows": 322,
+    "first_page": 59,
+    "last_page": 62,
+    "category_counts": {
+      "scwomen": 29,
+      "scgeneral": 45,
+      "generalwomen": 76,
+      "general": 154,
+      "stwomen": 6,
+      "stgeneral": 12
+    }
+  },
+  {
+    "district": "DHARMAPURI DISTRICT",
+    "unions": 8,
+    "rows": 251,
+    "first_page": 63,
+    "last_page": 66,
+    "category_counts": {
+      "scwomen": 17,
+      "scgeneral": 26,
+      "generalwomen": 67,
+      "general": 133,
+      "stgeneral": 5,
+      "stwomen": 3
+    }
+  },
+  {
+    "district": "KRISHNAGIRI DISTRICT",
+    "unions": 10,
+    "rows": 333,
+    "first_page": 67,
+    "last_page": 70,
+    "category_counts": {
+      "scwomen": 19,
+      "scgeneral": 29,
+      "generalwomen": 93,
+      "general": 189,
+      "stgeneral": 2,
+      "stwomen": 1
+    }
+  },
+  {
+    "district": "ERODE DISTRICT",
+    "unions": 14,
+    "rows": 225,
+    "first_page": 71,
+    "last_page": 72,
+    "category_counts": {
+      "scgeneral": 22,
+      "generalwomen": 61,
+      "general": 122,
+      "scwomen": 18,
+      "stgeneral": 2
+    }
+  },
+  {
+    "district": "COIMBATORE DISTRICT",
+    "unions": 12,
+    "rows": 228,
+    "first_page": 73,
+    "last_page": 75,
+    "category_counts": {
+      "scwomen": 18,
+      "scgeneral": 28,
+      "generalwomen": 62,
+      "general": 118,
+      "stgeneral": 2
+    }
+  },
+  {
+    "district": "TIRUPUR DISTRICT",
+    "unions": 13,
+    "rows": 265,
+    "first_page": 76,
+    "last_page": 78,
+    "category_counts": {
+      "scwomen": 24,
+      "scgeneral": 36,
+      "generalwomen": 70,
+      "general": 135
+    }
+  },
+  {
+    "district": "NILGIRIS DISTRICT",
+    "unions": 4,
+    "rows": 35,
+    "first_page": 79,
+    "last_page": 79,
+    "category_counts": {
+      "scwomen": 3,
+      "scgeneral": 7,
+      "generalwomen": 10,
+      "general": 13,
+      "stgeneral": 2
+    }
+  },
+  {
+    "district": "THANJAVUR DISTRICT",
+    "unions": 14,
+    "rows": 589,
+    "first_page": 80,
+    "last_page": 85,
+    "category_counts": {
+      "scwomen": 49,
+      "scgeneral": 84,
+      "generalwomen": 153,
+      "general": 303
+    }
+  },
+  {
+    "district": "NAGAPATTINAM DISTRICT",
+    "unions": 11,
+    "rows": 434,
+    "first_page": 86,
+    "last_page": 89,
+    "category_counts": {
+      "scwomen": 54,
+      "scgeneral": 98,
+      "generalwomen": 92,
+      "general": 190
+    }
+  },
+  {
+    "district": "TIRUVARUR DISTRICT",
+    "unions": 10,
+    "rows": 430,
+    "first_page": 90,
+    "last_page": 94,
+    "category_counts": {
+      "scwomen": 56,
+      "scgeneral": 101,
+      "generalwomen": 91,
+      "general": 182
+    }
+  },
+  {
+    "district": "TIRUCHIRAPALLI DISTRICT",
+    "unions": 14,
+    "rows": 404,
+    "first_page": 95,
+    "last_page": 101,
+    "category_counts": {
+      "scwomen": 35,
+      "scgeneral": 51,
+      "generalwomen": 103,
+      "general": 212,
+      "stwomen": 1,
+      "stgeneral": 2
+    }
+  },
+  {
+    "district": "KARUR DISTRICT",
+    "unions": 8,
+    "rows": 157,
+    "first_page": 102,
+    "last_page": 103,
+    "category_counts": {
+      "scwomen": 16,
+      "scgeneral": 22,
+      "generalwomen": 39,
+      "general": 80
+    }
+  },
+  {
+    "district": "PERAMBALUR DISTRICT",
+    "unions": 4,
+    "rows": 121,
+    "first_page": 104,
+    "last_page": 105,
+    "category_counts": {
+      "scwomen": 14,
+      "scgeneral": 23,
+      "generalwomen": 27,
+      "general": 57
+    }
+  },
+  {
+    "district": "ARIYALUR DISTRICT",
+    "unions": 6,
+    "rows": 201,
+    "first_page": 106,
+    "last_page": 108,
+    "category_counts": {
+      "scwomen": 17,
+      "scgeneral": 28,
+      "generalwomen": 51,
+      "general": 102,
+      "stgeneral": 3
+    }
+  },
+  {
+    "district": "PUDUKKOTTAI DISTRICT",
+    "unions": 13,
+    "rows": 497,
+    "first_page": 109,
+    "last_page": 113,
+    "category_counts": {
+      "scwomen": 36,
+      "scgeneral": 57,
+      "generalwomen": 133,
+      "general": 271
+    }
+  },
+  {
+    "district": "MADURAI DISTRICT",
+    "unions": 13,
+    "rows": 420,
+    "first_page": 114,
+    "last_page": 118,
+    "category_counts": {
+      "scwomen": 32,
+      "scgeneral": 51,
+      "generalwomen": 111,
+      "general": 226
+    }
+  },
+  {
+    "district": "Theni District",
+    "unions": 8,
+    "rows": 130,
+    "first_page": 119,
+    "last_page": 120,
+    "category_counts": {
+      "scwomen": 13,
+      "scgeneral": 19,
+      "generalwomen": 32,
+      "general": 66
+    }
+  },
+  {
+    "district": "DINDIGUL DISTRICT",
+    "unions": 14,
+    "rows": 306,
+    "first_page": 121,
+    "last_page": 124,
+    "category_counts": {
+      "scwomen": 26,
+      "scgeneral": 39,
+      "generalwomen": 80,
+      "general": 161
+    }
+  },
+  {
+    "district": "RAMANATHAPURAM DISTRICT",
+    "unions": 11,
+    "rows": 429,
+    "first_page": 125,
+    "last_page": 129,
+    "category_counts": {
+      "scwomen": 35,
+      "scgeneral": 63,
+      "generalwomen": 112,
+      "general": 219
+    }
+  },
+  {
+    "district": "VIRUDHUNAGAR DISTRICT",
+    "unions": 11,
+    "rows": 450,
+    "first_page": 130,
+    "last_page": 135,
+    "category_counts": {
+      "scwomen": 39,
+      "scgeneral": 63,
+      "generalwomen": 114,
+      "general": 234
+    }
+  },
+  {
+    "district": "SIVAGANGAI DISTRICT",
+    "unions": 12,
+    "rows": 445,
+    "first_page": 136,
+    "last_page": 140,
+    "category_counts": {
+      "scwomen": 33,
+      "scgeneral": 52,
+      "generalwomen": 119,
+      "general": 241
+    }
+  },
+  {
+    "district": "Tirunelveli District",
+    "unions": 19,
+    "rows": 425,
+    "first_page": 141,
+    "last_page": 146,
+    "category_counts": {
+      "scwomen": 40,
+      "scgeneral": 54,
+      "generalwomen": 106,
+      "general": 225
+    }
+  },
+  {
+    "district": "THOOTHUKUDI DISTRICT",
+    "unions": 12,
+    "rows": 403,
+    "first_page": 147,
+    "last_page": 151,
+    "category_counts": {
+      "scwomen": 38,
+      "scgeneral": 64,
+      "generalwomen": 101,
+      "general": 200
+    }
+  },
+  {
+    "district": "KANNIYAKUMARI DISTRICT",
+    "unions": 9,
+    "rows": 95,
+    "first_page": 152,
+    "last_page": 153,
+    "category_counts": {
+      "scwomen": 2,
+      "scgeneral": 3,
+      "generalwomen": 33,
+      "general": 57
+    }
+  }
+]

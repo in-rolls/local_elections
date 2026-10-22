@@ -1,0 +1,4562 @@
+{
+  "version": 3,
+  "source_path": "data/wb/gp_source_search/alipurduar_2018_results/extracted/FinalResultofPGE2018/ALL GP PS ZP IA TO IIC/MDT/A1B1C1A2B2C2.PDF",
+  "source_sha256": "bdee20d0b659b47ee0c5e0794ee4173ed4569f2b7e1ac1a32bed1ec439ecdf77",
+  "source_page": 20,
+  "dpi": 300,
+  "engine": "tesseract 5.5.2",
+  "rotation_clockwise": 270,
+  "orientation_score": 12,
+  "osd": "Page number: 0\nOrientation in degrees: 90\nRotate: 270\nOrientation confidence: 11.58\nScript: Latin\nScript confidence: 0.76\n",
+  "deskew_degrees": 0.07145008239607219,
+  "width": 3508,
+  "height": 2480,
+  "x_edges": [
+    170,
+    304,
+    640,
+    1027,
+    1300,
+    1482,
+    1673,
+    1856,
+    2313,
+    2566,
+    2828,
+    3260,
+    3441
+  ],
+  "column_y_edges": [
+    [
+      93,
+      314,
+      373,
+      552,
+      613,
+      863,
+      906
+    ],
+    [
+      92,
+      313,
+      372,
+      552,
+      612,
+      862,
+      906
+    ],
+    [
+      91,
+      312,
+      371,
+      551,
+      611,
+      862,
+      904
+    ],
+    [
+      91,
+      312,
+      371,
+      550,
+      611,
+      862,
+      904
+    ],
+    [
+      90,
+      150,
+      311,
+      371,
+      430,
+      490,
+      550,
+      610,
+      671,
+      732,
+      792,
+      862,
+      904
+    ],
+    [
+      90,
+      150,
+      311,
+      370,
+      430,
+      490,
+      550,
+      610,
+      670,
+      731,
+      792,
+      862,
+      903
+    ],
+    [
+      90,
+      150,
+      311,
+      370,
+      430,
+      490,
+      550,
+      610,
+      670,
+      731,
+      792,
+      862,
+      903
+    ],
+    [
+      90,
+      311,
+      371,
+      430,
+      490,
+      550,
+      611,
+      671,
+      732,
+      792,
+      861,
+      904
+    ],
+    [
+      90,
+      311,
+      371,
+      430,
+      490,
+      550,
+      610,
+      671,
+      732,
+      792,
+      861,
+      903
+    ],
+    [
+      91,
+      311,
+      371,
+      430,
+      490,
+      550,
+      611,
+      671,
+      732,
+      792,
+      862,
+      904
+    ],
+    [
+      92,
+      312,
+      372,
+      431,
+      491,
+      551,
+      611,
+      672,
+      732,
+      793,
+      862,
+      904
+    ],
+    [
+      92,
+      313,
+      373,
+      432,
+      492,
+      552,
+      612,
+      672,
+      733,
+      794,
+      863,
+      906
+    ]
+  ],
+  "words_original": [
+    {
+      "text": "No.",
+      "x": 714.5,
+      "y": 147.0,
+      "confidence": 93.26873
+    },
+    {
+      "text": "&",
+      "x": 766.5,
+      "y": 146.0,
+      "confidence": 93.26873
+    },
+    {
+      "text": "Name",
+      "x": 837.0,
+      "y": 147.0,
+      "confidence": 97.013771
+    },
+    {
+      "text": "of",
+      "x": 910.5,
+      "y": 146.0,
+      "confidence": 97.014786
+    },
+    {
+      "text": "GP",
+      "x": 960.5,
+      "y": 146.0,
+      "confidence": 96.961586
+    },
+    {
+      "text": "Reservation",
+      "x": 1165.0,
+      "y": 133.0,
+      "confidence": 96.954399
+    },
+    {
+      "text": "Number",
+      "x": 1554.0,
+      "y": 119.0,
+      "confidence": 96.362129
+    },
+    {
+      "text": "of",
+      "x": 1648.5,
+      "y": 118.0,
+      "confidence": 96.938148
+    },
+    {
+      "text": "Name",
+      "x": 398.5,
+      "y": 175.0,
+      "confidence": 96.109726
+    },
+    {
+      "text": "of",
+      "x": 474.5,
+      "y": 174.0,
+      "confidence": 96.109726
+    },
+    {
+      "text": "Gram",
+      "x": 548.5,
+      "y": 174.0,
+      "confidence": 96.814178
+    },
+    {
+      "text": ":",
+      "x": 790.5,
+      "y": 187.0,
+      "confidence": 43.290108
+    },
+    {
+      "text": ":",
+      "x": 948.0,
+      "y": 186.5,
+      "confidence": 0.0
+    },
+    {
+      "text": "Status",
+      "x": 1165.0,
+      "y": 172.0,
+      "confidence": 96.790955
+    },
+    {
+      "text": "Name",
+      "x": 1967.0,
+      "y": 173.0,
+      "confidence": 96.57618
+    },
+    {
+      "text": "of",
+      "x": 2045.0,
+      "y": 172.5,
+      "confidence": 96.616463
+    },
+    {
+      "text": "Contesting",
+      "x": 2162.5,
+      "y": 176.5,
+      "confidence": 96.28344
+    },
+    {
+      "text": "Party",
+      "x": 2441.5,
+      "y": 177.5,
+      "confidence": 97.007004
+    },
+    {
+      "text": "Name",
+      "x": 2923.0,
+      "y": 173.0,
+      "confidence": 96.457985
+    },
+    {
+      "text": "of",
+      "x": 3000.0,
+      "y": 173.5,
+      "confidence": 96.846634
+    },
+    {
+      "text": "the",
+      "x": 3051.5,
+      "y": 173.5,
+      "confidence": 96.582352
+    },
+    {
+      "text": "winning",
+      "x": 3151.5,
+      "y": 178.0,
+      "confidence": 96.584297
+    },
+    {
+      "text": "Party",
+      "x": 3354.0,
+      "y": 179.0,
+      "confidence": 96.847603
+    },
+    {
+      "text": "I.No.",
+      "x": 245.5,
+      "y": 202.0,
+      "confidence": 37.618484
+    },
+    {
+      "text": "Constituency",
+      "x": 786.0,
+      "y": 199.0,
+      "confidence": 96.334938
+    },
+    {
+      "text": "with",
+      "x": 949.5,
+      "y": 199.0,
+      "confidence": 96.390739
+    },
+    {
+      "text": ":",
+      "x": 2087.0,
+      "y": 212.0,
+      "confidence": 19.009457
+    },
+    {
+      "text": "Sah",
+      "x": 2450.5,
+      "y": 212.0,
+      "confidence": 30.636845
+    },
+    {
+      "text": "Votes",
+      "x": 2625.5,
+      "y": 199.5,
+      "confidence": 96.345924
+    },
+    {
+      "text": "secured",
+      "x": 2749.5,
+      "y": 199.5,
+      "confidence": 96.594475
+    },
+    {
+      "text": ":",
+      "x": 3054.0,
+      "y": 213.0,
+      "confidence": 47.298363
+    },
+    {
+      "text": "os",
+      "x": 3366.0,
+      "y": 214.5,
+      "confidence": 0.017843
+    },
+    {
+      "text": "SINo.",
+      "x": 229.5,
+      "y": 202.0,
+      "confidence": 44.119446
+    },
+    {
+      "text": "|",
+      "x": 304.5,
+      "y": 219.0,
+      "confidence": 79.34903
+    },
+    {
+      "text": "panchayat",
+      "x": 474.0,
+      "y": 231.0,
+      "confidence": 58.325733
+    },
+    {
+      "text": "y",
+      "x": 897.0,
+      "y": 207.5,
+      "confidence": 55.53587
+    },
+    {
+      "text": "(SCISCWISTIS|",
+      "x": 1165.0,
+      "y": 229.0,
+      "confidence": 86.930656
+    },
+    {
+      "text": "Electors",
+      "x": 1391.5,
+      "y": 231.0,
+      "confidence": 89.578979
+    },
+    {
+      "text": "|",
+      "x": 1494.5,
+      "y": 219.5,
+      "confidence": 83.451195
+    },
+    {
+      "text": "YOtes",
+      "x": 1577.5,
+      "y": 204.0,
+      "confidence": 32.299599
+    },
+    {
+      "text": "|",
+      "x": 1672.0,
+      "y": 219.5,
+      "confidence": 89.982101
+    },
+    {
+      "text": "Votes",
+      "x": 1765.5,
+      "y": 217.0,
+      "confidence": 85.361389
+    },
+    {
+      "text": "Candidates",
+      "x": 2087.0,
+      "y": 220.0,
+      "confidence": 96.340607
+    },
+    {
+      "text": "affiliation",
+      "x": 2440.5,
+      "y": 220.0,
+      "confidence": 96.470222
+    },
+    {
+      "text": "candidate",
+      "x": 3048.0,
+      "y": 226.0,
+      "confidence": 96.977402
+    },
+    {
+      "text": "Affiliation",
+      "x": 3351.0,
+      "y": 227.0,
+      "confidence": 94.874405
+    },
+    {
+      "text": "seat",
+      "x": 805.0,
+      "y": 253.0,
+      "confidence": 96.749306
+    },
+    {
+      "text": "No.",
+      "x": 876.5,
+      "y": 252.5,
+      "confidence": 95.892593
+    },
+    {
+      "text": "Polled",
+      "x": 1578.0,
+      "y": 256.0,
+      "confidence": 91.09906
+    },
+    {
+      "text": "|",
+      "x": 1668.0,
+      "y": 260.5,
+      "confidence": 95.353462
+    },
+    {
+      "text": "Rejected",
+      "x": 1766.0,
+      "y": 260.5,
+      "confidence": 96.09697
+    },
+    {
+      "text": "TW)",
+      "x": 1164.5,
+      "y": 282.5,
+      "confidence": 0.0
+    },
+    {
+      "text": "1",
+      "x": 232.0,
+      "y": 336.0,
+      "confidence": 89.716049
+    },
+    {
+      "text": "2",
+      "x": 472.0,
+      "y": 335.5,
+      "confidence": 97.014702
+    },
+    {
+      "text": "3",
+      "x": 838.0,
+      "y": 334.5,
+      "confidence": 96.915794
+    },
+    {
+      "text": "4",
+      "x": 1165.5,
+      "y": 334.0,
+      "confidence": 97.011345
+    },
+    {
+      "text": "5",
+      "x": 1391.5,
+      "y": 334.0,
+      "confidence": 96.944321
+    },
+    {
+      "text": "6",
+      "x": 1578.5,
+      "y": 333.5,
+      "confidence": 96.900818
+    },
+    {
+      "text": "7",
+      "x": 1766.0,
+      "y": 341.0,
+      "confidence": 96.850868
+    },
+    {
+      "text": "8",
+      "x": 2088.5,
+      "y": 334.0,
+      "confidence": 96.795647
+    },
+    {
+      "text": "9",
+      "x": 2439.5,
+      "y": 334.0,
+      "confidence": 85.117538
+    },
+    {
+      "text": "10",
+      "x": 2697.5,
+      "y": 334.0,
+      "confidence": 96.927666
+    },
+    {
+      "text": "14",
+      "x": 3047.5,
+      "y": 334.5,
+      "confidence": 83.69149
+    },
+    {
+      "text": "12",
+      "x": 3352.5,
+      "y": 335.5,
+      "confidence": 96.928574
+    },
+    {
+      "text": "963",
+      "x": 1392.0,
+      "y": 402.0,
+      "confidence": 96.453308
+    },
+    {
+      "text": "672",
+      "x": 1579.5,
+      "y": 401.0,
+      "confidence": 96.743576
+    },
+    {
+      "text": "65",
+      "x": 1767.0,
+      "y": 401.0,
+      "confidence": 40.448257
+    },
+    {
+      "text": "|PANCHU",
+      "x": 1927.0,
+      "y": 402.0,
+      "confidence": 62.31263
+    },
+    {
+      "text": "INDUYAR",
+      "x": 2070.0,
+      "y": 402.0,
+      "confidence": 90.7342
+    },
+    {
+      "text": "BJP",
+      "x": 2441.0,
+      "y": 402.0,
+      "confidence": 50.506096
+    },
+    {
+      "text": "134",
+      "x": 2698.5,
+      "y": 402.0,
+      "confidence": 96.824036
+    },
+    {
+      "text": "139",
+      "x": 235.0,
+      "y": 461.5,
+      "confidence": 42.432053
+    },
+    {
+      "text": "|SISHUJHUMRA",
+      "x": 421.5,
+      "y": 461.5,
+      "confidence": 37.503876
+    },
+    {
+      "text": "SISHUJHUMRA",
+      "x": 757.0,
+      "y": 460.0,
+      "confidence": 91.878151
+    },
+    {
+      "text": "/",
+      "x": 872.0,
+      "y": 460.0,
+      "confidence": 92.244308
+    },
+    {
+      "text": "XVII-17",
+      "x": 946.5,
+      "y": 459.5,
+      "confidence": 80.111473
+    },
+    {
+      "text": "BUAY",
+      "x": 1903.5,
+      "y": 461.0,
+      "confidence": 76.117241
+    },
+    {
+      "text": "EKKA",
+      "x": 1990.0,
+      "y": 461.5,
+      "confidence": 90.079506
+    },
+    {
+      "text": "AITC",
+      "x": 2440.5,
+      "y": 461.0,
+      "confidence": 93.055679
+    },
+    {
+      "text": "444",
+      "x": 2697.0,
+      "y": 461.5,
+      "confidence": 96.182068
+    },
+    {
+      "text": "BUAY",
+      "x": 2875.5,
+      "y": 462.0,
+      "confidence": 91.408691
+    },
+    {
+      "text": "EKKA",
+      "x": 2963.0,
+      "y": 462.0,
+      "confidence": 92.662643
+    },
+    {
+      "text": "AITC",
+      "x": 3351.0,
+      "y": 463.0,
+      "confidence": 92.827972
+    },
+    {
+      "text": "MANJOO",
+      "x": 1931.0,
+      "y": 521.5,
+      "confidence": 91.78019
+    },
+    {
+      "text": "PANNA",
+      "x": 2063.0,
+      "y": 521.0,
+      "confidence": 96.413307
+    },
+    {
+      "text": "RSP",
+      "x": 2440.5,
+      "y": 521.5,
+      "confidence": 95.591827
+    },
+    {
+      "text": "29",
+      "x": 2697.0,
+      "y": 521.5,
+      "confidence": 97.014847
+    },
+    {
+      "text": "839",
+      "x": 1392.5,
+      "y": 642.5,
+      "confidence": 96.531479
+    },
+    {
+      "text": "595",
+      "x": 1580.5,
+      "y": 641.5,
+      "confidence": 96.248077
+    },
+    {
+      "text": "56",
+      "x": 1768.0,
+      "y": 642.0,
+      "confidence": 57.857494
+    },
+    {
+      "text": "AKASH",
+      "x": 1912.5,
+      "y": 642.5,
+      "confidence": 31.909533
+    },
+    {
+      "text": "EKKA",
+      "x": 2011.5,
+      "y": 642.0,
+      "confidence": 91.98896
+    },
+    {
+      "text": "BJP",
+      "x": 2440.0,
+      "y": 642.5,
+      "confidence": 72.72213
+    },
+    {
+      "text": "169",
+      "x": 2697.5,
+      "y": 642.5,
+      "confidence": 95.388229
+    },
+    {
+      "text": "KRISHNA",
+      "x": 1929.0,
+      "y": 702.5,
+      "confidence": 92.886383
+    },
+    {
+      "text": "MINJ",
+      "x": 2041.0,
+      "y": 703.0,
+      "confidence": 91.464752
+    },
+    {
+      "text": "AITC",
+      "x": 2439.5,
+      "y": 702.5,
+      "confidence": 92.663658
+    },
+    {
+      "text": "215",
+      "x": 2697.0,
+      "y": 702.5,
+      "confidence": 96.7005
+    },
+    {
+      "text": "KRISHNA",
+      "x": 2902.0,
+      "y": 703.0,
+      "confidence": 93.292984
+    },
+    {
+      "text": "MINJ",
+      "x": 3013.5,
+      "y": 703.5,
+      "confidence": 92.906364
+    },
+    {
+      "text": "AITC",
+      "x": 3349.5,
+      "y": 704.5,
+      "confidence": 93.048363
+    },
+    {
+      "text": "140",
+      "x": 236.5,
+      "y": 733.0,
+      "confidence": 60.660198
+    },
+    {
+      "text": "|SISHUJHUMRA",
+      "x": 422.5,
+      "y": 732.5,
+      "confidence": 42.979233
+    },
+    {
+      "text": "SISHUJHUMRA",
+      "x": 757.5,
+      "y": 731.0,
+      "confidence": 92.147194
+    },
+    {
+      "text": "/",
+      "x": 873.0,
+      "y": 731.0,
+      "confidence": 86.219658
+    },
+    {
+      "text": "XVIII-18",
+      "x": 951.0,
+      "y": 731.0,
+      "confidence": 71.552292
+    },
+    {
+      "text": "|",
+      "x": 1034.0,
+      "y": 731.0,
+      "confidence": 96.485168
+    },
+    {
+      "text": "SCHEDULE",
+      "x": 1118.0,
+      "y": 731.0,
+      "confidence": 96.680222
+    },
+    {
+      "text": "TRIBE",
+      "x": 1246.5,
+      "y": 731.0,
+      "confidence": 96.850517
+    },
+    {
+      "text": "MENOKA",
+      "x": 1932.0,
+      "y": 763.5,
+      "confidence": 92.383537
+    },
+    {
+      "text": "TOPPO",
+      "x": 2060.0,
+      "y": 763.5,
+      "confidence": 91.717308
+    },
+    {
+      "text": "INC",
+      "x": 2440.0,
+      "y": 763.0,
+      "confidence": 92.517403
+    },
+    {
+      "text": "144",
+      "x": 2697.5,
+      "y": 763.5,
+      "confidence": 96.206848
+    },
+    {
+      "text": "SILBANUS",
+      "x": 1935.5,
+      "y": 824.0,
+      "confidence": 92.797958
+    },
+    {
+      "text": "TOPPO",
+      "x": 2068.0,
+      "y": 823.5,
+      "confidence": 92.142448
+    },
+    {
+      "text": "IND",
+      "x": 2440.0,
+      "y": 824.0,
+      "confidence": 96.638885
+    },
+    {
+      "text": "11",
+      "x": 2697.0,
+      "y": 824.0,
+      "confidence": 95.508263
+    },
+    {
+      "text": "Block",
+      "x": 2724.5,
+      "y": 1011.0,
+      "confidence": 96.964409
+    },
+    {
+      "text": "Development",
+      "x": 2903.5,
+      "y": 1015.5,
+      "confidence": 96.785873
+    },
+    {
+      "text": "Officer",
+      "x": 3108.0,
+      "y": 1011.5,
+      "confidence": 96.315895
+    },
+    {
+      "text": "Madarjhat-Birpara",
+      "x": 2858.0,
+      "y": 1070.0,
+      "confidence": 58.567299
+    },
+    {
+      "text": "Block",
+      "x": 3079.5,
+      "y": 1066.5,
+      "confidence": 96.710526
+    },
+    {
+      "text": "lock",
+      "x": 2855.5,
+      "y": 1101.5,
+      "confidence": 77.310204
+    },
+    {
+      "text": "Development",
+      "x": 2990.0,
+      "y": 1113.5,
+      "confidence": 95.587921
+    },
+    {
+      "text": "Officer”",
+      "x": 3153.5,
+      "y": 1127.5,
+      "confidence": 39.786953
+    },
+    {
+      "text": "&",
+      "x": 2993.0,
+      "y": 1165.5,
+      "confidence": 93.242455
+    },
+    {
+      "text": "Panchayat",
+      "x": 2858.5,
+      "y": 1200.5,
+      "confidence": 62.918945
+    },
+    {
+      "text": "Retrrn;",
+      "x": 2999.0,
+      "y": 1212.0,
+      "confidence": 25.85548
+    },
+    {
+      "text": "ce",
+      "x": 2852.0,
+      "y": 1227.5,
+      "confidence": 16.674318
+    },
+    {
+      "text": "at",
+      "x": 2924.5,
+      "y": 1224.5,
+      "confidence": 28.271379
+    },
+    {
+      "text": "Returning",
+      "x": 3019.0,
+      "y": 1220.5,
+      "confidence": 47.036568
+    },
+    {
+      "text": "Off",
+      "x": 3122.0,
+      "y": 1229.5,
+      "confidence": 69.379166
+    },
+    {
+      "text": "Madarihat-Birpara",
+      "x": 2844.5,
+      "y": 1254.0,
+      "confidence": 54.292446
+    },
+    {
+      "text": "Shick",
+      "x": 3040.0,
+      "y": 1253.5,
+      "confidence": 0.0
+    },
+    {
+      "text": "ri",
+      "x": 3146.5,
+      "y": 1261.0,
+      "confidence": 46.579823
+    },
+    {
+      "text": "Countersigned",
+      "x": 2695.5,
+      "y": 1302.5,
+      "confidence": 92.407158
+    },
+    {
+      "text": "by",
+      "x": 2851.0,
+      "y": 1302.5,
+      "confidence": 96.973228
+    },
+    {
+      "text": "»",
+      "x": 3083.5,
+      "y": 1289.5,
+      "confidence": 7.149258
+    },
+    {
+      "text": "Mipurduar",
+      "x": 3193.0,
+      "y": 1293.5,
+      "confidence": 49.634171
+    },
+    {
+      "text": "Block",
+      "x": 3105.5,
+      "y": 1353.0,
+      "confidence": 96.762367
+    },
+    {
+      "text": "Observer",
+      "x": 3243.5,
+      "y": 1353.0,
+      "confidence": 96.498207
+    }
+  ],
+  "words_clean": [
+    {
+      "text": "No.",
+      "x": 710.0,
+      "y": 147.0,
+      "confidence": 93.202423
+    },
+    {
+      "text": "&",
+      "x": 766.5,
+      "y": 146.5,
+      "confidence": 93.202423
+    },
+    {
+      "text": "Name",
+      "x": 837.0,
+      "y": 147.0,
+      "confidence": 96.816238
+    },
+    {
+      "text": "of",
+      "x": 910.5,
+      "y": 146.0,
+      "confidence": 97.002533
+    },
+    {
+      "text": "GP",
+      "x": 960.5,
+      "y": 146.0,
+      "confidence": 96.547775
+    },
+    {
+      "text": "Reservation",
+      "x": 1165.0,
+      "y": 124.0,
+      "confidence": 96.537628
+    },
+    {
+      "text": "Number",
+      "x": 1554.0,
+      "y": 119.0,
+      "confidence": 96.877914
+    },
+    {
+      "text": "of",
+      "x": 1648.5,
+      "y": 118.0,
+      "confidence": 97.004379
+    },
+    {
+      "text": "Name",
+      "x": 398.5,
+      "y": 175.0,
+      "confidence": 96.109726
+    },
+    {
+      "text": "of",
+      "x": 474.5,
+      "y": 174.0,
+      "confidence": 96.109726
+    },
+    {
+      "text": "Gram",
+      "x": 548.5,
+      "y": 174.0,
+      "confidence": 96.814178
+    },
+    {
+      "text": "sail",
+      "x": 765.0,
+      "y": 173.0,
+      "confidence": 32.912048
+    },
+    {
+      "text": ":",
+      "x": 948.0,
+      "y": 186.5,
+      "confidence": 0.0
+    },
+    {
+      "text": "Status",
+      "x": 1165.0,
+      "y": 177.5,
+      "confidence": 96.790955
+    },
+    {
+      "text": "Name",
+      "x": 1967.0,
+      "y": 173.0,
+      "confidence": 96.57618
+    },
+    {
+      "text": "of",
+      "x": 2045.5,
+      "y": 172.5,
+      "confidence": 96.616463
+    },
+    {
+      "text": "Contesting",
+      "x": 2162.5,
+      "y": 176.5,
+      "confidence": 96.28344
+    },
+    {
+      "text": "Party",
+      "x": 2441.0,
+      "y": 177.5,
+      "confidence": 97.002846
+    },
+    {
+      "text": "Name",
+      "x": 2923.0,
+      "y": 173.5,
+      "confidence": 96.457985
+    },
+    {
+      "text": "of",
+      "x": 3000.0,
+      "y": 173.5,
+      "confidence": 96.846634
+    },
+    {
+      "text": "the",
+      "x": 3051.5,
+      "y": 174.0,
+      "confidence": 96.582352
+    },
+    {
+      "text": "winning",
+      "x": 3151.5,
+      "y": 178.0,
+      "confidence": 96.584297
+    },
+    {
+      "text": "Party",
+      "x": 3354.0,
+      "y": 179.0,
+      "confidence": 96.847603
+    },
+    {
+      "text": "SIN.",
+      "x": 234.0,
+      "y": 202.0,
+      "confidence": 41.068478
+    },
+    {
+      "text": "“Panchayat",
+      "x": 474.0,
+      "y": 231.0,
+      "confidence": 57.636543
+    },
+    {
+      "text": "«Constituency",
+      "x": 795.5,
+      "y": 203.0,
+      "confidence": 17.044926
+    },
+    {
+      "text": "with",
+      "x": 949.5,
+      "y": 199.0,
+      "confidence": 17.044926
+    },
+    {
+      "text": "cc",
+      "x": 1075.0,
+      "y": 229.5,
+      "confidence": 0.0
+    },
+    {
+      "text": "iscwistis",
+      "x": 1194.5,
+      "y": 225.0,
+      "confidence": 0.0
+    },
+    {
+      "text": "Electors",
+      "x": 1391.5,
+      "y": 231.0,
+      "confidence": 92.351967
+    },
+    {
+      "text": "Votes",
+      "x": 1578.0,
+      "y": 204.0,
+      "confidence": 48.060764
+    },
+    {
+      "text": "_",
+      "x": 1695.5,
+      "y": 218.0,
+      "confidence": 42.066856
+    },
+    {
+      "text": "Votes",
+      "x": 1765.5,
+      "y": 217.0,
+      "confidence": 58.701801
+    },
+    {
+      "text": "Candidates",
+      "x": 2087.0,
+      "y": 219.0,
+      "confidence": 96.524315
+    },
+    {
+      "text": "affiliation",
+      "x": 2440.5,
+      "y": 225.0,
+      "confidence": 58.546177
+    },
+    {
+      "text": "V's",
+      "x": 2625.5,
+      "y": 199.5,
+      "confidence": 34.680649
+    },
+    {
+      "text": "secured",
+      "x": 2749.5,
+      "y": 199.5,
+      "confidence": 96.605469
+    },
+    {
+      "text": "candidate",
+      "x": 3048.0,
+      "y": 226.0,
+      "confidence": 94.418198
+    },
+    {
+      "text": "Affiliation",
+      "x": 3351.5,
+      "y": 227.0,
+      "confidence": 87.618774
+    },
+    {
+      "text": "seat",
+      "x": 805.0,
+      "y": 253.0,
+      "confidence": 96.749306
+    },
+    {
+      "text": "No.",
+      "x": 876.5,
+      "y": 252.5,
+      "confidence": 95.892593
+    },
+    {
+      "text": "Polled",
+      "x": 1578.0,
+      "y": 256.0,
+      "confidence": 92.461861
+    },
+    {
+      "text": "Rejected",
+      "x": 1766.0,
+      "y": 260.5,
+      "confidence": 88.153839
+    },
+    {
+      "text": "TWIW)",
+      "x": 1164.5,
+      "y": 282.5,
+      "confidence": 55.498535
+    },
+    {
+      "text": "1",
+      "x": 232.0,
+      "y": 336.0,
+      "confidence": 96.873299
+    },
+    {
+      "text": "2",
+      "x": 472.0,
+      "y": 335.5,
+      "confidence": 96.994957
+    },
+    {
+      "text": "3",
+      "x": 838.0,
+      "y": 334.5,
+      "confidence": 96.105293
+    },
+    {
+      "text": "4",
+      "x": 1165.5,
+      "y": 334.0,
+      "confidence": 97.005043
+    },
+    {
+      "text": "5",
+      "x": 1391.5,
+      "y": 334.0,
+      "confidence": 96.78904
+    },
+    {
+      "text": "6",
+      "x": 1578.5,
+      "y": 333.5,
+      "confidence": 96.714836
+    },
+    {
+      "text": "7",
+      "x": 1766.0,
+      "y": 341.0,
+      "confidence": 96.484337
+    },
+    {
+      "text": "8",
+      "x": 2088.5,
+      "y": 334.0,
+      "confidence": 96.413414
+    },
+    {
+      "text": "9",
+      "x": 2439.5,
+      "y": 334.0,
+      "confidence": 96.826553
+    },
+    {
+      "text": "10",
+      "x": 2697.5,
+      "y": 334.0,
+      "confidence": 96.85939
+    },
+    {
+      "text": "11",
+      "x": 3047.5,
+      "y": 334.5,
+      "confidence": 92.731499
+    },
+    {
+      "text": "12",
+      "x": 3352.5,
+      "y": 335.5,
+      "confidence": 96.891815
+    },
+    {
+      "text": "963",
+      "x": 1392.0,
+      "y": 401.5,
+      "confidence": 96.032005
+    },
+    {
+      "text": "672",
+      "x": 1580.0,
+      "y": 401.0,
+      "confidence": 96.888924
+    },
+    {
+      "text": "65",
+      "x": 1767.0,
+      "y": 401.0,
+      "confidence": 33.752808
+    },
+    {
+      "text": " PANCHU",
+      "x": 1927.0,
+      "y": 402.0,
+      "confidence": 33.752808
+    },
+    {
+      "text": "INDUYAR",
+      "x": 2070.0,
+      "y": 402.0,
+      "confidence": 88.441734
+    },
+    {
+      "text": "BJP",
+      "x": 2441.0,
+      "y": 402.0,
+      "confidence": 96.274254
+    },
+    {
+      "text": "134",
+      "x": 2698.5,
+      "y": 402.0,
+      "confidence": 95.945396
+    },
+    {
+      "text": "139",
+      "x": 235.0,
+      "y": 461.5,
+      "confidence": 46.344849
+    },
+    {
+      "text": "SISHUJHUMRA",
+      "x": 421.5,
+      "y": 461.5,
+      "confidence": 66.449036
+    },
+    {
+      "text": "SISHUJHUMRA",
+      "x": 757.0,
+      "y": 460.0,
+      "confidence": 91.500854
+    },
+    {
+      "text": "/",
+      "x": 880.0,
+      "y": 460.5,
+      "confidence": 92.50351
+    },
+    {
+      "text": "XVII-17",
+      "x": 946.5,
+      "y": 459.5,
+      "confidence": 91.573082
+    },
+    {
+      "text": "BUAY",
+      "x": 1903.0,
+      "y": 461.0,
+      "confidence": 47.819382
+    },
+    {
+      "text": "EKKA",
+      "x": 1990.0,
+      "y": 461.0,
+      "confidence": 90.810417
+    },
+    {
+      "text": "AITC",
+      "x": 2440.0,
+      "y": 461.0,
+      "confidence": 90.780235
+    },
+    {
+      "text": "444",
+      "x": 2697.0,
+      "y": 461.5,
+      "confidence": 95.303986
+    },
+    {
+      "text": "BUAY",
+      "x": 2875.5,
+      "y": 462.0,
+      "confidence": 57.063526
+    },
+    {
+      "text": "EKKA",
+      "x": 2963.0,
+      "y": 462.0,
+      "confidence": 91.890594
+    },
+    {
+      "text": "AITC",
+      "x": 3351.0,
+      "y": 463.0,
+      "confidence": 90.115356
+    },
+    {
+      "text": "MANJOO",
+      "x": 1931.0,
+      "y": 521.5,
+      "confidence": 92.969093
+    },
+    {
+      "text": "PANNA",
+      "x": 2063.0,
+      "y": 521.0,
+      "confidence": 96.808357
+    },
+    {
+      "text": "RSP",
+      "x": 2440.5,
+      "y": 521.5,
+      "confidence": 96.772964
+    },
+    {
+      "text": "29",
+      "x": 2697.0,
+      "y": 521.5,
+      "confidence": 97.008118
+    },
+    {
+      "text": "839",
+      "x": 1392.5,
+      "y": 642.5,
+      "confidence": 92.242371
+    },
+    {
+      "text": "595",
+      "x": 1580.0,
+      "y": 641.5,
+      "confidence": 96.947441
+    },
+    {
+      "text": "56",
+      "x": 1768.0,
+      "y": 642.0,
+      "confidence": 64.430458
+    },
+    {
+      "text": "AKASH",
+      "x": 1912.5,
+      "y": 642.5,
+      "confidence": 88.966972
+    },
+    {
+      "text": "EKKA",
+      "x": 2011.5,
+      "y": 642.0,
+      "confidence": 91.241844
+    },
+    {
+      "text": "BJP",
+      "x": 2440.0,
+      "y": 642.5,
+      "confidence": 96.348824
+    },
+    {
+      "text": "169",
+      "x": 2697.5,
+      "y": 642.5,
+      "confidence": 95.788078
+    },
+    {
+      "text": "KRISHNA",
+      "x": 1929.0,
+      "y": 702.5,
+      "confidence": 93.197502
+    },
+    {
+      "text": "MINJ",
+      "x": 2041.0,
+      "y": 703.0,
+      "confidence": 92.015068
+    },
+    {
+      "text": "AITC",
+      "x": 2439.5,
+      "y": 702.5,
+      "confidence": 91.223801
+    },
+    {
+      "text": "215",
+      "x": 2697.0,
+      "y": 702.5,
+      "confidence": 96.836472
+    },
+    {
+      "text": "KRISHNA",
+      "x": 2902.0,
+      "y": 703.0,
+      "confidence": 93.293922
+    },
+    {
+      "text": "MINJ",
+      "x": 3013.5,
+      "y": 703.5,
+      "confidence": 87.323578
+    },
+    {
+      "text": "AITC",
+      "x": 3349.5,
+      "y": 704.5,
+      "confidence": 92.541504
+    },
+    {
+      "text": "140",
+      "x": 236.5,
+      "y": 733.0,
+      "confidence": 58.439468
+    },
+    {
+      "text": "SISHUJHUMRA",
+      "x": 422.5,
+      "y": 732.5,
+      "confidence": 45.011616
+    },
+    {
+      "text": "SISHUJHUMRA",
+      "x": 757.5,
+      "y": 731.5,
+      "confidence": 91.61335
+    },
+    {
+      "text": "/",
+      "x": 880.5,
+      "y": 732.0,
+      "confidence": 91.597603
+    },
+    {
+      "text": "XVIII-18",
+      "x": 951.0,
+      "y": 731.0,
+      "confidence": 81.098045
+    },
+    {
+      "text": "SCHEDULE",
+      "x": 1118.5,
+      "y": 731.0,
+      "confidence": 88.571457
+    },
+    {
+      "text": "TRIBE",
+      "x": 1246.5,
+      "y": 731.0,
+      "confidence": 96.995964
+    },
+    {
+      "text": "MENOKA",
+      "x": 1932.0,
+      "y": 763.5,
+      "confidence": 92.550972
+    },
+    {
+      "text": "TOPPO",
+      "x": 2060.0,
+      "y": 763.5,
+      "confidence": 92.724632
+    },
+    {
+      "text": "INC",
+      "x": 2440.0,
+      "y": 763.0,
+      "confidence": 96.082268
+    },
+    {
+      "text": "144",
+      "x": 2697.5,
+      "y": 763.0,
+      "confidence": 91.326889
+    },
+    {
+      "text": "SILBANUS",
+      "x": 1935.5,
+      "y": 824.0,
+      "confidence": 92.062149
+    },
+    {
+      "text": "TOPPO",
+      "x": 2068.0,
+      "y": 823.5,
+      "confidence": 92.035759
+    },
+    {
+      "text": "IND",
+      "x": 2439.5,
+      "y": 824.0,
+      "confidence": 95.577347
+    },
+    {
+      "text": "11",
+      "x": 2697.0,
+      "y": 824.0,
+      "confidence": 96.121536
+    },
+    {
+      "text": "RESERV",
+      "x": 235.5,
+      "y": 884.0,
+      "confidence": 16.142397
+    },
+    {
+      "text": "BS",
+      "x": 315.0,
+      "y": 884.0,
+      "confidence": 17.528238
+    },
+    {
+      "text": "Mn",
+      "x": 362.0,
+      "y": 884.0,
+      "confidence": 20.7022
+    },
+    {
+      "text": "a",
+      "x": 446.5,
+      "y": 884.0,
+      "confidence": 30.788998
+    },
+    {
+      "text": "YT",
+      "x": 580.0,
+      "y": 884.0,
+      "confidence": 33.109055
+    },
+    {
+      "text": "RPT",
+      "x": 770.0,
+      "y": 884.0,
+      "confidence": 23.157429
+    },
+    {
+      "text": "ET",
+      "x": 1083.5,
+      "y": 884.0,
+      "confidence": 28.61105
+    },
+    {
+      "text": "ET",
+      "x": 1180.5,
+      "y": 884.0,
+      "confidence": 30.336304
+    },
+    {
+      "text": "WE",
+      "x": 1218.5,
+      "y": 884.0,
+      "confidence": 47.150288
+    },
+    {
+      "text": "TT",
+      "x": 1296.5,
+      "y": 884.0,
+      "confidence": 35.24707
+    },
+    {
+      "text": "ERPS",
+      "x": 1503.5,
+      "y": 884.0,
+      "confidence": 1.495781
+    },
+    {
+      "text": "RE",
+      "x": 1657.0,
+      "y": 884.0,
+      "confidence": 16.051674
+    },
+    {
+      "text": "ERR",
+      "x": 1938.5,
+      "y": 884.0,
+      "confidence": 19.884357
+    },
+    {
+      "text": "an",
+      "x": 2177.0,
+      "y": 884.0,
+      "confidence": 34.932499
+    },
+    {
+      "text": "PD",
+      "x": 2263.0,
+      "y": 884.0,
+      "confidence": 8.490906
+    },
+    {
+      "text": "eee",
+      "x": 2488.0,
+      "y": 884.0,
+      "confidence": 18.440094
+    },
+    {
+      "text": "pepe",
+      "x": 2582.0,
+      "y": 884.0,
+      "confidence": 12.496023
+    },
+    {
+      "text": "EET",
+      "x": 2630.0,
+      "y": 884.0,
+      "confidence": 14.498043
+    },
+    {
+      "text": "PERTTI",
+      "x": 2708.5,
+      "y": 884.0,
+      "confidence": 12.563076
+    },
+    {
+      "text": "TUT",
+      "x": 2785.0,
+      "y": 884.0,
+      "confidence": 5.583649
+    },
+    {
+      "text": "TTT",
+      "x": 2850.0,
+      "y": 884.0,
+      "confidence": 2.234631
+    },
+    {
+      "text": "0,",
+      "x": 2912.0,
+      "y": 884.0,
+      "confidence": 5.488529
+    },
+    {
+      "text": "RE",
+      "x": 3091.5,
+      "y": 884.0,
+      "confidence": 31.294781
+    },
+    {
+      "text": "PT",
+      "x": 3205.5,
+      "y": 884.0,
+      "confidence": 4.802456
+    },
+    {
+      "text": "\\",
+      "x": 2901.5,
+      "y": 924.5,
+      "confidence": 92.562004
+    },
+    {
+      "text": "é",
+      "x": 3057.5,
+      "y": 932.0,
+      "confidence": 45.94371
+    },
+    {
+      "text": "aul",
+      "x": 3056.0,
+      "y": 971.5,
+      "confidence": 22.13769
+    },
+    {
+      "text": "Block",
+      "x": 2724.5,
+      "y": 1011.0,
+      "confidence": 96.453072
+    },
+    {
+      "text": "Development",
+      "x": 2903.5,
+      "y": 1015.5,
+      "confidence": 25.000677
+    },
+    {
+      "text": "Off",
+      "x": 3065.0,
+      "y": 996.0,
+      "confidence": 86.074219
+    },
+    {
+      "text": "er",
+      "x": 3136.0,
+      "y": 1016.5,
+      "confidence": 95.957062
+    },
+    {
+      "text": "Madarjpat",
+      "x": 2785.0,
+      "y": 1081.0,
+      "confidence": 33.452129
+    },
+    {
+      "text": "Birpara",
+      "x": 2955.0,
+      "y": 1081.0,
+      "confidence": 37.504002
+    },
+    {
+      "text": "Block",
+      "x": 3079.5,
+      "y": 1066.5,
+      "confidence": 96.965965
+    },
+    {
+      "text": "ck",
+      "x": 2857.5,
+      "y": 1101.5,
+      "confidence": 44.548347
+    },
+    {
+      "text": "Development",
+      "x": 2990.0,
+      "y": 1134.0,
+      "confidence": 51.03619
+    },
+    {
+      "text": "Officar",
+      "x": 3151.5,
+      "y": 1127.0,
+      "confidence": 62.996605
+    },
+    {
+      "text": "Panchayat",
+      "x": 2858.5,
+      "y": 1200.5,
+      "confidence": 7.142839
+    },
+    {
+      "text": "Return;",
+      "x": 2999.0,
+      "y": 1212.0,
+      "confidence": 34.436604
+    },
+    {
+      "text": "yy",
+      "x": 2866.5,
+      "y": 1218.5,
+      "confidence": 42.044052
+    },
+    {
+      "text": "efurni",
+      "x": 3010.0,
+      "y": 1216.0,
+      "confidence": 70.747917
+    },
+    {
+      "text": "Countersigned",
+      "x": 2695.5,
+      "y": 1302.0,
+      "confidence": 92.393898
+    },
+    {
+      "text": "by",
+      "x": 2851.0,
+      "y": 1302.5,
+      "confidence": 97.020103
+    },
+    {
+      "text": "CX",
+      "x": 3050.5,
+      "y": 1278.0,
+      "confidence": 48.14225
+    },
+    {
+      "text": "Alipurduar",
+      "x": 3174.5,
+      "y": 1287.5,
+      "confidence": 91.734665
+    },
+    {
+      "text": "Block",
+      "x": 3106.0,
+      "y": 1353.0,
+      "confidence": 96.824768
+    },
+    {
+      "text": "Observer",
+      "x": 3243.5,
+      "y": 1353.5,
+      "confidence": 96.741913
+    }
+  ],
+  "words_column": [
+    {
+      "text": "SI.No.",
+      "x": 234.0,
+      "y": 202.0,
+      "confidence": 89.992096
+    },
+    {
+      "text": "1",
+      "x": 232.0,
+      "y": 336.0,
+      "confidence": 96.702904
+    },
+    {
+      "text": "139",
+      "x": 235.0,
+      "y": 462.0,
+      "confidence": 96.909035
+    },
+    {
+      "text": "140",
+      "x": 236.5,
+      "y": 733.0,
+      "confidence": 96.417198
+    },
+    {
+      "text": "|",
+      "x": 179.5,
+      "y": 884.0,
+      "confidence": 66.406761
+    },
+    {
+      "text": "ERE",
+      "x": 216.5,
+      "y": 885.5,
+      "confidence": 0.0
+    },
+    {
+      "text": "EE",
+      "x": 274.0,
+      "y": 885.5,
+      "confidence": 0.0
+    },
+    {
+      "text": "Name",
+      "x": 398.5,
+      "y": 175.0,
+      "confidence": 95.726868
+    },
+    {
+      "text": "of",
+      "x": 474.5,
+      "y": 174.0,
+      "confidence": 95.726868
+    },
+    {
+      "text": "Gram",
+      "x": 548.5,
+      "y": 174.0,
+      "confidence": 96.855537
+    },
+    {
+      "text": "Panchayat",
+      "x": 474.0,
+      "y": 231.0,
+      "confidence": 96.777657
+    },
+    {
+      "text": "2",
+      "x": 472.0,
+      "y": 336.0,
+      "confidence": 95.722672
+    },
+    {
+      "text": "SISHUJHUMRA",
+      "x": 421.5,
+      "y": 461.5,
+      "confidence": 90.995155
+    },
+    {
+      "text": "SISHUJHUMRA",
+      "x": 422.5,
+      "y": 732.5,
+      "confidence": 92.104858
+    },
+    {
+      "text": "ORO",
+      "x": 344.0,
+      "y": 881.0,
+      "confidence": 18.180666
+    },
+    {
+      "text": "LEY",
+      "x": 440.5,
+      "y": 881.0,
+      "confidence": 15.041761
+    },
+    {
+      "text": "ET",
+      "x": 472.0,
+      "y": 885.5,
+      "confidence": 19.438734
+    },
+    {
+      "text": "RE",
+      "x": 617.5,
+      "y": 881.0,
+      "confidence": 28.699326
+    },
+    {
+      "text": "No.",
+      "x": 714.5,
+      "y": 147.0,
+      "confidence": 93.283943
+    },
+    {
+      "text": "&",
+      "x": 766.5,
+      "y": 146.0,
+      "confidence": 92.959534
+    },
+    {
+      "text": "Name",
+      "x": 837.0,
+      "y": 146.5,
+      "confidence": 96.84581
+    },
+    {
+      "text": "of",
+      "x": 910.5,
+      "y": 146.0,
+      "confidence": 96.571358
+    },
+    {
+      "text": "GP",
+      "x": 960.5,
+      "y": 146.0,
+      "confidence": 96.50206
+    },
+    {
+      "text": "Constituency",
+      "x": 795.5,
+      "y": 203.0,
+      "confidence": 96.445831
+    },
+    {
+      "text": "with",
+      "x": 949.5,
+      "y": 199.0,
+      "confidence": 96.534454
+    },
+    {
+      "text": "seat",
+      "x": 805.0,
+      "y": 253.0,
+      "confidence": 96.446983
+    },
+    {
+      "text": "No.",
+      "x": 876.5,
+      "y": 252.5,
+      "confidence": 96.735901
+    },
+    {
+      "text": "3",
+      "x": 838.0,
+      "y": 334.5,
+      "confidence": 96.483841
+    },
+    {
+      "text": "SISHUJHUMRA",
+      "x": 757.0,
+      "y": 460.0,
+      "confidence": 91.121117
+    },
+    {
+      "text": "/",
+      "x": 872.0,
+      "y": 458.5,
+      "confidence": 92.506363
+    },
+    {
+      "text": "XVII-17",
+      "x": 946.5,
+      "y": 459.5,
+      "confidence": 84.518684
+    },
+    {
+      "text": "SISHUJHUMRA",
+      "x": 757.5,
+      "y": 731.0,
+      "confidence": 92.144798
+    },
+    {
+      "text": "/",
+      "x": 880.5,
+      "y": 732.0,
+      "confidence": 92.806221
+    },
+    {
+      "text": "XVIII-18",
+      "x": 951.0,
+      "y": 731.0,
+      "confidence": 89.703461
+    },
+    {
+      "text": "Mics",
+      "x": 657.5,
+      "y": 884.0,
+      "confidence": 17.652092
+    },
+    {
+      "text": "Casa",
+      "x": 711.5,
+      "y": 884.0,
+      "confidence": 0.0
+    },
+    {
+      "text": "a",
+      "x": 797.5,
+      "y": 884.0,
+      "confidence": 19.149656
+    },
+    {
+      "text": "ae",
+      "x": 855.0,
+      "y": 884.0,
+      "confidence": 28.639389
+    },
+    {
+      "text": "Te",
+      "x": 908.5,
+      "y": 884.0,
+      "confidence": 24.821558
+    },
+    {
+      "text": "SE",
+      "x": 983.5,
+      "y": 884.0,
+      "confidence": 11.325636
+    },
+    {
+      "text": "Reservation",
+      "x": 1165.0,
+      "y": 119.0,
+      "confidence": 96.639977
+    },
+    {
+      "text": "Status",
+      "x": 1165.0,
+      "y": 172.0,
+      "confidence": 96.633888
+    },
+    {
+      "text": "(SC/SCWIST/S",
+      "x": 1165.0,
+      "y": 229.0,
+      "confidence": 47.578831
+    },
+    {
+      "text": "TWMW)",
+      "x": 1164.5,
+      "y": 282.5,
+      "confidence": 26.345263
+    },
+    {
+      "text": "4",
+      "x": 1165.5,
+      "y": 334.0,
+      "confidence": 96.981842
+    },
+    {
+      "text": "SCHEDULE",
+      "x": 1118.0,
+      "y": 731.0,
+      "confidence": 96.501808
+    },
+    {
+      "text": "TRIBE",
+      "x": 1246.5,
+      "y": 731.0,
+      "confidence": 96.682579
+    },
+    {
+      "text": "yO",
+      "x": 1068.5,
+      "y": 884.0,
+      "confidence": 0.0
+    },
+    {
+      "text": "ere",
+      "x": 1158.0,
+      "y": 884.0,
+      "confidence": 31.747551
+    },
+    {
+      "text": "ETT",
+      "x": 1239.5,
+      "y": 884.0,
+      "confidence": 38.192642
+    },
+    {
+      "text": "TD",
+      "x": 1286.0,
+      "y": 884.0,
+      "confidence": 31.553326
+    },
+    {
+      "text": "Electors",
+      "x": 1391.0,
+      "y": 231.0,
+      "confidence": 96.819756
+    },
+    {
+      "text": "5",
+      "x": 1391.5,
+      "y": 334.0,
+      "confidence": 96.141441
+    },
+    {
+      "text": "963",
+      "x": 1391.5,
+      "y": 402.0,
+      "confidence": 96.534752
+    },
+    {
+      "text": "839",
+      "x": 1392.0,
+      "y": 642.5,
+      "confidence": 95.832397
+    },
+    {
+      "text": "Cap",
+      "x": 1391.0,
+      "y": 882.0,
+      "confidence": 0.0
+    },
+    {
+      "text": "erST",
+      "x": 1441.0,
+      "y": 883.5,
+      "confidence": 0.0
+    },
+    {
+      "text": "yr.",
+      "x": 1470.5,
+      "y": 883.5,
+      "confidence": 0.0
+    },
+    {
+      "text": "Number",
+      "x": 1554.0,
+      "y": 119.0,
+      "confidence": 95.854813
+    },
+    {
+      "text": "of",
+      "x": 1648.5,
+      "y": 118.0,
+      "confidence": 96.910759
+    },
+    {
+      "text": "Votes",
+      "x": 1577.5,
+      "y": 204.0,
+      "confidence": 96.846146
+    },
+    {
+      "text": "Polled",
+      "x": 1578.0,
+      "y": 256.0,
+      "confidence": 93.185608
+    },
+    {
+      "text": "6",
+      "x": 1578.5,
+      "y": 333.5,
+      "confidence": 96.907051
+    },
+    {
+      "text": "672",
+      "x": 1579.5,
+      "y": 401.0,
+      "confidence": 97.009186
+    },
+    {
+      "text": "595",
+      "x": 1580.5,
+      "y": 641.5,
+      "confidence": 96.740929
+    },
+    {
+      "text": "aE",
+      "x": 1577.5,
+      "y": 883.0,
+      "confidence": 31.611691
+    },
+    {
+      "text": "ae",
+      "x": 1599.5,
+      "y": 883.0,
+      "confidence": 34.395885
+    },
+    {
+      "text": "wee",
+      "x": 1648.0,
+      "y": 883.0,
+      "confidence": 13.149176
+    },
+    {
+      "text": "Votes",
+      "x": 1765.5,
+      "y": 204.0,
+      "confidence": 96.816154
+    },
+    {
+      "text": "Rejected",
+      "x": 1766.0,
+      "y": 260.5,
+      "confidence": 96.860039
+    },
+    {
+      "text": "7",
+      "x": 1766.0,
+      "y": 341.0,
+      "confidence": 81.653427
+    },
+    {
+      "text": "65",
+      "x": 1767.0,
+      "y": 401.0,
+      "confidence": 92.026756
+    },
+    {
+      "text": "56",
+      "x": 1768.0,
+      "y": 642.0,
+      "confidence": 96.791489
+    },
+    {
+      "text": "of",
+      "x": 1686.5,
+      "y": 883.5,
+      "confidence": 64.883865
+    },
+    {
+      "text": "era",
+      "x": 1764.5,
+      "y": 882.5,
+      "confidence": 6.22076
+    },
+    {
+      "text": "eas",
+      "x": 1836.5,
+      "y": 883.5,
+      "confidence": 26.924938
+    },
+    {
+      "text": "Name",
+      "x": 1967.0,
+      "y": 173.0,
+      "confidence": 96.894272
+    },
+    {
+      "text": "of",
+      "x": 2045.0,
+      "y": 172.5,
+      "confidence": 95.594971
+    },
+    {
+      "text": "Contesting",
+      "x": 2162.5,
+      "y": 176.5,
+      "confidence": 96.372993
+    },
+    {
+      "text": "Candidates",
+      "x": 2087.0,
+      "y": 225.0,
+      "confidence": 95.858932
+    },
+    {
+      "text": "8",
+      "x": 2088.5,
+      "y": 334.0,
+      "confidence": 96.863503
+    },
+    {
+      "text": "PANCHU",
+      "x": 1927.0,
+      "y": 402.0,
+      "confidence": 91.992859
+    },
+    {
+      "text": "INDUYAR",
+      "x": 2070.0,
+      "y": 402.0,
+      "confidence": 91.494514
+    },
+    {
+      "text": "BIUAY",
+      "x": 1903.5,
+      "y": 461.0,
+      "confidence": 37.564835
+    },
+    {
+      "text": "EKKA",
+      "x": 1990.0,
+      "y": 461.5,
+      "confidence": 93.182755
+    },
+    {
+      "text": "MANJOO",
+      "x": 1931.0,
+      "y": 521.5,
+      "confidence": 91.78019
+    },
+    {
+      "text": "PANNA",
+      "x": 2063.0,
+      "y": 521.0,
+      "confidence": 96.413307
+    },
+    {
+      "text": "AKASH",
+      "x": 1912.5,
+      "y": 642.5,
+      "confidence": 93.273079
+    },
+    {
+      "text": "EKKA",
+      "x": 2011.5,
+      "y": 642.0,
+      "confidence": 92.940498
+    },
+    {
+      "text": "KRISHNA",
+      "x": 1929.0,
+      "y": 702.5,
+      "confidence": 92.886383
+    },
+    {
+      "text": "MINJ",
+      "x": 2041.0,
+      "y": 703.0,
+      "confidence": 91.464752
+    },
+    {
+      "text": "MENOKA",
+      "x": 1932.0,
+      "y": 763.5,
+      "confidence": 92.383537
+    },
+    {
+      "text": "TOPPO",
+      "x": 2060.0,
+      "y": 763.5,
+      "confidence": 91.717308
+    },
+    {
+      "text": "SILBANUS",
+      "x": 1935.5,
+      "y": 824.0,
+      "confidence": 92.58876
+    },
+    {
+      "text": "TOPPO",
+      "x": 2068.0,
+      "y": 823.5,
+      "confidence": 92.331345
+    },
+    {
+      "text": "SUES",
+      "x": 1896.0,
+      "y": 883.5,
+      "confidence": 1.340237
+    },
+    {
+      "text": "at",
+      "x": 1969.5,
+      "y": 883.5,
+      "confidence": 12.021084
+    },
+    {
+      "text": "et",
+      "x": 2056.0,
+      "y": 883.5,
+      "confidence": 27.734604
+    },
+    {
+      "text": "Eee",
+      "x": 2129.5,
+      "y": 883.5,
+      "confidence": 20.768032
+    },
+    {
+      "text": "eS",
+      "x": 2199.5,
+      "y": 883.5,
+      "confidence": 25.871782
+    },
+    {
+      "text": "ee",
+      "x": 2274.0,
+      "y": 883.5,
+      "confidence": 3.108902
+    },
+    {
+      "text": "Party",
+      "x": 2441.5,
+      "y": 176.5,
+      "confidence": 96.582886
+    },
+    {
+      "text": "affiliation",
+      "x": 2440.5,
+      "y": 225.0,
+      "confidence": 96.940948
+    },
+    {
+      "text": "9",
+      "x": 2439.5,
+      "y": 334.0,
+      "confidence": 93.877014
+    },
+    {
+      "text": "BJP",
+      "x": 2441.0,
+      "y": 402.0,
+      "confidence": 92.813087
+    },
+    {
+      "text": "AITC",
+      "x": 2440.5,
+      "y": 461.0,
+      "confidence": 91.426514
+    },
+    {
+      "text": "RSP",
+      "x": 2440.5,
+      "y": 521.5,
+      "confidence": 96.140877
+    },
+    {
+      "text": "BJP",
+      "x": 2440.0,
+      "y": 642.5,
+      "confidence": 79.637566
+    },
+    {
+      "text": "AITC",
+      "x": 2439.5,
+      "y": 702.5,
+      "confidence": 91.021614
+    },
+    {
+      "text": "INC",
+      "x": 2440.0,
+      "y": 763.0,
+      "confidence": 90.78109
+    },
+    {
+      "text": "IND",
+      "x": 2440.0,
+      "y": 824.0,
+      "confidence": 95.007309
+    },
+    {
+      "text": "Rg",
+      "x": 2439.5,
+      "y": 882.5,
+      "confidence": 4.030418
+    },
+    {
+      "text": "ae",
+      "x": 2436.5,
+      "y": 883.0,
+      "confidence": 23.833723
+    },
+    {
+      "text": "SE",
+      "x": 2500.5,
+      "y": 882.5,
+      "confidence": 24.498739
+    },
+    {
+      "text": "Votes",
+      "x": 2625.5,
+      "y": 199.5,
+      "confidence": 96.386436
+    },
+    {
+      "text": "secured",
+      "x": 2749.5,
+      "y": 199.5,
+      "confidence": 96.403091
+    },
+    {
+      "text": "10",
+      "x": 2697.5,
+      "y": 334.0,
+      "confidence": 96.858177
+    },
+    {
+      "text": "134",
+      "x": 2698.5,
+      "y": 402.0,
+      "confidence": 96.563034
+    },
+    {
+      "text": "444",
+      "x": 2697.5,
+      "y": 461.5,
+      "confidence": 96.629059
+    },
+    {
+      "text": "29",
+      "x": 2697.0,
+      "y": 521.5,
+      "confidence": 96.490509
+    },
+    {
+      "text": "169",
+      "x": 2697.5,
+      "y": 642.5,
+      "confidence": 96.918137
+    },
+    {
+      "text": "215",
+      "x": 2697.0,
+      "y": 702.5,
+      "confidence": 95.671242
+    },
+    {
+      "text": "144",
+      "x": 2697.5,
+      "y": 763.5,
+      "confidence": 96.947014
+    },
+    {
+      "text": "11",
+      "x": 2696.5,
+      "y": 824.0,
+      "confidence": 95.949791
+    },
+    {
+      "text": "aE",
+      "x": 2697.0,
+      "y": 883.0,
+      "confidence": 27.973843
+    },
+    {
+      "text": "TT",
+      "x": 2798.5,
+      "y": 881.5,
+      "confidence": 28.765259
+    },
+    {
+      "text": "Name",
+      "x": 2923.0,
+      "y": 173.0,
+      "confidence": 96.272469
+    },
+    {
+      "text": "of",
+      "x": 3000.0,
+      "y": 173.5,
+      "confidence": 96.272469
+    },
+    {
+      "text": "the",
+      "x": 3051.5,
+      "y": 173.5,
+      "confidence": 96.905739
+    },
+    {
+      "text": "winning",
+      "x": 3151.5,
+      "y": 178.0,
+      "confidence": 96.844032
+    },
+    {
+      "text": "candidate",
+      "x": 3048.0,
+      "y": 226.0,
+      "confidence": 96.508812
+    },
+    {
+      "text": "11",
+      "x": 3047.5,
+      "y": 335.0,
+      "confidence": 95.821922
+    },
+    {
+      "text": "BUJAY",
+      "x": 2875.5,
+      "y": 462.0,
+      "confidence": 59.119991
+    },
+    {
+      "text": "EKKA",
+      "x": 2963.0,
+      "y": 462.0,
+      "confidence": 93.204109
+    },
+    {
+      "text": "KRISHNA",
+      "x": 2902.0,
+      "y": 703.0,
+      "confidence": 93.2174
+    },
+    {
+      "text": "MINJ",
+      "x": 3013.5,
+      "y": 703.5,
+      "confidence": 92.418098
+    },
+    {
+      "text": "Ek",
+      "x": 2864.5,
+      "y": 878.0,
+      "confidence": 37.470596
+    },
+    {
+      "text": "Uae",
+      "x": 3044.0,
+      "y": 884.0,
+      "confidence": 39.8965
+    },
+    {
+      "text": "TTS",
+      "x": 3219.5,
+      "y": 878.0,
+      "confidence": 31.578522
+    },
+    {
+      "text": "Party",
+      "x": 3354.0,
+      "y": 179.0,
+      "confidence": 96.749619
+    },
+    {
+      "text": "Affiliation",
+      "x": 3351.0,
+      "y": 227.0,
+      "confidence": 96.574966
+    },
+    {
+      "text": "12",
+      "x": 3352.5,
+      "y": 335.5,
+      "confidence": 96.907722
+    },
+    {
+      "text": "AITC",
+      "x": 3351.5,
+      "y": 463.0,
+      "confidence": 92.300613
+    },
+    {
+      "text": "AITC",
+      "x": 3349.5,
+      "y": 704.5,
+      "confidence": 92.921524
+    },
+    {
+      "text": "Tey",
+      "x": 3346.5,
+      "y": 884.0,
+      "confidence": 32.470627
+    }
+  ],
+  "cells": [
+    {
+      "column": 0,
+      "bbox": [
+        170,
+        93,
+        304,
+        314
+      ],
+      "original": "SINo. I.No.",
+      "clean": "SIN.",
+      "original_confidence": 37.618484,
+      "clean_confidence": 41.068478,
+      "column_text": "SI.No.",
+      "column_confidence": 89.992096
+    },
+    {
+      "column": 0,
+      "bbox": [
+        170,
+        314,
+        304,
+        373
+      ],
+      "original": "1",
+      "clean": "1",
+      "original_confidence": 89.716049,
+      "clean_confidence": 96.873299,
+      "column_text": "1",
+      "column_confidence": 96.702904
+    },
+    {
+      "column": 0,
+      "bbox": [
+        170,
+        373,
+        304,
+        552
+      ],
+      "original": "139",
+      "clean": "139",
+      "original_confidence": 42.432053,
+      "clean_confidence": 46.344849,
+      "column_text": "139",
+      "column_confidence": 96.909035
+    },
+    {
+      "column": 0,
+      "bbox": [
+        170,
+        552,
+        304,
+        613
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 0,
+      "bbox": [
+        170,
+        613,
+        304,
+        863
+      ],
+      "original": "140",
+      "clean": "140",
+      "original_confidence": 60.660198,
+      "clean_confidence": 58.439468,
+      "column_text": "140",
+      "column_confidence": 96.417198
+    },
+    {
+      "column": 0,
+      "bbox": [
+        170,
+        863,
+        304,
+        906
+      ],
+      "original": "",
+      "clean": "RESERV",
+      "original_confidence": null,
+      "clean_confidence": 16.142397,
+      "column_text": "| ERE EE",
+      "column_confidence": 0.0
+    },
+    {
+      "column": 1,
+      "bbox": [
+        304,
+        92,
+        640,
+        313
+      ],
+      "original": "Name of Gram\n| panchayat",
+      "clean": "Name of Gram\n“Panchayat",
+      "original_confidence": 58.325733,
+      "clean_confidence": 57.636543,
+      "column_text": "Name of Gram\nPanchayat",
+      "column_confidence": 95.726868
+    },
+    {
+      "column": 1,
+      "bbox": [
+        304,
+        313,
+        640,
+        372
+      ],
+      "original": "2",
+      "clean": "2",
+      "original_confidence": 97.014702,
+      "clean_confidence": 96.994957,
+      "column_text": "2",
+      "column_confidence": 95.722672
+    },
+    {
+      "column": 1,
+      "bbox": [
+        304,
+        372,
+        640,
+        552
+      ],
+      "original": "|SISHUJHUMRA",
+      "clean": "SISHUJHUMRA",
+      "original_confidence": 37.503876,
+      "clean_confidence": 66.449036,
+      "column_text": "SISHUJHUMRA",
+      "column_confidence": 90.995155
+    },
+    {
+      "column": 1,
+      "bbox": [
+        304,
+        552,
+        640,
+        612
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 1,
+      "bbox": [
+        304,
+        612,
+        640,
+        862
+      ],
+      "original": "|SISHUJHUMRA",
+      "clean": "SISHUJHUMRA",
+      "original_confidence": 42.979233,
+      "clean_confidence": 45.011616,
+      "column_text": "SISHUJHUMRA",
+      "column_confidence": 92.104858
+    },
+    {
+      "column": 1,
+      "bbox": [
+        304,
+        862,
+        640,
+        906
+      ],
+      "original": "",
+      "clean": "BS Mn a YT",
+      "original_confidence": null,
+      "clean_confidence": 17.528238,
+      "column_text": "ORO LEY ET RE",
+      "column_confidence": 15.041761
+    },
+    {
+      "column": 2,
+      "bbox": [
+        640,
+        91,
+        1027,
+        312
+      ],
+      "original": "No. & Name of GP\nConstituency : : with\ny\nseat No.",
+      "clean": "No. & Name of GP\nsail :\n«Constituency with\nseat No.",
+      "original_confidence": 0.0,
+      "clean_confidence": 0.0,
+      "column_text": "No. & Name of GP\nConstituency with\nseat No.",
+      "column_confidence": 92.959534
+    },
+    {
+      "column": 2,
+      "bbox": [
+        640,
+        312,
+        1027,
+        371
+      ],
+      "original": "3",
+      "clean": "3",
+      "original_confidence": 96.915794,
+      "clean_confidence": 96.105293,
+      "column_text": "3",
+      "column_confidence": 96.483841
+    },
+    {
+      "column": 2,
+      "bbox": [
+        640,
+        371,
+        1027,
+        551
+      ],
+      "original": "SISHUJHUMRA / XVII-17",
+      "clean": "SISHUJHUMRA / XVII-17",
+      "original_confidence": 80.111473,
+      "clean_confidence": 91.500854,
+      "column_text": "SISHUJHUMRA / XVII-17",
+      "column_confidence": 84.518684
+    },
+    {
+      "column": 2,
+      "bbox": [
+        640,
+        551,
+        1027,
+        611
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 2,
+      "bbox": [
+        640,
+        611,
+        1027,
+        862
+      ],
+      "original": "SISHUJHUMRA / XVIII-18",
+      "clean": "SISHUJHUMRA / XVIII-18",
+      "original_confidence": 71.552292,
+      "clean_confidence": 81.098045,
+      "column_text": "SISHUJHUMRA / XVIII-18",
+      "column_confidence": 89.703461
+    },
+    {
+      "column": 2,
+      "bbox": [
+        640,
+        862,
+        1027,
+        904
+      ],
+      "original": "",
+      "clean": "RPT",
+      "original_confidence": null,
+      "clean_confidence": 23.157429,
+      "column_text": "Mics Casa a ae Te SE",
+      "column_confidence": 0.0
+    },
+    {
+      "column": 3,
+      "bbox": [
+        1027,
+        91,
+        1300,
+        312
+      ],
+      "original": "Reservation\nStatus\n(SCISCWISTIS|\nTW)",
+      "clean": "Reservation\nStatus\ncc iscwistis\nTWIW)",
+      "original_confidence": 0.0,
+      "clean_confidence": 0.0,
+      "column_text": "Reservation\nStatus\n(SC/SCWIST/S\nTWMW)",
+      "column_confidence": 26.345263
+    },
+    {
+      "column": 3,
+      "bbox": [
+        1027,
+        312,
+        1300,
+        371
+      ],
+      "original": "4",
+      "clean": "4",
+      "original_confidence": 97.011345,
+      "clean_confidence": 97.005043,
+      "column_text": "4",
+      "column_confidence": 96.981842
+    },
+    {
+      "column": 3,
+      "bbox": [
+        1027,
+        371,
+        1300,
+        550
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 3,
+      "bbox": [
+        1027,
+        550,
+        1300,
+        611
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 3,
+      "bbox": [
+        1027,
+        611,
+        1300,
+        862
+      ],
+      "original": "| SCHEDULE TRIBE",
+      "clean": "SCHEDULE TRIBE",
+      "original_confidence": 96.485168,
+      "clean_confidence": 88.571457,
+      "column_text": "SCHEDULE TRIBE",
+      "column_confidence": 96.501808
+    },
+    {
+      "column": 3,
+      "bbox": [
+        1027,
+        862,
+        1300,
+        904
+      ],
+      "original": "",
+      "clean": "ET ET WE TT",
+      "original_confidence": null,
+      "clean_confidence": 28.61105,
+      "column_text": "yO ere ETT TD",
+      "column_confidence": 0.0
+    },
+    {
+      "column": 4,
+      "bbox": [
+        1300,
+        90,
+        1482,
+        150
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 4,
+      "bbox": [
+        1300,
+        150,
+        1482,
+        311
+      ],
+      "original": "Electors",
+      "clean": "Electors",
+      "original_confidence": 89.578979,
+      "clean_confidence": 92.351967,
+      "column_text": "Electors",
+      "column_confidence": 96.819756
+    },
+    {
+      "column": 4,
+      "bbox": [
+        1300,
+        311,
+        1482,
+        371
+      ],
+      "original": "5",
+      "clean": "5",
+      "original_confidence": 96.944321,
+      "clean_confidence": 96.78904,
+      "column_text": "5",
+      "column_confidence": 96.141441
+    },
+    {
+      "column": 4,
+      "bbox": [
+        1300,
+        371,
+        1482,
+        430
+      ],
+      "original": "963",
+      "clean": "963",
+      "original_confidence": 96.453308,
+      "clean_confidence": 96.032005,
+      "column_text": "963",
+      "column_confidence": 96.534752
+    },
+    {
+      "column": 4,
+      "bbox": [
+        1300,
+        430,
+        1482,
+        490
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 4,
+      "bbox": [
+        1300,
+        490,
+        1482,
+        550
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 4,
+      "bbox": [
+        1300,
+        550,
+        1482,
+        610
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 4,
+      "bbox": [
+        1300,
+        610,
+        1482,
+        671
+      ],
+      "original": "839",
+      "clean": "839",
+      "original_confidence": 96.531479,
+      "clean_confidence": 92.242371,
+      "column_text": "839",
+      "column_confidence": 95.832397
+    },
+    {
+      "column": 4,
+      "bbox": [
+        1300,
+        671,
+        1482,
+        732
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 4,
+      "bbox": [
+        1300,
+        732,
+        1482,
+        792
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 4,
+      "bbox": [
+        1300,
+        792,
+        1482,
+        862
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 4,
+      "bbox": [
+        1300,
+        862,
+        1482,
+        904
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "Cap erST yr.",
+      "column_confidence": 0.0
+    },
+    {
+      "column": 5,
+      "bbox": [
+        1482,
+        90,
+        1673,
+        150
+      ],
+      "original": "Number of",
+      "clean": "Number of",
+      "original_confidence": 96.362129,
+      "clean_confidence": 96.877914,
+      "column_text": "Number of",
+      "column_confidence": 95.854813
+    },
+    {
+      "column": 5,
+      "bbox": [
+        1482,
+        150,
+        1673,
+        311
+      ],
+      "original": "YOtes\n| |\nPolled |",
+      "clean": "Votes\nPolled",
+      "original_confidence": 32.299599,
+      "clean_confidence": 48.060764,
+      "column_text": "Votes\nPolled",
+      "column_confidence": 93.185608
+    },
+    {
+      "column": 5,
+      "bbox": [
+        1482,
+        311,
+        1673,
+        370
+      ],
+      "original": "6",
+      "clean": "6",
+      "original_confidence": 96.900818,
+      "clean_confidence": 96.714836,
+      "column_text": "6",
+      "column_confidence": 96.907051
+    },
+    {
+      "column": 5,
+      "bbox": [
+        1482,
+        370,
+        1673,
+        430
+      ],
+      "original": "672",
+      "clean": "672",
+      "original_confidence": 96.743576,
+      "clean_confidence": 96.888924,
+      "column_text": "672",
+      "column_confidence": 97.009186
+    },
+    {
+      "column": 5,
+      "bbox": [
+        1482,
+        430,
+        1673,
+        490
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 5,
+      "bbox": [
+        1482,
+        490,
+        1673,
+        550
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 5,
+      "bbox": [
+        1482,
+        550,
+        1673,
+        610
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 5,
+      "bbox": [
+        1482,
+        610,
+        1673,
+        670
+      ],
+      "original": "595",
+      "clean": "595",
+      "original_confidence": 96.248077,
+      "clean_confidence": 96.947441,
+      "column_text": "595",
+      "column_confidence": 96.740929
+    },
+    {
+      "column": 5,
+      "bbox": [
+        1482,
+        670,
+        1673,
+        731
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 5,
+      "bbox": [
+        1482,
+        731,
+        1673,
+        792
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 5,
+      "bbox": [
+        1482,
+        792,
+        1673,
+        862
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 5,
+      "bbox": [
+        1482,
+        862,
+        1673,
+        903
+      ],
+      "original": "",
+      "clean": "ERPS RE",
+      "original_confidence": null,
+      "clean_confidence": 1.495781,
+      "column_text": "aE ae wee",
+      "column_confidence": 13.149176
+    },
+    {
+      "column": 6,
+      "bbox": [
+        1673,
+        90,
+        1856,
+        150
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 6,
+      "bbox": [
+        1673,
+        150,
+        1856,
+        311
+      ],
+      "original": "Votes\nRejected",
+      "clean": "_ Votes\nRejected",
+      "original_confidence": 85.361389,
+      "clean_confidence": 42.066856,
+      "column_text": "Votes\nRejected",
+      "column_confidence": 96.816154
+    },
+    {
+      "column": 6,
+      "bbox": [
+        1673,
+        311,
+        1856,
+        370
+      ],
+      "original": "7",
+      "clean": "7",
+      "original_confidence": 96.850868,
+      "clean_confidence": 96.484337,
+      "column_text": "7",
+      "column_confidence": 81.653427
+    },
+    {
+      "column": 6,
+      "bbox": [
+        1673,
+        370,
+        1856,
+        430
+      ],
+      "original": "65",
+      "clean": "65",
+      "original_confidence": 40.448257,
+      "clean_confidence": 33.752808,
+      "column_text": "65",
+      "column_confidence": 92.026756
+    },
+    {
+      "column": 6,
+      "bbox": [
+        1673,
+        430,
+        1856,
+        490
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 6,
+      "bbox": [
+        1673,
+        490,
+        1856,
+        550
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 6,
+      "bbox": [
+        1673,
+        550,
+        1856,
+        610
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 6,
+      "bbox": [
+        1673,
+        610,
+        1856,
+        670
+      ],
+      "original": "56",
+      "clean": "56",
+      "original_confidence": 57.857494,
+      "clean_confidence": 64.430458,
+      "column_text": "56",
+      "column_confidence": 96.791489
+    },
+    {
+      "column": 6,
+      "bbox": [
+        1673,
+        670,
+        1856,
+        731
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 6,
+      "bbox": [
+        1673,
+        731,
+        1856,
+        792
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 6,
+      "bbox": [
+        1673,
+        792,
+        1856,
+        862
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 6,
+      "bbox": [
+        1673,
+        862,
+        1856,
+        903
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "of era eas",
+      "column_confidence": 6.22076
+    },
+    {
+      "column": 7,
+      "bbox": [
+        1856,
+        90,
+        2313,
+        311
+      ],
+      "original": "Name of Contesting\n: Candidates",
+      "clean": "Name of Contesting\nCandidates",
+      "original_confidence": 19.009457,
+      "clean_confidence": 96.28344,
+      "column_text": "Name of Contesting\nCandidates",
+      "column_confidence": 95.594971
+    },
+    {
+      "column": 7,
+      "bbox": [
+        1856,
+        311,
+        2313,
+        371
+      ],
+      "original": "8",
+      "clean": "8",
+      "original_confidence": 96.795647,
+      "clean_confidence": 96.413414,
+      "column_text": "8",
+      "column_confidence": 96.863503
+    },
+    {
+      "column": 7,
+      "bbox": [
+        1856,
+        371,
+        2313,
+        430
+      ],
+      "original": "|PANCHU INDUYAR",
+      "clean": " PANCHU INDUYAR",
+      "original_confidence": 62.31263,
+      "clean_confidence": 33.752808,
+      "column_text": "PANCHU INDUYAR",
+      "column_confidence": 91.494514
+    },
+    {
+      "column": 7,
+      "bbox": [
+        1856,
+        430,
+        2313,
+        490
+      ],
+      "original": "BUAY EKKA",
+      "clean": "BUAY EKKA",
+      "original_confidence": 76.117241,
+      "clean_confidence": 47.819382,
+      "column_text": "BIUAY EKKA",
+      "column_confidence": 37.564835
+    },
+    {
+      "column": 7,
+      "bbox": [
+        1856,
+        490,
+        2313,
+        550
+      ],
+      "original": "MANJOO PANNA",
+      "clean": "MANJOO PANNA",
+      "original_confidence": 91.78019,
+      "clean_confidence": 92.969093,
+      "column_text": "MANJOO PANNA",
+      "column_confidence": 91.78019
+    },
+    {
+      "column": 7,
+      "bbox": [
+        1856,
+        550,
+        2313,
+        611
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 7,
+      "bbox": [
+        1856,
+        611,
+        2313,
+        671
+      ],
+      "original": "AKASH EKKA",
+      "clean": "AKASH EKKA",
+      "original_confidence": 31.909533,
+      "clean_confidence": 88.966972,
+      "column_text": "AKASH EKKA",
+      "column_confidence": 92.940498
+    },
+    {
+      "column": 7,
+      "bbox": [
+        1856,
+        671,
+        2313,
+        732
+      ],
+      "original": "KRISHNA MINJ",
+      "clean": "KRISHNA MINJ",
+      "original_confidence": 91.464752,
+      "clean_confidence": 92.015068,
+      "column_text": "KRISHNA MINJ",
+      "column_confidence": 91.464752
+    },
+    {
+      "column": 7,
+      "bbox": [
+        1856,
+        732,
+        2313,
+        792
+      ],
+      "original": "MENOKA TOPPO",
+      "clean": "MENOKA TOPPO",
+      "original_confidence": 91.717308,
+      "clean_confidence": 92.550972,
+      "column_text": "MENOKA TOPPO",
+      "column_confidence": 91.717308
+    },
+    {
+      "column": 7,
+      "bbox": [
+        1856,
+        792,
+        2313,
+        861
+      ],
+      "original": "SILBANUS TOPPO",
+      "clean": "SILBANUS TOPPO",
+      "original_confidence": 92.142448,
+      "clean_confidence": 92.035759,
+      "column_text": "SILBANUS TOPPO",
+      "column_confidence": 92.331345
+    },
+    {
+      "column": 7,
+      "bbox": [
+        1856,
+        861,
+        2313,
+        904
+      ],
+      "original": "",
+      "clean": "ERR an PD",
+      "original_confidence": null,
+      "clean_confidence": 8.490906,
+      "column_text": "SUES at et Eee eS ee",
+      "column_confidence": 1.340237
+    },
+    {
+      "column": 8,
+      "bbox": [
+        2313,
+        90,
+        2566,
+        311
+      ],
+      "original": "Party\naffiliation Sah",
+      "clean": "Party\naffiliation",
+      "original_confidence": 30.636845,
+      "clean_confidence": 58.546177,
+      "column_text": "Party\naffiliation",
+      "column_confidence": 96.582886
+    },
+    {
+      "column": 8,
+      "bbox": [
+        2313,
+        311,
+        2566,
+        371
+      ],
+      "original": "9",
+      "clean": "9",
+      "original_confidence": 85.117538,
+      "clean_confidence": 96.826553,
+      "column_text": "9",
+      "column_confidence": 93.877014
+    },
+    {
+      "column": 8,
+      "bbox": [
+        2313,
+        371,
+        2566,
+        430
+      ],
+      "original": "BJP",
+      "clean": "BJP",
+      "original_confidence": 50.506096,
+      "clean_confidence": 96.274254,
+      "column_text": "BJP",
+      "column_confidence": 92.813087
+    },
+    {
+      "column": 8,
+      "bbox": [
+        2313,
+        430,
+        2566,
+        490
+      ],
+      "original": "AITC",
+      "clean": "AITC",
+      "original_confidence": 93.055679,
+      "clean_confidence": 90.780235,
+      "column_text": "AITC",
+      "column_confidence": 91.426514
+    },
+    {
+      "column": 8,
+      "bbox": [
+        2313,
+        490,
+        2566,
+        550
+      ],
+      "original": "RSP",
+      "clean": "RSP",
+      "original_confidence": 95.591827,
+      "clean_confidence": 96.772964,
+      "column_text": "RSP",
+      "column_confidence": 96.140877
+    },
+    {
+      "column": 8,
+      "bbox": [
+        2313,
+        550,
+        2566,
+        610
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 8,
+      "bbox": [
+        2313,
+        610,
+        2566,
+        671
+      ],
+      "original": "BJP",
+      "clean": "BJP",
+      "original_confidence": 72.72213,
+      "clean_confidence": 96.348824,
+      "column_text": "BJP",
+      "column_confidence": 79.637566
+    },
+    {
+      "column": 8,
+      "bbox": [
+        2313,
+        671,
+        2566,
+        732
+      ],
+      "original": "AITC",
+      "clean": "AITC",
+      "original_confidence": 92.663658,
+      "clean_confidence": 91.223801,
+      "column_text": "AITC",
+      "column_confidence": 91.021614
+    },
+    {
+      "column": 8,
+      "bbox": [
+        2313,
+        732,
+        2566,
+        792
+      ],
+      "original": "INC",
+      "clean": "INC",
+      "original_confidence": 92.517403,
+      "clean_confidence": 96.082268,
+      "column_text": "INC",
+      "column_confidence": 90.78109
+    },
+    {
+      "column": 8,
+      "bbox": [
+        2313,
+        792,
+        2566,
+        861
+      ],
+      "original": "IND",
+      "clean": "IND",
+      "original_confidence": 96.638885,
+      "clean_confidence": 95.577347,
+      "column_text": "IND",
+      "column_confidence": 95.007309
+    },
+    {
+      "column": 8,
+      "bbox": [
+        2313,
+        861,
+        2566,
+        903
+      ],
+      "original": "",
+      "clean": "eee",
+      "original_confidence": null,
+      "clean_confidence": 18.440094,
+      "column_text": "ae Rg SE",
+      "column_confidence": 4.030418
+    },
+    {
+      "column": 9,
+      "bbox": [
+        2566,
+        91,
+        2828,
+        311
+      ],
+      "original": "Votes secured",
+      "clean": "V's secured",
+      "original_confidence": 96.345924,
+      "clean_confidence": 34.680649,
+      "column_text": "Votes secured",
+      "column_confidence": 96.386436
+    },
+    {
+      "column": 9,
+      "bbox": [
+        2566,
+        311,
+        2828,
+        371
+      ],
+      "original": "10",
+      "clean": "10",
+      "original_confidence": 96.927666,
+      "clean_confidence": 96.85939,
+      "column_text": "10",
+      "column_confidence": 96.858177
+    },
+    {
+      "column": 9,
+      "bbox": [
+        2566,
+        371,
+        2828,
+        430
+      ],
+      "original": "134",
+      "clean": "134",
+      "original_confidence": 96.824036,
+      "clean_confidence": 95.945396,
+      "column_text": "134",
+      "column_confidence": 96.563034
+    },
+    {
+      "column": 9,
+      "bbox": [
+        2566,
+        430,
+        2828,
+        490
+      ],
+      "original": "444",
+      "clean": "444",
+      "original_confidence": 96.182068,
+      "clean_confidence": 95.303986,
+      "column_text": "444",
+      "column_confidence": 96.629059
+    },
+    {
+      "column": 9,
+      "bbox": [
+        2566,
+        490,
+        2828,
+        550
+      ],
+      "original": "29",
+      "clean": "29",
+      "original_confidence": 97.014847,
+      "clean_confidence": 97.008118,
+      "column_text": "29",
+      "column_confidence": 96.490509
+    },
+    {
+      "column": 9,
+      "bbox": [
+        2566,
+        550,
+        2828,
+        611
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 9,
+      "bbox": [
+        2566,
+        611,
+        2828,
+        671
+      ],
+      "original": "169",
+      "clean": "169",
+      "original_confidence": 95.388229,
+      "clean_confidence": 95.788078,
+      "column_text": "169",
+      "column_confidence": 96.918137
+    },
+    {
+      "column": 9,
+      "bbox": [
+        2566,
+        671,
+        2828,
+        732
+      ],
+      "original": "215",
+      "clean": "215",
+      "original_confidence": 96.7005,
+      "clean_confidence": 96.836472,
+      "column_text": "215",
+      "column_confidence": 95.671242
+    },
+    {
+      "column": 9,
+      "bbox": [
+        2566,
+        732,
+        2828,
+        792
+      ],
+      "original": "144",
+      "clean": "144",
+      "original_confidence": 96.206848,
+      "clean_confidence": 91.326889,
+      "column_text": "144",
+      "column_confidence": 96.947014
+    },
+    {
+      "column": 9,
+      "bbox": [
+        2566,
+        792,
+        2828,
+        862
+      ],
+      "original": "11",
+      "clean": "11",
+      "original_confidence": 95.508263,
+      "clean_confidence": 96.121536,
+      "column_text": "11",
+      "column_confidence": 95.949791
+    },
+    {
+      "column": 9,
+      "bbox": [
+        2566,
+        862,
+        2828,
+        904
+      ],
+      "original": "",
+      "clean": "pepe EET PERTTI TUT",
+      "original_confidence": null,
+      "clean_confidence": 5.583649,
+      "column_text": "aE TT",
+      "column_confidence": 27.973843
+    },
+    {
+      "column": 10,
+      "bbox": [
+        2828,
+        92,
+        3260,
+        312
+      ],
+      "original": "Name of the winning\ncandidate :",
+      "clean": "Name of the winning\ncandidate",
+      "original_confidence": 47.298363,
+      "clean_confidence": 94.418198,
+      "column_text": "Name of the winning\ncandidate",
+      "column_confidence": 96.272469
+    },
+    {
+      "column": 10,
+      "bbox": [
+        2828,
+        312,
+        3260,
+        372
+      ],
+      "original": "14",
+      "clean": "11",
+      "original_confidence": 83.69149,
+      "clean_confidence": 92.731499,
+      "column_text": "11",
+      "column_confidence": 95.821922
+    },
+    {
+      "column": 10,
+      "bbox": [
+        2828,
+        372,
+        3260,
+        431
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 10,
+      "bbox": [
+        2828,
+        431,
+        3260,
+        491
+      ],
+      "original": "BUAY EKKA",
+      "clean": "BUAY EKKA",
+      "original_confidence": 91.408691,
+      "clean_confidence": 57.063526,
+      "column_text": "BUJAY EKKA",
+      "column_confidence": 59.119991
+    },
+    {
+      "column": 10,
+      "bbox": [
+        2828,
+        491,
+        3260,
+        551
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 10,
+      "bbox": [
+        2828,
+        551,
+        3260,
+        611
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 10,
+      "bbox": [
+        2828,
+        611,
+        3260,
+        672
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 10,
+      "bbox": [
+        2828,
+        672,
+        3260,
+        732
+      ],
+      "original": "KRISHNA MINJ",
+      "clean": "KRISHNA MINJ",
+      "original_confidence": 92.906364,
+      "clean_confidence": 87.323578,
+      "column_text": "KRISHNA MINJ",
+      "column_confidence": 92.418098
+    },
+    {
+      "column": 10,
+      "bbox": [
+        2828,
+        732,
+        3260,
+        793
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 10,
+      "bbox": [
+        2828,
+        793,
+        3260,
+        862
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 10,
+      "bbox": [
+        2828,
+        862,
+        3260,
+        904
+      ],
+      "original": "",
+      "clean": "TTT 0, RE PT",
+      "original_confidence": null,
+      "clean_confidence": 2.234631,
+      "column_text": "Ek Uae TTS",
+      "column_confidence": 31.578522
+    },
+    {
+      "column": 11,
+      "bbox": [
+        3260,
+        92,
+        3441,
+        313
+      ],
+      "original": "Party\nAffiliation os",
+      "clean": "Party\nAffiliation",
+      "original_confidence": 0.017843,
+      "clean_confidence": 87.618774,
+      "column_text": "Party\nAffiliation",
+      "column_confidence": 96.574966
+    },
+    {
+      "column": 11,
+      "bbox": [
+        3260,
+        313,
+        3441,
+        373
+      ],
+      "original": "12",
+      "clean": "12",
+      "original_confidence": 96.928574,
+      "clean_confidence": 96.891815,
+      "column_text": "12",
+      "column_confidence": 96.907722
+    },
+    {
+      "column": 11,
+      "bbox": [
+        3260,
+        373,
+        3441,
+        432
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 11,
+      "bbox": [
+        3260,
+        432,
+        3441,
+        492
+      ],
+      "original": "AITC",
+      "clean": "AITC",
+      "original_confidence": 92.827972,
+      "clean_confidence": 90.115356,
+      "column_text": "AITC",
+      "column_confidence": 92.300613
+    },
+    {
+      "column": 11,
+      "bbox": [
+        3260,
+        492,
+        3441,
+        552
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 11,
+      "bbox": [
+        3260,
+        552,
+        3441,
+        612
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 11,
+      "bbox": [
+        3260,
+        612,
+        3441,
+        672
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 11,
+      "bbox": [
+        3260,
+        672,
+        3441,
+        733
+      ],
+      "original": "AITC",
+      "clean": "AITC",
+      "original_confidence": 93.048363,
+      "clean_confidence": 92.541504,
+      "column_text": "AITC",
+      "column_confidence": 92.921524
+    },
+    {
+      "column": 11,
+      "bbox": [
+        3260,
+        733,
+        3441,
+        794
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 11,
+      "bbox": [
+        3260,
+        794,
+        3441,
+        863
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "",
+      "column_confidence": null
+    },
+    {
+      "column": 11,
+      "bbox": [
+        3260,
+        863,
+        3441,
+        906
+      ],
+      "original": "",
+      "clean": "",
+      "original_confidence": null,
+      "clean_confidence": null,
+      "column_text": "Tey",
+      "column_confidence": 32.470627
+    }
+  ],
+  "status": "extracted"
+}

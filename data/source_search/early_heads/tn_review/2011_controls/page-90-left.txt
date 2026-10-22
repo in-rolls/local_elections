@@ -1,0 +1,57 @@
+TIRUVARU
+Village Panch
+Reservation of Seats for scheduled Caste / Scheduled T
+Tamil N
+Sl.N Category to which
+Name of the Village Panchayat
+o reservation is made
+1 2 3
+TIRUVARUR PANCHAYAT UNION
+1 Vaipur SC (Women)
+2 Thirukkaravasal SC (Women)
+3 Thiruneiper SC (Women)
+4 Thappalampuliyur SC (Women)
+5 Kunniyur SC (Women)
+6 Palayavalam SC (General)
+7 Odacheri SC (General)
+8 Velangudi SC (General)
+9 Kallikudi SC (General)
+10 Mangudi SC (General)
+11 Alivalam SC (General)
+12 Thandalai SC (General)
+13 Vadakarai SC (General)
+14 Serukudi SC (General)
+15 Pudupathur General (Women)
+16 Pulivalam General (Women)
+17 Kalyanasundarapuram General (Women)
+18 Pinnavasal General (Women)
+19 Authur General (Women)
+20 Palavanakudi General (Women)
+21 Pudur General (Women)
+22 Keelakavathakudi General
+23 Umamaheswarapuram General
+24 Kalyanamahadevi General
+25 Adiyakkamangalam General
+26 Amoor General
+27 Semangalam General
+28 Veppathangudi General
+29 Nadapur General
+30 Kottarakudi General
+31 Pallivaramangalam General
+32 Perungudi General
+33 Thiruvathiraimangalam General
+34 Koodur General
+NANNILAM PANCHAYAT UNION
+1 Kothavasal SC (Women)
+2 Kuvalaikkal SC (Women)
+3 Tattathimoolai SC (Women)
+4 Kaduvangudi SC (Women)
+5 Sorakkudi SC (Women)
+6 Tirumeichur SC (Women)
+7 Kaliyakudi SC (General)
+8 Kurungualm SC (General)
+9 Pavattakudi SC (General)
+10 Achuthamangalam SC (General)
+11 Anaikuppam SC (General)
+12 Kadagam SC (General)
+Page 88

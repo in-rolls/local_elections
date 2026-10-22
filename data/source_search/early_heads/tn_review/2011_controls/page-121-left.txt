@@ -1,0 +1,57 @@
+DINDIGUL
+Village Pancha
+Reservation of Seats for Scheduled Caste/Scheduled Tribes an
+Sta
+Category to which reservation is
+Sl. No Name of the Village Panchayat
+made
+1 2 3
+Athoor Panchayat Union
+1 Thoppampatti SC (Women)
+2 Pithalaipatty SC (Women)
+3 Athoor SC (General)
+4 Akkaraipatti SC (General)
+5 Bodikamanvadi SC (General)
+6 Chettiapatty General (Women)
+7 Kalikkampatty General (Women)
+8 Paraipatty General (Women)
+9 Pillaiyarnatham General (Women)
+10 Alamarathupatty General (Women)
+11 Vakkampatty General (Women)
+12 Palayankottai General
+13 Ambathurai General
+14 Ayyankottai General
+15 Devarappanpatty General
+16 Gandhigram General
+17 Seevalsaragu General
+18 Manaloor General
+19 Munnilaikottai General
+20 N.Panjampatti General
+21 Sitahrevu General
+22 Veerakkal General
+Dindigul Panchayat Union
+1 Pallapatty SC (Women)
+2 Chettinaickan patty SC (General)
+3 Thottanuthu SC (General)
+4 Balakrishnapuram General (Women)
+5 Adiyanuthu General (Women)
+6 A.Vellodu General (Women)
+7 kurumbapatty General (Women)
+8 Thamaraipadi General
+9 Periyakottai General
+10 Mullipadi General
+11 Sirumalai General
+12 Seelapadi General
+13 Anaipatty General
+14 M.M.Kovilur General
+Reddiarchatram Panchayat Union
+1 Dharumathupatty SC (Women)
+2 T.Pudupatty SC (Women)
+3 Kothapulli SC (General)
+4 Mangarai SC (General)
+5 Adalur General (Women)
+6 G.Nadupatty General (Women)
+7 Karisalpatti General (Women)
+8 Kasavanampatty General (Women)
+9 Kamatchipuram General (Women)
+Page 119

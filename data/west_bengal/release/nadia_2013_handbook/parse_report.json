@@ -1,0 +1,441 @@
+{
+  "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+  "office_rows": 374,
+  "ward_aggregate_rows": 187,
+  "ward_rows_with_names": 169,
+  "ward_rows_with_missing_counts": 7,
+  "office_rows_missing_category": 1,
+  "office_source_checks": [
+    {
+      "tier": "gp_head",
+      "rows": 187,
+      "unique_source_serials": 187,
+      "source_universe": {
+        "row_id": "4a9d5317e4dcb27218ab",
+        "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+        "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+        "source_page": 17,
+        "source_table": 0,
+        "source_table_row": 11,
+        "source_bbox": "[74.30399999999999, 445.00999499999995, 524.3800200000001, 466.729995]",
+        "source_coordinate_system": "PDF points, top-left origin",
+        "raw_cells": "[\"Gram Panchayat\", \"Number\", \"187\"]",
+        "printed_value": 187,
+        "unit": "gram_panchayats"
+      },
+      "universe_count_status": "matches",
+      "duplicate_serials": [],
+      "missing_serials": [],
+      "repeated_names_retained": {
+        "Shyamnagar": 2,
+        "Debagram": 2,
+        "Majhergram": 2
+      },
+      "category_counts": {
+        "SCW": 30,
+        "W": 47,
+        "OBCW": 13,
+        "UR": 46,
+        "STW": 3,
+        "OBC": 15,
+        "SC": 30,
+        "ST": 2,
+        "unknown": 1
+      }
+    },
+    {
+      "tier": "gp_deputy_head",
+      "rows": 187,
+      "unique_source_serials": 187,
+      "source_universe": {
+        "row_id": "4a9d5317e4dcb27218ab",
+        "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+        "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+        "source_page": 17,
+        "source_table": 0,
+        "source_table_row": 11,
+        "source_bbox": "[74.30399999999999, 445.00999499999995, 524.3800200000001, 466.729995]",
+        "source_coordinate_system": "PDF points, top-left origin",
+        "raw_cells": "[\"Gram Panchayat\", \"Number\", \"187\"]",
+        "printed_value": 187,
+        "unit": "gram_panchayats"
+      },
+      "universe_count_status": "matches",
+      "duplicate_serials": [],
+      "missing_serials": [],
+      "repeated_names_retained": {
+        "Shyamnagar": 2,
+        "Debagram": 2,
+        "Majhergram": 2
+      },
+      "category_counts": {
+        "UR": 140,
+        "SC": 21,
+        "OBCW": 5,
+        "ST": 3,
+        "OBC": 2,
+        "SCW": 14,
+        "STW": 2
+      }
+    }
+  ],
+  "office_visual_review": {
+    "path": "data/wb/derived/nadia_2013_handbook/full_office_visual_audit.json",
+    "sha256": "9fa81bb5b3696b27f851ec8c0a9871dbcbd2ced62fde42043a8b56bbd2b97d30",
+    "method": "Single-assistant complete source visual audit. Read all 10 rendered office pages row by row and recorded each printed serial, name, and category, then compared those readings with the parsed source-row snapshot. This is not human double entry or a blinded independent annotator study; the reviewer also developed the original parser and had prior sample familiarity.",
+    "summary": {
+      "pages_reviewed": 10,
+      "rows_reviewed": 374,
+      "rows_by_office": {
+        "pradhan": 187,
+        "upa_pradhan": 187
+      },
+      "printed_serial_fields_reviewed": 374,
+      "printed_name_fields_reviewed": 374,
+      "printed_category_fields_reviewed": 374,
+      "total_printed_fields_reviewed": 1122,
+      "nonblank_category_rows": 373,
+      "blank_category_rows": 1,
+      "name_ambiguities": 0,
+      "category_ambiguities": 0,
+      "printed_field_disagreements": 0,
+      "derived_axis_disagreements": 0,
+      "corrections_required": 0,
+      "missing_or_extra_rows": 0
+    },
+    "validated_rows": 374,
+    "status": "all_source_and_row_pins_match",
+    "earlier_sample_path": "data/wb/derived/nadia_2013_handbook/visual_review.json",
+    "earlier_sample_role": "Historical development sample; superseded in scope by the full audit."
+  },
+  "ward_source_checks": [
+    {
+      "row_id": "6db1fd63146a35ca872c",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 48,
+      "source_table": 0,
+      "source_table_row": 1,
+      "source_bbox": "[107.67500000000001, 144.5, 477.700005, 183.14]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"1.\", \"Total no. of GP Constituency\", \"3244\"]",
+      "field": "constituencies_2013",
+      "printed_value": 3244,
+      "observed_nonmissing_sum": 3244,
+      "missing_rows": 0,
+      "status": "matches"
+    },
+    {
+      "row_id": "27de91983c0c42a848b9",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 48,
+      "source_table": 0,
+      "source_table_row": 2,
+      "source_bbox": "[107.67500000000001, 183.14, 477.700005, 225.26]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"2.\", \"Total no of GP Seat\", \"3246\"]",
+      "field": "seats_2013",
+      "printed_value": 3246,
+      "observed_nonmissing_sum": 3246,
+      "missing_rows": 0,
+      "status": "matches"
+    },
+    {
+      "row_id": "6955cc2c5d24b8dc90ac",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 57,
+      "source_table": 0,
+      "source_table_row": 30,
+      "source_bbox": "[124.58, 466.41999500000003, 775.4199899999999, 480.33999500000004]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"District Total\", null, null, null, \"2843966\", \"2142\", null, \"2691\", \"3242\", \"2\", \"3244\", null, \"3246\", \"47\", \"485\", \"264\", \"30\"]",
+      "field": "electors_2012",
+      "printed_value": 2843966,
+      "observed_nonmissing_sum": 2843966,
+      "missing_rows": 0,
+      "status": "matches"
+    },
+    {
+      "row_id": "6955cc2c5d24b8dc90ac",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 57,
+      "source_table": 0,
+      "source_table_row": 30,
+      "source_bbox": "[124.58, 466.41999500000003, 775.4199899999999, 480.33999500000004]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"District Total\", null, null, null, \"2843966\", \"2142\", null, \"2691\", \"3242\", \"2\", \"3244\", null, \"3246\", \"47\", \"485\", \"264\", \"30\"]",
+      "field": "constituencies_2008",
+      "printed_value": 2142,
+      "observed_nonmissing_sum": 2142,
+      "missing_rows": 0,
+      "status": "matches"
+    },
+    {
+      "row_id": "6955cc2c5d24b8dc90ac",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 57,
+      "source_table": 0,
+      "source_table_row": 30,
+      "source_bbox": "[124.58, 466.41999500000003, 775.4199899999999, 480.33999500000004]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"District Total\", null, null, null, \"2843966\", \"2142\", null, \"2691\", \"3242\", \"2\", \"3244\", null, \"3246\", \"47\", \"485\", \"264\", \"30\"]",
+      "field": "seats_2008",
+      "printed_value": 2691,
+      "observed_nonmissing_sum": 2691,
+      "missing_rows": 0,
+      "status": "matches"
+    },
+    {
+      "row_id": "6955cc2c5d24b8dc90ac",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 57,
+      "source_table": 0,
+      "source_table_row": 30,
+      "source_bbox": "[124.58, 466.41999500000003, 775.4199899999999, 480.33999500000004]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"District Total\", null, null, null, \"2843966\", \"2142\", null, \"2691\", \"3242\", \"2\", \"3244\", null, \"3246\", \"47\", \"485\", \"264\", \"30\"]",
+      "field": "single_seated_constituencies_2013",
+      "printed_value": 3242,
+      "observed_nonmissing_sum": 3242,
+      "missing_rows": 0,
+      "status": "matches"
+    },
+    {
+      "row_id": "6955cc2c5d24b8dc90ac",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 57,
+      "source_table": 0,
+      "source_table_row": 30,
+      "source_bbox": "[124.58, 466.41999500000003, 775.4199899999999, 480.33999500000004]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"District Total\", null, null, null, \"2843966\", \"2142\", null, \"2691\", \"3242\", \"2\", \"3244\", null, \"3246\", \"47\", \"485\", \"264\", \"30\"]",
+      "field": "double_seated_constituencies_2013",
+      "printed_value": 2,
+      "observed_nonmissing_sum": 2,
+      "missing_rows": 0,
+      "status": "matches"
+    },
+    {
+      "row_id": "6955cc2c5d24b8dc90ac",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 57,
+      "source_table": 0,
+      "source_table_row": 30,
+      "source_bbox": "[124.58, 466.41999500000003, 775.4199899999999, 480.33999500000004]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"District Total\", null, null, null, \"2843966\", \"2142\", null, \"2691\", \"3242\", \"2\", \"3244\", null, \"3246\", \"47\", \"485\", \"264\", \"30\"]",
+      "field": "constituencies_2013",
+      "printed_value": 3244,
+      "observed_nonmissing_sum": 3244,
+      "missing_rows": 0,
+      "status": "matches"
+    },
+    {
+      "row_id": "6955cc2c5d24b8dc90ac",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 57,
+      "source_table": 0,
+      "source_table_row": 30,
+      "source_bbox": "[124.58, 466.41999500000003, 775.4199899999999, 480.33999500000004]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"District Total\", null, null, null, \"2843966\", \"2142\", null, \"2691\", \"3242\", \"2\", \"3244\", null, \"3246\", \"47\", \"485\", \"264\", \"30\"]",
+      "field": "seats_2013",
+      "printed_value": 3246,
+      "observed_nonmissing_sum": 3246,
+      "missing_rows": 0,
+      "status": "matches"
+    },
+    {
+      "row_id": "6955cc2c5d24b8dc90ac",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 57,
+      "source_table": 0,
+      "source_table_row": 30,
+      "source_bbox": "[124.58, 466.41999500000003, 775.4199899999999, 480.33999500000004]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"District Total\", null, null, null, \"2843966\", \"2142\", null, \"2691\", \"3242\", \"2\", \"3244\", null, \"3246\", \"47\", \"485\", \"264\", \"30\"]",
+      "field": "st_nonwomen_seats",
+      "printed_value": 47,
+      "observed_nonmissing_sum": 47,
+      "missing_rows": 0,
+      "status": "matches"
+    },
+    {
+      "row_id": "6955cc2c5d24b8dc90ac",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 57,
+      "source_table": 0,
+      "source_table_row": 30,
+      "source_bbox": "[124.58, 466.41999500000003, 775.4199899999999, 480.33999500000004]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"District Total\", null, null, null, \"2843966\", \"2142\", null, \"2691\", \"3242\", \"2\", \"3244\", null, \"3246\", \"47\", \"485\", \"264\", \"30\"]",
+      "field": "sc_nonwomen_seats",
+      "printed_value": 485,
+      "observed_nonmissing_sum": 485,
+      "missing_rows": 0,
+      "status": "matches"
+    },
+    {
+      "row_id": "6955cc2c5d24b8dc90ac",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 57,
+      "source_table": 0,
+      "source_table_row": 30,
+      "source_bbox": "[124.58, 466.41999500000003, 775.4199899999999, 480.33999500000004]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"District Total\", null, null, null, \"2843966\", \"2142\", null, \"2691\", \"3242\", \"2\", \"3244\", null, \"3246\", \"47\", \"485\", \"264\", \"30\"]",
+      "field": "obc_nonwomen_seats",
+      "printed_value": 264,
+      "observed_nonmissing_sum": 263,
+      "missing_rows": 1,
+      "status": "incomplete"
+    },
+    {
+      "row_id": "6955cc2c5d24b8dc90ac",
+      "source_path": "data/wb/gp_source_search/historical_expansion/nadia_Panchayat_20General_20Election_20-_20final_20book_election_202013__cf50563e.pdf",
+      "source_sha256": "238810badd4a39a733192c9c269ae3cea0171701253e159de32ae912c1211c43",
+      "source_page": 57,
+      "source_table": 0,
+      "source_table_row": 30,
+      "source_bbox": "[124.58, 466.41999500000003, 775.4199899999999, 480.33999500000004]",
+      "source_coordinate_system": "PDF points, top-left origin",
+      "raw_cells": "[\"District Total\", null, null, null, \"2843966\", \"2142\", null, \"2691\", \"3242\", \"2\", \"3244\", null, \"3246\", \"47\", \"485\", \"264\", \"30\"]",
+      "field": "st_women_seats",
+      "printed_value": 30,
+      "observed_nonmissing_sum": 29,
+      "missing_rows": 7,
+      "status": "incomplete"
+    }
+  ],
+  "ward_accounting_mismatches": 0,
+  "page_status_counts": {
+    "native_evidence_only_not_semantically_parsed": 127,
+    "source_control": 2,
+    "parsed_ward_aggregates": 9,
+    "parsed_office_synopsis": 10,
+    "parsed_source_gp_block_membership": 4
+  },
+  "limitations": [
+    "All 374 office rows have a pinned full source visual audit of serial, name and category. This single-assistant, non-blinded audit is not human double entry or an independent accuracy study; original native readings remain retained.",
+    "Source serial identifies GP within this synopsis; repeated names are not deduplicated and blocks are unstated.",
+    "Head serial123 Taldaha Majdia has a visibly blank category; both axes remain unknown.",
+    "Ward page49 lacks GP names, and seven page50 rows lack rightmost count columns in the printed layout.",
+    "Ward caste and women counts are mutually exclusive categories per printed page49 header; never office categories.",
+    "Pages outside the scoped tables retain native references, without a claim of semantic completion."
+  ],
+  "gp_block_membership": {
+    "rows": 186,
+    "blocks": 17,
+    "printed_constituency_occurrences": 47,
+    "distinct_printed_constituency_labels": 46,
+    "distinct_block_gp_pairs_case_insensitive": 185,
+    "rows_by_page": {
+      "71": 46,
+      "72": 45,
+      "73": 42,
+      "74": 53
+    },
+    "rows_by_block": {
+      "Karimpur-II": 10,
+      "Karimpur-I": 8,
+      "Tehatta-I": 11,
+      "Tehatta-II": 7,
+      "Nakashipara": 15,
+      "Kaliganj": 15,
+      "Chapra": 13,
+      "Krishnanagar-I": 12,
+      "Nabadwip": 8,
+      "Krishnanagar-II": 7,
+      "Santipur": 10,
+      "Ranaghat-I": 10,
+      "Krishnaganj": 7,
+      "Hanskhali": 13,
+      "Ranaghat-II": 14,
+      "Chakdaha": 17,
+      "Haringhata": 9
+    },
+    "source_anomalies": [
+      {
+        "kind": "duplicated_printed_zp_label",
+        "page": 72,
+        "value": "Chapra/ZP-19",
+        "note": "Two distinct printed lists retain this same label. No inferred ZP-20."
+      },
+      {
+        "kind": "duplicated_printed_gp_name",
+        "page": 74,
+        "value": [
+          "Ramnagar-Barachupria-II",
+          "Ramnagar-barachupria-II"
+        ],
+        "note": "Both occurrences and their printed case survive. No inferred Ramnagar-Barachupria-I."
+      },
+      {
+        "kind": "absent_gp_name",
+        "page": 74,
+        "value": "Haringhata-I",
+        "note": "Absent from these membership lists; no added row."
+      },
+      {
+        "kind": "source_spelling_or_shortened_name",
+        "value": [
+          "BetaiII",
+          "Dhubuia-II",
+          "Gayehpur",
+          "Fulia Township",
+          "Kalinarayanpur",
+          "Jugalkishore",
+          "taldah-Majdia"
+        ],
+        "note": "Printed strings retained without aliases or spelling correction."
+      },
+      {
+        "kind": "joined_printed_separator",
+        "page": 71,
+        "value": "Hanspukuriaand Barnia",
+        "note": "Visible conjunction separates Hanspukuria and Barnia; raw joined source text retained."
+      },
+      {
+        "kind": "wrapped_name",
+        "page": 72,
+        "value": "palitbegi\\na",
+        "note": "Line break within the printed name joined as palitbegia; source cell retained."
+      }
+    ],
+    "gp_names_in_multiple_blocks": {
+      "shyamnagar": [
+        "Ranaghat-II",
+        "Tehatta-I"
+      ],
+      "majhergram": [
+        "Nakashipara",
+        "Ranaghat-II"
+      ],
+      "debagram": [
+        "Kaliganj",
+        "Ranaghat-II"
+      ]
+    },
+    "visual_review_path": "data/wb/derived/nadia_2013_handbook/membership_visual_audit.json",
+    "visual_review_sha256": "228c0381abce0fa14d3f575f105e9c1bca2ccdb31b57677f7f5be6c2dd66a3d4",
+    "limitations": [
+      "Every printed occurrence is preserved. Repeated labels do not define unique geographic keys.",
+      "Printed names are not canonicalized, expanded, fuzzy matched, or corrected.",
+      "This membership table does not assign block names to office synopsis serials. Repeated office GP names cannot be resolved by row order.",
+      "The source list omits Haringhata-I and repeats Ramnagar-Barachupria-II. No missing GP record is manufactured.",
+      "This is a single-assistant, nonblinded source visual audit, not independent double entry."
+    ]
+  },
+  "runtime_seconds": 5.208
+}
