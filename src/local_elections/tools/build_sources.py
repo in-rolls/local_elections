@@ -73,13 +73,10 @@ HELD = {
     "Gujarat": "**2020 SEC rotation orders: 16 district-panchayat and 29 "
     "taluka-panchayat PDFs; parsed into 1,178 seats**",
     "Madhya Pradesh": "two large OmniPage-OCR'd volumes",
-    "Odisha": "2017 reservation of sarpanch/ward member - **district totals, "
-    "not seat-level**",
-    "Tamil Nadu": "municipal/corporation gazettes plus GP-president reservations; "
-    "[2011 roster and 2001 amendment exports](../data/tamil_nadu/"
-    "readme.md) remain separate "
-    "from pooled rows; originals and earlier leads are in the "
-    "[cross-state source ledger](../data/source_search/early_heads/README.md)",
+    "Odisha": "sources and data in "
+    "[`local_elections_odisha`](https://github.com/in-rolls/local_elections_odisha)",
+    "Tamil Nadu": "sources and data in "
+    "[`local_elections_tamil_nadu`](https://github.com/in-rolls/local_elections_tamil_nadu)",
     "Chandigarh, Puducherry, Delhi": "mostly urban local bodies",
     "**Karnataka**": "**2016 taluk & zilla panchayat winners with party**; "
     "plus `Karnataka_GP_ReservationHistory.dta`. 244 of the "

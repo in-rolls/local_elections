@@ -178,7 +178,20 @@ SIBLINGS = {
             "data/linkage/vp_2011_2021.parquet",
         ],
         "remaining": "the heads of the union and district panchayats are "
-        "not collected; 2011 village ward sheets print winners only",
+        "not collected; 2011 village ward sheets print winners only; the 2011 "
+        "president reservation roster and the 2001 amendments are separate "
+        "exports there, not pooled",
+    },
+    "Odisha": {
+        "repo": "local_elections_odisha",
+        "years": "2017, 2022",
+        "tiers": "gp_head",
+        "files": [
+            "data/2017/sarpanch_winners.parquet",
+            "data/2022/sarpanch_winners.parquet",
+        ],
+        "remaining": "winners only, with no reservation per GP; no adapter, so "
+        "nothing is pooled",
     },
     "Telangana": {
         "repo": "local_elections_telangana",
@@ -281,22 +294,9 @@ REMAINING_WORK = {
         "statements or aggregate forms, not missing seats; 4 produce no rows"
     ),
     "Madhya Pradesh": "2 held scans need a seat-level scope review and OCR",
-    "Odisha": (
-        "the 6 held PDFs are district aggregates, not seat rosters; acquire "
-        "seat-level rural data"
-    ),
     "Puducherry": (
         "the 2021 panchayat notification is a 60-page scan that needs OCR; "
         "the other held notification is municipal"
-    ),
-    "Tamil Nadu": (
-        "2011 GP-president roster and 2001 amendment operations have separate "
-        "source-specific exports; review earlier scans and subsequent amendments; "
-        "observed GP-president sex remains unavailable"
-    ),
-    "Telangana": (
-        "the 4 unlinked PDFs are urban reservation orders or election manuals, "
-        "not missing rural seats"
     ),
     "West Bengal": (
         "Separate 1998–2023 GP office, ward and results data have source-linked "
@@ -555,31 +555,6 @@ def build_rows():
                 (state, "-", "-", "-", "not applicable", "none", NO_PRI[state])
             )
             continue
-
-        if state == "Tamil Nadu":
-            exports = {
-                "2001": "amendments_2001/gp_president_amendment_operations.csv",
-                "2011": "heads_2011/gp_president_reservations.csv",
-            }
-            years = [
-                year
-                for year, path in exports.items()
-                if (DATA / "tamil_nadu/release" / path).is_file()
-            ]
-            if years:
-                table.append(
-                    (
-                        state,
-                        "GP-president office / amendment operation",
-                        ", ".join(years),
-                        "-",
-                        "source-specific exports",
-                        REMAINING_WORK[state],
-                        "[data/tamil_nadu/](data/tamil_nadu/"
-                        "); separate from pooled schema",
-                    )
-                )
-                continue
 
         directory = next(
             (d for d in raw if pretty(d) == state and d not in by_directory), None

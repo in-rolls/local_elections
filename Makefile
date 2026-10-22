@@ -229,11 +229,7 @@ manifest:
 verify:
 	$(PY) -m local_elections.tools.verify_manifest
 
-.PHONY: tn evidence evidence-archives verify-evidence verify-evidence-archives
-tn:
-	$(PY) -m local_elections.states.tn.parse_heads_2011
-	$(PY) -m local_elections.states.tn.parse_amendments_2001
-
+.PHONY: evidence evidence-archives verify-evidence verify-evidence-archives
 evidence:
 	$(PY) -m local_elections.tools.build_evidence
 

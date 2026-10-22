@@ -14,13 +14,13 @@ def test_cross_state_search_is_not_a_state(tmp_path, monkeypatch):
         "integration",
         "stats",
         "transliteration",
-        "tamil_nadu",
+        "andhra_pradesh",
         "master",
     ]:
         (tmp_path / name).mkdir()
     monkeypatch.setattr(datasets, "DATA", tmp_path)
-    assert {path.name for path in datasets.state_directories()} == {"tamil_nadu"}
-    assert build_coverage.pretty("tamil_nadu") == "Tamil Nadu"
+    assert {path.name for path in datasets.state_directories()} == {"andhra_pradesh"}
+    assert build_coverage.pretty("andhra_pradesh") == "Andhra Pradesh"
 
 
 def test_integration_receipts_are_excluded_without_hiding_unknown_states(
@@ -47,37 +47,27 @@ def test_integration_receipts_are_excluded_without_hiding_unknown_states(
     assert build_coverage.unmapped_directories() == ["unknown_state"]
 
 
-def test_nested_tn_exports_have_separate_coverage_without_pooled_rows(
-    tmp_path, monkeypatch
-):
-    source = tmp_path / "tamil_nadu/release/heads_2011/gp_president_reservations.csv"
-    source.parent.mkdir(parents=True)
-    source.write_text(
-        "state,year,tier,reservation,caste_reservation\n"
-        "Tamil Nadu,2011,gp_head,General,UR\n"
-    )
-    monkeypatch.setattr(datasets, "DATA", tmp_path)
-    monkeypatch.setattr(build_coverage, "DATA", tmp_path)
-    monkeypatch.setattr(build_coverage, "ALL_STATES", ["Tamil Nadu"])
-    assert list(datasets.parsed()) == []
-    row = build_coverage.build_rows()[0]
-    assert row[2:5] == ("2011", "-", "source-specific exports")
-    assert "data/tamil_nadu/" in row[6]
-
-
-def test_state_readme_dispatch_preserves_nested_tn_guide(tmp_path, monkeypatch):
-    guide = tmp_path / "tamil_nadu/release/heads_2011/README.md"
-    guide.parent.mkdir(parents=True)
-    guide.write_text("source-specific guide\n")
+def test_sibling_states_get_a_pointer_readme(tmp_path, monkeypatch):
     for name in ["source_search", "integration"]:
         (tmp_path / name).mkdir()
     monkeypatch.setattr(build_state_readmes, "DATA", tmp_path)
     monkeypatch.setattr(build_state_readmes, "slices_by_directory", dict)
-    monkeypatch.setattr(build_state_readmes, "render_tn", lambda: "overview\n")
-    assert build_state_readmes.build() == {
-        tmp_path / "tamil_nadu/readme.md": "overview\n"
-    }
-    assert guide.read_text() == "source-specific guide\n"
+    monkeypatch.setattr(datasets, "registry", dict)
+    monkeypatch.setattr(
+        build_state_readmes,
+        "SIBLINGS",
+        {"odisha": "local_elections_odisha", "telangana": "local_elections_telangana"},
+    )
+    written = build_state_readmes.build()
+    odisha = written[tmp_path / "odisha/readme.md"]
+    telangana = written[tmp_path / "telangana/readme.md"]
+    assert "[local_elections_odisha](https://github.com/in-rolls/" in odisha
+    assert "has no adapter" in odisha
+    assert "adapters/telangana.py" in telangana
+
+
+def test_no_tracked_file_besides_the_readme_in_a_sibling_state():
+    assert build_state_readmes.sibling_strays() == []
 
 
 def test_sibling_parquet_rows_are_counted_from_metadata(tmp_path, monkeypatch):
@@ -145,8 +135,9 @@ def test_coverage_does_not_call_every_unlinked_pdf_missing_work():
 
 def test_coverage_names_sources_that_still_have_to_be_acquired():
     rows = {row[0]: row for row in build_coverage.build_rows()}
-    assert "acquire seat-level rural data" in rows["Odisha"][5]
-    assert "source-specific exports" in rows["Tamil Nadu"][5]
+    assert "no reservation per GP" in rows["Odisha"][5]
+    assert "local_elections_odisha" in rows["Odisha"][6]
+    assert "separate exports there, not pooled" in rows["Tamil Nadu"][5]
 
 
 def test_every_parsed_state_with_unlinked_pdfs_has_a_reviewed_classification():

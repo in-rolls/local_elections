@@ -48,10 +48,10 @@ we get it" but "what is in it".
 | **Goa** | 37 | 4 | 0 | 0 | 687 | **2012/2017/2022 `panres_<taluka>` panchayat reservation + ward category** |
 | Gujarat | 0 | 0 | 45 | 0 | 605 | **2020 SEC rotation orders: 16 district-panchayat and 29 taluka-panchayat PDFs; parsed into 1,178 seats** |
 | Madhya Pradesh | 0 | 2 | 0 | 0 | 351 | two large OmniPage-OCR'd volumes |
-| Odisha | 6 | 0 | 0 | 0 | 254 | 2017 reservation of sarpanch/ward member - **district totals, not seat-level** |
-| Tamil Nadu | 11 | 1 | 0 | 0 | 74 | municipal/corporation gazettes plus GP-president reservations; [2011 roster and 2001 amendment exports](../data/tamil_nadu/readme.md) remain separate from pooled rows; originals and earlier leads are in the [cross-state source ledger](../data/source_search/early_heads/README.md) |
 | Himachal Pradesh | 0 | 1 | 0 | 0 | 3 | one source PDF |
+| Tamil Nadu | 0 | 0 | 0 | 0 | 0 | sources and data in [`local_elections_tamil_nadu`](https://github.com/in-rolls/local_elections_tamil_nadu) |
 | Rajasthan | 0 | 0 | 0 | 0 | 0 | sources and parsed data in [`local_elections_rajasthan`](https://github.com/in-rolls/local_elections_rajasthan) |
+| Odisha | 0 | 0 | 0 | 0 | 0 | sources and data in [`local_elections_odisha`](https://github.com/in-rolls/local_elections_odisha) |
 | Bihar | 0 | 0 | 0 | 0 | 0 | sources and parsed data in [`local_elections_bihar`](https://github.com/in-rolls/local_elections_bihar) |
 <!-- holdings:end -->
 
@@ -119,12 +119,14 @@ need a second reading; [WORKLIST.md](worklist.md) records each one.
 
 ### Traps in what is already held
 
-- **Odisha's files are aggregates.** `2017_RESERVATION-OF-SARPANCH-DISTRICT-WISE.pdf`
-  is one row per district with counts by category (SC 426, ST 1,237 … 6,794
-  total), not one row per gram panchayat. Seat-level Odisha still has to be
-  acquired.
-- **Tamil Nadu's gazettes are urban.** Gazette 326 concerns municipalities and
-  corporations. Village panchayat president reservation is not in what we hold.
+- **Odisha's reservation files are aggregates.** The 2017 district-wise
+  reservation PDFs (now in `local_elections_odisha`, `data/raw/sec/files/unlisted/`)
+  give one row per district with counts by category (SC 426, ST 1,237 … 6,794
+  total), not one row per gram panchayat. That repository has the 2017 and
+  2022 sarpanch winners; seat-level reservation still has to be acquired.
+- **Tamil Nadu's Gazette 326 is urban.** It concerns municipalities and
+  corporations. Village panchayat president reservation comes from the TNRD
+  gazettes, parsed in `local_elections_tamil_nadu`.
 - **Maharashtra is Mumbai only** — `data/maharashtra/mumbai/`, BMC 1997–2017.
   Two councils (2012, 2017) are parsed as `ulb_ward`; the ~28,000 rural GPs are
   absent entirely. And the one held sheet that states a reservation,
@@ -159,8 +161,8 @@ category term together. Seed specific pages, not homepages.
 | Madhya Pradesh | 22.9k | SEC portal blocked; district portals reachable | **scan** | OCR then build |
 | Punjab | 13.2k | district portals, 2024 election, block-wise | **scan** (CamScanner / print-to-image) | OCR then build |
 | Chhattisgarh | 11.6k | district portals (`raigarh` notice page) | **scan** | OCR then build |
-| Tamil Nadu | 12.5k | `tnsec.tn.gov.in` | unverified | needs India egress |
-| Odisha (seat-level) | 6.8k | `sec.odisha.gov.in` | unverified | needs India egress |
+| Tamil Nadu | 12.5k | `tnsec.tn.gov.in` | text PDFs | collected through an India proxy in `local_elections_tamil_nadu` |
+| Odisha (seat-level) | 6.8k | `sec.odisha.gov.in`, district collectors | winners: text; Form 15 reservation: Odia scans | winners in `local_elections_odisha`; reservation needs OCR |
 | Himachal Pradesh | 3.6k | `sec.hp.gov.in` | unverified | needs India egress |
 
 ### Reachability

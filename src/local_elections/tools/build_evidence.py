@@ -20,9 +20,6 @@ from local_elections.tools.build_manifest import RELEASE_INPUTS, digest, repo_st
 
 SCOPES = (
     "data/west_bengal",
-    "data/tamil_nadu/raw",
-    "data/tamil_nadu/interim",
-    "data/tamil_nadu/release",
     "data/source_search/early_heads",
     "data/source_search/national",
 )

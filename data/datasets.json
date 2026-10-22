@@ -104,33 +104,9 @@
       "release/mumbai/praja_ward_ratings_2011_2018.csv"
     ]
   },
-  "odisha": {
-    "pooled": [],
-    "supplemental": []
-  },
   "puducherry": {
     "pooled": [],
     "supplemental": []
-  },
-  "tamil_nadu": {
-    "pooled": [],
-    "supplemental": [
-      "release/amendments_2001/context_operations.csv",
-      "release/amendments_2001/context_operations.parquet",
-      "release/amendments_2001/data_dictionary.csv",
-      "release/amendments_2001/gp_president_amendment_operations.csv",
-      "release/amendments_2001/gp_president_amendment_operations.parquet",
-      "release/amendments_2001/page_audit.csv",
-      "release/amendments_2001/page_audit.parquet",
-      "release/amendments_2001/replacement_section_counts.csv",
-      "release/amendments_2001/replacement_section_counts.parquet",
-      "release/heads_2011/category_crosswalk.csv",
-      "release/heads_2011/dictionary.csv",
-      "release/heads_2011/gp_president_reservations.csv",
-      "release/heads_2011/gp_president_reservations.parquet",
-      "release/heads_2011/page_audit.csv",
-      "release/heads_2011/union_counts.csv"
-    ]
   },
   "west_bengal": {
     "pooled": [
