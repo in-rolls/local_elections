@@ -109,10 +109,10 @@ SIBLINGS = {
         "years": "2005, 2010, 2015, 2021",
         "tiers": "gp_head",
         "files": [
-            "data/2005/gram_panchayat_head_winner_list.parquet",
-            "data/2010/gram_panchayat_head_winner_list.parquet",
-            "data/2015/gram_panchayat_head_winner_list.parquet",
-            "data/2021/gram_panchayat_head_candidate_record.parquet",
+            "data/release/2005/gram_panchayat_head_winner_list.parquet",
+            "data/release/2010/gram_panchayat_head_winner_list.parquet",
+            "data/release/2015/gram_panchayat_head_winner_list.parquet",
+            "data/release/2021/gram_panchayat_head_candidate_record.parquet",
         ],
     },
     "Uttarakhand": {
