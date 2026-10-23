@@ -4,6 +4,7 @@ import pytest
 
 from local_elections.common import canon, reference
 from local_elections.common.adapters import rajasthan
+from local_elections.common.master import winner_gender_fields
 from local_elections.paths import ROOT
 
 
@@ -63,7 +64,7 @@ def test_panchayat_samiti_result_roster_is_retained(slices):
     contradiction = [row for row in rows if row["winner_category_sex_agree"] == "0"]
     assert len(contradiction) == 1
     assert contradiction[0]["winner"] == "MAGADU"
-    assert contradiction[0]["winner_gender"] == "Other than Woman"
+    assert winner_gender_fields(contradiction[0])["winner_gender"] == "male"
     assert contradiction[0]["winner_category_raw"] == "OBCW"
 
 
@@ -197,9 +198,12 @@ def test_old_panel_winner_gender_is_not_dropped(slices):
         for row in slice_["rows"]
         if row["tier"] == "gp_head" and row["year"] == "2015"
     ]
-    assert {row["winner_gender"] for row in rows} == {
-        "Woman",
-        "Other than Woman",
+    # 2015's sex is hand-coded from names, so it travels as a name-based
+    # value, never as a recorded sex - but it must not be dropped.
+    assert {winner_gender_fields(row)["winner_gender"] for row in rows} == {""}
+    assert {row["winner_female_probability_from_name"] for row in rows} == {"0", "1"}
+    assert {row["winner_female_probability_method"] for row in rows} == {
+        rajasthan.MANUAL_2015_METHOD
     }
 
 
@@ -238,7 +242,10 @@ def test_blank_ward_winners_are_explicitly_vacant(slices):
     ]
     assert len(rows) == 2
     assert all(row["vacant"] == 1 for row in rows)
-    assert all(not row["winner_gender"] and not row["winner_caste"] for row in rows)
+    assert all(
+        not winner_gender_fields(row)["winner_gender"] and not row["winner_caste"]
+        for row in rows
+    )
     assert {row["winner_category_raw"] for row in rows} == {"ST", "ST (Woman)"}
 
 

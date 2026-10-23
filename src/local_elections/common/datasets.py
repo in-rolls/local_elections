@@ -13,7 +13,16 @@ from local_elections.common import (  # noqa: E402 - after DATA, which it needs
     master,
 )
 
-DERIVED = {"master", "stats", "transliteration", "source_search", "integration"}
+# Not states: pooled output, its inputs and checks, and third-party reference
+# tables that span states (data/reference/opencity/: city candidate lists).
+DERIVED = {
+    "master",
+    "stats",
+    "transliteration",
+    "source_search",
+    "integration",
+    "reference",
+}
 
 
 def registry():

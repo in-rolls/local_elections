@@ -18,7 +18,7 @@ blank, so an analysis can drop them or bound the result both ways.
 Women's-seat winners also check naampy here: 20 of 94 score below 0.8 and 8
 below 0.35 (Javed Rafat, Ashoka Mondal; Basu Anita prints the surname first).
 
-Writes data/opencity/kolkata_winner_sex.csv.
+Writes data/reference/opencity/kolkata_winner_sex.csv.
 """
 
 import csv
@@ -29,7 +29,7 @@ import pandas as pd
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
 
-DIR = ROOT / "data" / "opencity"
+DIR = ROOT / "data" / "reference" / "opencity"
 OUT = DIR / "kolkata_winner_sex.csv"
 FILES = {
     2010: "kolkata_kmc_2010_candidates.csv",
