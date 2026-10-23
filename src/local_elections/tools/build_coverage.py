@@ -8,9 +8,8 @@ said nothing. A hand-maintained index will drift again, so it is generated.
 Three sources feed it:
 
   * **parsed datasets** in `data/<state>/`, identified by their columns rather
-    than their filenames - `jharkhand data 2010_reservation_pop_for web.csv` is
-    a pre-existing file that matches any sensible filename glob but is not one
-    of ours;
+    than their filenames, because a held third-party file can match any
+    sensible filename glob without being one of ours;
   * **raw holdings** from `data/source_search/inventory.csv`, so a state with
 documents but no
     parser reads "raw, unparsed" instead of looking empty;
@@ -153,15 +152,17 @@ SIBLINGS = {
     "Jharkhand": {
         "repo": "local_elections_jharkhand",
         "years": "2015, 2022",
-        "tiers": "gp_head",
+        "tiers": "gp_head, gp_ward, block_member, zp_member",
         "files": [
-            "data/2015/mukhiya_results.parquet",
-            "data/2022/mukhiya_results.parquet",
-            "data/linkage/gp_2015_2022.parquet",
+            "data/release/2015/mukhiya_results.parquet",
+            "data/release/2022/mukhiya_results.parquet",
+            "data/release/2015/ward_member_results.parquet",
+            "data/release/2015/panchayat_samiti_results.parquet",
+            "data/release/2015/zila_parishad_results.parquet",
+            "data/release/linkage/gp_2015_2022.parquet",
         ],
-        "remaining": "mukhiya seats only in the sibling; the 2015 ward, block "
-        "and district tiers are still parsed here (data/jharkhand/), and "
-        "winner sex is name-inferred",
+        "remaining": "2015 ward and zila parishad seats from 11 of 24 districts; "
+        "2022 mukhiya seats only; winner sex is name-inferred",
     },
     "Tamil Nadu": {
         "repo": "local_elections_tamil_nadu",
@@ -187,8 +188,8 @@ SIBLINGS = {
         "years": "2017, 2022",
         "tiers": "gp_head",
         "files": [
-            "data/2017/sarpanch_winners.parquet",
-            "data/2022/sarpanch_winners.parquet",
+            "data/release/2017/sarpanch_winners.parquet",
+            "data/release/2022/sarpanch_winners.parquet",
         ],
         "remaining": "winners only, with no reservation per GP; no adapter, so "
         "nothing is pooled",
@@ -282,12 +283,6 @@ REMAINING_WORK = {
     "Jammu & Kashmir": (
         "2016 is parsed from all 25 held PDFs; 13 files from 2010 and 2018 "
         "produce no rows"
-    ),
-    "Jharkhand": (
-        "GP-ward and ZP coverage reaches 11 of 24 districts; 29 rural and 3 "
-        "municipal PDFs are not linked to parsed rows. 2015 and 2022 mukhiya "
-        "results, linked across the two, are in [local_elections_jharkhand]"
-        "(https://github.com/in-rolls/local_elections_jharkhand)"
     ),
     "Karnataka": (
         "244 of 248 unlinked PDFs were reviewed as duplicate reservation "

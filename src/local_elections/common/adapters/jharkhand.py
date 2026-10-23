@@ -1,11 +1,16 @@
-"""Jharkhand mukhiya seats, from local_elections_jharkhand.
+"""Jharkhand's panchayat seats, from local_elections_jharkhand.
 
-The State Election Commission's Form 23 ("publication of election results")
-for 2015 and 2022, OCRed on-device and parsed by the sibling: one row per
-mukhiya seat with its reservation and its winner. The 2015 seats supersede this
-repository's own 2015 mukhiya parse (data/jharkhand/), which read the
-abbreviated ST label of Jamtara as SC; the in-tree ward, samiti and zila
-parishad slices stay.
+Mukhiya (gram panchayat head) seats for 2015 and 2022 come from the State
+Election Commission's Form 23 ("publication of election results"), OCRed
+on-device and parsed by the sibling: one row per seat with its reservation and
+its winner.
+
+The 2015 ward member, panchayat samiti and zila parishad seats come from the
+sibling's parse/members_2015.py, the parser this repository ran in-tree until
+October 2026 and moved there unchanged. Those rows are rebuilt here in the
+row vocabulary the in-tree parse wrote, and `reserved_caste` and
+`reserved_woman` are read again from the printed cell (`reserved_raw`) with
+this repository's normalizer; a disagreement stops the build.
 
 Form 23 prints the seat's reservation, not the winner's sex. Where the sibling
 has inferred it from the name, the probability travels under its own name
@@ -28,24 +33,30 @@ import pathlib
 
 import pyarrow.parquet as pq
 
-from local_elections.common.normalize import label
+from local_elections.common.normalize import caste_of, label, woman_of
 
 REPO = "local_elections_jharkhand"
 URL = "https://github.com/in-rolls/local_elections_jharkhand"
 STATE = "Jharkhand"
 
 YEARS = ("2015", "2022")
-RESULTS = "data/{year}/mukhiya_results.parquet"
-LINKS = {("2015", "2022"): "data/linkage/gp_2015_2022.parquet"}
-INFERRED = "data/inferred/winner_woman_probability_{year}.parquet"
-
-DECLARED = {
-    "data/2015/mukhiya_results.parquet": 4137,
-    "data/2022/mukhiya_results.parquet": 4334,
+RESULTS = "data/release/{year}/mukhiya_results.parquet"
+LINKS = {("2015", "2022"): "data/release/linkage/gp_2015_2022.parquet"}
+INFERRED = "data/release/inferred/winner_woman_probability_{year}.parquet"
+# tier_local -> the 2015 file that holds it
+MEMBERS = {
+    "ward_member": "data/release/2015/ward_member_results.parquet",
+    "panchayat_samiti": "data/release/2015/panchayat_samiti_results.parquet",
+    "zila_parishad": "data/release/2015/zila_parishad_results.parquet",
 }
 
-# This repository's own 2015 mukhiya parse, replaced by the sibling's.
-SUPERSEDES = {("Jharkhand", "2015", "gp_head")}
+DECLARED = {
+    "data/release/2015/mukhiya_results.parquet": 4137,
+    "data/release/2022/mukhiya_results.parquet": 4334,
+    "data/release/2015/ward_member_results.parquet": 19843,
+    "data/release/2015/panchayat_samiti_results.parquet": 5171,
+    "data/release/2015/zila_parishad_results.parquet": 226,
+}
 
 CASTES = {"SC", "ST", "BC", "NONE"}
 
@@ -138,6 +149,65 @@ def seat(r, inferred):
     return row
 
 
+def member(r):
+    """A 2015 member-tier row in the row vocabulary the in-tree parse wrote.
+
+    The printed cell is "<caste> | <woman>", as the parser joined its two
+    columns. Each half is read again here; the sibling's reading must agree.
+    """
+    caste_cell, _, woman_cell = text(r["reserved_raw"]).partition(" | ")
+    caste, woman = text(r["reserved_caste"]), int(r["reserved_woman"])
+    if caste_of(caste_cell) != caste or woman_of(woman_cell) != woman:
+        raise SystemExit(
+            f"{REPO}: {r['source_path']} p{r['source_page']} reads "
+            f"{r['reserved_raw']!r} as {caste}/{woman}; this repository's "
+            f"normalizer reads {caste_of(caste_cell)}/{woman_of(woman_cell)}"
+        )
+    path = text(r["source_path"])
+    return {
+        "state": text(r["state"]),
+        "year": text(r["year"]),
+        "district": text(r["district"]),
+        "block": text(r["block"]),
+        "block_no": text(r["block_no"]),
+        "gram_panchayat": text(r["gram_panchayat"]),
+        "gp_no": text(r["gp_no"]),
+        "ward_no": text(r["ward_no"]),
+        "seat_no": text(r["seat_no"]),
+        "seat_id_raw": text(r["seat_id_raw"]),
+        "seat_from_image": "1" if r["seat_from_image"] else "",
+        "tier": text(r["tier"]),
+        "tier_local": text(r["tier_local"]),
+        "reservation": label(caste, woman),
+        "caste_reservation": caste,
+        "woman_reserved": str(woman),
+        "winner": text(r["winner"]),
+        "vacant": text(r["vacant"]),
+        "reservation_raw": text(r["reserved_raw"]),
+        "script": text(r["script"]),
+        "source_path": path,
+        "source_page": text(r["source_page"]),
+        "source_pdf": path.rsplit("/", 1)[-1],
+        "source_url": "",
+        "source_capture": "",
+    }
+
+
+def members(root):
+    for tier_local, relative in MEMBERS.items():
+        rows = read(root, relative)
+        if rows is None:
+            continue
+        tier = rows[0]["tier"] if rows else tier_local
+        yield {
+            "dataset_id": f"jharkhand/{tier}/2015",
+            "state": STATE,
+            "rows": [member(r) for r in rows],
+            "provenance_level": "page",
+            "unit_of_observation": "seat",
+        }
+
+
 def slices(root):
     root = pathlib.Path(root)
     for year in YEARS:
@@ -152,6 +222,7 @@ def slices(root):
             "provenance_level": "page",
             "unit_of_observation": "seat",
         }
+    yield from members(root)
 
 
 def links(root):

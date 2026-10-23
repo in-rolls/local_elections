@@ -655,10 +655,10 @@ Jammu & Kashmir,2018,gp_ward,reservation_constant_within_seat,internal,skip,,,"t
 Jammu & Kashmir,2018,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Jammu & Kashmir,2018,gp_ward,year_constant,internal,pass,2018,2018,
 Jammu & Kashmir,2018,gp_ward,provenance_resolves,internal,pass,0,0,12 documents
-Jharkhand,2015,block_member,rows_in_band,declared,pass,5132,1000..5500,
+Jharkhand,2015,block_member,rows_in_band,declared,pass,5171,1000..5500,
 Jharkhand,2015,block_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_bc
 Jharkhand,2015,block_member,blank_share_within_tolerance,declared,warn,gram_panchayat 46%>10%; gp_no 91%>60%; ward_no 98%>30%,,3 column(s) over tolerance
-Jharkhand,2015,block_member,coverage_vs_published,external,pass,5132 (95%),5423 seats,seats
+Jharkhand,2015,block_member,coverage_vs_published,external,pass,5171 (95%),5423 seats,seats
 Jharkhand,2015,block_member,women_share_vs_statute,external,pass,52.2%,floor 50%,
 Jharkhand,2015,block_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
 Jharkhand,2015,block_member,caste_share_vs_population,external,skip,0,,no population columns in this source
@@ -687,10 +687,10 @@ Jharkhand,2015,gp_head,reservation_constant_within_seat,internal,skip,,,"the sou
 Jharkhand,2015,gp_head,plausible_vs_registry,external,pass,95%,,"4,137 against 4,364 in the register (2019-20)"
 Jharkhand,2015,gp_head,year_constant,internal,pass,2015,2015,
 Jharkhand,2015,gp_head,provenance_resolves,internal,pass,0,0,81 documents
-Jharkhand,2015,gp_ward,rows_in_band,declared,pass,19781,1000..20000,
+Jharkhand,2015,gp_ward,rows_in_band,declared,pass,19843,1000..20000,
 Jharkhand,2015,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_bc
 Jharkhand,2015,gp_ward,blank_share_within_tolerance,declared,warn,block 36%>35%,,1 column(s) over tolerance
-Jharkhand,2015,gp_ward,coverage_vs_published,external,skip,19781,,no published total for this slice
+Jharkhand,2015,gp_ward,coverage_vs_published,external,skip,19843,,no published total for this slice
 Jharkhand,2015,gp_ward,women_share_vs_statute,external,pass,52.7%,floor 50%,
 Jharkhand,2015,gp_ward,women_share_by_block,external,skip,,,only applies where the share is an exact split
 Jharkhand,2015,gp_ward,caste_share_vs_population,external,skip,0,,no population columns in this source

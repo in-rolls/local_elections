@@ -202,13 +202,6 @@ register. That is a different job from parsing seats.
 
 Both groups keep their manifests, so any file can be traced to the URL and
 capture it came from, and re-read by anyone who disagrees with this.""",
-    "jharkhand": """Place names are printed in Kruti Dev, a legacy font
-encoding rather than Unicode, and are shipped as they were printed - `script`
-says so on every row. They are not transliterated, so joining these to another
-source on name will not work without transliterating first.
-
-The filenames do not reliably say which tier a file holds, so tier is decided
-from the contents. A third of the PDFs have no ruling lines at all.""",
     "jammu_and_kashmir": """The holdings are an ad-hoc subset of districts rather than a
 corpus, and there is no reliable published total to measure them against, so
 no completeness figure is quoted - an invented denominator would be worse than
@@ -253,11 +246,6 @@ STATE_CHECKS = {
         "the complete 1-through-N constituency sequence in each order",
         "a source-script constituency name and a reviewed category match for every row",
     ],
-    "jharkhand": [
-        "the published seat totals for each tier",
-        "how much of the gap is the source's and how much the "
-        "parser's, decided by opening the file",
-    ],
     "jammu_and_kashmir": [
         "SC-reserved wards against SC population, the strongest check available here",
         "the women's share against the one-third floor",
@@ -285,6 +273,7 @@ STATE_CHECKS = {
 # directory here keeps only the generated readme pointing there; `make
 # state-readmes --check` fails if anything else turns up in it.
 SIBLINGS = {
+    "jharkhand": "local_elections_jharkhand",
     "odisha": "local_elections_odisha",
     "tamil_nadu": "local_elections_tamil_nadu",
     "telangana": "local_elections_telangana",
@@ -295,7 +284,6 @@ MAKE_TARGET = {
     "assam": "assam",
     "goa": "goa",
     "gujarat": "gujarat",
-    "jharkhand": "jharkhand",
     "jammu_and_kashmir": "jk",
     "karnataka": "karnataka",
     "maharashtra": "maharashtra",

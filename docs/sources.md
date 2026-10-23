@@ -38,7 +38,6 @@ we get it" but "what is in it".
 <!-- holdings:start -->
 | state | text | scan | encoded | mixed | pages | what is held |
 |---|---|---|---|---|---|---|
-| **Jharkhand** | 108 | 28 | 0 | 8 | 4,970 | **2015 mukhiya (GP head) reservation by district; 2022 Form-23 ZP members** |
 | West Bengal | 289 | 287 | 0 | 4 | 4,217 | 2018 ZP gazettes parsed with drafts separate; named Birbhum 1998/2003 research reservations and 2013/2018/2023 office schedules parsed; ward, results and reference outputs retain review flags; [reservation gaps](../data/west_bengal/discovery/vintage_search/README.md); [GP source search](../data/west_bengal/gp_source_search.md), [derived GP data and review](../data/west_bengal/release/README.md) |
 | **Karnataka** | 236 | 202 | 0 | 2 | 1,552 | **2016 taluk & zilla panchayat winners with party**; plus `Karnataka_GP_ReservationHistory.dta`. 244 of the documents are deliberately unread - see ../data/karnataka/readme.md |
 | **Jammu & Kashmir** | 104 | 8 | 0 | 0 | 1,469 | **2010/2016/2018 block-wise, panch-ward reservation with SC/ST/OC population** |
@@ -52,6 +51,7 @@ we get it" but "what is in it".
 | Tamil Nadu | 0 | 0 | 0 | 0 | 0 | sources and data in [`local_elections_tamil_nadu`](https://github.com/in-rolls/local_elections_tamil_nadu) |
 | Rajasthan | 0 | 0 | 0 | 0 | 0 | sources and parsed data in [`local_elections_rajasthan`](https://github.com/in-rolls/local_elections_rajasthan) |
 | Odisha | 0 | 0 | 0 | 0 | 0 | sources and data in [`local_elections_odisha`](https://github.com/in-rolls/local_elections_odisha) |
+| Jharkhand | 0 | 0 | 0 | 0 | 0 | sources and parsed data in [`local_elections_jharkhand`](https://github.com/in-rolls/local_elections_jharkhand) |
 | Bihar | 0 | 0 | 0 | 0 | 0 | sources and parsed data in [`local_elections_bihar`](https://github.com/in-rolls/local_elections_bihar) |
 <!-- holdings:end -->
 
@@ -107,11 +107,13 @@ need a second reading; [WORKLIST.md](worklist.md) records each one.
   polled. Three cycles are parsed (2012, 2017, and 2022), though the latter two
   rosters are incomplete. Reservation is at ward level because Goa's sarpanch
   is elected indirectly by the members.
-- **Jharkhand**: the 2015 district notifications now yield 29,111 rows across
-  mukhiya, panchayat-samiti, ward-member, and zila-parishad tiers. The documents
-  mix scans, digital text, and legacy Kruti Dev-style Hindi. The source and OCR
-  gaps are measured in [WORKLIST.md](worklist.md), including the districts for
-  which ward-level documents are not held.
+- **Jharkhand**: sources, parsers and tables are in
+  [local_elections_jharkhand](https://github.com/in-rolls/local_elections_jharkhand):
+  2015 and 2022 mukhiya seats from Form 23, and the 2015 ward-member,
+  panchayat-samiti and zila-parishad seats from the district notifications.
+  The documents mix scans, digital text, and legacy Kruti Dev-style Hindi. The
+  source and OCR gaps are measured in [WORKLIST.md](worklist.md), including the
+  districts for which ward-level documents are not held.
 - **Andhra Pradesh**: the held 2020 district gazettes now yield 80,021 GP-head
   and GP-ward seats across eight districts. The complete 13-district GP series
   is held; Chittoor, Guntur, Srikakulam, Visakhapatnam, and Vizianagaram remain
@@ -194,8 +196,7 @@ reserved seat. Worth verifying behind a VPN; worth not assuming.
 
 1. **Jammu & Kashmir and Goa** — clean English text, already downloaded, and Goa
    gives three cycles. Days, not weeks.
-2. **Jharkhand** — GP-level, already downloaded, and its legacy-Hindi encoding is
-   a solved problem in this codebase.
+2. **Jharkhand** — parsed in its own repository; ward and zila parishad lists are held for 11 of 24 districts.
 3. **Andhra Pradesh** — the five held/unparsed district gazettes are the next
    clean continuation of an established parser and validation pipeline.
 4. **Maharashtra** — the largest missing state by far. Requires OCR and a

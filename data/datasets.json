@@ -64,15 +64,6 @@
     ],
     "supplemental": []
   },
-  "jharkhand": {
-    "pooled": [
-      "release/mukhiya_reservation_2015.csv",
-      "release/panchayat_samiti_reservation_2015.csv",
-      "release/ward_member_reservation_2015.csv",
-      "release/zila_parishad_reservation_2015.csv"
-    ],
-    "supplemental": []
-  },
   "karnataka": {
     "pooled": [
       "release/block_member_2016.csv",

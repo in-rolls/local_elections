@@ -9,7 +9,7 @@ Actionable gaps in the retained data.
 | Rows | State | Year | Tier | What | Detail |
 |---|---|---|---|---|---|
 | 62,990 | Telangana | 2025 | `gp_ward` | the source states a caste but no gender | Nalgonda 5,370, Vikarabad 3,960, Siddipet 3,832 |
-| 23,378 | Jharkhand | 2015 | `gp_ward` | some districts are not held | 11 of 24 districts, roughly 23,378 rows missing. Searched 2026-08-13: not one of the eleven districts that hold a document has a single ward-tier mention in it; they are mukhiya and panchayat samiti notifications and nothing else. Hazaribag and Seraikela Kharsawan hold no document at all. The archive has six PDFs for the commission, captured in 2026, none of them a result or a reservation notification. |
+| 23,451 | Jharkhand | 2015 | `gp_ward` | some districts are not held | 11 of 24 districts, roughly 23,451 rows missing. Searched 2026-08-13: not one of the eleven districts that hold a document has a single ward-tier mention in it; they are mukhiya and panchayat samiti notifications and nothing else. Hazaribag and Seraikela Kharsawan hold no document at all. The archive has six PDFs for the commission, captured in 2026, none of them a result or a reservation notification. |
 | 6,471 | Tamil Nadu | 2011 | `block_member` | the row does not say which seat | Villupuram 473, Vellore 390, Tiruvannamalai 341 |
 | 5,090 | Tamil Nadu | 2019 | `block_member` | the row does not say which seat | Tiruvannamalai 341, Salem 288, Cuddalore 287 |
 | 1,875 | Andhra Pradesh | 2020 | `gp_ward` | some ward lists are shorter than the record says | 3% of rows |

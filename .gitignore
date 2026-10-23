@@ -8,11 +8,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 data/andhra_pradesh/interim/ocr/
-# data/jharkhand/interim/ocr/ is committed. It was ignored while tesseract produced it -
-# forty minutes and reproducible from the committed PDFs by anyone. Surya
-# produces it in about four hours and only on an Apple-Silicon Mac, so ignoring
-# it would leave one machine able to rebuild the state.
-
 # Page-level OCR resume state. Deleted when a document completes, so anything
 # here is either an interrupted run or a run in progress.
 */ocr/.partial/

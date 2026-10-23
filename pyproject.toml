@@ -118,12 +118,11 @@ convention = "google"
 # leftover debug statement, and the subprocess calls are deliberate: pdftotext,
 # pdfinfo, pdftoppm and tesseract are the readers, invoked by name because that
 # is how they are installed.
-# proof_page and compare_readers write an HTML file to /tmp and open it; they
-# are for putting a rendered page in front of a human, not for shipping.
+# proof_page writes an HTML file to /tmp and opens it; it is for putting a
+# rendered page in front of a human, not for shipping.
 "src/local_elections/tools/**" = ["T201", "S603", "S607", "S108"]
 # S310: the AP harvester opens an https URL built from a CDX response.
-# S105: RE_MUKHIYA_TOKEN is a regex for a Kruti Dev word, not a password.
-"src/local_elections/states/**" = ["T201", "S603", "S607", "S310", "S105", "S101"]
+"src/local_elections/states/**" = ["T201", "S603", "S607", "S310", "S101"]
 "src/local_elections/common/**" = ["T201", "S603", "S607"]
 
 [project.scripts]

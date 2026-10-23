@@ -187,13 +187,16 @@
     }
   },
   "local_elections_jharkhand": {
-    "ref": "1e80cec2a244bbdcdf6cc171f808956a263962f6",
+    "ref": "6ee783787f1a9da3e0e171b5027a46cf8005de2c",
     "files": {
-      "data/2015/mukhiya_results.parquet": "afde1ec88a0e09a5ea052238f72dab1dfd2241d05581259b85728cd6593e6157",
-      "data/2022/mukhiya_results.parquet": "be844a83ab6d8fc36fba74b318d788a97bd0b9dbcee749f6f2b8c1fe40253910",
-      "data/linkage/gp_2015_2022.parquet": "8ac41eb2150bdc4df18ed0fb9b74c4cb41b99cd48bb0ca9f1ccb40dd39f2da93",
-      "data/inferred/winner_woman_probability_2015.parquet": "3421730006bb42e771f2d8a1dfc2eb01018b766708ea549b5ad742ba1e2299a2",
-      "data/inferred/winner_woman_probability_2022.parquet": "e21048c3a1c3aa1beb3b1ea7e068bc5778b0bf8debb58406eee679152449dfd7"
+      "data/release/2015/mukhiya_results.parquet": "afde1ec88a0e09a5ea052238f72dab1dfd2241d05581259b85728cd6593e6157",
+      "data/release/2022/mukhiya_results.parquet": "be844a83ab6d8fc36fba74b318d788a97bd0b9dbcee749f6f2b8c1fe40253910",
+      "data/release/2015/ward_member_results.parquet": "6a65af319c465996c32c3e2737d0aadbad9ed1d3b581fd210c92a8c1a90d807e",
+      "data/release/2015/panchayat_samiti_results.parquet": "4e957c5cf0567094c40d7d47f9f8fb951aa556c43695852460119414dbc3a5bf",
+      "data/release/2015/zila_parishad_results.parquet": "aef457bea75ff6339e89132dcd0f8ae4784a4fd3a35129ee4802482e5d1837fe",
+      "data/release/linkage/gp_2015_2022.parquet": "8ac41eb2150bdc4df18ed0fb9b74c4cb41b99cd48bb0ca9f1ccb40dd39f2da93",
+      "data/release/inferred/winner_woman_probability_2015.parquet": "3421730006bb42e771f2d8a1dfc2eb01018b766708ea549b5ad742ba1e2299a2",
+      "data/release/inferred/winner_woman_probability_2022.parquet": "e21048c3a1c3aa1beb3b1ea7e068bc5778b0bf8debb58406eee679152449dfd7"
     }
   },
   "local_elections_telangana": {

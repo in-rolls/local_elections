@@ -26,7 +26,7 @@
     }
   ],
   "builder_sha256": "41c852f29137f3bf75641e7757473a1421c6794e2297112af8edbf501efecbb6",
-  "built_from_commit": "dee60b7c182e2b0238fdbe2bc449097983463d36",
+  "built_from_commit": "d712c79b1b05a0e52d8dbb8eda1367aaeffb74c2",
   "dirty": true,
   "excluded_names": [
     ".DS_Store"

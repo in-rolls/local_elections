@@ -3,7 +3,7 @@ PY ?= uv run python
 OCR_PY ?= uv run --no-default-groups --group ocr python
 TABLE_OCR_PY ?= uv run --group table-ocr python
 
-.PHONY: help inventory probe assam assam-2025 assam-2025-extract assam-2025-ocr assam-harvest gujarat gujarat-ocr gujarat-harvest gujarat-validate goa jharkhand jharkhand-ocr jharkhand-bench jharkhand-bench-record jk jk-2010-extract jk-2016-extract ap karnataka maharashtra maharashtra-harvest wb validate test  coverage state-readmes stats worklist master manifest verify release-check expect dictionary contract naming
+.PHONY: help inventory probe assam assam-2025 assam-2025-extract assam-2025-ocr assam-harvest gujarat gujarat-ocr gujarat-harvest gujarat-validate goa jk jk-2010-extract jk-2016-extract ap karnataka maharashtra maharashtra-harvest wb validate test  coverage state-readmes stats worklist master manifest verify release-check expect dictionary contract naming layout
 
 help:
 	@echo "make inventory   classify the source documents already in data/"
@@ -18,9 +18,6 @@ help:
 	@echo "make gujarat-harvest  fetch Gujarat's 2020 PRI rotation orders"
 	@echo "make gujarat-validate verify Gujarat's held sources offline"
 	@echo "make goa         parse + validate Goa ward reservation"
-	@echo "make jharkhand   parse + validate Jharkhand, one file per tier"
-	@echo "make jharkhand-ocr  re-read the Jharkhand scans with Surya (~6h)"
-	@echo "make jharkhand-bench  gates for a Jharkhand parser change"
 	@echo "make jk          parse + validate Jammu & Kashmir"
 	@echo "make jk-2010-extract  extract J&K 2010 digital tables"
 	@echo "make jk-2016-extract  extract J&K 2016 digital tables"
@@ -96,26 +93,6 @@ karnataka-ocr:
 goa:
 	$(PY) -m local_elections.states.goa.parse
 	$(PY) -m local_elections.states.goa.validate
-
-jharkhand:
-	$(PY) -m local_elections.states.jharkhand.parse
-	$(PY) -m local_elections.states.jharkhand.validate
-
-# The gates a parser change has to clear, against data/stats/jharkhand_bench.json.
-# `make jharkhand-bench-record` stores what the code does now; run it only when
-# you have decided the current numbers are the ones to defend.
-jharkhand-bench:
-	$(PY) -m local_elections.states.jharkhand.bench
-
-jharkhand-bench-record:
-	$(PY) -m local_elections.states.jharkhand.bench --record
-
-# Not part of `make jharkhand`, and not a dependency of anything. Its output is
-# committed, it takes about six hours, and it needs an interpreter the rest of
-# the repository cannot share, so uv runs it from the isolated OCR group.
-jharkhand-ocr:
-	$(OCR_PY) -m local_elections.states.jharkhand.ocr
-	$(PY) -m local_elections.states.jharkhand.ocr_seats
 
 jk-2010-extract:
 	$(PY) -m local_elections.states.jk.extract_2010
@@ -209,7 +186,6 @@ validate:
 	$(PY) -m local_elections.states.assam.validate
 	$(PY) -m local_elections.states.goa.validate
 	$(PY) -m local_elections.states.gujarat.validate
-	$(PY) -m local_elections.states.jharkhand.validate
 	$(PY) -m local_elections.states.jk.validate
 	$(PY) -m local_elections.states.karnataka.validate
 	$(PY) -m local_elections.states.maharashtra.validate
@@ -272,6 +248,10 @@ state-readmes:
 # Column names against docs/naming.md, in the pooled tables and every pinned sibling file.
 naming:
 	$(PY) -m local_elections.tools.naming --strict
+
+# every state repository's folders and fetch log against docs/layout.md
+layout:
+	$(PY) -m local_elections.tools.check_layout
 
 expect:
 	$(PY) -m local_elections.common.expectations

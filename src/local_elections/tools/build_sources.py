@@ -36,7 +36,7 @@ END = "<!-- holdings:end -->"
 GROUPS = {
     "Bihar": ["bihar"],
     "Rajasthan": ["rajasthan"],
-    "**Jharkhand**": ["jharkhand"],
+    "Jharkhand": ["jharkhand"],
     "**Jammu & Kashmir**": ["jammu_and_kashmir"],
     "**Andhra Pradesh**": ["andhra_pradesh"],
     "**Goa**": ["goa"],
@@ -57,8 +57,8 @@ HELD = {
     "[`local_elections_bihar`](https://github.com/in-rolls/local_elections_bihar)",
     "Rajasthan": "sources and parsed data in "
     "[`local_elections_rajasthan`](https://github.com/in-rolls/local_elections_rajasthan)",
-    "**Jharkhand**": "**2015 mukhiya (GP head) reservation by district; 2022 "
-    "Form-23 ZP members**",
+    "Jharkhand": "sources and parsed data in "
+    "[`local_elections_jharkhand`](https://github.com/in-rolls/local_elections_jharkhand)",
     "**Jammu & Kashmir**": "**2010/2016/2018 block-wise, panch-ward "
     "reservation with SC/ST/OC population**",
     "**Andhra Pradesh**": "**2020 district gazettes: GP, MPTC, ZPTC, MPP reservation**",
