@@ -36,29 +36,29 @@ URL = "https://github.com/in-rolls/local_elections_tamil_nadu"
 STATE = "Tamil Nadu"
 
 YEARS = ("2011", "2019", "2021")
-RESULTS = "data/{year}/vp_president_results.parquet"
-CANDIDATES = "data/{year}/vp_president_candidates.parquet"
+RESULTS = "data/release/{year}/vp_president_results.parquet"
+CANDIDATES = "data/release/{year}/vp_president_candidates.parquet"
 DISTRICTS = "data/reference/districts.csv"
-WARD_RESULTS = "data/{year}/ward_results.parquet"
-WARD_CANDIDATES = "data/{year}/ward_candidates.parquet"
+WARD_RESULTS = "data/release/{year}/ward_results.parquet"
+WARD_CANDIDATES = "data/release/{year}/ward_candidates.parquet"
 
 # The sibling's ward offices, as this repository's tiers.
 WARD_TIER = {"vp_ward": "gp_ward", "pu_ward": "block_member", "dp_ward": "zp_member"}
 
 # Rows the sibling's committed files hold; a change stops the build.
 DECLARED = {
-    "data/2011/vp_president_results.parquet": 12523,
-    "data/2019/vp_president_results.parquet": 9624,
-    "data/2021/vp_president_results.parquet": 3005,
-    "data/2011/vp_president_candidates.parquet": 51032,
-    "data/2019/vp_president_candidates.parquet": 35992,
-    "data/2021/vp_president_candidates.parquet": 11208,
-    "data/2011/ward_results.parquet": 106448,
-    "data/2019/ward_results.parquet": 82339,
-    "data/2021/ward_results.parquet": 24784,
-    "data/2011/ward_candidates.parquet": 36250,
-    "data/2019/ward_candidates.parquet": 214335,
-    "data/2021/ward_candidates.parquet": 72844,
+    "data/release/2011/vp_president_results.parquet": 12523,
+    "data/release/2019/vp_president_results.parquet": 9624,
+    "data/release/2021/vp_president_results.parquet": 3005,
+    "data/release/2011/vp_president_candidates.parquet": 51032,
+    "data/release/2019/vp_president_candidates.parquet": 35992,
+    "data/release/2021/vp_president_candidates.parquet": 11208,
+    "data/release/2011/ward_results.parquet": 106448,
+    "data/release/2019/ward_results.parquet": 82339,
+    "data/release/2021/ward_results.parquet": 24784,
+    "data/release/2011/ward_candidates.parquet": 36250,
+    "data/release/2019/ward_candidates.parquet": 214335,
+    "data/release/2021/ward_candidates.parquet": 72844,
 }
 
 # A seat is identified by district, union and panchayat within an election;
@@ -68,8 +68,8 @@ WARD_KEY = (*KEY, "tier", "ward_no")
 
 # The sibling's seat links between elections, keyed by each side's locator.
 LINKS = {
-    ("2011", "2019"): "data/linkage/vp_2011_2019.parquet",
-    ("2011", "2021"): "data/linkage/vp_2011_2021.parquet",
+    ("2011", "2019"): "data/release/linkage/vp_2011_2019.parquet",
+    ("2011", "2021"): "data/release/linkage/vp_2011_2021.parquet",
 }
 
 

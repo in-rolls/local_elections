@@ -40,13 +40,13 @@ STATE = "Uttarakhand"
 # against the rest of the state's 2008, 2014 and 2019 - so it lands in slices of
 # its own rather than being folded into a cycle it did not vote in.
 FILES = [
-    "data/uttarakhand-panchayat-elections.csv",
-    "data/uttarakhand-panchayat-elections-haridwar.csv",
+    "data/raw/secresult/uttarakhand-panchayat-elections.csv",
+    "data/raw/secresult/uttarakhand-panchayat-elections-haridwar.csv",
 ]
 
 DECLARED = {
-    "data/uttarakhand-panchayat-elections.csv": 106382,
-    "data/uttarakhand-panchayat-elections-haridwar.csv": 10132,
+    "data/raw/secresult/uttarakhand-panchayat-elections.csv": 106382,
+    "data/raw/secresult/uttarakhand-panchayat-elections-haridwar.csv": 10132,
 }
 
 POST = "निर्वाचित पद"
@@ -79,15 +79,15 @@ C = {
 # The sibling's pradhan seat links between consecutive elections, keyed by
 # district, block and printed panchayat name on each side.
 LINKS = {
-    ("2008", "2014"): "data/linkage/gp_2008_2014.parquet",
-    ("2014", "2019"): "data/linkage/gp_2014_2019.parquet",
+    ("2008", "2014"): "data/release/linkage/gp_2008_2014.parquet",
+    ("2014", "2019"): "data/release/linkage/gp_2014_2019.parquet",
 }
 
 
 # The sibling's name-based probability that each elected pradhan is a woman. The
 # portal records no sex, so winner_gender stays blank and this travels under its
 # own name.
-INFERRED = "data/inferred/winner_woman_probability_{year}.parquet"
+INFERRED = "data/release/inferred/winner_woman_probability_{year}.parquet"
 
 
 def inferred_sex(root, year):

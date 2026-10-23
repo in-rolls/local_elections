@@ -153,37 +153,37 @@
     }
   },
   "local_elections_uttarakhand": {
-    "ref": "bb7d381e539636bdf03e8669507d475523c815b6",
+    "ref": "58ce56e4057b9ea03fb3fdfb9365f5c8178bb047",
     "files": {
-      "data/uttarakhand-panchayat-elections.csv": "cf95e7c91ed41910c79f596c4634f7e2e67107f047676fb90c5ecdc88decbf21",
-      "data/uttarakhand-panchayat-elections-haridwar.csv": "a1575bd1d8acb93ad1dd340a3e90a19b891f12a5f4726ed9e3993107e26799b1",
-      "data/linkage/gp_2008_2014.parquet": "f0da243d807b179ff2b8f9499f351f8c6ec897fe78c2190fa5281aa84503f2ba",
-      "data/linkage/gp_2014_2019.parquet": "4dfe5e505efc91f2e04ba86c93cd0912f1335d6b5d1a5ae470df73700e16f5b7",
-      "data/inferred/winner_woman_probability_2008.parquet": "df38d5c0e7df98b18bcd6c9d732501e8b97ec4e7be9765816e331cd2586e9064",
-      "data/inferred/winner_woman_probability_2010.parquet": "6c71dedcfbf81d53ad08563dad2a743f2cb22763d106ceeb5f685c0b3d8ed8e8",
-      "data/inferred/winner_woman_probability_2014.parquet": "0878ef647d01fc2476992fe3ebb54061570663e97e67aaf4be7f4022ada3d999",
-      "data/inferred/winner_woman_probability_2015.parquet": "8f388ba90726026d7046a284745be3fac3c77555132089ab4a8b68bf6f0978cf",
-      "data/inferred/winner_woman_probability_2019.parquet": "c02b699224d544d2d2a806d9b888830450c7552d8f50638087a072b600246f8a"
+      "data/raw/secresult/uttarakhand-panchayat-elections.csv": "cf95e7c91ed41910c79f596c4634f7e2e67107f047676fb90c5ecdc88decbf21",
+      "data/raw/secresult/uttarakhand-panchayat-elections-haridwar.csv": "a1575bd1d8acb93ad1dd340a3e90a19b891f12a5f4726ed9e3993107e26799b1",
+      "data/release/linkage/gp_2008_2014.parquet": "f0da243d807b179ff2b8f9499f351f8c6ec897fe78c2190fa5281aa84503f2ba",
+      "data/release/linkage/gp_2014_2019.parquet": "4dfe5e505efc91f2e04ba86c93cd0912f1335d6b5d1a5ae470df73700e16f5b7",
+      "data/release/inferred/winner_woman_probability_2008.parquet": "df38d5c0e7df98b18bcd6c9d732501e8b97ec4e7be9765816e331cd2586e9064",
+      "data/release/inferred/winner_woman_probability_2010.parquet": "6c71dedcfbf81d53ad08563dad2a743f2cb22763d106ceeb5f685c0b3d8ed8e8",
+      "data/release/inferred/winner_woman_probability_2014.parquet": "0878ef647d01fc2476992fe3ebb54061570663e97e67aaf4be7f4022ada3d999",
+      "data/release/inferred/winner_woman_probability_2015.parquet": "8f388ba90726026d7046a284745be3fac3c77555132089ab4a8b68bf6f0978cf",
+      "data/release/inferred/winner_woman_probability_2019.parquet": "c02b699224d544d2d2a806d9b888830450c7552d8f50638087a072b600246f8a"
     }
   },
   "local_elections_tamil_nadu": {
-    "ref": "e04f30a82c4347109e23d54b114414144e671830",
+    "ref": "2e6fab133373979e2496f3467889cae9f6cef1dc",
     "files": {
-      "data/2011/vp_president_results.parquet": "78ce144ef80343feeb9d22380820b26db52de6e3a8c98fe8815b8697d1784baf",
-      "data/2011/vp_president_candidates.parquet": "2e4d03e2b8a48be67fb638fe5f5d5dea1826eab9798dd7b965a4552619c2bddd",
-      "data/2019/vp_president_results.parquet": "8a6f72fdd7ba2459c0f2d92755e88c06f271a005158415bc3f2c42aa72800702",
-      "data/2019/vp_president_candidates.parquet": "7a7f675b23cbe4e92930d65525d7d101b0b68d1533c7f35b0b546c85c0b3e56d",
-      "data/2021/vp_president_results.parquet": "4576af48e1d630c9931720a7e16ff54cb97f54c2e311c42142afe2d451dd8c1b",
-      "data/2021/vp_president_candidates.parquet": "02b8668d2c7aed228f7c52623700a55e5a7cd06ce873b8bc2c510de9eb9edfb2",
+      "data/release/2011/vp_president_results.parquet": "78ce144ef80343feeb9d22380820b26db52de6e3a8c98fe8815b8697d1784baf",
+      "data/release/2011/vp_president_candidates.parquet": "2e4d03e2b8a48be67fb638fe5f5d5dea1826eab9798dd7b965a4552619c2bddd",
+      "data/release/2019/vp_president_results.parquet": "8a6f72fdd7ba2459c0f2d92755e88c06f271a005158415bc3f2c42aa72800702",
+      "data/release/2019/vp_president_candidates.parquet": "7a7f675b23cbe4e92930d65525d7d101b0b68d1533c7f35b0b546c85c0b3e56d",
+      "data/release/2021/vp_president_results.parquet": "4576af48e1d630c9931720a7e16ff54cb97f54c2e311c42142afe2d451dd8c1b",
+      "data/release/2021/vp_president_candidates.parquet": "02b8668d2c7aed228f7c52623700a55e5a7cd06ce873b8bc2c510de9eb9edfb2",
       "data/reference/districts.csv": "412939b99b98918730945ba0fc14bef2e16063dbd1cac2dbb695df424c15507e",
-      "data/linkage/vp_2011_2019.parquet": "4fecda05b10c0217adfaca8eb712d30d65ae1b08f449e48bb3695cb1ade9708f",
-      "data/linkage/vp_2011_2021.parquet": "283520d220be730d63a300a33c64ec5c84f83e221d5f3dd13e1ed38f98c20a2e",
-      "data/2011/ward_results.parquet": "bbdf75ee8196e1667f7f4c149aad2f5abaf3359a8301b09d9874d94575d1212e",
-      "data/2011/ward_candidates.parquet": "64b0292a38228ba0bac0895b644f58f861356d094a41aee35ea8470d66213398",
-      "data/2019/ward_results.parquet": "973400680499a7226a0721ebafd777f76d0b276dd46c827bff94fff4ccb658e5",
-      "data/2019/ward_candidates.parquet": "eddaa7e4f828f34f160828734e73efafe8c617014c865bed9c48c2849b162d77",
-      "data/2021/ward_results.parquet": "3c44da66f93f2fb66c612840800487f62aea290704d31f7867bc879bca831b2c",
-      "data/2021/ward_candidates.parquet": "ce7ea555f47ea1579f32ee64faf12a806a99ecbca6805a71244fc92057f47004"
+      "data/release/linkage/vp_2011_2019.parquet": "4fecda05b10c0217adfaca8eb712d30d65ae1b08f449e48bb3695cb1ade9708f",
+      "data/release/linkage/vp_2011_2021.parquet": "283520d220be730d63a300a33c64ec5c84f83e221d5f3dd13e1ed38f98c20a2e",
+      "data/release/2011/ward_results.parquet": "bbdf75ee8196e1667f7f4c149aad2f5abaf3359a8301b09d9874d94575d1212e",
+      "data/release/2011/ward_candidates.parquet": "64b0292a38228ba0bac0895b644f58f861356d094a41aee35ea8470d66213398",
+      "data/release/2019/ward_results.parquet": "973400680499a7226a0721ebafd777f76d0b276dd46c827bff94fff4ccb658e5",
+      "data/release/2019/ward_candidates.parquet": "eddaa7e4f828f34f160828734e73efafe8c617014c865bed9c48c2849b162d77",
+      "data/release/2021/ward_results.parquet": "3c44da66f93f2fb66c612840800487f62aea290704d31f7867bc879bca831b2c",
+      "data/release/2021/ward_candidates.parquet": "ce7ea555f47ea1579f32ee64faf12a806a99ecbca6805a71244fc92057f47004"
     }
   },
   "local_elections_jharkhand": {
@@ -200,15 +200,15 @@
     }
   },
   "local_elections_telangana": {
-    "ref": "4aae9e58b7a9bee9f27418fa812bc49b42a705c9",
+    "ref": "e0f0770349b66d01217db161c91a0af9d36a122c",
     "files": {
-      "data/2019/sarpanch_results.parquet": "a36308426daccb2960e9be73a4b92ade85b9fb3269fdd4804c6addfd65d80f27",
-      "data/2025/sarpanch_results.parquet": "0606569e358db5ca738e0a9e7a28a24bcbd05fa5c7eacea2e10fe903f5d61355",
-      "data/linkage/gp_2019_2025.parquet": "5aadd70d572176c5182d70e2e1fcf9b449b49fa1cf96f2cff67b474ec43e8ff9",
-      "data/inferred/winner_woman_probability_2019.parquet": "15012fbb4454d146b08bdf79296b12f06ccd0c1e600b282cd286e2eabef49007",
-      "data/inferred/winner_woman_probability_2025.parquet": "02348c7ebd53c370b6594c0dedfa723a2ae79efac97798a92fd29832a105968e",
-      "data/2019/ward_results.parquet": "302d6080e0c82f3ad7c75ee946fb0740c96c2dfc7494615fa271bea13ec2e2e5",
-      "data/2025/ward_results.parquet": "84f395df06a54c5fec77df8586c4ea72e93c9b5cea29d12ff589075328f05dbe"
+      "data/release/2019/sarpanch_results.parquet": "a36308426daccb2960e9be73a4b92ade85b9fb3269fdd4804c6addfd65d80f27",
+      "data/release/2025/sarpanch_results.parquet": "0606569e358db5ca738e0a9e7a28a24bcbd05fa5c7eacea2e10fe903f5d61355",
+      "data/release/linkage/gp_2019_2025.parquet": "5aadd70d572176c5182d70e2e1fcf9b449b49fa1cf96f2cff67b474ec43e8ff9",
+      "data/release/inferred/winner_woman_probability_2019.parquet": "15012fbb4454d146b08bdf79296b12f06ccd0c1e600b282cd286e2eabef49007",
+      "data/release/inferred/winner_woman_probability_2025.parquet": "02348c7ebd53c370b6594c0dedfa723a2ae79efac97798a92fd29832a105968e",
+      "data/release/2019/ward_results.parquet": "302d6080e0c82f3ad7c75ee946fb0740c96c2dfc7494615fa271bea13ec2e2e5",
+      "data/release/2025/ward_results.parquet": "84f395df06a54c5fec77df8586c4ea72e93c9b5cea29d12ff589075328f05dbe"
     }
   }
 }

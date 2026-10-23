@@ -119,8 +119,8 @@ SIBLINGS = {
         "years": "2008, 2014, 2019",
         "tiers": "gp_head, block_member, zp_member",
         "files": [
-            "data/uttarakhand-panchayat-elections.csv",
-            "data/uttarakhand-panchayat-elections-haridwar.csv",
+            "data/raw/secresult/uttarakhand-panchayat-elections.csv",
+            "data/raw/secresult/uttarakhand-panchayat-elections-haridwar.csv",
         ],
     },
     # The standardized rural panels live with the state's election data;
@@ -169,14 +169,14 @@ SIBLINGS = {
         "years": "2011, 2019, 2021",
         "tiers": "gp_head, gp_ward, block_member, zp_member",
         "files": [
-            "data/2011/vp_president_results.parquet",
-            "data/2019/vp_president_results.parquet",
-            "data/2021/vp_president_results.parquet",
-            "data/2011/ward_results.parquet",
-            "data/2019/ward_results.parquet",
-            "data/2021/ward_results.parquet",
-            "data/linkage/vp_2011_2019.parquet",
-            "data/linkage/vp_2011_2021.parquet",
+            "data/release/2011/vp_president_results.parquet",
+            "data/release/2019/vp_president_results.parquet",
+            "data/release/2021/vp_president_results.parquet",
+            "data/release/2011/ward_results.parquet",
+            "data/release/2019/ward_results.parquet",
+            "data/release/2021/ward_results.parquet",
+            "data/release/linkage/vp_2011_2019.parquet",
+            "data/release/linkage/vp_2011_2021.parquet",
         ],
         "remaining": "the heads of the union and district panchayats are "
         "not collected; 2011 village ward sheets print winners only; the 2011 "
@@ -199,11 +199,11 @@ SIBLINGS = {
         "years": "2019, 2025",
         "tiers": "gp_head, gp_ward",
         "files": [
-            "data/2019/sarpanch_results.parquet",
-            "data/2019/ward_results.parquet",
-            "data/2025/sarpanch_results.parquet",
-            "data/2025/ward_results.parquet",
-            "data/linkage/gp_2019_2025.parquet",
+            "data/release/2019/sarpanch_results.parquet",
+            "data/release/2019/ward_results.parquet",
+            "data/release/2025/sarpanch_results.parquet",
+            "data/release/2025/ward_results.parquet",
+            "data/release/linkage/gp_2019_2025.parquet",
         ],
         "standardized": "24,753 sarpanch seats (2019 and 2025), 49,823 2019 "
         "and 62,990 2025 ward seats, and 11,464 seat links are standardized",

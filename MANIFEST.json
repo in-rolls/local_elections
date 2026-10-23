@@ -1,5 +1,5 @@
 {
-  "built_from_commit": "d712c79b1b05a0e52d8dbb8eda1367aaeffb74c2",
+  "built_from_commit": "c6550cd7d84184155b324df9fb4f0714238cfdc2",
   "candidate_columns": [
     "dataset_id",
     "candidate_id",
@@ -43,7 +43,7 @@
     "source_path",
     "source_page"
   ],
-  "committed_utc": "2026-10-22T08:33:12-07:00",
+  "committed_utc": "2026-10-23T09:51:04-07:00",
   "dirty": true,
   "files": [
     {
@@ -123,7 +123,7 @@
       "kind": "candidates",
       "path": "data/master/candidates_tamil_nadu.parquet",
       "rows": 421661,
-      "sha256": "458003424f0b694827ee415a7724db4fcf58ca1ddf5627ee716e742fb7f322cb",
+      "sha256": "fb8735424d2c65fc3611e5d3b982e7a4d5f99ddede655f13c13feb8619da2063",
       "states": [
         "Tamil Nadu"
       ],
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "bytes": 3292589,
+      "bytes": 3292666,
       "dataset_ids": [
         "uttarakhand/block_member/2008",
         "uttarakhand/block_member/2010",
@@ -180,7 +180,7 @@
       "kind": "candidates",
       "path": "data/master/candidates_uttarakhand.parquet",
       "rows": 116514,
-      "sha256": "1e1b185ef74bdd310757c1ed30fab8298aa911f565925e929e7bad442fff62cf",
+      "sha256": "4dd2f90d2b35bae1cc458cfb400c9258d2d5dbd2acd172aa575bdb102ea38678",
       "states": [
         "Uttarakhand"
       ],
@@ -213,7 +213,7 @@
       ],
       "rows": 80021,
       "rows_identifying_a_distinct_seat": 80021,
-      "sha256": "a67d3baa95f8a8a39e3ca56a2008a0319fafc7d85843da3accfe453193628720",
+      "sha256": "24cfe877ecf5bd9dcf2233abbfd0fd09a61ccc5cccfc42e8515a3beabd2dde38",
       "states": [
         "Andhra Pradesh"
       ],
@@ -247,7 +247,7 @@
       ],
       "rows": 1678,
       "rows_identifying_a_distinct_seat": 1678,
-      "sha256": "c317cc2d4f559d0ba17cbfc434e22397185d6c3dff4d5ec08674c13446849fde",
+      "sha256": "3e385bd07b85ad37eda07e8e854d5deee8f47895bfd77ed352ff427b9c7911e5",
       "states": [
         "Assam"
       ],
@@ -328,11 +328,11 @@
       "sha256": "336babe328ab69e508862fc555efa09f99db849b67c8141b543d0ae94bfd8fba"
     },
     {
-      "bytes": 28206434,
+      "bytes": 28207055,
       "kind": "master",
       "path": "data/master/master_extras.parquet",
       "rows": 10290551,
-      "sha256": "f5196fe37a9f05feda946ff0089480d3510efd080406d588bcb4371c421e6cce"
+      "sha256": "78fe167ac05e7306d35bc7e3bae7ba7fb8a95d504dc19b6ecd461f600217ec0c"
     },
     {
       "bytes": 89626,
@@ -352,7 +352,7 @@
       ],
       "rows": 2948,
       "rows_identifying_a_distinct_seat": 2948,
-      "sha256": "da0d8e318e48d85efdb2c658fd27f1a4883d8a73810aa81c19cb2b4e0412b544",
+      "sha256": "8a984644aeb130ce9a639de653a248597ad3bf0eca648e6af4b37475b20b96d7",
       "states": [
         "Goa"
       ],
@@ -381,7 +381,7 @@
       ],
       "rows": 1178,
       "rows_identifying_a_distinct_seat": 1178,
-      "sha256": "c1beff74c49335030eff06d02894a4af5c5e279aedfb46cc22733193f86b7519",
+      "sha256": "d2b5cbbaa25b12e9399e9c2ee1b70382876937f9b82c806021d8bdb8e155be86",
       "states": [
         "Gujarat"
       ],
@@ -452,7 +452,7 @@
       ],
       "rows": 28498,
       "rows_identifying_a_distinct_seat": 28484,
-      "sha256": "164b326f7f4994ef9ee3bf9cdece3764b1d737bc81a4a01dd6f0d229d84d2163",
+      "sha256": "18451c88a9369d99d67507fcbb1d5b1522708b932922e0d95f4c2cc55076fc26",
       "states": [
         "Jammu & Kashmir"
       ],
@@ -521,7 +521,7 @@
       ],
       "rows": 30914,
       "rows_identifying_a_distinct_seat": 30901,
-      "sha256": "f24fa566cf0fb3d13467c12191c977dacad75b19ef7484cc9e8dcc7a6d1618b3",
+      "sha256": "89e440e756261bedc247f42b55a23ed51d810d313e93635305b85df2ca66454d",
       "states": [
         "Karnataka"
       ],
@@ -610,7 +610,7 @@
       "kind": "master",
       "path": "data/master/master_key_collisions.csv",
       "rows": 5480,
-      "sha256": "137929a13f63224a6990c14aa8ee610ce7b3a3df6b017a7d8ab58a98dbb2db02"
+      "sha256": "c851e98c9c0fab3e45a1e8219744cee5dd1ef545267e092f44145784f1e1cf72"
     },
     {
       "bytes": 4892039,
@@ -685,7 +685,7 @@
       ],
       "rows": 238723,
       "rows_identifying_a_distinct_seat": 238671,
-      "sha256": "9ef05efb9f1ecebf4a4917ccf7422f85b03dc5573c3e95c7352841041c2c07ae",
+      "sha256": "9fa27b47b4533c227be54f431a34a6dc2b4008d2785733a912d76b39334c679a",
       "states": [
         "Tamil Nadu"
       ],
@@ -719,7 +719,7 @@
       ],
       "rows": 137566,
       "rows_identifying_a_distinct_seat": 137526,
-      "sha256": "7d7a6b52a47cdc5416b94197575ed50fa6b7f42260873eb3d019568327ed02aa",
+      "sha256": "bfc5c8af73fe72240c0a3a8e522f037ea6cacedd333c1ae4a1440b52a76c820b",
       "states": [
         "Telangana"
       ],
@@ -767,7 +767,7 @@
       ]
     },
     {
-      "bytes": 1539057,
+      "bytes": 1540282,
       "dataset_ids": [
         "uttarakhand/block_member/2008",
         "uttarakhand/block_member/2010",
@@ -795,7 +795,7 @@
       ],
       "rows": 29592,
       "rows_identifying_a_distinct_seat": 29574,
-      "sha256": "2a80d229bc1e2e9cb30401657c10dd19847e64a5d37c583000fc9704b23c9324",
+      "sha256": "397911cadda17cd9b790381b2a1339d280890335c75b6498a124771669289a6f",
       "states": [
         "Uttarakhand"
       ],
@@ -827,7 +827,7 @@
       ],
       "rows": 825,
       "rows_identifying_a_distinct_seat": 825,
-      "sha256": "77ced4a2872b631d038e68f7d64b79355a41667546e247279582e58583c02a7f",
+      "sha256": "e716230b901747f45608e31dc31a149a136803e1a2eeaa1980f5a21a7c044acf",
       "states": [
         "West Bengal"
       ],
@@ -862,11 +862,11 @@
       ]
     },
     {
-      "bytes": 1859186,
+      "bytes": 1859658,
       "kind": "supplemental",
       "path": "data/master/supplemental_seat_links.parquet",
       "rows": 71718,
-      "sha256": "6dab0ff353698d3fa3547800460021963e18dee57d92415075f0cef8980a118a",
+      "sha256": "e9ed6e465e07bb1256adb2628e679f1d9825d6573b26db396dba158a1c1e5b98",
       "states": [
         "Bihar",
         "Haryana",
@@ -1525,8 +1525,8 @@
       "url": "https://github.com/in-rolls/local_elections_rajasthan"
     },
     {
-      "commit": "e04f30a82c4347109e23d54b114414144e671830",
-      "committed_utc": "2026-10-21T11:31:10-07:00",
+      "commit": "2e6fab133373979e2496f3467889cae9f6cef1dc",
+      "committed_utc": "2026-10-23T13:06:06-07:00",
       "dirty": false,
       "pinned": true,
       "present": true,
@@ -1535,8 +1535,8 @@
       "url": "https://github.com/in-rolls/local_elections_tamil_nadu"
     },
     {
-      "commit": "4aae9e58b7a9bee9f27418fa812bc49b42a705c9",
-      "committed_utc": "2026-10-21T10:23:20-07:00",
+      "commit": "e0f0770349b66d01217db161c91a0af9d36a122c",
+      "committed_utc": "2026-10-23T11:34:02-07:00",
       "dirty": false,
       "pinned": true,
       "present": true,
@@ -1555,8 +1555,8 @@
       "url": "https://github.com/in-rolls/local_elections_up"
     },
     {
-      "commit": "bb7d381e539636bdf03e8669507d475523c815b6",
-      "committed_utc": "2026-10-20T13:22:10-07:00",
+      "commit": "58ce56e4057b9ea03fb3fdfb9365f5c8178bb047",
+      "committed_utc": "2026-10-23T11:42:49-07:00",
       "dirty": false,
       "pinned": true,
       "present": true,

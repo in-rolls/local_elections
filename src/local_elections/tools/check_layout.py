@@ -13,6 +13,7 @@ repository fails.
 
 import argparse
 import csv
+import gzip
 import hashlib
 import re
 import subprocess
@@ -31,10 +32,16 @@ TOP = {
     "build",
     "release",
     "checks",
+    "search_log",
+    # collection-first repositories (docs/layout.md): crawls with their own runs
+    "collections",
     "MANIFEST.json",
     "README.md",
 }
-RELEASE = re.compile(r"^(\d{4}|linkage|inferred|MANIFEST\.json|README\.md)$")
+# A year folder, linkage/, inferred/, or a table whose rows span elections.
+RELEASE = re.compile(
+    r"^(\d{4}|linkage|inferred|MANIFEST\.json|README\.md|[a-z0-9_]+\.parquet)$"
+)
 # Folder names that say when or how something arrived, not what it is.
 HISTORY = {
     "recovery",
@@ -80,6 +87,30 @@ def digest(path):
         return hashlib.file_digest(stream, "sha256").hexdigest()
 
 
+PART = re.compile(r"\.part_[a-z]+$")
+
+
+def stored(repo, path, raw):
+    """sha256 of the bytes received as `path`, however they are stored.
+
+    As received, gzipped beside its name (`<path>.gz`), or split into
+    `<path>.part_a`, `.part_b`, ... to stay under GitHub's file size limit.
+    None when nothing is stored under any of these.
+    """
+    if path in raw:
+        return digest(repo / path)
+    if f"{path}.gz" in raw:
+        with gzip.open(repo / f"{path}.gz") as stream:
+            return hashlib.file_digest(stream, "sha256").hexdigest()
+    parts = sorted(f for f in raw if f.startswith(f"{path}.part_") and PART.search(f))
+    if parts:
+        whole = hashlib.sha256()
+        for part in parts:
+            whole.update((repo / part).read_bytes())
+        return whole.hexdigest()
+    return None
+
+
 def problems(repo):
     files = tracked(repo)
     found = []
@@ -87,7 +118,7 @@ def problems(repo):
     found += [f"data/{name}: not a standard folder" for name in sorted(top - TOP)]
     released = {f.split("/")[2] for f in files if f.startswith("data/release/")}
     found += [
-        f"data/release/{name}: not a year, linkage/ or inferred/"
+        f"data/release/{name}: not a year, linkage/, inferred/ or a snake_case table"
         for name in sorted(released)
         if not RELEASE.match(name)
     ]
@@ -110,19 +141,21 @@ def problems(repo):
         if missing:
             return [*found, f"{FETCH_LOG}: lacks columns {missing}"]
         rows = {r["path"]: r for r in reader}
-    for path in raw:
-        row = rows.get(path)
-        if row is None:
-            found.append(f"{path}: not in the fetch log")
-        elif row["method"] not in METHODS:
+    raw_set = set(raw)
+    covered = set()
+    for path, row in rows.items():
+        if row["method"] not in METHODS:
             found.append(f"{path}: method {row['method']!r} is not one of {METHODS}")
-        elif digest(repo / path) != row["sha256"]:
+        got = stored(repo, path, raw_set)
+        if got is None:
+            if not row.get("duplicate_of"):
+                found.append(f"{path}: in the fetch log, not tracked")
+            continue
+        if got != row["sha256"]:
             found.append(f"{path}: sha256 differs from the fetch log")
-    found += [
-        f"{path}: in the fetch log, not tracked"
-        for path in rows.keys() - set(raw)
-        if not rows[path].get("duplicate_of")
-    ]
+        covered |= {path, f"{path}.gz"}
+        covered |= {f for f in raw_set if f.startswith(f"{path}.part_")}
+    found += [f"{path}: not in the fetch log" for path in sorted(raw_set - covered)]
     return found
 
 

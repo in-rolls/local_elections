@@ -43,19 +43,19 @@ URL = "https://github.com/in-rolls/local_elections_telangana"
 STATE = "Telangana"
 
 YEARS = ("2019", "2025")
-RESULTS = "data/{year}/sarpanch_results.parquet"
-WARDS = "data/{year}/ward_results.parquet"
-LINKS = {("2019", "2025"): "data/linkage/gp_2019_2025.parquet"}
-INFERRED = "data/inferred/winner_woman_probability_{year}.parquet"
+RESULTS = "data/release/{year}/sarpanch_results.parquet"
+WARDS = "data/release/{year}/ward_results.parquet"
+LINKS = {("2019", "2025"): "data/release/linkage/gp_2019_2025.parquet"}
+INFERRED = "data/release/inferred/winner_woman_probability_{year}.parquet"
 
 DECLARED = {
-    "data/2019/sarpanch_results.parquet": 12018,
-    "data/2025/sarpanch_results.parquet": 12735,
-    "data/2019/ward_results.parquet": 49823,
-    "data/2025/ward_results.parquet": 62990,
-    "data/linkage/gp_2019_2025.parquet": 11464,
-    "data/inferred/winner_woman_probability_2019.parquet": 12018,
-    "data/inferred/winner_woman_probability_2025.parquet": 12702,
+    "data/release/2019/sarpanch_results.parquet": 12018,
+    "data/release/2025/sarpanch_results.parquet": 12735,
+    "data/release/2019/ward_results.parquet": 49823,
+    "data/release/2025/ward_results.parquet": 62990,
+    "data/release/linkage/gp_2019_2025.parquet": 11464,
+    "data/release/inferred/winner_woman_probability_2019.parquet": 12018,
+    "data/release/inferred/winner_woman_probability_2025.parquet": 12702,
 }
 
 # This repository's own 2019 sarpanch parse, replaced by the sibling's.
