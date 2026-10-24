@@ -38,9 +38,11 @@ TOP = {
     "MANIFEST.json",
     "README.md",
 }
-# A year folder, linkage/, inferred/, or a table whose rows span elections.
+# A year folder, linkage/, inferred/, a table whose rows span elections, or a
+# document describing the release.
 RELEASE = re.compile(
-    r"^(\d{4}|linkage|inferred|MANIFEST\.json|README\.md|[a-z0-9_]+\.parquet)$"
+    r"^(\d{4}|linkage|inferred|[a-z0-9_]+\.parquet"
+    r"|MANIFEST\.json|README\.md|CATALOG\.md|DICTIONARY\.md|CHECKSUMS\.sha256)$"
 )
 # Folder names that say when or how something arrived, not what it is.
 HISTORY = {

@@ -38,12 +38,12 @@ import pyarrow.parquet as pq
 from local_elections.common import normalize
 from local_elections.common.normalize import label
 
-RELEASE = "data/2021"
+RELEASE = "data/release/2021"
 SHA256 = {
     "seats.parquet": (
         "690f4e18e5e73558bb578f539b1c957c09dd17469b49726f69961c636b3d1fab"
     ),
-    "current_reservations.parquet": (
+    "term_feed_reservations.parquet": (
         "45341aeecf7157e8028e4d96275d2f62b596da0d36190d6cbb4012c30347c142"
     ),
     "winners.parquet": (
@@ -55,7 +55,7 @@ SHA256 = {
 }
 DECLARED = {
     "seats.parquet": 247671,
-    "current_reservations.parquet": 247671,
+    "term_feed_reservations.parquet": 247671,
     "winners.parquet": 244475,
     "candidates.parquet": 924708,
 }
@@ -125,8 +125,8 @@ def seat_key(row):
 
 def convert(tables):
     """Seat rows for every office, each with its candidates attached."""
-    reservations = {seat_key(r): r for r in tables["current_reservations.parquet"]}
-    if len(reservations) != len(tables["current_reservations.parquet"]):
+    reservations = {seat_key(r): r for r in tables["term_feed_reservations.parquet"]}
+    if len(reservations) != len(tables["term_feed_reservations.parquet"]):
         raise ValueError("Duplicate Bihar seat in the reservation feed")
     winners = {}
     for row in tables["winners.parquet"]:

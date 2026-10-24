@@ -82,7 +82,7 @@ def tables():
     ]
     return {
         "seats.parquet": seats,
-        "current_reservations.parquet": reservations,
+        "term_feed_reservations.parquet": reservations,
         "winners.parquet": winners,
         "candidates.parquet": candidates,
     }
@@ -109,7 +109,7 @@ def test_stated_reservations_are_read_and_empty_seats_kept():
 
 def test_a_seat_without_a_stated_reservation_is_an_error():
     data = tables()
-    data["current_reservations.parquet"] = data["current_reservations.parquet"][:1]
+    data["term_feed_reservations.parquet"] = data["term_feed_reservations.parquet"][:1]
     with pytest.raises(ValueError, match="no reservation feed row"):
         bihar.convert(data)
 

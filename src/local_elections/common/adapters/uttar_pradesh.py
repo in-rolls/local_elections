@@ -61,7 +61,7 @@ SOURCE_SHA256 = PIN["source_sha256"]
 
 
 def verify_release(root):
-    manifest = pathlib.Path(root) / "data/release/manifest.json"
+    manifest = pathlib.Path(root) / "data/release/MANIFEST.json"
     if hashlib.sha256(manifest.read_bytes()).hexdigest() != PIN["manifest_sha256"]:
         raise ValueError("UP release manifest differs from the pinned artifact")
 

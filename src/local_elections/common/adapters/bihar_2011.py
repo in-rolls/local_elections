@@ -29,7 +29,7 @@ import pyarrow.parquet as pq
 from local_elections.common import normalize
 from local_elections.common.normalize import label
 
-RELEASE = "data/2011/mukhiya_reports"
+RELEASE = "data/release/2011/mukhiya_reports"
 FILE = "winner_records.parquet"
 SHA256 = "83b07aed81343393692d866067f5c3b75295067027e803bc70f7ab3942428104"
 DECLARED = 3973

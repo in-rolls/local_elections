@@ -95,14 +95,14 @@ DECLARED = {
 # reserve before 2021, so only the caste half is unreliable; the single flag
 # covers it too, and the sibling's file says which half. Every such row keeps
 # its printed category and carries the flag.
-DEFECTS = "data/{year}/reference/category_defects.csv"
+DEFECTS = "data/manual/{year}/category_defects.csv"
 UNRELIABLE = ("reservation_unreliable", "caste_unreliable")
-INFERRED = "data/inferred/winner_woman_probability_{year}.parquet"
+INFERRED = "data/release/inferred/winner_woman_probability_{year}.parquet"
 LINKS = {
-    ("2000", "2005"): "data/linkage/gp_2000_2005.parquet",
-    ("2005", "2010"): "data/linkage/gp_2005_2010.parquet",
-    ("2010", "2016"): "data/linkage/gp_2010_2016.parquet",
-    ("2016", "2022"): "data/linkage/gp_2016_2022.parquet",
+    ("2000", "2005"): "data/release/linkage/gp_2000_2005.parquet",
+    ("2005", "2010"): "data/release/linkage/gp_2005_2010.parquet",
+    ("2010", "2016"): "data/release/linkage/gp_2010_2016.parquet",
+    ("2016", "2022"): "data/release/linkage/gp_2016_2022.parquet",
 }
 
 
@@ -159,13 +159,13 @@ def locator(district, block, sr_no, gram_panchayat, ward_no=""):
     return "/".join(str(x) for x in parts if str(x))
 
 
-def archived_pdfs(year_dir):
-    """{saved_as: repository path} for a year whose PDFs live in raw_archive.
+def archived_pdfs(raw_dir):
+    """{saved_as: repository path} for a year whose PDFs live in the archive.
 
-    2000's gazettes were never copied into data/2000/pdfs/; the sibling's
+    2000's gazettes were never copied into data/raw/2000/; the sibling's
     manifest records where each one is archived instead.
     """
-    manifest = year_dir / "manifest.csv"
+    manifest = raw_dir / "manifest.csv"
     if not manifest.exists():
         return {}
     with manifest.open(encoding="utf-8") as fh:
@@ -178,7 +178,8 @@ def archived_pdfs(year_dir):
 
 def slices(root):
     root = pathlib.Path(root)
-    for year_dir in sorted(p for p in (root / "data").iterdir() if p.is_dir()):
+    extracted = root / "data" / "extracted"
+    for year_dir in sorted(p for p in extracted.iterdir() if p.is_dir()):
         year = year_dir.name
         if not year.isdigit():
             continue
@@ -188,7 +189,7 @@ def slices(root):
             if not path.exists():
                 continue
             inferred = inferred_sex(root, year) if tier == "gp_head" else {}
-            archived = archived_pdfs(year_dir)
+            archived = archived_pdfs(root / "data" / "raw" / year)
             with path.open(encoding="utf-8", errors="replace") as fh:
                 rows = [
                     convert(r, year, tier, tier_local, path, root, archived)
@@ -286,7 +287,7 @@ def convert(row, year, tier, tier_local, path, root, archived=None):
         # `printings_disagree` flags in the pooled master.
         "printings_agree": row.get("printings_agree", "") if tier == "gp_head" else "",
         "source_path": (archived or {}).get(row.get("source_pdf", ""))
-        or str((path.parent / "pdfs" / row.get("source_pdf", "")).relative_to(root)),
+        or f"data/raw/{year}/{row.get('source_pdf', '')}",
         "source_page": "",
         # the notification's own serial within its block, which is what the
         # sibling's seat links are keyed on

@@ -24,6 +24,8 @@ it (`make layout`). Column names follow [naming.md](naming.md).
                                     (with a `year` column)
         linkage/            seats linked across elections
         inferred/           model outputs (`*_probability`)
+        MANIFEST.json, CATALOG.md, DICTIONARY.md, CHECKSUMS.sha256
+                            optional documents describing the release
       checks/               hand checks, review ledgers, check results
       search_log/           where we looked and what we found: site
                             catalogues, search queues, collector run logs
@@ -39,9 +41,7 @@ A repository whose sources are many separate crawls, each with parsed runs
 checked against its own responses (Uttar Pradesh), may also keep
 `data/collections/<collection>/`, named for publisher and contents
 (`ballia_media_reservations_2021`), with the same stage words inside it:
-`raw/`, `extracted/`, `checks/`, `search_log/`. A run that a catalog pins by
-path and hash keeps its identity as `run=<UTC timestamp>/`; it is never
-overwritten.
+`raw/`, `extracted/`, `checks/`, `search_log/`.
 
 `release/` is the contract with the pooled repository: an adapter reads only
 `data/release/`, and `data/sources.json` pins each file it reads by commit and

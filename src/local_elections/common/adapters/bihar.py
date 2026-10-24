@@ -45,8 +45,8 @@ STATE = "Bihar"
 # inside matched blocks, with ward counts as a second pass; 2011 records are
 # joined to 2016 seats on names alone, inside a reviewed block crosswalk.
 LINKS = {
-    "2011_2016": "data/linkage/mukhiya_2011_2016.parquet",
-    "2016_2021": "data/linkage/mukhiya_2016_2021.parquet",
+    "2011_2016": "data/release/linkage/mukhiya_2011_2016.parquet",
+    "2016_2021": "data/release/linkage/mukhiya_2016_2021.parquet",
 }
 
 
