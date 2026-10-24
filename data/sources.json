@@ -78,20 +78,20 @@
     }
   },
   "local_elections_rajasthan": {
-    "ref": "5607ceb0f0786fedf18570a028adc8091adb0aa5",
+    "ref": "4874c584385493498753d16cf135035484bc9213",
     "files": {
-      "data/fin/source_2005_std.parquet": "bae4ca5e76815d6ee5f36c830f649abebf8128e42aba3a1a3e985d06b724e165",
-      "data/fin/source_2010_std.parquet": "7973ba96c001cc88e3188220ae1c3f83b5fdb740cc4d14886d220561fb58441f",
-      "data/fin/source_2015_std.parquet": "e029fb871e69bea01032b2bd446310b831f40631b94f5c57e1cf6b190ad6eb9f",
-      "data/fin/source_2020_std.parquet": "76cd596506c8de77dd8fda6cb9b77726b3037317bd71aaa44e9ff7d1fdb1d0a1",
-      "data/ContestingSarpanch.csv.gz": "d0360d37c63c5f0984fd25e5695af9c7958797ff435da8d1a0aefae9d7dcc889",
-      "data/WinnerSarpanch.csv.gz": "34c6092ac0b2dc0d2bbfcf2e7b77f16cc1436aa8bf0144f163093e4e070a5aa2",
-      "data/WarnWinningPanch.csv.gz": "0d9d385b09cae7b27fec230dac801f7345d0781ec0456747d09daf0920b9a5f1",
-      "data/StatsNomination.csv.gz": "28919f7dd41a1709379713fd6549f34c02a48f346d6ec6ff928494364bf3084a",
-      "data/fin/panchayat_samiti_2005_std.parquet": "9d0526e0578cb1eea54387bb01221460e5856da62d06f806ae166cdf05e034b8",
-      "data/fin/panchayat_samiti_2010_std.parquet": "1ce2c710d95886d4c6edadc620732abe18b3823af544cacb81232a757c8c6f4c",
-      "data/fin/zila_parishad_2005_std.parquet": "122644a3a956022283a92a374a2fe017b7a9c15393ad730e81a52a720aff8157",
-      "data/fin/zila_parishad_2010_std.parquet": "0b5abfbd85f9fb156fc93e2937460f57ef632012bc00cecba17cef180ebe236c"
+      "data/release/2005/sarpanch_results.parquet": "bae4ca5e76815d6ee5f36c830f649abebf8128e42aba3a1a3e985d06b724e165",
+      "data/release/2010/sarpanch_results.parquet": "7973ba96c001cc88e3188220ae1c3f83b5fdb740cc4d14886d220561fb58441f",
+      "data/release/2015/sarpanch_results.parquet": "e029fb871e69bea01032b2bd446310b831f40631b94f5c57e1cf6b190ad6eb9f",
+      "data/release/2020/sarpanch_reservations.parquet": "76cd596506c8de77dd8fda6cb9b77726b3037317bd71aaa44e9ff7d1fdb1d0a1",
+      "data/raw/sec_scrape/ContestingSarpanch.csv.gz": "d0360d37c63c5f0984fd25e5695af9c7958797ff435da8d1a0aefae9d7dcc889",
+      "data/raw/sec_scrape/WinnerSarpanch.csv.gz": "34c6092ac0b2dc0d2bbfcf2e7b77f16cc1436aa8bf0144f163093e4e070a5aa2",
+      "data/raw/sec_scrape/WarnWinningPanch.csv.gz": "0d9d385b09cae7b27fec230dac801f7345d0781ec0456747d09daf0920b9a5f1",
+      "data/raw/sec_scrape/StatsNomination.csv.gz": "28919f7dd41a1709379713fd6549f34c02a48f346d6ec6ff928494364bf3084a",
+      "data/release/2005/panchayat_samiti_results.parquet": "2144f9a89b40e0ab239ccde1076b7d33262648c7ffe2ee1c7fc68db36d8c3112",
+      "data/release/2010/panchayat_samiti_results.parquet": "2954cad29082e309ac5e435b04b403d6c879efaafea64994a886bc26c06bc87a",
+      "data/release/2005/zila_parishad_results.parquet": "5da355e18af9f6b3562f924f87b76b2993d69549bde0807c01124bcf40c7b2b0",
+      "data/release/2010/zila_parishad_results.parquet": "90a66cd554d20e26bbeadafc9f5f6866a43b5d15d05def785c8cddf260b1cd68"
     }
   },
   "local_elections_bihar": {

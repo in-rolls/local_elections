@@ -38,23 +38,23 @@ STATE = "Rajasthan"
 LOGGER = get_logger(__name__)
 
 SEAT_FILES = {
-    "2005": "data/fin/source_2005_std.parquet",
-    "2010": "data/fin/source_2010_std.parquet",
-    "2015": "data/fin/source_2015_std.parquet",
-    "2020": "data/fin/source_2020_std.parquet",
+    "2005": "data/release/2005/sarpanch_results.parquet",
+    "2010": "data/release/2010/sarpanch_results.parquet",
+    "2015": "data/release/2015/sarpanch_results.parquet",
+    "2020": "data/release/2020/sarpanch_reservations.parquet",
 }
 
-CONTESTING_FILE = "data/ContestingSarpanch.csv.gz"
-WINNER_FILE = "data/WinnerSarpanch.csv.gz"
-WARD_FILE = "data/WarnWinningPanch.csv.gz"
-NOMINATION_FILE = "data/StatsNomination.csv.gz"
+CONTESTING_FILE = "data/raw/sec_scrape/ContestingSarpanch.csv.gz"
+WINNER_FILE = "data/raw/sec_scrape/WinnerSarpanch.csv.gz"
+WARD_FILE = "data/raw/sec_scrape/WarnWinningPanch.csv.gz"
+NOMINATION_FILE = "data/raw/sec_scrape/StatsNomination.csv.gz"
 BLOCK_MEMBER_FILES = {
-    "2005": "data/fin/panchayat_samiti_2005_std.parquet",
-    "2010": "data/fin/panchayat_samiti_2010_std.parquet",
+    "2005": "data/release/2005/panchayat_samiti_results.parquet",
+    "2010": "data/release/2010/panchayat_samiti_results.parquet",
 }
 ZP_MEMBER_FILES = {
-    "2005": "data/fin/zila_parishad_2005_std.parquet",
-    "2010": "data/fin/zila_parishad_2010_std.parquet",
+    "2005": "data/release/2005/zila_parishad_results.parquet",
+    "2010": "data/release/2010/zila_parishad_results.parquet",
 }
 
 DECLARED = {
@@ -63,10 +63,10 @@ DECLARED = {
     WINNER_FILE: 11432,
     WARD_FILE: 110296,
     NOMINATION_FILE: 13473,
-    "data/fin/panchayat_samiti_2005_std.parquet": 5257,
-    "data/fin/panchayat_samiti_2010_std.parquet": 5273,
-    "data/fin/zila_parishad_2005_std.parquet": 1008,
-    "data/fin/zila_parishad_2010_std.parquet": 1013,
+    "data/release/2005/panchayat_samiti_results.parquet": 5257,
+    "data/release/2010/panchayat_samiti_results.parquet": 5273,
+    "data/release/2005/zila_parishad_results.parquet": 1008,
+    "data/release/2010/zila_parishad_results.parquet": 1013,
 }
 
 DECLARED_UNITS = {
@@ -242,7 +242,7 @@ def old_panel_slices(root):
 # carried as a name-based value under its own name, never as a recorded sex.
 MANUAL_2015_METHOD = (
     "manual coding of the winner's name, reviewed (local_elections_rajasthan "
-    "data/source/sarpanch/sarpanch_2015_manual_sex.csv)"
+    "data/manual/sarpanch/sarpanch_2015_manual_sex.csv)"
 )
 
 
