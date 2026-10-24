@@ -44,6 +44,7 @@ def test_archived_pdf_is_named_by_its_archive_path(tmp_path):
     archived = archived_pdfs(raw_dir)
     path = tmp_path / "data" / "extracted" / "2000" / "gp_reservation.csv"
     got = convert(source_row(), "2000", "gp_head", "sarpanch", path, tmp_path, archived)
-    assert got["source_path"] == "data/raw/gazette_archive/national/early_cycles/raw/test.pdf"
+    archive = "data/raw/gazette_archive/national/early_cycles/raw"
+    assert got["source_path"] == f"{archive}/test.pdf"
     got = convert(source_row(), "2022", "gp_head", "sarpanch", path, tmp_path)
     assert got["source_path"] == "data/raw/2022/test.pdf"
