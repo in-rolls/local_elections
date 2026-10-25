@@ -3,7 +3,7 @@ PY ?= uv run python
 OCR_PY ?= uv run --no-default-groups --group ocr python
 TABLE_OCR_PY ?= uv run --group table-ocr python
 
-.PHONY: help inventory probe assam assam-2025 assam-2025-extract assam-2025-ocr assam-harvest gujarat gujarat-ocr gujarat-harvest gujarat-validate goa jk jk-2010-extract jk-2016-extract ap karnataka maharashtra maharashtra-harvest wb validate test  coverage state-readmes stats worklist master manifest verify release-check expect dictionary contract naming layout
+.PHONY: help inventory probe assam assam-2025 assam-2025-extract assam-2025-ocr assam-harvest gujarat gujarat-ocr gujarat-harvest gujarat-validate goa jk jk-2010-extract jk-2016-extract ap karnataka maharashtra maharashtra-harvest wb validate test transliterate transliterate-muse coverage state-readmes stats worklist master manifest verify release-check expect dictionary contract naming layout
 
 help:
 	@echo "make inventory   classify the source documents already in data/"
@@ -85,7 +85,13 @@ sweep:
 # --with indicate rather than a dependency group: it pulls torch and is needed
 # only when the table is regenerated, which is rarely.
 transliterate:
-	uv run --with indicate python -m local_elections.tools.transliterate
+	uv run --with "indicate>=0.10" python -m local_elections.tools.transliterate
+
+# paid: Muse Spark for the scripts indicate has no model for; CAP is the
+# authorized total in USD. Requests are cached under dist/muse_transliteration/.
+MUSECLIENT = museclient @ git+https://github.com/gojiplus/museclient@2063b1bb1b58a396509b2ca0f3ca52c27138a648
+transliterate-muse:
+	uv run --with "indicate>=0.10" --with "$(MUSECLIENT)" python -m local_elections.tools.transliterate --muse-cap $(CAP)
 
 karnataka-ocr:
 	$(OCR_PY) -m local_elections.states.karnataka.ocr

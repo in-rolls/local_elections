@@ -182,7 +182,7 @@
     {
       "name": "district_latin_method",
       "type": "string",
-      "description": "The transliteration model, and its version where the run recorded one. Blank where the reading is blank.",
+      "description": "How the reading was made: `indicate <version> model` (Hindi, Punjabi), `... after lookup` where indicate's word lookup replaced a misreading, or `muse-spark-1.3-contributor reasoning=low prompt=<hash>` for scripts indicate has no model for. Blank where the reading is blank.",
       "constraints": {
         "maxLength": 80
       }
@@ -199,7 +199,7 @@
     {
       "name": "block_latin_method",
       "type": "string",
-      "description": "The transliteration model, and its version where the run recorded one. Blank where the reading is blank.",
+      "description": "How the reading was made: `indicate <version> model` (Hindi, Punjabi), `... after lookup` where indicate's word lookup replaced a misreading, or `muse-spark-1.3-contributor reasoning=low prompt=<hash>` for scripts indicate has no model for. Blank where the reading is blank.",
       "constraints": {
         "maxLength": 80
       }
@@ -216,7 +216,7 @@
     {
       "name": "gram_panchayat_latin_method",
       "type": "string",
-      "description": "The transliteration model, and its version where the run recorded one. Blank where the reading is blank.",
+      "description": "How the reading was made: `indicate <version> model` (Hindi, Punjabi), `... after lookup` where indicate's word lookup replaced a misreading, or `muse-spark-1.3-contributor reasoning=low prompt=<hash>` for scripts indicate has no model for. Blank where the reading is blank.",
       "constraints": {
         "maxLength": 80
       }
@@ -380,7 +380,7 @@
     {
       "name": "winner_latin_method",
       "type": "string",
-      "description": "The transliteration model, and its version where the run recorded one. Blank where the reading is blank.",
+      "description": "How the reading was made: `indicate <version> model` (Hindi, Punjabi), `... after lookup` where indicate's word lookup replaced a misreading, or `muse-spark-1.3-contributor reasoning=low prompt=<hash>` for scripts indicate has no model for. Blank where the reading is blank.",
       "constraints": {
         "maxLength": 80
       }

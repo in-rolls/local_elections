@@ -169,15 +169,21 @@ MASTER = {
         text("district_latin", "District romanized by tools/transliterate.py.", **NAME),
         text(
             "district_latin_method",
-            "The transliteration model, and its version where the run "
-            "recorded one. Blank where the reading is blank.",
+            "How the reading was made: `indicate <version> model` (Hindi, "
+            "Punjabi), `... after lookup` where indicate's word lookup "
+            "replaced a misreading, or `muse-spark-1.3-contributor "
+            "reasoning=low prompt=<hash>` for scripts indicate has no model "
+            "for. Blank where the reading is blank.",
             maxLength=80,
         ),
         text("block_latin", "Block romanized by tools/transliterate.py.", **NAME),
         text(
             "block_latin_method",
-            "The transliteration model, and its version where the run "
-            "recorded one. Blank where the reading is blank.",
+            "How the reading was made: `indicate <version> model` (Hindi, "
+            "Punjabi), `... after lookup` where indicate's word lookup "
+            "replaced a misreading, or `muse-spark-1.3-contributor "
+            "reasoning=low prompt=<hash>` for scripts indicate has no model "
+            "for. Blank where the reading is blank.",
             maxLength=80,
         ),
         text(
@@ -187,8 +193,11 @@ MASTER = {
         ),
         text(
             "gram_panchayat_latin_method",
-            "The transliteration model, and its version where the run "
-            "recorded one. Blank where the reading is blank.",
+            "How the reading was made: `indicate <version> model` (Hindi, "
+            "Punjabi), `... after lookup` where indicate's word lookup "
+            "replaced a misreading, or `muse-spark-1.3-contributor "
+            "reasoning=low prompt=<hash>` for scripts indicate has no model "
+            "for. Blank where the reading is blank.",
             maxLength=80,
         ),
         TIER,
@@ -235,8 +244,11 @@ MASTER = {
         text("winner_latin", "Winner romanized by tools/transliterate.py.", **NAME),
         text(
             "winner_latin_method",
-            "The transliteration model, and its version where the run "
-            "recorded one. Blank where the reading is blank.",
+            "How the reading was made: `indicate <version> model` (Hindi, "
+            "Punjabi), `... after lookup` where indicate's word lookup "
+            "replaced a misreading, or `muse-spark-1.3-contributor "
+            "reasoning=low prompt=<hash>` for scripts indicate has no model "
+            "for. Blank where the reading is blank.",
             maxLength=80,
         ),
         text(

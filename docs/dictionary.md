@@ -187,8 +187,12 @@ A file outside its band has lost rows or double counted them.
 | Rajasthan | gp_head | 8,000–14,000 |
 | Rajasthan | gp_ward | 90,000–130,000 |
 | Rajasthan | zp_member | 1,008–1,013 |
+| Tamil Nadu | block_member | 1,000–7,500 |
+| Tamil Nadu | gp_head | 2,500–14,000 |
+| Tamil Nadu | gp_ward | 20,000–110,000 |
+| Tamil Nadu | zp_member | 100–750 |
 | Telangana | gp_head | 10,000–14,000 |
-| Telangana | gp_ward | 40,000–60,000 |
+| Telangana | gp_ward | 40,000–70,000 |
 | Uttar Pradesh | gp_head | 45,000–60,000 |
 | Uttarakhand | block_member | 150–4,000 |
 | Uttarakhand | gp_head | 200–9,000 |
