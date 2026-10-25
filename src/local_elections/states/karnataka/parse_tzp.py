@@ -27,11 +27,10 @@ import collections
 import re
 import sys
 
-import tables
-
 from local_elections.common import emit
 from local_elections.common.runlog import command
 from local_elections.paths import ROOT
+from local_elections.states.karnataka import tables
 
 CACHE = ROOT / "data/karnataka/interim/ocr"
 DOCUMENTS = ROOT / "data/karnataka/raw/tzp_2016_elected"
@@ -212,11 +211,20 @@ def numbered(rows):
 # confusion that turns ಸೂ into ಕೂ elsewhere in these scans. Listed rather than
 # fuzzy-matched because there are four real markers and a token-by-token
 # similarity pass would be a lot of machinery for a closed set of six strings.
-RELATION = re.compile(r"\s*(?:ಬಿನ್|ಜಿನ್|ತಂದೆ|ತೆಂದೆ|ಕೋಂ|ಗಂಡ|ಕಂದ|ಬಿ\s*[/.]\s*ಒ|ಸಿ\s*[/.]\s*ಒ)\s")
+# The marks after an abbreviation: a colon, a full stop, the visarga that the
+# typists used as a colon ("ಸಾಃ", "ತಾಃ") and a bar, single or doubled ("ಸಾ||").
+MARK = r"(?:[:.ಃ]|\|\|?)"
+RELATION = re.compile(
+    r"[\s,]*(?:ಬಿನ್|ಜಿನ್|ತಂದೆ|ತೆಂದೆ|ಕೋಂ|ಗಂಡ|ಕಂದ|ಬಿ\s*[/.]\s*ಒ|ಸಿ\s*[/.]\s*ಒ)"
+    rf"(?:\s*{MARK}\s*|\s|$)"
+)
 ADDRESS = re.compile(
-    r"\s*(?:ಸಾ\s*[:.]|ಮು\s*[:.]|ವಾಸ\s*[:.]|ತಾ\s*[:.]|ಗ್ರಾಮ\b|"
+    rf"[\s,]*(?:ಸಾ\s*{MARK}|ಮು\s*{MARK}|ವಾಸ\s*{MARK}|ತಾ\s*{MARK}|ಗ್ರಾಮ\b|"
     r"ಮ\s*[.]?\s*ನಂ|ಮನೆ\s*ನಂ|ವಾರ್ಡ್)"
 )
+# What is left when no marker is printed: "ಪಾಲಪ್ಪ, ಎಂ.ಪಿ.ಪ್ರಕಾಶನಗರ ಹಂಪಿ, ...".
+# A name carries no comma, so the first one ends it.
+COMMA = re.compile(r"\s*,\s*")
 
 
 def _split(cell):
@@ -234,8 +242,13 @@ def _split(cell):
     relation = parts[1] if len(parts) > 1 else ""
     if relation:
         bits = ADDRESS.split(relation, 1)
+        if len(bits) == 1:
+            bits = COMMA.split(relation, 1)
         if len(bits) > 1:
             relation, tail = bits[0], f"{bits[1]} {tail}"
+    bits = COMMA.split(name, 1)
+    if len(bits) > 1:
+        name, tail = bits[0], f"{bits[1]} {tail}"
     return (name.strip(" ,.-"), relation.strip(" ,.-"), tail.strip(" ,.-"))
 
 
