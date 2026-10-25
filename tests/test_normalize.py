@@ -17,7 +17,6 @@ from local_elections.common.normalize import (
     strip_unopposed,
     woman_of,
 )
-from local_elections.paths import ROOT
 
 # ---------------------------------------------------------------- Jharkhand
 # Caste and gender sit in separate columns, so these are tested separately.
@@ -196,18 +195,18 @@ def test_unopposed_and_vacant():
 # not-woman rather than as silent. The counts are asserted against the files
 # themselves below, so they cannot quietly become decoration.
 BIHAR = [
-    ("अनारक्षित  ", "NONE", None, 243_751),
-    ("अनारक्षित(महिला)", "NONE", 1, 192_931),
-    ("अनुसूचित जाति", "SC", None, 64_538),
-    ("पिछड़ा वर्ग", "BC", None, 60_984),
-    ("पिछड़ा वर्ग(महिला)", "BC", 1, 38_430),
-    ("अनुसूचित जाति(महिला)", "SC", 1, 38_239),
-    ("अनुसूचित जनजाति ", "ST", None, 5_009),
-    ("अनुसूचित जनजाति(महिला)", "ST", 1, 1_395),
-    # 328 rows state no category at all. Not read as unreserved: an unstated
-    # reservation and an open seat are different things.
-    ("--select--", None, None, 328),
+    ("अनारक्षित", "NONE", None, 81_653),
+    ("अनारक्षित(महिला)", "NONE", 1, 69_269),
+    ("अनुसूचित जाति", "SC", None, 23_251),
+    ("पिछड़ा वर्ग", "BC", None, 21_636),
+    ("पिछड़ा वर्ग(महिला)", "BC", 1, 14_615),
+    ("अनुसूचित जाति(महिला)", "SC", 1, 14_173),
+    ("अनुसूचित जनजाति", "ST", None, 2_118),
+    ("अनुसूचित जनजाति(महिला)", "ST", 1, 616),
 ]
+# Seats whose form answers "Record not Found" print no reservation; the
+# adapter counts and leaves them out rather than reading them as open.
+BIHAR_UNSTATED = 30_764
 
 
 @pytest.mark.parametrize(("raw", "caste", "woman", "_"), BIHAR)
@@ -217,25 +216,21 @@ def test_bihar_reservation_column(raw, caste, woman, _):
 
 
 def test_the_bihar_vocabulary_is_closed_and_counted():
-    """Asserted against the sibling's own files, so the vocabulary above is a
-    claim about the data rather than a comment. Skipped where the sibling is
-    not checked out; the adapter's DECLARED counts cover that case."""
+    """Asserted against the pinned 2016 release the adapter reads, so the
+    vocabulary above is a claim about the data rather than a comment."""
     import collections
-    import csv
     import unicodedata
 
-    # ROOT, not a count of parents. The count was right while this file lived
-    # in scripts/common/ and wrong the moment it moved to tests/ - and it did
-    # not fail, it skipped, reporting a sibling that is checked out as absent.
-    root = ROOT.parent / "local_elections_bihar" / "data" / "2016" / "raw" / "legacy"
-    if not root.exists():
-        pytest.skip("local_elections_bihar is not checked out")
-    csv.field_size_limit(10**7)
-    seen = collections.Counter()
-    for path in sorted(root.glob("*.csv")):
-        with path.open(encoding="utf-8") as fh:
-            for row in csv.DictReader(fh):
-                seen[row["reservation_status"]] += 1
+    import pyarrow.parquet as pq
+
+    from local_elections.common.sources import resolve
+
+    directory, _ = resolve("local_elections_bihar")
+    seats = pq.read_table(
+        directory / "data/release/2016/seats.parquet", columns=["reserved_raw"]
+    )
+    seen = collections.Counter(seats.column(0).to_pylist())
+    assert seen.pop(None) == BIHAR_UNSTATED
 
     # Compared under NFC, because ड़ has two spellings - U+095C, and U+0921
     # followed by the nukta U+093C - that draw identically and compare unequal.
