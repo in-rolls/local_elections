@@ -157,7 +157,7 @@ def test_all_sarpanch_candidates_are_retained(slices):
     assert len(members) == rajasthan.DECLARED[rajasthan.CONTESTING_FILE]
     assert sum(member["result"] == "winner" for member in members) == 11257
     assert all(
-        "mobile_no" not in member and "email_address" not in member
+        "candidate_mobile" not in member and "candidate_email" not in member
         for member in members
     )
     assert members[0]["candidate_occupation"]

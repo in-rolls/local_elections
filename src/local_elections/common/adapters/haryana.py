@@ -92,7 +92,7 @@ DECLARED = {
 # printed sarpanch categories. In 2005 Ambala/Naraingarh the women's share is
 # statutory but a third of sarpanch rows print a BC category the state did not
 # reserve before 2021, so only the caste half is unreliable; the single flag
-# covers it too, and the sibling's `block_reservation_review` says which half.
+# covers it too, and the sibling's `reserved_block_review` says which half.
 # Every such row keeps its printed category and carries the flag.
 UNRELIABLE = ("reservation_unreliable", "caste_unreliable")
 INFERRED = "data/release/inferred/winner_woman_probability_{year}.parquet"
@@ -173,7 +173,7 @@ def slices(root):
                             {},
                         )
                     )
-                    if raw.get("block_reservation_review") in UNRELIABLE:
+                    if raw.get("reserved_block_review") in UNRELIABLE:
                         row["reservation_source_conflict"] = 1
             expected = DECLARED.get((year, tier))
             if expected is not None and len(rows) != expected:

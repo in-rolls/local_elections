@@ -149,7 +149,7 @@ def result_roster_key(row):
     local = local.replace("GENERAL", "GEN").replace("WOMAN", "W")
     return (
         normalized(row.get("district")),
-        normalized(row.get("name_of_gram_panchyat")),
+        normalized(row.get("gram_panchayat")),
         local,
     )
 
@@ -500,38 +500,38 @@ def zp_member_row(record, year, relative):
 
 
 def candidate_member(row, winner=None, winner_matches=0, runner_matches=0):
-    name = blank(row.get("name_of_contesting_candidate"))
-    winner_name = blank((winner or {}).get("winner_candidate_name"))
-    runner_name = blank((winner or {}).get("runnerup_candidate_name"))
+    name = blank(row.get("candidate_name"))
+    winner_name = blank((winner or {}).get("winner_name"))
+    runner_name = blank((winner or {}).get("runner_up_name"))
     matches_winner = bool(winner_name and normalized(name) == normalized(winner_name))
     matches_runner = bool(runner_name and normalized(name) == normalized(runner_name))
     is_winner = matches_winner and winner_matches == 1
     is_runner = matches_runner and runner_matches == 1
     gender = blank(row.get("candidate_woman_raw"))
     return {
-        "candidate_no": integer(row.get("contesting_candidate_serial_no")),
+        "candidate_no": integer(row.get("candidate_serial_no")),
         "candidate_name": name,
-        "relation_name": blank(row.get("father_husband_of_contesting_candidate")),
+        "relation_name": blank(row.get("candidate_relation_name")),
         "candidate_gender": gender,
         # O(ther) is neither: blank, as docs/naming.md has it
         "candidate_woman": 1 if gender == "F" else 0 if gender == "M" else "",
-        "candidate_age": integer(row.get("age")),
+        "candidate_age": integer(row.get("candidate_age")),
         "candidate_caste": blank(row.get("candidate_caste_raw")),
-        "candidate_education": blank(row.get("education_status")),
-        "candidate_marital_status": blank(row.get("martial_status")),
-        "candidate_occupation": blank(row.get("contesting_candidate_occupation")),
-        "candidate_total_assets": integer(row.get("total_value_of_capital_assets")),
+        "candidate_education": blank(row.get("candidate_education")),
+        "candidate_marital_status": blank(row.get("candidate_marital_status")),
+        "candidate_occupation": blank(row.get("candidate_occupation")),
+        "candidate_total_assets": integer(row.get("candidate_assets_inr")),
         "candidate_children_before_1995_11_27": integer(
-            row.get("children_before27111995")
+            row.get("candidate_children_before_1995_11_27")
         ),
         "candidate_children_after_1995_11_27": integer(
-            row.get("children_on_or_after28111995")
+            row.get("candidate_children_from_1995_11_28")
         ),
         "party": "",
         "votes": (
-            integer((winner or {}).get("vote_secure_by_winner"))
+            integer((winner or {}).get("winner_votes"))
             if is_winner
-            else integer((winner or {}).get("vote_secure_by_runnerup"))
+            else integer((winner or {}).get("runner_up_votes"))
             if is_runner
             else ""
         ),
@@ -553,12 +553,10 @@ def nomination_fields(row):
     if not row:
         return {}
     return {
-        "nominations_filed": integer(
-            row.get("nomination_total_no_of_nomination_filled")
-        ),
-        "nomination_candidates": integer(row.get("nomination_candidate")),
-        "validly_nominated_candidates": integer(row.get("validly_nominated_candidate")),
-        "withdrawals": integer(row.get("withdrawal")),
+        "nominations_filed": integer(row.get("nominations_filled")),
+        "nomination_candidates": integer(row.get("nominated_candidates")),
+        "validly_nominated_candidates": integer(row.get("valid_candidates")),
+        "withdrawals": integer(row.get("withdrawals")),
         "nominated_unopposed": integer(row.get("unopposed")),
         "contestants": integer(row.get("contestants")),
         "nomination_source_path": NOMINATION_FILE,
@@ -568,14 +566,10 @@ def nomination_fields(row):
 def head_row(candidate_rows, winner, nomination):
     first = candidate_rows[0]
     candidate_names = collections.Counter(
-        normalized(row.get("name_of_contesting_candidate")) for row in candidate_rows
+        normalized(row.get("candidate_name")) for row in candidate_rows
     )
-    winner_matches = candidate_names[
-        normalized((winner or {}).get("winner_candidate_name"))
-    ]
-    runner_matches = candidate_names[
-        normalized((winner or {}).get("runnerup_candidate_name"))
-    ]
+    winner_matches = candidate_names[normalized((winner or {}).get("winner_name"))]
+    runner_matches = candidate_names[normalized((winner or {}).get("runner_up_name"))]
     got = {
         "state": STATE,
         "year": event_year(first),
@@ -583,18 +577,18 @@ def head_row(candidate_rows, winner, nomination):
         "tier_local": "sarpanch",
         "district": blank(first.get("district")),
         "block": place(first.get("panchayat_samiti")),
-        "gp_no": integer(first.get("sr_no")),
-        "gram_panchayat": blank(first.get("name_of_gram_panchayat")),
+        "gp_no": integer(first.get("gp_no")),
+        "gram_panchayat": blank(first.get("gram_panchayat")),
         "ward_no": "",
         "listing_scope": "all_seats",
-        "winner": blank((winner or {}).get("winner_candidate_name")),
+        "winner": blank((winner or {}).get("winner_name")),
         "winner_basis": "published" if winner else "",
-        "votes": integer((winner or {}).get("vote_secure_by_winner")),
-        "runner_up": blank((winner or {}).get("runnerup_candidate_name")),
-        "runner_up_votes": integer((winner or {}).get("vote_secure_by_runnerup")),
+        "votes": integer((winner or {}).get("winner_votes")),
+        "runner_up": blank((winner or {}).get("runner_up_name")),
+        "runner_up_votes": integer((winner or {}).get("runner_up_votes")),
         "unopposed": (
             1
-            if blank((winner or {}).get("elected_unoppose")).upper() == "YES"
+            if blank((winner or {}).get("unopposed")).upper() == "YES"
             else 0
             if winner
             else ""
@@ -615,24 +609,22 @@ def head_row(candidate_rows, winner, nomination):
     got.update(reservation(first.get("reserved_raw")))
     got.update(nomination_fields(nomination))
     if winner:
-        winner_votes = integer(winner.get("vote_secure_by_winner"))
-        runner_votes = integer(winner.get("vote_secure_by_runnerup"))
-        unopposed = blank(winner.get("elected_unoppose")).upper() == "YES"
+        winner_votes = integer(winner.get("winner_votes"))
+        runner_votes = integer(winner.get("runner_up_votes"))
+        unopposed = blank(winner.get("unopposed")).upper() == "YES"
         if winner_votes and runner_votes and not unopposed:
             got["margin"] = int(winner_votes) - int(runner_votes)
         got.update(
             {
-                "total_candidates_stated": integer(
-                    winner.get("total_no_of_contesting_candidate")
-                ),
-                "electorate": integer(winner.get("total_electorate_votes")),
-                "votes_polled": integer(winner.get("total_polled_votes")),
-                "rejected_votes": integer(winner.get("rejected_votes")),
-                "valid_votes": integer(winner.get("total_valid_votes")),
-                "poll_percentage": blank(winner.get("poll_percent")),
-                "nota_votes": integer(winner.get("total_no_of_nota_count")),
-                "tendered_votes": integer(winner.get("tendered_votes")),
-                "winner_pledge_url": blank(winner.get("view_pledge")),
+                "total_candidates_stated": integer(winner.get("contesting_candidates")),
+                "electorate": integer(winner.get("electors")),
+                "votes_polled": integer(winner.get("votes_polled")),
+                "rejected_votes": integer(winner.get("votes_rejected")),
+                "valid_votes": integer(winner.get("votes_valid")),
+                "poll_percentage": blank(winner.get("turnout_pct")),
+                "nota_votes": integer(winner.get("votes_nota")),
+                "tendered_votes": integer(winner.get("votes_tendered")),
+                "winner_pledge_url": blank(winner.get("winner_affidavit_url")),
             }
         )
         winning_member = next(
@@ -701,7 +693,7 @@ def roster_only_rows(root, result_rows):
 
 
 def head_slices(root, candidates, winners, nominations):
-    winner_by_key = {event_key(row, "name_of_gram_panchyat"): row for row in winners}
+    winner_by_key = {event_key(row, "gram_panchayat"): row for row in winners}
     if len(winner_by_key) != len(winners):
         raise SystemExit(f"{REPO}: winner event key is not unique")
     nomination_by_key = {event_key(row, "gram_panchayat"): row for row in nominations}
@@ -710,7 +702,7 @@ def head_slices(root, candidates, winners, nominations):
 
     grouped = collections.OrderedDict()
     for row in candidates:
-        grouped.setdefault(event_key(row, "name_of_gram_panchayat"), []).append(row)
+        grouped.setdefault(event_key(row, "gram_panchayat"), []).append(row)
     if len(grouped) != 11445:
         raise SystemExit(
             f"{REPO}: candidates identify {len(grouped):,} contests, 11,445 declared"
@@ -740,8 +732,8 @@ def head_slices(root, candidates, winners, nominations):
 
 
 def ward_row(row):
-    winner = blank(row.get("name_of_candidate"))
-    winner_category = blank(row.get("category_of_winning_candidate"))
+    winner = blank(row.get("winner_name"))
+    winner_category = blank(row.get("winner_caste_raw"))
     got = {
         "state": STATE,
         "year": event_year(row),
@@ -749,22 +741,20 @@ def ward_row(row):
         "tier_local": "panch",
         "district": blank(row.get("district")),
         "block": place(row.get("panchayat_samiti")),
-        "gp_no": integer(row.get("sr_no")),
-        "gram_panchayat": blank(row.get("grampanchayat")),
+        "gp_no": integer(row.get("gp_no")),
+        "gram_panchayat": blank(row.get("gram_panchayat")),
         "ward_no": integer(row.get("ward_no")),
-        "ward_name": blank(row.get("name_of_village")),
+        "ward_name": blank(row.get("village")),
         "listing_scope": "all_seats",
         "winner": winner,
         "winner_basis": "published" if winner else "",
         "votes": integer(row.get("winner_votes")),
         "runner_up_votes": (
             ""
-            if blank(row.get("whether_elected_unoppose")).upper() == "YES"
-            else integer(row.get("looser_votes"))
+            if blank(row.get("unopposed")).upper() == "YES"
+            else integer(row.get("loser_votes"))
         ),
-        "unopposed": 1
-        if blank(row.get("whether_elected_unoppose")).upper() == "YES"
-        else 0,
+        "unopposed": 1 if blank(row.get("unopposed")).upper() == "YES" else 0,
         "vacant": int(not winner),
         "winner_caste": winner_category if winner else "",
         # The winner's category names women ("OBC (Woman)"), so a woman's
@@ -780,19 +770,19 @@ def ward_row(row):
             else {}
         ),
         "winner_category_raw": winner_category,
-        "electorate": integer(row.get("total_no_of_votes")),
+        "electorate": integer(row.get("electors")),
         "votes_polled": integer(row.get("votes_polled")),
-        "poll_percentage": blank(row.get("poll_percent")),
-        "result_remark": blank(row.get("remark_if_any")),
+        "poll_percentage": blank(row.get("turnout_pct")),
+        "result_remark": blank(row.get("remark")),
         "election_type": blank(row.get("election_type")),
         "election_duration": blank(row.get("election_duration")),
         "script": "latin",
         "source_path": WARD_FILE,
         "source_page": "",
     }
-    got.update(reservation(row.get("category_of_ward")))
+    got.update(reservation(row.get("reserved_raw")))
     winner_votes = integer(row.get("winner_votes"))
-    runner_votes = integer(row.get("looser_votes"))
+    runner_votes = integer(row.get("loser_votes"))
     if winner_votes and runner_votes and not got["unopposed"]:
         got["margin"] = int(winner_votes) - int(runner_votes)
     return got
@@ -802,7 +792,7 @@ def ward_slices(rows):
     by_year = collections.defaultdict(list)
     seen = set()
     for raw in rows:
-        key = (*event_key(raw, "grampanchayat"), integer(raw.get("ward_no")))
+        key = (*event_key(raw, "gram_panchayat"), integer(raw.get("ward_no")))
         if key in seen:
             raise SystemExit(f"{REPO}: duplicate ward event key {key!r}")
         seen.add(key)
@@ -872,7 +862,7 @@ def supplemental(root):
                 "election_duration": blank(raw.get("election_duration")),
                 "district": blank(raw.get("district")),
                 "block": place(raw.get("panchayat_samiti")),
-                "gp_no": integer(raw.get("sr_no")),
+                "gp_no": integer(raw.get("gp_no")),
                 "gram_panchayat": blank(raw.get("gram_panchayat")),
                 **nomination_fields(raw),
                 "source_path": NOMINATION_FILE,
