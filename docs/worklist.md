@@ -9,7 +9,7 @@ Actionable gaps in the retained data.
 | Rows | State | Year | Tier | What | Detail |
 |---|---|---|---|---|---|
 | 62,990 | Telangana | 2025 | `gp_ward` | the source states a caste but no gender | Nalgonda 5,370, Vikarabad 3,960, Siddipet 3,832 |
-| 23,451 | Jharkhand | 2015 | `gp_ward` | some districts are not held | 11 of 24 districts, roughly 23,451 rows missing. Searched 2026-08-13: not one of the eleven districts that hold a document has a single ward-tier mention in it; they are mukhiya and panchayat samiti notifications and nothing else. Hazaribag and Seraikela Kharsawan hold no document at all. The archive has six PDFs for the commission, captured in 2026, none of them a result or a reservation notification. |
+| 23,554 | Jharkhand | 2015 | `gp_ward` | some districts are not held | 11 of 24 districts, roughly 23,554 rows missing. Searched 2026-08-13: not one of the eleven districts that hold a document has a single ward-tier mention in it; they are mukhiya and panchayat samiti notifications and nothing else. Hazaribag and Seraikela Kharsawan hold no document at all. The archive has six PDFs for the commission, captured in 2026, none of them a result or a reservation notification. |
 | 6,471 | Tamil Nadu | 2011 | `block_member` | the row does not say which seat | Villupuram 473, Vellore 390, Tiruvannamalai 341 |
 | 5,090 | Tamil Nadu | 2019 | `block_member` | the row does not say which seat | Tiruvannamalai 341, Salem 288, Cuddalore 287 |
 | 1,875 | Andhra Pradesh | 2020 | `gp_ward` | some ward lists are shorter than the record says | 3% of rows |
@@ -18,13 +18,13 @@ Actionable gaps in the retained data.
 | 1,252 | Bihar | 2011 | `gp_head` | the source states a caste but no gender | BHOJPUR 181, KAIMUR 147, SIWAN 81 |
 | 1,219 | Andhra Pradesh | 2020 | `gp_ward` | the source states a caste but no gender | Nellore 751, Prakasam 204, Anantapur 106 |
 | 820 | Haryana | 2022 | `gp_ward` | some rows do not identify a distinct seat | largest group 22 rows |
-| 760 | Jharkhand | 2015 | `gp_ward` | some rows do not identify a distinct seat | largest group 57 rows |
+| 801 | Jharkhand | 2015 | `gp_ward` | some rows do not identify a distinct seat | largest group 57 rows |
 | 692 | Haryana | 2016 | `gp_ward` | some rows do not identify a distinct seat | largest group 6 rows |
 | 655 | Tamil Nadu | 2011 | `zp_member` | the row does not say which seat | Villupuram 47, Vellore 40, Tiruvannamalai 34 |
 | 614 | Haryana | 2000 | `gp_ward` | some rows do not identify a distinct seat | largest group 12 rows |
 | 560 | Haryana | 2000 | `gp_ward` | the row does not say which panchayat | Sonepat 116, Karnal 107, Faridabad 62 |
+| 550 | Jharkhand | 2015 | `gp_ward` | the row does not say which seat | Deoghar 252, Ranchi 115, Simdega 78 |
 | 515 | Tamil Nadu | 2019 | `zp_member` | the row does not say which seat | Tiruvannamalai 34, Cuddalore 29, Salem 29 |
-| 504 | Jharkhand | 2015 | `gp_ward` | the row does not say which seat | Deoghar 252, Ranchi 115, Lohardaga 57 |
 | 500 | Jharkhand | 2015 | `block_member` | some rows do not identify a distinct seat | largest group 43 rows |
 | 304 | Haryana | 2000 | `gp_ward` | the row does not say which seat | Faridabad 71, Bhiwani 37, Jind 33 |
 | 267 | Jharkhand | 2015 | `zp_member` | some districts are not held | 11 of 24 districts, roughly 267 rows missing |
@@ -39,7 +39,7 @@ Actionable gaps in the retained data.
 | 153 | Tamil Nadu | 2021 | `zp_member` | the row does not say which seat | Villupuram 28, Kallakurichi 19, Chengalpattu 16 |
 | 147 | Karnataka | 2016 | `block_member` | the row does not say which seat | Davanagere 38, Koppal 30, Chamarajanagar 20 |
 | 114 | Andhra Pradesh | 2020 | `gp_head` | the source states a caste but no gender | Nellore 76, West Godavari 13, Prakasam 7 |
-| 97 | Jharkhand | 2015 | `gp_ward` | the row does not say which panchayat | Lohardaga 57, Godda 25, Ranchi 14 |
+| 108 | Jharkhand | 2015 | `gp_ward` | the row does not say which panchayat | Lohardaga 57, Godda 25, Ranchi 14 |
 | 83 | Jharkhand | 2015 | `block_member` | the row does not say which seat | East Singhbhum 43, Ramgarh 14, West Singhbhum 10 |
 | 55 | Jharkhand | 2015 | `block_member` | the seat identifier is an image, not text | — |
 | 52 | Tamil Nadu | 2011 | `gp_ward` | some rows do not identify a distinct seat | largest group 2 rows |
@@ -55,8 +55,8 @@ Actionable gaps in the retained data.
 | 33 | Karnataka | 2007 | `gp_head` | the row does not say which panchayat | CHIKMAGALUR 7, MYSORE 5, TUMKUR 3 |
 | 29 | Haryana | 2016 | `gp_head` | some rows do not identify a distinct seat | largest group 3 rows |
 | 26 | Telangana | 2019 | `gp_ward` | some rows do not identify a distinct seat | largest group 2 rows |
-| 22 | Jharkhand | 2015 | `block_member` | place names are in a legacy font | — |
-| 21 | Jharkhand | 2015 | `gp_head` | some result rows do not identify a winner | 21 of 4,137 rows |
+| 23 | Jharkhand | 2015 | `block_member` | place names are in a legacy font | — |
+| 21 | Jharkhand | 2015 | `gp_head` | some result rows do not identify a winner | 21 of 4,142 rows |
 | 16 | Jammu & Kashmir | 2016 | `gp_ward` | the row does not say which panchayat | Kathua 16 |
 | 15 | Jharkhand | 2015 | `gp_head` | the row does not say which panchayat | Khunti 12, Koderma 3 |
 | 14 | Haryana | 2010 | `gp_ward` | the row does not say which panchayat | Sirsa 14 |

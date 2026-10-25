@@ -184,16 +184,16 @@
     }
   },
   "local_elections_jharkhand": {
-    "ref": "6ee783787f1a9da3e0e171b5027a46cf8005de2c",
+    "ref": "ca610cc6a17bad1a306d8be707358af8e6e94afc",
     "files": {
-      "data/release/2015/mukhiya_results.parquet": "afde1ec88a0e09a5ea052238f72dab1dfd2241d05581259b85728cd6593e6157",
-      "data/release/2022/mukhiya_results.parquet": "be844a83ab6d8fc36fba74b318d788a97bd0b9dbcee749f6f2b8c1fe40253910",
-      "data/release/2015/ward_member_results.parquet": "6a65af319c465996c32c3e2737d0aadbad9ed1d3b581fd210c92a8c1a90d807e",
-      "data/release/2015/panchayat_samiti_results.parquet": "4e957c5cf0567094c40d7d47f9f8fb951aa556c43695852460119414dbc3a5bf",
-      "data/release/2015/zila_parishad_results.parquet": "aef457bea75ff6339e89132dcd0f8ae4784a4fd3a35129ee4802482e5d1837fe",
-      "data/release/linkage/gp_2015_2022.parquet": "8ac41eb2150bdc4df18ed0fb9b74c4cb41b99cd48bb0ca9f1ccb40dd39f2da93",
-      "data/release/inferred/winner_woman_probability_2015.parquet": "3421730006bb42e771f2d8a1dfc2eb01018b766708ea549b5ad742ba1e2299a2",
-      "data/release/inferred/winner_woman_probability_2022.parquet": "e21048c3a1c3aa1beb3b1ea7e068bc5778b0bf8debb58406eee679152449dfd7"
+      "data/release/2015/mukhiya_results.parquet": "3dfb9b4f100734c4021012742a94eeb83ff197eee66e1f3da25792940af3e446",
+      "data/release/2022/mukhiya_results.parquet": "fafef1c7fc082d0d2c5d0f86a47b60c797a5f5ae4febc917c73dcf8167eb9926",
+      "data/release/2015/ward_member_results.parquet": "013144cf225f84c61a88965465b9067e6ff590a5a8f2a7f3f6b098f2d1019113",
+      "data/release/2015/panchayat_samiti_results.parquet": "4bbbd5298df9003d4d6fd16143f0a82f6f7585d6a0e0453a4d4dedcd3ebb51d0",
+      "data/release/2015/zila_parishad_results.parquet": "da2d7f0766e986a09391cfce0cbc51dbfcc1ad7dea601eb07945fb55cb4d23cf",
+      "data/release/linkage/gp_2015_2022.parquet": "a8810f95d8760e73f4a659501ba4fd9f025b49f51806b0ced1392738de61e0b6",
+      "data/release/inferred/winner_woman_probability_2015.parquet": "cdbf5e9786d5d6e6b1e8bc53a66896d1e41e1da17fe06c924748f10a6b576810",
+      "data/release/inferred/winner_woman_probability_2022.parquet": "c500ffa15c4808067432b57156070dd78b09e420237bcc17427806ac82daa9c9"
     }
   },
   "local_elections_telangana": {

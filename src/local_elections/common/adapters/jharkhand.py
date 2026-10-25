@@ -51,10 +51,10 @@ MEMBERS = {
 }
 
 DECLARED = {
-    "data/release/2015/mukhiya_results.parquet": 4137,
+    "data/release/2015/mukhiya_results.parquet": 4142,
     "data/release/2022/mukhiya_results.parquet": 4334,
-    "data/release/2015/ward_member_results.parquet": 19843,
-    "data/release/2015/panchayat_samiti_results.parquet": 5171,
+    "data/release/2015/ward_member_results.parquet": 19930,
+    "data/release/2015/panchayat_samiti_results.parquet": 5218,
     "data/release/2015/zila_parishad_results.parquet": 226,
 }
 
@@ -138,6 +138,9 @@ def seat(r, inferred):
         "reservation_raw": text(r.get("reserved_raw")),
         "winner": text(r.get("winner")),
         "winner_basis": "published" if text(r.get("winner")) else "",
+        # the notification marks a seat returned unopposed; an unmarked seat
+        # is not thereby shown contested
+        "unopposed": "1" if r.get("unopposed") is True else "",
         "vacant": text(r.get("vacant")),
         "open_category": text(r.get("reserved_open_seat")),
         "entry_method": text(r.get("entry_method")),
@@ -182,6 +185,7 @@ def member(r):
         "caste_reservation": caste,
         "woman_reserved": str(woman),
         "winner": text(r["winner"]),
+        "unopposed": "1" if r.get("unopposed") is True else "",
         "vacant": text(r["vacant"]),
         "reservation_raw": text(r["reserved_raw"]),
         "script": text(r["script"]),
