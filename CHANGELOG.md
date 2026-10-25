@@ -9,6 +9,52 @@ here is usually the thing that was wrong.
 
 ## v0.7.0 — unreleased
 
+### Corrected
+
+- **Jharkhand's 2015 names were scrambled where the PDFs carry Kruti Dev text.**
+  The text layer was read in left-to-right glyph order, which moves vowel signs
+  and splits words at zero-width marks (`सिहं` for `सिंह`). It is now read in the
+  order the PDF stores it, and ten missing Kruti Dev bytes were added, each
+  checked against a word on the page. About 1,100 names change. The same reader
+  recovers seats the old one lost: 2015 mukhiya seats rise from 3,972 to 4,142,
+  ward seats from 19,781 to 19,930 and panchayat samiti seats from 5,132 to
+  5,218 (West Singhbhum's mukhiya file alone gives 217 seats, not 59).
+- Jharkhand winners returned unopposed carried "(निर्विरोध)" inside the name
+  (819 seats); it is now the `unopposed` column. 393 names in the 2022
+  panchayat samiti table had the post ("… पंचायत समिति के") stuck to them.
+- **682 Karnataka 2016 taluk and zila panchayat "winners" were whole address
+  blocks**: name, relation (ಕೋಂ, "wife of") and village in one cell. They are
+  split at the relation and address marks; 15 cells with no mark remain whole.
+
+### Added
+
+- `winner_latin` covers every Indian script in the corpus. Devanagari and
+  Gurmukhi use indicate's offline model, with its word lookup as a fallback
+  for readings that fail a check (a digit or a lost word in the output, as in
+  `अली` read `0lī`). Tamil, Kannada, Telugu, Bengali, Gujarati and Malayalam,
+  for which indicate has no model, and the readings indicate still fails, are
+  read by Muse Spark (`muse-spark-1.3-contributor`), with the model and a hash
+  of the prompt in `winner_latin_method`. Tamil Nadu, Karnataka, Jharkhand and
+  UP are now fully romanized. 41 distinct strings whose reading fails the
+  check stay blank, among them Bihar names ending in a roman numeral
+  (`सविता देवी II`). Names the source printed in Latin keep a blank
+  `winner_latin`, as before.
+- Tamil Nadu enters the pool: 238,723 seats from 2011, 2019 and 2021, with
+  421,661 candidates.
+- Haryana adds its 2000, 2005 and 2010 gram panchayat heads and wards (190,036
+  seats), read from `local_elections_haryana`.
+- Telangana adds 2025 (75,725 seats); Jharkhand adds 2022 mukhiya seats
+  (4,334); Bihar adds 2011 mukhiya seats (3,973).
+- `supplemental_seat_links.parquet` (71,752 rows) links a seat to the same
+  seat in the next election, with the matching pass and name score, for Bihar,
+  Haryana, Jharkhand, Tamil Nadu, Telangana and Uttarakhand.
+- The pool holds 1,820,614 seat events across 16 states and 2,548,718
+  candidate rows, against 1,307,418 and 2,127,057 in v0.6.0.
+- The source-evidence archives cover this repository's own evidence: 12,508
+  files in 4 archives. State evidence moved to the state repositories with
+  their parsers; v0.6.0's 39,317-file archives remain the record of the
+  earlier layout.
+
 ### Changed
 
 - State data now use full state names and separate raw, interim, release and

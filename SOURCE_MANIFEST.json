@@ -1,33 +1,37 @@
 {
   "assets": [
     {
+      "bytes": 461319966,
       "members": 558,
       "name": "source-evidence-001.tar.gz",
-      "status": "not_built",
-      "uncompressed_bytes": 533991670
+      "sha256": "01cb2fb32f0381ed37f3e41c136615a9aa65c1f3398873c7170cb03c7f224d4f",
+      "uncompressed_bytes": 533991672
     },
     {
+      "bytes": 261408035,
       "members": 7448,
       "name": "source-evidence-002.tar.gz",
-      "status": "not_built",
+      "sha256": "0ef3f300e2a5bbbfcf954305172750d3e0058f3db73c939f74544d4eda6fde16",
       "uncompressed_bytes": 534622622
     },
     {
+      "bytes": 480008374,
       "members": 732,
       "name": "source-evidence-003.tar.gz",
-      "status": "not_built",
+      "sha256": "3af5c233e61dc9d0e96865e30c855b3ca48289173627a5baaadaa49c4d7d46f2",
       "uncompressed_bytes": 536227503
     },
     {
+      "bytes": 278088537,
       "members": 3770,
       "name": "source-evidence-004.tar.gz",
-      "status": "not_built",
+      "sha256": "871c051d0e07f1e8ad86f0f47f22fa9bd97375346856f4db099812f31ebe6322",
       "uncompressed_bytes": 455852048
     }
   ],
   "builder_sha256": "41c852f29137f3bf75641e7757473a1421c6794e2297112af8edbf501efecbb6",
-  "built_from_commit": "94153d33bf17c2467912431baffc6035a1844d2e",
-  "dirty": true,
+  "built_from_commit": "f57fdc4492fbe368a4e1645e83f9665c783dc654",
+  "dirty": false,
   "excluded_names": [
     ".DS_Store"
   ],
@@ -392,9 +396,9 @@
     {
       "artifact_role": "source_metadata_or_supporting_material",
       "asset": "source-evidence-001.tar.gz",
-      "bytes": 4694,
+      "bytes": 4696,
       "path": "data/source_search/national/uttar_pradesh/README.md",
-      "sha256": "a31139c4e5cead910be73ed3393127f0c31a6f574577bc74437ba531336533e5"
+      "sha256": "941619fe4ba5b7adf401a4b6c604ad2598ec46ebd3c805c68bfa367bad42e112"
     },
     {
       "artifact_role": "source_metadata_or_supporting_material",
@@ -87599,7 +87603,7 @@
   ],
   "totals": {
     "assets": 4,
-    "bytes": 2060693843,
+    "bytes": 2060693845,
     "files": 12508
   }
 }
