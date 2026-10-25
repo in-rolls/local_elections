@@ -1471,7 +1471,7 @@
     "provenance_level",
     "quality_flags"
   ],
-  "release": "",
+  "release": "v0.7.0",
   "schema_version": 5,
   "sibling_repos": [
     {
