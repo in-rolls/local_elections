@@ -258,3 +258,17 @@ def test_nomination_summaries_keep_their_own_grain(sibling):
         row["year"] for row in table["rows"]
     ) == collections.Counter(rajasthan.NOMINATION_UNITS)
     assert len({row["row_id"] for row in table["rows"]}) == len(table["rows"])
+
+
+def test_head_vote_counts_reach_the_pooled_row(slices):
+    # The sibling's votes_rejected/votes_tendered feed the pooled
+    # rejected_votes/tendered_votes; a rename of one side once emptied them.
+    rows = [
+        row
+        for slice_ in slices
+        for row in slice_["rows"]
+        if row["tier"] == "gp_head" and row.get("votes_polled")
+    ]
+    assert len(rows) > 11_000
+    assert all(row.get("rejected_votes") for row in rows)
+    assert all(row.get("tendered_votes") for row in rows)

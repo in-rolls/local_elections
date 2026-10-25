@@ -68,14 +68,10 @@ def pooled_files():
                 yield directory / relative
 
 
-@command("validate", artifact="naming")
-def main():
-    ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("paths", nargs="*", type=Path)
-    ap.add_argument("--strict", action="store_true")
-    args = ap.parse_args()
-    found = 0
-    for path in args.paths or pooled_files():
+def check(paths):
+    """(path, column, why) for every violation in these parquet files."""
+    found = []
+    for path in paths:
         schema = pq.read_schema(path)
         names = schema.names
         flags = {f.name for f in schema if pa.types.is_boolean(f.type)}
@@ -83,10 +79,20 @@ def main():
             names = sorted(
                 set(pq.read_table(path, columns=["column"]).column(0).to_pylist())
             )
-        for name, why in violations(names, flags):
-            found += 1
-            print(f"{path}: {name}: {why}")
-    print(f"{found} naming violation(s)")
+        found += [(path, name, why) for name, why in violations(names, flags)]
+    return found
+
+
+@command("validate", artifact="naming")
+def main():
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("paths", nargs="*", type=Path)
+    ap.add_argument("--strict", action="store_true")
+    args = ap.parse_args()
+    found = check(args.paths or pooled_files())
+    for path, name, why in found:
+        print(f"{path}: {name}: {why}")
+    print(f"{len(found)} naming violation(s)")
     if args.strict and found:
         sys.exit(1)
 

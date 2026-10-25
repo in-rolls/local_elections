@@ -1,6 +1,6 @@
 """docs/naming.md's rules, as tools/naming.py enforces them."""
 
-from local_elections.tools.naming import violations
+from local_elections.tools.naming import check, pooled_files, violations
 
 
 def names(columns):
@@ -52,14 +52,5 @@ def names_flags(columns, flags):
 
 
 def test_the_published_tables_follow_naming():
-    import pyarrow as pa
-    import pyarrow.parquet as pq
-
-    from local_elections.paths import ROOT
-
-    found = []
-    for path in sorted((ROOT / "data" / "master").glob("*.parquet")):
-        schema = pq.read_schema(path)
-        flags = {f.name for f in schema if pa.types.is_boolean(f.type)}
-        found += [(path.name, n) for n, _ in violations(schema.names, flags)]
-    assert found == []
+    # the hub's tables and every sibling file it pins, as `make naming` reads them
+    assert check(pooled_files()) == []
