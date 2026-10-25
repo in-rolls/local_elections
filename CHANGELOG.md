@@ -15,16 +15,23 @@ here is usually the thing that was wrong.
   The text layer was read in left-to-right glyph order, which moves vowel signs
   and splits words at zero-width marks (`सिहं` for `सिंह`). It is now read in the
   order the PDF stores it, and ten missing Kruti Dev bytes were added, each
-  checked against a word on the page. About 1,100 names change. The same reader
-  recovers seats the old one lost: 2015 mukhiya seats rise from 3,972 to 4,142,
-  ward seats from 19,781 to 19,930 and panchayat samiti seats from 5,132 to
-  5,218 (West Singhbhum's mukhiya file alone gives 217 seats, not 59).
+  checked against a word on the page. About 1,100 names change, and the reader
+  recovers 5 mukhiya, 87 ward and 47 panchayat samiti seats the old one lost.
+  With the parser's move to `local_elections_jharkhand`, Jharkhand's 2015
+  seats rise since v0.6.0 from 3,972 to 4,142 mukhiya, 19,781 to 19,930 ward
+  and 5,132 to 5,218 panchayat samiti.
 - Jharkhand winners returned unopposed carried "(निर्विरोध)" inside the name
-  (819 seats); it is now the `unopposed` column. 393 names in the 2022
-  panchayat samiti table had the post ("… पंचायत समिति के") stuck to them.
-- **682 Karnataka 2016 taluk and zila panchayat "winners" were whole address
-  blocks**: name, relation (ಕೋಂ, "wife of") and village in one cell. They are
-  split at the relation and address marks; 15 cells with no mark remain whole.
+  (819 seats in the state release, 773 of them pooled); it is now the
+  `unopposed` column. 404 of 406 names with the post stuck to them ("…
+  पंचायत समिति के") are cleaned; two merged cells remain.
+- **715 Karnataka 2016 taluk and zila panchayat "winners" held more than a
+  name**: relation (ಕೋಂ "wife of", ಬಿನ್ "son of"), village, post, house
+  number. They are split at the printed marks, including the comma, semicolon
+  and ಮು/ಪೋ forms. About 20 cells with no mark still carry a village or taluk,
+  and 30 Gangavathi and Yelaburga block rows hold a constituency label
+  (`9-ಕಳೇನೂರ`) where the winner should be.
+- Bihar's block and gram panchayat names are printed with a trailing space,
+  so 717 rows missed their Latin reading; the lookup now strips it.
 
 ### Added
 
@@ -34,10 +41,9 @@ here is usually the thing that was wrong.
   `अली` read `0lī`). Tamil, Kannada, Telugu, Bengali, Gujarati and Malayalam,
   for which indicate has no model, and the readings indicate still fails, are
   read by Muse Spark (`muse-spark-1.3-contributor`), with the model and a hash
-  of the prompt in `winner_latin_method`. Tamil Nadu, Karnataka, Jharkhand and
-  UP are now fully romanized. 41 distinct strings whose reading fails the
-  check stay blank, among them Bihar names ending in a roman numeral
-  (`सविता देवी II`). Names the source printed in Latin keep a blank
+  of the prompt in `winner_latin_method`. 41 distinct strings whose reading
+  fails the check stay blank, among them Bihar names ending in a roman
+  numeral (`सविता देवी II`). Names the source printed in Latin keep a blank
   `winner_latin`, as before.
 - Tamil Nadu enters the pool: 238,723 seats from 2011, 2019 and 2021, with
   421,661 candidates.

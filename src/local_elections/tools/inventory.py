@@ -116,7 +116,8 @@ def classify(path):
     elif density >= TEXT_THRESHOLD:
         fmt = "digital-text"
     elif density > 50:
-        fmt = "mixed"  # a text layer exists but is thin - partial OCR or cover pages  # noqa: E501
+        # a text layer exists but is thin - partial OCR or cover pages
+        fmt = "mixed"
     else:
         fmt = "scan"
     return {

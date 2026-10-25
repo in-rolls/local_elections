@@ -212,15 +212,19 @@ def numbered(rows):
 # fuzzy-matched because there are four real markers and a token-by-token
 # similarity pass would be a lot of machinery for a closed set of six strings.
 # The marks after an abbreviation: a colon, a full stop, the visarga that the
-# typists used as a colon ("ಸಾಃ", "ತಾಃ") and a bar, single or doubled ("ಸಾ||").
-MARK = r"(?:[:.ಃ]|\|\|?)"
+# typists used as a colon ("ಸಾಃ", "ತಾಃ"), a semicolon (Yadagiri's "ಸಾ;") and a
+# bar, single or doubled ("ಸಾ||"). After a relation word a comma also ends it
+# ("ಕೋಂ, ಗೋಪಾಲ"); after an address word it does not, since "ಸುನೀತಾ," would
+# then read as ತಾ, (taluk).
+MARK = r"(?:[:.ಃ;]|\|\|?)"
 RELATION = re.compile(
     r"[\s,]*(?:ಬಿನ್|ಜಿನ್|ತಂದೆ|ತೆಂದೆ|ಕೋಂ|ಗಂಡ|ಕಂದ|ಬಿ\s*[/.]\s*ಒ|ಸಿ\s*[/.]\s*ಒ)"
-    rf"(?:\s*{MARK}\s*|\s|$)"
+    rf"(?:\s*(?:{MARK}|,)\s*|\s|$)"
 )
 ADDRESS = re.compile(
     rf"[\s,]*(?:ಸಾ\s*{MARK}|ಮು\s*{MARK}|ವಾಸ\s*{MARK}|ತಾ\s*{MARK}|ಗ್ರಾಮ\b|"
-    r"ಮ\s*[.]?\s*ನಂ|ಮನೆ\s*ನಂ|ವಾರ್ಡ್)"
+    r"ಮ\s*[.]?\s*ನಂ|ಮನೆ\s*(?:ನಂ|ಸಂಖ್ಯೆ|ಸಂ)|ವಾರ್ಡ್|"
+    rf"ಮು\s*(?:ಡಿ|/)?\s*ಪೋ(?:\s*{MARK})?|ಪೋ\s*:|(?:ಹಳೇ\s*)?ನಂ\s*[.]?\s*(?=\d)|ಫ್ಲಾಟ್)"
 )
 # What is left when no marker is printed: "ಪಾಲಪ್ಪ, ಎಂ.ಪಿ.ಪ್ರಕಾಶನಗರ ಹಂಪಿ, ...".
 # A name carries no comma, so the first one ends it.
@@ -249,7 +253,7 @@ def _split(cell):
     bits = COMMA.split(name, 1)
     if len(bits) > 1:
         name, tail = bits[0], f"{bits[1]} {tail}"
-    return (name.strip(" ,.-"), relation.strip(" ,.-"), tail.strip(" ,.-"))
+    return (name.strip(" ,.-"), relation.strip(" ,.-"), tail.strip(" ,.-:;"))
 
 
 def winner_name(cell):

@@ -301,3 +301,17 @@ def test_every_rows_script_matches_its_own_text():
             if want != script:
                 wrong.append((path.name, want, script, text[:40]))
     assert not wrong, f"{len(wrong)} rows: {wrong[:3]}"
+
+
+def test_a_padded_source_name_still_finds_its_latin_reading():
+    """Bihar prints block names with a trailing space ('बौंसी '); the table is
+    keyed on the stripped string, as the pooled value is."""
+    row = M.to_master(
+        dict(BASE, block="बौंसी ", script="devanagari"),
+        "goa/gp_ward/2012",
+        "local_elections",
+        "abc123",
+        "page",
+        latin={"बौंसी": ("baunsi", "indicate 0.11.0 model")},
+    )
+    assert row["block_latin"] == "baunsi"

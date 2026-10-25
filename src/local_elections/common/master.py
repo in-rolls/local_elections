@@ -542,7 +542,8 @@ def to_master(
     # was already Latin or its reading was withheld.
     for source_column, latin_column in LATIN_OF.items():
         reading, method = (latin or {}).get(
-            out.get(source_column) or row.get(source_column) or "", ("", "")
+            (out.get(source_column) or row.get(source_column) or "").strip(),
+            ("", ""),
         )
         out[latin_column] = reading
         out[latin_column + "_method"] = method

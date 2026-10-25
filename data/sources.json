@@ -1,6 +1,6 @@
 {
   "local_elections_up": {
-    "ref": "448dc14383d44738793d79ab07e68a4df4e713a2",
+    "ref": "4c84846114cebddda944e0a4947eaae1aaec47ae",
     "files": {
       "data/release/1995/panchayat_samiti_head_seat_reservation.parquet": "ea15a93cce15d4ce0cf02327a47e20d0885ef7cb1225c1d7e70f77d207e7e2a3",
       "data/release/1995/zilla_parishad_member_seat_reservation.parquet": "e308b447046a8c49c2545d71e2d600497bc1676607b3662059b5cf1fe45a078a",
@@ -73,12 +73,12 @@
       "data/release/2023/municipal_council_ward_member_seat_reservation.parquet": "0450edc7cb54a2465084b923365ce7303f75e6e1b5c1f1117c12bcde4d87f9de",
       "data/release/2023/nagar_panchayat_chair_seat_reservation.parquet": "4f8a46d1aa451c3aaadeee443d4912c5aad70f6732bf559af969f8875ff83039",
       "data/release/2023/nagar_panchayat_ward_member_seat_reservation.parquet": "0b7cccc25036bf39f8f83011fb56d045eb559e7e18e9afc1552e07a248e8fda1",
-      "data/release/manifest.json": "5d198ed868cc51bd95bf67af2537b356b5be000d2a76c9e0542a5adcc45094f4",
+      "data/release/MANIFEST.json": "5d198ed868cc51bd95bf67af2537b356b5be000d2a76c9e0542a5adcc45094f4",
       "data/release/linkage/gp_head_election_records.parquet": "4d8652a1947a5d5b687ef10acaf8a45ce371f22e59a92f62bb8ef7f93bf3c195"
     }
   },
   "local_elections_rajasthan": {
-    "ref": "301597bd747f2104f67c336db765bb0c2b5b8ba6",
+    "ref": "8bfdf8123296b451336a28b1fb054217c4f263ee",
     "files": {
       "data/release/2005/sarpanch_results.parquet": "bae4ca5e76815d6ee5f36c830f649abebf8128e42aba3a1a3e985d06b724e165",
       "data/release/2010/sarpanch_results.parquet": "7973ba96c001cc88e3188220ae1c3f83b5fdb740cc4d14886d220561fb58441f",
@@ -95,7 +95,7 @@
     }
   },
   "local_elections_bihar": {
-    "ref": "9aa172b0d2ff68600d2cd2dfabb60d89cebf1932",
+    "ref": "4071c7237401cec013f9b2352865bf0e91133e75",
     "files": {
       "data/release/2016/MANIFEST.json": "1bbd740f2440d5760e5818adf9c4414a00e9f04d49eccc62a2b41aa90e0a169e",
       "data/release/2016/candidates.parquet": "af592cfa5e5c35782c84da40fa5a89166a89e59f1980112d681e0304172915fd",
@@ -115,7 +115,7 @@
     }
   },
   "local_elections_haryana": {
-    "ref": "1a56e5d640da855413b4064f6583a48862b2d793",
+    "ref": "b052e5efdecc952400a5280f0a4c2079597f7915",
     "files": {
       "data/release/2016/gram_panchayat_head_seat_reservation.parquet": "d14e66663266bd67477eaf84c466a7d40cc6b6988567a9ca90395de3f76d1fd0",
       "data/release/2016/gram_panchayat_ward_member_seat_reservation.parquet": "49ba20efecca4c1aedaf6264edd41d3c71c78030323da090ec49a23c500a4cfa",
@@ -144,13 +144,13 @@
     }
   },
   "local_elections_kerala": {
-    "ref": "e09d1508b4aed4cfc91270cbe86a4ffab1f1691c",
+    "ref": "a8f4407dbe4c37cb1ec10a0282dc2eb4fefc4b8b",
     "files": {
       "data/release/elected_members_2010_2020.parquet": "e94e3988abede6b1cfe5de723a5d499f0b5adf0533cfdf03b435939e05cc0c20"
     }
   },
   "local_elections_uttarakhand": {
-    "ref": "59e61052924df4e6aa2e79ffc6ec8778f5577e41",
+    "ref": "ff4c37dc496a7c35a10ded035c666dbe2d2cf155",
     "files": {
       "data/release/panchayat_candidates.parquet": "f7fca5f6d6c977f62fe9cfaef20fb9a6d195ad43cd43cbbe54f6dddfc9c0b264",
       "data/release/panchayat_candidates_haridwar.parquet": "021a01622f41072c704b48ce14ecbb0cdc34689403248148e3867af784926b4f",
@@ -164,7 +164,7 @@
     }
   },
   "local_elections_tamil_nadu": {
-    "ref": "2e6fab133373979e2496f3467889cae9f6cef1dc",
+    "ref": "52ba095d5c0d099ecd48cda86ef3a46325805194",
     "files": {
       "data/release/2011/vp_president_results.parquet": "78ce144ef80343feeb9d22380820b26db52de6e3a8c98fe8815b8697d1784baf",
       "data/release/2011/vp_president_candidates.parquet": "2e4d03e2b8a48be67fb638fe5f5d5dea1826eab9798dd7b965a4552619c2bddd",
@@ -184,20 +184,20 @@
     }
   },
   "local_elections_jharkhand": {
-    "ref": "ca610cc6a17bad1a306d8be707358af8e6e94afc",
+    "ref": "c555e36cb25a61482518d98fa2e1999b5fc3259b",
     "files": {
-      "data/release/2015/mukhiya_results.parquet": "3dfb9b4f100734c4021012742a94eeb83ff197eee66e1f3da25792940af3e446",
-      "data/release/2022/mukhiya_results.parquet": "fafef1c7fc082d0d2c5d0f86a47b60c797a5f5ae4febc917c73dcf8167eb9926",
+      "data/release/2015/mukhiya_results.parquet": "dcd87613248412a99e728f8eb3473a3eb20334e18990adb710a2e68cd8b011d4",
+      "data/release/2022/mukhiya_results.parquet": "5d20090c5238e8a09a5837215bcb11074c0254f07a738e53c6dc59d9bc050a67",
       "data/release/2015/ward_member_results.parquet": "013144cf225f84c61a88965465b9067e6ff590a5a8f2a7f3f6b098f2d1019113",
       "data/release/2015/panchayat_samiti_results.parquet": "4bbbd5298df9003d4d6fd16143f0a82f6f7585d6a0e0453a4d4dedcd3ebb51d0",
       "data/release/2015/zila_parishad_results.parquet": "da2d7f0766e986a09391cfce0cbc51dbfcc1ad7dea601eb07945fb55cb4d23cf",
-      "data/release/linkage/gp_2015_2022.parquet": "a8810f95d8760e73f4a659501ba4fd9f025b49f51806b0ced1392738de61e0b6",
-      "data/release/inferred/winner_woman_probability_2015.parquet": "cdbf5e9786d5d6e6b1e8bc53a66896d1e41e1da17fe06c924748f10a6b576810",
-      "data/release/inferred/winner_woman_probability_2022.parquet": "c500ffa15c4808067432b57156070dd78b09e420237bcc17427806ac82daa9c9"
+      "data/release/linkage/gp_2015_2022.parquet": "2244d486d114a69096a97dbb62197be214eadd5db2a834de76e9801b4001dd40",
+      "data/release/inferred/winner_woman_probability_2015.parquet": "f5aefca9713a69ff42e192bd0c944d3c17dc02d0924c3607435833f1a458aa80",
+      "data/release/inferred/winner_woman_probability_2022.parquet": "04684314bb9491b983bf222f424d64a4582fd6de075d4274c9da37dd8c657746"
     }
   },
   "local_elections_telangana": {
-    "ref": "e0f0770349b66d01217db161c91a0af9d36a122c",
+    "ref": "d77c3b18c99e3260c04d489d75a4980c66f8d7a9",
     "files": {
       "data/release/2019/sarpanch_results.parquet": "a36308426daccb2960e9be73a4b92ade85b9fb3269fdd4804c6addfd65d80f27",
       "data/release/2025/sarpanch_results.parquet": "0606569e358db5ca738e0a9e7a28a24bcbd05fa5c7eacea2e10fe903f5d61355",
