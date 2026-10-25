@@ -27,7 +27,6 @@ traced to a PDF and not to a page. That is recoverable by re-parsing and is on
 the worklist rather than papered over.
 """
 
-import csv
 import pathlib
 
 import pyarrow.parquet as pq
@@ -45,10 +44,10 @@ REPO = "local_elections_haryana"
 URL = "https://github.com/in-rolls/local_elections_haryana"
 STATE = "Haryana"
 
-# filename stem -> canonical office
+# released table -> canonical office
 TIERS = {
-    "gp_reservation": ("gp_head", "sarpanch"),
-    "ward_reservation": ("gp_ward", "ward"),
+    "gram_panchayat_head_seat_reservation": ("gp_head", "sarpanch"),
+    "gram_panchayat_ward_member_seat_reservation": ("gp_ward", "ward"),
 }
 
 # What the sibling's committed files hold. A mismatch means the sibling moved
@@ -72,7 +71,7 @@ TIERS = {
 # a hosted model. 2005 is complete in all 119 blocks it holds. 2000 holds 5,932
 # of the 6,035 panchayats in the SEC's table: Gharaunda stops at GP 24 of 51,
 # Radaur misses six and Panchkula/Barwala is not held; the sibling's
-# data/2000/reference/block_status.csv records each block.
+# data/manual/2000/block_status.csv records each block.
 DECLARED = {
     ("2000", "gp_head"): 5932,
     ("2000", "gp_ward"): 53701,
@@ -93,9 +92,8 @@ DECLARED = {
 # printed sarpanch categories. In 2005 Ambala/Naraingarh the women's share is
 # statutory but a third of sarpanch rows print a BC category the state did not
 # reserve before 2021, so only the caste half is unreliable; the single flag
-# covers it too, and the sibling's file says which half. Every such row keeps
-# its printed category and carries the flag.
-DEFECTS = "data/manual/{year}/category_defects.csv"
+# covers it too, and the sibling's `block_reservation_review` says which half.
+# Every such row keeps its printed category and carries the flag.
 UNRELIABLE = ("reservation_unreliable", "caste_unreliable")
 INFERRED = "data/release/inferred/winner_woman_probability_{year}.parquet"
 LINKS = {
@@ -104,18 +102,6 @@ LINKS = {
     ("2010", "2016"): "data/release/linkage/gp_2010_2016.parquet",
     ("2016", "2022"): "data/release/linkage/gp_2016_2022.parquet",
 }
-
-
-def unreliable_blocks(root, year):
-    path = root / DEFECTS.format(year=year)
-    if not path.exists():
-        return set()
-    with path.open(encoding="utf-8") as fh:
-        return {
-            (r["district"], r["block"])
-            for r in csv.DictReader(fh)
-            if r["decision"] in UNRELIABLE
-        }
 
 
 def inferred_sex(root, year):
@@ -159,43 +145,21 @@ def locator(district, block, sr_no, gram_panchayat, ward_no=""):
     return "/".join(str(x) for x in parts if str(x))
 
 
-def archived_pdfs(raw_dir):
-    """{saved_as: repository path} for a year whose PDFs live in the archive.
-
-    2000's gazettes were never copied into data/raw/2000/; the sibling's
-    manifest records where each one is archived instead.
-    """
-    manifest = raw_dir / "manifest.csv"
-    if not manifest.exists():
-        return {}
-    with manifest.open(encoding="utf-8") as fh:
-        return {
-            r["saved_as"]: f"data/{r['archive_path']}"
-            for r in csv.DictReader(fh)
-            if r.get("archive_path")
-        }
-
-
 def slices(root):
     root = pathlib.Path(root)
-    extracted = root / "data" / "extracted"
-    for year_dir in sorted(p for p in extracted.iterdir() if p.is_dir()):
+    release = root / "data" / "release"
+    for year_dir in sorted(p for p in release.iterdir() if p.is_dir()):
         year = year_dir.name
         if not year.isdigit():
             continue
-        unreliable = unreliable_blocks(root, year)
         for stem, (tier, tier_local) in sorted(TIERS.items()):
-            path = year_dir / f"{stem}.csv"
+            path = year_dir / f"{stem}.parquet"
             if not path.exists():
                 continue
             inferred = inferred_sex(root, year) if tier == "gp_head" else {}
-            archived = archived_pdfs(root / "data" / "raw" / year)
-            with path.open(encoding="utf-8", errors="replace") as fh:
-                rows = [
-                    convert(r, year, tier, tier_local, path, root, archived)
-                    for r in csv.DictReader(fh)
-                ]
-            for row in rows:
+            source = [text_row(r) for r in pq.read_table(path).to_pylist()]
+            rows = [convert(r, year, tier, tier_local) for r in source]
+            for raw, row in zip(source, rows, strict=True):
                 place = (row["district"], row["block"])
                 if tier == "gp_head":
                     row.update(
@@ -209,7 +173,7 @@ def slices(root):
                             {},
                         )
                     )
-                    if place in unreliable:
+                    if raw.get("block_reservation_review") in UNRELIABLE:
                         row["reservation_source_conflict"] = 1
             expected = DECLARED.get((year, tier))
             if expected is not None and len(rows) != expected:
@@ -227,7 +191,20 @@ def slices(root):
             }
 
 
-def convert(row, year, tier, tier_local, path, root, archived=None):
+def text_row(record):
+    """A released row as the sibling's CSV text: flags as 1/0, nulls blank."""
+    out = {}
+    for key, value in record.items():
+        if value is None:
+            out[key] = ""
+        elif isinstance(value, bool):
+            out[key] = "1" if value else "0"
+        else:
+            out[key] = str(value)
+    return out
+
+
+def convert(row, year, tier, tier_local):
     local = row.get("reserved_caste", "")
     printed_winner = row.get("winner", "")
     printed_place = row.get("gram_panchayat", "")
@@ -286,8 +263,7 @@ def convert(row, year, tier, tier_local, path, root, archived=None):
         # Passing it through on ward rows produced 1,392 false ward-level
         # `printings_disagree` flags in the pooled master.
         "printings_agree": row.get("printings_agree", "") if tier == "gp_head" else "",
-        "source_path": (archived or {}).get(row.get("source_pdf", ""))
-        or f"data/raw/{year}/{row.get('source_pdf', '')}",
+        "source_path": row.get("source_path", ""),
         "source_page": "",
         # the notification's own serial within its block, which is what the
         # sibling's seat links are keyed on

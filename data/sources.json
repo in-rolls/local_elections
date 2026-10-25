@@ -84,10 +84,10 @@
       "data/release/2010/sarpanch_results.parquet": "7973ba96c001cc88e3188220ae1c3f83b5fdb740cc4d14886d220561fb58441f",
       "data/release/2015/sarpanch_results.parquet": "e029fb871e69bea01032b2bd446310b831f40631b94f5c57e1cf6b190ad6eb9f",
       "data/release/2020/sarpanch_reservations.parquet": "76cd596506c8de77dd8fda6cb9b77726b3037317bd71aaa44e9ff7d1fdb1d0a1",
-      "data/raw/sec_scrape/ContestingSarpanch.csv.gz": "d0360d37c63c5f0984fd25e5695af9c7958797ff435da8d1a0aefae9d7dcc889",
-      "data/raw/sec_scrape/WinnerSarpanch.csv.gz": "34c6092ac0b2dc0d2bbfcf2e7b77f16cc1436aa8bf0144f163093e4e070a5aa2",
-      "data/raw/sec_scrape/WarnWinningPanch.csv.gz": "0d9d385b09cae7b27fec230dac801f7345d0781ec0456747d09daf0920b9a5f1",
-      "data/raw/sec_scrape/StatsNomination.csv.gz": "28919f7dd41a1709379713fd6549f34c02a48f346d6ec6ff928494364bf3084a",
+      "data/release/sarpanch_candidates.parquet": "385cf12352831697da2b2e274fa21029126d75b48bc198227f82b45a62e76167",
+      "data/release/sarpanch_winners.parquet": "0d87b3fcba53c9f5f6a0bf7df1d438e9d5d67675f7525e936bd503101af0efab",
+      "data/release/ward_member_winners.parquet": "5dd8d727833d3b24c00ab07f12d24d933ec74c4c2d10321b31d29b410d309176",
+      "data/release/nomination_stats.parquet": "da2218869427f865e359d775d645d9b9bd8c2491fd5ff092806b310bd4334119",
       "data/release/2005/panchayat_samiti_results.parquet": "2144f9a89b40e0ab239ccde1076b7d33262648c7ffe2ee1c7fc68db36d8c3112",
       "data/release/2010/panchayat_samiti_results.parquet": "2954cad29082e309ac5e435b04b403d6c879efaafea64994a886bc26c06bc87a",
       "data/release/2005/zila_parishad_results.parquet": "5da355e18af9f6b3562f924f87b76b2993d69549bde0807c01124bcf40c7b2b0",
@@ -115,18 +115,17 @@
     }
   },
   "local_elections_haryana": {
-    "ref": "96c23ffa3d9d575cfa8ff189d407d57662ba883a",
+    "ref": "610e58bbc3dd2ed75fd5b426eda48ebd13c1e0c1",
     "files": {
-      "data/extracted/2016/gp_reservation.csv": "a5742d4419261d2e2a6b7728dbcbb2d1be66aaeb308257485b8f3ff422188071",
-      "data/extracted/2016/ward_reservation.csv": "5112635eeba8287af5203b3b687278713edbae3a34ae644c701a0d5ebcf49f09",
-      "data/extracted/2022/gp_reservation.csv": "48ef2fc408bceeb21430d56dbd174602865307b8c9176a789f2665f6361bc202",
-      "data/extracted/2022/ward_reservation.csv": "d1039dabeb0634a7edb958931053c2ae94c50d1154fd02e637a83b0beb7fe374",
+      "data/release/2016/gram_panchayat_head_seat_reservation.parquet": "390d45c809e6cc76573033c03459734009694fa0bd2c58637e591a4ee2299428",
+      "data/release/2016/gram_panchayat_ward_member_seat_reservation.parquet": "49ba20efecca4c1aedaf6264edd41d3c71c78030323da090ec49a23c500a4cfa",
+      "data/release/2022/gram_panchayat_head_seat_reservation.parquet": "b271a72b5b994aef254ffaa6f16e4917b8b92e9b60d1b6af14573d1fa818d361",
+      "data/release/2022/gram_panchayat_ward_member_seat_reservation.parquet": "d3fe8b7590633c9947d5e4bd93fabeb016a4a3f692439b4ce45a1e15bea658ed",
       "data/release/2000/gazette_occurrences/historical_reviewed_occurrences.parquet": "20eac03dbf0ece0370fe251f9a6e21642e9030064ddd277f611ecaa57d26ed50",
       "data/release/2000/gazette_occurrences/historical_quarantine.parquet": "bb5727df9f1bcaefab4bf0e0e29ff27bf890f149f58a6056a4ffaf0e68d19acd",
       "data/release/2000/gazette_occurrences/historical_provisional_observations.parquet": "d9a431a0e044dc5d1bb8d73b4834f883ca4b1504d6a09309490e5cdef9bcdc3d",
-      "data/extracted/2010/gp_reservation.csv": "a14f43b77a7f3a2aa92b15d03fd27ff28b7755f0334b11686238b96d2f042ef5",
-      "data/extracted/2010/ward_reservation.csv": "768a5cf4194ec5b8832e49e76b6e151ca49d0f29e53978ae2429fad2157cc208",
-      "data/manual/2010/category_defects.csv": "99d1c647c13137f41145f6816e8862db9a9a261c1c0aeb45ff3b9e558442144f",
+      "data/release/2010/gram_panchayat_head_seat_reservation.parquet": "8fcd7a0fc0c13aa406ebe1226a46badb9a209594b6ffea7b3b5252c03b1fbc46",
+      "data/release/2010/gram_panchayat_ward_member_seat_reservation.parquet": "ef40de40c41f1e5a6e5174ef6cb60e2de9bfbc9e8555d5d3d5de1adb84f8da00",
       "data/release/inferred/MANIFEST.json": "e75a610d13ed59135eaa9acb0480dee4aa5206a0da9a76f7d83c8444bccef902",
       "data/release/inferred/winner_woman_probability_2010.parquet": "d21bc2759154ec54e27f977136d059ce31634eae4aa9973710c92f7aaa7aa844",
       "data/release/inferred/winner_woman_probability_2016.parquet": "ee89d3f21454321a626922c2a45e76727e5a0076119c5668f117f8dcc2ae39b0",
@@ -134,29 +133,27 @@
       "data/release/linkage/MANIFEST.json": "fefbcdebe94718bf0b37833642ef6ccb39ec538359a2c956e349b6bdc2f63677",
       "data/release/linkage/gp_2010_2016.parquet": "0035333d40c547114cb3f2374f89dca38df0ade44079b8658ef0f90495e929c4",
       "data/release/linkage/gp_2016_2022.parquet": "fa3a17f4322e2cdfb8be422920f93fda7dd5c4bf60ebe60a69faf4922bb7d7e8",
-      "data/extracted/2000/gp_reservation.csv": "1d200b2bd12b8ecb2ea4cacee663dedb6c54a7dcae887ca12e67390d5aace1aa",
-      "data/extracted/2000/ward_reservation.csv": "f3e879ea1881d956a27ef55774cdcc03b99138debbc386f345e2b8d4db730def",
+      "data/release/2000/gram_panchayat_head_seat_reservation.parquet": "d579a0f61d630454101b1f8574d2edfc42e53d0c243742c75346c891c6740057",
+      "data/release/2000/gram_panchayat_ward_member_seat_reservation.parquet": "57382ce90a2230e53f1f86bdaac614209d13556d6cba32c9beb0772fc96f7805",
       "data/release/inferred/winner_woman_probability_2000.parquet": "fb1fdfe74021c31fff65cd40c46167ddd3620c797f6cd0f9f2c77f06eb66401d",
-      "data/extracted/2005/gp_reservation.csv": "d243959395c48e0d9a30b24bb629e8d4881188ba8fb7c4ae58f649d1cb43d3f3",
-      "data/extracted/2005/ward_reservation.csv": "04564e3cc115c9a74e2f73889ca7439bcbb5f4c0608c6cfa5768383f6769a504",
+      "data/release/2005/gram_panchayat_head_seat_reservation.parquet": "85a0c214d62bb0ff5495f55a191b26cbef8b4101922370d503f893c43062297e",
+      "data/release/2005/gram_panchayat_ward_member_seat_reservation.parquet": "21154600ddd2beef4f7f2953482f5896054c09ce6f81f6c9ee49f134907acc0c",
       "data/release/inferred/winner_woman_probability_2005.parquet": "74a5cf36b536f6c85e1743ec359bf108806bce93d52e13436ecc0840d906b476",
-      "data/manual/2005/category_defects.csv": "04d19d5dc27522afd0cbf74881dab15dd659243600191a0914e675061f64d114",
       "data/release/linkage/gp_2000_2005.parquet": "f3dda2d6d1572b58b009111c2df2487079993bc8271027c3e530c6f3f89ca6e0",
-      "data/release/linkage/gp_2005_2010.parquet": "956d96a9bf28ae6c15ecc694925b3d93664c53d8e67624f98dd0372b7ca42f7c",
-      "data/raw/2000/manifest.csv": "e2ebd740ada017541f4bec54b4c5c3f1874e72eec7d3ecc86e22717ce43d3bfa"
+      "data/release/linkage/gp_2005_2010.parquet": "956d96a9bf28ae6c15ecc694925b3d93664c53d8e67624f98dd0372b7ca42f7c"
     }
   },
   "local_elections_kerala": {
-    "ref": "7e737ccca8a9cd9ef7cf5f407f6218b1dc879702",
+    "ref": "e09d1508b4aed4cfc91270cbe86a4ffab1f1691c",
     "files": {
-      "data/raw/lsg_scrape/2010_2020_combined.csv": "b7772cf45b3f27d7160c6a8f1209df793281fdcf009a46a03687272d8826fdd0"
+      "data/release/elected_members_2010_2020.parquet": "e94e3988abede6b1cfe5de723a5d499f0b5adf0533cfdf03b435939e05cc0c20"
     }
   },
   "local_elections_uttarakhand": {
     "ref": "59e61052924df4e6aa2e79ffc6ec8778f5577e41",
     "files": {
-      "data/raw/secresult/uttarakhand-panchayat-elections.csv": "cf95e7c91ed41910c79f596c4634f7e2e67107f047676fb90c5ecdc88decbf21",
-      "data/raw/secresult/uttarakhand-panchayat-elections-haridwar.csv": "a1575bd1d8acb93ad1dd340a3e90a19b891f12a5f4726ed9e3993107e26799b1",
+      "data/release/panchayat_candidates.parquet": "f7fca5f6d6c977f62fe9cfaef20fb9a6d195ad43cd43cbbe54f6dddfc9c0b264",
+      "data/release/panchayat_candidates_haridwar.parquet": "021a01622f41072c704b48ce14ecbb0cdc34689403248148e3867af784926b4f",
       "data/release/linkage/gp_2008_2014.parquet": "f0da243d807b179ff2b8f9499f351f8c6ec897fe78c2190fa5281aa84503f2ba",
       "data/release/linkage/gp_2014_2019.parquet": "4dfe5e505efc91f2e04ba86c93cd0912f1335d6b5d1a5ae470df73700e16f5b7",
       "data/release/inferred/winner_woman_probability_2008.parquet": "df38d5c0e7df98b18bcd6c9d732501e8b97ec4e7be9765816e331cd2586e9064",

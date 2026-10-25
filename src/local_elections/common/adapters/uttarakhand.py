@@ -22,7 +22,6 @@ because Uttarakhand is not the only state that will print these.
 Provenance is `dataset`: the parse recorded no document and no page.
 """
 
-import csv
 import pathlib
 import re
 
@@ -40,16 +39,16 @@ STATE = "Uttarakhand"
 # against the rest of the state's 2008, 2014 and 2019 - so it lands in slices of
 # its own rather than being folded into a cycle it did not vote in.
 FILES = [
-    "data/raw/secresult/uttarakhand-panchayat-elections.csv",
-    "data/raw/secresult/uttarakhand-panchayat-elections-haridwar.csv",
+    "data/release/panchayat_candidates.parquet",
+    "data/release/panchayat_candidates_haridwar.parquet",
 ]
 
 DECLARED = {
-    "data/raw/secresult/uttarakhand-panchayat-elections.csv": 106382,
-    "data/raw/secresult/uttarakhand-panchayat-elections-haridwar.csv": 10132,
+    "data/release/panchayat_candidates.parquet": 106382,
+    "data/release/panchayat_candidates_haridwar.parquet": 10132,
 }
 
-POST = "निर्वाचित पद"
+POST = "office_raw"
 TIERS = {
     "प्रधान (ग्राम पंचायत)": ("gp_head", "pradhan"),
     "सदस्‍य (क्षेत्र पंचायत)": ("block_member", "kshetra panchayat sadasya"),
@@ -57,23 +56,23 @@ TIERS = {
 }
 
 C = {
-    "district": "जनपद",
-    "block": "विकास खण्‍ड",
-    "panchayat": "ग्राम पंचायत",
-    "reservation": "आरक्षण स्थिति",
-    "winner": "विजयी प्रत्‍याशी का नाम",
-    "winner_votes": "प्राप्‍त मत",
-    "runner_up": "प्रथम रनर अप प्रत्‍याशी का नाम",
-    "runner_up_votes": "प्राप्‍त मत.1",
-    "margin": "मतों का अन्‍तर",
-    "block_ward": "क्षेत्र पंचायत वाडॅ",
-    "zp_ward": "जिला पंचायत वाडॅ",
-    "unopposed": "निर्विरोध निर्वाचित",
-    "candidate": "अभ्‍यर्थी का नाम",
-    "relation": "पिता/पति का नाम",
-    "symbol": "चुनाव चिन्‍ह.2",
-    "votes": "प्राप्‍त मत.2",
-    "serial": "क्रमांक",
+    "district": "district_raw",
+    "block": "block_raw",
+    "panchayat": "gram_panchayat_raw",
+    "reservation": "reserved_raw",
+    "winner": "winner_raw",
+    "winner_votes": "winner_votes_raw",
+    "runner_up": "runner_up_raw",
+    "runner_up_votes": "runner_up_votes_raw",
+    "margin": "margin_raw",
+    "block_ward": "block_ward_raw",
+    "zp_ward": "district_ward_raw",
+    "unopposed": "unopposed_elected_count_raw",
+    "candidate": "candidate_raw",
+    "relation": "relation_name_raw",
+    "symbol": "candidate_symbol_raw",
+    "votes": "candidate_votes_raw",
+    "serial": "candidate_serial_raw",
 }
 
 # The sibling's pradhan seat links between consecutive elections, keyed by
@@ -137,15 +136,15 @@ SEATS = {
 
 def slices(root):
     root = pathlib.Path(root)
-    csv.field_size_limit(10**7)
-
     raw = []
     for relative in FILES:
         path = root / relative
         if not path.exists():
             continue
-        with path.open(encoding="utf-8", errors="replace") as fh:
-            rows = list(csv.DictReader(fh))
+        rows = [
+            {k: "" if v is None else str(v) for k, v in r.items()}
+            for r in pq.read_table(path).to_pylist()
+        ]
         expected = DECLARED.get(relative)
         if expected is not None and len(rows) != expected:
             raise SystemExit(
@@ -269,7 +268,7 @@ def convert(row, relative):
     panchayat = (row.get(C["panchayat"]) or "").strip()
     block_ward = (row.get(C["block_ward"]) or "").strip()
     zp_ward = (row.get(C["zp_ward"]) or "").strip()
-    year = (row.get("Year") or "").strip()
+    year = (row.get("year") or "").strip()
     return {
         "_key": (year, tier, district, block, panchayat, block_ward, zp_ward),
         "state": STATE,

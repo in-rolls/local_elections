@@ -5,8 +5,8 @@ sarpanch panels cover the 2005, 2010, 2015 and 2020 reservation cycles. The
 2005 and 2010 Panchayat Samiti and Zila Parishad result books supply every
 block- and district-member ward with its seat reservation and elected member.
 A separate Rajasthan SEC scrape records sarpanch candidates, sarpanch results,
-ward winners and nomination summaries for 2020--2022. The scrape is already
-acquired data: this adapter parses it without touching the network.
+ward winners and nomination summaries for 2020--2022; the sibling releases
+each scrape file as a table with the publisher's columns unchanged.
 
 The 2020 reservation roster has 11,314 rows. The general-election scrape names
 11,310 contests; four roster seats have no scraped contest. Those four are kept
@@ -21,11 +21,11 @@ candidate's non-contact attributes are retained.
 """
 
 import collections
-import csv
-import gzip
 import hashlib
 import pathlib
 import re
+
+import pyarrow.parquet as pq
 
 from local_elections.common import normalize
 from local_elections.common.normalize import label
@@ -44,10 +44,10 @@ SEAT_FILES = {
     "2020": "data/release/2020/sarpanch_reservations.parquet",
 }
 
-CONTESTING_FILE = "data/raw/sec_scrape/ContestingSarpanch.csv.gz"
-WINNER_FILE = "data/raw/sec_scrape/WinnerSarpanch.csv.gz"
-WARD_FILE = "data/raw/sec_scrape/WarnWinningPanch.csv.gz"
-NOMINATION_FILE = "data/raw/sec_scrape/StatsNomination.csv.gz"
+CONTESTING_FILE = "data/release/sarpanch_candidates.parquet"
+WINNER_FILE = "data/release/sarpanch_winners.parquet"
+WARD_FILE = "data/release/ward_member_winners.parquet"
+NOMINATION_FILE = "data/release/nomination_stats.parquet"
 BLOCK_MEMBER_FILES = {
     "2005": "data/release/2005/panchayat_samiti_results.parquet",
     "2010": "data/release/2010/panchayat_samiti_results.parquet",
@@ -170,13 +170,15 @@ def reservation(category):
     }
 
 
-def read_csv(root, relative, expected):
+def read_table(root, relative, expected):
+    """A released table as text rows, the publisher's columns unchanged."""
     path = pathlib.Path(root) / relative
     if not path.exists():
         return []
-    opener = gzip.open if path.suffix == ".gz" else open
-    with opener(path, "rt", encoding="utf-8-sig", errors="replace", newline="") as fh:
-        rows = list(csv.DictReader(fh))
+    rows = [
+        {k: "" if v is None else v for k, v in r.items()}
+        for r in pq.read_table(path).to_pylist()
+    ]
     if len(rows) != expected:
         raise SystemExit(
             f"{REPO}: {relative} holds {len(rows):,} records, "
@@ -819,11 +821,11 @@ def slices(root):
     yield from old_panel_slices(root)
     yield from block_member_slices(root)
     yield from zp_member_slices(root)
-    candidates = read_csv(root, CONTESTING_FILE, DECLARED[CONTESTING_FILE])
-    winners = read_csv(root, WINNER_FILE, DECLARED[WINNER_FILE])
-    nominations = read_csv(root, NOMINATION_FILE, DECLARED[NOMINATION_FILE])
+    candidates = read_table(root, CONTESTING_FILE, DECLARED[CONTESTING_FILE])
+    winners = read_table(root, WINNER_FILE, DECLARED[WINNER_FILE])
+    nominations = read_table(root, NOMINATION_FILE, DECLARED[NOMINATION_FILE])
     yield from head_slices(root, candidates, winners, nominations)
-    wards = read_csv(root, WARD_FILE, DECLARED[WARD_FILE])
+    wards = read_table(root, WARD_FILE, DECLARED[WARD_FILE])
     yield from ward_slices(wards)
 
 
@@ -852,7 +854,7 @@ SUPPLEMENTAL_COLUMNS = [
 
 
 def supplemental(root):
-    rows = read_csv(root, NOMINATION_FILE, DECLARED[NOMINATION_FILE])
+    rows = read_table(root, NOMINATION_FILE, DECLARED[NOMINATION_FILE])
     out = []
     by_year = collections.Counter()
     for raw in rows:

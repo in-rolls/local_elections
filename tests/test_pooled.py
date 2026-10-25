@@ -19,18 +19,16 @@ from local_elections.common import datasets, master
 from local_elections.common.adapters import haryana, kerala, uttar_pradesh
 
 
-def test_blank_winners_have_no_published_basis(tmp_path):
+def test_blank_winners_have_no_published_basis():
     haryana_row = haryana.convert(
         {"winner": "", "caste_reservation": "NONE", "source_pdf": "held.pdf"},
         "2022",
         "gp_head",
         "sarpanch",
-        tmp_path / "source.csv",
-        tmp_path,
     )
     assert haryana_row["winner_basis"] == ""
     assert uttar_pradesh.seat_row({}, "2005", "data")["winner_basis"] == ""
-    assert kerala.convert({"LGI Type": "Grama Panchayat"})["winner_basis"] == ""
+    assert kerala.convert({"lgi_type": "Grama Panchayat"})["winner_basis"] == ""
 
 
 def test_the_projection_does_not_replace_the_source_row():
