@@ -78,16 +78,16 @@
     }
   },
   "local_elections_rajasthan": {
-    "ref": "4874c584385493498753d16cf135035484bc9213",
+    "ref": "cedcf73acbe6f170b3f3bf42a2704525c1149be0",
     "files": {
       "data/release/2005/sarpanch_results.parquet": "bae4ca5e76815d6ee5f36c830f649abebf8128e42aba3a1a3e985d06b724e165",
       "data/release/2010/sarpanch_results.parquet": "7973ba96c001cc88e3188220ae1c3f83b5fdb740cc4d14886d220561fb58441f",
       "data/release/2015/sarpanch_results.parquet": "e029fb871e69bea01032b2bd446310b831f40631b94f5c57e1cf6b190ad6eb9f",
       "data/release/2020/sarpanch_reservations.parquet": "76cd596506c8de77dd8fda6cb9b77726b3037317bd71aaa44e9ff7d1fdb1d0a1",
-      "data/release/sarpanch_candidates.parquet": "385cf12352831697da2b2e274fa21029126d75b48bc198227f82b45a62e76167",
-      "data/release/sarpanch_winners.parquet": "0d87b3fcba53c9f5f6a0bf7df1d438e9d5d67675f7525e936bd503101af0efab",
-      "data/release/ward_member_winners.parquet": "5dd8d727833d3b24c00ab07f12d24d933ec74c4c2d10321b31d29b410d309176",
-      "data/release/nomination_stats.parquet": "da2218869427f865e359d775d645d9b9bd8c2491fd5ff092806b310bd4334119",
+      "data/release/sarpanch_candidates.parquet": "cd23b8035fb7e5ea309e87c8a8c3b4f5f7895b8f6b995ae09f48fd2a1c6f0331",
+      "data/release/sarpanch_winners.parquet": "074b1764b13c1a6ac441efcb2baafc44a2c997975e64239873e5d791c89901b1",
+      "data/release/ward_member_winners.parquet": "e249f2a6d887fb11c9ad9da4002a8c1527349b38c869ed1d97adc21bd8bb59e8",
+      "data/release/nomination_stats.parquet": "e7b0055e0bcdd4caf29cb02bf1a433dbf88fbc3d245f3844319f018c0923e176",
       "data/release/2005/panchayat_samiti_results.parquet": "2144f9a89b40e0ab239ccde1076b7d33262648c7ffe2ee1c7fc68db36d8c3112",
       "data/release/2010/panchayat_samiti_results.parquet": "2954cad29082e309ac5e435b04b403d6c879efaafea64994a886bc26c06bc87a",
       "data/release/2005/zila_parishad_results.parquet": "5da355e18af9f6b3562f924f87b76b2993d69549bde0807c01124bcf40c7b2b0",
