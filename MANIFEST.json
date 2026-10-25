@@ -1,5 +1,5 @@
 {
-  "built_from_commit": "5002678a8eb20402446e18de9ebc263df0f07608",
+  "built_from_commit": "a55d13f6048ac15d6883c8dd86d6e4f3bdf0e49e",
   "candidate_columns": [
     "dataset_id",
     "candidate_id",
@@ -43,7 +43,7 @@
     "source_path",
     "source_page"
   ],
-  "committed_utc": "2026-10-25T11:16:41-07:00",
+  "committed_utc": "2026-10-25T11:49:56-07:00",
   "dirty": false,
   "files": [
     {
