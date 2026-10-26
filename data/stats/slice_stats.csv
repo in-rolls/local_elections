@@ -8,6 +8,13 @@ Assam,2025,gp_head,Gaon Panchayat President,124,4,12,124,0,76,0.6129,0.0887,0.02
 Assam,2025,gp_vice_head,Gaon Panchayat Vice-President,125,4,12,125,0,76,0.608,0.088,0.024,0.0,0.888,all_seats,latin,0.0,0.28,0.0,1.0,1.0,0,4,7,,,,,floor,0.3333333333333333,,assam/gp_vice_head/2025
 Assam,2025,gp_ward,Gaon Panchayat Ward Member,1254,4,12,153,10,767,0.6116,0.0813,0.0207,0.0,0.8979,all_seats,"bengali,latin",0.0,0.2791,0.0,0.0,1.0,0,4,26,,,,,floor,0.3333333333333333,1254..1254,assam/gp_ward/2025
 Assam,2025,zp_member,Zilla Parishad Member,22,4,0,0,0,13,0.5909,0.0909,0.0455,0.0,0.8636,all_seats,latin,0.0,1.0,1.0,1.0,1.0,22,4,4,,,,,floor,0.3333333333333333,,assam/zp_member/2025
+Bihar,2001,gp_head,mukhiya,8426,37,528,8422,0,0,0.0,0.0,0.0,0.0,0.0,partial,devanagari,0.0,0.0,0.0,1.0,0.0042,8,1,29,,,,,floor,0.3333333333333333,6000..9500,bihar/gp_head/2001
+Bihar,2006,block_member,panchayat samiti member,8383,31,390,0,0,3885,0.4634,0.1583,0.008,0.1775,0.6517,partial,devanagari,0.0,0.0,1.0,1.0,0.0027,120,1,1,,,,,floor,0.3333333333333333,8000..13000,bihar/block_member/2006
+Bihar,2006,gp_head,mukhiya,8020,38,470,7903,0,0,0.0,0.0,0.0,0.0,0.0,partial,devanagari,0.0,0.0137,0.0094,1.0,0.0021,157,1,1,,,,,floor,0.3333333333333333,6000..9500,bihar/gp_head/2006
+Bihar,2006,gp_ward,ward member,87847,32,411,6531,24,37284,0.4244,0.1494,0.007,0.1462,0.6476,partial,devanagari,0.0,0.0,0.0003,0.0,0.0681,112,1,1,,,,,floor,0.3333333333333333,80000..125000,bihar/gp_ward/2006
+Bihar,2006,kachahari_head,sarpanch,6494,35,410,6470,0,0,0.0,0.0,0.0,0.0,0.0,partial,devanagari,0.0,0.0102,0.0028,1.0,0.0206,29,1,1,,,,,floor,0.3333333333333333,6000..9500,bihar/kachahari_head/2006
+Bihar,2006,kachahari_member,panch,87454,32,410,6499,24,34407,0.3934,0.1315,0.0056,0.1277,0.5975,partial,devanagari,0.0,0.0,0.0001,0.0,0.2164,28,1,1,,,,,floor,0.3333333333333333,80000..125000,bihar/kachahari_member/2006
+Bihar,2006,zp_member,zila parishad member,839,29,0,0,0,390,0.4648,0.1609,0.0072,0.18,0.6126,partial,devanagari,0.0,1.0,1.0,1.0,0.006,0,1,1,,,,,floor,0.3333333333333333,500..1400,bihar/zp_member/2006
 Bihar,2011,gp_head,mukhiya,3973,23,268,3810,0,1333,0.3355,0.107,0.002,0.1095,0.558,partial,"devanagari,latin",0.0,0.0,0.0,1.0,0.0,244,1,26,,,,,floor,0.3333333333333333,6000..9500,bihar/gp_head/2011
 Bihar,2016,block_member,panchayat samiti member,11142,38,527,0,0,5022,0.4507,0.1645,0.0125,0.1773,0.6457,all_seats,"devanagari,latin",0.0,0.0,1.0,1.0,0.0313,39,1,1,,unknown,seats,,floor,0.3333333333333333,8000..13000,bihar/block_member/2016
 Bihar,2016,gp_head,mukhiya,8132,38,530,8132,0,3517,0.4325,0.167,0.0129,0.1701,0.65,all_seats,"devanagari,latin",0.0,0.0,0.0,1.0,0.0198,0,1,1,,unknown,gram panchayats,,floor,0.3333333333333333,6000..9500,bihar/gp_head/2016

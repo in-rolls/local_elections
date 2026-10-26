@@ -35,7 +35,13 @@ each slice's notes rather than admitted as open seats.
 
 import pyarrow.parquet as pq
 
-from local_elections.common.adapters import bihar_2011, bihar_2016, bihar_2021
+from local_elections.common.adapters import (
+    bihar_2001,
+    bihar_2006,
+    bihar_2011,
+    bihar_2016,
+    bihar_2021,
+)
 
 REPO = "local_elections_bihar"
 URL = "https://github.com/in-rolls/local_elections_bihar"
@@ -51,6 +57,8 @@ LINKS = {
 
 
 def slices(root):
+    yield from bihar_2001.slices(root)
+    yield from bihar_2006.slices(root)
     yield from bihar_2011.slices(root)
     yield from bihar_2016.slices(root)
     yield from bihar_2021.slices(root)

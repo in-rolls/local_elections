@@ -95,7 +95,7 @@
     }
   },
   "local_elections_bihar": {
-    "ref": "4071c7237401cec013f9b2352865bf0e91133e75",
+    "ref": "ff9c6162133284fbe4b8e85c6c56c9f7a08fd77f",
     "files": {
       "data/release/2016/MANIFEST.json": "1bbd740f2440d5760e5818adf9c4414a00e9f04d49eccc62a2b41aa90e0a169e",
       "data/release/2016/candidates.parquet": "af592cfa5e5c35782c84da40fa5a89166a89e59f1980112d681e0304172915fd",
@@ -106,12 +106,17 @@
       "data/release/2021/term_feed_reservations.parquet": "45341aeecf7157e8028e4d96275d2f62b596da0d36190d6cbb4012c30347c142",
       "data/release/2021/seats.parquet": "690f4e18e5e73558bb578f539b1c957c09dd17469b49726f69961c636b3d1fab",
       "data/release/2021/winners.parquet": "28674c909f05c179cfaf93c942cfed17561f6ea1ba10251b083d290db2f3d9f6",
-      "data/release/2011/mukhiya_reports/MANIFEST.json": "e5d475cf74d3a12ab7fc06220afe9fb9050688fc61ff2e7ad0ec5e294ef66e6c",
+      "data/release/2011/mukhiya_reports/MANIFEST.json": "1efb1a09c2324f41771ce9a70c4e36a1350cd1476caa2fe281ea31f4e8ef66da",
       "data/release/2011/mukhiya_reports/winner_records.parquet": "83b07aed81343393692d866067f5c3b75295067027e803bc70f7ab3942428104",
       "data/release/linkage/MANIFEST.json": "5dfc2ae2a1405539883af19fc7a8f9f21c748fac6a111d2aadd41d1aab125b3a",
       "data/release/linkage/mukhiya_2011_2016.parquet": "a794fb5b4955fa98120be284be695b495e55a93952feb22f971f210639900024",
       "data/release/linkage/mukhiya_2016_2021.parquet": "5efb645e7a87e8eb6ae214527778ca4bed7869be4fbd6fda39554ccfcd0daa8c",
-      "data/release/2016/winner_list/no_winner_reviewed.csv": "7093df1c3d4e8891b6a2224699ac9235071efd04b9341ff1cb9e879f0bb17ac2"
+      "data/release/2016/winner_list/no_winner_reviewed.csv": "7093df1c3d4e8891b6a2224699ac9235071efd04b9341ff1cb9e879f0bb17ac2",
+      "data/release/2001/MANIFEST.json": "f53f8bb6d74b53f9a50e67e171e5fcee918e685079fe982db77009ebebf6a8b5",
+      "data/release/2001/mukhiya_winners.parquet": "c17659ebc6ea7f9bd2e55afef4010edbbe17b753e48df118a380dc3f208916e4",
+      "data/release/2006/MANIFEST.json": "46da9d7a7b29919195d296eae5b5cadcfcf622342af5312090c4fb6372451729",
+      "data/release/2006/seats.parquet": "4e0d7918167e487dd11f64c6c55352b1e8def200db6e2923cd6bddfbff6ed34e",
+      "data/release/2006/winner_profiles.parquet": "ac4bc7640b28c5545b436e3a936aa8b9bc202c019fe4d5c274f3a88e44b6d56c"
     }
   },
   "local_elections_haryana": {

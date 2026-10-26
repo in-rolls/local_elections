@@ -143,6 +143,118 @@ Assam,2025,zp_member,reservation_constant_within_seat,internal,skip,,,"the sourc
 Assam,2025,zp_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
 Assam,2025,zp_member,year_constant,internal,pass,2025,2025,
 Assam,2025,zp_member,provenance_resolves,internal,pass,0,0,4 documents
+Bihar,2001,gp_head,rows_in_band,declared,pass,8426,<= 9500 (partial),
+Bihar,2001,gp_head,caste_scheme_respected,declared,pass,,"BC,NONE,SC,ST","sc_st_obc; 8,426 rows state no category"
+Bihar,2001,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Bihar,2001,gp_head,coverage_vs_published,external,skip,8426,,no published total for this slice
+Bihar,2001,gp_head,women_share_vs_statute,external,skip,0/8426,,"the document is a partial listing, so its share is a property of the document rather than of the state"
+Bihar,2001,gp_head,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2001,gp_head,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2001,gp_head,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2001,gp_head,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2001,gp_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2001,gp_head,seat_key_unique,internal,warn,8,0,"largest group 2 at ('Bihar', '2001', '', '', 'gp_head', 'नवादा', 'पकरीबरावाँ', '', '', 'पकरीबरावाँ', '', '', '')"
+Bihar,2001,gp_head,tier_local_maps_to_one_tier,internal,pass,mukhiya,gp_head,
+Bihar,2001,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Bihar,2001,gp_head,plausible_vs_registry,external,warn,100%,<=100%,"8,426 against 8,387 in the register (2019-20) - above the register, which is either growth since it was compiled or rows that are not distinct bodies"
+Bihar,2001,gp_head,year_constant,internal,pass,2001,2001,
+Bihar,2001,gp_head,provenance_resolves,internal,pass,0,0,1 documents
+Bihar,2006,block_member,rows_in_band,declared,pass,8383,<= 13000 (partial),
+Bihar,2006,block_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc; 38 rows state no category
+Bihar,2006,block_member,blank_share_within_tolerance,declared,warn,caste_reservation 0%>0%; woman_reserved 0%>0%; reservation 0%>0%,,3 column(s) over tolerance
+Bihar,2006,block_member,coverage_vs_published,external,skip,8383,,no published total for this slice
+Bihar,2006,block_member,women_share_vs_statute,external,skip,3885/8383,,"the document is a partial listing, so its share is a property of the document rather than of the state"
+Bihar,2006,block_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2006,block_member,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2006,block_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2006,block_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2006,block_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2006,block_member,seat_key_unique,internal,warn,120,0,"largest group 2 at ('Bihar', '2006', '', '', 'block_member', 'मुंगेर', 'ह0 खड़गपुर', '', '', '', '', '', '1')"
+Bihar,2006,block_member,tier_local_maps_to_one_tier,internal,pass,panchayat samiti member,block_member,
+Bihar,2006,block_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Bihar,2006,block_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Bihar,2006,block_member,year_constant,internal,pass,2006,2006,
+Bihar,2006,block_member,provenance_resolves,internal,pass,0,0,1 documents
+Bihar,2006,gp_head,rows_in_band,declared,pass,8020,<= 9500 (partial),
+Bihar,2006,gp_head,caste_scheme_respected,declared,pass,,"BC,NONE,SC,ST","sc_st_obc; 8,020 rows state no category"
+Bihar,2006,gp_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Bihar,2006,gp_head,coverage_vs_published,external,skip,8020,,no published total for this slice
+Bihar,2006,gp_head,women_share_vs_statute,external,skip,0/8020,,"the document is a partial listing, so its share is a property of the document rather than of the state"
+Bihar,2006,gp_head,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2006,gp_head,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2006,gp_head,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2006,gp_head,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2006,gp_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2006,gp_head,seat_key_unique,internal,warn,157,0,"largest group 28 at ('Bihar', '2006', '', '', 'gp_head', 'समस्तीपुर', 'उजियारपुर', '', '', '', '', '', '')"
+Bihar,2006,gp_head,tier_local_maps_to_one_tier,internal,pass,mukhiya,gp_head,
+Bihar,2006,gp_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Bihar,2006,gp_head,plausible_vs_registry,external,pass,96%,,"8,020 against 8,387 in the register (2019-20)"
+Bihar,2006,gp_head,year_constant,internal,pass,2006,2006,
+Bihar,2006,gp_head,provenance_resolves,internal,pass,0,0,1 documents
+Bihar,2006,gp_ward,rows_in_band,declared,pass,87847,<= 125000 (partial),
+Bihar,2006,gp_ward,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST","sc_st_obc; 4,381 rows state no category"
+Bihar,2006,gp_ward,blank_share_within_tolerance,declared,warn,caste_reservation 5%>0%; woman_reserved 5%>0%; reservation 5%>0%,,3 column(s) over tolerance
+Bihar,2006,gp_ward,coverage_vs_published,external,skip,87847,,no published total for this slice
+Bihar,2006,gp_ward,women_share_vs_statute,external,skip,37284/87847,,"the document is a partial listing, so its share is a property of the document rather than of the state"
+Bihar,2006,gp_ward,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2006,gp_ward,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2006,gp_ward,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2006,gp_ward,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2006,gp_ward,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2006,gp_ward,seat_key_unique,internal,warn,58,0,"largest group 2 at ('Bihar', '2006', '', '', 'gp_ward', 'बक्सर', 'इटाढ़ी', '', '', 'हरपुर', '1', 'हरपुर', '')"
+Bihar,2006,gp_ward,tier_local_maps_to_one_tier,internal,pass,ward member,gp_ward,
+Bihar,2006,gp_ward,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Bihar,2006,gp_ward,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Bihar,2006,gp_ward,year_constant,internal,pass,2006,2006,
+Bihar,2006,gp_ward,provenance_resolves,internal,pass,0,0,1 documents
+Bihar,2006,kachahari_head,rows_in_band,declared,pass,6494,<= 9500 (partial),
+Bihar,2006,kachahari_head,caste_scheme_respected,declared,pass,,"BC,NONE,SC,ST","sc_st_obc; 6,494 rows state no category"
+Bihar,2006,kachahari_head,blank_share_within_tolerance,declared,pass,,,0 column(s) over tolerance
+Bihar,2006,kachahari_head,coverage_vs_published,external,skip,6494,,no published total for this slice
+Bihar,2006,kachahari_head,women_share_vs_statute,external,skip,0/6494,,"the document is a partial listing, so its share is a property of the document rather than of the state"
+Bihar,2006,kachahari_head,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2006,kachahari_head,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2006,kachahari_head,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2006,kachahari_head,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2006,kachahari_head,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2006,kachahari_head,seat_key_unique,internal,warn,29,0,"largest group 17 at ('Bihar', '2006', '', '', 'kachahari_head', 'समस्तीपुर', 'मो0 नगर', '', '', '', '', '', '')"
+Bihar,2006,kachahari_head,tier_local_maps_to_one_tier,internal,pass,sarpanch,kachahari_head,
+Bihar,2006,kachahari_head,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Bihar,2006,kachahari_head,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Bihar,2006,kachahari_head,year_constant,internal,pass,2006,2006,
+Bihar,2006,kachahari_head,provenance_resolves,internal,pass,0,0,1 documents
+Bihar,2006,kachahari_member,rows_in_band,declared,pass,87454,<= 125000 (partial),
+Bihar,2006,kachahari_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST","sc_st_obc; 12,039 rows state no category"
+Bihar,2006,kachahari_member,blank_share_within_tolerance,declared,warn,caste_reservation 14%>0%; woman_reserved 13%>0%; reservation 14%>0%,,3 column(s) over tolerance
+Bihar,2006,kachahari_member,coverage_vs_published,external,skip,87454,,no published total for this slice
+Bihar,2006,kachahari_member,women_share_vs_statute,external,skip,34407/87454,,"the document is a partial listing, so its share is a property of the document rather than of the state"
+Bihar,2006,kachahari_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2006,kachahari_member,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2006,kachahari_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2006,kachahari_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2006,kachahari_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2006,kachahari_member,seat_key_unique,internal,warn,28,0,"largest group 2 at ('Bihar', '2006', '', '', 'kachahari_member', 'बक्सर', 'इटाढ़ी', '', '', 'हरपुर', '1', 'हरपुर', '')"
+Bihar,2006,kachahari_member,tier_local_maps_to_one_tier,internal,pass,panch,kachahari_member,
+Bihar,2006,kachahari_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Bihar,2006,kachahari_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Bihar,2006,kachahari_member,year_constant,internal,pass,2006,2006,
+Bihar,2006,kachahari_member,provenance_resolves,internal,pass,0,0,1 documents
+Bihar,2006,zp_member,rows_in_band,declared,pass,839,<= 1400 (partial),
+Bihar,2006,zp_member,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc; 33 rows state no category
+Bihar,2006,zp_member,blank_share_within_tolerance,declared,warn,caste_reservation 4%>0%; woman_reserved 0%>0%; reservation 4%>0%,,3 column(s) over tolerance
+Bihar,2006,zp_member,coverage_vs_published,external,skip,839,,no published total for this slice
+Bihar,2006,zp_member,women_share_vs_statute,external,skip,390/839,,"the document is a partial listing, so its share is a property of the document rather than of the state"
+Bihar,2006,zp_member,women_share_by_block,external,skip,,,only applies where the share is an exact split
+Bihar,2006,zp_member,caste_share_vs_population,external,skip,0,,no population columns in this source
+Bihar,2006,zp_member,label_agrees,internal,pass,0,0,"the label is written separately from the two fields it summarises, so they can disagree"
+Bihar,2006,zp_member,winner_caste_is_not_the_seats,internal,skip,0,,this source states the seat's reservation only
+Bihar,2006,zp_member,alias_family_exclusive,internal,pass,0,0,"one of ['gram_panchayat', 'halqa']"
+Bihar,2006,zp_member,seat_key_unique,internal,pass,0,0,
+Bihar,2006,zp_member,tier_local_maps_to_one_tier,internal,pass,zila parishad member,zp_member,
+Bihar,2006,zp_member,reservation_constant_within_seat,internal,skip,,,"the source is seat-level, so there is nothing to collapse"
+Bihar,2006,zp_member,plausible_vs_registry,external,skip,,,"the register counts bodies, and only a head tier has one seat per body"
+Bihar,2006,zp_member,year_constant,internal,pass,2006,2006,
+Bihar,2006,zp_member,provenance_resolves,internal,pass,0,0,1 documents
 Bihar,2011,gp_head,rows_in_band,declared,pass,3973,<= 9500 (partial),
 Bihar,2011,gp_head,caste_scheme_respected,declared,pass,"BC,NONE,SC,ST","BC,NONE,SC,ST",sc_st_obc; 888 rows state no category
 Bihar,2011,gp_head,blank_share_within_tolerance,declared,warn,caste_reservation 22%>0%; woman_reserved 32%>0%; reservation 44%>0%,,3 column(s) over tolerance

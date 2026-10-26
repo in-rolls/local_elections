@@ -7,7 +7,38 @@ is worse than one that does not change at all.
 Corrections are listed first in each release, not last. The most useful thing
 here is usually the thing that was wrong.
 
-## v0.7.0 — unreleased
+## v0.8.0 — unreleased
+
+### Added
+
+- **Bihar 2006**, from the State Election Commission's 2006 workbooks
+  (`local_elections_bihar` `data/release/2006/`). The member workbooks print
+  each seat's reservation: 87,847 ward member, 87,454 panch, 8,383 panchayat
+  samiti and 839 zila parishad seats in 32 districts, some only in part
+  (Gaya's ward sheet covers one block; Araria, East Champaran, Jehanabad,
+  Madhubani, Purnia and Sitamarhi are absent). The caste cell is typed 177
+  ways; the sibling's reading and `normalize.caste_of` never disagree where
+  both read it. The mukhiya (8,020) and sarpanch (6,494) workbooks profile the
+  winner - age, education, own category, income, occupation, children, kept
+  as extras - and print no reservation, so those seats carry none.
+- **Bihar 2001**: 8,426 mukhiyas elected in 2001, from the SEC's division
+  lists saved by the Wayback Machine (`data/release/2001/`). The lists are set
+  in Akruti Dev and decoded with the new `in-rolls/legacy_devanagari`. They
+  print no reservation; the columns are blank, not open.
+- The 2006 profile workbooks print no year. The sibling dates them against
+  the 2011 winner reports: where the 2011 winner says they were mukhiya in
+  2006, the profile names them 70.4% of the time; where they say no office,
+  2.5%.
+- The pool holds 2,028,077 seat events, against 1,820,614 in v0.7.0.
+
+### Known limits
+
+- About 400 of the new rows share a seat key with another, mostly seats the
+  workbooks list twice (Kudra block's samiti seats) or mukhiyas printed
+  without a panchayat name (Samastipur); they are in the collision ledger.
+- 18,929 panch and 5,979 ward seats print no winner (`----` or रिक्त).
+
+## v0.7.0 — 2026-10-25
 
 ### Corrected
 
