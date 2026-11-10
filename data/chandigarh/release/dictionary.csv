@@ -1,0 +1,76 @@
+file,column,type,rows,nulls,description
+candidate_counts_2011.parquet,election_year,int32,26,0,General-election cohort; ward 7 in the 2006 cohort actually polled in January 2007.
+candidate_counts_2011.parquet,ward_no,int32,26,0,Ward identifier within the municipality and election; not a universal longitudinal key.
+candidate_counts_2011.parquet,total_candidates,int32,26,0,Number of contesting candidates printed for the ward in 2011.
+candidate_counts_2011.parquet,male_candidates,int32,26,0,"Printed count of male candidates, independent of name/honorific extraction."
+candidate_counts_2011.parquet,female_candidates,int32,26,0,"Printed count of female candidates, independent of name/honorific extraction."
+candidate_counts_2011.parquet,source_path,string,26,0,Retained original PDF path relative to the local_elections repository.
+candidate_counts_2011.parquet,source_page,int32,26,0,One-based PDF page containing the selected row; not the printed page number.
+candidates_2011.parquet,election_year,int32,152,0,General-election cohort; ward 7 in the 2006 cohort actually polled in January 2007.
+candidates_2011.parquet,ward_no,int32,152,0,Ward identifier within the municipality and election; not a universal longitudinal key.
+candidates_2011.parquet,candidate_order,int32,152,0,One-based candidate position within the ward in the 2011 candidate list; not an electoral rank.
+candidates_2011.parquet,candidate_name,string,152,0,Printed candidate name with leading honorific and trailing parenthetical caste/nickname removed for linkage; not inferred or transliterated.
+candidates_2011.parquet,candidate_name_raw,string,152,0,"Candidate name cell retaining printed honorific and parenthetical text, including the wrapped Harijan continuation."
+candidates_2011.parquet,honorific_raw,string,152,0,"Printed Sh., Smt., Ms., or Dr.; preserved separately from personal name."
+candidates_2011.parquet,candidate_sex,string,152,1,Male for Sh.; Female for Smt./Ms.; null for Dr. alone. Candidate titles checked against printed ward-level gender totals.
+candidates_2011.parquet,sex_basis,string,152,0,printed_honorific or title_not_sex_specific; no quota-based classification.
+candidates_2011.parquet,source_path,string,152,0,Retained original PDF path relative to the local_elections repository.
+candidates_2011.parquet,source_page,int32,152,0,One-based PDF page containing the selected row; not the printed page number.
+winners.parquet,election_year,int32,87,0,General-election cohort; ward 7 in the 2006 cohort actually polled in January 2007.
+winners.parquet,ward_no,int32,87,0,Ward identifier within the municipality and election; not a universal longitudinal key.
+winners.parquet,body,string,87,0,Municipal institution; this collection covers the Municipal Corporation of Chandigarh.
+winners.parquet,poll_date,string,87,0,Actual polling date in ISO YYYY-MM-DD form; distinct from report/publication date.
+winners.parquet,source_path,string,87,0,Retained original PDF path relative to the local_elections repository.
+winners.parquet,source_page,int32,87,0,One-based PDF page containing the selected row; not the printed page number.
+winners.parquet,source_raw,string,87,0,"Unedited extracted source row, excluding separate continuation lines unless stated."
+winners.parquet,winner_sex,string,87,60,Male or Female from a separately printed sex-specific honorific; null when not measured in selected sources. Never inferred from name or reservation.
+winners.parquet,winner_sex_basis,string,87,0,printed_honorific or not_recorded_in_selected_source.
+winners.parquet,sex_source_path,string,87,60,Original PDF used to classify the elected person; null when sex unavailable.
+winners.parquet,sex_source_page,int32,87,60,One-based PDF page containing the elected person's sex-specific honorific; null when unavailable.
+winners.parquet,winner_votes,int32,87,35,"Winner vote count; integer ballots. Null for 2021, whose selected gazette reports no votes."
+winners.parquet,total_votes,int32,87,35,Ward total votes reported in election summary; integer ballots. Null for 2021.
+winners.parquet,votes_source_path,string,87,35,Original PDF containing vote counts; null where counts unavailable.
+winners.parquet,votes_source_page,int32,87,35,One-based PDF page containing the result summary or deferred result.
+winners.parquet,quality_flags,list<element: string>,87,0,"List of documented source date, heading, spelling or deferred-election issues; empty list means none of these specified issues."
+winners.parquet,reservation_raw,string,87,0,Reservation label exactly as extracted from selected table.
+winners.parquet,caste_reservation,string,87,0,GEN (no caste reservation) or SC (Scheduled Castes); normalized from explicit reservation label.
+winners.parquet,woman_reserved,bool,87,0,True for women-only seats (including SC women); false for seats without a women-only restriction. Does not classify winner sex.
+winners.parquet,winner_name,string,87,0,Name from contemporaneous winner table or notification; trailing punctuation removed. Historical spelling retained.
+winners.parquet,party,string,87,0,Party abbreviation normalized from printed affiliation: INC/BJP/SAD/BSP/IND/AAP.
+ward_panel_2006_2011.parquet,body,string,26,0,Municipal institution; one ward is the row unit.
+ward_panel_2006_2011.parquet,ward_no,string,26,0,Ward identifier on the unchanged 2006 geography.
+ward_panel_2006_2011.parquet,prior_year,int32,26,0,"Prior general-election cohort, including deferred ward 7."
+ward_panel_2006_2011.parquet,year,int32,26,0,Outcome general election.
+ward_panel_2006_2011.parquet,poll_date_2006,string,26,0,"Actual prior poll: December 20, 2006, except ward 7 on January 14, 2007."
+ward_panel_2006_2011.parquet,poll_date_2011,string,26,0,Actual outcome election date.
+ward_panel_2006_2011.parquet,reserved_woman_2006,int8,26,0,"1 for women-only reservation; 0 for a seat open to both sexes. Taken from the pre-election notification, checked against results."
+ward_panel_2006_2011.parquet,reserved_caste_2006,string,26,0,"Seat caste reservation; NONE means no caste reservation, not missing."
+ward_panel_2006_2011.parquet,reserved_raw_2006,string,26,0,"Original reservation label in the result table, preserved without recoding."
+ward_panel_2006_2011.parquet,reserved_source_page_2006,int32,26,0,One-based PDF page of the pre-election reservation notification in the corresponding source report.
+ward_panel_2006_2011.parquet,source_path_2006,string,26,0,Original report path relative to repository root; all page references for this year refer here.
+ward_panel_2006_2011.parquet,source_sha256_2006,string,26,0,SHA-256 of the complete unchanged source report.
+ward_panel_2006_2011.parquet,reserved_woman_2011,int8,26,0,"1 for women-only reservation; 0 for a seat open to both sexes. Taken from the pre-election notification, checked against results."
+ward_panel_2006_2011.parquet,reserved_caste_2011,string,26,0,"Seat caste reservation; NONE means no caste reservation, not missing."
+ward_panel_2006_2011.parquet,reserved_raw_2011,string,26,0,"Original reservation label in the result table, preserved without recoding."
+ward_panel_2006_2011.parquet,reserved_source_page_2011,int32,26,0,One-based PDF page of the pre-election reservation notification in the corresponding source report.
+ward_panel_2006_2011.parquet,source_path_2011,string,26,0,Original report path relative to repository root; all page references for this year refer here.
+ward_panel_2006_2011.parquet,source_sha256_2011,string,26,0,SHA-256 of the complete unchanged source report.
+ward_panel_2006_2011.parquet,winner_2011,string,26,0,"Printed elected-person name, not the prior winner."
+ward_panel_2006_2011.parquet,winner_source_page_2011,int32,26,0,One-based PDF page of elected-person table.
+ward_panel_2006_2011.parquet,winner_woman_from_honorific_2011,int8,26,0,1 from Smt./Ms.; 0 from Sh. in uniquely linked candidate row. No name- or quota-based inference. Null if title is not sex-specific; release requires complete outcomes.
+ward_panel_2006_2011.parquet,winner_honorific_raw_2011,string,26,0,Printed candidate honorific; independent of reservation label.
+ward_panel_2006_2011.parquet,winner_candidate_name_raw_2011,string,26,0,"Full source candidate-name cell, retaining title and parenthetical text."
+ward_panel_2006_2011.parquet,winner_candidate_no_2011,string,26,0,One-based extracted candidate position within ward; not printed ballot serial.
+ward_panel_2006_2011.parquet,winner_link_basis_2011,string,26,0,"Unique normalized name within ward, with reviewed Modgil/Moudgil alias only in ward 22."
+ward_panel_2006_2011.parquet,winner_woman_source_page_2011,int32,26,0,One-based PDF page of separately printed candidate honorific.
+ward_panel_2006_2011.parquet,is_eligible,bool,26,0,"True for 2011 seats open to both sexes, including SC seats. No restriction on winner sex."
+ward_panel_2006_2011.parquet,exclusion_reason,string,26,0,included or reserved_for_women_in_2011.
+ward_panel_2006_2011.parquet,caste_transition,string,26,0,"Prior-to-current seat caste stratum, e.g. SC_to_NONE. Fixed by census rankings rather than women's lottery."
+ward_panel_2006_2011.parquet,population_2001,int32,26,0,"Total persons from the Deputy Commissioner's 2001 Census ward figures, reproduced in the 2011 report."
+ward_panel_2006_2011.parquet,population_sc_2001,int32,26,0,Scheduled Caste persons from the same table.
+ward_panel_2006_2011.parquet,population_sc_share_2001,double,26,0,"SC persons divided by total persons; proportion, not percentage."
+ward_panel_2006_2011.parquet,population_sc_rank_2001,int32,26,0,"Descending SC share rank, using minimum rank for ties. Top five SC in 2006, next five in 2011; wards 4 and 18 tie at rank 15."
+ward_panel_2006_2011.parquet,population_source_page,int32,26,0,"PDF page 25 of the 2011 report, printed page 23."
+ward_panel_2006_2011.parquet,boundary_basis,string,26,0,Signed administration letter confirms unchanged 2006 ward geography.
+ward_panel_2006_2011.parquet,boundary_source_page,int32,26,0,"PDF page 15 of the 2011 report, printed page 13."
+ward_panel_2006_2011.parquet,assignment_rule_source_page,int32,26,0,"PDF page 20 of the 2011 report, printed page 18; scanned signed letter read visually, applies the October 27, 2006 method to 2011."

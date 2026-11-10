@@ -1,0 +1,2 @@
+year,body,ward_no,winner_name_gazette,winner_name_latin,later_name_raw,later_honorific_raw,source,source_sha256,source_pdf_page,link_basis
+2015,Bengaluru,132,ಡಾ ಎಸ್.ರಾಜು,S Raju,Shri Dr S Raju,Shri,data/karnataka/raw/urban_expansion/bbmp_ward_budget_2017_18.pdf,23e2fd54d83abb291e3377c757d788d2f63dcb76c8574f04d93978bd95538cee,263,Same ward132 Attiguppe and matching S Raju initials/name; later title only corroborates explicit election-time secondary Gender field

@@ -1,0 +1,32 @@
+[
+  {
+    "url": "http://www.wbsec.gov.in/writereaddata/Orders/Municipal/1712-sec.pdf",
+    "checked_at": "2026-11-09T07:13:09.489191+00:00",
+    "captures": [
+      {
+        "url": "http://www.wbsec.gov.in/writereaddata/Orders/Municipal/1712-sec.pdf",
+        "timestamp": "2015-08-29T19:04:15+00:00",
+        "digest": "NF7EI3UCTOVEKKF2FMAUXWAEPUNE4LQS"
+      }
+    ],
+    "path": "data/west_bengal/raw/kolkata/reference/winner_gazette_2015.pdf",
+    "sha256": "2a5e2e5ba614b6bf2e9c552d51c0f9711c0d873922f611bdde75d5651aaceb04",
+    "bytes": 260026,
+    "capture": "2015-08-29T19:04:15+00:00"
+  },
+  {
+    "url": "http://wbsec.gov.in/(S(knvrcje3wq5iuhzomlbppt55))/writereaddata/Orders/Municipal/1712-sec.pdf",
+    "checked_at": "2026-11-09T07:13:13.299272+00:00",
+    "captures": [
+      {
+        "url": "http://wbsec.gov.in/(S(knvrcje3wq5iuhzomlbppt55))/writereaddata/Orders/Municipal/1712-sec.pdf",
+        "timestamp": "2015-05-05T10:39:08+00:00",
+        "digest": "NF7EI3UCTOVEKKF2FMAUXWAEPUNE4LQS"
+      }
+    ],
+    "path": "data/west_bengal/raw/kolkata/reference/winner_gazette_2015.pdf",
+    "sha256": "2a5e2e5ba614b6bf2e9c552d51c0f9711c0d873922f611bdde75d5651aaceb04",
+    "bytes": 260026,
+    "capture": "2015-05-05T10:39:08+00:00"
+  }
+]

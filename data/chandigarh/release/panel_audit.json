@@ -1,0 +1,32 @@
+{
+  "left_universe": "26 outcome-election wards",
+  "key": [
+    "body",
+    "ward_no"
+  ],
+  "cardinality": "1:1",
+  "prior_matched": 26,
+  "prior_unmatched": 0,
+  "later_unmatched": 0,
+  "included": 17,
+  "excluded_current_women_reserved": 9,
+  "missing_outcomes": 0,
+  "eligible_by_caste_transition_and_prior_woman": {
+    "NONE_to_NONE": {
+      "1": 5,
+      "0": 6
+    },
+    "SC_to_NONE": {
+      "1": 2,
+      "0": 1
+    },
+    "NONE_to_SC": {
+      "0": 1,
+      "1": 2
+    }
+  },
+  "measurement": "Unique within-ward winner/candidate join to printed honorific; not personal-name inference or quota coding.",
+  "source_independence": "Reservation notification and candidate honorific are separate records within the same official report, not independent publishers.",
+  "assignment": "Sequential women lotteries with no repeat; deterministic SC-share ranking rotates caste reservation. Unrestricted 9-of-17 permutations do not represent this mechanism.",
+  "outcomes_previously_seen": true
+}

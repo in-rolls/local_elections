@@ -1,0 +1,29 @@
+{
+  "rows": 170,
+  "party_counts": {
+    "Indore": {
+      "BJP": 64,
+      "IND": 2,
+      "INC": 19
+    },
+    "Bhopal": {
+      "INC": 22,
+      "BJP": 58,
+      "IND": 5
+    }
+  },
+  "recorded_winner_sex": 0,
+  "recorded_reservation": 0,
+  "recorded_votes": 0,
+  "input_sha256": {
+    "data/madhya_pradesh/raw/urban/bhopal_results_2022.html": "e51a6bffb463678e257b3d7f5d87fc87e425f3dac2ed511db976ab2a30af9f8f",
+    "data/madhya_pradesh/raw/urban/indore_results_2022.html": "b931b9ab46910871ab22badb5049572c258b5b31257a9e8a4d23101515c87c35"
+  },
+  "parquet_sha256": "fc7edc53e590afee4d876041236f75df4d34a869883873553e6cbf4137356c4a",
+  "current_council_roster": {
+    "entries": 85,
+    "ward_labels": 84,
+    "honorific_sex_present": 82,
+    "sha256": "079b180cb3e2c1000a2fef0da00da325a1c9ec366a7e64bfa9f1e06d31b0f53f"
+  }
+}

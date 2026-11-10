@@ -1,0 +1,532 @@
+[
+  {
+    "file_id": 7423679,
+    "label": "acdata.RData",
+    "path": "data/reference/goyal_9xpv4i/2_ProcessedData/acdata.RData",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423679",
+    "bytes": 31438,
+    "md5": "3ae2b8f53ded38bc6e440a9c14340895",
+    "sha256": "c8b9bd04e653b731a2981be5fa49152d897459616b525992d721434f487415f6",
+    "verified_at": "2026-11-09T00:21:19.017217+00:00"
+  },
+  {
+    "file_id": 7423644,
+    "label": "acmajor.RData",
+    "path": "data/reference/goyal_9xpv4i/2_ProcessedData/acmajor.RData",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423644",
+    "bytes": 5864,
+    "md5": "8d53748ea4656bf5a33dd2830b665450",
+    "sha256": "08c111b316fb243c72c81dcf4291708a7662461a3f098b87d592ddc7f242ee06",
+    "verified_at": "2026-11-09T00:21:19.017027+00:00"
+  },
+  {
+    "file_id": 7423662,
+    "label": "ActivistSurveyData.RData",
+    "path": "data/reference/goyal_9xpv4i/1_RawData/ActivistSurveyData.RData",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423662",
+    "bytes": 32446,
+    "md5": "49ab65e7ca8bac6170a4a20f54d2ae10",
+    "sha256": "e5965f43ac8779966d45b9e890cce0d43661c8c198473a4b1c099e06a205c519",
+    "verified_at": "2026-11-09T00:21:19.017333+00:00"
+  },
+  {
+    "file_id": 7423640,
+    "label": "AE_WomenAffidavits.xls",
+    "path": "data/reference/goyal_9xpv4i/1_RawData/AE_WomenAffidavits.xls",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423640",
+    "bytes": 182784,
+    "md5": "09a0ac554d56805d208d63725433131f",
+    "sha256": "5eb632c05bd99df974f8fbfa34ddd48980e707c7afc30c00e65b59feba2fb8ed",
+    "verified_at": "2026-11-09T00:21:19.017807+00:00"
+  },
+  {
+    "file_id": 7423647,
+    "label": "AE_WomenCasteBackground.xlsx",
+    "path": "data/reference/goyal_9xpv4i/1_RawData/AE_WomenCasteBackground.xlsx",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423647",
+    "bytes": 4603482,
+    "md5": "034d30afa5d009dd5d442e35fc43327b",
+    "sha256": "6bdb54ffc12b8f52ed530355c41dcc6465a86c550d1f01d00b1735271a8c0c0d",
+    "verified_at": "2026-11-09T00:21:19.026994+00:00"
+  },
+  {
+    "file_id": 7423657,
+    "label": "AE_WomenManualMatch.xls",
+    "path": "data/reference/goyal_9xpv4i/1_RawData/AE_WomenManualMatch.xls",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423657",
+    "bytes": 3644928,
+    "md5": "02bd56f07bf0ab71a256cc8be65161a3",
+    "sha256": "3787bad2b728f0ffba1d006629fc1b717d8463b14ea4d5e4440f2f636dbe77be",
+    "verified_at": "2026-11-09T00:21:19.025531+00:00"
+  },
+  {
+    "file_id": 7423646,
+    "label": "AppendixTable_A10.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A10.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423646",
+    "bytes": 1683,
+    "md5": "c1afa7c718419acc251cf58b0c138d98",
+    "sha256": "e680827730652b19ed32aa48c0fd6b2bd8252c52a6848c9ede5f5f1988f0adf3",
+    "verified_at": "2026-11-09T00:21:19.019503+00:00"
+  },
+  {
+    "file_id": 7423641,
+    "label": "AppendixTable_A11.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A11.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423641",
+    "bytes": 1588,
+    "md5": "c533e1e4152f90571651a8e0188878b2",
+    "sha256": "15ac23b2ddd64bed09d5d984da9aeaf2fd73af0900e2cf939131e1a793e88dd1",
+    "verified_at": "2026-11-09T00:21:19.019986+00:00"
+  },
+  {
+    "file_id": 7423677,
+    "label": "AppendixTable_A12.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A12.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423677",
+    "bytes": 2631,
+    "md5": "ca035843b9bc4cbb4fb2deccf9759f7e",
+    "sha256": "53bef3ad1bfb79b8de7b18026cd1dfea6b28e97f4fd01b2a264ed1686828ae7b",
+    "verified_at": "2026-11-09T00:21:19.020146+00:00"
+  },
+  {
+    "file_id": 7423682,
+    "label": "AppendixTable_A13.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A13.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423682",
+    "bytes": 2151,
+    "md5": "b3b2737af2ab993ad1e2abfb6a9f1223",
+    "sha256": "439e89e4996a9dc0fb11e58f386dec3b145856781b8136385962b9f0ae0e01da",
+    "verified_at": "2026-11-09T00:21:19.020313+00:00"
+  },
+  {
+    "file_id": 7423651,
+    "label": "AppendixTable_A14.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A14.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423651",
+    "bytes": 2098,
+    "md5": "46e2c90cf8e95a062abdc6fea3703f92",
+    "sha256": "468d8122b8d53ee142e2a16f3e1d898afacb10bc385e40573c9506eb8a07d753",
+    "verified_at": "2026-11-09T00:21:19.020751+00:00"
+  },
+  {
+    "file_id": 7423675,
+    "label": "AppendixTable_A15.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A15.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423675",
+    "bytes": 2012,
+    "md5": "fda52541ccee8a9b11f62e099f5459b4",
+    "sha256": "acf0112087e56ca69b0e8732c275aa175ca2b2dae03e92577c5544bef5c9e085",
+    "verified_at": "2026-11-09T00:21:19.020898+00:00"
+  },
+  {
+    "file_id": 7423660,
+    "label": "AppendixTable_A16.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A16.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423660",
+    "bytes": 1314,
+    "md5": "571c678e54c0047564533d63ca531762",
+    "sha256": "2ae755a920471f64443727aba7a8eae7a8bc56bac51ff3fb4bab0e3aaf178811",
+    "verified_at": "2026-11-09T00:21:19.021004+00:00"
+  },
+  {
+    "file_id": 7423638,
+    "label": "AppendixTable_A17.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A17.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423638",
+    "bytes": 1886,
+    "md5": "6c91958d6b800946820a4810e52254e0",
+    "sha256": "b4ca01a144212cf9295d25fcfcb07c58079a9e1c2e51f387a6d142d366b28d17",
+    "verified_at": "2026-11-09T00:21:19.021152+00:00"
+  },
+  {
+    "file_id": 7423674,
+    "label": "AppendixTable_A2.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A2.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423674",
+    "bytes": 4487,
+    "md5": "9b82823245d3a8c91ac1523a9441756e",
+    "sha256": "6d455bbf929401843ef34789eed935b81a771b050a47e8a8496495aea8a252c5",
+    "verified_at": "2026-11-09T00:21:19.021304+00:00"
+  },
+  {
+    "file_id": 7423633,
+    "label": "AppendixTable_A4.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A4.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423633",
+    "bytes": 1395,
+    "md5": "9f9aa15434a627f377e6b996947e1f7e",
+    "sha256": "d80e64cffe7374c0e34e6522a2c812bbbcb0fcac1795ab31ed9ba7d998e7d24f",
+    "verified_at": "2026-11-09T00:21:19.021439+00:00"
+  },
+  {
+    "file_id": 7423635,
+    "label": "AppendixTable_A5.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A5.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423635",
+    "bytes": 977,
+    "md5": "a5495971826244fc856c4ce2af17ae84",
+    "sha256": "c17b47bd96ecde2cd247a5b2cabef0abe1f615e883554fae0a5c6f89f689955d",
+    "verified_at": "2026-11-09T00:21:19.021577+00:00"
+  },
+  {
+    "file_id": 7423636,
+    "label": "AppendixTable_A6.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A6.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423636",
+    "bytes": 5809,
+    "md5": "913618c2ed83e6a7aeb692ed31c44f07",
+    "sha256": "f2c435ecc9a0e19af8c65db55036f584fdda858ec452fc3a5e4575a2a467c5de",
+    "verified_at": "2026-11-09T00:21:19.021725+00:00"
+  },
+  {
+    "file_id": 7423655,
+    "label": "AppendixTable_A7.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A7.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423655",
+    "bytes": 3949,
+    "md5": "6340b23bea5bae78a1d8ca79657b5623",
+    "sha256": "5621934e422eb49ff534f8618c99011145d2f20202da801819aee232c40c6acf",
+    "verified_at": "2026-11-09T00:21:19.021859+00:00"
+  },
+  {
+    "file_id": 7423669,
+    "label": "AppendixTable_A8.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A8.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423669",
+    "bytes": 2096,
+    "md5": "31176b12be705803eb2be0c69c1498d6",
+    "sha256": "05140009e89345ee4abc96029ccefd028ebd0a7d0188361dbe9b63ce4c7138ac",
+    "verified_at": "2026-11-09T00:21:19.021998+00:00"
+  },
+  {
+    "file_id": 7423654,
+    "label": "AppendixTable_A9.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/AppendixTable_A9.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423654",
+    "bytes": 1728,
+    "md5": "81141ac623ce564b3cce07a85e68eda1",
+    "sha256": "3140bd8f9a3b1f23f6a82268948d06bd0216c25803accfd0c87a1513decbd4b4",
+    "verified_at": "2026-11-09T00:21:19.022134+00:00"
+  },
+  {
+    "file_id": 7423643,
+    "label": "candcaste_final.RData",
+    "path": "data/reference/goyal_9xpv4i/2_ProcessedData/candcaste_final.RData",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423643",
+    "bytes": 575936,
+    "md5": "6c549b8bac928ba88573b67364fd9e5b",
+    "sha256": "d4e3aedc17f2c7e588ba031d56ab4ee2442cccfe6966cfbffbada35a7b415f01",
+    "verified_at": "2026-11-09T00:21:19.023400+00:00"
+  },
+  {
+    "file_id": 7423671,
+    "label": "CandidateElectionData_original.xlsx",
+    "path": "data/delhi/interim/qualification_audit/sources/goyal_candidates.xlsx",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423671",
+    "bytes": 1396349,
+    "md5": "829a09bf4da57f19f110125b64c01dbd",
+    "sha256": "79d853354f3c682859749c06af534798815e09c543aaeea8eb7c0fa6c635ed30",
+    "verified_at": "2026-11-09T00:21:19.026181+00:00"
+  },
+  {
+    "file_id": 7423648,
+    "label": "CasteData_Lee2020_AJPS.xlsx",
+    "path": "data/reference/goyal_9xpv4i/1_RawData/CasteData_Lee2020_AJPS.xlsx",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423648",
+    "bytes": 238123,
+    "md5": "9c0c09883cca0cab94c469e388c48cb3",
+    "sha256": "66d219b4632a58d498241d33e6ec1e7fc7de9bd59b4bb56bd14d912fc8535a8c",
+    "verified_at": "2026-11-09T00:21:19.026197+00:00"
+  },
+  {
+    "file_id": 7423656,
+    "label": "codebook.pdf",
+    "path": "data/delhi/interim/qualification_audit/sources/goyal_codebook.pdf",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423656",
+    "bytes": 87330,
+    "md5": "dff1dbb3a7711179c76a9229d791b262",
+    "sha256": "a0e0074b76eaa9af93b1901e06a56c43fd257aeaced3daf4a8cf994f0d4fde7b",
+    "verified_at": "2026-11-09T00:21:19.026611+00:00"
+  },
+  {
+    "file_id": 7423634,
+    "label": "codebook_TPCD_GE_Delhi_2020-2-23.pdf",
+    "path": "data/reference/goyal_9xpv4i/codebook_TPCD_GE_Delhi_2020-2-23.pdf",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423634",
+    "bytes": 451781,
+    "md5": "376f09cdfd3f49dffd6ffe16bd2870ff",
+    "sha256": "b45e6ec53efb5d1175ba5bc5bab4a3ff7b465d4dbc6f994bdef6e019e8c5433e",
+    "verified_at": "2026-11-09T00:21:19.027359+00:00"
+  },
+  {
+    "file_id": 7423678,
+    "label": "DataAnalysis.log",
+    "path": "data/reference/goyal_9xpv4i/5_LogFiles/log/DataAnalysis.log",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423678",
+    "bytes": 1122,
+    "md5": "777d2937678c535275366cefc71ffd0c",
+    "sha256": "f95747dc4482055e0aecb8f07ebbc8cf089285a710c8d41be437fda46923566d",
+    "verified_at": "2026-11-09T00:21:19.026765+00:00"
+  },
+  {
+    "file_id": 7423642,
+    "label": "DataAnalysis.R",
+    "path": "data/reference/goyal_9xpv4i/3_Scripts/DataAnalysis.R",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423642",
+    "bytes": 54057,
+    "md5": "45396c54017fc173a97dde6cd8a31bad",
+    "sha256": "4856491c61f72bdfbf3b536598d43937b6934da4ecb2f673284bf115a82a1647",
+    "verified_at": "2026-11-09T00:21:19.027051+00:00"
+  },
+  {
+    "file_id": 7423632,
+    "label": "DataAnalysis_stata.do",
+    "path": "data/reference/goyal_9xpv4i/3_Scripts/DataAnalysis_stata.do",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423632",
+    "bytes": 3859,
+    "md5": "6644f23d37be940ba2b67cdca57ba4c5",
+    "sha256": "ddf1034107cf673ea99ddf459423035797d7cac2b6c3f911d0667735d7986571",
+    "verified_at": "2026-11-09T00:21:19.027322+00:00"
+  },
+  {
+    "file_id": 7423658,
+    "label": "DataAnalysis_stata_log.log",
+    "path": "data/reference/goyal_9xpv4i/5_LogFiles/DataAnalysis_stata_log.log",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423658",
+    "bytes": 17842,
+    "md5": "00320a4de7f7bb6c72fdf1bf8ff3b22d",
+    "sha256": "ad3d4260c4dd21b0e3d98d3c82ea5381d22313bf86d43df9e8fe5423efe1a013",
+    "verified_at": "2026-11-09T00:21:19.027283+00:00"
+  },
+  {
+    "file_id": 7423681,
+    "label": "DataPrep.log",
+    "path": "data/reference/goyal_9xpv4i/5_LogFiles/log/DataPrep.log",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423681",
+    "bytes": 4237,
+    "md5": "cb015919506563b376859f964fd354d7",
+    "sha256": "da8cf3ac6b1be35769687b933982ae22a63806ad6cbf0a61dcaa1ebd1c54ee1c",
+    "verified_at": "2026-11-09T00:21:19.027590+00:00"
+  },
+  {
+    "file_id": 7423665,
+    "label": "DataPrep.msg",
+    "path": "data/reference/goyal_9xpv4i/5_LogFiles/log/DataPrep.msg",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423665",
+    "bytes": 3070,
+    "md5": "2168cb31db1e7a81ad535a01e1c85283",
+    "sha256": "f48d5d9a35abd98562589b45807ce15118005aa64176fcfcc0d4fb04fa1579bd",
+    "verified_at": "2026-11-09T00:21:19.027533+00:00"
+  },
+  {
+    "file_id": 7423676,
+    "label": "DataPrep.R",
+    "path": "data/reference/goyal_9xpv4i/3_Scripts/DataPrep.R",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423676",
+    "bytes": 67825,
+    "md5": "66a244370456c666ffa1f2aa7c8c8bd0",
+    "sha256": "6932ab5b3966d93edf44bb07d4acb1d8f121f9e9d3eac747094df99f4c459bb8",
+    "verified_at": "2026-11-09T00:21:19.027698+00:00"
+  },
+  {
+    "file_id": 7423680,
+    "label": "Figure1.pdf",
+    "path": "data/reference/goyal_9xpv4i/4_Output/Figure1.pdf",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423680",
+    "bytes": 4973,
+    "md5": "8bf8fc0e679131c868b487c01dde57dd",
+    "sha256": "c235a3a05afaae3ecabcb0b92a31524e57bccc1413e26e230b73d61082ad6b84",
+    "verified_at": "2026-11-09T00:21:19.027683+00:00"
+  },
+  {
+    "file_id": 7423650,
+    "label": "FigureA1.pdf",
+    "path": "data/reference/goyal_9xpv4i/4_Output/FigureA1.pdf",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423650",
+    "bytes": 25816,
+    "md5": "02fed901a786664b1e07183945fc50f2",
+    "sha256": "a7d453ebff1e6b7f4a1e78d080cc5c317e81d708395f654afa38ab1b555970d3",
+    "verified_at": "2026-11-09T00:21:19.027792+00:00"
+  },
+  {
+    "file_id": 7423661,
+    "label": "FigureA2.pdf",
+    "path": "data/reference/goyal_9xpv4i/4_Output/FigureA2.pdf",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423661",
+    "bytes": 4799,
+    "md5": "0d973a2ad33bed6f827988759aacc31c",
+    "sha256": "fac6215f1a2aff6041d1c7d258edc224406db43783b87c922533565f6ec6a9f9",
+    "verified_at": "2026-11-09T00:21:19.027848+00:00"
+  },
+  {
+    "file_id": 7423667,
+    "label": "Maintable1.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/Maintable1.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423667",
+    "bytes": 507,
+    "md5": "dca2e3b3f4f959aab170f5d58bd5ba6e",
+    "sha256": "650c2c5ebcc40a09f6b587a91d7cad51da48499d7e585e68dbf7fe84235ba116",
+    "verified_at": "2026-11-09T00:21:19.027892+00:00"
+  },
+  {
+    "file_id": 7423649,
+    "label": "Maintable2.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/Maintable2.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423649",
+    "bytes": 898,
+    "md5": "98ca89759992136dfc6726304fdac095",
+    "sha256": "4acd85b2b0e68c68f3d9c94518e3458367f5338517837c8adb73ad5503ea8473",
+    "verified_at": "2026-11-09T00:21:19.028038+00:00"
+  },
+  {
+    "file_id": 7423663,
+    "label": "Maintable3.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/Maintable3.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423663",
+    "bytes": 2096,
+    "md5": "9e5ea2dadc111296e9e9ea2daa2c6e30",
+    "sha256": "bc10e529959127fe2a826edb60bf25cde36a809c549ffeaa3882a7bb737edb64",
+    "verified_at": "2026-11-09T00:21:19.028088+00:00"
+  },
+  {
+    "file_id": 7423639,
+    "label": "Maintable4.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/Maintable4.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423639",
+    "bytes": 1728,
+    "md5": "dc311c8c93e772ceacf2bc3cefc7801e",
+    "sha256": "f85f096d8a8bc337779247a2dd3a5d1dbb9d45a5be5d53d5034b93a713efd292",
+    "verified_at": "2026-11-09T00:21:19.028132+00:00"
+  },
+  {
+    "file_id": 7423683,
+    "label": "Maintable5.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/Maintable5.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423683",
+    "bytes": 1683,
+    "md5": "8e8a784bec272e8ec97fbe42b390bd0e",
+    "sha256": "9c3b421207d8c44d5af23d4587a03c06d58de2d00ff0bf8031e69b9908e9e797",
+    "verified_at": "2026-11-09T00:21:19.028368+00:00"
+  },
+  {
+    "file_id": 7423673,
+    "label": "Maintable6.txt",
+    "path": "data/reference/goyal_9xpv4i/4_Output/Maintable6.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423673",
+    "bytes": 1714,
+    "md5": "b3ee7f17dac2881faf77b6b46f8216d4",
+    "sha256": "88c9f9d1fb055c862960bdad57e46e122b2a6771d4cbd6fdc905dc5d234d7cfe",
+    "verified_at": "2026-11-09T00:21:19.028321+00:00"
+  },
+  {
+    "file_id": 7423684,
+    "label": "mcdall_03022021.RData",
+    "path": "data/reference/goyal_9xpv4i/2_ProcessedData/mcdall_03022021.RData",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423684",
+    "bytes": 824006,
+    "md5": "3e40bd8bbe3c6a52106c2076d1107960",
+    "sha256": "b588df213c68d8a54cf678e46417f818381115a52f90bbfb4061734b03a6ef34",
+    "verified_at": "2026-11-09T00:21:19.029953+00:00"
+  },
+  {
+    "file_id": 7423653,
+    "label": "mcdallselect.RData",
+    "path": "data/reference/goyal_9xpv4i/2_ProcessedData/mcdallselect.RData",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423653",
+    "bytes": 253893,
+    "md5": "6ace9ddff77a43364bb887f32e23c964",
+    "sha256": "f63299e08f61935cc71a93e1260a7696656b426f972b7e52f65ab6ff371fbc79",
+    "verified_at": "2026-11-09T00:21:19.029085+00:00"
+  },
+  {
+    "file_id": 7423664,
+    "label": "mcdcanddata.RData",
+    "path": "data/reference/goyal_9xpv4i/2_ProcessedData/mcdcanddata.RData",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423664",
+    "bytes": 11033,
+    "md5": "0e603dbc236813a040653e2ddca53cf3",
+    "sha256": "e1d3af5fd96128b47021944dd4e6362dd4c7a997e414f4ad5525afe6fc64cfe6",
+    "verified_at": "2026-11-09T00:21:19.028694+00:00"
+  },
+  {
+    "file_id": 7423652,
+    "label": "mlabackground.RData",
+    "path": "data/reference/goyal_9xpv4i/2_ProcessedData/mlabackground.RData",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423652",
+    "bytes": 126245,
+    "md5": "e1da70aa774a083af53b7e4e7faf4964",
+    "sha256": "5269faa84f1927f863753a77a33ac19ab8da863d23fcb6c2887fb0ae0b46f301",
+    "verified_at": "2026-11-09T00:21:19.029067+00:00"
+  },
+  {
+    "file_id": 7423668,
+    "label": "MunicipalCouncilSurvey.tab",
+    "path": "data/reference/goyal_9xpv4i/1_RawData/MunicipalCouncilSurvey.dta",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423668?format=original",
+    "bytes": 17997,
+    "md5": "96a772236a16d4d99bca7dc46e9f1754",
+    "sha256": "be2cc4446e6a5b71b81e1db066a6d5c90a80764aaef2bc7379b7ceeb17a85b20",
+    "verified_at": "2026-11-09T00:21:19.866451+00:00"
+  },
+  {
+    "file_id": 7423666,
+    "label": "Municipal_TurnoutMappingResData.tab",
+    "path": "data/reference/goyal_9xpv4i/1_RawData/Municipal_TurnoutMappingResData.csv",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423666?format=original",
+    "bytes": 284791,
+    "md5": "7dd81f2383258e2c7eafef6045306fc2",
+    "sha256": "799a78244616db705803797835f31d62744dbd84dabf481cccb093aadd5b0dce",
+    "verified_at": "2026-11-09T00:21:20.202655+00:00"
+  },
+  {
+    "file_id": 7423672,
+    "label": "Readme.txt",
+    "path": "data/delhi/interim/qualification_audit/sources/goyal_readme.txt",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423672",
+    "bytes": 10937,
+    "md5": "2094261cd1c9bb959d3219f3ff5d2155",
+    "sha256": "7d66801712cb28c6742f8ce05118abbc4aef0e08d555830679499c2eac1b6d6e",
+    "verified_at": "2026-11-09T00:21:19.030188+00:00"
+  },
+  {
+    "file_id": 7423659,
+    "label": "TCPD_GE_Delhi_2020-2-23.tab",
+    "path": "data/reference/goyal_9xpv4i/1_RawData/TCPD_GE_Delhi_2020-2-23.csv",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423659?format=original",
+    "bytes": 1758224,
+    "md5": "900e6e8114679534afbe7f1c2907b1cf",
+    "sha256": "24338417bd1d2305c4f9e2002d7400e2530837d7b14853a4ecea841b81649c5c",
+    "verified_at": "2026-11-09T00:21:20.607346+00:00"
+  },
+  {
+    "file_id": 7423670,
+    "label": "ward2012.zip",
+    "path": "data/reference/goyal_9xpv4i/6_Maps/ward2012/ward2012.zip",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423670",
+    "bytes": 164042,
+    "md5": "5e664c13a205c07e38d0bf6ebfd3907b",
+    "sha256": "6225c6bf3576ea1c75316682e683f8c2056da3aac17336d4a5687958a2ed23f1",
+    "verified_at": "2026-11-09T00:21:19.872607+00:00"
+  },
+  {
+    "file_id": 7423645,
+    "label": "wardac2023.RData",
+    "path": "data/reference/goyal_9xpv4i/2_ProcessedData/wardac2023.RData",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423645",
+    "bytes": 9034,
+    "md5": "15e4ee1cfe1441075a612ee0336585b4",
+    "sha256": "2def70e33f50540a447d06f0be4dbc6cf4b800892fd5e8d59572de18223914eb",
+    "verified_at": "2026-11-09T00:21:19.873433+00:00"
+  },
+  {
+    "file_id": 7423637,
+    "label": "ward.RData",
+    "path": "data/reference/goyal_9xpv4i/2_ProcessedData/ward.RData",
+    "url": "https://dataverse.harvard.edu/api/access/datafile/7423637",
+    "bytes": 26217,
+    "md5": "bc683d00ace54abb4946c33aff42a86c",
+    "sha256": "a1efad8561d7849415801ca8451298880101289607dff471950a300fe20d9615",
+    "verified_at": "2026-11-09T00:21:20.789720+00:00"
+  }
+]

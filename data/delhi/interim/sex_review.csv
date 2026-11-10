@@ -1,0 +1,4 @@
+ward,source_gender,reviewed_gender,decision,source_url,evidence
+111,M,F,correct,https://delhishelterboard.in/main/wp-content/uploads/2019/06/Online-Directory-2016-Delhi-Govt.pdf,Official directory p321 identifies Raj Kumari (Ms.); ADR women-winners list page1 independently lists same winner and ward.
+254,F,M,correct,https://delhishelterboard.in/main/wp-content/uploads/2019/06/Online-Directory-2016-Delhi-Govt.pdf,Official directory p334 identifies Sh. Mahak Singh at ward254; winner identity agrees with SEC2012 result.
+115,F,,unresolved,https://www.hindustantimes.com/chandigarh/sad-councillor-sent-to-judicial-custody-by-cbi-court/story-gRwPy3Ttnp8XciZ9MLtHlK_amp.html,Research source female code conflicts with contemporary reporting referring to councillor as he; official2016directoryp316 has no sex-specific title. Retain missing; bound both assignments.

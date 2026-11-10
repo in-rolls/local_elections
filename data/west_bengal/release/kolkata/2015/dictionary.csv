@@ -1,0 +1,14 @@
+column,type,definition
+year,int16,Election year established by the dated official summary;2015
+body,string,Kolkata Municipal Corporation
+ward_no,int16,Printed ward number;1–144;not a longitudinal identifier
+winner_name_raw,string,Name as printed in SEC winner table;HTML whitespace stripped at ends only
+party_raw,string,Party as printed in the winner table
+party_source_id,string,Party identifier in SEC query URL;not a cross-source party code
+winner_woman,bool,Null for all records because winner sex is not stated
+woman_reserved,bool,Null for all records because these winner tables do not state reservation
+source_path,string,Original HTML path relative to local_elections
+source_row,int16,One-based data row within the party winner table
+source_sha256,string,SHA-256 of the original HTML bytes
+source_url,string,Canonical official archive URL;expiring session identifiers omitted
+source_status,string,sec_informational_results_not_certified;source caveat preserved

@@ -1,0 +1,100 @@
+[
+  {
+    "path": "local_elections/data/karnataka/raw/urban_expansion/bbmp_election_2015_catalog.json",
+    "sha256": "9f3408385595dcead59060d708132f42ad5c2d057889c616e28a90970d47d190",
+    "bytes": 7844,
+    "pages": null,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections/data/karnataka/raw/urban_expansion/bbmp_reservations_catalog.json",
+    "sha256": "42e864c28179b034685a054c52a8460ede39114711aa526ab974aaf494d846e4",
+    "bytes": 2889,
+    "pages": null,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections/data/karnataka/raw/urban_expansion/bpac_bbmp_2015.pdf",
+    "sha256": "8d88dff917264cb2c0a1328f0e4aa05f6719d5c607ef96fe21769d884e9baf7b",
+    "bytes": 3231072,
+    "pages": 24,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections/data/karnataka/raw/urban_expansion/bbmp_reservations_2010_2015.csv",
+    "sha256": "f002d7946365a3ad02ed47146c776167ca9b430a92c816659d8e6101cf1ed481",
+    "bytes": 9237,
+    "pages": null,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections/data/karnataka/raw/urban_expansion/election_announcement_mirror_2015.html",
+    "sha256": "f0e6f7b57a0fc8e4a84463f6941f77c6a347a69f1936c24c1706f16095a1997a",
+    "bytes": 40005,
+    "pages": null,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections/data/karnataka/raw/urban_expansion/bbmp_reservation_2015.pdf",
+    "sha256": "f71e017e25b8c81917a59b43612c61ca6f58b1181cd8238d36d1b677ee3ac5a1",
+    "bytes": 2443578,
+    "pages": 7,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections/data/karnataka/raw/urban_expansion/bbmp_poll_statistics_2015.pdf",
+    "sha256": "4905875d25eb8d5ee3bb8d9bd4e81d6385c0551ba01d47e2d9280a5b8128a78d",
+    "bytes": 311300,
+    "pages": 6,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections/data/karnataka/raw/urban_expansion/bbmp_calendar_2015.pdf",
+    "sha256": "b608dc765f9b29c1c063b1a4d35925945bf1c6a79f2ab049d927e596e633b07e",
+    "bytes": 570160,
+    "pages": 2,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections/data/karnataka/raw/urban_expansion/bbmp_results_2015.pdf",
+    "sha256": "b9b74667e6fb05bed730cb544fbde8eb652041a39f4fc32fbde4da154e61d872",
+    "bytes": 1597045,
+    "pages": 19,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections/data/karnataka/raw/urban_expansion/bbmp_results_2010.pdf",
+    "sha256": "a9b8635d789ae349132936460650c49ead2d1b5ec3ff2d8740d89271a5ec0fa6",
+    "bytes": 1479688,
+    "pages": 16,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections/data/karnataka/raw/urban_expansion/bbmp_delimitation_2009.pdf",
+    "sha256": "748c05e62c29b1de5272fd3a8eaf4aceda1ec83fc8f04016be5d580204032435",
+    "bytes": 479954,
+    "pages": 99,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections/data/karnataka/raw/urban_expansion/bbmp_ward_budget_2017_18.pdf",
+    "sha256": "23e2fd54d83abb291e3377c757d788d2f63dcb76c8574f04d93978bd95538cee",
+    "bytes": 1457269,
+    "pages": 396,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections_tamil_nadu/data/raw/urban_expansion/go_124_2011.pdf",
+    "sha256": "8994b53f6c0cef47fb510822685106e6a4e7d4f45ca7e9d9bc043d909faa2d56",
+    "bytes": 30049,
+    "pages": 4,
+    "status": "hash and size verified"
+  },
+  {
+    "path": "local_elections_tamil_nadu/data/raw/urban_expansion/go_141_2011.pdf",
+    "sha256": "ece9f03ac7f68dd5174f879ed56c784df3190f4b1f976fb8e167129794ff1c17",
+    "bytes": 31499,
+    "pages": 3,
+    "status": "hash and size verified"
+  }
+]

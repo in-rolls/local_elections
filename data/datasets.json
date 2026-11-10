@@ -24,7 +24,29 @@
   },
   "chandigarh": {
     "pooled": [],
-    "supplemental": []
+    "supplemental": [
+      "release/candidate_counts_2011.parquet",
+      "release/candidates_2011.parquet",
+      "release/ward_panel_2006_2011.parquet",
+      "release/winners.parquet",
+      "release/ward_panel_2011_2016.parquet"
+    ],
+    "metadata": [
+      "manual/assignment_rules.json",
+      "manual/panel_recodes.csv",
+      "raw/election_report_2011_verification.json",
+      "release/dictionary.csv",
+      "release/manifest.json",
+      "release/panel_audit.json",
+      "release/ward_panel_2006_2011.schema.json",
+      "source_review.md",
+      "manual/assignment_rules_2016.json",
+      "manual/urban_expansion/winner_honorific_review_2016.csv",
+      "release/ward_panel_2011_2016.schema.json",
+      "release/ward_panel_2011_2016_dictionary.csv",
+      "release/ward_panel_2011_2016_audit.json",
+      "release/ward_panel_2011_2016_manifest.json"
+    ]
   },
   "delhi": {
     "pooled": [],
@@ -74,11 +96,26 @@
       "release/gp_head_2007.csv",
       "release/zp_member_2016.csv"
     ],
-    "supplemental": []
+    "supplemental": [
+      "build/urban_expansion/ward_panel_2010_2015.parquet"
+    ],
+    "metadata": [
+      "manual/urban_expansion/bbmp_reservations_review.csv",
+      "manual/urban_expansion/bbmp_reservations_review.schema.json",
+      "manual/urban_expansion/bbmp_winner_sex_conflicts.csv",
+      "manual/urban_expansion/bbmp_winner_title_corroboration.csv",
+      "manual/urban_expansion/bbmp_winner_title_corroboration.schema.json",
+      "manual/urban_expansion/bbmp_winner_titles_2015.csv",
+      "manual/urban_expansion/bbmp_winner_titles_2015.schema.json",
+      "build/urban_expansion/recode_ledger.json"
+    ]
   },
   "madhya_pradesh": {
     "pooled": [],
-    "supplemental": []
+    "supplemental": [
+      "release/urban/winners.parquet",
+      "release/urban/indore_council_roster.parquet"
+    ]
   },
   "maharashtra": {
     "pooled": [
@@ -92,7 +129,16 @@
       "release/mumbai/bmc_candidates_2017.csv",
       "release/mumbai/bmc_seats_2007.csv",
       "release/mumbai/praja_admin_ward_complaint_days_2013_2018.csv",
-      "release/mumbai/praja_ward_ratings_2011_2018.csv"
+      "release/mumbai/praja_ward_ratings_2011_2018.csv",
+      "release/mumbai/bhavnani_comparison_1997_2002.parquet",
+      "release/mumbai/winner_sex_source_audit_2012_2017.parquet"
+    ],
+    "metadata": [
+      "raw/mumbai/bhavnani_2009/receipt.json",
+      "release/mumbai/historical_dictionary.csv",
+      "release/mumbai/historical_schema.json",
+      "release/mumbai/historical_sources.json",
+      "source_review.md"
     ]
   },
   "puducherry": {
@@ -148,6 +194,8 @@
       "release/birbhum_reservations/review_queue.csv",
       "release/hooghly_2003/gp_party_counts.csv",
       "release/hooghly_2003/gp_party_counts.parquet",
+      "release/kolkata/2015/tcpd_comparison.csv",
+      "release/kolkata/2015/winners.parquet",
       "release/nadia_2008/gp_seats.csv",
       "release/nadia_2008/gp_seats.parquet",
       "release/nadia_2013_handbook/gp_block_membership.csv",

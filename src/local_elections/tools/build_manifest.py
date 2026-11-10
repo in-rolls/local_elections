@@ -124,6 +124,48 @@ def describe(path, rows):
     return entry
 
 
+def supplemental_entries():
+    """Pin registered supplements and adjacent release metadata without pooling them."""
+    paths = set()
+    for state, spec in datasets.registry().items():
+        for relative in spec.get("metadata", []):
+            path = ROOT / "data" / state / relative
+            if not path.is_file():
+                raise FileNotFoundError(f"Registered metadata is missing: {path}")
+            paths.add(path)
+        for relative in spec["supplemental"]:
+            path = ROOT / "data" / state / relative
+            if not path.is_file():
+                raise FileNotFoundError(f"Registered supplement is missing: {path}")
+            paths.add(path)
+            for pattern in (
+                "*.schema.json",
+                "*schema.json",
+                "dictionary.csv",
+                "audit.json",
+                "profile.json",
+                "README.md",
+                "checksums.json",
+            ):
+                paths.update(path.parent.glob(pattern))
+    entries = []
+    for path in sorted(paths):
+        entry = {
+            "path": str(path.relative_to(ROOT)),
+            "sha256": digest(path),
+            "bytes": path.stat().st_size,
+            "kind": "supplemental",
+        }
+        if path.suffix == ".parquet":
+            metadata = pq.read_metadata(path)
+            entry["rows"] = metadata.num_rows
+            entry["schema"] = {
+                f.name: str(f.type) for f in metadata.schema.to_arrow_schema()
+            }
+        entries.append(entry)
+    return entries
+
+
 def build():
     here = repo_state(ROOT, RELEASE_INPUTS)
     files, totals = [], collections.Counter()
@@ -164,6 +206,8 @@ def build():
     for path, rows in datasets.parsed():
         files.append(dict(describe(path, rows), kind="parsed"))
         totals["parsed_rows"] += len(rows)
+
+    files.extend(supplemental_entries())
 
     # A pinned sibling is read from its commit in data/sources.json, with every
     # file hash-checked, so that commit - not whatever the neighbouring checkout

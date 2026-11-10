@@ -1,0 +1,107 @@
+{
+  "description": "One entry in the current Indore council CMS; not election-time winners. The unlabeled entry is not assigned a ward.",
+  "primaryKey": [
+    "source_entry_id"
+  ],
+  "fields": [
+    {
+      "name": "body",
+      "type": "string",
+      "description": "Municipal corporation name.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "Indore"
+        ]
+      }
+    },
+    {
+      "name": "source_entry_id",
+      "type": "string",
+      "description": "Unique CMS entry identifier; not a ward number.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "ward_no",
+      "type": "string",
+      "description": "Printed ward number; null only for the roster's unlabeled entry."
+    },
+    {
+      "name": "ward_label_raw",
+      "type": "string",
+      "description": "Original ward-number label, including an empty string."
+    },
+    {
+      "name": "ward_name_raw",
+      "type": "string",
+      "description": "Original named ward label."
+    },
+    {
+      "name": "title_raw",
+      "type": "string",
+      "description": "Original title, including honorific or court-status text; null if absent."
+    },
+    {
+      "name": "member_woman_from_honorific",
+      "type": "integer",
+      "description": "1 for Mrs./Ms., 0 for Mr., null otherwise. Applies only to this roster entry; does not measure 2022 winner sex.",
+      "constraints": {
+        "minimum": 0,
+        "maximum": 1
+      },
+      "arrow": "int8"
+    },
+    {
+      "name": "source_updated_at",
+      "type": "string",
+      "description": "Original CMS updatedAt timestamp; not an election date.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "retrieved_at",
+      "type": "string",
+      "description": "UTC source retrieval timestamp from the acquisition receipt.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "source_status",
+      "type": "string",
+      "description": "Evidence status; current roster is not an election result.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "source_path",
+      "type": "string",
+      "description": "Original file path relative to the repository root.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "source_sha256",
+      "type": "string",
+      "description": "SHA-256 of the complete original source bytes.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{64}"
+      }
+    },
+    {
+      "name": "source_row",
+      "type": "integer",
+      "description": "One-based extracted list or CMS array position.",
+      "constraints": {
+        "required": true,
+        "minimum": 1
+      }
+    }
+  ]
+}

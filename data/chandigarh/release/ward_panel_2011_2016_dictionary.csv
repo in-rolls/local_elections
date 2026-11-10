@@ -1,0 +1,41 @@
+column,type,nulls,description
+body,string,0,"Municipal institution, identical to earlier panel."
+ward_no,string,0,Stable ward identifier on unchanged 2006 geography; string.
+prior_year,int32,0,"Earlier quota-assignment election, 2011."
+year,int32,0,"Outcome election, 2016."
+reserved_woman_2006,int8,0,"Women-only quota=1; open to both sexes=0, including caste-reserved seats."
+reserved_caste_2006,string,0,"Seat caste reservation: SC or NONE; NONE is observed absence, not missing."
+reserved_raw_2006,string,0,Preserved or fully expanded official seat reservation label.
+reserved_source_page_2006,int32,0,One-based PDF page(s) in the corresponding year's retained official report.
+source_path_2006,string,0,Official report path relative to repository root.
+source_sha256_2006,string,0,SHA-256 of the complete retained official report.
+reserved_woman_2011,int8,0,"Women-only quota=1; open to both sexes=0, including caste-reserved seats."
+reserved_caste_2011,string,0,"Seat caste reservation: SC or NONE; NONE is observed absence, not missing."
+reserved_raw_2011,string,0,Preserved or fully expanded official seat reservation label.
+reserved_source_page_2011,int32,0,One-based PDF page(s) in the corresponding year's retained official report.
+source_path_2011,string,0,Official report path relative to repository root.
+source_sha256_2011,string,0,SHA-256 of the complete retained official report.
+reserved_woman_2016,int8,0,"Women-only quota=1; open to both sexes=0, including caste-reserved seats."
+reserved_caste_2016,string,0,"Seat caste reservation: SC or NONE; NONE is observed absence, not missing."
+reserved_raw_2016,string,0,Preserved or fully expanded official seat reservation label.
+winner_2016,string,0,Winner name in detailed official returns.
+winner_votes_2016,int32,0,Winner votes in detailed returns; all ward totals reconcile.
+winner_party_2016,string,0,Normalized party of elected candidate.
+winner_woman_2016,int8,26,"Recorded individual sex; absent from selected source, all null."
+winner_woman_from_honorific_2016,int8,0,"Smt.=1, Sh.=0 in a separately printed, uniquely linked candidate row; never inferred from name or quota."
+winner_honorific_raw_2016,string,0,"Printed candidate's title, independent of reservation."
+winner_candidate_name_raw_2016,string,0,Printed candidate name after joining wrapped lines; title retained separately.
+winner_link_basis_2016,string,0,Reviewed name/ward/party linkage; ward 1 address corroborates name variant.
+winner_woman_source_page_2016,int32,0,One-based PDF page(s) in the corresponding year's retained official report.
+winner_source_page_2016,int32,0,One-based PDF page(s) in the corresponding year's retained official report.
+result_source_page_2016,int32,0,One-based PDF page(s) in the corresponding year's retained official report.
+reserved_source_page_2016,int32,0,One-based PDF page(s) in the corresponding year's retained official report.
+boundary_source_pages_2016,string,0,One-based PDF page(s) in the corresponding year's retained official report.
+assignment_rule_source_pages_2016,string,0,One-based PDF page(s) in the corresponding year's retained official report.
+source_path_2016,string,0,Official report path relative to repository root.
+source_sha256_2016,string,0,SHA-256 of the complete retained official report.
+is_eligible,bool,0,Later seat open to both sexes; no restriction on winner sex or earlier exposure.
+is_eligible_without_2006_quota,bool,0,Later nonquota and not reserved for women in 2006; respects 2011 draw risk pool.
+caste_transition,string,0,2011 to 2016 caste reservation stratum; rankings use different censuses.
+poll_date_2016,string,0,Scheduled polling date; ward 7 has an additional station repoll.
+repoll_date_2016,string,25,Repoll at polling station 14 of ward 7; null means no documented repoll.

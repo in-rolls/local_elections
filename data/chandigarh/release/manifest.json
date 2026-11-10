@@ -1,0 +1,125 @@
+{
+  "files": {
+    "winners.parquet": {
+      "rows": 87,
+      "columns": {
+        "election_year": "int32",
+        "ward_no": "int32",
+        "body": "string",
+        "poll_date": "string",
+        "source_path": "string",
+        "source_page": "int32",
+        "source_raw": "string",
+        "winner_sex": "string",
+        "winner_sex_basis": "string",
+        "sex_source_path": "string",
+        "sex_source_page": "int32",
+        "winner_votes": "int32",
+        "total_votes": "int32",
+        "votes_source_path": "string",
+        "votes_source_page": "int32",
+        "quality_flags": "list<element: string>",
+        "reservation_raw": "string",
+        "caste_reservation": "string",
+        "woman_reserved": "bool",
+        "winner_name": "string",
+        "party": "string"
+      },
+      "sha256": "29d6710331fce58455e836f83001a0ab04ebb3a7265e57ac0f26d4057fd787f3"
+    },
+    "candidates_2011.parquet": {
+      "rows": 152,
+      "columns": {
+        "election_year": "int32",
+        "ward_no": "int32",
+        "candidate_order": "int32",
+        "candidate_name": "string",
+        "candidate_name_raw": "string",
+        "honorific_raw": "string",
+        "candidate_sex": "string",
+        "sex_basis": "string",
+        "source_path": "string",
+        "source_page": "int32"
+      },
+      "sha256": "b649e19c795fe71cf9edfbac7d6b4ac1290c412254301e7b7a0a9662a954f342"
+    },
+    "candidate_counts_2011.parquet": {
+      "rows": 26,
+      "columns": {
+        "election_year": "int32",
+        "ward_no": "int32",
+        "total_candidates": "int32",
+        "male_candidates": "int32",
+        "female_candidates": "int32",
+        "source_path": "string",
+        "source_page": "int32"
+      },
+      "sha256": "6732188b7f6c8b4c002945aa06324f86e6b8265b118689bac5cb79d23d8d2d7d"
+    },
+    "ward_panel_2006_2011.parquet": {
+      "rows": 26,
+      "columns": {
+        "body": "string",
+        "ward_no": "string",
+        "prior_year": "int32",
+        "year": "int32",
+        "poll_date_2006": "string",
+        "poll_date_2011": "string",
+        "reserved_woman_2006": "int8",
+        "reserved_caste_2006": "string",
+        "reserved_raw_2006": "string",
+        "reserved_source_page_2006": "int32",
+        "source_path_2006": "string",
+        "source_sha256_2006": "string",
+        "reserved_woman_2011": "int8",
+        "reserved_caste_2011": "string",
+        "reserved_raw_2011": "string",
+        "reserved_source_page_2011": "int32",
+        "source_path_2011": "string",
+        "source_sha256_2011": "string",
+        "winner_2011": "string",
+        "winner_source_page_2011": "int32",
+        "winner_woman_from_honorific_2011": "int8",
+        "winner_honorific_raw_2011": "string",
+        "winner_candidate_name_raw_2011": "string",
+        "winner_candidate_no_2011": "string",
+        "winner_link_basis_2011": "string",
+        "winner_woman_source_page_2011": "int32",
+        "is_eligible": "bool",
+        "exclusion_reason": "string",
+        "caste_transition": "string",
+        "population_2001": "int32",
+        "population_sc_2001": "int32",
+        "population_sc_share_2001": "double",
+        "population_sc_rank_2001": "int32",
+        "population_source_page": "int32",
+        "boundary_basis": "string",
+        "boundary_source_page": "int32",
+        "assignment_rule_source_page": "int32"
+      },
+      "sha256": "95463d8fd4acec7fc1d299a46077a429ce67c250b36fecd56b61da4d3b171f79"
+    }
+  },
+  "sources": [
+    {
+      "path": "data/chandigarh/raw/election-report-2006.pdf",
+      "sha256": "985139302c06d42d41267fe73d490c2f84d894a8c1e864acd372f3cd438c820d",
+      "bytes": 2427964
+    },
+    {
+      "path": "data/chandigarh/raw/election-report-2011.pdf",
+      "sha256": "cf5693b2df952c44e7ee28fc06fdbbd36258b8a9a8657393c976889ecc0a5121",
+      "bytes": 5553429
+    },
+    {
+      "path": "data/chandigarh/raw/winner_gazette_2021.pdf",
+      "sha256": "1a45efe3edfd2a0e399af2a7e79b2d889c2510e7ef4ff4890902a3633cbe6ce6",
+      "bytes": 451056
+    }
+  ],
+  "metadata": {
+    "dictionary.csv": "04dec2393eed6b26625f0b1cbf520ceafb276e7f2eebb874aa022be513631f51",
+    "ward_panel_2006_2011.schema.json": "04046b9b68941ac7001275a07283640210dd2caed51d032daf0d7d9eb5865b7e",
+    "panel_audit.json": "27229ac61a58af8a66fc51c28a00cb31c1874e5e528a6d8061d26edbfe48a895"
+  }
+}

@@ -210,6 +210,7 @@ manifest:
 
 verify:
 	$(PY) -m local_elections.tools.verify_manifest
+	$(PY) -m local_elections.states.mp.urban verify
 
 .PHONY: evidence evidence-archives verify-evidence verify-evidence-archives
 evidence:
@@ -281,3 +282,21 @@ audit:
 	mkdir -p dist
 	uv export --frozen --no-default-groups --group dev --all-extras --no-emit-project --format requirements-txt --output-file dist/audit-requirements.txt > /dev/null
 	uvx pip-audit==2.10.1 --require-hashes --disable-pip -r dist/audit-requirements.txt
+
+.PHONY: chandigarh kolkata kolkata-harvest
+chandigarh:
+	$(PY) -m local_elections.states.chandigarh.parse
+	$(PY) -m local_elections.states.chandigarh.validate
+
+kolkata:
+	$(PY) -m local_elections.states.wb.kolkata build
+
+kolkata-harvest:
+	$(PY) -m local_elections.states.wb.kolkata fetch
+
+.PHONY: mp-urban mp-urban-harvest
+mp-urban:
+	$(PY) -m local_elections.states.mp.urban build
+
+mp-urban-harvest:
+	$(PY) -m local_elections.states.mp.urban fetch

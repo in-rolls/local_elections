@@ -1,0 +1,251 @@
+{
+  "primary_key": [
+    "body",
+    "ward_no",
+    "prior_year",
+    "year"
+  ],
+  "row_unit": "One outcome-election ward on unchanged 2006 geography, joined 1:1 to 2011 and 2006.",
+  "fields": [
+    {
+      "name": "body",
+      "type": "string",
+      "nullable": false,
+      "description": "Municipal institution, identical to earlier panel."
+    },
+    {
+      "name": "ward_no",
+      "type": "string",
+      "nullable": false,
+      "description": "Stable ward identifier on unchanged 2006 geography; string."
+    },
+    {
+      "name": "prior_year",
+      "type": "int32",
+      "nullable": false,
+      "description": "Earlier quota-assignment election, 2011."
+    },
+    {
+      "name": "year",
+      "type": "int32",
+      "nullable": false,
+      "description": "Outcome election, 2016."
+    },
+    {
+      "name": "reserved_woman_2006",
+      "type": "int8",
+      "nullable": false,
+      "description": "Women-only quota=1; open to both sexes=0, including caste-reserved seats."
+    },
+    {
+      "name": "reserved_caste_2006",
+      "type": "string",
+      "nullable": false,
+      "description": "Seat caste reservation: SC or NONE; NONE is observed absence, not missing."
+    },
+    {
+      "name": "reserved_raw_2006",
+      "type": "string",
+      "nullable": false,
+      "description": "Preserved or fully expanded official seat reservation label."
+    },
+    {
+      "name": "reserved_source_page_2006",
+      "type": "int32",
+      "nullable": false,
+      "description": "One-based PDF page(s) in the corresponding year's retained official report."
+    },
+    {
+      "name": "source_path_2006",
+      "type": "string",
+      "nullable": false,
+      "description": "Official report path relative to repository root."
+    },
+    {
+      "name": "source_sha256_2006",
+      "type": "string",
+      "nullable": false,
+      "description": "SHA-256 of the complete retained official report."
+    },
+    {
+      "name": "reserved_woman_2011",
+      "type": "int8",
+      "nullable": false,
+      "description": "Women-only quota=1; open to both sexes=0, including caste-reserved seats."
+    },
+    {
+      "name": "reserved_caste_2011",
+      "type": "string",
+      "nullable": false,
+      "description": "Seat caste reservation: SC or NONE; NONE is observed absence, not missing."
+    },
+    {
+      "name": "reserved_raw_2011",
+      "type": "string",
+      "nullable": false,
+      "description": "Preserved or fully expanded official seat reservation label."
+    },
+    {
+      "name": "reserved_source_page_2011",
+      "type": "int32",
+      "nullable": false,
+      "description": "One-based PDF page(s) in the corresponding year's retained official report."
+    },
+    {
+      "name": "source_path_2011",
+      "type": "string",
+      "nullable": false,
+      "description": "Official report path relative to repository root."
+    },
+    {
+      "name": "source_sha256_2011",
+      "type": "string",
+      "nullable": false,
+      "description": "SHA-256 of the complete retained official report."
+    },
+    {
+      "name": "reserved_woman_2016",
+      "type": "int8",
+      "nullable": false,
+      "description": "Women-only quota=1; open to both sexes=0, including caste-reserved seats."
+    },
+    {
+      "name": "reserved_caste_2016",
+      "type": "string",
+      "nullable": false,
+      "description": "Seat caste reservation: SC or NONE; NONE is observed absence, not missing."
+    },
+    {
+      "name": "reserved_raw_2016",
+      "type": "string",
+      "nullable": false,
+      "description": "Preserved or fully expanded official seat reservation label."
+    },
+    {
+      "name": "winner_2016",
+      "type": "string",
+      "nullable": false,
+      "description": "Winner name in detailed official returns."
+    },
+    {
+      "name": "winner_votes_2016",
+      "type": "int32",
+      "nullable": false,
+      "description": "Winner votes in detailed returns; all ward totals reconcile."
+    },
+    {
+      "name": "winner_party_2016",
+      "type": "string",
+      "nullable": false,
+      "description": "Normalized party of elected candidate."
+    },
+    {
+      "name": "winner_woman_2016",
+      "type": "int8",
+      "nullable": true,
+      "description": "Recorded individual sex; absent from selected source, all null."
+    },
+    {
+      "name": "winner_woman_from_honorific_2016",
+      "type": "int8",
+      "nullable": false,
+      "description": "Smt.=1, Sh.=0 in a separately printed, uniquely linked candidate row; never inferred from name or quota."
+    },
+    {
+      "name": "winner_honorific_raw_2016",
+      "type": "string",
+      "nullable": false,
+      "description": "Printed candidate's title, independent of reservation."
+    },
+    {
+      "name": "winner_candidate_name_raw_2016",
+      "type": "string",
+      "nullable": false,
+      "description": "Printed candidate name after joining wrapped lines; title retained separately."
+    },
+    {
+      "name": "winner_link_basis_2016",
+      "type": "string",
+      "nullable": false,
+      "description": "Reviewed name/ward/party linkage; ward 1 address corroborates name variant."
+    },
+    {
+      "name": "winner_woman_source_page_2016",
+      "type": "int32",
+      "nullable": false,
+      "description": "One-based PDF page(s) in the corresponding year's retained official report."
+    },
+    {
+      "name": "winner_source_page_2016",
+      "type": "int32",
+      "nullable": false,
+      "description": "One-based PDF page(s) in the corresponding year's retained official report."
+    },
+    {
+      "name": "result_source_page_2016",
+      "type": "int32",
+      "nullable": false,
+      "description": "One-based PDF page(s) in the corresponding year's retained official report."
+    },
+    {
+      "name": "reserved_source_page_2016",
+      "type": "int32",
+      "nullable": false,
+      "description": "One-based PDF page(s) in the corresponding year's retained official report."
+    },
+    {
+      "name": "boundary_source_pages_2016",
+      "type": "string",
+      "nullable": false,
+      "description": "One-based PDF page(s) in the corresponding year's retained official report."
+    },
+    {
+      "name": "assignment_rule_source_pages_2016",
+      "type": "string",
+      "nullable": false,
+      "description": "One-based PDF page(s) in the corresponding year's retained official report."
+    },
+    {
+      "name": "source_path_2016",
+      "type": "string",
+      "nullable": false,
+      "description": "Official report path relative to repository root."
+    },
+    {
+      "name": "source_sha256_2016",
+      "type": "string",
+      "nullable": false,
+      "description": "SHA-256 of the complete retained official report."
+    },
+    {
+      "name": "is_eligible",
+      "type": "bool",
+      "nullable": false,
+      "description": "Later seat open to both sexes; no restriction on winner sex or earlier exposure."
+    },
+    {
+      "name": "is_eligible_without_2006_quota",
+      "type": "bool",
+      "nullable": false,
+      "description": "Later nonquota and not reserved for women in 2006; respects 2011 draw risk pool."
+    },
+    {
+      "name": "caste_transition",
+      "type": "string",
+      "nullable": false,
+      "description": "2011 to 2016 caste reservation stratum; rankings use different censuses."
+    },
+    {
+      "name": "poll_date_2016",
+      "type": "string",
+      "nullable": false,
+      "description": "Scheduled polling date; ward 7 has an additional station repoll."
+    },
+    {
+      "name": "repoll_date_2016",
+      "type": "string",
+      "nullable": true,
+      "description": "Repoll at polling station 14 of ward 7; null means no documented repoll."
+    }
+  ]
+}

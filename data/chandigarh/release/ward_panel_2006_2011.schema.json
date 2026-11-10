@@ -1,0 +1,353 @@
+{
+  "description": "One of the 26 unchanged Chandigarh wards, linking 2006 quota assignment to 2011 outcome; filter is_eligible for the 17 later non-quota wards.",
+  "primaryKey": [
+    "body",
+    "ward_no",
+    "prior_year",
+    "year"
+  ],
+  "fields": [
+    {
+      "name": "body",
+      "type": "string",
+      "description": "Municipal institution; one ward is the row unit.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "ward_no",
+      "type": "string",
+      "description": "Ward identifier on the unchanged 2006 geography.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "prior_year",
+      "type": "integer",
+      "description": "Prior general-election cohort, including deferred ward 7.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          2006
+        ]
+      }
+    },
+    {
+      "name": "year",
+      "type": "integer",
+      "description": "Outcome general election.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          2011
+        ]
+      }
+    },
+    {
+      "name": "poll_date_2006",
+      "type": "string",
+      "description": "Actual prior poll: December 20, 2006, except ward 7 on January 14, 2007.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "poll_date_2011",
+      "type": "string",
+      "description": "Actual outcome election date.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "reserved_woman_2006",
+      "type": "integer",
+      "description": "1 for women-only reservation; 0 for a seat open to both sexes. Taken from the pre-election notification, checked against results.",
+      "constraints": {
+        "minimum": 0,
+        "maximum": 1
+      },
+      "arrow": "int8"
+    },
+    {
+      "name": "reserved_caste_2006",
+      "type": "string",
+      "description": "Seat caste reservation; NONE means no caste reservation, not missing.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "NONE",
+          "SC"
+        ]
+      }
+    },
+    {
+      "name": "reserved_raw_2006",
+      "type": "string",
+      "description": "Original reservation label in the result table, preserved without recoding.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "reserved_source_page_2006",
+      "type": "integer",
+      "description": "One-based PDF page of the pre-election reservation notification in the corresponding source report.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "source_path_2006",
+      "type": "string",
+      "description": "Original report path relative to repository root; all page references for this year refer here.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "source_sha256_2006",
+      "type": "string",
+      "description": "SHA-256 of the complete unchanged source report.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{64}"
+      }
+    },
+    {
+      "name": "reserved_woman_2011",
+      "type": "integer",
+      "description": "1 for women-only reservation; 0 for a seat open to both sexes. Taken from the pre-election notification, checked against results.",
+      "constraints": {
+        "minimum": 0,
+        "maximum": 1
+      },
+      "arrow": "int8"
+    },
+    {
+      "name": "reserved_caste_2011",
+      "type": "string",
+      "description": "Seat caste reservation; NONE means no caste reservation, not missing.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "NONE",
+          "SC"
+        ]
+      }
+    },
+    {
+      "name": "reserved_raw_2011",
+      "type": "string",
+      "description": "Original reservation label in the result table, preserved without recoding.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "reserved_source_page_2011",
+      "type": "integer",
+      "description": "One-based PDF page of the pre-election reservation notification in the corresponding source report.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "source_path_2011",
+      "type": "string",
+      "description": "Original report path relative to repository root; all page references for this year refer here.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "source_sha256_2011",
+      "type": "string",
+      "description": "SHA-256 of the complete unchanged source report.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{64}"
+      }
+    },
+    {
+      "name": "winner_2011",
+      "type": "string",
+      "description": "Printed elected-person name, not the prior winner.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "winner_source_page_2011",
+      "type": "integer",
+      "description": "One-based PDF page of elected-person table.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "winner_woman_from_honorific_2011",
+      "type": "integer",
+      "description": "1 from Smt./Ms.; 0 from Sh. in uniquely linked candidate row. No name- or quota-based inference. Null if title is not sex-specific; release requires complete outcomes.",
+      "constraints": {
+        "minimum": 0,
+        "maximum": 1
+      },
+      "arrow": "int8"
+    },
+    {
+      "name": "winner_honorific_raw_2011",
+      "type": "string",
+      "description": "Printed candidate honorific; independent of reservation label.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "Sh.",
+          "Smt.",
+          "Ms."
+        ]
+      }
+    },
+    {
+      "name": "winner_candidate_name_raw_2011",
+      "type": "string",
+      "description": "Full source candidate-name cell, retaining title and parenthetical text.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "winner_candidate_no_2011",
+      "type": "string",
+      "description": "One-based extracted candidate position within ward; not printed ballot serial.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "winner_link_basis_2011",
+      "type": "string",
+      "description": "Unique normalized name within ward, with reviewed Modgil/Moudgil alias only in ward 22.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "winner_woman_source_page_2011",
+      "type": "integer",
+      "description": "One-based PDF page of separately printed candidate honorific.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "is_eligible",
+      "type": "boolean",
+      "description": "True for 2011 seats open to both sexes, including SC seats. No restriction on winner sex.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "exclusion_reason",
+      "type": "string",
+      "description": "included or reserved_for_women_in_2011.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "included",
+          "reserved_for_women_in_2011"
+        ]
+      }
+    },
+    {
+      "name": "caste_transition",
+      "type": "string",
+      "description": "Prior-to-current seat caste stratum, e.g. SC_to_NONE. Fixed by census rankings rather than women's lottery.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "population_2001",
+      "type": "integer",
+      "description": "Total persons from the Deputy Commissioner's 2001 Census ward figures, reproduced in the 2011 report.",
+      "constraints": {
+        "required": true,
+        "minimum": 1
+      }
+    },
+    {
+      "name": "population_sc_2001",
+      "type": "integer",
+      "description": "Scheduled Caste persons from the same table.",
+      "constraints": {
+        "required": true,
+        "minimum": 0
+      }
+    },
+    {
+      "name": "population_sc_share_2001",
+      "type": "number",
+      "description": "SC persons divided by total persons; proportion, not percentage.",
+      "constraints": {
+        "required": true,
+        "minimum": 0,
+        "maximum": 1
+      }
+    },
+    {
+      "name": "population_sc_rank_2001",
+      "type": "integer",
+      "description": "Descending SC share rank, using minimum rank for ties. Top five SC in 2006, next five in 2011; wards 4 and 18 tie at rank 15.",
+      "constraints": {
+        "required": true,
+        "minimum": 1,
+        "maximum": 26
+      }
+    },
+    {
+      "name": "population_source_page",
+      "type": "integer",
+      "description": "PDF page 25 of the 2011 report, printed page 23.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          25
+        ]
+      }
+    },
+    {
+      "name": "boundary_basis",
+      "type": "string",
+      "description": "Signed administration letter confirms unchanged 2006 ward geography.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "boundary_source_page",
+      "type": "integer",
+      "description": "PDF page 15 of the 2011 report, printed page 13.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          15
+        ]
+      }
+    },
+    {
+      "name": "assignment_rule_source_page",
+      "type": "integer",
+      "description": "PDF page 20 of the 2011 report, printed page 18; scanned signed letter read visually, applies the October 27, 2006 method to 2011.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          20
+        ]
+      }
+    }
+  ]
+}

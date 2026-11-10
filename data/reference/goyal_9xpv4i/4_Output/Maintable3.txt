@@ -1,0 +1,15 @@
+
+More women secure major party nomintions where women have greater local control
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+                               femalemajcand_mod    femalemajcandper   femalesmallparty_mod femalesmallpartyper   femaleindcand_mod    femaleindcandper   
+                               Secures nomination % secures nomination  Secures nomination  % secures nomination Run as independents % run as independents
+                                      (1)                 (2)                  (3)                  (4)                  (5)                  (6)         
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Number of reserved local seats      0.102**             1.297**               0.053                0.357               -0.074               -0.664        
+                                    (0.049)             (0.576)              (0.074)              (1.038)              (0.069)              (0.803)       
+                                   p = 0.039           p = 0.025            p = 0.479            p = 0.732            p = 0.283            p = 0.409      
+                                                                                                                                                          
+Baseline mean                        0.143                1.33                0.396                3.989                0.319                3.242        
+N                                     229                 229                  229                  229                  229                  229         
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+*p < .1; **p < .05; ***p < .01                                                                                                                            

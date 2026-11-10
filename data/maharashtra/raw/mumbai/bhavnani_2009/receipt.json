@@ -1,0 +1,32 @@
+[
+  {
+    "file": "Bhavnani APSR 2009 replication code.do",
+    "url": "https://rikhilbhavnani.com/files/BhavnaniAPSR2009Replication.zip",
+    "archive_member": "Bhavnani APSR 2009 replication code.do",
+    "landing_url": "https://rikhilbhavnani.com/replication.html",
+    "original_retrieval_date": "2026-11-05",
+    "copied_at": "2026-11-10T02:40:55.445687+00:00",
+    "copied_from": "../quota_representation/data/additional_evidence/mumbai_1997_2002/Bhavnani APSR 2009 replication code.do",
+    "sha256": "6bf54345d2f4a0445c778dc444a0ea1f206210b1aef9948463414beb95965fef",
+    "bytes": 3402
+  },
+  {
+    "file": "Bhavnani APSR 2009 replication data.dta",
+    "url": "https://rikhilbhavnani.com/files/BhavnaniAPSR2009Replication.zip",
+    "archive_member": "Bhavnani APSR 2009 replication data.dta",
+    "landing_url": "https://rikhilbhavnani.com/replication.html",
+    "original_retrieval_date": "2026-11-05",
+    "copied_at": "2026-11-10T02:40:55.446265+00:00",
+    "copied_from": "../quota_representation/data/additional_evidence/mumbai_1997_2002/Bhavnani APSR 2009 replication data.dta",
+    "sha256": "051a36514e9906cd9f060068362d1e156211c44a9715da107b6d46036983f56f",
+    "bytes": 28584
+  },
+  {
+    "file": "bhavnani_2009_apsr.pdf",
+    "url": "https://rbhavnani.github.io/files/BhavnaniQuotasAPSR.pdf",
+    "copied_from": "../quota_representation/lit/papers/bhavnani_2009_apsr.pdf",
+    "copied_at": "2026-11-10T02:40:55.447000+00:00",
+    "sha256": "b03e7d7c79ea8819d7829831ac7680425b8e41834ab7ca2a1f98e4885c001b74",
+    "bytes": 153722
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "goa2015": {
+    "winner_declarations": 159,
+    "pdf_pages": 27
+  },
+  "goa2021": {
+    "winner_declarations": 93,
+    "pdf_pages": 15
+  },
+  "scanned_judgment_ocr": {
+    "pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      94,
+      95,
+      96
+    ],
+    "engine": "Tesseract eng;120dpi Poppler raster",
+    "review": "PDF5 containsquotedHighCourtoperativeorder;PDF10\u201312partyarguments;notcomplete96pagereview;PDF96confirmsreservationordersetaside"
+  },
+  "kolkata2015_gazette_visual_review": {
+    "pdf_pages": [
+      1,
+      2,
+      3
+    ],
+    "printed_pages": [
+      295,
+      296,
+      297
+    ],
+    "columns": [
+      "serial number",
+      "member name",
+      "ward number"
+    ],
+    "explicit_sex_column": false,
+    "systematic_sex_specific_honorifics": false,
+    "method": "Poppler raster and direct image inspection; no name-based sex inference",
+    "existing_source": "local_elections/data/west_bengal/raw/kolkata/reference/winner_gazette_2015.pdf"
+  }
+}

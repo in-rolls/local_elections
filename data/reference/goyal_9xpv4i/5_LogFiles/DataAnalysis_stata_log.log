@@ -1,0 +1,395 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  /Users/tg2778/Dropbox/0_Reviews_RnRs/092022_AJPS_PathwayPower/ReplicationFolder/5_LogFiles/DataAnalysis_stata_log.log
+  log type:  text
+ opened on:  19 May 2023, 19:28:01
+
+. **load dataset
+. use "1_RawData/MunicipalCouncilSurvey.dta", replace
+
+. *label variables for dataset
+. label var respond "Interviewed"
+
+. label var eciparty1 "Party"
+
+. label var winnerhighedu "Highly educated"
+
+. label var resSC "SC Reserved"
+
+. label var z2winnervoteshare "Standardized vote-share"
+
+. label var z2mov "Standardized margin of victory"
+
+. label var gender1 "Female"
+
+. label var pcname2 "National constituency"
+
+. label var identifier "Unique Identifier"
+
+. *run regression
+. reg respond gender1 i.eciparty1 i.winnerhighedu i.resSC z2winnervoteshare z2mov i.pcname2, robust
+
+Linear regression                               Number of obs     =        272
+                                                F(15, 254)        =          .
+                                                Prob > F          =          .
+                                                R-squared         =     0.0762
+                                                Root MSE          =     .47055
+
+-----------------------------------------------------------------------------------
+                  |               Robust
+          respond |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+------------------+----------------------------------------------------------------
+          gender1 |   .0246526   .0593192     0.42   0.678    -.0921675    .1414726
+                  |
+        eciparty1 |
+             BJP  |  -.0486361   .0830977    -0.59   0.559    -.2122844    .1150121
+             BSP  |  -.0235084   .3033612    -0.08   0.938     -.620932    .5739152
+             INC  |  -.0182102        .12    -0.15   0.880    -.2545319    .2181115
+             IND  |  -.3416609   .1009095    -3.39   0.001    -.5403867   -.1429351
+            INLD  |  -.5677878   .1237536    -4.59   0.000    -.8115017    -.324074
+              SP  |  -.5296478   .1294123    -4.09   0.000    -.7845057   -.2747899
+                  |
+  1.winnerhighedu |   .0008223   .0611895     0.01   0.989    -.1196811    .1213257
+          1.resSC |   .1019217   .0850835     1.20   0.232    -.0656373    .2694807
+z2winnervoteshare |   .0153135    .048219     0.32   0.751    -.0796465    .1102735
+            z2mov |   .0613124   .0485538     1.26   0.208    -.0343069    .1569317
+                  |
+          pcname2 |
+            EAST  |    .126756   .1135366     1.12   0.265     -.096837     .350349
+       NEW DELHI  |  -.0370437   .1159027    -0.32   0.750    -.2652965    .1912091
+      NORTH EAST  |   .0364551   .1074725     0.34   0.735    -.1751956    .2481057
+      NORTH WEST  |   .1777532    .110621     1.61   0.109    -.0400981    .3956045
+     SOUTH DELHI  |  -.0399305   .1073657    -0.37   0.710    -.2513708    .1715097
+      WEST DELHI  |   .2289582   .1124169     2.04   0.043     .0075702    .4503461
+                  |
+            _cons |    .247112   .1461481     1.69   0.092    -.0407044    .5349284
+-----------------------------------------------------------------------------------
+
+. estimates store m1
+
+. 
+. *display coefplot
+. coefplot (m1, msize(large)), xline(0) levels(95)  drop(_cons) ylabel(, labsize(large) notick) baselevels headings( 0.gender1={bf:Gender} 1.eciparty1={bf:Party} 0.winnerhighedu={bf:Education} 0.resSC={bf
+> :Reservation} 1.pcname2={bf:Region}, labsize(large)) ylabel(, labsize(large) notick) scale(0.7)
+
+. graph export "4_Output/FigureA1.pdf", replace
+(file /Users/tg2778/Dropbox/0_Reviews_RnRs/092022_AJPS_PathwayPower/ReplicationFolder/4_Output/FigureA1.pdf written in PDF format)
+
+. 
+. ****************************************
+. 
+. *clear all
+. import delimited "1_RawData/Municipal_TurnoutMappingResData.csv", clear 
+(67 vars, 816 obs)
+
+. 
+. **generate variables
+. encode resstatus, generate(resstatus1)
+
+. encode acname, generate(acname1)
+
+. replace eci_party1 = trim(eci_party1)
+(56 real changes made)
+
+. replace eci_party2 = trim(eci_party2)
+(107 real changes made)
+
+. encode eci_party1, generate(winnerparty)
+
+. 
+. gen indwinner = 0 
+
+. replace indwinner = 1 if eci_party1=="IND"
+(46 real changes made)
+
+. 
+. *keep if election<2017
+. gen aapwin =0
+
+. replace aapwin=1 if eci_party1=="AAP"
+(49 real changes made)
+
+. 
+. gen bjpwin =0
+
+. replace bjpwin=1 if eci_party1=="BJP"
+(483 real changes made)
+
+. 
+. gen incwin =0
+
+. replace incwin=1 if eci_party1=="INC"
+(175 real changes made)
+
+. 
+. tab aapwin
+
+     aapwin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |        767       94.00       94.00
+          1 |         49        6.00      100.00
+------------+-----------------------------------
+      Total |        816      100.00
+
+. tab bjpwin
+
+     bjpwin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |        333       40.81       40.81
+          1 |        483       59.19      100.00
+------------+-----------------------------------
+      Total |        816      100.00
+
+. tab incwin
+
+     incwin |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |        641       78.55       78.55
+          1 |        175       21.45      100.00
+------------+-----------------------------------
+      Total |        816      100.00
+
+. 
+. gen winnervote = (votes1*100)/totalvotes
+
+. gen femalecandper = female_cand/ncand
+
+. gen womenwin = 0 if gender1=="M"
+(385 missing values generated)
+
+. replace womenwin=1 if gender1=="F"
+(385 real changes made)
+
+. 
+. gen femvoter = (female_voter*100)/tot_voter
+(272 missing values generated)
+
+. 
+. ****************************************************************************************
+. ****************************************************************************************
+. ****************************************************************************************
+. 
+. keep if election==2007|election==2012
+(272 observations deleted)
+
+. keep bjpwin incwin femalecandper femvoter mov ncand femaleturnoutper winner_voteshare reswomen acname acno commonname pcno pcname mcdcorp election
+
+. 
+. 
+. reshape wide bjpwin incwin femalecandper femvoter mov ncand femaleturnoutper winner_voteshare reswomen, i(acname acno commonname pcno pcname mcdcorp) j(election)
+(note: j = 2007 2012)
+
+Data                               long   ->   wide
+-----------------------------------------------------------------------------
+Number of obs.                      544   ->     272
+Number of variables                  16   ->      24
+j variable (2 values)          election   ->   (dropped)
+xij variables:
+                                 bjpwin   ->   bjpwin2007 bjpwin2012
+                                 incwin   ->   incwin2007 incwin2012
+                          femalecandper   ->   femalecandper2007 femalecandper2012
+                               femvoter   ->   femvoter2007 femvoter2012
+                                    mov   ->   mov2007 mov2012
+                                  ncand   ->   ncand2007 ncand2012
+                       femaleturnoutper   ->   femaleturnoutper2007 femaleturnoutper2012
+                       winner_voteshare   ->   winner_voteshare2007 winner_voteshare2012
+                               reswomen   ->   reswomen2007 reswomen2012
+-----------------------------------------------------------------------------
+
+. 
+. label variable bjpwin2007 "BJP wins (L)"
+
+. label variable incwin2007 "INC wins (L)"
+
+. label variable mov2007 "Margin of victory (L)"
+
+. label variable ncand2007 "N candidates (L)"
+
+. label variable  femalecandper2007 "% female candidates (L)"
+
+. label variable  femvoter2007 "% female voters (L)"
+
+. label variable  femaleturnoutper2007 "Female turnout (L)"
+
+. label  variable winner_voteshare2007 "Winner voteshare (L)"
+
+. label  variable reswomen2007 "Reserved 2007 (L)"
+
+. 
+. reg  reswomen2012 bjpwin2007, robust 
+
+Linear regression                               Number of obs     =        272
+                                                F(1, 270)         =       1.67
+                                                Prob > F          =     0.1978
+                                                R-squared         =     0.0061
+                                                Root MSE          =     .50026
+
+------------------------------------------------------------------------------
+             |               Robust
+reswomen2012 |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+  bjpwin2007 |  -.0799458    .061929    -1.29   0.198    -.2018709    .0419793
+       _cons |   .5555556   .0479914    11.58   0.000     .4610707    .6500404
+------------------------------------------------------------------------------
+
+. estimates store m1
+
+. reg  reswomen2012 incwin2007, robust 
+
+Linear regression                               Number of obs     =        272
+                                                F(1, 270)         =       1.28
+                                                Prob > F          =     0.2588
+                                                R-squared         =     0.0047
+                                                Root MSE          =     .50062
+
+------------------------------------------------------------------------------
+             |               Robust
+reswomen2012 |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+  incwin2007 |   .0793593   .0701354     1.13   0.259    -.0587224     .217441
+       _cons |   .4878049   .0350402    13.92   0.000     .4188181    .5567916
+------------------------------------------------------------------------------
+
+. estimates store m2
+
+. reg  reswomen2012 mov2007, robust 
+
+Linear regression                               Number of obs     =        272
+                                                F(1, 270)         =       0.03
+                                                Prob > F          =     0.8552
+                                                R-squared         =     0.0001
+                                                Root MSE          =     .50176
+
+------------------------------------------------------------------------------
+             |               Robust
+reswomen2012 |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+     mov2007 |   .0005294   .0028974     0.18   0.855     -.005175    .0062337
+       _cons |   .5007081   .0474704    10.55   0.000     .4072489    .5941673
+------------------------------------------------------------------------------
+
+. estimates store m3
+
+. reg  reswomen2012 ncand2007, robust 
+
+Linear regression                               Number of obs     =        272
+                                                F(1, 270)         =       1.39
+                                                Prob > F          =     0.2392
+                                                R-squared         =     0.0050
+                                                Root MSE          =     .50054
+
+------------------------------------------------------------------------------
+             |               Robust
+reswomen2012 |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+   ncand2007 |  -.0084937   .0072003    -1.18   0.239    -.0226695    .0056822
+       _cons |   .5876055   .0746689     7.87   0.000     .4405981    .7346129
+------------------------------------------------------------------------------
+
+. estimates store m4
+
+. reg  reswomen2012 femalecandper2007, robust 
+
+Linear regression                               Number of obs     =        272
+                                                F(1, 270)         =       0.07
+                                                Prob > F          =     0.7926
+                                                R-squared         =     0.0003
+                                                Root MSE          =     .50173
+
+-----------------------------------------------------------------------------------
+                  |               Robust
+     reswomen2012 |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+------------------+----------------------------------------------------------------
+femalecandper2007 |   .0178864    .067975     0.26   0.793     -.115942    .1517149
+            _cons |   .5005074   .0400496    12.50   0.000     .4216582    .5793566
+-----------------------------------------------------------------------------------
+
+. estimates store m5
+
+. reg  reswomen2012 femvoter2007, robust 
+
+Linear regression                               Number of obs     =        272
+                                                F(1, 270)         =       0.03
+                                                Prob > F          =     0.8713
+                                                R-squared         =     0.0001
+                                                Root MSE          =     .50177
+
+------------------------------------------------------------------------------
+             |               Robust
+reswomen2012 |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+femvoter2007 |  -.0018435   .0113673    -0.16   0.871    -.0242233    .0205364
+       _cons |   .5855659   .4830773     1.21   0.227    -.3655114    1.536643
+------------------------------------------------------------------------------
+
+. estimates store m6
+
+. reg  reswomen2012 femaleturnoutper2007, robust 
+
+Linear regression                               Number of obs     =        255
+                                                F(1, 253)         =       0.21
+                                                Prob > F          =     0.6474
+                                                R-squared         =     0.0008
+                                                Root MSE          =     .50176
+
+--------------------------------------------------------------------------------------
+                     |               Robust
+        reswomen2012 |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+---------------------+----------------------------------------------------------------
+femaleturnoutper2007 |    .001837   .0040121     0.46   0.647    -.0060643    .0097383
+               _cons |   .4234241   .1741947     2.43   0.016     .0803678    .7664804
+--------------------------------------------------------------------------------------
+
+. estimates store m7
+
+. reg  reswomen2012 winner_voteshare2007, robust 
+
+Linear regression                               Number of obs     =        272
+                                                F(1, 270)         =       0.36
+                                                Prob > F          =     0.5483
+                                                R-squared         =     0.0013
+                                                Root MSE          =     .50146
+
+--------------------------------------------------------------------------------------
+                     |               Robust
+        reswomen2012 |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+---------------------+----------------------------------------------------------------
+winner_voteshare2007 |   .0016947   .0028197     0.60   0.548    -.0038567    .0072462
+               _cons |   .4370115   .1209626     3.61   0.000     .1988617    .6751613
+--------------------------------------------------------------------------------------
+
+. estimates store m8
+
+. reg  reswomen2012 reswomen2007, robust 
+
+Linear regression                               Number of obs     =        272
+                                                F(1, 270)         =       0.11
+                                                Prob > F          =     0.7355
+                                                R-squared         =     0.0004
+                                                Root MSE          =     .50169
+
+------------------------------------------------------------------------------
+             |               Robust
+reswomen2012 |      Coef.   Std. Err.      t    P>|t|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+reswomen2007 |   .0217391   .0642769     0.34   0.735    -.1048086    .1482868
+       _cons |         .5   .0374056    13.37   0.000     .4263563    .5736437
+------------------------------------------------------------------------------
+
+. estimates store m9
+
+. 
+. esttab m* using "4_Output/AppendixTable_A2.txt", replace cells(b(star fmt(3)) se(par fmt(3))) fixed wide starlevels(* 0.10 ** 0.05 *** 0.01) ///
+> legend label stats(  N r2_a, ///
+> fmt(%7.0g %7.3f))  ///
+> drop (_cons)
+(note: file 4_Output/AppendixTable_A2.txt not found)
+(output written to 4_Output/AppendixTable_A2.txt)
+
+. 
+. log close _all
+      name:  <unnamed>
+       log:  /Users/tg2778/Dropbox/0_Reviews_RnRs/092022_AJPS_PathwayPower/ReplicationFolder/5_LogFiles/DataAnalysis_stata_log.log
+  log type:  text
+ closed on:  19 May 2023, 19:28:02
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

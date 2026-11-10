@@ -1,0 +1,67 @@
+[
+  {
+    "name": "year",
+    "type": "int16",
+    "nullable": true
+  },
+  {
+    "name": "body",
+    "type": "string",
+    "nullable": true
+  },
+  {
+    "name": "ward_no",
+    "type": "int16",
+    "nullable": true
+  },
+  {
+    "name": "winner_name_raw",
+    "type": "string",
+    "nullable": true
+  },
+  {
+    "name": "party_raw",
+    "type": "string",
+    "nullable": true
+  },
+  {
+    "name": "party_source_id",
+    "type": "string",
+    "nullable": true
+  },
+  {
+    "name": "winner_woman",
+    "type": "bool",
+    "nullable": true
+  },
+  {
+    "name": "woman_reserved",
+    "type": "bool",
+    "nullable": true
+  },
+  {
+    "name": "source_path",
+    "type": "string",
+    "nullable": true
+  },
+  {
+    "name": "source_row",
+    "type": "int16",
+    "nullable": true
+  },
+  {
+    "name": "source_sha256",
+    "type": "string",
+    "nullable": true
+  },
+  {
+    "name": "source_url",
+    "type": "string",
+    "nullable": true
+  },
+  {
+    "name": "source_status",
+    "type": "string",
+    "nullable": true
+  }
+]

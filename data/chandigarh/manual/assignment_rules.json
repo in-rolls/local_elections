@@ -1,0 +1,21 @@
+{
+  "source_path": "data/chandigarh/raw/election-report-2011.pdf",
+  "source_sha256": "cf5693b2df952c44e7ee28fc06fdbbd36258b8a9a8657393c976889ecc0a5121",
+  "pdf_pages": [
+    19,
+    20
+  ],
+  "printed_pages": [
+    17,
+    18
+  ],
+  "document_date": "2011-10-14",
+  "document_number": "6/1/45/FII(8)-2011/8770",
+  "method": "Visual reading of rendered scanned signed letter; these pages lack machine-readable text",
+  "reiterated_method_date": "2006-10-27",
+  "reiterated_document_number": "6/1/45-FII(8)-2006/6678",
+  "women_rule": "Nine women-reserved wards determined through draw of lots; wards previously reserved for women excluded from the next draw until all 26 wards have been reserved in rotation.",
+  "caste_rule": "Five SC wards selected by highest 2001 Census SC population percentage; next five by next-highest percentage at the following election, continuing rotation.",
+  "sc_women_rule": "Women among the five SC wards determined by public draw of lots.",
+  "limits": "Letter prescribes the mechanism and the 2011 order confirms its draw; retained evidence does not contain ballot-level records or detailed ordering/rejection protocol for interacting draws."
+}

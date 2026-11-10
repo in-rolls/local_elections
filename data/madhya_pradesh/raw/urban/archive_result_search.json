@@ -1,0 +1,20 @@
+[
+  {
+    "urlkey": "in,gov,mplocalelection)/data/result2017/final_adhyash.pdf",
+    "timestamp": "2017-08-28 18:49:57+00:00",
+    "original": "http://mplocalelection.gov.in/Data/result2017/Final_Adhyash.pdf",
+    "mimetype": "application/pdf",
+    "statuscode": 200,
+    "digest": "TWLRKGRU6UGSVOL3B7HEPF4E26SE3TCT",
+    "length": 380046
+  },
+  {
+    "urlkey": "in,gov,mplocalelection)/data/result2017/finalparshad1.pdf",
+    "timestamp": "2022-07-02 05:54:37+00:00",
+    "original": "https://mplocalelection.gov.in/Data/result2017/finalparshad1.pdf",
+    "mimetype": "application/pdf",
+    "statuscode": 200,
+    "digest": "25VQTWW3OOV27KO2G55TAETBR4NBOM3G",
+    "length": 49010
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "url": "https://www.myneta.info/punjab_mc_2012/index.php?action=show_constituencies&state_id=1",
+  "retrieved_at": "2026-11-10T03:13:35.592309+00:00",
+  "repository": "local_elections",
+  "requested_path": "data/punjab/raw/urban_expansion/myneta_ludhiana_candidates_2012.html",
+  "response": "200\nhttps://www.myneta.info/punjab_mc_2012/index.php?action=show_constituencies&state_id=1",
+  "bytes": 29584,
+  "sha256": "5326c1c9644a8f951ebd8021fff6a85c1d15b1d5339d2f427dbf5a946d3a06a5",
+  "status": "downloaded",
+  "path": "data/punjab/raw/urban_expansion/myneta_ludhiana_candidates_2012.html"
+}

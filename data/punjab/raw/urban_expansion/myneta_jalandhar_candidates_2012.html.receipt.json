@@ -1,0 +1,11 @@
+{
+  "url": "https://www.myneta.info/punjab_mc_2012/index.php?action=show_constituencies&state_id=2",
+  "retrieved_at": "2026-11-10T03:17:18.025445+00:00",
+  "repository": "local_elections",
+  "requested_path": "data/punjab/raw/urban_expansion/myneta_jalandhar_candidates_2012.html",
+  "response": "200\nhttps://www.myneta.info/punjab_mc_2012/index.php?action=show_constituencies&state_id=2",
+  "bytes": 13793,
+  "sha256": "feea175454d9f6bbb1356426b05efbf17182e7ef385255c822f726919e3bb9fd",
+  "status": "downloaded",
+  "path": "data/punjab/raw/urban_expansion/myneta_jalandhar_candidates_2012.html"
+}

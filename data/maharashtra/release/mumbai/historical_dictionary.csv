@@ -1,0 +1,38 @@
+file,field,dtype,description,missing
+bhavnani_comparison_1997_2002.parquet,body,string,Municipal corporation name; no cross-election geographic identity implied.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,year,int64,Outcome election year.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,prior_year,int64,Prior reservation election year.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,ward_no,string,Ward identifier in the outcome election geography; not a longitudinal ID.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,reserved_woman,Int8,"Outcome office reserved for women, independently of winner sex; 1 yes, 0 no.",Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,reserved_raw,string,Unmodified source reservation code or phrase; numeric Stata value rendered as text.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,prior_reserved_woman,Int8,Author controltreat within the selected open-office comparison; other rows null.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,controltreat_raw,Float64,Original numeric Stata treatment classification including missing values.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,winner_woman,Int8,"Independently recorded winner sex: 1 female, 0 male, null unavailable or unlinked.",Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,winner_woman_raw,string,Adopted source sex value; no imputation from reservation or names.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,groups_raw,string,Original groups variable for article Figure 1; source empty strings preserved.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,is_eligible,bool,Nonmissing author controltreat; selected open-office comparison only.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,source_path,string,Repository-relative original source file.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,reserved_basis,string,Source variable supplying outcome reservation.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,prior_reserved_basis,string,Source and sample restriction supplying prior reservation.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,winner_woman_basis,string,"Source of recorded sex, separate from identity-matching method.",Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,geographic_basis,string,Author's sample restriction; not independent validation of a general ward bridge.,Parquet null; raw source empty strings preserved where present
+bhavnani_comparison_1997_2002.parquet,exclusion_reason,string,Empty if eligible; otherwise current women reservation or unclassified treatment.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,body,string,Municipal corporation name; no cross-election geographic identity implied.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,year,int64,Outcome election year.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,ward_no,string,Ward identifier in the outcome election geography; not a longitudinal ID.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,winner,string,Winner name retained from existing election-result parser; blank names become null.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,winner_basis,string,Existing result parser's winner identification method.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,winner_source_path,string,Repository-relative election winner source.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,profile_year,int64,Later observation year of the research profile; not election year.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,profile_name_raw,string,Unmodified name in the research profile.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,profile_woman_raw,string,"Unmodified sex in the research profile, including unlinked values and empty strings.",Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,profile_source_path,string,Repository-relative research profile source.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,identity_match,bool,Exact multiset of ASCII name tokens matches within the same ward; nonempty names required.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,identity_match_method,string,"Deterministic identity rule, not sex inference from a name.",Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,winner_woman,Int8,"Independently recorded winner sex: 1 female, 0 male, null unavailable or unlinked.",Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,winner_woman_raw,string,Adopted source sex value; no imputation from reservation or names.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,winner_woman_basis,string,"Source of recorded sex, separate from identity-matching method.",Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,reserved_woman,Int8,"Outcome office reserved for women, independently of winner sex; 1 yes, 0 no.",Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,reserved_caste,string,"Outcome reservation caste: NONE, SC, ST, BC; BC standardizes OBC.",Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,reserved_raw,string,Unmodified source reservation code or phrase; numeric Stata value rendered as text.,Parquet null; raw source empty strings preserved where present
+winner_sex_source_audit_2012_2017.parquet,reserved_source_path,string,Repository-relative reservation source; ward1722012 uses official correction.,Parquet null; raw source empty strings preserved where present

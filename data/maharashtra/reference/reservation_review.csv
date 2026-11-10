@@ -1,0 +1,2 @@
+year,ward_no,original_source,original_label,selected_label,source_path,source_page,source_sha256,decision
+2012,172,data/maharashtra/raw/mumbai/BMC-2007_raw.xlsx,Schedule Caste Women,Schedule Caste,data/maharashtra/raw/mumbai/source_review/f_north_2012.pdf,17,e9fcdac379218eacf2ed0e8534bc47e184455c396d0b60ef832a57c17a3029bf,Official bilingual ward description reserves SC without a women-only restriction; deposit and contemporary reporting agree.

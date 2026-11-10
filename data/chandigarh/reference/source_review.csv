@@ -1,0 +1,9 @@
+election_year,ward_no,issue,source_observation,selected_handling,source_path_relative_to_chandigarh,pdf_pages
+2006,10,winner_vintage,Final appendix table printed236 names Bhupinder Singh Badheri,"Use Gurnam Singh, contemporaneous2006winner; later replacement is a2009by-election",raw/election-report-2006.pdf,114;242
+2006,7,deferred_election,General poll countermanded; deferred result caption calls it bye-election,"Retain2006cohort and actual poll2007-01-14; winner Harphool Chand,2808votes",raw/election-report-2006.pdf,6;156;157
+2006,7,notification_date,Deferred-result heading says19December2006 but body says held14January2007,Use actual poll date stated in body and detailed result; do not infer notice publication date,raw/election-report-2006.pdf,156;157
+2006,3,winner_spelling,Pradeep Chabra in result summary; Pradeep Chhabra in winner table,Selected winner-table spelling; exact ward-level alias reviewed,raw/election-report-2006.pdf,112;114
+2011,all,table_heading,Winner table header says2006,"Use2011event established by2011result summary and datedDecember19,2011notification",raw/election-report-2011.pdf,118;120;121
+2011,22,winner_spelling,Davesh Modgil in winner list; Davesh Moudgil in candidate list,Explicit same-ward alias links winner to printed Sh. title,raw/election-report-2011.pdf,103;118;120
+2011,4,candidate_sex,Dr. Meena Kumari Sharma has non-sex-specific title; ward count says4female/0male,Retain individual sex null; retain printed female count4 independently,raw/election-report-2011.pdf,100
+2021,7,text_overlay,Digital-signature text splits ward number from row in pdftotext output,Carry pending printed ward identifier to next reservation row; validate all35unique wards,raw/winner_gazette_2021.pdf,1

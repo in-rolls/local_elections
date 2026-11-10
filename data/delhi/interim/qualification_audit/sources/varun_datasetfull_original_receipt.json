@@ -1,0 +1,41 @@
+{
+  "url": "https://dataverse.harvard.edu/api/access/datafile/3645819?format=original",
+  "dataset": "doi:10.7910/DVN/0QOVCH",
+  "dataset_version": "1.1",
+  "path": "varun_datasetfull.dta",
+  "fetched_at": "2026-11-09T00:46:54.108500+00:00",
+  "sha256": "3a6fe9a81ee1d9b7d2d029ba19012fcd95b451068ec1209e2e3aa77103e2935e",
+  "bytes": 6806592,
+  "dataverse_file_metadata": {
+    "label": "datasetfull.tab",
+    "restricted": false,
+    "version": 1,
+    "datasetVersionId": 274110,
+    "dataFile": {
+      "id": 3645819,
+      "persistentId": "doi:10.7910/DVN/0QOVCH/C3IIOC",
+      "pidURL": "https://doi.org/10.7910/DVN/0QOVCH/C3IIOC",
+      "filename": "datasetfull.tab",
+      "contentType": "text/tab-separated-values",
+      "friendlyType": "Tab-Delimited",
+      "filesize": 3936839,
+      "storageIdentifier": "s3://dvn-cloud:16f155a84e4-543b690955d9",
+      "originalFileFormat": "application/x-stata-14",
+      "originalFormatLabel": "Stata 14 Binary",
+      "originalFileSize": 6806592,
+      "originalFileName": "datasetfull.dta",
+      "UNF": "UNF:6:0Zon5G7hqSg0yAK1rb9mPg==",
+      "rootDataFileId": -1,
+      "md5": "3cbd6b3ded008361886cf60c59cdab88",
+      "checksum": {
+        "type": "MD5",
+        "value": "3cbd6b3ded008361886cf60c59cdab88"
+      },
+      "tabularData": true,
+      "creationDate": "2019-12-17",
+      "publicationDate": "2020-01-09",
+      "lastUpdateTime": "2021-12-06T15:39:25Z",
+      "fileAccessRequest": false
+    }
+  }
+}

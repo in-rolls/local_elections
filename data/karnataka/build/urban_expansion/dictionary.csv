@@ -1,0 +1,41 @@
+column,arrow_type,nullable,description
+body,string,False,Municipal body; Bengaluru throughout.
+ward_no,string,False,Ward identifier on the unchanged 2009 geography.
+prior_year,int32,False,"Prior election year, 2010."
+year,int32,False,"Outcome election year, 2015."
+reserved_woman_2010,int8,False,"Women-only seat restriction, read from the reservation cell: 1/0. 2010 winner gazette; 2015 reinstated pre-election notification."
+reserved_caste_2010,string,False,"Seat caste restriction: NONE, BC_A, BC_B, SC, ST. NONE is an open caste category, not missing."
+reserved_caste_local_2010,string,False,Kannada caste label; whitespace and hyphenation normalized.
+reserved_source_path_2010,string,False,Reservation source path relative to this repository.
+reserved_source_sha256_2010,string,False,SHA-256 of the retained reservation source.
+reserved_source_page_2010,int32,False,One-based physical PDF page of reservation cell.
+reserved_woman_opencity_2010,int8,False,"Secondary paired-roster women flag, preserved for comparison only."
+reserved_caste_opencity_2010,string,False,Secondary paired-roster caste category; not canonical assignment.
+reserved_woman_source_conflict_2010,bool,False,Primary reservation cell and secondary paired-roster flag differ.
+reserved_caste_source_conflict_2010,bool,False,Primary reservation cell and secondary paired-roster caste differ.
+reserved_woman_2015,int8,False,"Women-only seat restriction, read from the reservation cell: 1/0. 2010 winner gazette; 2015 reinstated pre-election notification."
+reserved_caste_2015,string,False,"Seat caste restriction: NONE, BC_A, BC_B, SC, ST. NONE is an open caste category, not missing."
+reserved_caste_local_2015,string,False,Kannada caste label; whitespace and hyphenation normalized.
+reserved_source_path_2015,string,False,Reservation source path relative to this repository.
+reserved_source_sha256_2015,string,False,SHA-256 of the retained reservation source.
+reserved_source_page_2015,int32,False,One-based physical PDF page of reservation cell.
+reserved_woman_opencity_2015,int8,False,"Secondary paired-roster women flag, preserved for comparison only."
+reserved_caste_opencity_2015,string,False,Secondary paired-roster caste category; not canonical assignment.
+reserved_woman_source_conflict_2015,bool,False,Primary reservation cell and secondary paired-roster flag differ.
+reserved_caste_source_conflict_2015,bool,False,Primary reservation cell and secondary paired-roster caste differ.
+winner_latin_2015,string,False,Winner name as printed in the complete OpenCity election return.
+winner_latin_method_2015,string,False,source: printed Latin name.
+winner_honorific_raw_2015,string,False,Visually reviewed title in the winner gazette; Dr. is not sex-specific.
+winner_woman_from_honorific_2015,int8,True,"Unadjudicated gazette-title reading: Shri=0, Shrimati/Kumari=1, Dr=null. Source conflicts remain visible here; use reconciled outcome below."
+winner_woman_opencity_2015,int8,False,"Explicit election-result Gender column normalized F=1, M=0."
+winner_woman_2015,int8,True,"Reconciled recorded outcome: explicit Gender corroborated by title, or explicit Gender with non-sex-specific title. Conflicts are null. No inference from name or reservation."
+winner_woman_basis_2015,string,False,Sources supporting the reconciled outcome or unresolved conflict.
+winner_woman_source_conflict_2015,bool,False,Sex-specific gazette title conflicts with explicit secondary Gender.
+winner_source_path_2015,string,False,"Original winner-gazette path, relative to this repository."
+winner_source_sha256_2015,string,False,SHA-256 of the complete retained winner gazette.
+winner_source_page_2015,int32,False,One-based physical PDF page of winner title and reservation row.
+reserved_caste_from_results_2015,string,False,Caste label printed in winner gazette; may disagree with notification.
+reserved_caste_result_conflict_2015,bool,False,2015 winner-gazette caste differs from the pre-election notification.
+is_eligible,bool,False,Later ward is not reserved for women.
+has_observed_outcome,bool,False,"Reconciled outcome is nonmissing, regardless of eligibility."
+boundary_basis,string,False,2015 notification references the 15 July 2009 delimitation schedule.

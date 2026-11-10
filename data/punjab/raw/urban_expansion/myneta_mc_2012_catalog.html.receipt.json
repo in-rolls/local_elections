@@ -1,0 +1,11 @@
+{
+  "url": "https://www.myneta.info/punjab_mc_2012/",
+  "retrieved_at": "2026-11-10T03:12:40.004705+00:00",
+  "repository": "local_elections",
+  "requested_path": "data/punjab/raw/urban_expansion/myneta_mc_2012_catalog.html",
+  "response": "200\nhttps://www.myneta.info/punjab_mc_2012/",
+  "bytes": 31829,
+  "sha256": "eca95a8675185e703adabbc962f33fbc0fbf54d2789680d1f8cc788f1ed54bf2",
+  "status": "downloaded",
+  "path": "data/punjab/raw/urban_expansion/myneta_mc_2012_catalog.html"
+}

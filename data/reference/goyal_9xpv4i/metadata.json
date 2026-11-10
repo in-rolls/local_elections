@@ -1,0 +1,1807 @@
+{
+  "status": "OK",
+  "data": {
+    "id": 7108308,
+    "identifier": "DVN/9XPV4I",
+    "persistentUrl": "https://doi.org/10.7910/DVN/9XPV4I",
+    "protocol": "doi",
+    "authority": "10.7910",
+    "separator": "/",
+    "publisher": "Harvard Dataverse",
+    "publicationDate": "2023-10-11",
+    "image_url": "https://dataverse.harvard.edu/api/datasets/7108308/logo",
+    "storageIdentifier": "s3://10.7910/DVN/9XPV4I",
+    "templateId": 3,
+    "effectiveDatasetFileCountLimit": 1000,
+    "datasetFileUploadsAvailable": 947,
+    "datasetType": "dataset",
+    "locks": [],
+    "latestVersion": {
+      "id": 345234,
+      "datasetId": 7108308,
+      "datasetPersistentId": "doi:10.7910/DVN/9XPV4I",
+      "datasetType": "dataset",
+      "storageIdentifier": "s3://10.7910/DVN/9XPV4I",
+      "versionNumber": 1,
+      "internalVersionNumber": 50,
+      "versionMinorNumber": 0,
+      "versionState": "RELEASED",
+      "latestVersionPublishingState": "RELEASED",
+      "deaccessionLink": "",
+      "UNF": "UNF:6:8IwLP+cr33iSX9sdT6wpXA==",
+      "lastUpdateTime": "2023-10-11T13:45:13Z",
+      "releaseTime": "2023-10-11T13:45:13Z",
+      "createTime": "2023-05-20T00:49:08Z",
+      "publicationDate": "2023-10-11",
+      "citationDate": "2023-10-11",
+      "effectiveDatasetFileCountLimit": 1000,
+      "datasetFileUploadsAvailable": 947,
+      "termsOfUse": "This dataset is made available with limited information on how it can be used. You may wish to communicate with the Contact(s) specified before use.",
+      "disclaimer": "The <i>American Journal of Political Science</i> and the Odum Institute for Research in Social Science are not responsible for the accuracy or quality of data uploaded within the <i>AJPS</i> Dataverse, for the use of those data, or for interpretations or conclusions based on their use.",
+      "fileAccessRequest": false,
+      "metadataBlocks": {
+        "citation": {
+          "displayName": "Citation Metadata",
+          "name": "citation",
+          "fields": [
+            {
+              "typeName": "title",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "Replication Data for: Local Political Representation as a Pathway to Power: A Natural Experiment in India"
+            },
+            {
+              "typeName": "author",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "authorName": {
+                    "typeName": "authorName",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Goyal, Tanushree"
+                  },
+                  "authorAffiliation": {
+                    "typeName": "authorAffiliation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Princeton University"
+                  },
+                  "authorIdentifierScheme": {
+                    "typeName": "authorIdentifierScheme",
+                    "multiple": false,
+                    "typeClass": "controlledVocabulary",
+                    "value": "ORCID"
+                  },
+                  "authorIdentifier": {
+                    "typeName": "authorIdentifier",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "0000-0002-3436-3542"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "datasetContact",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "datasetContactName": {
+                    "typeName": "datasetContactName",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Goyal, Tanushree"
+                  },
+                  "datasetContactAffiliation": {
+                    "typeName": "datasetContactAffiliation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Princeton University"
+                  },
+                  "datasetContactEmail": {
+                    "typeName": "datasetContactEmail",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "TGOYAL@PRINCETON.EDU"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "dsDescription",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "dsDescriptionValue": {
+                    "typeName": "dsDescriptionValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "What drives the career advancement of women politicians in opaque selection environments where party activists hold sway? I argue that women\u2019s higher presence in local politics not only improves party elite responsiveness to greater talent supply (topdown mechanism), but also expands women\u2019s capacity to organize grassroots activist networks to influence party nomination decisions (bottom-up mechanism). Using the natural experiment of gender quotas in Delhi, which cause as-if-random variation in the number of local reserved seats within state constituencies, I estimate a novel effect of gender quotas. In state constituencies with women\u2019s higher presence in local politics, local women politicians are more likely to be promoted, and senior women politicians are more likely to get renominated. Qualitative evidence shows how women leverage grassroots networks and forge informal connections across party hierarchies. By highlighting women\u2019s strategic political networks and grassroots organizing, I emphasize its crucial role in shaping their political careers."
+                  },
+                  "dsDescriptionDate": {
+                    "typeName": "dsDescriptionDate",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2023-05-19"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "subject",
+              "multiple": true,
+              "typeClass": "controlledVocabulary",
+              "value": [
+                "Social Sciences"
+              ]
+            },
+            {
+              "typeName": "keyword",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "keywordValue": {
+                    "typeName": "keywordValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Political career development"
+                  }
+                },
+                {
+                  "keywordValue": {
+                    "typeName": "keywordValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Gender"
+                  }
+                },
+                {
+                  "keywordValue": {
+                    "typeName": "keywordValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Quotas"
+                  }
+                },
+                {
+                  "keywordValue": {
+                    "typeName": "keywordValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Natural experiments"
+                  }
+                },
+                {
+                  "keywordValue": {
+                    "typeName": "keywordValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Clientelism"
+                  }
+                },
+                {
+                  "keywordValue": {
+                    "typeName": "keywordValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Political activists"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "publication",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "publicationCitation": {
+                    "typeName": "publicationCitation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Goyal, Tanushree. [date]. \u201cLocal Political Representation as a Pathway to Power: A Natural Experiment in India.\u201d <i>American Journal of Political Science</i> Forthcoming. <a href=\"http://ajps.org/\" target=\"_blank\">http://ajps.org/</a>"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "notesText",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "This dataset underwent an independent verification process that replicated the tables and figures in the primary article. For the supplementary materials, verification was performed solely for the successful execution of code. The verification process was carried out by the Odum Institute for Research in Social Science at the University of North Carolina at Chapel Hill. \n<br></br>\nThe associated article has been awarded Open Materials and Open Data Badges. Learn more about the Open Practice Badges from the <a href=\"https://osf.io/tvyxz/wiki/home/\" target=\"_blank\">Center for Open Science</a>.<br></br>\n<img src=\"https://odum.unc.edu/files/2020/03/OpenData_PR-1.png\" alt=\"Open Data Badge\" height=\"77\" width=\"80\">\n<img src=\"https://odum.unc.edu/files/2020/03/OpenMaterials_PR-1.png\" alt=\"Open Materials Badge\" height=\"77\" width=\"80\">"
+            },
+            {
+              "typeName": "producer",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "producerName": {
+                    "typeName": "producerName",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Goyal, Tanushree"
+                  },
+                  "producerAffiliation": {
+                    "typeName": "producerAffiliation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Princeton University"
+                  },
+                  "producerURL": {
+                    "typeName": "producerURL",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "https://www.tanushreegoyal.com"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "depositor",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "Goyal, Tanushree"
+            },
+            {
+              "typeName": "dateOfDeposit",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "2023-05-19"
+            },
+            {
+              "typeName": "dataSources",
+              "multiple": true,
+              "typeClass": "primitive",
+              "value": [
+                "Ananay Agarwal, Neelesh Agrawal, Saloni Bhogale, Sudheendra Hangal, Francesca Refsum Jensenius, Mohit Kumar, Chinmay Narayan, Basim U Nissa, Priyamvada Trivedi, and Gilles Verniers. 2021. \u00d2TCPD Indian Elections Data v2.0\", Trivedi Centre for Political Data, Ashoka University.\n<br></br>\nState Election Commission, NCT of Delhi. Municipal-level candidacy data, electoral data, and candidate affidavit data. https://sec.delhi.gov.in\n<br></br>\nState Election Commission, NCT of Delhi. Ward level data on turnout, reservations, and mapping with AE. https://sec.delhi.gov.in. \n<br></br>\n\"Replication Data for: Do Gender Quotas Hurt Less Privileged Groups? Evidence From India\", https://doi.org/10.7910/DVN/0QOVCH, Harvard Dataverse, V1, UNF:6:PoZdwNrbkenQ3kT5kJy3BQ== [fileUNF]\n<br></br>\nSpatial Data of Municipalities (Maps) Project. [http://projects.datameet.org/Municipal_Spatial_Data/] by Data{Meet}."
+              ]
+            }
+          ]
+        },
+        "geospatial": {
+          "displayName": "Geospatial Metadata",
+          "name": "geospatial",
+          "fields": [
+            {
+              "typeName": "geographicCoverage",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "country": {
+                    "typeName": "country",
+                    "multiple": false,
+                    "typeClass": "controlledVocabulary",
+                    "value": "India"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "journal": {
+          "displayName": "Journal Metadata",
+          "name": "journal",
+          "fields": [
+            {
+              "typeName": "journalVolumeIssue",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "journalVolume": {
+                    "typeName": "journalVolume",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Forthcoming"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "files": [
+        {
+          "label": "acdata.RData",
+          "restricted": false,
+          "directoryLabel": "2_ProcessedData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423679,
+            "persistentId": "",
+            "filename": "acdata.RData",
+            "contentType": "application/gzip",
+            "friendlyType": "Gzip Archive",
+            "filesize": 31438,
+            "storageIdentifier": "s3://dvn-cloud:18ab948139f-828e8484ce90",
+            "rootDataFileId": -1,
+            "md5": "3ae2b8f53ded38bc6e440a9c14340895",
+            "checksum": {
+              "type": "MD5",
+              "value": "3ae2b8f53ded38bc6e440a9c14340895"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "2_ProcessedData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "acmajor.RData",
+          "restricted": false,
+          "directoryLabel": "2_ProcessedData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423644,
+            "persistentId": "",
+            "filename": "acmajor.RData",
+            "contentType": "application/x-rlang-transport",
+            "friendlyType": "R Data",
+            "filesize": 5864,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813e4-10b07cf6aa54",
+            "rootDataFileId": -1,
+            "md5": "8d53748ea4656bf5a33dd2830b665450",
+            "checksum": {
+              "type": "MD5",
+              "value": "8d53748ea4656bf5a33dd2830b665450"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "2_ProcessedData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "ActivistSurveyData.RData",
+          "restricted": false,
+          "directoryLabel": "1_RawData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423662,
+            "persistentId": "",
+            "filename": "ActivistSurveyData.RData",
+            "contentType": "application/x-rlang-transport",
+            "friendlyType": "R Data",
+            "filesize": 32446,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813de-599f8d2af6ff",
+            "rootDataFileId": -1,
+            "md5": "49ab65e7ca8bac6170a4a20f54d2ae10",
+            "checksum": {
+              "type": "MD5",
+              "value": "49ab65e7ca8bac6170a4a20f54d2ae10"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "1_RawData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AE_WomenAffidavits.xls",
+          "restricted": false,
+          "directoryLabel": "1_RawData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423640,
+            "persistentId": "",
+            "filename": "AE_WomenAffidavits.xls",
+            "contentType": "application/vnd.ms-excel",
+            "friendlyType": "MS Excel Spreadsheet",
+            "filesize": 182784,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481307-4e986dfc617b",
+            "rootDataFileId": -1,
+            "md5": "09a0ac554d56805d208d63725433131f",
+            "checksum": {
+              "type": "MD5",
+              "value": "09a0ac554d56805d208d63725433131f"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "1_RawData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AE_WomenCasteBackground.xlsx",
+          "restricted": false,
+          "directoryLabel": "1_RawData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423647,
+            "persistentId": "",
+            "filename": "AE_WomenCasteBackground.xlsx",
+            "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "friendlyType": "MS Excel Spreadsheet",
+            "filesize": 4603482,
+            "storageIdentifier": "s3://dvn-cloud:18ab94812da-539605fa1d8e",
+            "rootDataFileId": -1,
+            "md5": "034d30afa5d009dd5d442e35fc43327b",
+            "checksum": {
+              "type": "MD5",
+              "value": "034d30afa5d009dd5d442e35fc43327b"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "1_RawData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AE_WomenManualMatch.xls",
+          "restricted": false,
+          "directoryLabel": "1_RawData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423657,
+            "persistentId": "",
+            "filename": "AE_WomenManualMatch.xls",
+            "contentType": "application/vnd.ms-excel",
+            "friendlyType": "MS Excel Spreadsheet",
+            "filesize": 3644928,
+            "storageIdentifier": "s3://dvn-cloud:18ab94812ab-48110c4a453b",
+            "rootDataFileId": -1,
+            "md5": "02bd56f07bf0ab71a256cc8be65161a3",
+            "checksum": {
+              "type": "MD5",
+              "value": "02bd56f07bf0ab71a256cc8be65161a3"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "1_RawData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A10.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423646,
+            "persistentId": "",
+            "filename": "AppendixTable_A10.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 1683,
+            "storageIdentifier": "s3://dvn-cloud:18ab948142b-d18e17b50280",
+            "rootDataFileId": -1,
+            "md5": "c1afa7c718419acc251cf58b0c138d98",
+            "checksum": {
+              "type": "MD5",
+              "value": "c1afa7c718419acc251cf58b0c138d98"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A11.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423641,
+            "persistentId": "",
+            "filename": "AppendixTable_A11.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 1588,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481407-29cd1de7929a",
+            "rootDataFileId": -1,
+            "md5": "c533e1e4152f90571651a8e0188878b2",
+            "checksum": {
+              "type": "MD5",
+              "value": "c533e1e4152f90571651a8e0188878b2"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A12.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423677,
+            "persistentId": "",
+            "filename": "AppendixTable_A12.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 2631,
+            "storageIdentifier": "s3://dvn-cloud:18ab948140e-be31e48cb4f6",
+            "rootDataFileId": -1,
+            "md5": "ca035843b9bc4cbb4fb2deccf9759f7e",
+            "checksum": {
+              "type": "MD5",
+              "value": "ca035843b9bc4cbb4fb2deccf9759f7e"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A13.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423682,
+            "persistentId": "",
+            "filename": "AppendixTable_A13.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 2151,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481415-9dc17b6cbc08",
+            "rootDataFileId": -1,
+            "md5": "b3b2737af2ab993ad1e2abfb6a9f1223",
+            "checksum": {
+              "type": "MD5",
+              "value": "b3b2737af2ab993ad1e2abfb6a9f1223"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A14.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423651,
+            "persistentId": "",
+            "filename": "AppendixTable_A14.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 2098,
+            "storageIdentifier": "s3://dvn-cloud:18ab948141c-c496ab2602d4",
+            "rootDataFileId": -1,
+            "md5": "46e2c90cf8e95a062abdc6fea3703f92",
+            "checksum": {
+              "type": "MD5",
+              "value": "46e2c90cf8e95a062abdc6fea3703f92"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A15.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423675,
+            "persistentId": "",
+            "filename": "AppendixTable_A15.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 2012,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813f1-c0df04e9f383",
+            "rootDataFileId": -1,
+            "md5": "fda52541ccee8a9b11f62e099f5459b4",
+            "checksum": {
+              "type": "MD5",
+              "value": "fda52541ccee8a9b11f62e099f5459b4"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A16.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423660,
+            "persistentId": "",
+            "filename": "AppendixTable_A16.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 1314,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813f9-f7ebf6298c16",
+            "rootDataFileId": -1,
+            "md5": "571c678e54c0047564533d63ca531762",
+            "checksum": {
+              "type": "MD5",
+              "value": "571c678e54c0047564533d63ca531762"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A17.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423638,
+            "persistentId": "",
+            "filename": "AppendixTable_A17.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 1886,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481400-ae954f0632c6",
+            "rootDataFileId": -1,
+            "md5": "6c91958d6b800946820a4810e52254e0",
+            "checksum": {
+              "type": "MD5",
+              "value": "6c91958d6b800946820a4810e52254e0"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A2.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423674,
+            "persistentId": "",
+            "filename": "AppendixTable_A2.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 4487,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481424-1b2487f025c1",
+            "rootDataFileId": -1,
+            "md5": "9b82823245d3a8c91ac1523a9441756e",
+            "checksum": {
+              "type": "MD5",
+              "value": "9b82823245d3a8c91ac1523a9441756e"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A4.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423633,
+            "persistentId": "",
+            "filename": "AppendixTable_A4.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 1395,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813ae-66681ce92043",
+            "rootDataFileId": -1,
+            "md5": "9f9aa15434a627f377e6b996947e1f7e",
+            "checksum": {
+              "type": "MD5",
+              "value": "9f9aa15434a627f377e6b996947e1f7e"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A5.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423635,
+            "persistentId": "",
+            "filename": "AppendixTable_A5.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 977,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813a6-1560e68d1f81",
+            "rootDataFileId": -1,
+            "md5": "a5495971826244fc856c4ce2af17ae84",
+            "checksum": {
+              "type": "MD5",
+              "value": "a5495971826244fc856c4ce2af17ae84"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A6.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423636,
+            "persistentId": "",
+            "filename": "AppendixTable_A6.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 5809,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813bc-ebfc3e7fb0d8",
+            "rootDataFileId": -1,
+            "md5": "913618c2ed83e6a7aeb692ed31c44f07",
+            "checksum": {
+              "type": "MD5",
+              "value": "913618c2ed83e6a7aeb692ed31c44f07"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A7.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423655,
+            "persistentId": "",
+            "filename": "AppendixTable_A7.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 3949,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813b6-37b329f97439",
+            "rootDataFileId": -1,
+            "md5": "6340b23bea5bae78a1d8ca79657b5623",
+            "checksum": {
+              "type": "MD5",
+              "value": "6340b23bea5bae78a1d8ca79657b5623"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A8.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423669,
+            "persistentId": "",
+            "filename": "AppendixTable_A8.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 2096,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813d2-2457d5ebf0f5",
+            "rootDataFileId": -1,
+            "md5": "31176b12be705803eb2be0c69c1498d6",
+            "checksum": {
+              "type": "MD5",
+              "value": "31176b12be705803eb2be0c69c1498d6"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "AppendixTable_A9.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423654,
+            "persistentId": "",
+            "filename": "AppendixTable_A9.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 1728,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813c5-cca3206d8b1a",
+            "rootDataFileId": -1,
+            "md5": "81141ac623ce564b3cce07a85e68eda1",
+            "checksum": {
+              "type": "MD5",
+              "value": "81141ac623ce564b3cce07a85e68eda1"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "candcaste_final.RData",
+          "restricted": false,
+          "directoryLabel": "2_ProcessedData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423643,
+            "persistentId": "",
+            "filename": "candcaste_final.RData",
+            "contentType": "application/gzip",
+            "friendlyType": "Gzip Archive",
+            "filesize": 575936,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481273-fe0fde2c0c67",
+            "rootDataFileId": -1,
+            "md5": "6c549b8bac928ba88573b67364fd9e5b",
+            "checksum": {
+              "type": "MD5",
+              "value": "6c549b8bac928ba88573b67364fd9e5b"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "2_ProcessedData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "CandidateElectionData_original.xlsx",
+          "restricted": false,
+          "directoryLabel": "1_RawData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423671,
+            "persistentId": "",
+            "filename": "CandidateElectionData_original.xlsx",
+            "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "friendlyType": "MS Excel Spreadsheet",
+            "filesize": 1396349,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481282-a018c38a6c9d",
+            "rootDataFileId": -1,
+            "md5": "829a09bf4da57f19f110125b64c01dbd",
+            "checksum": {
+              "type": "MD5",
+              "value": "829a09bf4da57f19f110125b64c01dbd"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "1_RawData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "CasteData_Lee2020_AJPS.xlsx",
+          "restricted": false,
+          "directoryLabel": "1_RawData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423648,
+            "persistentId": "",
+            "filename": "CasteData_Lee2020_AJPS.xlsx",
+            "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "friendlyType": "MS Excel Spreadsheet",
+            "filesize": 238123,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481332-c8e4a533aa7d",
+            "rootDataFileId": -1,
+            "md5": "9c0c09883cca0cab94c469e388c48cb3",
+            "checksum": {
+              "type": "MD5",
+              "value": "9c0c09883cca0cab94c469e388c48cb3"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "1_RawData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "codebook.pdf",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423656,
+            "persistentId": "",
+            "filename": "codebook.pdf",
+            "contentType": "application/pdf",
+            "friendlyType": "Adobe PDF",
+            "filesize": 87330,
+            "storageIdentifier": "s3://dvn-cloud:18ab94812c2-41d9a0d1f66d",
+            "rootDataFileId": -1,
+            "md5": "dff1dbb3a7711179c76a9229d791b262",
+            "checksum": {
+              "type": "MD5",
+              "value": "dff1dbb3a7711179c76a9229d791b262"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "codebook_TPCD_GE_Delhi_2020-2-23.pdf",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423634,
+            "persistentId": "",
+            "filename": "codebook_TPCD_GE_Delhi_2020-2-23.pdf",
+            "contentType": "application/pdf",
+            "friendlyType": "Adobe PDF",
+            "filesize": 451781,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481340-cef26cbc73ed",
+            "rootDataFileId": -1,
+            "md5": "376f09cdfd3f49dffd6ffe16bd2870ff",
+            "checksum": {
+              "type": "MD5",
+              "value": "376f09cdfd3f49dffd6ffe16bd2870ff"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "DataAnalysis.log",
+          "restricted": false,
+          "directoryLabel": "5_LogFiles/log",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423678,
+            "persistentId": "",
+            "filename": "DataAnalysis.log",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 1122,
+            "storageIdentifier": "s3://dvn-cloud:18ab948131c-e312e9b42ac5",
+            "rootDataFileId": -1,
+            "md5": "777d2937678c535275366cefc71ffd0c",
+            "checksum": {
+              "type": "MD5",
+              "value": "777d2937678c535275366cefc71ffd0c"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "5_LogFiles/log",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "DataAnalysis.R",
+          "restricted": false,
+          "directoryLabel": "3_Scripts",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423642,
+            "persistentId": "",
+            "filename": "DataAnalysis.R",
+            "contentType": "type/x-r-syntax",
+            "friendlyType": "R Syntax",
+            "filesize": 54057,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481311-7bbe17f94835",
+            "rootDataFileId": -1,
+            "md5": "45396c54017fc173a97dde6cd8a31bad",
+            "checksum": {
+              "type": "MD5",
+              "value": "45396c54017fc173a97dde6cd8a31bad"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "3_Scripts",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "DataAnalysis_stata.do",
+          "restricted": false,
+          "directoryLabel": "3_Scripts",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423632,
+            "persistentId": "",
+            "filename": "DataAnalysis_stata.do",
+            "contentType": "application/x-stata-syntax",
+            "friendlyType": "Stata Syntax",
+            "filesize": 3859,
+            "storageIdentifier": "s3://dvn-cloud:18ab94812f9-6007fae04f10",
+            "rootDataFileId": -1,
+            "md5": "6644f23d37be940ba2b67cdca57ba4c5",
+            "checksum": {
+              "type": "MD5",
+              "value": "6644f23d37be940ba2b67cdca57ba4c5"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "3_Scripts",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "DataAnalysis_stata_log.log",
+          "restricted": false,
+          "directoryLabel": "5_LogFiles",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423658,
+            "persistentId": "",
+            "filename": "DataAnalysis_stata_log.log",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 17842,
+            "storageIdentifier": "s3://dvn-cloud:18ab948135f-58cc48ce063f",
+            "rootDataFileId": -1,
+            "md5": "00320a4de7f7bb6c72fdf1bf8ff3b22d",
+            "checksum": {
+              "type": "MD5",
+              "value": "00320a4de7f7bb6c72fdf1bf8ff3b22d"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "5_LogFiles",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "DataPrep.log",
+          "restricted": false,
+          "directoryLabel": "5_LogFiles/log",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423681,
+            "persistentId": "",
+            "filename": "DataPrep.log",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 4237,
+            "storageIdentifier": "s3://dvn-cloud:18ab948132b-ce2b88c9df4c",
+            "rootDataFileId": -1,
+            "md5": "cb015919506563b376859f964fd354d7",
+            "checksum": {
+              "type": "MD5",
+              "value": "cb015919506563b376859f964fd354d7"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "5_LogFiles/log",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "DataPrep.msg",
+          "restricted": false,
+          "directoryLabel": "5_LogFiles/log",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423665,
+            "persistentId": "",
+            "filename": "DataPrep.msg",
+            "contentType": "application/octet-stream",
+            "friendlyType": "Unknown",
+            "filesize": 3070,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481324-07e92687ba11",
+            "rootDataFileId": -1,
+            "md5": "2168cb31db1e7a81ad535a01e1c85283",
+            "checksum": {
+              "type": "MD5",
+              "value": "2168cb31db1e7a81ad535a01e1c85283"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "5_LogFiles/log",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "DataPrep.R",
+          "restricted": false,
+          "directoryLabel": "3_Scripts",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423676,
+            "persistentId": "",
+            "filename": "DataPrep.R",
+            "contentType": "type/x-r-syntax",
+            "friendlyType": "R Syntax",
+            "filesize": 67825,
+            "storageIdentifier": "s3://dvn-cloud:18ab948134b-326b556ef998",
+            "rootDataFileId": -1,
+            "md5": "66a244370456c666ffa1f2aa7c8c8bd0",
+            "checksum": {
+              "type": "MD5",
+              "value": "66a244370456c666ffa1f2aa7c8c8bd0"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "3_Scripts",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "Figure1.pdf",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423680,
+            "persistentId": "",
+            "filename": "Figure1.pdf",
+            "contentType": "application/pdf",
+            "friendlyType": "Adobe PDF",
+            "filesize": 4973,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813e2-9b6a4c9b9603",
+            "rootDataFileId": -1,
+            "md5": "8bf8fc0e679131c868b487c01dde57dd",
+            "checksum": {
+              "type": "MD5",
+              "value": "8bf8fc0e679131c868b487c01dde57dd"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "FigureA1.pdf",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423650,
+            "persistentId": "",
+            "filename": "FigureA1.pdf",
+            "contentType": "application/pdf",
+            "friendlyType": "Adobe PDF",
+            "filesize": 25816,
+            "storageIdentifier": "s3://dvn-cloud:18ab94812c7-05d85f9cdb0f",
+            "rootDataFileId": -1,
+            "md5": "02fed901a786664b1e07183945fc50f2",
+            "checksum": {
+              "type": "MD5",
+              "value": "02fed901a786664b1e07183945fc50f2"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "FigureA2.pdf",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423661,
+            "persistentId": "",
+            "filename": "FigureA2.pdf",
+            "contentType": "application/pdf",
+            "friendlyType": "Adobe PDF",
+            "filesize": 4799,
+            "storageIdentifier": "s3://dvn-cloud:18ab94812cb-8e8b5a830bb9",
+            "rootDataFileId": -1,
+            "md5": "0d973a2ad33bed6f827988759aacc31c",
+            "checksum": {
+              "type": "MD5",
+              "value": "0d973a2ad33bed6f827988759aacc31c"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "Maintable1.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423667,
+            "persistentId": "",
+            "filename": "Maintable1.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 507,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813ea-7d82e471e4bb",
+            "rootDataFileId": -1,
+            "md5": "dca2e3b3f4f959aab170f5d58bd5ba6e",
+            "checksum": {
+              "type": "MD5",
+              "value": "dca2e3b3f4f959aab170f5d58bd5ba6e"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "Maintable2.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423649,
+            "persistentId": "",
+            "filename": "Maintable2.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 898,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481377-1690f1fb68e4",
+            "rootDataFileId": -1,
+            "md5": "98ca89759992136dfc6726304fdac095",
+            "checksum": {
+              "type": "MD5",
+              "value": "98ca89759992136dfc6726304fdac095"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "Maintable3.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423663,
+            "persistentId": "",
+            "filename": "Maintable3.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 2096,
+            "storageIdentifier": "s3://dvn-cloud:18ab948136e-7fb1ed1e2a13",
+            "rootDataFileId": -1,
+            "md5": "9e5ea2dadc111296e9e9ea2daa2c6e30",
+            "checksum": {
+              "type": "MD5",
+              "value": "9e5ea2dadc111296e9e9ea2daa2c6e30"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "Maintable4.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423639,
+            "persistentId": "",
+            "filename": "Maintable4.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 1728,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481366-8a0804da5705",
+            "rootDataFileId": -1,
+            "md5": "dc311c8c93e772ceacf2bc3cefc7801e",
+            "checksum": {
+              "type": "MD5",
+              "value": "dc311c8c93e772ceacf2bc3cefc7801e"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "Maintable5.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423683,
+            "persistentId": "",
+            "filename": "Maintable5.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 1683,
+            "storageIdentifier": "s3://dvn-cloud:18ab948133b-4896fc604c1a",
+            "rootDataFileId": -1,
+            "md5": "8e8a784bec272e8ec97fbe42b390bd0e",
+            "checksum": {
+              "type": "MD5",
+              "value": "8e8a784bec272e8ec97fbe42b390bd0e"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "Maintable6.txt",
+          "restricted": false,
+          "directoryLabel": "4_Output",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423673,
+            "persistentId": "",
+            "filename": "Maintable6.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 1714,
+            "storageIdentifier": "s3://dvn-cloud:18ab948137e-048505636f76",
+            "rootDataFileId": -1,
+            "md5": "b3ee7f17dac2881faf77b6b46f8216d4",
+            "checksum": {
+              "type": "MD5",
+              "value": "b3ee7f17dac2881faf77b6b46f8216d4"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "4_Output",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "mcdall_03022021.RData",
+          "restricted": false,
+          "directoryLabel": "2_ProcessedData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423684,
+            "persistentId": "",
+            "filename": "mcdall_03022021.RData",
+            "contentType": "application/gzip",
+            "friendlyType": "Gzip Archive",
+            "filesize": 824006,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481353-c725b94d9e5a",
+            "rootDataFileId": -1,
+            "md5": "3e40bd8bbe3c6a52106c2076d1107960",
+            "checksum": {
+              "type": "MD5",
+              "value": "3e40bd8bbe3c6a52106c2076d1107960"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "2_ProcessedData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "mcdallselect.RData",
+          "restricted": false,
+          "directoryLabel": "2_ProcessedData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423653,
+            "persistentId": "",
+            "filename": "mcdallselect.RData",
+            "contentType": "application/x-rlang-transport",
+            "friendlyType": "R Data",
+            "filesize": 253893,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481313-985e6c30e60a",
+            "rootDataFileId": -1,
+            "md5": "6ace9ddff77a43364bb887f32e23c964",
+            "checksum": {
+              "type": "MD5",
+              "value": "6ace9ddff77a43364bb887f32e23c964"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "2_ProcessedData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "mcdcanddata.RData",
+          "restricted": false,
+          "directoryLabel": "2_ProcessedData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423664,
+            "persistentId": "",
+            "filename": "mcdcanddata.RData",
+            "contentType": "application/gzip",
+            "friendlyType": "Gzip Archive",
+            "filesize": 11033,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481300-0cb3c2223bad",
+            "rootDataFileId": -1,
+            "md5": "0e603dbc236813a040653e2ddca53cf3",
+            "checksum": {
+              "type": "MD5",
+              "value": "0e603dbc236813a040653e2ddca53cf3"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "2_ProcessedData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "mlabackground.RData",
+          "restricted": false,
+          "directoryLabel": "2_ProcessedData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423652,
+            "persistentId": "",
+            "filename": "mlabackground.RData",
+            "contentType": "application/gzip",
+            "friendlyType": "Gzip Archive",
+            "filesize": 126245,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481385-3d520a052935",
+            "rootDataFileId": -1,
+            "md5": "e1da70aa774a083af53b7e4e7faf4964",
+            "checksum": {
+              "type": "MD5",
+              "value": "e1da70aa774a083af53b7e4e7faf4964"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "2_ProcessedData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "MunicipalCouncilSurvey.tab",
+          "restricted": false,
+          "directoryLabel": "1_RawData",
+          "version": 3,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423668,
+            "persistentId": "",
+            "filename": "MunicipalCouncilSurvey.tab",
+            "contentType": "text/tab-separated-values",
+            "friendlyType": "Tab-Delimited",
+            "filesize": 11915,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481370-eb03ef7fd006",
+            "originalFileFormat": "application/x-stata-14",
+            "originalFormatLabel": "Stata 14 Binary",
+            "originalFileSize": 17997,
+            "originalFileName": "MunicipalCouncilSurvey.dta",
+            "UNF": "UNF:6:YWEvEVKrk1/MvgYDiUbJSw==",
+            "rootDataFileId": -1,
+            "md5": "96a772236a16d4d99bca7dc46e9f1754",
+            "checksum": {
+              "type": "MD5",
+              "value": "96a772236a16d4d99bca7dc46e9f1754"
+            },
+            "tabularData": true,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "1_RawData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "Municipal_TurnoutMappingResData.tab",
+          "restricted": false,
+          "directoryLabel": "1_RawData",
+          "version": 3,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423666,
+            "persistentId": "",
+            "filename": "Municipal_TurnoutMappingResData.tab",
+            "contentType": "text/tab-separated-values",
+            "friendlyType": "Tab-Delimited",
+            "filesize": 316616,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813db-739f20fb0dc3",
+            "originalFileFormat": "text/csv",
+            "originalFormatLabel": "Comma Separated Values",
+            "originalFileSize": 284791,
+            "originalFileName": "Municipal_TurnoutMappingResData.csv",
+            "UNF": "UNF:6:/MBPUJg2JlA0Iq4T3vrrVA==",
+            "rootDataFileId": -1,
+            "md5": "7dd81f2383258e2c7eafef6045306fc2",
+            "checksum": {
+              "type": "MD5",
+              "value": "7dd81f2383258e2c7eafef6045306fc2"
+            },
+            "tabularData": true,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "1_RawData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "Readme.txt",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423672,
+            "persistentId": "",
+            "filename": "Readme.txt",
+            "contentType": "text/plain",
+            "friendlyType": "Plain Text",
+            "filesize": 10937,
+            "storageIdentifier": "s3://dvn-cloud:18ab94813cb-89e6a6990cf4",
+            "rootDataFileId": -1,
+            "md5": "2094261cd1c9bb959d3219f3ff5d2155",
+            "checksum": {
+              "type": "MD5",
+              "value": "2094261cd1c9bb959d3219f3ff5d2155"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "TCPD_GE_Delhi_2020-2-23.tab",
+          "restricted": false,
+          "directoryLabel": "1_RawData",
+          "version": 3,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423659,
+            "persistentId": "",
+            "filename": "TCPD_GE_Delhi_2020-2-23.tab",
+            "contentType": "text/tab-separated-values",
+            "friendlyType": "Tab-Delimited",
+            "filesize": 1369397,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481296-e47e9d95457e",
+            "originalFileFormat": "text/csv",
+            "originalFormatLabel": "Comma Separated Values",
+            "originalFileSize": 1758224,
+            "originalFileName": "TCPD_GE_Delhi_2020-2-23.csv",
+            "UNF": "UNF:6:xNvQwjMo5aBJvUyi16FlNg==",
+            "rootDataFileId": -1,
+            "md5": "900e6e8114679534afbe7f1c2907b1cf",
+            "checksum": {
+              "type": "MD5",
+              "value": "900e6e8114679534afbe7f1c2907b1cf"
+            },
+            "tabularData": true,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "1_RawData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "ward2012.zip",
+          "restricted": false,
+          "directoryLabel": "6_Maps/ward2012",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423670,
+            "persistentId": "",
+            "filename": "ward2012.zip",
+            "contentType": "application/zipped-shapefile",
+            "friendlyType": "Shapefile as ZIP Archive",
+            "filesize": 164042,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481398-611c3de16594",
+            "rootDataFileId": -1,
+            "md5": "5e664c13a205c07e38d0bf6ebfd3907b",
+            "checksum": {
+              "type": "MD5",
+              "value": "5e664c13a205c07e38d0bf6ebfd3907b"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "6_Maps/ward2012",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "wardac2023.RData",
+          "restricted": false,
+          "directoryLabel": "2_ProcessedData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423645,
+            "persistentId": "",
+            "filename": "wardac2023.RData",
+            "contentType": "application/gzip",
+            "friendlyType": "Gzip Archive",
+            "filesize": 9034,
+            "storageIdentifier": "s3://dvn-cloud:18ab948138c-57f6426819b1",
+            "rootDataFileId": -1,
+            "md5": "15e4ee1cfe1441075a612ee0336585b4",
+            "checksum": {
+              "type": "MD5",
+              "value": "15e4ee1cfe1441075a612ee0336585b4"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "2_ProcessedData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "ward.RData",
+          "restricted": false,
+          "directoryLabel": "2_ProcessedData",
+          "version": 1,
+          "datasetVersionId": 345234,
+          "dataFile": {
+            "id": 7423637,
+            "persistentId": "",
+            "filename": "ward.RData",
+            "contentType": "application/x-rlang-transport",
+            "friendlyType": "R Data",
+            "filesize": 26217,
+            "storageIdentifier": "s3://dvn-cloud:18ab9481278-68e971a265ed",
+            "rootDataFileId": -1,
+            "md5": "bc683d00ace54abb4946c33aff42a86c",
+            "checksum": {
+              "type": "MD5",
+              "value": "bc683d00ace54abb4946c33aff42a86c"
+            },
+            "tabularData": false,
+            "creationDate": "2023-09-21",
+            "publicationDate": "2023-10-11",
+            "directoryLabel": "2_ProcessedData",
+            "lastUpdateTime": "2023-10-11T13:45:13Z",
+            "fileAccessRequest": false
+          }
+        }
+      ]
+    }
+  }
+}

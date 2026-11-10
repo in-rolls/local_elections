@@ -1,0 +1,19 @@
+{
+  "source_path": "data/chandigarh/raw/urban_expansion/election_report_2016.pdf",
+  "source_sha256": "fc760e2cfc19478a983c02809acd769d46910641099f932f62e66bf3daf3b048",
+  "signed_letter_pdf_pages": [
+    9,
+    10
+  ],
+  "narrative_pdf_page": 6,
+  "allocation_pdf_page": 20,
+  "document_date": "2016-09-19",
+  "document_number": "6/1/45/FII(8)-2016/8768",
+  "method": "Visual reading of both rendered signed pages; narrative and allocation checked against PDF text.",
+  "boundaries": "Retains October 25,2006 ward profile used in 2006 and 2011.",
+  "caste_rule": "Starts afresh from five highest 2011 Census SC population shares; subsequent elections rotate down ranking.",
+  "women_rule": "Nine wards through draw of lots;2016 starts afresh; subsequent elections exclude previously reserved wards until all covered.",
+  "sc_women_rule": "Two women wards selected by public draw within the five SC wards.",
+  "prior_assignment": "2011 excluded all 2006 women-reserved wards; this history remains relevant to the 2011-to 2016 contrast.",
+  "limits": "No ballot-level records or complete ordering/rejection protocol for interacting draws retained."
+}

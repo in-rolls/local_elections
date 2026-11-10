@@ -1,0 +1,9 @@
+{
+  "url": "https://chandigarh.gov.in/files/documents/election-report-2011.pdf",
+  "catalog_url": "https://chandigarh.gov.in/state-election-commission",
+  "verified_at": "2026-11-10T02:42:46.591131+00:00",
+  "sha256": "cf5693b2df952c44e7ee28fc06fdbbd36258b8a9a8657393c976889ecc0a5121",
+  "bytes": 5553429,
+  "method": "system curl with TLS verification; downloaded bytes match held PDF exactly",
+  "original_acquisition_time": null
+}

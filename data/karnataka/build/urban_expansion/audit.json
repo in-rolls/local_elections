@@ -1,0 +1,75 @@
+{
+  "rows": 198,
+  "eligible": 101,
+  "arms": [
+    {
+      "reserved_woman_2010": 0,
+      "eligible": 76,
+      "observed": 76,
+      "women": 3,
+      "missing_wards": []
+    },
+    {
+      "reserved_woman_2010": 1,
+      "eligible": 25,
+      "observed": 24,
+      "women": 0,
+      "missing_wards": [
+        "112"
+      ]
+    }
+  ],
+  "source_title_conflict_wards": [
+    "112",
+    "197"
+  ],
+  "non_sex_specific_title_wards": [
+    "132"
+  ],
+  "result_notification_caste_conflict_wards": [
+    "16",
+    "59",
+    "69",
+    "98",
+    "161"
+  ],
+  "women_reserved_counts": {
+    "2010": 66,
+    "2015": 97
+  },
+  "transitions": {
+    "0_to_0": 76,
+    "0_to_1": 56,
+    "1_to_0": 25,
+    "1_to_1": 41
+  },
+  "eligible_prior_caste_support": {
+    "('BC_A', 0)": 21,
+    "('BC_A', 1)": 8,
+    "('BC_B', 0)": 5,
+    "('BC_B', 1)": 2,
+    "('NONE', 0)": 42,
+    "('NONE', 1)": 10,
+    "('SC', 0)": 7,
+    "('SC', 1)": 4,
+    "('ST', 0)": 1,
+    "('ST', 1)": 1
+  },
+  "interpretation": "Reservation-history comparison; random allocation of women reservations not established by acquired sources.",
+  "producer": "python -m local_elections.states.karnataka.urban_panel",
+  "inputs": {
+    "data/karnataka/manual/urban_expansion/bbmp_reservations_review.csv": "3734b7181d6ecfbcb17736f7d393c7fe4dccdbfcff094e362b424d1d5c39c122",
+    "data/karnataka/manual/urban_expansion/bbmp_winner_sex_conflicts.csv": "a98295e81184845fecc105ed7bc6563a0f8138c1c088cf6e3b107a3016f1143c",
+    "data/karnataka/manual/urban_expansion/bbmp_winner_title_corroboration.csv": "15c53aff26215653eb3ff5f00d84f34d36654fa656ec33a216a75890db04a19e",
+    "data/karnataka/manual/urban_expansion/bbmp_winner_titles_2015.csv": "c0a80a920cbe24c7acf37e0e674e5defe6fe15b37eb86a4852095b2cc03addd6",
+    "data/karnataka/raw/urban_expansion/bbmp_delimitation_2009.pdf": "748c05e62c29b1de5272fd3a8eaf4aceda1ec83fc8f04016be5d580204032435",
+    "data/karnataka/raw/urban_expansion/bbmp_reservation_2015.pdf": "f71e017e25b8c81917a59b43612c61ca6f58b1181cd8238d36d1b677ee3ac5a1",
+    "data/karnataka/raw/urban_expansion/bbmp_reservations_2010_2015.csv": "f002d7946365a3ad02ed47146c776167ca9b430a92c816659d8e6101cf1ed481",
+    "data/karnataka/raw/urban_expansion/bbmp_results_2010.pdf": "a9b8635d789ae349132936460650c49ead2d1b5ec3ff2d8740d89271a5ec0fa6",
+    "data/karnataka/raw/urban_expansion/bbmp_results_2015.pdf": "b9b74667e6fb05bed730cb544fbde8eb652041a39f4fc32fbde4da154e61d872",
+    "data/karnataka/raw/urban_expansion/bbmp_ward_budget_2017_18.pdf": "23e2fd54d83abb291e3377c757d788d2f63dcb76c8574f04d93978bd95538cee",
+    "data/reference/opencity/bengaluru_bbmp_2015_womens_reservation_seats_results.csv": "c400281a280876d9013a89d52ea92d33b4d5f2d861c2a5ebf77e36abee18e006"
+  },
+  "output_sha256": "09faa1e554f9f77100668bc0b49288f65321ddbe7ae19f648e5a59200309f034",
+  "parquet_round_trip": true
+}

@@ -129,11 +129,15 @@ need a second reading; [WORKLIST.md](worklist.md) records each one.
 - **Tamil Nadu's Gazette 326 is urban.** It concerns municipalities and
   corporations. Village panchayat president reservation comes from the TNRD
   gazettes, parsed in `local_elections_tamil_nadu`.
-- **Maharashtra is Mumbai only** — `data/maharashtra/mumbai/`, BMC 1997–2017.
+- **Maharashtra is Mumbai only** — `data/maharashtra/raw/mumbai/`, BMC 1997–2017 plus the 2026 winner supplement.
   Two councils (2012, 2017) are parsed as `ulb_ward`; the ~28,000 rural GPs are
   absent entirely. And the one held sheet that states a reservation,
   `BMC-2007_raw.xlsx`, states the **2012** draw beside the 2007 winners: 115
   women's seats where 2007 had 76. Read at face value it mislabels every ward.
+  Ward 172's additional women-only label is corrected using BMC's official
+  2012 description (PDF page 17); the reviewed total is 114. The 2026 winner
+  export checks all 227 vote counts against the official results gazette and
+  records final reservation categories from the November 28, 2025 gazette.
 - **AP's tiers are mixed together.** Of its 45 documents, the GP-level set
   (`2020_res_gp/`) is 13; the other 32 are MPTC, ZPTC, MPP and MPL. Do not read
   the state-level text/scan split as applying to the GP files.

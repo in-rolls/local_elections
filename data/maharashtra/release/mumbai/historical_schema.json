@@ -1,0 +1,246 @@
+{
+  "bhavnani_comparison_1997_2002.parquet": {
+    "rows": 227,
+    "primary_key": [
+      "body",
+      "year",
+      "ward_no"
+    ],
+    "sha256": "865af63472ce67d88be5a617bcdc882e66f37bcb9b143ca7749cdcda669fc8c1",
+    "columns": [
+      {
+        "name": "body",
+        "dtype": "string",
+        "nullable": false,
+        "missing_count": 0
+      },
+      {
+        "name": "year",
+        "dtype": "int64",
+        "nullable": false,
+        "missing_count": 0
+      },
+      {
+        "name": "prior_year",
+        "dtype": "int64",
+        "nullable": false,
+        "missing_count": 0
+      },
+      {
+        "name": "ward_no",
+        "dtype": "string",
+        "nullable": false,
+        "missing_count": 0
+      },
+      {
+        "name": "reserved_woman",
+        "dtype": "Int8",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "reserved_raw",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "prior_reserved_woman",
+        "dtype": "Int8",
+        "nullable": true,
+        "missing_count": 109
+      },
+      {
+        "name": "controltreat_raw",
+        "dtype": "Float64",
+        "nullable": true,
+        "missing_count": 109
+      },
+      {
+        "name": "winner_woman",
+        "dtype": "Int8",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "winner_woman_raw",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "groups_raw",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "is_eligible",
+        "dtype": "bool",
+        "nullable": false,
+        "missing_count": 0
+      },
+      {
+        "name": "source_path",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "reserved_basis",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "prior_reserved_basis",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "winner_woman_basis",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "geographic_basis",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "exclusion_reason",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      }
+    ]
+  },
+  "winner_sex_source_audit_2012_2017.parquet": {
+    "rows": 454,
+    "primary_key": [
+      "body",
+      "year",
+      "ward_no"
+    ],
+    "sha256": "0f9130654566f4fdc15458260873e634ad78ed38e346e773b7e30c163b320d1d",
+    "columns": [
+      {
+        "name": "body",
+        "dtype": "string",
+        "nullable": false,
+        "missing_count": 0
+      },
+      {
+        "name": "year",
+        "dtype": "int64",
+        "nullable": false,
+        "missing_count": 0
+      },
+      {
+        "name": "ward_no",
+        "dtype": "string",
+        "nullable": false,
+        "missing_count": 0
+      },
+      {
+        "name": "winner",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 26
+      },
+      {
+        "name": "winner_basis",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 26
+      },
+      {
+        "name": "winner_source_path",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "profile_year",
+        "dtype": "int64",
+        "nullable": false,
+        "missing_count": 0
+      },
+      {
+        "name": "profile_name_raw",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "profile_woman_raw",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "profile_source_path",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "identity_match",
+        "dtype": "bool",
+        "nullable": false,
+        "missing_count": 0
+      },
+      {
+        "name": "identity_match_method",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "winner_woman",
+        "dtype": "Int8",
+        "nullable": true,
+        "missing_count": 186
+      },
+      {
+        "name": "winner_woman_raw",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 186
+      },
+      {
+        "name": "winner_woman_basis",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 186
+      },
+      {
+        "name": "reserved_woman",
+        "dtype": "Int8",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "reserved_caste",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "reserved_raw",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      },
+      {
+        "name": "reserved_source_path",
+        "dtype": "string",
+        "nullable": true,
+        "missing_count": 0
+      }
+    ]
+  }
+}

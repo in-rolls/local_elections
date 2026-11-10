@@ -1,0 +1,106 @@
+[
+  {
+    "ward_no": "1",
+    "year": 2010,
+    "field": "reserved_caste",
+    "source_value": "BC_A",
+    "selected_value": "BC_B",
+    "rule": "primary reservation cell over secondary roster; source difference retained"
+  },
+  {
+    "ward_no": "4",
+    "year": 2015,
+    "field": "reserved_woman",
+    "source_value": 1,
+    "selected_value": 0,
+    "rule": "primary reservation cell over secondary roster; source difference retained"
+  },
+  {
+    "ward_no": "5",
+    "year": 2010,
+    "field": "reserved_woman",
+    "source_value": 1,
+    "selected_value": 0,
+    "rule": "primary reservation cell over secondary roster; source difference retained"
+  },
+  {
+    "ward_no": "16",
+    "year": 2015,
+    "field": "reserved_caste",
+    "source_value": "BC_A",
+    "selected_value": "BC_B",
+    "rule": "pre-election reinstated notification over result-gazette caste label"
+  },
+  {
+    "ward_no": "59",
+    "year": 2015,
+    "field": "reserved_caste",
+    "source_value": "BC_A",
+    "selected_value": "BC_B",
+    "rule": "pre-election reinstated notification over result-gazette caste label"
+  },
+  {
+    "ward_no": "61",
+    "year": 2010,
+    "field": "reserved_caste",
+    "source_value": "ST",
+    "selected_value": "SC",
+    "rule": "primary reservation cell over secondary roster; source difference retained"
+  },
+  {
+    "ward_no": "69",
+    "year": 2015,
+    "field": "reserved_caste",
+    "source_value": "BC_A",
+    "selected_value": "BC_B",
+    "rule": "pre-election reinstated notification over result-gazette caste label"
+  },
+  {
+    "ward_no": "98",
+    "year": 2015,
+    "field": "reserved_caste",
+    "source_value": "BC_A",
+    "selected_value": "BC_B",
+    "rule": "pre-election reinstated notification over result-gazette caste label"
+  },
+  {
+    "ward_no": "112",
+    "year": 2015,
+    "field": "winner_woman",
+    "source_value": "gazette=1;opencity=0",
+    "selected_value": null,
+    "rule": "unresolved conflicting source measurements remain missing"
+  },
+  {
+    "ward_no": "161",
+    "year": 2015,
+    "field": "reserved_caste",
+    "source_value": "BC_B",
+    "selected_value": "BC_A",
+    "rule": "pre-election reinstated notification over result-gazette caste label"
+  },
+  {
+    "ward_no": "189",
+    "year": 2010,
+    "field": "reserved_woman",
+    "source_value": 1,
+    "selected_value": 0,
+    "rule": "primary reservation cell over secondary roster; source difference retained"
+  },
+  {
+    "ward_no": "190",
+    "year": 2010,
+    "field": "reserved_caste",
+    "source_value": "BC_B",
+    "selected_value": "BC_A",
+    "rule": "primary reservation cell over secondary roster; source difference retained"
+  },
+  {
+    "ward_no": "197",
+    "year": 2015,
+    "field": "winner_woman",
+    "source_value": "gazette=0;opencity=1",
+    "selected_value": null,
+    "rule": "unresolved conflicting source measurements remain missing"
+  }
+]

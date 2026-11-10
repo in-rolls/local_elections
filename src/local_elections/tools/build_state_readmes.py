@@ -19,6 +19,7 @@ from what would be generated now.
 import argparse
 import collections
 import csv
+import json
 import subprocess
 import sys
 
@@ -40,7 +41,13 @@ ASSAM_UNPARSED = assam_controls.UNPARSED_DISTRICT_NOTIFICATIONS
 # not a fact derivable from the rows, so it is written rather than computed -
 # and kept to what a reader needs before using the numbers.
 STATE_NOTES = {
-    "west_bengal": """The pooled slice covers 2018 Zilla Parishad seats. Separately,
+    "west_bengal": """The pooled slice covers 2018 Zilla Parishad seats. The separate
+[Kolkata municipal collection](release/kolkata/2015/README.md) contains all 144
+winners from the SEC's 2015 results archive, original source receipts, and a
+comparison with TCPD. Its winner lists do not record sex or reservation;
+missing values remain missing. The archived official winner gazette is retained.
+
+Separately,
 [named Birbhum Pradhan reservation observations](release/birbhum_reservations/README.md)
 cover the 1998 and 2003 terms, with raw codes, year exceptions and source
 conflicts preserved. The [reservation gap matrix](discovery/vintage_search/README.md)
@@ -68,12 +75,15 @@ the pooled reservation dataset.
     "maharashtra": """Mumbai only. The Brihanmumbai Municipal Corporation has 227
 ward seats; two councils are in the schema, `ulb_ward_2012` and `ulb_ward_2017`.
 
-Every original under `raw/mumbai/` arrived as a result table assembled for research, not
-as the State Election Commission's reservation roster, and only one of them
-states the seat reservation at all: the "Present Reservation" column of
+The original research collection under `raw/mumbai/` supplied result tables,
+with reservations stated in the "Present Reservation" column of
 `BMC-2007_raw.xlsx`. **That column is the 2012 draw, not 2007's.** It lists 115
 women's seats where the 2007 council had 76 (one third), and it agrees ward for
-ward with the deposit's 2012-term flag on 226 of 227 wards (ward 172 differs).
+ward with the deposit's 2012-term flag on 226 of 227 wards. The remaining ward,
+172, is now corrected from SC Women to SC using the official bilingual BMC ward
+description (`raw/mumbai/source_review/f_north_2012.pdf`, PDF page 17). The
+reviewed release has 114 women-reserved seats and agrees with all 227 deposit
+flags. The original sheet and a row-level correction ledger are retained.
 Its "Sitting Corporator" column holds the 2007 winners. So the sheet supplies
 the 2012 slice's reservation and the 2007 supplemental file's winners.
 
@@ -94,6 +104,20 @@ of councillors, `praja_ward_ratings_2011_2018.csv`, in which the satisfaction
 item is inverted in the 2018 wave and flagged rather than repaired. The 1997 and
 2002 councils have no reservation roster here, and rural Maharashtra's ~28,000
 gram panchayats are absent entirely.
+
+The next completed BMC general election was January 15, 2026; the expected
+2022 election did not take place. `release/mumbai/bmc_winners_2026.csv` contains
+all 227 winners and their final reservation categories (114 women-reserved).
+The reservation parser checks category totals against the November 28, 2025
+final gazette. Every vote count agrees with the January 19, 2026 official
+gazette retained under `raw/mumbai/source_review/`; English names and party
+labels come from OpenCity and have not received a separate row-by-row audit.
+This winner-only supplement does not yet contain reservation, education, or
+losing candidates. It does not establish a cross-election ward link.
+
+See [the source review](source_review.md) for the 2012 correction, 2026 receipts,
+and the scope of checks.
+
 """,
     "assam": f"""The 2020 notification contains two reservation rosters: wards
 and municipal-board chairpersons. It prints only the reserved seats. The ward
@@ -181,6 +205,12 @@ The 2016 taluk and zilla panchayat rows come from 195 notifications harvested
 from the web archive's copy of `karsec.gov.in`; every one of them is a copier
 scan with no text layer, read with Surya, and they carry the party the winner
 represented, which almost nothing else in this corpus does.
+
+A separate [Bengaluru 2010–2015 ward panel](build/urban_expansion/README.md)
+links 198 unchanged wards using official notifications and reviewed winner
+titles. It retains 101 later nonquota wards and one unresolved outcome among
+them; source conflicts and original measurements remain separate. It is an
+urban supplement and does not enter the rural pooled master.
 
 **Two further groups of documents were harvested, are committed here, and are
 deliberately not parsed.** Saying so is the point of this paragraph: they are
@@ -812,8 +842,81 @@ def render_delhi():
         " retain provenance. "
         "The paper in `quota_elite_quality` reads this typed handoff.",
         "",
+        "The [Delhi election repository](../../../local_elections_delhi/README.md) "
+        "contains candidate and winner releases for 2007, 2012, 2017, and 2022, "
+        "a separate education-source audit, and the source-validated "
+        "[2007–2012 persistence panel]"
+        "(../../../local_elections_delhi/data/release/persistence/"
+        "wards_2007_2012.parquet) used by `quota_representation`. "
+        "It references the originals held here rather than copying them.",
+        "",
     ]
     return "\n".join(out)
+
+
+def render_chandigarh():
+    manifest = json.loads((DATA / "chandigarh/release/manifest.json").read_text())
+    lines = [
+        "# Chandigarh municipal election records",
+        "",
+        "*Generated by `make state-readmes`.*",
+        "",
+        "Official records for the 2006 council cohort, 2011, 2016 and 2021. "
+        "These urban supplemental tables are separate from the rural pooled master.",
+        "",
+        "| File | Rows |",
+        "| --- | ---: |",
+    ]
+    for name, info in manifest["files"].items():
+        lines.append(f"| [{name}](release/{name}) | {info['rows']:,} |")
+    lines.append(
+        "| [ward_panel_2011_2016.parquet](release/ward_panel_2011_2016.parquet) | 26 |"
+    )
+    lines.extend(
+        [
+            "",
+            "The 2006–2011 ward link is supported by an official unchanged-boundary "
+            "notification. The 2011 winner-sex field comes from printed candidate "
+            "honorifics checked against gender totals, independently of seat "
+            "reservation. "
+            "Later by-elections and deferred polls are distinguished from the "
+            "general election.",
+            "",
+            "See the [source review](source_review.md), "
+            "[dictionary](release/dictionary.csv), and [source and output hashes]"
+            "(release/manifest.json) for definitions, coverage and unresolved fields.",
+            "",
+            "The 2016 extension retains all 26 wards and separate source-title "
+            "outcomes. All 17 later nonquota wards have male-title winners; "
+            "earlier 2006 exposure and the 2016 assignment reset remain explicit. "
+            "Its [manifest](release/ward_panel_2011_2016_manifest.json) pins "
+            "the additional sources and metadata.",
+            "",
+            "Run `make chandigarh` to rebuild offline and "
+            "`pytest tests/test_chandigarh.py tests/test_chandigarh_extension.py -q` "
+            "for the affected checks.",
+            "",
+        ]
+    )
+    return "\n".join(lines)
+
+
+def render_mp_urban():
+    audit = json.loads((DATA / "madhya_pradesh/release/urban/audit.json").read_text())
+    return (
+        "# Madhya Pradesh urban election sources\n\n"
+        "*Generated by `make state-readmes`.*\n\n"
+        f"The separate urban handoff contains {audit['rows']} reported 2022 winners "
+        "from contemporaneous Bhopal and Indore news lists. Sex, reservation and "
+        "votes are unreported and remain missing. The official current Indore "
+        f"council roster has {audit['current_council_roster']['entries']} entries; "
+        "it is kept separate from election-time winners. Neither table enters "
+        "the pooled master.\n\n"
+        "See [sources, definitions and limitations](release/urban/README.md) "
+        "and the [dictionary](release/urban/dictionary.csv). Original historical "
+        "election-report scans remain under `raw/`.\n\n"
+        "Run `make mp-urban` to rebuild the handoff offline.\n"
+    )
 
 
 def build():
@@ -830,7 +933,11 @@ def build():
     ):
         state = coverage.pretty(directory)
         target = DATA / directory / "readme.md"
-        if directory == "delhi":
+        if directory == "chandigarh":
+            out[target] = render_chandigarh()
+        elif directory == "madhya_pradesh":
+            out[target] = render_mp_urban()
+        elif directory == "delhi":
             out[target] = render_delhi()
         elif directory in entries:
             out[target] = render_parsed(directory, state, entries[directory])

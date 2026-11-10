@@ -1,0 +1,15 @@
+old_column,new_column,transformation
+ward_no,ward_no,Integer identifier stored as string; same ward geography
+prior_election_year,prior_year,Rename only; values unchanged
+outcome_election_year,year,Rename only; values unchanged
+prior_poll_date,poll_date_2006,Rename only; values unchanged
+prior_woman_reserved,reserved_woman_2006,Boolean becomes nullable Int8
+outcome_woman_reserved,reserved_woman_2011,Boolean becomes nullable Int8
+prior_caste_reservation,reserved_caste_2006,GEN becomes NONE
+outcome_caste_reservation,reserved_caste_2011,GEN becomes NONE
+winner_woman,winner_woman_from_honorific_2011,Boolean becomes nullable Int8
+later_nonquota,is_eligible,Rename only; values unchanged
+boundary_basis,boundary_basis,Rename only; values unchanged
+boundary_source_page,boundary_source_page,Rename only; values unchanged
+winner_sex,winner_woman_from_honorific_2011,Derived Male/Female duplicate replaced by explicit honorific measurement; printed title retained
+boundary_source_path,source_path_2011,Same PDF; shared report path for all 2011 page references

@@ -1,0 +1,252 @@
+{
+  "name": "ward_panel_2010_2015",
+  "primary_key": [
+    "body",
+    "ward_no",
+    "prior_year",
+    "year"
+  ],
+  "row_unit": "One of 198 unchanged Bengaluru wards; all wards retained.",
+  "fields": [
+    {
+      "name": "body",
+      "type": "string",
+      "nullable": false,
+      "description": "Municipal body; Bengaluru throughout."
+    },
+    {
+      "name": "ward_no",
+      "type": "string",
+      "nullable": false,
+      "description": "Ward identifier on the unchanged 2009 geography."
+    },
+    {
+      "name": "prior_year",
+      "type": "int32",
+      "nullable": false,
+      "description": "Prior election year, 2010."
+    },
+    {
+      "name": "year",
+      "type": "int32",
+      "nullable": false,
+      "description": "Outcome election year, 2015."
+    },
+    {
+      "name": "reserved_woman_2010",
+      "type": "int8",
+      "nullable": false,
+      "description": "Women-only seat restriction, read from the reservation cell: 1/0. 2010 winner gazette; 2015 reinstated pre-election notification."
+    },
+    {
+      "name": "reserved_caste_2010",
+      "type": "string",
+      "nullable": false,
+      "description": "Seat caste restriction: NONE, BC_A, BC_B, SC, ST. NONE is an open caste category, not missing."
+    },
+    {
+      "name": "reserved_caste_local_2010",
+      "type": "string",
+      "nullable": false,
+      "description": "Kannada caste label; whitespace and hyphenation normalized."
+    },
+    {
+      "name": "reserved_source_path_2010",
+      "type": "string",
+      "nullable": false,
+      "description": "Reservation source path relative to this repository."
+    },
+    {
+      "name": "reserved_source_sha256_2010",
+      "type": "string",
+      "nullable": false,
+      "description": "SHA-256 of the retained reservation source."
+    },
+    {
+      "name": "reserved_source_page_2010",
+      "type": "int32",
+      "nullable": false,
+      "description": "One-based physical PDF page of reservation cell."
+    },
+    {
+      "name": "reserved_woman_opencity_2010",
+      "type": "int8",
+      "nullable": false,
+      "description": "Secondary paired-roster women flag, preserved for comparison only."
+    },
+    {
+      "name": "reserved_caste_opencity_2010",
+      "type": "string",
+      "nullable": false,
+      "description": "Secondary paired-roster caste category; not canonical assignment."
+    },
+    {
+      "name": "reserved_woman_source_conflict_2010",
+      "type": "bool",
+      "nullable": false,
+      "description": "Primary reservation cell and secondary paired-roster flag differ."
+    },
+    {
+      "name": "reserved_caste_source_conflict_2010",
+      "type": "bool",
+      "nullable": false,
+      "description": "Primary reservation cell and secondary paired-roster caste differ."
+    },
+    {
+      "name": "reserved_woman_2015",
+      "type": "int8",
+      "nullable": false,
+      "description": "Women-only seat restriction, read from the reservation cell: 1/0. 2010 winner gazette; 2015 reinstated pre-election notification."
+    },
+    {
+      "name": "reserved_caste_2015",
+      "type": "string",
+      "nullable": false,
+      "description": "Seat caste restriction: NONE, BC_A, BC_B, SC, ST. NONE is an open caste category, not missing."
+    },
+    {
+      "name": "reserved_caste_local_2015",
+      "type": "string",
+      "nullable": false,
+      "description": "Kannada caste label; whitespace and hyphenation normalized."
+    },
+    {
+      "name": "reserved_source_path_2015",
+      "type": "string",
+      "nullable": false,
+      "description": "Reservation source path relative to this repository."
+    },
+    {
+      "name": "reserved_source_sha256_2015",
+      "type": "string",
+      "nullable": false,
+      "description": "SHA-256 of the retained reservation source."
+    },
+    {
+      "name": "reserved_source_page_2015",
+      "type": "int32",
+      "nullable": false,
+      "description": "One-based physical PDF page of reservation cell."
+    },
+    {
+      "name": "reserved_woman_opencity_2015",
+      "type": "int8",
+      "nullable": false,
+      "description": "Secondary paired-roster women flag, preserved for comparison only."
+    },
+    {
+      "name": "reserved_caste_opencity_2015",
+      "type": "string",
+      "nullable": false,
+      "description": "Secondary paired-roster caste category; not canonical assignment."
+    },
+    {
+      "name": "reserved_woman_source_conflict_2015",
+      "type": "bool",
+      "nullable": false,
+      "description": "Primary reservation cell and secondary paired-roster flag differ."
+    },
+    {
+      "name": "reserved_caste_source_conflict_2015",
+      "type": "bool",
+      "nullable": false,
+      "description": "Primary reservation cell and secondary paired-roster caste differ."
+    },
+    {
+      "name": "winner_latin_2015",
+      "type": "string",
+      "nullable": false,
+      "description": "Winner name as printed in the complete OpenCity election return."
+    },
+    {
+      "name": "winner_latin_method_2015",
+      "type": "string",
+      "nullable": false,
+      "description": "source: printed Latin name."
+    },
+    {
+      "name": "winner_honorific_raw_2015",
+      "type": "string",
+      "nullable": false,
+      "description": "Visually reviewed title in the winner gazette; Dr. is not sex-specific."
+    },
+    {
+      "name": "winner_woman_from_honorific_2015",
+      "type": "int8",
+      "nullable": true,
+      "description": "Unadjudicated gazette-title reading: Shri=0, Shrimati/Kumari=1, Dr=null. Source conflicts remain visible here; use reconciled outcome below."
+    },
+    {
+      "name": "winner_woman_opencity_2015",
+      "type": "int8",
+      "nullable": false,
+      "description": "Explicit election-result Gender column normalized F=1, M=0."
+    },
+    {
+      "name": "winner_woman_2015",
+      "type": "int8",
+      "nullable": true,
+      "description": "Reconciled recorded outcome: explicit Gender corroborated by title, or explicit Gender with non-sex-specific title. Conflicts are null. No inference from name or reservation."
+    },
+    {
+      "name": "winner_woman_basis_2015",
+      "type": "string",
+      "nullable": false,
+      "description": "Sources supporting the reconciled outcome or unresolved conflict."
+    },
+    {
+      "name": "winner_woman_source_conflict_2015",
+      "type": "bool",
+      "nullable": false,
+      "description": "Sex-specific gazette title conflicts with explicit secondary Gender."
+    },
+    {
+      "name": "winner_source_path_2015",
+      "type": "string",
+      "nullable": false,
+      "description": "Original winner-gazette path, relative to this repository."
+    },
+    {
+      "name": "winner_source_sha256_2015",
+      "type": "string",
+      "nullable": false,
+      "description": "SHA-256 of the complete retained winner gazette."
+    },
+    {
+      "name": "winner_source_page_2015",
+      "type": "int32",
+      "nullable": false,
+      "description": "One-based physical PDF page of winner title and reservation row."
+    },
+    {
+      "name": "reserved_caste_from_results_2015",
+      "type": "string",
+      "nullable": false,
+      "description": "Caste label printed in winner gazette; may disagree with notification."
+    },
+    {
+      "name": "reserved_caste_result_conflict_2015",
+      "type": "bool",
+      "nullable": false,
+      "description": "2015 winner-gazette caste differs from the pre-election notification."
+    },
+    {
+      "name": "is_eligible",
+      "type": "bool",
+      "nullable": false,
+      "description": "Later ward is not reserved for women."
+    },
+    {
+      "name": "has_observed_outcome",
+      "type": "bool",
+      "nullable": false,
+      "description": "Reconciled outcome is nonmissing, regardless of eligibility."
+    },
+    {
+      "name": "boundary_basis",
+      "type": "string",
+      "nullable": false,
+      "description": "2015 notification references the 15 July 2009 delimitation schedule."
+    }
+  ]
+}

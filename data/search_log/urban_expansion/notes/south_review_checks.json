@@ -1,0 +1,36 @@
+{
+  "manual_csv": "local_elections/data/karnataka/manual/urban_expansion/bbmp_reservations_review.csv",
+  "sha256": "3734b7181d6ecfbcb17736f7d393c7fe4dccdbfcff094e362b424d1d5c39c122",
+  "rows": 396,
+  "unique_key": [
+    "year",
+    "body",
+    "ward_no"
+  ],
+  "year_counts": {
+    "2010": 198,
+    "2015": 198
+  },
+  "year_women_reserved": {
+    "2010": 66,
+    "2015": 97
+  },
+  "transitions_prior_current": {
+    "0_0": 76,
+    "0_1": 56,
+    "1_0": 25,
+    "1_1": 41
+  },
+  "pandas_loaded_types": {
+    "year": "Int64",
+    "ward_no": "string",
+    "reserved_woman": "Int8",
+    "source_pdf_page": "Int64"
+  },
+  "raw_source_checks": "south_document_checks.json",
+  "outcome_status": "All198title rows reviewed;196reconciled outcomes,112/197null; eligible100of101observed",
+  "tn_check": "make check passed;32tests;1422sourcehashes;existingwarningsretained",
+  "validated_panel": "local_elections/data/karnataka/build/urban_expansion/ward_panel_2010_2015.parquet",
+  "validated_panel_sha256": "09faa1e554f9f77100668bc0b49288f65321ddbe7ae19f648e5a59200309f034",
+  "superseded_first_review": "Initial2010women count67corrected to66afterward189re-review; later-open frameunchanged"
+}

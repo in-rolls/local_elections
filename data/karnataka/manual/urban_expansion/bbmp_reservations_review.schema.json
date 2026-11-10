@@ -1,0 +1,54 @@
+{
+  "description": "Reviewed human transcription. Physical PDF pages are one-based. Whitespace and hyphenation in caste labels are normalized; raw originals remain authoritative.",
+  "primary_key": [
+    "year",
+    "body",
+    "ward_no"
+  ],
+  "fields": {
+    "year": {
+      "type": "integer",
+      "nullable": false
+    },
+    "body": {
+      "type": "string",
+      "nullable": false
+    },
+    "ward_no": {
+      "type": "string",
+      "nullable": false
+    },
+    "reserved_woman": {
+      "type": "integer",
+      "nullable": false
+    },
+    "reserved_caste": {
+      "type": "string",
+      "nullable": false
+    },
+    "reserved_caste_local": {
+      "type": "string",
+      "nullable": false
+    },
+    "source": {
+      "type": "string",
+      "nullable": false
+    },
+    "source_sha256": {
+      "type": "string",
+      "nullable": false
+    },
+    "source_pdf_page": {
+      "type": "integer",
+      "nullable": false
+    },
+    "measurement": {
+      "type": "string",
+      "nullable": false
+    },
+    "status": {
+      "type": "string",
+      "nullable": false
+    }
+  }
+}

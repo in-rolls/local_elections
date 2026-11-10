@@ -1,0 +1,34 @@
+{
+  "left_universe": "26 outcome-election wards",
+  "join_cardinality": "1:1",
+  "rows": 26,
+  "unmatched": 0,
+  "eligible": 17,
+  "eligible_without_2006_quota": 13,
+  "eligible_caste_transition_arms": {
+    "NONE_to_NONE": {
+      "1": 3,
+      "0": 8
+    },
+    "NONE_to_SC": {
+      "1": 2,
+      "0": 1
+    },
+    "SC_to_NONE": {
+      "0": 2,
+      "1": 1
+    }
+  },
+  "eligible_histories_2006_2011_2016": {
+    "010": 6,
+    "000": 7,
+    "100": 4
+  },
+  "final_candidates": 122,
+  "nota_rows": 26,
+  "all_ward_vote_totals_reconcile": true,
+  "source_discrepancies": [
+    "PDF 96 nomination heading prints 2011; all 26 winners match dated 2016 returns.",
+    "PDF 156 labels 186 as contesters; detailed returns have 122 plus 26 NOTA rows."
+  ]
+}

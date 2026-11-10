@@ -1,0 +1,31 @@
+table,column,type,required,description,missing
+winners,year,int64,True,Election year of the dated news list.,not allowed
+winners,body,string,True,Municipal corporation name.,not allowed
+winners,tier,string,True,Canonical office; excludes the mayor.,not allowed
+winners,ward_no,string,True,Printed ward number; null only for the roster's unlabeled entry.,not allowed
+winners,winner,string,True,Reported winner name in the original script and spelling.,not allowed
+winners,party_raw,string,True,Printed Hindi party label.,not allowed
+winners,party,string,True,"Normalized party: BJP, INC or IND; mapping documented in README.",not allowed
+winners,winner_woman,int8,False,"Unreported by these lists; always null, not inferred from names.",not reported or not interpretable; see description
+winners,reserved_woman,int8,False,Unreported by these lists; always null.,not reported or not interpretable; see description
+winners,votes,int64,False,Unreported by these lists; always null.,not reported or not interpretable; see description
+winners,source_publication_date,string,True,Original NewsArticle datePublished string.,not allowed
+winners,source_status,string,True,Evidence status; current roster is not an election result.,not allowed
+winners,source_path,string,True,Original file path relative to the repository root.,not allowed
+winners,source_sha256,string,True,SHA-256 of the complete original source bytes.,not allowed
+winners,source_url,string,True,Original article URL.,not allowed
+winners,source_row,int64,True,One-based extracted list or CMS array position.,not allowed
+winners,raw_line,string,True,"Unchanged extracted line supporting the name, ward and party.",not allowed
+indore_council_roster,body,string,True,Municipal corporation name.,not allowed
+indore_council_roster,source_entry_id,string,True,Unique CMS entry identifier; not a ward number.,not allowed
+indore_council_roster,ward_no,string,False,Printed ward number; null only for the roster's unlabeled entry.,not reported or not interpretable; see description
+indore_council_roster,ward_label_raw,string,False,"Original ward-number label, including an empty string.",not reported or not interpretable; see description
+indore_council_roster,ward_name_raw,string,False,Original named ward label.,not reported or not interpretable; see description
+indore_council_roster,title_raw,string,False,"Original title, including honorific or court-status text; null if absent.",not reported or not interpretable; see description
+indore_council_roster,member_woman_from_honorific,int8,False,"1 for Mrs./Ms., 0 for Mr., null otherwise. Applies only to this roster entry; does not measure 2022 winner sex.",not reported or not interpretable; see description
+indore_council_roster,source_updated_at,string,True,Original CMS updatedAt timestamp; not an election date.,not allowed
+indore_council_roster,retrieved_at,string,True,UTC source retrieval timestamp from the acquisition receipt.,not allowed
+indore_council_roster,source_status,string,True,Evidence status; current roster is not an election result.,not allowed
+indore_council_roster,source_path,string,True,Original file path relative to the repository root.,not allowed
+indore_council_roster,source_sha256,string,True,SHA-256 of the complete original source bytes.,not allowed
+indore_council_roster,source_row,int64,True,One-based extracted list or CMS array position.,not allowed

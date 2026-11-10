@@ -1,0 +1,17 @@
+
+============================================================
+Statistic                    N   Mean  St. Dev.  Min   Max  
+------------------------------------------------------------
+Recontest state election    243 0.103   0.304     0     1   
+Graduate and above educated 196 0.383   0.487     0     1   
+Criminal allegation         189 0.095   0.294     0     1   
+Age                         189 41.296  9.858    25     70  
+Log total assets            189 14.286  2.628   8.006 20.594
+Voteshare                   243 10.132  17.766  0.040 56.770
+Margin of victory           243 4.900   9.723   0.000 44.330
+SC reservation              243 0.132   0.339     0     1   
+Forward caste               243 0.325   0.469     0     1   
+Scheduled caste             243 0.407   0.492     0     1   
+Other backward caste        243 0.181   0.386     0     1   
+Muslim                      243 0.086   0.282     0     1   
+------------------------------------------------------------

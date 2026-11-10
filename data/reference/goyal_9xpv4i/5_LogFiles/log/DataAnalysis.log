@@ -1,0 +1,16 @@
+========================================================================= 
+Log Path: 5_LogFiles/log/DataAnalysis.log 
+Program Path: /Users/tg2778/Dropbox/0_Reviews_RnRs/092022_AJPS_PathwayPower/ReplicationFolder/3_Scripts/DataAnalysis.R 
+Working Directory: /Users/tg2778/Dropbox/0_Reviews_RnRs/092022_AJPS_PathwayPower/ReplicationFolder 
+User Name: tg2778 
+R Version: 4.3.0 (2023-04-21) 
+Machine: SPI-NNFPJC2QQC arm64 
+Operating System: Darwin 22.4.0 Darwin Kernel Version 22.4.0: Mon Mar 6 20:59:28 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T6000 
+Base Packages: stats graphics grDevices utils datasets methods base Other Packages: logr_1.3.3 stringr_1.5.0 lmtest_0.9-40 zoo_1.8-12 sandwich_3.0-2 stargazer_5.2.3 clubSandwich_0.5.8 ggplot2_3.4.2 dplyr_1.1.2 rstudioapi_0.14 
+Log Start Time: 2023-05-22 16:37:33.668874 
+========================================================================= 
+
+========================================================================= 
+Log End Time: 2023-05-22 16:37:40.192566 
+Log Elapsed Time: 0 00:00:06 
+========================================================================= 

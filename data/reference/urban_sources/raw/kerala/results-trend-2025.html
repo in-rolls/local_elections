@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Local Body Elections 2025 - TREND by State Election Commission Kerala</title>
+    <meta charset="UTF-8">
+            <!-- <link rel="stylesheet" href="//trend.sec.kerala.gov.in/res/css/bootstrap.min.css?v=TREND2025" /> -->
+
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"> -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+
+        <link rel="stylesheet" href="//trend.sec.kerala.gov.in/res/css/trend.min.css?v=TREND2025" />
+
+        <!-- <script src="//trend.sec.kerala.gov.in/res/js/z-jquery.min.js?v=TREND2025"></script> -->
+        <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        
+
+        <!-- <script src="//trend.sec.kerala.gov.in/res/js/z-bootstrap.min.js?v=TREND2025"></script> -->
+
+        <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+        <script>
+        var JS_AJAX = "//trend.sec.kerala.gov.in/includes/";
+        var isCaptchaLoaded;
+        var disableRefresh = true;
+        var RES = "//trend.sec.kerala.gov.in/res/";
+        var VIEW = "//trend.sec.kerala.gov.in/views/";
+        var VER = "TREND2025";
+    </script>
+</head>
+
+<body>
+    <div id="wrapper">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-3 logo">
+                    <img src="//trend.sec.kerala.gov.in/res/img/SEC_emblem.png" alt="Logo" class="mrgT15 sec-logo" />
+                    <img src="//trend.sec.kerala.gov.in/res/img/logo.svg" alt="SVG Logo" class="mrgT15 trend-logo">
+                    <!-- <img src="//trend.sec.kerala.gov.in/res/img/trendLogo.png" alt="SVG Logo" style="width: 100px; height: auto;"> -->
+                </div>
+                <div class="col-md-6 text-center pL5 mrgT15">
+                    <h2 class=" mrgT5 textColor"> State Election Commission Kerala</h2>
+                    <h4 class=" textColor">Local Body Elections - 2025</h4>
+                    <div id="infotitle" class="mb-2"></div>
+                    <div class="col-md-12 text-center bg-info timer-module hidden badge  text-danger mrgT10 mrgB10">
+                        TREND Last updated at <span id="LastUpdate"><b></b></span> refreshing in <span class="timer"></span>
+                    </div>
+                </div>
+                <div class="col-md-3 text-right mrgT15">
+
+                                            <a class="btn bg-primary margin mrgT5" href="index.php">HOME</a>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="container">
+</body><div class="row mainStateView">
+    <div class="box box-primary views p10_dib rounded-container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="title text-left bold m-2 mt-0 col-md-5 mx- auto no-padding float-left" id="titleHead"></h3>
+                <div class="float-end text-end col-md-4 no-padding zi1">
+                    <button class="btn switchView bg-danger"></button>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div class="stateView">
+                <div class="row">
+                    <div class="first-button mx-4">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <ul class="pager pull-left p-0">
+                                    <button class="btn btn-primary sv-lb-l" title="Local Body - Status">Local Body - Status</button>
+                                    <button class="btn btn-primary sv-lb-m" title="Local Body - Majority">Local Body - Majority</button>
+                                    <button class="btn btn-primary sv-wd-l mrgL10" title="Ward Body - Status">Ward - Status</button>
+                                    <button class="btn btn-primary sv-wd-w active" title="Ward Body - Won">Ward - Won</button>
+                                </ul>
+                            </div>
+                            <div class="col-md-2">
+                                <span class="switch float-end stateview2style" title="Click to state view2"><i class="bi bi-plus-square-o"></i></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-body shado-box pointer">
+                        <div class="sv-content m-4" style='min-height: 175px;'>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="state-box col-md-12 mrgT20 ">
+                        <div role="alert" class="alert alert-info m-4">
+                            <span id="lblInfo" class="fs30"></span>
+                        </div>
+                    </div>
+                </div>
+                <div aria-hidden="true" role="dialog" tabindex="-1" id="party-table-modal" class="modal fade">
+                    <div class="modal-dialog width70">
+                        <div class="modal-content">
+                            <div class="modal-header d-flex justify-content-between align-items-center">
+                                <h4 class="modal-title mb-0">
+                                    <i class="fa bi-card-checklist fs-5-alt party-group-in-mdl"></i>
+                                </h4>
+                                <button data-bs-dismiss="modal" class="btn btn-sm btn-close-custom bg-secondary text-white" type="button">x</button>
+                            </div>
+                            <div class="box modal-body loading">
+                                <div class="sv-party-table min20vh" id="procedure">
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12  col-xs-12">
+            <div class="row outerState m-2">
+                <div class=" row col-md-12 col-sm-12 col-xs-12 distWiseState no-padding"></div>
+            </div>
+            <div class="row outerDist">
+                <div class=" row col-md-12 col-sm-12 col-xs-12 lbWiseDist no-padding mx-auto"></div>
+            </div>
+            <div class="row outerWard">
+                <div class=" row col-md-12 col-sm-12 col-xs-12 wardWiseLb no-padding mx-auto"></div>
+            </div>
+            <div class="row outercanview">
+                <div class="row col-md-12 col-sm-12 col-xs-12 canViewWard no-padding mx-auto"></div>
+            </div>
+        </div>
+    </div>
+    <div class="overlay">
+        <div class="ajaxLoader">
+        </div>
+    </div>
+</div>
+<script src="//trend.sec.kerala.gov.in/res/js/stateview2.js?v=TREND2025"></script>
+</div>
+<div id="captcha"></div>
+<script>
+    change_captcha();
+
+    function timerFn() {
+        if(disableRefresh === false){
+            clearInterval(window.timer);
+            $('.timer-module').removeClass('hidden');
+            $('.timer').text('Loading');
+            var sec = 30;
+            window.timer = setInterval(function() {
+                $('.timer').text(sec-- + 's');
+                if (sec <= 0) {
+
+                    $('.timer').text('Loading');
+                    clearInterval(window.timer);
+                }
+            }, 1000);
+        }
+
+    }
+
+    function change_captcha() {
+        var rand = Math.ceil(Math.random() * (50 - 1 + 1));
+        $('#captcha-img').prop('src', RES + "img/captcha/" + rand + ".jpg");
+        $('#cno').val(rand);
+    }
+    $('body').on('click', '#refresh', function() {
+        change_captcha();
+    });
+</script>
+<div class="modal" id="barred-modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title">Status</h4>
+            </div>
+            <div class="modal-body text-center">
+                <h2>This service is currently unavailable! Please try again later.</h2>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default pull-right" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div>
+<footer class="footer">
+    <div class="container">
+
+        <div class="text-center">
+            <span class="badge bg-light-blue "> B - Block Panchayat</span>
+            <span class="badge bg-light-blue mrgL5">D - District Panchayat</span>
+            <span class="badge bg-light-blue mrgL5">C - Corporation</span>
+            <span class="badge bg-light-blue mrgL5">G - Grama Panchayat</span>
+            <span class="badge bg-light-blue mrgL5">M - Municipality</span>
+        </div>
+
+                <div class="row col-md-12 text-center displayib mrgT20">
+            <div class="col-md-12">
+                <h5 class="text-center text-white displayib bold-text">Disclaimer &nbsp;</h5>
+                <h5 class="text-white displayib "> The data presented here indicates counting trends and should not be treated as official until the Returning Officer declares the final results</h5>
+
+            </div>
+            <div class="text-center col-md-12">
+                <span class="badge bg-success text-white">Reduce. Reuse. Restore. Go Green. Consciously &nbsp;88</span>
+
+
+            </div>
+        </div>
+        <div class="row col-md-12 text-center displayib mrgT10">
+            <h5 class="text-white text-center">
+                TREND System — Architected and Developed by <span class="bold-text">NIC Kerala </span>, 1999–2025
+            </h5>
+            <h5 class="text-white text-center">
+                KSITM, SDC, KSWAN, and BSNL provide support for the Network, Data Center, and Counting Center.
+            </h5>
+        </div>
+
+    </div>
+    </div>
+</footer>
+</div>
+</body>
+
+</html>

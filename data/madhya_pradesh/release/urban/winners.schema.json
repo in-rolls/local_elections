@@ -1,0 +1,168 @@
+{
+  "description": "One provisional 2022 news-reported winner per municipal ward. Sex, reservation and votes are unreported and remain null.",
+  "primaryKey": [
+    "year",
+    "body",
+    "ward_no"
+  ],
+  "fields": [
+    {
+      "name": "year",
+      "type": "integer",
+      "description": "Election year of the dated news list.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          2022
+        ]
+      }
+    },
+    {
+      "name": "body",
+      "type": "string",
+      "description": "Municipal corporation name.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "Bhopal",
+          "Indore"
+        ]
+      }
+    },
+    {
+      "name": "tier",
+      "type": "string",
+      "description": "Canonical office; excludes the mayor.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "ulb_ward"
+        ]
+      }
+    },
+    {
+      "name": "ward_no",
+      "type": "string",
+      "description": "Printed ward number; null only for the roster's unlabeled entry.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "winner",
+      "type": "string",
+      "description": "Reported winner name in the original script and spelling.",
+      "constraints": {
+        "required": true,
+        "minLength": 1
+      }
+    },
+    {
+      "name": "party_raw",
+      "type": "string",
+      "description": "Printed Hindi party label.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "party",
+      "type": "string",
+      "description": "Normalized party: BJP, INC or IND; mapping documented in README.",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "BJP",
+          "INC",
+          "IND"
+        ]
+      }
+    },
+    {
+      "name": "winner_woman",
+      "type": "integer",
+      "description": "Unreported by these lists; always null, not inferred from names.",
+      "constraints": {
+        "minimum": 0,
+        "maximum": 1
+      },
+      "arrow": "int8"
+    },
+    {
+      "name": "reserved_woman",
+      "type": "integer",
+      "description": "Unreported by these lists; always null.",
+      "constraints": {
+        "minimum": 0,
+        "maximum": 1
+      },
+      "arrow": "int8"
+    },
+    {
+      "name": "votes",
+      "type": "integer",
+      "description": "Unreported by these lists; always null.",
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "source_publication_date",
+      "type": "string",
+      "description": "Original NewsArticle datePublished string.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "source_status",
+      "type": "string",
+      "description": "Evidence status; current roster is not an election result.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "source_path",
+      "type": "string",
+      "description": "Original file path relative to the repository root.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "source_sha256",
+      "type": "string",
+      "description": "SHA-256 of the complete original source bytes.",
+      "constraints": {
+        "required": true,
+        "pattern": "[0-9a-f]{64}"
+      }
+    },
+    {
+      "name": "source_url",
+      "type": "string",
+      "description": "Original article URL.",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "source_row",
+      "type": "integer",
+      "description": "One-based extracted list or CMS array position.",
+      "constraints": {
+        "required": true,
+        "minimum": 1
+      }
+    },
+    {
+      "name": "raw_line",
+      "type": "string",
+      "description": "Unchanged extracted line supporting the name, ward and party.",
+      "constraints": {
+        "required": true
+      }
+    }
+  ]
+}

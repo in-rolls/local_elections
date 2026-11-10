@@ -1,0 +1,1566 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+	MP State Election Commission
+</title><link rel="icon" type="image/gif" href="images/animated_favicon1.gif" /><link id="ctl00_Link1" rel="stylesheet" type="text/css" href="Calender/jquery.datepick.css" /><link id="ctl00_lnkStyleSheet" rel="stylesheet" type="text/css" href="CSS/basic_gold.css" /><link id="ctl00_lnkStyleSheetCon" rel="stylesheet" type="text/css" href="CSS/Home.css" />
+     <script type="text/javascript" src="Calender/jquery.datepick.js"></script>
+       <script type="text/javascript" src="Calender/jquery.min.js"></script>
+         <script type="text/javascript" src="Calender/jquery.plugin.js"></script>
+     <script type="text/javascript" src="js/libs/modernizr-2.5.3.min.js"></script>
+    <script type="text/javascript" src="js/libs/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="JQuery/ui/jquery.ui.revampRBI.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="js/plugins.js"></script>
+    <script type="text/javascript" src="js/ImgSaveDisable.js"></script>
+    <script type="text/javascript" src="js/jquery.easing.min.1.3.js"></script>
+    <script type="text/javascript" src="js/jquery.jcontent.0.8.min.js"></script>
+    <script type="text/javascript" src="js/misc.js"></script>
+    <script type="text/javascript" src="js/rightpanel.js"></script>
+
+    <script language="javascript" type="text/javascript">
+
+        function MM_jumpMenu(targ, selObj, restore) { //v3.0
+            eval(targ + ".location='" + selObj.options[selObj.selectedIndex].value + "'");
+            if (restore) selObj.selectedIndex = 0;
+        }
+
+        function makeItMove(containerId, userActionId, textItemId, i) {
+            // Values used by the script.
+            // BEWARE : YOU WILL HAVE TO MODIFIE THESE VALUES IN THE HTML CODE AS WELL, SETTING THEM TO THEIR NUMERIC VALUES!
+            var startValue = 0; // The value the movement will start. Must be big enough to let some white space.
+            var endValue = 300; // the value the movement will end. Must be big enough to let the whoile text disappear
+            var stopValue = 320; // Must be greater than endValue;
+            //
+            var containerPositionFromTop = 201;
+            var containerPositionFromLeft = 35;
+            var containerWidth = 200;
+            var containerHeight = 134;
+            //
+            if (document.getElementById) {
+                if (!document.getElementById('userAction')) {
+                    //alert("No action");
+                }
+                else {
+                    document.getElementById(userActionId).style.visibility = "visible";
+                    document.getElementById(userActionId).style.display = "block";
+                    document.getElementById(userActionId).style.zIndex = "15";
+                    document.getElementById(userActionId).style.position = "relative";
+                    document.getElementById(userActionId).style.top = "-3px";
+                    document.getElementById(userActionId).style.left = "0px";
+                    document.getElementById(userActionId).style.width = "auto";
+                    document.getElementById(userActionId).style.height = "auto";
+                }
+
+                document.getElementById(containerId).style.zIndex = "11";
+                document.getElementById(containerId).style.position = "relative";
+                document.getElementById(containerId).style.height = containerHeight + "px";
+                document.getElementById(containerId).style.overflow = "hidden";
+                document.getElementById(textItemId).style.zIndex = "11";
+                document.getElementById(textItemId).style.position = "relative";
+                document.getElementById(textItemId).style.top = -i + "px";
+            }
+            if (i < endValue) {
+                i++;
+                timer = setTimeout("makeItMove('" + containerId + "','" + userActionId + "','" + textItemId + "'," + i + ")", 50);
+            }
+            else
+                if (i == endValue) {
+                    i = startValue;
+                    timer = setTimeout("makeItMove('" + containerId + "','" + userActionId + "','" + textItemId + "'," + i + ")", 100);
+                }
+                else {
+                    clearTimeout(timer);
+                    document.getElementById(textItemId).style.zIndex = "11";
+                    document.getElementById(textItemId).style.position = "relative";
+                    document.getElementById(textItemId).style.top = 10 + "px";
+                    document.getElementById(textItemId).style.left = 0 + "px";
+                    document.getElementById(containerId).style.overflow = "scroll";
+                }
+        }
+
+
+
+        // Copyright 2006-2007 javascript-array.com
+
+        var timeout = 500;
+        var closetimer = 0;
+        var ddmenuitem = 0;
+
+        // open hidden layer
+        function mopen(id) {
+            // cancel close timer
+            mcancelclosetime();
+
+            // close old layer
+            if (ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+            // get new layer and show it
+            ddmenuitem = document.getElementById(id);
+            ddmenuitem.style.visibility = 'visible';
+
+        }
+        // close showed layer
+        function mclose() {
+            if (ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+        }
+
+        // go close timer
+        function mclosetime() {
+            closetimer = window.setTimeout(mclose, timeout);
+        }
+
+        // cancel close timer
+        function mcancelclosetime() {
+            if (closetimer) {
+                window.clearTimeout(closetimer);
+                closetimer = null;
+            }
+        }
+
+        // close layer when click-out
+        document.onclick = mclose; 
+
+            
+            
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+        var theForm = document.forms['Form1'];
+        if (!theForm) {
+            theForm = document.Form1;
+        }
+        function __doPostBack(eventTarget, eventArgument) {
+            if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+                theForm.__EVENTTARGET.value = eventTarget;
+                theForm.__EVENTARGUMENT.value = eventArgument;
+                theForm.submit();
+            }
+        }
+//]]>
+</script>
+      <script type="text/javascript">
+          function blinker() {
+              $('.blink_me').fadeOut(500);
+              $('.blink_me').fadeIn(500);
+          }
+
+          setInterval(blinker, 1000);
+</script>
+<script type="text/javascript" language="javascript">
+    $(document).ready(function () {
+
+        // Reset Font Size
+        //var originalFontSize = $('html').css('font-size');
+        //alert(window.name);
+        var fonsize1 = '';
+        var originalFontSize = window.name; //'';
+        $('html').css('font-size', originalFontSize);
+
+        $(".resetFont").click(function () {
+            window.name = "16px";
+            $('html').css('font-size', "16px");
+        });
+        // Increase Font Size
+        $(".increaseFont").click(function () {
+            var currentFontSize = $('html').css('font-size');
+            if (parseFloat(currentFontSize, 20) > 30)
+            { return false; }
+            var currentFontSizeNum = parseFloat(currentFontSize, 20);
+            var newFontSize = currentFontSizeNum * 1.2;
+            window.name = newFontSize + "px";
+            //                '';
+            $('html').css('font-size', newFontSize);
+            return false;
+        });
+        // Decrease Font Size
+        $(".decreaseFont").click(function () {
+            var currentFontSize = $('html').css('font-size');
+            if (parseFloat(currentFontSize, 10) < 14)
+            { return false; }
+            var currentFontSizeNum = parseFloat(currentFontSize, 10);
+            var newFontSize = currentFontSizeNum * 0.8;
+            window.name = newFontSize + "px";
+            //                '';
+            $('html').css('font-size', newFontSize);
+
+        });
+        $(".BlackFont").click(function () {
+            $('body').css('background-color', '#000000');
+            $('table').css('background-color', '#000000');
+            $('body').css('color', '#FBF202');
+            $('table').css('color', '#FBF202');
+
+            return false;
+        });
+    });
+    </script>
+    <style type="text/css">
+        .style3
+        {
+            color: #FFFFFF;
+            font-size: large;
+        }
+    </style>
+     <style type="text/css">
+          .style15
+          {
+              font-size:40px;
+        color:black;
+
+text-shadow:#ccc 0 1px 0, #c9c9c9 0 2px 0, #bbb 0 3px 0, #b9b9b9 0 4px 0, #aaa 0 5px 0,rgba(0,0,0,.1) 0 6px 1px, rgba(0,0,0,.1) 0 0 5px, rgba(0,0,0,.3) 0 1px 3px, rgba(0,0,0,.15) 0 3px 5px, rgba(0,0,0,.2) 0 5px 10px, rgba(0,0,0,.2) 0 10px 10px, rgba(0,0,0,.1) 0 20px 20px;
+          }
+          
+           .style16
+          {
+             color: rgb(255, 51, 0);
+          }
+          .style17
+          {
+               color: rgb(255, 51, 0);
+      </style>
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="./PublicationM-Nirvachanprativedan.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYyNDU2OTgzMw8WAh4CdnNmFgJmDw8WBh4PX19BbnRpWHNyZlRva2VuBSBhMzNmOTcwZDVmMjY0YTI1ODFhYjFjMzRjMTZkOGIzMB4SX19BbnRpWHNyZlVzZXJOYW1lZR8AZmQWAgIDD2QWBgIIDxYCHgdWaXNpYmxlaGQCDg8WAh8DZ2QChAMPZBYCAg8PZBYCAgEPPCsAEQMADxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AgRkARAWABYAFgAMFCsAABYCZg9kFgoCAQ9kFgxmD2QWAmYPFQEBMWQCAQ8PFgIeBFRleHQFBDY4OTdkZAICDw8WAh8GBQQyMDE4ZGQCAw8PFgIfBgUKMDEvMDUvMjAxNWRkAgQPZBYCAgEPDxYCHwYFeeCkqOCkl+CksOCkquCkvuCksuCkv+CkleCkvuCkk+CkgiDgpJXgpYcg4KSq4KSC4KSa4KSuIOCkhuCkriDgpKjgpL/gpLDgpY3gpLXgpL7gpJrgpKggMjAxNC0xNSDgpKrgpY3gpLDgpKTgpL/gpLXgpYfgpKbgpKhkZAIFDw8WAh8GBRVOTi1WLTIwMTQtMTVmaW5hbC5wZGZkZAICD2QWDGYPZBYCZg8VAQEyZAIBDw8WAh8GBQQ2ODk4ZGQCAg8PFgIfBgUEMjAxOGRkAgMPDxYCHwYFCjE1LzA0LzIwMTNkZAIED2QWAgIBDw8WAh8GBagB4KSo4KSX4KSw4KSq4KS+4KSy4KS/4KSV4KS+4KST4KSCIOCkleClhyDgpJrgpKTgpYHgpLDgpY3gpKUg4KSG4KSuIOCkqOCkv+CksOCljeCkteCkvuCkmuCkqCDgpKbgpL/gpLjgpK7gpY3gpKzgpLAgMjAwOS0g4KSc4KSo4KS14KSw4KWAIDIwMTAg4KSq4KWN4KSw4KSk4KS/4KS14KWH4KSm4KSoZGQCBQ8PFgIfBgUUTk4tSVYtMjAwOSBmaW5hbC5wZGZkZAIDD2QWDGYPZBYCZg8VAQEzZAIBDw8WAh8GBQQ2ODk5ZGQCAg8PFgIfBgUEMjAwMWRkAgMPDxYCHwYFCjI3LzEyLzIwMDFkZAIED2QWAgIBDw8WAh8GBZEB4KSo4KSX4KSw4KSq4KS+4KSy4KS/4KSV4KS+4KST4KSCIOCkleClhyDgpKbgpY3gpLXgpL/gpKTgpYDgpK8g4KSG4KSuIOCkqOCkv+CksOCljeCkteCkvuCkmuCkqC0xOTk5IOCkquCljeCksOCkpOCkv+CkteClh+CkpuCkqCDgpLXgpLDgpY3gpLcgMjAwMWRkAgUPDxYCHwYFFE5OLUlJLTIwMDEtRklOQUwucGRmZGQCBA9kFgxmD2QWAmYPFQEBNGQCAQ8PFgIfBgUDMjA4ZGQCAg8PFgIfBgUEMTk5NWRkAgMPDxYCHwYFCjMwLzExLzE5OTVkZAIED2QWAgIBDw8WAh8GBasB4KSo4KSX4KSw4KSq4KS+4KSy4KS/4KSV4KS+4KST4KSCIOCkleClhyDgpKrgpY3gpLDgpKXgpK4g4KSG4KSuIOCkmuClgeCkqOCkvuCktSDgpKjgpLXgpK7gpY3gpKzgpLAt4KSm4KS/4KS44KSu4KWN4KSs4KSwIDE5OTQg4KSq4KWN4KSw4KSk4KS/4KS14KWH4KSm4KSoIOCkteCksOCljeCktyAxOTk1ZGQCBQ8PFgIfBgUHMDAzLnBkZmRkAgUPDxYCHwNoZGQYAQUkY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRncmRfQ3JlYXRlDzwrAAwBCAIBZPUpQYcUDBPdeT2OfJyjvxNmPTqlIBwcWG33P+43nW3K" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9346A305" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAltUTzw5O9E8HES2PkwIwzDwBB4NoLzM81zDBSd4ClME2c2LYdyPdJpXjT5ZTM5cAj0mKAkTog7/siEf7bsUM3lg0w1IOU2jx3CSsWOz2wmgxuJ926NKJs4PPaUc35EfPqu/3Nbi3F0J2Ukqba+SQStw7cauKAts4pwcCm17JrOXouA0Cfcj41k6gAGP7X+nMy2gq/Q7TEDFWaerLksRO3ioZtv2AshsYpmw5axQcJg/g==" />
+    <div>
+     <form name="form1" method="post" action="" id="form2">
+      <div>
+        <div id="bottom">
+          <center>
+            <table id="toplayer" style="width:98%;">
+              <tr>
+                <td style="background-color:#EEEEEE; height:25px; text-align:right; width:100%; vertical-align:top;" colspan="100">
+                        
+                <div id="changeFont" style="height:13px;">
+
+
+             <a href="screenreader.aspx">  स्क्रीन रीडर पहुँच</a> 
+            &nbsp;&nbsp;|&nbsp;&nbsp;   
+         <a target="_blank" href="https://www.mplocalelection.gov.in/iems/show%20contacts.aspx">  संपर्क करें</a> 
+            &nbsp;&nbsp;|&nbsp;&nbsp;     <a target="_blank"  href="http://www.mplocalelection.gov.in/iems/">  लॉगइन</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
+             <a href="?lang=en" id="ctl00_linkEnglishLang">
+            English
+            </a>|&nbsp;&nbsp; 
+               <a target=_blank href="https://www.youtube.com/channel/UCbDKAFHfrpCPFfyqTDwxrhw"><img style="height:25px; width:25px; vertical-align:top " src="images/youtube.png" /></a>
+
+                  
+                            </div><!----changefont---->
+                        </td>
+                    </tr>
+        </table><!---toplayer--->
+
+        </center>
+
+ <table id="secondheader" width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="mainheader">
+  <td id="mainheadertd" colspan="3">
+  <div>
+   <center>
+       <table id="Table1" style="width:98%;">
+              <tr>
+                <td style="background-color:#; height:50px; text-align:left; width:100%; vertical-align:top;" colspan="100">
+                        
+
+                   
+
+                        <img height="80px" width="80px" style="vertical-align:middle"  src="images/logo Latest2 copy(1).png"/>
+                        <span 
+                            class="style15">
+
+                 &nbsp;   मध्य प्रदेश राज्य निर्वाचन आयोग </span>
+             
+                        </td>
+                    </tr>
+        </table>
+
+
+        <table id="Table2" style="width:98%;">
+                   
+              <tr id="ctl00_tr2">
+	<td style="background:url(Images/Theme1/Blue/Graphics-headerh.jpg)no-repeat center; 
+                    
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+                    
+                    
+                    
+                     height:130px;  background-repeat: no-repeat;  margin: auto; text-align:left; width:100%; vertical-align:top;">
+                        
+
+                     
+                
+
+
+
+             
+                        </td>
+</tr>
+
+        </table>
+
+
+    <table width="98%" cellpadding="0" cellspacing="0" class="header_middle" border="0">
+    <!----logoheader--->
+
+        <tr id="TrMenuIMIS">
+        <td align="left" class="menuContainer" colspan="2">
+        <div class="menuContainer">
+    <div class="content">
+        <div id="UCMenu_DivS" class="menuStartimage" width="31px">
+            &nbsp;</div>
+            
+    <nav id="primary_nav_wrap">
+<ul>
+  <li class="current-menu-item"><a href="indexenglish.aspx">मुख पृष्ठ</a></li>
+  <li><a href="#">हमारे बारे में</a>
+    <ul><!---hmare bare me-->
+
+      <li><a href="Historye.aspx">संक्षिप्त इतिहास</a></li>
+      <li><a href="visionandmissione.aspx">विज़न और मिशन</a></li>
+      <li><a href="Organizationstructure.aspx">संगठन चार्ट</a>
+      
+      </li>
+     <li><a target=_blank href="https://www.mplocalelection.gov.in/iems/show%20contacts.aspx">संपर्क करें</a>
+      
+      </li>
+    </ul><!---ul hmare bare me-->
+  </li><!---li hmare bare me-->
+  <li><a href="#">निर्वाचन</a>
+    <ul>
+      <li><a href="#">नगरीय निकाय</a>
+
+      <ul>
+      
+       <li><a href="Election at a glance-m.aspx">एक नज़र में</a></li>
+      <li><a href="ElectionM-Symbols.aspx">प्रतीक चिन्ह</a></li>
+        <li><a href="ElectionProgramM.aspx">निर्वाचन कार्यक्रम</a>
+       
+        
+        
+        </li>
+     
+
+                  <li><a href="ElectionarchiveM.aspx">निर्वाचन अभिलेखागार</a>
+                
+                </li>
+  
+      
+      
+      </ul>
+
+      </li>
+      <li><a href="#">पंचायत</a>
+      
+      
+      
+      <ul>
+      
+       <li> <a href="Election At a Glance-P.aspx">एक नज़र में</a></li>
+      <li><a href="ElectionP-Symbols.aspx">प्रतीक चिन्ह</a></li>
+      <li><a href="ElectionProgramP.aspx">निर्वाचन कार्यक्रम</a>
+      
+      
+      </li>
+     
+
+   <li><a href="ElectionarchiveP.aspx">निर्वाचन अभिलेखागार</a>
+                
+                 </li>
+     
+      
+      
+      
+      </ul>
+      
+      
+      </li>
+
+    </ul><!---ul nirvachan-->
+  </li><!---li nirvachan-->
+  <li><a href="#">मतदाता</a>
+    <ul>
+   <li><a  href="#">नगरीय निकाय</a>
+  <ul>
+     
+      
+      <li><a target=_blank  href="http://mpsecerms.mp.gov.in/SECSearchEngine">मतदाता सूची में अपना नाम ढूंढे</a> </li>
+      <li><a href="#">अपना मतदान केंद्र जाने</a> </li>
+       <li><a target=_blank href="Data/Panchayats/i am  urban voter.pdf">मार्गदर्शिका  - में मतदाता हूँ</a> </li>
+    
+      <li><a target=_blank  href="Data/voter/FORMK K_URBAN_new.pdf">छापें - मतदाता सूची में नाम जुडवाने हेतु आवेदन(ER-1)</a> </li>
+       <li><a target=_blank  href="Data/voter/FORM KH_URBAN_new.pdf">छापें  - मतदाता सूची में अंकित जानकारी में सुधार हेतु आवेदन(ER-2)</a> </li>
+        <li><a target=_blank  href="Data/voter/FORM G_URBAN_new.pdf">छापें - मतदाता सूची से नाम कटवाने हेतु आवेदन(ER-3)</a> </li>
+
+                 <li><a target=_blank href="Data/other/ER_4_nagarpaliak.pdf"> सहायक रजिस्ट्रीकरण अधिकारी के आदेश के विरुद्ध अपील (ER-4) </a>
+                
+                </li>
+
+        </ul>
+    </li>
+      
+      
+     <li><a  href="#">पंचायत</a>
+  <ul>
+    
+      <li><a target=_blank  href="http://mpsecerms.mp.gov.in/SECSearchEngine">मतदाता सूची में अपना नाम ढूंढे</a> </li>
+      <li><a href="#">अपना मतदान केंद्र जाने</a> </li>
+ 
+       <li><a target=_blank href="Data/Panchayats/i am panchayat voter.pdf">मार्गदर्शिका - में पंचायत का वोटर हूँ</a> </li>
+      <li><a target=_blank  href="Data/voter/FORM K _ RURAL_new.pdf">छापें - मतदाता सूची में नाम जुडवाने हेतु आवेदन(ER-1)</a> </li>
+       <li><a target=_blank  href="Data/voter/Form KH _ RURAL_new.pdf">छापें  - मतदाता सूची में अंकित जानकारी में सुधार हेतु आवेदन(ER-2)</a> </li>
+        <li><a target=_blank  href="Data/voter/Form G_RURAL1_new.pdf">छापें - मतदाता सूची से नाम कटवाने हेतु आवेदन(ER-3)</a> </li>
+
+                 <li><a target=_blank href="Data/other/ER_4_panchayat.pdf">सहायक रजिस्ट्रीकरण अधिकारी के आदेश के विरुद्ध अपील (ER-4) </a>
+                
+                </li>
+      
+
+        </ul>
+    </li>
+
+
+    </ul><!---ul matdata-->
+
+
+
+
+  </li><!---li matdata-->
+ 
+  <li><a href="#">उम्मीदवार</a>
+  <ul>
+   <li class="dir"><a href="#">नगरीय निकाय</a>
+   <ul>
+   
+    <li><a href="CandidateM-Nomination.aspx">नाम निर्देशन पत्र</a></li>
+        <li><a href="CandidateM-affidavits.aspx">शपथ पत्र</a></li>
+     <li><a href="CandidateM-Election Expenses Articles.aspx">निर्वाचन व्यय लेखा</a></li>
+       <li><a href="CandidateM-symbol allocation.aspx">प्रतीक चिन्ह</a></li>
+        <li><a href="CandidateM-Mannuals.aspx">मार्गदर्शिका पुस्तिका</a></li>
+           <li><a href="CandidateM-Instructions.aspx">अन्य निर्देश</a></li>
+             <li><a href="CandidateM-model court of conduct.aspx">आदर्श आचरण संहिता</a></li>
+   <li><a href="#">मतदाता सूची</a>
+        
+        <ul>
+             
+           <li><a target=_blank href="http://mpsecerms.mp.gov.in/SECSearchEngine">मतदाता सूची में अपना नाम ढूंढे</a></li>
+                <li><a href="#">मतदाता सूची प्रिन्ट करें</a></li>
+        
+        </ul>
+        
+        
+        </li>
+           <li><a href="CandidateM-Polling Station.aspx">मतदान केन्द्र</a></li>
+                <li><a href="CandidateM-Disqualified.aspx">निरर्हित अभ्यर्थियों की जानकारी
+	
+</a></li>
+                   <li><a href="CandidateM-Download.aspx">प्रिन्ट (प्ररूप एवं प्रपत्र)</a></li>
+                 
+                       
+   
+   </ul>
+   
+   </li>
+  
+    <li class="dir"><a href="#">पंचायत</a>
+   <ul>
+   
+    <li><a href="CandidateP-Nomination.aspx">नाम निर्देशन पत्र</a></li>
+        <li><a href="CandidateP-affidavits.aspx">शपथ पत्र</a></li>
+ 
+       <li><a href="CandidateP-symbol allocation.aspx">प्रतीक चिन्ह</a></li>
+        <li><a href="CandidateP-Mannuals.aspx">मार्गदर्शिका पुस्तिका</a></li>
+           <li><a href="CandidateP-Instructions.aspx">अन्य निर्देश</a></li>
+             <li><a href="CandidateP-model court of conduct.aspx">आदर्श आचरण संहिता</a></li>
+   <li><a href="#">मतदाता सूची</a>
+        
+        <ul>
+           <li><a target=_blank href="http://mpsecerms.mp.gov.in/SECSearchEngine">मतदाता सूची में अपना नाम ढूंढे</a></li>
+                <li><a href="#">मतदाता सूची प्रिन्ट करें</a></li>
+        
+        </ul>
+        
+        
+        </li>
+           <li><a href="CandidateP-Polling Station.aspx">मतदान केन्द्र</a></li>
+                <li><a href="CandidateP-Disqualified.aspx">निरर्हित अभ्यर्थियों की जानकारी
+	
+</a></li>
+                   <li><a href="CandidateP-Download.aspx">प्रिन्ट (प्ररूप एवं प्रपत्र)</a></li>
+                 
+                       
+   
+   </ul>
+   
+   </li>
+  
+  
+  </ul><!---abhyarthi end--->
+  
+  
+  
+  
+  </li><!---candidate li end--->
+
+
+  <li><a href="#">प्रेक्षक</a>
+  <ul>
+   <li class="dir"><a href="ObserverM.aspx">नगरीय निकाय</a></li>
+    <li class="dir"><a href="ObserverP.aspx">पंचायत</a></li>
+  
+  
+  </ul><!---ul prekshak-->
+  
+  
+  </li><!---li prekshak-->
+
+    <li><a href="#">निर्वाचन पदाधिकारी</a>
+  <ul>
+  <li class="dir"><a href="#">नगरीय निकाय</a>
+  <ul>
+  
+    <li ><a href="ElectionofficerM-collector.aspx">कलेक्टर एवं जिला निर्वाचन अधिकारी</a></li>
+      
+    <li><a href="ElectionofficerM-Deputy District Election Officer.aspx">उप जिला निर्वाचन अधिकारी</a></li>
+
+     <li><a href="ElectionofficerM-Registration Officer.aspx">रजिस्ट्रीकरण अधिकारी</a></li>
+
+         <li><a href="ElectionofficerM-Asst Registration Officer.aspx"> सहायक रजिस्ट्रीकरण अधिकारी</a></li>
+
+          
+  
+  
+    <li><a href="ElectionofficerM-Returning officer.aspx">  रिटर्निंग अधिकारी</a></li>
+  
+    <li><a href="ElectionofficerM-Asst Returning officer.aspx">सहायक रिटर्निंग अधिकारी</a></li>
+    
+
+      <li "><a href="ElectionofficerM-Sector officer.aspx">सेक्टर ऑफिसर</a></li>
+    <li "><a href="ElectionofficerM-Pithasin officer.aspx">पीठासीन अधिकारी</a></li>
+
+     <li><a href="ElectionofficerM-Pradhikrat Officer.aspx"> प्राधिकृत अधिकारी (B.L.O)</a></li>
+  </ul>
+  </li>
+
+    <li class="dir"><a href="#">पंचायत</a>
+    <ul>
+  
+    <li><a href="ElectionofficerP-collector.aspx">कलेक्टर एवं जिला निर्वाचन अधिकारी</a></li>
+      
+    <li><a href="ElectionofficerP-Deputy District Election Officer.aspx">उप जिला निर्वाचन अधिकारी</a></li>
+
+     <li><a href="ElectionofficerP-Registration Officer.aspx">रजिस्ट्रीकरण अधिकारी</a></li>
+
+         <li><a href="ElectionofficerP-Asst Registration Officer.aspx"> सहायक रजिस्ट्रीकरण अधिकारी</a></li>
+
+          
+  
+  
+    <li><a href="ElectionofficerP-Returning officer.aspx"> रिटर्निंग अधिकारी</a></li>
+  
+    <li><a href="ElectionofficerP-Asst Returning officer.aspx">सहायक रिटर्निंग अधिकारी</a></li>
+
+      <li><a href="ElectionofficerP-Sector officer.aspx">सेक्टर ऑफिसर</a></li>
+    <li><a href="ElectionofficerP-Pithasin officer.aspx"> पीठासीन अधिकारी</a></li>
+     <li><a href="ElectionofficerP-Pradhikrat Officer.aspx">प्राधिकृत अधिकारी (B.L.O)</a></li>
+  </ul>
+    </li>
+  
+  
+  
+  </ul><!---ul election officer-->
+  
+  
+  </li><!---li election officer-->
+
+
+   <li><a href="#"> छापें</a>
+  
+    <ul>
+      <li class="dir"><a href="#">नगरीय निकाय</a>
+      <ul>
+        <li class="dir"><a href="PrintM-Form.aspx">प्ररूप एवं प्रपत्र</a></li>
+    <li class="dir"><a href="PrintM-Checklist.aspx">चेकलिस्ट</a></li>
+      
+      </ul>
+      
+      </li>
+    <li class="dir"><a href="#">पंचायत</a>
+    
+       <ul>
+        <li class="dir"><a href="PrintP-Form.aspx">प्ररूप एवं प्रपत्र</a></li>
+    <li class="dir"><a href="PrintP-Checklist.aspx">चेकलिस्ट</a></li>
+      
+      </ul>
+    </li>
+ 
+ 
+  
+  </ul><!---ul print-->
+  
+  </li><!---li print-->
+     
+
+      <li><a href="#">प्रकाशित सामग्री</a>
+  
+    <ul>
+      <li class="dir"><a href="#">नगरीय निकाय</a>
+      <ul>
+        <li><a href="PublicationM-Nirdesh.aspx">निर्देशो का संकलन</a></li>
+    <li><a href="PublicationM-Manual.aspx">मार्गदर्शिका</a></li>
+    <li><a href="PublicationM-Nirvachanprativedan.aspx">निर्वाचन प्रतिवेदन</a></li>
+    <li><a href="PublicationM-vividh.aspx">विविध</a></li>
+      
+      </ul>
+      
+      </li>
+    <li class="dir"><a href="#">पंचायत</a>
+    
+       <ul>
+        <li><a href="PublicationP-Nirdesh.aspx">निर्देशो का संकलन</a></li>
+    <li><a href="PublicationP-Manual.aspx">मार्गदर्शिका</a></li>
+    <li><a href="PublicationP-Nirvachanprativedan.aspx">निर्वाचन प्रतिवेदन</a></li>
+    <li><a href="PublicationP-vividh.aspx">विविध</a></li>
+      
+      </ul>
+    </li>
+ 
+ 
+  
+  </ul><!---ul prakashan-->
+  
+  </li><!---li prakashan-->
+     
+      <li><a href="#">अधिनियम एवं नियम</a>
+    
+    <ul>
+    
+     <li class="dir"><a href="#">नगरीय निकाय</a>
+     
+      <ul>
+    
+       <li><a href="Acts and RulesM-Adhiniyam.aspx">अधिनियम</a></li>
+       <li><a href="Acts and RulesM-Niyam.aspx">नियम</a></li>
+       <li><a href="Acts and RulesM-Paripatr.aspx">परिपत्र</a></li>
+        <li><a href="Acts and RulesM-Aadesh.aspx">आदेश</a></li>
+          <li><a href="Acts and RulesM-Rajpatr.aspx">राजपत्र</a></li>
+                    <li><a href="Acts and RulesM-important judgements.aspx">महत्वपूर्ण न्यायिक आदेश</a></li>
+    </ul>
+     
+     
+     
+     </li>
+    <li class="dir"><a href="#">पंचायत</a>
+    
+    
+        <ul>
+   <li><a href="Acts and RulesP-Adhiniyam.aspx">अधिनियम</a></li>
+       <li><a href="Acts and RulesP-Niyam.aspx">नियम</a></li>
+       <li><a href="Acts and RulesP-Paripatr.aspx">परिपत्र</a></li>
+        <li><a href="Acts and RulesP-Aadesh.aspx">आदेश</a></li>
+          <li><a href="Acts and RulesP-Rajpatr.aspx">राजपत्र</a></li>
+                <li><a href="Acts and RulesP-important judgements.aspx">महत्वपूर्ण न्यायिक आदेश</a></li>
+    </ul>
+    
+    
+    </li>
+
+
+
+    
+    </ul><!---ul acts and rules-->
+    
+    
+    
+    </li><!---li acts and rules-->
+
+
+    <li><a href="#">मीडिया</a>
+    
+   <ul>
+             <li><a href="events.aspx">आयोजन</a></li>
+       <li><a href="newsclippingsM.aspx">सूचना एवं समाचार</a></li>
+
+       <li><a href="">गैलरी</a>
+       <ul>
+    <li><a href="PhotgalleryM.aspx">फोटो गैलरी</a></li>
+       <li><a href="videosM.aspx">वीडियो गैलरी</a></li>
+       
+    
+    </ul>
+      <li>     <a target="_parent" href="secmoviefront.aspx">यादगार लम्हे:लघु चित्र एवं फिल्म&nbsp; </a></li>
+    </li>
+   
+  </ul>
+
+    </li>
+  
+    <li><a href="#">सूचना प्रौद्योगिकी</a>
+    
+   <ul>
+    
+       <li><a target=_blank href="https://docs.google.com/forms/d/e/1FAIpQLSdD9EqkXXLDIH53s10dZf5arn9S7zSmrmTElgGdVxxxKk9fCA/viewform">हेल्प डेस्क</a></li>
+
+    
+    
+    </ul>
+    </li>
+  
+  </ul>
+     
+</ul><!---main ul end--->
+</nav>
+    </div>
+</div><!---menucontainer--->
+        </td>
+        </tr><!---TrMenuIMIS--->
+
+
+
+   </table>
+    
+   </center>
+  
+  
+  
+  </div>
+    <div class="clear">
+     </div>
+
+  </td><!---mainheadertd---->
+ 
+ 
+ </tr><!---mainheader--->
+ 
+
+     <tr id="TrMarquee">
+     <td colspan="3" align="center">
+   <br />
+
+
+     </td>
+
+     </tr><!----TrMarquee--->
+    
+      <tr id="maincontent1">
+      <td id="maincontent2" valign="top">
+      <table width="99%" border="0" cellspacing="0" cellpadding="0" class="datatable">
+                        <tr>
+                            <td width="16%" valign="top">
+                                <!-- Left Container Start from Here -->
+                                <div class="leftContainer">
+                                    <div>
+    <div class="grid_3">
+
+
+
+   
+
+                
+
+  <a target="_parent" href="http://mplocalelection.gov.in/mobi.aspx"><img width="238px;" src="images/Theme1/chunav.jpg" /></a>
+   <br />   <br />
+    <a target="_blank" href="http://geoportal.mp.gov.in/sec_result/home.aspx"><img width="238px;" src="images/Theme1/gis.jpg" /></a>
+   <br />   <br />
+
+   
+   
+
+
+
+        
+        <div  class="accordionButton">
+        <a target="_blank" href="Data/mcc.pdf">पंचायत आम निर्वाचन 2021-22 आदर्श आचरण संहिता। </a><strong></strong></div>
+
+        
+         <div  class="accordionButton">
+        <a target="_blank" href="Data/828.pdf">त्रि-स्तरीय पंचायतों के आम निर्वाचन 2021-22 निर्वाचन प्रतीक चिन्हों के संबंध में ।</a><strong></strong></div>
+      
+      
+         <div style="background-color:Gray" class="accordionButton">
+        <a href="supremecourt.aspx">पंचायत आम निर्वाचन 2021-22 सुप्रीम कोर्ट आदेशनुसार</a><strong><img src="new-icon-animated.gif"     style="width:50px;height:20px;float:left; display:block;" /></strong></div>
+
+
+        <div style="background-color:Gray" class="accordionButton">
+        <a href="panchayatInstructions.aspx">पंचायत आम निर्वाचन 2021-22 महत्वपूर्ण निर्देश</a><strong><img src="new-icon-animated.gif"     style="width:50px;height:20px;float:left; display:block;" /></strong></div>
+
+
+
+         <div style="background-color:Gray" class="accordionButton">
+        <a href="PublicationP-Manual.aspx">पंचायत आम निर्वाचन 2021-22  मार्गदर्शिका </a><strong><img src="new-icon-animated.gif"     style="width:50px;height:20px;float:left; display:block;" /></strong></div>
+
+  <div class="accordionButton">
+        <a href="Instructions.aspx">आयोग द्वारा जारी निर्देश</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span></div>
+ 
+
+ 
+          <div class="accordionButton">
+       <a target="_blank"  href="https://mplocalelection.gov.in/mms/ERMS/VoterlistruralfinalRevised2021.aspx"><span>मतदाता सूची का अंतिम प्रकाशन - (पंचायत)(Revised)</a></span><span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span>
+ 
+         </div>
+            
+
+     <div class="accordionButton">
+       <a target="_blank"  href="https://mplocalelection.gov.in/mms/ERMS/VoterlistruraldraftRevised2021.aspx"><span>मतदाता सूची का प्रारूप प्रकाशन - (पंचायत)(Revised)</a></span><span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span>
+ 
+         </div>
+ 
+ <div class="accordionButton">
+        <a target="_blank" href="Data/OLIN_YP_Singh.mp4"><span>वीडियो - OLIN के माध्यम से ऑनलाइन नामनिर्देशन प्रस्तुत करने की प्रक्रिया</span><span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span>
+         </div> 
+ <div class="accordionButton">
+        <a  href="jingles.aspx"><span>नगरीय निकाय निर्वाचन - 2021 के प्रचार प्रसार हेतु जिंगल्स</span><span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span>
+         </div>            
+     <div class="accordionButton">
+        <a  href="jingles/State Election Flex 3x6 Print.rar"><span>पोस्टर्स डाउनलोड करें</span><span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span>
+         </div>
+
+  <div class="accordionButton">
+        <a  href="TraningM.aspx"><span>जिलों के लिए प्रशिक्षण सामग्री (डाउनलोड करें)</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span>
+         </div>
+
+ 
+         
+          <div class="accordionButton">
+       <a target="_parent"  href="matdatasuchiM.aspx"><span>मतदाता सूची का प्रारूप प्रकाशन - (नगरीय निकाय)</a></span><span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span>
+ 
+         </div>
+
+    
+    <div class="accordionButton">
+       <a target="_parent"  href="matdatasuchiP.aspx"><span>मतदाता सूची का प्रारूप प्रकाशन - (पंचायत)</a></span><span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span>
+ 
+         </div>
+
+
+          <div class="accordionButton">
+        <a target="_parent"  href="matdatasuchiM1.aspx"><span>मतदाता सूची का अंतिम प्रकाशन - (नगरीय निकाय)</a></span><span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span>
+         </div>
+
+             <div class="accordionButton">
+        <a target="_parent"  href="matdatasuchiP1.aspx"><span>मतदाता सूची का अंतिम प्रकाशन - (पंचायत)</a></span><span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span>
+         </div>
+
+           <div class="accordionButton">
+        <a target=_blank  href="http://mpsecerms.mp.gov.in/secdashboard/"><span>मतदाता सूची पुनरीक्षण कार्यक्रम - 2022 डैशबोर्ड</span></span><span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span></a>
+         </div>
+
+   <div class="accordionButton">
+        <a target=_blank  href="http://mplocalelection.gov.in/iems/District/MMS/Reports/Stock_Report11.aspx"><span>मटेरियल मैनेजमेंट सिस्टम रिपोर्ट - मतदान सामग्री</span><span></span>&nbsp;</a>
+         </div>
+
+
+
+
+
+         
+    <div class="accordionButton">
+        <a target="_blank"  href="Data/prarup3-prarup4/NP - New Nomination Form.pdf"><span>नवीन नामनिर्देशन पत्र प्ररूप-3 (नगरपालिका)&nbsp;<span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span></a>
+         </div>
+
+         
+         
+    <div class="accordionButton">
+        <a target="_blank"  href="Data/prarup3-prarup4/PN_Form-4 01-06-2019.pdf"><span>नवीन नामनिर्देशन पत्र प्ररूप-4 (पंचायत)&nbsp;<span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span></a>
+         </div>
+          <div class="accordionButton">
+        <a target="_blank"  href="shapthpatr/ULB_Affidavit_Format.pdf"><span>नगर पालिका के लिए शपथ पत्र&nbsp;<span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span></a>
+         </div>
+          <div class="accordionButton">
+        <a target="_blank"  href="shapthpatr/jila.pdf"><span>सरपंच ,जनपद , पंचायत सदस्य,जिला पंचायत सदस्य के लिए शपथ पत्र&nbsp;<span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span></a>
+         </div>
+          <div class="accordionButton">
+        <a target="_blank"  href="shapthpatr/panch.pdf"><span>पंच के लिए घोषणा पत्र&nbsp;<span></span>&nbsp;</a><span style="color:#CC0000" class="blink_me"><strong>New</strong></span></a>
+         </div>
+
+
+  
+        <div id="Div1"  class="accordionButton">
+        <a href="javascript:void(0);">डाउनलोड-मतदाता सूची प्ररूप/बुकलेट</a></div>
+    <div class="accordionContent">
+        <table border="0" cellspacing="0" cellpadding="0">
+            
+            <tr>
+            
+                 <td class="style1">
+   <a  onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/BLO/NP - BLO Booklet Updated as on 25-04-2018.pdf">  बी.एल.ओ.बुकलेट (नगरपालिका)</a>
+                </td>
+               
+            </tr>
+           
+                <tr>
+         
+                 <td class="style1">
+             <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/BLO/PN - BLO Booklet Updated as on 25-04-2018.pdf">2.बी.एल.ओ.बुकलेट (पंचायत) </a>
+                </td>
+            </tr>
+
+
+                 <tr>
+    
+                 <td class="style1">
+      <a >1.ER-1 परिवर्धन आवेदन</a>
+
+        <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/ER-nagarpalika/ER-1 NN.pdf">(i).नगरीय निकाय </a>
+           <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/ER-panchayat/ER-1 Panchayat.pdf">(ii).पंचायत </a>
+
+                </td>
+               
+            </tr>
+           
+                <tr>
+              <td class="style1">
+      <a >2.ER-2 विलोपन आवेदन</a>
+
+        <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/ER-nagarpalika/ER-2 NN.pdf">(i).नगरीय निकाय </a>
+           <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/ER-panchayat/ER-2 Panchayat.pdf">(ii).पंचायत</a>
+
+                </td>
+                
+            </tr>
+
+              <tr>
+           <td class="style1">
+      <a >3.ER-3 संशोधन आवेदन </a>
+
+        <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/ER-nagarpalika/ER-3 NN.pdf">(i).नगरीय निकाय </a>
+           <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/ER-panchayat/ER-3 Panchayat.pdf">(ii).पंचायत</a>
+
+                </td>
+                
+            </tr>
+           
+                <tr>
+           <td class="style1">
+      <a >4.ER-4 अपील आवेदन </a>
+
+        <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/ER-nagarpalika/ER-4 NN.pdf">(i).नगरीय निकाय </a>
+           <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/ER-panchayat/ER-4 Panchayat.pdf">(ii).पंचायत </a>
+
+                </td>
+                
+            </tr>
+          
+          
+        </table>
+    </div>
+
+
+
+
+
+     <div id="panel"  class="accordionButton">
+        <a href="javascript:void(0);">डाउनलोड - पीठासीन अधिकारी/बुकलेट/लीफलेट</a></div>
+    <div class="accordionContent">
+        <table border="0" cellspacing="0" cellpadding="0">
+            
+            <tr>
+           
+                 <td class="style1">
+                      <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/NP/NP - PO Booklet Updated as on 25-04-2018_new.pdf">1.पी.ओ बुकलेट (नगरपालिका) </a>
+                </td>
+               
+            </tr>
+           
+                <tr>
+         
+                <td class="style1">
+                      <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/PAN/PN - PO Booklet Updated as on 25-04-2018_new.pdf">2.पी.ओ बुकलेट (पंचायत) </a>
+                </td>
+            </tr>
+
+
+                 <tr>
+              <td class="style1">
+                      <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/Panch/PN - Panch Booklet updated as on 25-04-2018_new.pdf">3.पंच उपचुनाव बुकलेट  </a>
+                </td>
+               
+            </tr>
+           
+                <tr>
+         
+                 <td class="style1">
+                           <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/NP/NP - PO Leaflet updated as on 25-04-2018_new.pdf">4.पी.ओ. लीफलेट (नगरपालिका) </a>
+                </td>
+            </tr>
+
+              <tr>
+             
+                 <td class="style1">
+                      <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/PAN/PN - PO Leaflet Updated as on 25-04-2018_new.pdf">5.पी.ओ लीफलेट (पंचायत) </a>
+               </td>
+            </tr>
+           
+                <tr>
+         
+                 <td class="style1">
+                        <a onMouseOver="this.style.color='red'"    onMouseOut="this.style.color='black'" target=_blank  href="Data/Booklet-Leaflet-25-04-2018/Panch/PN - Panch Leaflet updated as on 25-04-2018_new.pdf">6.  पंच उपचुनाव लीफलेट </a>
+                        </td>
+            </tr>
+          
+          
+        </table>
+    </div>
+
+
+
+
+
+
+
+
+ 
+       
+
+
+
+          
+
+
+   
+       
+
+   
+  
+
+
+     <div class="accordionButton">
+        <a  href="TraningM.aspx"><span>जिलों के लिए प्रशिक्षण सामग्री (डाउनलोड करें)</span><span></span>&nbsp;</a>  </div>
+
+
+
+
+
+   <div class="accordionButton">
+        <a target="_parent" href="confrence.aspx"><span>26 वी राज्य निर्वाचन आयुक्तों की संगोष्ठी</span></a>
+         </div>
+
+
+
+
+
+
+ 
+
+     
+
+ 
+
+
+
+
+          
+  
+
+      
+
+    
+                  <div class="accordionButton">
+        <a target="_parent" href="aneventfuljourney.aspx">अनवरत यात्रा&nbsp; </a>
+         </div> 
+
+
+           <div class="accordionButton">
+        <a target="_parent" href="importantcourtorder.aspx">महत्वपूर्ण न्यायालयीन फैसले&nbsp;</a>
+         </div> 
+
+
+
+         
+       <div class="accordionButton">
+        <a target="_parent" href="establishmentday.aspx"><span>23वां स्थापना दिवस समारोह</span><span></span>&nbsp;</a>
+         </div>
+          
+
+
+                  <div class="accordionButton">
+        <a target="_parent" href="Election-commissioner.aspx">राज्य निर्वाचन आयुक्त के पत्र&nbsp; </a>
+         </div> 
+         
+
+
+         
+
+              <div class="accordionButton">
+        <a target="_blank" href="Consultation paper simlutanous elections.pdf">पंचायतों / नगरीय निकायों के चुनाव एक साथ करने के सम्बन्ध में विमर्श-आलेख  </a>
+         </div> 
+         
+        
+   
+                    
+        
+             
+   
+  
+
+          <div class="accordionButton">
+        <a target="_blank" href="https://mplocalelection.gov.in/Download_affidavit.aspx"><span>निर्वाचित जनप्रतिनिधियों के शपथ पत्र</span><span></span>&nbsp;</a>
+         </div>
+          
+
+
+           
+   
+   
+   
+            <div class="accordionButton">
+        <a target=_blank href="http://mpsecerms.mp.gov.in/SECSearchEngine">मतदाता सूची</a></div>
+   
+
+
+
+
+
+
+
+
+           <div class="accordionButton">
+        <a href="voterawareness.aspx">मतदाता जागरूकता</a></div>
+
+        
+       
+
+      
+
+        
+
+          
+        
+             <div class="accordionButton">
+        <a href="Rti.aspx">सूचना का अधिकार</a></div>
+
+        
+             <div class="accordionButton">
+        <a href="morelinksi.aspx">अन्य लिंक्स</a></div>
+
+
+
+
+</div>
+
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $(".subText").css('font-size', '14px !important');
+    });
+</script>
+
+   
+
+
+                </div>
+              
+   
+    </div>
+                                </div>
+                                <!-- Left Container Ends Here -->
+                            </td>
+                            <td width="64%" valign="top">
+                                <!-- Middle Container Start from Here -->
+           
+            
+
+
+
+
+
+           
+                
+
+<div class="middleContainer">
+                                    <table width="100%" class="StateLinks">
+                                         
+                                        <tr>
+                                            <td valign="top" width="100%">
+                                                
+                                          
+                                                        <div class="grid">
+                                                            <table class="datatable" width="100%">
+                                                                <tr>
+                                                                    <td>
+                                                                        <div>
+                                                                         <a href="indexenglish.aspx" style="color: #3366CC"> मुख पृष्ठ</a> >  प्रकाशित सामग्री >  
+ नगरीय निकाय  >   <a href="PublicationM-Nirvachanprativedan.aspx" style="color: #3366CC">निर्वाचन प्रतिवेदन</a>
+<p class="fontline">निर्वाचन प्रतिवेदन
+    
+    </p>
+
+<div>
+
+<p style="text-align:center"><span id="ctl00_ContentPlaceHolder1_lblHead" class="font"><b></b></span></p>
+
+<table style="width:100%" class="style1">
+<tr> 
+<td align="center"  style="background-color:white;">
+  <div>
+    
+      <div id="ctl00_ContentPlaceHolder1_Panel1" class="gridpanel">
+	
+      
+
+         <div>
+		<table class="Grid" cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolder1_grd_Create">
+			<tr class="gridheaderstyle">
+				<th scope="col">
+                      #
+                     </th><th scope="col">Id</th><th scope="col">वर्ष</th><th scope="col" width="110">विषय</th><th scope="col">वर्ष</th><th scope="col">&nbsp;</th>
+			</tr><tr class="gridrowstyle">
+				<td>
+                  1
+                     </td><td>6897</td><td>2018</td><td>01/05/2015</td><td align="left">
+                                     
+     <a id="ctl00_ContentPlaceHolder1_grd_Create_ctl02_lb" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grd_Create$ctl02$lb&#39;,&#39;&#39;)">नगरपालिकाओं के पंचम आम निर्वाचन 2014-15 प्रतिवेदन</a>
+                                        </td><td><font size="1">NN-V-2014-15final.pdf</font></td>
+			</tr><tr class="gridviewalternate">
+				<td>
+                  2
+                     </td><td>6898</td><td>2018</td><td>15/04/2013</td><td align="left">
+                                     
+     <a id="ctl00_ContentPlaceHolder1_grd_Create_ctl03_lb" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grd_Create$ctl03$lb&#39;,&#39;&#39;)">नगरपालिकाओं के चतुर्थ आम निर्वाचन दिसम्बर 2009- जनवरी 2010 प्रतिवेदन</a>
+                                        </td><td><font size="1">NN-IV-2009 final.pdf</font></td>
+			</tr><tr class="gridrowstyle">
+				<td>
+                  3
+                     </td><td>6899</td><td>2001</td><td>27/12/2001</td><td align="left">
+                                     
+     <a id="ctl00_ContentPlaceHolder1_grd_Create_ctl04_lb" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grd_Create$ctl04$lb&#39;,&#39;&#39;)">नगरपालिकाओं के द्वितीय आम निर्वाचन-1999 प्रतिवेदन वर्ष 2001</a>
+                                        </td><td><font size="1">NN-II-2001-FINAL.pdf</font></td>
+			</tr><tr class="gridviewalternate">
+				<td>
+                  4
+                     </td><td>208</td><td>1995</td><td>30/11/1995</td><td align="left">
+                                     
+     <a id="ctl00_ContentPlaceHolder1_grd_Create_ctl05_lb" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grd_Create$ctl05$lb&#39;,&#39;&#39;)">नगरपालिकाओं के प्रथम आम चुनाव नवम्बर-दिसम्बर 1994 प्रतिवेदन वर्ष 1995</a>
+                                        </td><td><font size="1">003.pdf</font></td>
+			</tr>
+		</table>
+	</div>
+</div>
+
+
+   
+    </div>
+
+<br />
+</td>
+</tr>
+    <tr>
+        <td  align="center" style="background-color:white;">
+            &nbsp;</td>
+    </tr>
+</table>
+
+
+    </div>
+
+
+
+
+</div>
+                                                                    </td>
+                                                                </tr>
+                                                             
+                                                               
+                                                             
+                                                            </table>
+                                                        </div>
+                                                    
+                                                    
+                                            </td>
+                                            
+                                            
+
+                                        </tr>
+                                    </table>
+                            </div>
+
+<!---right container and footer part-->
+ <td style=" box-shadow: 16px 3px 10px -7px #888, -10px 0px 20px -7px #888;"  valign="top" width="20%">
+                                <!-- Right Container Start from Here -->
+                                <div>
+                                    <table class="StateLinks">
+                                    <tr>
+                                            <td class="style1" valign="top">
+                                                <div class="grid">
+                                                    <table class="datatable" style="BACKGROUND-IMAGE:url(images/Table_bg.html); width:100%">
+                                                        <tr>
+                                                            <td valign="top" width="100%">
+                                                                <table style="width: 100%" class="StateLinks">
+                                                    <tr>
+                                                        <td>
+                                                            <div id="Div2" class="grid">
+                                              
+                                                            <table class="datatable" width="100%">
+                                                                <tr>
+                                                                    <td>
+                                                                      <div id="vertmenu">
+<h1> प्रकाशित सामग्री </h1>
+<ul>
+
+
+
+
+<li> <a id="ctl00_ContentPlaceHolder1_LinkButton1" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$LinkButton1&#39;,&#39;&#39;)">निर्देशो का संकलन</a> </li>
+
+<li>  <a id="ctl00_ContentPlaceHolder1_LinkButton4" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$LinkButton4&#39;,&#39;&#39;)">मार्गदर्शिका</a> </li>
+
+<li>  <a id="ctl00_ContentPlaceHolder1_LinkButton13" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$LinkButton13&#39;,&#39;&#39;)">निर्वाचन प्रतिवेदन</a> </li>
+
+<li>  <a id="ctl00_ContentPlaceHolder1_LinkButton9" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$LinkButton9&#39;,&#39;&#39;)">विविध</a> </li>
+
+
+
+</ul>
+
+
+</div>
+                                                                  
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+            <table width="100%">
+                                                                            <tr>
+                                                                                <td valign="top">
+                                                                                 
+                                                                                </td>
+                                                                                <td align="center">
+                                                                                    
+                                                                                </td>
+                                                                            </tr>
+                                                                        </table>    
+                                                                    </td>
+                                                                    
+                                                                </tr>
+                                                               
+                                                                <tr>
+                                                                    <td align="right" style="color: #4E387E; font-size: 15px; font-weight: bold;">
+                                                                      
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        
+                                                         
+                                                        
+                                                        
+                                                    </table>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        
+                                    </table>
+                                </div>
+                               
+                                <!-- Right Container Ends  Here -->
+                            </td>
+
+
+
+
+
+      </td>
+                            
+                        </tr>
+                    </table><!--maincontent table--->
+
+
+
+
+
+
+      </td><!---maincontent2--->
+      </tr><!---maincontent1--->
+
+
+      <tr>
+                <td colspan="3">
+                    <!-- footer Container Starts  Here -->
+                    <div class="clear">
+                    </div>
+                    <div class="footerBg">
+                        <div class="footer">
+                        <div>
+    <center>
+    <div>
+        <table width="98%">
+            <tr>
+                <td width="50%" align="left" style="font-size:10px">
+                   
+                </td>
+                <td width="50%" align="right" style="font-size:10px">
+                 
+                </td>
+            </tr>
+        </table>
+    </div>
+    </center>
+    <center>
+          <div class="grid_9" style="width:98% !important">
+     <p style="text-align:left; font-size:large; padding-left:40px; font-weight:bold; color:#006699;">Quick Links</p>
+      <div class="grid_2 alpha" style="width:120px !important">
+        <ul style="list-style:none; text-align:left" class="footerlist">
+         <p style="font-size:medium; font-weight:bold ">हमारे बारे में</p>
+ 
+      <li><a href="Historye.aspx">संक्षिप्त इतिहास</a></li>
+      <li><a href="visionandmissione.aspx">विज़न और मिशन</a></li>
+      <li><a href="Organizationstructure.aspx">संगठन चार्ट</a>
+   
+        </ul>
+      </div>
+      
+   <div class="grid_2 alpha" style="width:160px !important">
+        <ul style="list-style:none; text-align:left" class="footerlist">
+         <p style="font-size:medium; font-weight:bold "> निर्वाचन-नगरीय निकाय</p>
+          <li><a  href="ElectionProgramM.aspx">निर्वाचन कार्यक्रम</a></li>
+     
+       <p style="font-size:medium; font-weight:bold ">निर्वाचन-पंचायत </p>
+          <li><a  href="ElectionProgramP.aspx">निर्वाचन कार्यक्रम</a></li>
+     
+     
+
+
+    
+        </ul>
+      </div>
+
+      
+
+
+       <div class="grid_2 alpha" style="width:240px !important">
+        <ul style="list-style:none; text-align:left" class="footerlist">
+         <p style="font-size:medium; font-weight:bold ">मतदाता</p>
+              <li><a target="_blank"  href="http://mpsecerms.mp.gov.in/SECSearchEngine">मतदाता सूची में अपना नाम ढूंढे</a></li>
+          <li><a target=_blank  href="Data/Panchayats/i am  urban voter.pdf">मार्गदर्शिका  - में मतदाता हूँ</a></li>
+           <li><a target=_blank  href="Data/Panchayats/i am panchayat voter.pdf">मार्गदर्शिका - में पंचायत का वोटर हूँ</a></li>
+  
+
+    
+        </ul>
+      </div>
+      
+   <div class="grid_2 alpha" style="width:200px !important">
+        <ul style="list-style:none; text-align:left" class="footerlist">
+         <p style="font-size:medium; font-weight:bold ">एप्लीकेशन</p>
+          <li><a target=_blank  href="http://mplocalelection.gov.in/evm1/">इलेक्ट्रॉनिक वोटिंग मशीन</a></li>
+          <li><a  target=_blank  href="http://mplocalelection.gov.in/lms/">लेटर मोनिटरिंग सिस्टम</a></li>
+        
+ 
+  <li><a target=_blank   href="http://mpsecerms.mp.gov.in/">MPSEC-इलेक्टोरल रोल मैनेजमेंट सिस्टम</a></li>
+  <li><a target=_blank   href="http://mplocalelection.gov.in/deo/">कोर्ट केस मैनेजमेंट सिस्टम</a></li>
+    
+    
+        </ul>
+      </div>
+
+
+    <div class="grid_2 alpha" style="width:300px !important">
+        <ul style="list-style:none; text-align:left" class="footerlist">
+         <p style="font-size:medium; font-weight:bold ">महत्वपूर्ण लिंक्स</p>
+          <li><a  target="_blank" href="https://eci.gov.in/">भारत निर्वाचन आयोग</a></li>
+          <li><a  target=_blank href="http://ceomadhyapradesh.nic.in/">मुख्य निर्वाचन पदाधिकारी - मध्यप्रदेश</a></li>
+          <li><a target=_blank  href="http://mpinfo.org/">मध्यप्रदेश जनसम्पर्क विभाग</a></li>
+           <li><a target=_blank  href="http://mppanchayatdarpan.gov.in/">पंचायत एवं ग्रामीण विकास विभाग - मध्यप्रदेश</a></li>
+            <li><a target=_blank  href="http://www.mpurban.gov.in/">नगरीय प्रशासन एवं विकास विभाग - मध्यप्रदेश</a></li>
+             <li><a target=_blank   href="http://www.dst.mp.gov.in/">सूचना प्रौद्योगिकी विभाग - मध्यप्रदेश</a></li>
+
+    
+
+   
+
+
+        </ul>
+      </div>
+              
+      
+          <div class="grid_2 alpha" style="width:200px !important">
+        <ul style="list-style:none; text-align:left" class="footerlist">
+         <p style="font-size:medium; font-weight:bold ">Connect-us</p>
+       
+        <br />
+          <li>  <a target=_blank href="https://www.youtube.com/channel/UCbDKAFHfrpCPFfyqTDwxrhw">यू-ट्यूब<img style="height:25px; width:25px; vertical-align:top " src="images/youtube.png" /></a></li>
+    
+         
+
+    
+
+   
+
+
+        </ul>
+      </div>
+      
+
+         
+
+   
+    </div>
+
+    </center>
+
+    
+</div>
+
+                        </div>
+                      <center>
+          <div class="grid_9" style="width:98% !important">
+    
+  
+                <div class="footerdata"> <a  href="indexenglish.aspx">मुख पृष्ठ</a>  | <a  href="contacte.aspx"> संपर्क करें</a> |  <a  href="Glossary.aspx">शब्दावली </a>| <a  href="sitemap.aspx"> साईट-मैप</a>| <a  href="privacystatement.aspx"> गोपनीयता कथन</a>|  <a  href="Disclaimer.aspx">Disclaimer</a> | <a  href="Copyright.aspx"> कॉपी राईट</a> <br />
+कॉपी राईट © 2015 राज्य निर्वाचन आयोग</div>
+   
+    </div>
+   
+    <div class="clearfix"></div>
+    </center>
+                    </div>
+                 
+               
+                    <div class="clear">
+                    </div>
+                </td>
+            </tr>
+
+ 
+ </tbody>
+ </table><!---secondheader--->
+
+
+
+           
+
+
+
+
+
+
+            </div><!---bottom--->
+
+
+
+
+         </div>
+
+
+
+     </form>
+    </div>
+    </form>
+</body>
+</html>

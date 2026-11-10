@@ -1,0 +1,18 @@
+{
+  "inventory_rows": 14,
+  "unique_retained_payloads": 9,
+  "verified_payload_paths": [
+    "local_elections/data/goa/raw/urban_expansion/municipal_results_2015_archived.pdf",
+    "local_elections/data/goa/raw/urban_expansion/municipal_results_2021_gazette_mirror.pdf",
+    "local_elections/data/goa/raw/urban_expansion/reservation_judgment_2021_archived.pdf",
+    "local_elections/data/gujarat/raw/urban_expansion/municipal_reservation_judgment_2021.pdf",
+    "local_elections/data/reference/urban_expansion/academic/turnbull_2019_online_appendix.docx",
+    "local_elections/data/reference/urban_expansion/academic/turnbull_author_research.html",
+    "local_elections/data/reference/urban_expansion/academic/turnbull_publisher_landing.html",
+    "local_elections/data/reference/urban_expansion/academic/turnbull_quotas_landing.html",
+    "local_elections_bihar/data/raw/urban_expansion/urban_women_2007_rcues.pdf"
+  ],
+  "failed_or_empty_search_records": 21,
+  "all_payload_hashes_verified": true,
+  "no_pair_marked_analysis_ready": true
+}

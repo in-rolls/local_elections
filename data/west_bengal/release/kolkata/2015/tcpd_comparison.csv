@@ -1,0 +1,145 @@
+ward_no,winner_name_raw,Candidate_Name,Ward_Reservation,source_record,name_agrees_after_whitespace,tcpd_source_path,tcpd_source_sha256
+1,SITA JAISWARA,SITA JAISWARA,Unreserved,195299,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+2,PUSPALI SINHA,PUSPALI SINHA,Women,195312,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+3,DR. SANTANU SEN,DR. SANTANU SEN,Unreserved,195325,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+4,GOUTAM HALDAR,GOUTAM HALDAR,Scheduled Caste,195341,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+5,TARUN SAHA,TARUN SAHA,Unreserved,195355,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+6,SUMAN SINGH,SUMAN SINGH,Women,195368,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+7,BAPI GHOSH,BAPI GHOSH,Unreserved,195386,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+8,PARTHA MITRA,PARTHA MITRA,Unreserved,195400,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+9,MITALI SAHA,MITALI SAHA,Women,195419,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+10,KARUNA SENGUPTA,KARUNA SENGUPTA,Unreserved,195438,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+11,ATIN GHOSH,ATIN GHOSH,Unreserved,195452,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+12,PRANATI BHATTACHARJEE,PRANATI BHATTACHARJEE,Women,195466,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+13,ANINDA KISHORE ROUTH,ANINDA KISHORE ROUTH,Unreserved,195482,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+14,AMAL CHAKRABORTY (BHOLA),AMAL CHAKRABORTY (BHOLA),Unreserved,195495,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+15,SUKHLA BHORE,SUKHLA BHORE,Women,195510,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+16,SADHAN SAHA,SADHAN SAHA,Unreserved,195524,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+17,MOHAN KUMAR GUPTA (MONA),MOHAN KUMAR GUPTA (MONA),Unreserved,195539,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+18,SUNANDA SARKAR,SUNANDA SARKAR,Women,195565,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+19,SIKHA SAHA,SIKHA SAHA,Unreserved,195582,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+20,VIJAY UPADHYAY,VIJAY UPADHYAY,Unreserved,195602,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+21,SUJATA SAHA,SUJATA SAHA,Women,195620,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+22,MEENA DEVI PUROHIT,MEENA DEVI PUROHIT,Unreserved,195637,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+23,VIJAY OJHA,VIJAY OJHA,Unreserved,195662,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+24,ELLORA SAHA,ELLORA SAHA,Women,195683,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+25,SMITA BAKSHI,SMITA BAKSHI,Unreserved,195703,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+26,TARAK NATH CHATTOPADHYAY,TARAK NATH CHATTOPADHYAY,Unreserved,195722,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+27,MINAKSHI GUPTA,MINAKSHI GUPTA,Women,195740,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+28,IQBAL AHMED,IQBAL AHMED,Unreserved,195755,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+29,PRAKASH KUMAR UPADHYAY,PRAKASH KUMAR UPADHYAY,Unreserved,195771,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+30,PAPIYA GHOSH (BISWAS),PAPIYA GHOSH (BISWAS),Scheduled Caste (Women),195793,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+31,SUNANDA GUHA,SUNANDA GUHA,Women,195807,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+32,KUNDU SANTI RANJAN,KUNDU SANTI RANJAN,Unreserved,195818,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+33,PABITRA BISWAS,PABITRA BISWAS,Unreserved,195831,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+34,ALOKANANDA DAS,ALOKANANDA DAS,Women,195847,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+35,ASHUTOSH DAS,ASHUTOSH DAS,Unreserved,195864,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+36,RAJESH KHANNA,RAJESH KHANNA,Unreserved,195879,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+37,SOMA CHAUDHURI,SOMA CHAUDHURI,Women,195899,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+38,SADHANA BOSE,SADHANA BOSE,Unreserved,195914,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+39,MD. JASIMUDDIN,MD. JASIMUDDIN,Unreserved,195932,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+40,SWAPNA DAS,SWAPNA DAS,Women,195958,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+41,REITA CHOWDHURY,REITA CHOWDHURY,Unreserved,195976,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+42,SUNITA JHAWAR,SUNITA JHAWAR,Unreserved,195997,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+43,SHAGUFTA PARVEEN,SHAGUFTA PARVEEN,Women,196021,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+44,REHANA KHATOON,REHANA KHATOON,Unreserved,196043,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+45,SANTOSH KR. PATHAK,SANTOSH KR. PATHAK,Unreserved,196063,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+46,GOPAL CHANDRA SAHA,GOPAL CHANDRA SAHA,Scheduled Caste,196084,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+47,SUMAN SINGH,SUMAN SINGH,Women,196106,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+48,SATYENDRA NATH DEY (BULU DA),SATYENDRA NATH DEY (BULU DA),Unreserved,196123,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+49,APARAJITA DASGUPTA,APARAJITA DASGUPTA,Unreserved,196141,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+50,MOUSUMI DEY,MOUSUMI DEY,Women,196158,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+51,SANCHITA MONDAL,SANCHITA MONDAL,Unreserved,196172,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+52,SANDIPAN SAHA,SANDIPAN SAHA,Unreserved,196187,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+53,INDRANI SAHA BANERJEE,INDRANI SAHA BANERJEE,Women,196204,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+54,AMIRUDDIN,AMIRUDDIN,Unreserved,196223,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+55,ARUN KUMAR DAS,ARUN KUMAR DAS,Unreserved,196246,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+56,DIPALI DAS,DIPALI DAS,Women,196263,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+57,JIBAN SAHA,JIBAN SAHA,Unreserved,196280,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+58,SWAPAN SAMADDAR,SWAPAN SAMADDAR,Unreserved,196295,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+59,JALY BOSE,JALY BOSE,Women,196313,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+60,KAISER JAMIL,KAISER JAMIL,Unreserved,196333,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+61,MANZAR IQBAL,MANZAR IQBAL,Unreserved,196352,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+62,SANA AHMED,SANA AHMED,Women,196373,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+63,SUSMITA BHATTACHARYA (CHATTERJEE),SUSMITA BHATTACHARYA (CHATTERJEE),Unreserved,196391,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+64,IQBAL AHMED,IQBAL AHMED,Unreserved,196407,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+65,NIBEDITA  SHARMA,NIBEDITA SHARMA,Women,196427,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+66,AHMED FAIZ KHAN,AHMED FAIZ KHAN,Unreserved,196448,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+67,BIJAN LAL MUKHERJEE,BIJAN LAL MUKHERJEE,Unreserved,196463,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+68,SUDARSHANA  MUKHERJEE,SUDARSHANA MUKHERJEE,Women,196476,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+69,SUKDEV  CHAKRABARTY,SUKDEV CHAKRABARTY,Unreserved,196487,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+70,ASHIM KUMAR BOSE,ASHIM KUMAR BOSE,Unreserved,196506,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+71,PAPIA SINGH,PAPIA SINGH,Women,196526,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+72,SANDIP  RANJAN  BAKSHI (BABU),SANDIP RANJAN BAKSHI (BABU),Unreserved,196541,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+73,RATAN MALAKAR,RATAN MALAKAR,Unreserved,196556,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+74,DEBALINA BISWAS,DEBALINA BISWAS,Women,196570,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+75,BELQUIS BEGUM,BELQUIS BEGUM,Unreserved,196580,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+76,SASTI DAS,SASTI DAS,Unreserved,196600,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+77,SHAMIMA REHAN KHAN,SHAMIMA REHAN KHAN,Women,196619,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+78,NEZAMUDDIN SHAMS,NEZAMUDDIN SHAMS,Unreserved,196639,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+79,RAM PYARE RAM,RAM PYARE RAM,Scheduled Caste,196663,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+80,MD. ANWAR KHAN,MD. ANWAR KHAN,Unreserved,196680,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+81,JUI BISWAS,JUI BISWAS,Women,196704,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+82,PRANAB BISWAS,PRANAB BISWAS,Unreserved,196715,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+83,MANJUSREE MAJUMDAR,MANJUSREE MAJUMDAR,Unreserved,196727,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+84,PAROMITA CHATTERJEE,PAROMITA CHATTERJEE,Women,196744,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+85,DEBASISH KUMAR (DEBA),DEBASISH KUMAR (DEBA),Unreserved,196754,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+86,TISHTA BISWAS (DAS),TISHTA BISWAS (DAS),Scheduled Caste (Women),196771,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+87,SUBRATA GHOSH,SUBRATA GHOSH,Unreserved,196781,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+88,MALA ROY,MALA ROY,Women,196788,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+89,MAMATA MAJUMDAR,MAMATA MAJUMDAR,Unreserved,196800,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+90,BAISWANOR CHATTERJEE,BAISWANOR CHATTERJEE,Unreserved,196811,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+91,ANNAPURNA DAS,ANNAPURNA DAS,Women,196821,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+92,MADHUCHHANDA DEB,MADHUCHHANDA DEB,Unreserved,196836,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+93,RATAN DEY,RATAN DEY,Unreserved,196850,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+94,ARCHANA SENGUPTA,ARCHANA SENGUPTA,Women,196861,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+95,TAPAN DASGUPTA,TAPAN DASGUPTA,Unreserved,196872,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+96,DEBABRATA MAJUMDAR,DEBABRATA MAJUMDAR,Unreserved,196883,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+97,MITALI BANERJEE,MITALI BANERJEE,Women,196897,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+98,MRITYUNJOY CHAKRABORTY (PRADIP),MRITYUNJOY CHAKRABORTY (PRADIP),Unreserved,196907,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+99,DEBASISH MUKHERJEE,DEBASISH MUKHERJEE,Unreserved,196917,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+100,SUSMITA DAM,SUSMITA DAM,Women,196929,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+101,BAPPADITYA DASGUPTA,BAPPADITYA DASGUPTA,Unreserved,196941,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+102,RINKU NASKAR,RINKU NASKAR,Unreserved,196955,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+103,NANDITA  ROY,NANDITA ROY,Women,196964,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+104,TARAKESWAR CHAKRABORTY,TARAKESWAR CHAKRABORTY,Unreserved,196973,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+105,TARUN MONDAL,TARUN MONDAL,Unreserved,196986,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+106,MADHUMITA CHAKRABORTY,MADHUMITA CHAKRABORTY,Women,196997,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+107,SUSHANTA KUMAR GHOSH,SUSHANTA KUMAR GHOSH,Unreserved,197006,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+108,SHYAMAL BANERJEE,SHYAMAL BANERJEE,Unreserved,197019,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+109,ANANYA BANERJEE,ANANYA BANERJEE,Women,197036,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+110,ARUP CHAKRABORTY,ARUP CHAKRABORTY,Unreserved,197051,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+111,CHAYAN BHATTACHARYA,CHAYAN BHATTACHARYA,Unreserved,197061,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+112,ANITA KAR MAJUMDAR,ANITA KAR MAJUMDAR,Women,197071,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+113,GOPAL ROY,GOPAL ROY,Unreserved,197084,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+114,BISWAJIT MANDAL,BISWAJIT MANDAL,Scheduled Caste,197097,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+115,RATNA SUR,RATNA SUR,Unreserved,197107,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+116,KRISHNA SINGH,KRISHNA SINGH,Women,197121,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+117,SAILEN DASGUPTA,SAILEN DASGUPTA,Unreserved,197132,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+118,TARAK SINGH,TARAK SINGH,Unreserved,197141,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+119,ASHOKA MONDAL,ASHOKA MONDAL,Women,197151,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+120,SUSANTA GHOSH (BUA),SUSANTA GHOSH (BUA),Unreserved,197160,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+121,MANIK LAL CHATTERJEE,MANIK LAL CHATTERJEE,Unreserved,197169,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+122,SOMA CHAKRABORTY,SOMA CHAKRABORTY,Women,197184,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+123,SUDIP POLLEY (NONI),SUDIP POLLEY (NONI),Unreserved,197196,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+124,RAJIB KUMAR DAS,RAJIB KUMAR DAS,Scheduled Caste,197210,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+125,GHANASREE BAGH,GHANASREE BAGH,Unreserved,197224,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+126,SHIPRA GHATAK,SHIPRA GHATAK,Women,197234,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+127,NIHAR BHAKTA,NIHAR BHAKTA,Unreserved,197246,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+128,RATNA ROY MAJUMDER,RATNA ROY MAJUMDER,Unreserved,197252,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+129,SANHITA DAS,SANHITA DAS,Women,197263,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+130,AVIJIT MUKHERJEE,AVIJIT MUKHERJEE,Unreserved,197275,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+131,SOVAN CHATTERJEE,SOVAN CHATTERJEE,Unreserved,197286,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+132,SANCHITA MITRA,SANCHITA MITRA,Women,197295,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+133,RANAJIT SHIL,RANAJIT SHIL,Unreserved,197304,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+134,SHAMS IQBAL,SHAMS IQBAL,Unreserved,197315,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+135,AKHTARI NIJAMI,AKHTARI NIJAMI,Women,197329,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+136,SHAMSUZZAMAN ANSARI,SHAMSUZZAMAN ANSARI,Unreserved,197339,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+137,REHMAT ALAM ANSSARI,REHMAT ALAM ANSSARI,Unreserved,197350,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+138,BEGUM TAPSIRA,BEGUM TAPSIRA,Women,197360,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+139,AFTAB UDDIN AHMED,AFTAB UDDIN AHMED,Unreserved,197368,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+140,ABU MD TARIK,ABU MD TARIK,Unreserved,197381,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+141,MAMTAJ BEGAM,MAMTAJ BEGAM,Women,197392,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+142,RAGHUNATH PATRA,RAGHUNATH PATRA,Unreserved,197409,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+143,INDRAJIT BHATTACHARYA,INDRAJIT BHATTACHARYA,Unreserved,197414,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851
+144,SHEFALI PRAMANIK (PATRA),SHEFALI PRAMANIK (PATRA),Unreserved,197420,True,data/reference/tcpd/tcpd_casi_ulb_v1.1.csv,e158240acb5cab355f513c70aa3732cc4198705c0acdd957ee5670834a39a851

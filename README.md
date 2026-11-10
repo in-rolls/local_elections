@@ -11,6 +11,8 @@ source-evidence archives are separate downloads for auditing and rebuilding.
 
 - [Data dictionary](docs/dictionary.md): column definitions and allowed values.
 - [Source survey](docs/sources.md): available sources and acquisition gaps.
+- [TCPD–CASI municipal data](data/reference/tcpd/README.md): complete source files, codebook and coverage inventory.
+- [Urban election evidence](data/search_log/urban_expansion/reports/urban_election_evidence.md): validated Bengaluru and Chandigarh ward comparisons, source receipts, and remaining collection gaps.
 - [Worklist](docs/worklist.md): detected defects, unresolved questions and accepted source limitations.
 - [Changelog](CHANGELOG.md): corrections and release changes.
 
@@ -47,3 +49,5 @@ record IDs remain unchanged when files move.
 See the [development guide](docs/development.md) for setup, directory layout,
 commands and checks, and the [state repository contract](docs/state_repositories.md)
 for ownership and handoffs. Dataset READMEs describe source-specific limitations.
+
+Delhi candidate/winner releases for 2007, 2012, 2017, and 2022, original SEC records, and education-source comparisons are in the sibling [local_elections_delhi](../local_elections_delhi/README.md) collection. Use its audited releases for the documented 2022 vote corrections and unresolved education conflicts. The full [Tanushree Goyal replication deposit](data/reference/goyal_9xpv4i/README.md) is retained here.

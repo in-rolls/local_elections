@@ -1,0 +1,51 @@
+{
+  "sources": [
+    {
+      "path": "data/chandigarh/raw/urban_expansion/election_report_2016.pdf",
+      "sha256": "fc760e2cfc19478a983c02809acd769d46910641099f932f62e66bf3daf3b048",
+      "bytes": 9888803
+    },
+    {
+      "path": "data/chandigarh/manual/urban_expansion/winner_honorific_review_2016.csv",
+      "sha256": "03be6a9c72a061bf2f2d8e812fc1a7e9fe9e2f3dc3baee798f4e0c53bc45961b",
+      "bytes": 3852
+    },
+    {
+      "path": "data/chandigarh/release/ward_panel_2006_2011.parquet",
+      "sha256": "95463d8fd4acec7fc1d299a46077a429ce67c250b36fecd56b61da4d3b171f79",
+      "bytes": 14309
+    },
+    {
+      "path": "data/chandigarh/raw/election-report-2006.pdf",
+      "sha256": "985139302c06d42d41267fe73d490c2f84d894a8c1e864acd372f3cd438c820d",
+      "bytes": 2427964
+    },
+    {
+      "path": "data/chandigarh/raw/election-report-2011.pdf",
+      "sha256": "cf5693b2df952c44e7ee28fc06fdbbd36258b8a9a8657393c976889ecc0a5121",
+      "bytes": 5553429
+    }
+  ],
+  "outputs": [
+    {
+      "path": "ward_panel_2011_2016.parquet",
+      "sha256": "3709c530b1e339f0d7f90697b7eedad300e66af70165de14a20d03c56e683d0d",
+      "bytes": 15096
+    },
+    {
+      "path": "ward_panel_2011_2016.schema.json",
+      "sha256": "b60889f3417f52db142ae03fef8a068615a5fee9e0b5e22bc920df1eae2b2d93",
+      "bytes": 7664
+    },
+    {
+      "path": "ward_panel_2011_2016_dictionary.csv",
+      "sha256": "7e5abfb6ea24272a95699ccd808b0de41a46a2cc2e1722fd8a2564095d84e516",
+      "bytes": 3841
+    },
+    {
+      "path": "ward_panel_2011_2016_audit.json",
+      "sha256": "fd4173c8013eb304f0a66b2619bce6b8d576663fa538c28700202c6a6e3fb0aa",
+      "bytes": 753
+    }
+  ]
+}

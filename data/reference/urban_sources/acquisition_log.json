@@ -1,0 +1,69 @@
+[
+  {
+    "state": "chandigarh",
+    "year": "2016",
+    "url": "https://chandigarh.gov.in/sites/default/files/GEMCC-2021/election-report-2016.pdf",
+    "checked_at": "2026-11-09T06:48:55.976116+00:00",
+    "error": "SSLError: HTTPSConnectionPool(host='chandigarh.gov.in', port=443): Max retries exceeded with url: /sites/default/files/GEMCC-2021/election-report-2016.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
+    "system_curl_retry": "Returned Chandigarh home page HTML, not the PDF; rejected"
+  },
+  {
+    "state": "chandigarh",
+    "year": "2021",
+    "url": "https://chandigarh.gov.in/sites/default/files/GEMCC-2021/result.pdf",
+    "checked_at": "2026-11-09T06:49:03.106149+00:00",
+    "error": "SSLError: HTTPSConnectionPool(host='chandigarh.gov.in', port=443): Max retries exceeded with url: /sites/default/files/GEMCC-2021/result.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
+    "system_curl_retry": "Returned Chandigarh home page HTML, not the PDF; rejected"
+  },
+  {
+    "state": "west_bengal",
+    "year": "2015",
+    "url": "https://archive.wbsec.org/Municipal/FinalResult_Mun_KMC.aspx",
+    "checked_at": "2026-11-09T06:49:03.681451+00:00",
+    "status": 200,
+    "final_url": "https://archive.wbsec.org/(S(lfekesej4dhufno3hduzftjg))/Municipal/FinalResult_Mun_KMC.aspx",
+    "path": "data/reference/urban_sources/raw/west_bengal/kolkata-results-2015.html",
+    "sha256": "5088d8f60f110567114677e6b5f4bf16347ff5f203de2fcff3ff0c5ffa07250c",
+    "bytes": 13568
+  },
+  {
+    "state": "bihar",
+    "year": "2022",
+    "url": "https://sec.bihar.gov.in/NPRpt/ch2NP.aspx",
+    "checked_at": "2026-11-09T06:49:05.155512+00:00",
+    "status": 200,
+    "final_url": "https://sec.bihar.gov.in/NPRpt/ch2NP.aspx",
+    "path": "data/reference/urban_sources/raw/bihar/urban-reservations-2022.html",
+    "sha256": "b3376170b6d6122a79123b29e1d8fb4254fdf9d66595b6e1bb1929dc6be891db",
+    "bytes": 249209
+  },
+  {
+    "state": "bihar",
+    "year": "2022",
+    "url": "https://sec.bihar.gov.in/NPRpt/ch17NP.aspx",
+    "checked_at": "2026-11-09T06:49:17.608167+00:00",
+    "status": 200,
+    "final_url": "https://sec.bihar.gov.in/NPRpt/ch17NP.aspx",
+    "path": "data/reference/urban_sources/raw/bihar/urban-winner-profiles-2022.html",
+    "sha256": "2a70ef3ac9cbb5aeac0d13533827a48b6cf95c1327e3ce1ad2d646d38e70e165",
+    "bytes": 120681
+  },
+  {
+    "state": "kerala",
+    "year": "2025",
+    "url": "https://trend.sec.kerala.gov.in/",
+    "checked_at": "2026-11-09T06:49:23.268773+00:00",
+    "status": 200,
+    "final_url": "https://trend.sec.kerala.gov.in/",
+    "path": "data/reference/urban_sources/raw/kerala/results-trend-2025.html",
+    "sha256": "147ac7c1d22066d193e37e84f21b46e2ef952df59815fa10684acaa8fb8412bf",
+    "bytes": 10628
+  },
+  {
+    "state": "odisha",
+    "year": "2022",
+    "url": "https://sec.odisha.gov.in/wp-content/uploads/2023/11/ULBs_Final-2022-12-10-2023-FINAL_compressed.pdf",
+    "checked_at": "2026-11-09T06:49:34.043990+00:00",
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='sec.odisha.gov.in', port=443): Max retries exceeded with url: /wp-content/uploads/2023/11/ULBs_Final-2022-12-10-2023-FINAL_compressed.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='sec.odisha.gov.in', port=443) at 0x107ca8a50>, 'Connection to sec.odisha.gov.in timed out. (connect timeout=25)'))"
+  }
+]

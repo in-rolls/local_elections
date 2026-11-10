@@ -1,0 +1,27 @@
+{
+  "rows": 144,
+  "unit": "one declared winner per ward in April 2015",
+  "key": [
+    "year",
+    "body",
+    "ward_no"
+  ],
+  "party_counts": {
+    "ALL INDIA TRINAMOOL CONGRESS": 114,
+    "BHARATIYA JANATA PARTY": 7,
+    "COMMUNIST PARTY OF INDIA": 2,
+    "INDEPENDENT": 3,
+    "COMMUNIST PARTY OF INDIA (MARXIST)": 10,
+    "INDIAN NATIONAL CONGRESS": 5,
+    "REVOLUTIONARY SOCIALIST PARTY": 2,
+    "ALL INDIA FORWARD BLOC": 1
+  },
+  "recorded_winner_sex": 0,
+  "recorded_reservation": 0,
+  "summary_source": "data/reference/urban_sources/raw/west_bengal/kolkata-results-2015.html",
+  "summary_sha256": "5088d8f60f110567114677e6b5f4bf16347ff5f203de2fcff3ff0c5ffa07250c",
+  "parquet_sha256": "300ded6b3d9fa4cd149998bcd3b549281d406ae5b80556db360cf8a13605f8a3",
+  "sources": "data/west_bengal/raw/kolkata/2015/manifest.csv",
+  "tcpd_name_agreements_after_whitespace": 144,
+  "tcpd_comparison_sha256": "16e46bc41b1af6cf5b66f313a82c1ddcd1c53e74acbe01d42481786d9f513b75"
+}

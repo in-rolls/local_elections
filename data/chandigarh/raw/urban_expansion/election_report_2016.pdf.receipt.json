@@ -1,0 +1,11 @@
+{
+  "url": "https://chandigarh.gov.in/files/GEMCC-2021/election-report-2016.pdf",
+  "retrieved_at": "2026-11-10T03:12:40.004502+00:00",
+  "repository": "local_elections",
+  "requested_path": "data/chandigarh/raw/urban_expansion/election_report_2016.pdf",
+  "response": "200\nhttps://chandigarh.gov.in/files/GEMCC-2021/election-report-2016.pdf",
+  "bytes": 9888803,
+  "sha256": "fc760e2cfc19478a983c02809acd769d46910641099f932f62e66bf3daf3b048",
+  "status": "downloaded",
+  "path": "data/chandigarh/raw/urban_expansion/election_report_2016.pdf"
+}

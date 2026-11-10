@@ -1,9 +1,10 @@
 """Mumbai's Brihanmumbai Municipal Corporation: 227 ward seats, five councils.
 
-Everything under ``data/maharashtra/raw/mumbai/`` arrived as result tables assembled
-for research (Bhavnani's 1997 and 2002 sheets; Karekurve-Ramachandra's 2007,
-2012 and 2017 files), not as the Maharashtra State Election Commission's own
-reservation rosters. That shapes what can honestly be emitted:
+The historical core under ``data/maharashtra/raw/mumbai/`` consists of result
+tables assembled for research: Bhavnani's 1997 and 2002 sheets and
+Karekurve-Ramachandra's 2007, 2012 and 2017 files. These are not the
+Maharashtra State Election Commission's original reservation rosters.
+The available fields are:
 
     council   reservation roster                            winners
     1997      none held                                     xls (209 of 221 wards)
@@ -30,8 +31,15 @@ supplemental file instead. The deposit digitised the commission's handbooks, so
 its reservation is a secondary source and is recorded as such in the state
 readme.
 
-Two slices enter the schema: ``ulb_ward_2012`` and ``ulb_ward_2017``. Six files
-are supplemental and carry no ``reservation`` column, which keeps them out of
+The 2012 ward 172 spreadsheet label is corrected from SC Women to SC using
+BMC's official ward description (source_review/f_north_2012.pdf, PDF page 17).
+The original spreadsheet is retained; the correction restores 114 women's seats.
+The 2026 winner supplement checks all 227 vote counts against the official gazette;
+English names and parties come from OpenCity and are not independently verified.
+The final November 28, 2025 gazette supplies all 227 reservation categories.
+
+Two slices enter the schema: ``ulb_ward_2012`` and ``ulb_ward_2017``. Other files
+are supplemental and carry no combined ``reservation`` column, which keeps them out of
 the pooled machinery on purpose: the 2007 seats, one candidate table per
 council, and the Praja Foundation ward-by-wave citizen ratings that the deposit
 exists to publish. The ratings carry one flag: the satisfaction item is inverted
@@ -47,6 +55,7 @@ import argparse
 import collections
 import csv
 import re
+import subprocess
 
 from local_elections.common import emit, normalize
 from local_elections.common.normalize import label
@@ -56,6 +65,11 @@ from local_elections.paths import ROOT, resolve_path
 STATE = "Maharashtra"
 DISTRICT = "Mumbai"
 BODY = "Brihanmumbai Municipal Corporation"
+REVIEW_DIR = "data/maharashtra/raw/mumbai/source_review"
+WARD_172_SOURCE = f"{REVIEW_DIR}/f_north_2012.pdf"
+RESULTS_2026 = f"{REVIEW_DIR}/results_gazette_2026.pdf"
+WINNERS_2026 = f"{REVIEW_DIR}/winners_opencity_2026.csv"
+RESERVATIONS_2026 = f"{REVIEW_DIR}/reservation_gazette_2026.pdf"
 WARDS = 227
 
 DATA = ROOT / "data" / "maharashtra"
@@ -319,11 +333,18 @@ def rows_2012():
     for r in sheet_2007():
         ward = r["WARD NO"]
         won = winners.get(ward, {})
+        stated = r["Present Reservation"]
+        source, page = SHEET_2007, ""
+        if ward == "172":
+            if stated != "Schedule Caste Women":
+                raise ValueError("Ward 172 source changed; review its reservation")
+            stated = "Schedule Caste"
+            source, page = WARD_172_SOURCE, "17"
         out.append(
             seat(
                 "2012",
                 ward,
-                r["Present Reservation"],
+                stated,
                 ward_name=r.get("Locality", ""),
                 winner=won.get("winner", ""),
                 winner_basis="argmax_votes" if won.get("winner") else "",
@@ -335,7 +356,8 @@ def rows_2012():
                 electorate=won.get("electorate", ""),
                 total_candidates_stated=won.get("total_candidates_stated", ""),
                 result_source_path=SCAN_2012,
-                source_path=SHEET_2007,
+                source_path=source,
+                source_page=page,
             )
         )
     return out
@@ -550,6 +572,113 @@ def write_csv(rows, path):
         writer.writerows(rows)
 
 
+def reservations_2026():
+    """Read the final roster and reconcile category totals to gazette page 2."""
+    text = subprocess.run(
+        ["pdftotext", "-layout", str(ROOT / RESERVATIONS_2026), "-"],
+        check=True,
+        capture_output=True,
+        text=True,
+    ).stdout
+    categories = {
+        "सर्ववसााधाारण": "GEN",
+        "नाागरि�कांं�चाा माागाासवर्गग प्रवर्गग": "OBC",
+        "अनुुसूूचि�त जाातीी": "SC",
+        "अनुुसूूचि�त जमाातीी": "ST",
+    }
+    rows = {}
+    for page, body in enumerate(text.split("\f"), 1):
+        for line in body.splitlines():
+            match = re.match(r"^\s*([०-९]+)\s{2,}([०-९]+)\s{2,}(\S.+)$", line)
+            if not match:
+                continue
+            serial, ward = int(match[1]), str(int(match[2]))
+            raw = match[3].strip()
+            woman = int(raw.endswith(" (महि�लाा)"))
+            base = raw.removesuffix(" (महि�लाा)")
+            if serial != int(ward) or ward in rows or base not in categories:
+                raise ValueError(f"Unexpected 2026 reservation row: {line}")
+            rows[ward] = {
+                "woman_reserved": woman,
+                "caste_reservation": categories[base],
+                "reservation_raw": raw,
+                "reservation_source_path": RESERVATIONS_2026,
+                "reservation_source_page": page,
+            }
+    if set(rows) != {str(i) for i in range(1, WARDS + 1)}:
+        raise ValueError("Incomplete 2026 reservation roster")
+    totals = collections.Counter(r["caste_reservation"] for r in rows.values())
+    women = collections.Counter(
+        r["caste_reservation"] for r in rows.values() if r["woman_reserved"]
+    )
+    if totals != {"GEN": 149, "OBC": 61, "SC": 15, "ST": 2} or women != {
+        "GEN": 74,
+        "OBC": 31,
+        "SC": 8,
+        "ST": 1,
+    }:
+        raise ValueError("2026 reservation counts disagree with gazette summary")
+    return rows
+
+
+def winners_2026():
+    """Check all compiled winner vote counts against the January 19 gazette."""
+    text = subprocess.run(
+        ["pdftotext", "-layout", str(ROOT / RESULTS_2026), "-"],
+        check=True,
+        capture_output=True,
+        text=True,
+    ).stdout
+    reservations = reservations_2026()
+    official = {}
+    pending = None
+    for page, body in enumerate(text.split("\f"), 1):
+        for line in body.splitlines():
+            match = re.match(r"^\s*([०-९]+)\s{2,}(.+)$", line)
+            if match:
+                if pending is not None:
+                    raise ValueError("Missing vote count in 2026 gazette")
+                pending = (str(int(match[1])), page)
+            votes = re.search(r"\s{2,}([०-९]+)\s*$", line)
+            if pending is not None and votes:
+                ward, first_page = pending
+                if ward in official:
+                    raise ValueError("Duplicate 2026 gazette ward")
+                official[ward] = (int(votes[1]), first_page)
+                pending = None
+    if pending or set(official) != {str(i) for i in range(1, WARDS + 1)}:
+        raise ValueError("Incomplete 2026 gazette extraction")
+    with (ROOT / WINNERS_2026).open(encoding="utf-8-sig", newline="") as fh:
+        compiled = list(csv.DictReader(fh))
+    if len(compiled) != WARDS or {r["Ward No."] for r in compiled} != set(official):
+        raise ValueError("Incomplete 2026 winner compilation")
+    out = []
+    for row in compiled:
+        ward = row["Ward No."]
+        votes, page = official[ward]
+        if int(row["Valid Votes Received"]) != votes:
+            raise ValueError(f"2026 ward {ward}: compiled votes disagree with gazette")
+        out.append(
+            {
+                "state": STATE,
+                "body": BODY,
+                "year": "2026",
+                "ward_no": ward,
+                "winner": row["Elected Candidate Name"],
+                "party": row["Party"],
+                "votes": votes,
+                "source_path": RESULTS_2026,
+                "source_page": page,
+                "name_party_source_path": WINNERS_2026,
+                **reservations[ward],
+                "verification": (
+                    "all_vote_counts_match_gazette;names_parties_from_opencity"
+                ),
+            }
+        )
+    return out
+
+
 @command("parse", state=STATE)
 def main():
     ap = argparse.ArgumentParser()
@@ -570,8 +699,13 @@ def main():
             women = sum(int(r["woman_reserved"]) for r in rows)
             print(f"  ulb_ward_{year}: {len(rows)} seats, {women} reserved for women")
 
+    from local_elections.states.maharashtra import historical
+
+    historical.build()
+
     supplemental = {
         "bmc_seats_2007.csv": seats_2007(deposit),
+        "bmc_winners_2026.csv": winners_2026(),
         "bmc_candidates_1997.csv": candidates_xls(XLS_1997, "work1", "1997"),
         "bmc_candidates_2002.csv": candidates_xls(XLS_2002, "work3", "2002"),
         "bmc_candidates_2012.csv": candidates_2012(),

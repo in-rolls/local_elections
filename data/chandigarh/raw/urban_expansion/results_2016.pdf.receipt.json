@@ -1,0 +1,11 @@
+{
+  "url": "https://chandigarh.gov.in/files/documents/NO09.pdf",
+  "retrieved_at": "2026-11-10T03:12:02.436845+00:00",
+  "repository": "local_elections",
+  "requested_path": "data/chandigarh/raw/urban_expansion/results_2016.pdf",
+  "response": "200\nhttps://chandigarh.gov.in/files/documents/NO09.pdf",
+  "bytes": 61196,
+  "sha256": "d07299dd26a9d2bbfb8a3fa3aae3272ed63d760d68aa8ed2ddb3f7080589e486",
+  "status": "downloaded",
+  "path": "data/chandigarh/raw/urban_expansion/results_2016.pdf"
+}

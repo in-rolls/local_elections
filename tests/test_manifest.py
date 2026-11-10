@@ -163,3 +163,22 @@ def test_pinned_siblings_are_recorded_at_their_pinned_commit():
         assert recorded[repo]["commit"] == pin["ref"], repo
         assert recorded[repo]["pinned"] is True
         assert recorded[repo]["dirty"] is False
+
+
+def test_registered_supplements_are_pinned_without_entering_pooled_totals():
+    from local_elections.common import datasets
+    from local_elections.tools import build_manifest
+
+    entries = build_manifest.supplemental_entries()
+    by_path = {entry["path"]: entry for entry in entries}
+    for state, spec in datasets.registry().items():
+        for relative in spec["supplemental"]:
+            path = f"data/{state}/{relative}"
+            assert by_path[path]["kind"] == "supplemental"
+    for state, spec in datasets.registry().items():
+        for relative in spec.get("metadata", []):
+            assert f"data/{state}/{relative}" in by_path
+    winner = by_path["data/madhya_pradesh/release/urban/winners.parquet"]
+    assert winner["rows"] == 170
+    assert winner["schema"]["reserved_woman"] == "int8"
+    assert "data/madhya_pradesh/release/urban/winners.schema.json" in by_path

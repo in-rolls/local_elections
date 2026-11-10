@@ -74,8 +74,8 @@ def women_check(report, rows, year):
     women = sum(int(r["woman_reserved"]) for r in rows)
     expected = parse.WOMEN_SEATS[year]
     report.check(
-        abs(women - expected) <= 1,
-        f"{year}: women's seats match the statutory share (within one)",
+        women == expected,
+        f"{year}: women's seats match the statutory share",
         f"{women} reserved, statute {expected}",
     )
     if women != expected:
@@ -96,6 +96,13 @@ def main():
         sys.exit("no parsed Maharashtra data - run make maharashtra first")
 
     report = checks.Report("Mumbai (BMC) ward seats, 2012 and 2017 councils")
+    from local_elections.states.maharashtra import historical
+
+    report.check(
+        historical.verify_release(),
+        "Historical handoffs: source hashes, schema, keys, and eligibility",
+        "227 Bhavnani wards and 454 election/profile linkage records",
+    )
 
     report.section("Held Dataverse deposit")
     manifest = load(harvest.MANIFEST)
@@ -145,8 +152,8 @@ def main():
         != parse.clean(wave_2013[r["ward_no"]].get("genderquota"))
     ]
     report.check(
-        len(agree) <= 1,
-        "2012: the sheet's reservation agrees with the deposit's flag on 226+ wards",
+        not agree,
+        "2012: reviewed reservation agrees with the deposit's flag on all 227 wards",
         f"{227 - len(agree)} of 227 agree; differ: {agree}",
     )
     name_check(report, slices["2012"], wave_2013, "2012", floor=0.8)

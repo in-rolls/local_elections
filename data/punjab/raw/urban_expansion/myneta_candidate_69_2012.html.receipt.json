@@ -1,0 +1,11 @@
+{
+  "url": "https://www.myneta.info/punjab_mc_2012/candidate.php?candidate_id=69",
+  "retrieved_at": "2026-11-10T03:13:36.573692+00:00",
+  "repository": "local_elections",
+  "requested_path": "data/punjab/raw/urban_expansion/myneta_candidate_69_2012.html",
+  "response": "200\nhttps://www.myneta.info/punjab_mc_2012/candidate.php?candidate_id=69",
+  "bytes": 41235,
+  "sha256": "09d0f4ad1e9d9e022bbd38d36e9fd6cbf7f92c2168789b6d946251ccbadf8c48",
+  "status": "downloaded",
+  "path": "data/punjab/raw/urban_expansion/myneta_candidate_69_2012.html"
+}
