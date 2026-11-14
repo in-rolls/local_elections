@@ -272,3 +272,31 @@ def test_head_vote_counts_reach_the_pooled_row(slices):
     assert len(rows) > 11_000
     assert all(row.get("rejected_votes") for row in rows)
     assert all(row.get("tendered_votes") for row in rows)
+
+
+def test_a_roster_row_is_located_only_by_a_contest_of_its_own(monkeypatch):
+    seats = [
+        {"district_raw": "AJMER", "gp_raw": "ARAI", "reserved_raw": "SC"},
+        {"district_raw": "AJMER", "gp_raw": "BAROL", "reserved_raw": "OBC"},
+        {"district_raw": "AJMER", "gp_raw": "BAROL", "reserved_raw": "OBC"},
+        {"district_raw": "AJMER", "gp_raw": "DADIYA", "reserved_raw": "ST"},
+    ]
+    monkeypatch.setattr(rajasthan, "roster", lambda root: seats)
+
+    def contest(panchayat, label, kind="General Election"):
+        return {
+            "election_type": kind,
+            "district": "Ajmer",
+            "gram_panchayat": panchayat,
+            "reserved_raw": label,
+        }
+
+    results = [
+        contest("Arai", "SC"),
+        contest("Barol", "OBC"),
+        contest("Dadiya", "ST"),
+        contest("Dadiya", "ST"),
+        contest("Arai", "SC", "By Election"),
+    ]
+
+    assert list(rajasthan.roster_contests(None, results).values()) == ["source_2020:1"]

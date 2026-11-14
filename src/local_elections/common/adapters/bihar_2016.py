@@ -41,7 +41,17 @@ release names no winner. The sibling's review
 the leader's lowest printed count beats every rival's counts added together;
 those seats take that candidate with basis `argmax_votes`, no vote count (the
 two printed counts disagree), and `winner_ruling` saying so. The other 12 stay
-without a winner.
+without a winner. The form prints such a candidate twice, so two candidate rows
+are marked elected; the seat states the winner's sex itself where every printed
+row of that candidate agrees on it.
+
+**The official winner list fills a seat whose form page answers "Record not
+Found".** The sibling's `winner_list/winner_list_records.parquet` is the
+commission's own list of elected mukhiyas. Where a record is matched to one
+seat and its label agrees with the form's frame, a seat with no results page
+takes the list's winner with basis `published`, the sex the list prints, and
+the list's reservation where the form printed none. `winner_source` names the
+list on those seats. A seat whose page has results never takes anything from it.
 
 Bihar elects a gram kachahari - a village court - beside the gram panchayat, so
 its sarpanch and panch are not this state's gram panchayat head and ward.
@@ -75,6 +85,11 @@ SHA256 = {
 REVIEWED = "winner_list/no_winner_reviewed.csv"
 REVIEWED_SHA256 = "7093df1c3d4e8891b6a2224699ac9235071efd04b9341ff1cb9e879f0bb17ac2"
 REVIEWED_ROWS = 41
+# The commission's list of elected mukhiyas, matched to the form's seats by the
+# sibling. Read for the seats the form has no results page for.
+LISTED = "winner_list/winner_list_records.parquet"
+LISTED_SHA256 = "b6aead4fe8ca0827864f2c7d7e9dc76832753f3921847d8fbab76e13fa115a90"
+LISTED_ROWS = 1682
 RULING = "reviewed: leader wins however the repeated rows are read"
 DECLARED = {
     "seats.parquet": 258095,
@@ -135,6 +150,7 @@ def read_release(root):
             raise ValueError(f"Bihar release columns changed: {name}")
         data[name] = table.to_pylist()
     data[REVIEWED] = read_reviewed(directory)
+    data[LISTED] = read_listed(directory)
     return data
 
 
@@ -153,6 +169,25 @@ def read_reviewed(directory):
         for r in rows
         if r["decision"] == "accept"
     }
+
+
+def read_listed(directory):
+    """{mukhiya seat key: winner-list record}, for records naming one seat."""
+    path = directory / LISTED
+    if hashlib.sha256(path.read_bytes()).hexdigest() != LISTED_SHA256:
+        raise ValueError(f"Bihar winner list checksum changed: {LISTED}")
+    rows = pq.read_table(path).to_pylist()
+    if len(rows) != LISTED_ROWS:
+        raise ValueError("Bihar winner list count changed")
+    listed = {}
+    for r in rows:
+        if r["unit_repeated"] or not r["label_matches_frame"]:
+            continue
+        key = ("mukhiya", r["district_code"], r["block_code"], r["unit_code"])
+        if key in listed:
+            raise ValueError(f"Bihar winner list names a seat twice: {key}")
+        listed[key] = r
+    return listed
 
 
 def seat_key(row):
@@ -183,6 +218,7 @@ def convert(tables):
     """
     # read_release always supplies the rulings; hand-built tables may omit them
     reviewed = tables.get(REVIEWED, {})
+    listed = tables.get(LISTED, {})
     used_rulings = set()
     winners = {}
     for row in tables["winners.parquet"]:
@@ -207,7 +243,17 @@ def convert(tables):
     for unit in tables["seats.parquet"]:
         key = seat_key(unit)
         tier, tier_local = OFFICES[unit["office"]]
-        stated = text(unit["reserved_raw"])
+        review_key = (
+            unit["office"],
+            unit["district_code"],
+            unit["block_code"],
+            unit["unit_code"],
+        )
+        # Only a seat whose form page has no results is read from the list.
+        named = listed.get(review_key) if unit["status"] == "no_record" else None
+        stated = text(unit["reserved_raw"]) or (
+            text(named["reserved_raw"]) if named else ""
+        )
         if not stated:
             unstated[tier] += 1
             continue
@@ -227,14 +273,7 @@ def convert(tables):
         won = winners.get(key)
         ruled = None
         if not won:
-            serial_no = reviewed.get(
-                (
-                    unit["office"],
-                    unit["district_code"],
-                    unit["block_code"],
-                    unit["unit_code"],
-                )
-            )
+            serial_no = reviewed.get(review_key)
             if serial_no is not None:
                 ruled = [row for row in contestants if row["sr_no"] == serial_no]
                 if not ruled:
@@ -249,6 +288,16 @@ def convert(tables):
             != 1
         ):
             raise ValueError(f"Bihar winner does not identify one candidate: {key}")
+        if named and (won or ruled):
+            raise ValueError(f"Bihar seat without a results page has a winner: {key}")
+        # The form prints a ruled candidate more than once; the seat states the
+        # sex only where every printed row agrees.
+        ruled_sex = {text(row["candidate_woman_raw"]) for row in ruled or ()}
+        winner_sex = (
+            text(named["candidate_woman_raw"])
+            if named
+            else (ruled_sex.pop() if len(ruled_sex) == 1 else "")
+        )
         vacant = bool(contestants) and all(
             row["remarks"] == "Vacant" for row in contestants
         )
@@ -284,11 +333,24 @@ def convert(tables):
             "winner": (
                 text(won["candidate_name"])
                 if won
-                else (text(ruled[0]["candidate_name"]) if ruled else "")
+                else (
+                    text(ruled[0]["candidate_name"])
+                    if ruled
+                    else (text(named["winner_name"]) if named else "")
+                )
             ),
             "winner_basis": (
-                BASIS[won["winner_basis"]] if won else ("argmax_votes" if ruled else "")
+                BASIS[won["winner_basis"]]
+                if won
+                else ("argmax_votes" if ruled else ("published" if named else ""))
             ),
+            "winner_gender_raw": winner_sex,
+            "winner_gender_basis": (
+                "seat_record"
+                if named and winner_sex
+                else ("winning_candidate_record" if winner_sex else "")
+            ),
+            "winner_source": f"{RELEASE}/{LISTED}" if named else "",
             "winner_ruling": RULING if ruled else "",
             "votes": won["votes"] if won else None,
             "vacant": int(vacant),

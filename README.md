@@ -25,11 +25,11 @@ of missing seats and must not be added together.
 
 | | Entries | Rows affected |
 |---|---|---|
-| [Open gaps](docs/worklist.md) | 99 | 145,510 |
+| [Open gaps](docs/worklist.md) | 100 | 144,889 |
 | [Blocked](docs/worklist.md) | 2 | 50,013 |
 | [Parked](docs/worklist.md) | 9 | 1,653 |
-| [Undetermined](docs/worklist.md) | 41 | 223,399 |
-| [Accepted properties of the sources](docs/worklist.md) | 27 | 163,970 |
+| [Undetermined](docs/worklist.md) | 44 | 250,410 |
+| [Accepted properties of the sources](docs/worklist.md) | 25 | 149,456 |
 
 <!-- worklist:end -->
 

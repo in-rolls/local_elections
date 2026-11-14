@@ -933,6 +933,22 @@ COLUMNS = [
         "same parent, so the page could belong to either; the row enters once. "
         "Bihar 2016.",
     ),
+    column(
+        "winner_ruling",
+        "string",
+        severity=INFO,
+        note="The reviewed ruling that names the winner where the release names "
+        "none because the form prints the candidates twice with different "
+        "counts. Bihar 2016.",
+    ),
+    column(
+        "winner_source",
+        "string",
+        severity=INFO,
+        note="The table the winner was read from, where it is not the seat's own "
+        "source_path: the official winner list, for a seat whose results page "
+        "is missing. Bihar 2016.",
+    ),
 ]
 
 COLUMNS.extend(

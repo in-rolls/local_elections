@@ -2,7 +2,12 @@
 
 import pytest
 
-from local_elections.common.adapters.bihar_2016 import REVIEWED, RULING, convert
+from local_elections.common.adapters.bihar_2016 import (
+    LISTED,
+    REVIEWED,
+    RULING,
+    convert,
+)
 
 
 def tables(winner=True):
@@ -112,3 +117,53 @@ def test_a_ruling_never_overrides_a_release_winner():
 def test_a_ruling_naming_no_listed_candidate_stops_the_build():
     with pytest.raises(ValueError, match="names no listed candidate"):
         convert(ruled(9))
+
+
+def test_a_ruled_winner_states_the_sex_its_printed_rows_agree_on():
+    inputs = ruled(1)
+    for row in inputs["candidates.parquet"]:
+        row["candidate_woman_raw"] = "महिला"
+    seat = convert(inputs)[0][0]
+    assert seat["winner_gender_raw"] == "महिला"
+    assert seat["winner_gender_basis"] == "winning_candidate_record"
+    inputs["candidates.parquet"][1]["candidate_woman_raw"] = "पुरुष"
+    assert convert(inputs)[0][0]["winner_gender_raw"] == ""
+
+
+def listed(status, reserved_raw):
+    inputs = tables(winner=False)
+    inputs["candidates.parquet"] = []
+    inputs["seats.parquet"][0].update(
+        status=status, reserved_raw=reserved_raw, candidate_rows=0
+    )
+    inputs[LISTED] = {
+        ("mukhiya", "01", "001", "01"): {
+            "reserved_raw": "अनारक्षित (महिला)",
+            "winner_name": "Listed Winner",
+            "candidate_woman_raw": "महिला",
+        }
+    }
+    return inputs
+
+
+def test_the_winner_list_fills_a_seat_with_no_results_page():
+    seats, unstated = convert(listed("no_record", ""))
+    assert not unstated
+    assert seats[0]["winner"] == "Listed Winner"
+    assert seats[0]["winner_basis"] == "published"
+    assert seats[0]["winner_gender_raw"] == "महिला"
+    assert seats[0]["winner_gender_basis"] == "seat_record"
+    assert seats[0]["woman_reserved"] == 1
+    assert seats[0]["winner_source"].endswith(LISTED)
+
+
+def test_the_winner_list_keeps_the_reservation_the_form_printed():
+    seat = convert(listed("no_record", "अनारक्षित"))[0][0]
+    assert seat["woman_reserved"] == 0
+    assert seat["winner"] == "Listed Winner"
+
+
+def test_the_winner_list_is_not_read_for_a_seat_with_a_results_page():
+    seats, unstated = convert(listed("results", ""))
+    assert not seats
+    assert unstated["gp_head"] == 1

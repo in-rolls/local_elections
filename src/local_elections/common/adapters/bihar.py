@@ -49,8 +49,11 @@ STATE = "Bihar"
 
 # The sibling's mukhiya seat links. 2016 and 2021 are joined on panchayat names
 # inside matched blocks, with ward counts as a second pass; 2011 records are
-# joined to 2016 seats on names alone, inside a reviewed block crosswalk.
+# joined to 2016 seats on names alone, inside a reviewed block crosswalk; the
+# 2006 gram panchayats of Sharan's reservation file are joined to 2016 seats on
+# names inside a block learned from the names, or across the district.
 LINKS = {
+    "2006_2016": "data/release/linkage/mukhiya_2006_2016.parquet",
     "2011_2016": "data/release/linkage/mukhiya_2011_2016.parquet",
     "2016_2021": "data/release/linkage/mukhiya_2016_2021.parquet",
 }
@@ -74,6 +77,18 @@ def locator_2016(r):
 
 def links(root):
     """The sibling's mukhiya seat links, keyed by both seats' locators."""
+    path = root / LINKS["2006_2016"]
+    for r in pq.read_table(path).to_pylist():
+        yield {
+            "from_dataset_id": "bihar/gp_head/2006",
+            # bihar_2006's locator for a row of Sharan's reservation file
+            "from_locator": f"sharan/{r['ugp']}",
+            "to_dataset_id": "bihar/gp_head/2016",
+            "to_locator": locator_2016(r),
+            "link_pass": r["link_pass"],
+            "name_score": r["name_score"],
+            "source_path": LINKS["2006_2016"],
+        }
     path = root / LINKS["2011_2016"]
     for r in pq.read_table(path).to_pylist():
         yield {

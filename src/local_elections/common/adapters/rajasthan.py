@@ -15,6 +15,12 @@ contests have candidates but no winner row. They remain candidate-derived seats
 with a blank winner. No fuzzy linkage is used: all 11,432 published winners
 match a candidate contest and candidate name on normalized exact keys.
 
+The sibling links sarpanch seats across consecutive elections from reviewed
+pair-by-pair crosswalks. Those links name a seat by its row in the year's
+sarpanch table. A 2020 link names a roster row, and is carried only where that
+row's district, panchayat and reservation label identify one general-election
+contest.
+
 The candidate scrape includes mobile numbers and email addresses. Those are
 deliberately excluded under the pooled corpus's contact-data policy; the
 candidate's non-contact attributes are retained.
@@ -55,6 +61,13 @@ BLOCK_MEMBER_FILES = {
 ZP_MEMBER_FILES = {
     "2005": "data/release/2005/zila_parishad_results.parquet",
     "2010": "data/release/2010/zila_parishad_results.parquet",
+}
+
+# The sibling's sarpanch links, one table per pair of consecutive elections.
+LINKS = {
+    ("2005", "2010"): "data/release/linkage/sarpanch_2005_2010.parquet",
+    ("2010", "2015"): "data/release/linkage/sarpanch_2010_2015.parquet",
+    ("2015", "2020"): "data/release/linkage/sarpanch_2015_2020.parquet",
 }
 
 DECLARED = {
@@ -227,7 +240,8 @@ def old_panel_slices(root):
                 f"{DECLARED[year]:,} declared - the sibling changed"
             )
         rows = [
-            old_panel_row(record, year, relative) for record in frame.to_dict("records")
+            old_panel_row(record, year, relative, number)
+            for number, record in enumerate(frame.to_dict("records"), 1)
         ]
         check_units("gp_head", year, rows)
         yield {
@@ -264,7 +278,12 @@ def panel_winner_sex(winner_female, year):
     }
 
 
-def old_panel_row(record, year, relative):
+def source_id(year, number):
+    """The sibling's name for a row of a year's sarpanch table."""
+    return f"source_{year}:{number}"
+
+
+def old_panel_row(record, year, relative, number):
     local = blank(record.get("reserved_caste")).upper()
     caste = CASTE.get(local)
     if local and caste is None:
@@ -298,6 +317,7 @@ def old_panel_row(record, year, relative):
         "script": "latin",
         "source_path": relative,
         "source_page": "",
+        "source_locator": source_id(year, number),
     }
 
 
@@ -654,7 +674,7 @@ def head_row(candidate_rows, winner, nomination):
     return got
 
 
-def roster_only_rows(root, result_rows):
+def roster(root):
     try:
         import pandas
     except ImportError:
@@ -662,23 +682,32 @@ def roster_only_rows(root, result_rows):
             f"{REPO}: pandas is required to read its parquet panels"
         ) from None
 
-    relative = SEAT_FILES["2020"]
-    frame = pandas.read_parquet(pathlib.Path(root) / relative)
+    frame = pandas.read_parquet(pathlib.Path(root) / SEAT_FILES["2020"])
     if len(frame) != DECLARED["2020"]:
         raise SystemExit(
             f"{REPO}: 2020 holds {len(frame):,} rows, {DECLARED['2020']:,} declared"
         )
-    general = [
+    return frame.to_dict("records")
+
+
+def general(result_rows):
+    return [
         row for row in result_rows if row.get("election_type") == "General Election"
     ]
-    available = collections.Counter(result_roster_key(row) for row in general)
+
+
+def roster_only_rows(root, result_rows):
+    relative = SEAT_FILES["2020"]
+    available = collections.Counter(
+        result_roster_key(row) for row in general(result_rows)
+    )
     out = []
-    for record in frame.to_dict("records"):
+    for number, record in enumerate(roster(root), 1):
         key = roster_key(record)
         if available[key]:
             available[key] -= 1
             continue
-        row = old_panel_row(record, "2020", relative)
+        row = old_panel_row(record, "2020", relative, number)
         row["unit_of_observation"] = "seat"
         out.append(row)
     if sum(available.values()):
@@ -690,6 +719,24 @@ def roster_only_rows(root, result_rows):
             f"{REPO}: 2020 roster has {len(out):,} result-free rows, 4 declared"
         )
     return out
+
+
+def roster_contests(root, result_rows):
+    """Roster rows that one general-election contest answers to, by the
+    contest's roster key. District, panchayat and reservation label repeat, so
+    a key shared by two roster rows or two contests names neither.
+    """
+    numbers = collections.defaultdict(list)
+    for number, record in enumerate(roster(root), 1):
+        numbers[roster_key(record)].append(number)
+    contests = collections.Counter(
+        result_roster_key(row) for row in general(result_rows)
+    )
+    return {
+        key: source_id("2020", found[0])
+        for key, found in numbers.items()
+        if len(found) == 1 and contests[key] == 1
+    }
 
 
 def head_slices(root, candidates, winners, nominations):
@@ -713,9 +760,13 @@ def head_slices(root, candidates, winners, nominations):
             f"{REPO}: {len(missing_candidates):,} winner contests have no candidates"
         )
 
+    located = roster_contests(root, winners)
     by_year = collections.defaultdict(list)
     for key, members in grouped.items():
-        row = head_row(members, winner_by_key.get(key), nomination_by_key.get(key))
+        winner = winner_by_key.get(key)
+        row = head_row(members, winner, nomination_by_key.get(key))
+        if winner and winner.get("election_type") == "General Election":
+            row["source_locator"] = located.get(result_roster_key(winner), "")
         by_year[row["year"]].append(row)
     for row in roster_only_rows(root, winners):
         by_year["2020"].append(row)
@@ -819,6 +870,32 @@ def slices(root):
     yield from head_slices(root, candidates, winners, nominations)
     wards = read_table(root, WARD_FILE, DECLARED[WARD_FILE])
     yield from ward_slices(wards)
+
+
+def links(root):
+    """The sibling's sarpanch seat links, keyed by both seats' source ids."""
+    root = pathlib.Path(root)
+    winners = read_table(root, WINNER_FILE, DECLARED[WINNER_FILE])
+    # a roster row's contest may be dated 2020, 2021 or 2022
+    contests = roster_contests(root, winners)
+    contest_year = {
+        located: event_year(row)
+        for row in general(winners)
+        if (located := contests.get(result_roster_key(row)))
+    }
+    for (first, second), relative in LINKS.items():
+        for r in pq.read_table(root / relative).to_pylist():
+            later = r[f"source_id_{second}"]
+            yield {
+                "from_dataset_id": f"rajasthan/gp_head/{first}",
+                "from_locator": r[f"source_id_{first}"],
+                "to_dataset_id": "rajasthan/gp_head/"
+                + (contest_year.get(later, second) if second == "2020" else second),
+                "to_locator": later,
+                "link_pass": r["link_basis"],
+                "name_score": r["name_score"],
+                "source_path": relative,
+            }
 
 
 SUPPLEMENTAL_COLUMNS = [

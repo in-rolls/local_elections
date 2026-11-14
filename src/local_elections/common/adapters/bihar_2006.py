@@ -13,6 +13,16 @@ reads every cell again with normalize.caste_of and stops if the two readings
 ever disagree; where normalize cannot read a spelling, the sibling's reading
 stands.
 
+The mukhiya seat's reservation comes from a second producer, M. R. Sharan's
+research file (the sibling's gp_head_reservations.parquet): 8,262 gram
+panchayats with English names and no winner. It is not an SEC document and
+its origin in SEC records is undocumented, so its rows enter beside the
+workbook rows and are not merged into them: a 2006 gram panchayat can
+therefore appear twice under gp_head, once with a winner and once with a
+reservation. Its EBC is pooled as BC, as Bihar 2011's is, and stays distinct
+in caste_reservation_local. Each row's locator is `sharan/<ugp>`, which the
+sibling's 2006-2016 seat link names.
+
 The profile workbooks print no year; the sibling dates them to 2006 against
 the 2011 winner reports (its build/profile_year_check.py). Every slice is
 `partial`.
@@ -29,13 +39,20 @@ from local_elections.common.normalize import label
 RELEASE = "data/release/2006"
 SHA256 = {
     "seats.parquet": (
-        "4e0d7918167e487dd11f64c6c55352b1e8def200db6e2923cd6bddfbff6ed34e"
+        "796bc5ebf483ad0c559876c246d27a09415d0bd63bafce675c5aa39d83489134"
     ),
     "winner_profiles.parquet": (
-        "ac4bc7640b28c5545b436e3a936aa8b9bc202c019fe4d5c274f3a88e44b6d56c"
+        "b9e0ded86b05eb9253421f2a5480e106ac5589007abf172355fbcd83de3afe19"
+    ),
+    "gp_head_reservations.parquet": (
+        "12e8f3c8fa31003db4d1c71a74d5092381865e742dab5c75d107e51fce35b328"
     ),
 }
-DECLARED = {"seats.parquet": 199037, "winner_profiles.parquet": 14514}
+DECLARED = {
+    "seats.parquet": 209523,
+    "winner_profiles.parquet": 14514,
+    "gp_head_reservations.parquet": 8262,
+}
 YEAR = "2006"
 STATE = "Bihar"
 OFFICES = {
@@ -49,6 +66,7 @@ OFFICES = {
 WARD_TIERS = {"gp_ward", "kachahari_member"}
 NUMBERED_TIERS = {"block_member", "zp_member"}
 HEAD_TIERS = {"gp_head", "kachahari_head"}
+SHARAN_CASTE = {"NONE": "NONE", "SC": "SC", "ST": "ST", "EBC": "BC"}
 
 
 def read_release(root):
@@ -138,6 +156,33 @@ def convert(r, profile):
     return row
 
 
+def roster_row(r):
+    """A mukhiya seat as Sharan's file states it: place and reservation only."""
+    reserved = SHARAN_CASTE[r["reserved_caste"]]
+    return {
+        "state": STATE,
+        "year": YEAR,
+        "tier": "gp_head",
+        "tier_local": "mukhiya",
+        "district": text(r["district"]),
+        "block": text(r["block"]),
+        "gram_panchayat": text(r["gram_panchayat"]),
+        "listing_scope": "partial",
+        "caste_reservation": reserved,
+        "caste_reservation_local": text(r["reserved_caste"]),
+        "woman_reserved": int(r["reserved_woman"]),
+        "gender_stated": 1,
+        "reservation": label(reserved, bool(r["reserved_woman"])),
+        "winner": "",
+        "winner_basis": "",
+        "vacant": 0,
+        "source_path": f"{RELEASE}/gp_head_reservations.parquet",
+        "source_page": "",
+        "source_sha256": SHA256["gp_head_reservations.parquet"],
+        "source_locator": f"sharan/{r['ugp']}",
+    }
+
+
 def slices(root):
     tables = read_release(root)
     profiles = {locator(p): p for p in tables["winner_profiles.parquet"]}
@@ -145,6 +190,9 @@ def slices(root):
     for r in tables["seats.parquet"]:
         row = convert(r, profiles.get(locator(r)))
         by_tier.setdefault(row["tier"], []).append(row)
+    by_tier["gp_head"] += [
+        roster_row(r) for r in tables["gp_head_reservations.parquet"]
+    ]
     for tier, rows in by_tier.items():
         yield {
             "dataset_id": f"bihar/{tier}/{YEAR}",
