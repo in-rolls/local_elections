@@ -50,6 +50,8 @@ SEAT_FILES = {
     "2020": "data/release/2020/sarpanch_reservations.parquet",
 }
 
+# The sibling's reviewed district and samiti spellings, by sarpanch-table row.
+STANDARD_FILE = "data/release/sarpanch_source_records.parquet"
 CONTESTING_FILE = "data/release/sarpanch_candidates.parquet"
 WINNER_FILE = "data/release/sarpanch_winners.parquet"
 WARD_FILE = "data/release/ward_member_winners.parquet"
@@ -218,6 +220,23 @@ def check_units(tier, year, rows):
         )
 
 
+def standard_names(root):
+    """Standardized district, samiti and panchayat of each sarpanch-table row."""
+    table = pq.read_table(
+        pathlib.Path(root) / STANDARD_FILE,
+        columns=["source_id", "district_std", "samiti_std", "gp_std"],
+    )
+    return {
+        r["source_id"]: {
+            "district_standardized": blank(r["district_std"]),
+            "block_standardized": blank(r["samiti_std"]),
+            "gram_panchayat_standardized": blank(r["gp_std"]),
+            "source_record_id": r["source_id"],
+        }
+        for r in table.to_pylist()
+    }
+
+
 def old_panel_slices(root):
     try:
         import pandas
@@ -227,6 +246,7 @@ def old_panel_slices(root):
         ) from None
 
     root = pathlib.Path(root)
+    standard = standard_names(root)
     for year, relative in sorted(SEAT_FILES.items()):
         if year == "2020":
             continue
@@ -240,7 +260,7 @@ def old_panel_slices(root):
                 f"{DECLARED[year]:,} declared - the sibling changed"
             )
         rows = [
-            old_panel_row(record, year, relative, number)
+            old_panel_row(record, year, relative, number, standard)
             for number, record in enumerate(frame.to_dict("records"), 1)
         ]
         check_units("gp_head", year, rows)
@@ -283,7 +303,7 @@ def source_id(year, number):
     return f"source_{year}:{number}"
 
 
-def old_panel_row(record, year, relative, number):
+def old_panel_row(record, year, relative, number, standard):
     local = blank(record.get("reserved_caste")).upper()
     caste = CASTE.get(local)
     if local and caste is None:
@@ -303,7 +323,7 @@ def old_panel_row(record, year, relative, number):
         # therefore authoritative for seat identity, while the standardized
         # value remains available as a non-key auxiliary field.
         "gram_panchayat": blank(record.get("gp_raw")) or blank(record.get("gp_std")),
-        "gram_panchayat_standardized": blank(record.get("gp_std")),
+        **standard[source_id(year, number)],
         "ward_no": "",
         "caste_reservation": caste or "",
         "caste_reservation_local": local,
@@ -626,7 +646,13 @@ def head_row(candidate_rows, winner, nomination):
         "seat_candidates": len(candidate_rows),
         "winner_candidate_ambiguous": int(winner_matches > 1),
     }
-    got.update(reservation(first.get("reserved_raw")))
+    # Where the two sheets print different labels, the reservation roster
+    # agrees with the result sheet in every contest it can be checked against.
+    printed = blank(first.get("reserved_raw"))
+    stated = blank((winner or {}).get("reserved_raw")) or printed
+    got.update(reservation(stated))
+    if normalized(printed) != normalized(stated):
+        got["reserved_raw_from_candidates"] = printed
     got.update(nomination_fields(nomination))
     if winner:
         winner_votes = integer(winner.get("winner_votes"))
@@ -698,6 +724,7 @@ def general(result_rows):
 
 def roster_only_rows(root, result_rows):
     relative = SEAT_FILES["2020"]
+    standard = standard_names(root)
     available = collections.Counter(
         result_roster_key(row) for row in general(result_rows)
     )
@@ -707,7 +734,7 @@ def roster_only_rows(root, result_rows):
         if available[key]:
             available[key] -= 1
             continue
-        row = old_panel_row(record, "2020", relative, number)
+        row = old_panel_row(record, "2020", relative, number, standard)
         row["unit_of_observation"] = "seat"
         out.append(row)
     if sum(available.values()):
@@ -724,19 +751,32 @@ def roster_only_rows(root, result_rows):
 def roster_contests(root, result_rows):
     """Roster rows that one general-election contest answers to, by the
     contest's roster key. District, panchayat and reservation label repeat, so
-    a key shared by two roster rows or two contests names neither.
+    a key shared by two roster rows or two contests names neither; the samiti
+    then separates them where both sheets spell it alike.
     """
     numbers = collections.defaultdict(list)
     for number, record in enumerate(roster(root), 1):
-        numbers[roster_key(record)].append(number)
-    contests = collections.Counter(
-        result_roster_key(row) for row in general(result_rows)
-    )
+        key = roster_key(record)
+        numbers[key].append(number)
+        numbers[(*key, normalized(record.get("samiti_raw")))].append(number)
+    contests = collections.Counter()
+    for row in general(result_rows):
+        key = result_roster_key(row)
+        contests[key] += 1
+        contests[(*key, normalized(row.get("panchayat_samiti")))] += 1
     return {
         key: source_id("2020", found[0])
         for key, found in numbers.items()
         if len(found) == 1 and contests[key] == 1
     }
+
+
+def contest_locator(located, row):
+    """The roster row a general-election result row answers to, if one."""
+    key = result_roster_key(row)
+    return located.get(key) or located.get(
+        (*key, normalized(row.get("panchayat_samiti"))), ""
+    )
 
 
 def head_slices(root, candidates, winners, nominations):
@@ -761,12 +801,14 @@ def head_slices(root, candidates, winners, nominations):
         )
 
     located = roster_contests(root, winners)
+    standard = standard_names(root)
     by_year = collections.defaultdict(list)
     for key, members in grouped.items():
         winner = winner_by_key.get(key)
         row = head_row(members, winner, nomination_by_key.get(key))
         if winner and winner.get("election_type") == "General Election":
-            row["source_locator"] = located.get(result_roster_key(winner), "")
+            row["source_locator"] = contest_locator(located, winner)
+            row.update(standard.get(row["source_locator"], {}))
         by_year[row["year"]].append(row)
     for row in roster_only_rows(root, winners):
         by_year["2020"].append(row)
@@ -881,7 +923,7 @@ def links(root):
     contest_year = {
         located: event_year(row)
         for row in general(winners)
-        if (located := contests.get(result_roster_key(row)))
+        if (located := contest_locator(contests, row))
     }
     for (first, second), relative in LINKS.items():
         for r in pq.read_table(root / relative).to_pylist():

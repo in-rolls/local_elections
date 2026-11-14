@@ -277,26 +277,75 @@ def test_head_vote_counts_reach_the_pooled_row(slices):
 def test_a_roster_row_is_located_only_by_a_contest_of_its_own(monkeypatch):
     seats = [
         {"district_raw": "AJMER", "gp_raw": "ARAI", "reserved_raw": "SC"},
-        {"district_raw": "AJMER", "gp_raw": "BAROL", "reserved_raw": "OBC"},
-        {"district_raw": "AJMER", "gp_raw": "BAROL", "reserved_raw": "OBC"},
+        {
+            "district_raw": "AJMER",
+            "samiti_raw": "ARAIN",
+            "gp_raw": "BAROL",
+            "reserved_raw": "OBC",
+        },
+        {
+            "district_raw": "AJMER",
+            "samiti_raw": "KEKRI",
+            "gp_raw": "BAROL",
+            "reserved_raw": "OBC",
+        },
         {"district_raw": "AJMER", "gp_raw": "DADIYA", "reserved_raw": "ST"},
     ]
     monkeypatch.setattr(rajasthan, "roster", lambda root: seats)
 
-    def contest(panchayat, label, kind="General Election"):
+    def contest(panchayat, label, kind="General Election", samiti=""):
         return {
             "election_type": kind,
             "district": "Ajmer",
+            "panchayat_samiti": samiti,
             "gram_panchayat": panchayat,
             "reserved_raw": label,
         }
 
     results = [
         contest("Arai", "SC"),
-        contest("Barol", "OBC"),
+        contest("Barol", "OBC", samiti="Arain"),
+        contest("Barol", "OBC", samiti="Masuda"),
         contest("Dadiya", "ST"),
         contest("Dadiya", "ST"),
         contest("Arai", "SC", "By Election"),
     ]
 
-    assert list(rajasthan.roster_contests(None, results).values()) == ["source_2020:1"]
+    located = rajasthan.roster_contests(None, results)
+    assert set(located.values()) == {"source_2020:1", "source_2020:2"}
+    assert rajasthan.contest_locator(located, results[1]) == "source_2020:2"
+    assert rajasthan.contest_locator(located, results[2]) == ""
+
+
+def test_a_contest_carries_the_result_sheets_reservation(slices):
+    heads = [
+        row
+        for item in slices
+        if item["dataset_id"] == "rajasthan/gp_head/2020"
+        for row in item["rows"]
+    ]
+    differing = [row for row in heads if row.get("reserved_raw_from_candidates")]
+    assert len(differing) == 257
+    bugdi = next(
+        row
+        for row in differing
+        if row["district"] == "TONK" and row["gram_panchayat"] == "Bugdi"
+    )
+    assert bugdi["woman_reserved"] == 0
+    assert (
+        rajasthan.reservation(bugdi["reserved_raw_from_candidates"])["woman_reserved"]
+        == 1
+    )
+
+
+def test_standardized_names_reach_every_located_seat(slices):
+    heads = [
+        row
+        for item in slices
+        if item["dataset_id"].startswith("rajasthan/gp_head/")
+        for row in item["rows"]
+    ]
+    located = [row for row in heads if row.get("source_locator")]
+    assert all(
+        row["district_standardized"] and row["block_standardized"] for row in located
+    )

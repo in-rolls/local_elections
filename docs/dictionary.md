@@ -29,6 +29,10 @@ than a defect.
 | `block` | string | warn | length 2–40; ≤35% blank | Block, taluka or mandal depending on the state. |
 | `gram_panchayat` | string | warn | length 2–45; ≤10% blank; also called `halqa` | The panchayat. Called halqa in J&K. Jharkhand printed it inside a compound seat identifier until that was taken apart; see seat_id_raw. A value far over the length bound has usually swallowed the next column - that is how AP's broken mandal split was found. |
 | `gram_panchayat_standardized` | string | info | length 2–45 | A source repository's standardized panchayat name, retained for linkage but excluded from seat identity because a many-to-one name crosswalk can merge distinct printed panchayats. |
+| `district_standardized` | string | info | — | A source repository's reviewed spelling of the district, the same across elections. Rajasthan. |
+| `block_standardized` | string | info | — | A source repository's reviewed spelling of the block, the same across elections. Rajasthan. |
+| `source_record_id` | string | info | — | The source repository's own identifier of the record the seat was read from, which its other tables join on. Rajasthan. |
+| `reserved_raw_from_candidates` | string | info | — | The reservation label on the contest's candidate records, where it differs from the result sheet's, which the seat carries. Rajasthan. |
 | `ward_no` | roman_or_integer | warn | length 1–6; ≤30% blank | Blank on sarpanch and mukhiya rows by design. J&K and Goa number wards in Roman numerals, so this is not purely numeric. |
 | `ward_name` | string | warn | length 2–40; ≤30% blank | A named ward or upper-tier constituency where the source names rather than numbers the seat. |
 | `caste_reservation` | enum | error | one of `SC`, `ST`, `BC`, `NONE`; ≤0% blank | **The seat's reservation, never the winner's caste.** The two are different facts and this corpus keeps them apart: a scheduled-caste person can win an unreserved seat, and in Uttar Pradesh 2005 the winner's own category matches the seat's on only 19,324 of 51,872 rows. The winner's category, where a source states it, is `winner_caste` on a seat row and `candidate_caste` on a candidate row. Orthogonal to woman_reserved: a seat can be both. |
@@ -145,6 +149,8 @@ than a defect.
 | `winner_candidate_ambiguous` | integer | info | range 0–1 | More than one candidate in the contest has the published winner's exact normalized name, so the seat winner is known but the winning candidate serial is not. |
 | `shared_place_name` | integer | info | range 0–1 | Two places in one block printed under one name, told apart only by being reserved differently. |
 | `code_repeated` | integer | info | range 0–1 | The source form reuses this seat's code for a second place in the same parent, so the page could belong to either; the row enters once. Bihar 2016. |
+| `winner_ruling` | string | info | — | The reviewed ruling that names the winner where the release names none because the form prints the candidates twice with different counts. Bihar 2016. |
+| `winner_source` | string | info | — | The table the winner was read from, where it is not the seat's own source_path: the official winner list, for a seat whose results page is missing. Bihar 2016. |
 | `source_row_number` | integer | info | range 1–100000000 | One-based record ordinal in source_path, excluding a CSV header. This is not a PDF page number or a geographic identifier. |
 | `source_sha256` | string | info | length 64–64 | SHA-256 of the pinned input bytes identified by source_path. |
 | `winner_markers_conflict` | boolean | info | — | Multiple candidates under one source seat key are marked as winners. No winner is selected and elected remains unknown. |

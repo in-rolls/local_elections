@@ -158,6 +158,35 @@ COLUMNS = [
         "crosswalk can merge distinct printed panchayats.",
     ),
     column(
+        "district_standardized",
+        "string",
+        severity=INFO,
+        note="A source repository's reviewed spelling of the district, the "
+        "same across elections. Rajasthan.",
+    ),
+    column(
+        "block_standardized",
+        "string",
+        severity=INFO,
+        note="A source repository's reviewed spelling of the block, the same "
+        "across elections. Rajasthan.",
+    ),
+    column(
+        "source_record_id",
+        "string",
+        severity=INFO,
+        note="The source repository's own identifier of the record the seat was "
+        "read from, which its other tables join on. Rajasthan.",
+    ),
+    column(
+        "reserved_raw_from_candidates",
+        "string",
+        severity=INFO,
+        note="The reservation label on the contest's candidate records, where "
+        "it differs from the result sheet's, which the seat carries. "
+        "Rajasthan.",
+    ),
+    column(
         "ward_no",
         "roman_or_integer",
         length=(1, 6),
