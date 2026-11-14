@@ -172,6 +172,14 @@ COLUMNS = [
         "across elections. Rajasthan.",
     ),
     column(
+        "lgd_gp_code",
+        "string",
+        severity=INFO,
+        note="The panchayat's Local Government Directory code, from a source "
+        "repository's reviewed link between its names and the directory. "
+        "Rajasthan.",
+    ),
+    column(
         "source_record_id",
         "string",
         severity=INFO,

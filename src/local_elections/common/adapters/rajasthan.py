@@ -52,6 +52,8 @@ SEAT_FILES = {
 
 # The sibling's reviewed district and samiti spellings, by sarpanch-table row.
 STANDARD_FILE = "data/release/sarpanch_source_records.parquet"
+# The sibling's panchayat-to-LGD links, by standardized name.
+LGD_FILE = "data/release/linkage/gp_lgd_crosswalk.parquet"
 CONTESTING_FILE = "data/release/sarpanch_candidates.parquet"
 WINNER_FILE = "data/release/sarpanch_winners.parquet"
 WARD_FILE = "data/release/ward_member_winners.parquet"
@@ -221,20 +223,33 @@ def check_units(tier, year, rows):
 
 
 def standard_names(root):
-    """Standardized district, samiti and panchayat of each sarpanch-table row."""
+    """Standardized district, samiti and panchayat of each sarpanch-table row,
+    and the panchayat's LGD code where the sibling's crosswalk has one. The
+    crosswalk is keyed by the three standardized names, lowercased.
+    """
+    root = pathlib.Path(root)
+    codes = {
+        r["match_key"]: r["lgd_gp_code"]
+        for r in pq.read_table(
+            root / LGD_FILE, columns=["match_key", "lgd_gp_code"]
+        ).to_pylist()
+    }
     table = pq.read_table(
-        pathlib.Path(root) / STANDARD_FILE,
+        root / STANDARD_FILE,
         columns=["source_id", "district_std", "samiti_std", "gp_std"],
     )
-    return {
-        r["source_id"]: {
-            "district_standardized": blank(r["district_std"]),
-            "block_standardized": blank(r["samiti_std"]),
-            "gram_panchayat_standardized": blank(r["gp_std"]),
+    out = {}
+    for r in table.to_pylist():
+        names = [blank(r[c]) for c in ("district_std", "samiti_std", "gp_std")]
+        code = codes.get("_".join(name.lower() for name in names))
+        out[r["source_id"]] = {
+            "district_standardized": names[0],
+            "block_standardized": names[1],
+            "gram_panchayat_standardized": names[2],
             "source_record_id": r["source_id"],
+            "lgd_gp_code": "" if code is None else str(int(code)),
         }
-        for r in table.to_pylist()
-    }
+    return out
 
 
 def old_panel_slices(root):
