@@ -96,7 +96,8 @@
       "data/release/linkage/sarpanch_2010_2015.parquet": "a4c9c42518993ae3f3d091b10d20dc97bb3e2f234fee6ed3022fb03dc3a8fffe",
       "data/release/linkage/sarpanch_2015_2020.parquet": "077552570fefceca90ac8f9356267e2450b30b763be12944dd3fc76366d413ae",
       "data/release/sarpanch_source_records.parquet": "0b1c9997f26b4ad0fe62aa639d9692b24cb117dbfda73f7002b4dd5a4e40c855",
-      "data/release/linkage/gp_lgd_crosswalk.parquet": "9eaa754e65c442f1b4cc4ebfaaf22f8d0b1dd43885d3c59d0bfd2e105252e73f"
+      "data/release/linkage/gp_lgd_crosswalk.parquet": "9eaa754e65c442f1b4cc4ebfaaf22f8d0b1dd43885d3c59d0bfd2e105252e73f",
+      "data/release/2020/sarpanch_winner_events.parquet": "f33b1288167c9d6eb40b9a393edba91877b7a29c9c9e8b958918f4497c80e72b"
     }
   },
   "local_elections_bihar": {

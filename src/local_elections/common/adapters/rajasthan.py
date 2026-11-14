@@ -54,6 +54,8 @@ SEAT_FILES = {
 STANDARD_FILE = "data/release/sarpanch_source_records.parquet"
 # The sibling's panchayat-to-LGD links, by standardized name.
 LGD_FILE = "data/release/linkage/gp_lgd_crosswalk.parquet"
+# The sibling's own key for each 2020 general-election contest.
+EVENT_FILE = "data/release/2020/sarpanch_winner_events.parquet"
 CONTESTING_FILE = "data/release/sarpanch_candidates.parquet"
 WINNER_FILE = "data/release/sarpanch_winners.parquet"
 WARD_FILE = "data/release/ward_member_winners.parquet"
@@ -794,8 +796,21 @@ def contest_locator(located, row):
     )
 
 
+def contest_keys(root):
+    """The sibling's contest key, by the result row's position in its table."""
+    table = pq.read_table(
+        pathlib.Path(root) / EVENT_FILE, columns=["winner_source_row", "event_key"]
+    )
+    return {r["winner_source_row"]: blank(r["event_key"]) for r in table.to_pylist()}
+
+
 def head_slices(root, candidates, winners, nominations):
     winner_by_key = {event_key(row, "gram_panchayat"): row for row in winners}
+    keys = contest_keys(root)
+    sibling_key = {
+        event_key(row, "gram_panchayat"): keys.get(number, "")
+        for number, row in enumerate(winners, 1)
+    }
     if len(winner_by_key) != len(winners):
         raise SystemExit(f"{REPO}: winner event key is not unique")
     nomination_by_key = {event_key(row, "gram_panchayat"): row for row in nominations}
@@ -821,6 +836,8 @@ def head_slices(root, candidates, winners, nominations):
     for key, members in grouped.items():
         winner = winner_by_key.get(key)
         row = head_row(members, winner, nomination_by_key.get(key))
+        if sibling_key.get(key):
+            row["source_event_key"] = sibling_key[key]
         if winner and winner.get("election_type") == "General Election":
             row["source_locator"] = contest_locator(located, winner)
             row.update(standard.get(row["source_locator"], {}))

@@ -32,6 +32,7 @@ than a defect.
 | `district_standardized` | string | info | — | A source repository's reviewed spelling of the district, the same across elections. Rajasthan. |
 | `block_standardized` | string | info | — | A source repository's reviewed spelling of the block, the same across elections. Rajasthan. |
 | `lgd_gp_code` | string | info | — | The panchayat's Local Government Directory code, from a source repository's reviewed link between its names and the directory. Rajasthan. |
+| `source_event_key` | string | info | — | The source repository's own key for the contest, which its event tables and studies' reviewed links to them are keyed on. Rajasthan. |
 | `source_record_id` | string | info | — | The source repository's own identifier of the record the seat was read from, which its other tables join on. Rajasthan. |
 | `reserved_raw_from_candidates` | string | info | — | The reservation label on the contest's candidate records, where it differs from the result sheet's, which the seat carries. Rajasthan. |
 | `ward_no` | roman_or_integer | warn | length 1–6; ≤30% blank | Blank on sarpanch and mukhiya rows by design. J&K and Goa number wards in Roman numerals, so this is not purely numeric. |

@@ -180,6 +180,13 @@ COLUMNS = [
         "Rajasthan.",
     ),
     column(
+        "source_event_key",
+        "string",
+        severity=INFO,
+        note="The source repository's own key for the contest, which its event "
+        "tables and studies' reviewed links to them are keyed on. Rajasthan.",
+    ),
+    column(
         "source_record_id",
         "string",
         severity=INFO,
