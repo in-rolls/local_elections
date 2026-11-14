@@ -175,9 +175,8 @@ COLUMNS = [
         "lgd_gp_code",
         "string",
         severity=INFO,
-        note="The panchayat's Local Government Directory code, from a source "
-        "repository's reviewed link between its names and the directory. "
-        "Rajasthan.",
+        note="The panchayat's Local Government Directory code, as the source "
+        "repository gives it for the seat's record. Rajasthan.",
     ),
     column(
         "source_event_key",

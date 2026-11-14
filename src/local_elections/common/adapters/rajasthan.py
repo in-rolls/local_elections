@@ -52,8 +52,8 @@ SEAT_FILES = {
 
 # The sibling's reviewed district and samiti spellings, by sarpanch-table row.
 STANDARD_FILE = "data/release/sarpanch_source_records.parquet"
-# The sibling's panchayat-to-LGD links, by standardized name.
-LGD_FILE = "data/release/linkage/gp_lgd_crosswalk.parquet"
+# The sibling's LGD code for each sarpanch-table row.
+LGD_FILE = "data/release/linkage/sarpanch_lgd.parquet"
 # The sibling's own key for each 2020 general-election contest.
 EVENT_FILE = "data/release/2020/sarpanch_winner_events.parquet"
 CONTESTING_FILE = "data/release/sarpanch_candidates.parquet"
@@ -226,32 +226,29 @@ def check_units(tier, year, rows):
 
 def standard_names(root):
     """Standardized district, samiti and panchayat of each sarpanch-table row,
-    and the panchayat's LGD code where the sibling's crosswalk has one. The
-    crosswalk is keyed by the three standardized names, lowercased.
+    and the panchayat's LGD code where the sibling gives the row one.
     """
     root = pathlib.Path(root)
     codes = {
-        r["match_key"]: r["lgd_gp_code"]
+        r["source_id"]: str(int(r["lgd_gp_code"]))
         for r in pq.read_table(
-            root / LGD_FILE, columns=["match_key", "lgd_gp_code"]
+            root / LGD_FILE, columns=["source_id", "lgd_gp_code"]
         ).to_pylist()
     }
     table = pq.read_table(
         root / STANDARD_FILE,
         columns=["source_id", "district_std", "samiti_std", "gp_std"],
     )
-    out = {}
-    for r in table.to_pylist():
-        names = [blank(r[c]) for c in ("district_std", "samiti_std", "gp_std")]
-        code = codes.get("_".join(name.lower() for name in names))
-        out[r["source_id"]] = {
-            "district_standardized": names[0],
-            "block_standardized": names[1],
-            "gram_panchayat_standardized": names[2],
+    return {
+        r["source_id"]: {
+            "district_standardized": blank(r["district_std"]),
+            "block_standardized": blank(r["samiti_std"]),
+            "gram_panchayat_standardized": blank(r["gp_std"]),
             "source_record_id": r["source_id"],
-            "lgd_gp_code": "" if code is None else str(int(code)),
+            "lgd_gp_code": codes.get(r["source_id"], ""),
         }
-    return out
+        for r in table.to_pylist()
+    }
 
 
 def old_panel_slices(root):
