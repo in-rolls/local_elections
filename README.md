@@ -4,6 +4,10 @@ Reservation and election-result data for India's local bodies. Coverage varies
 by state, year, and tier; consult the [coverage tables](docs/coverage.md) before
 combining records.
 
+Visit the [dataset site](https://in-rolls.github.io/local_elections/) to download
+the published edition, check seat coverage by state, year, and office, and copy
+its citation.
+
 Download pooled Parquet tables from [GitHub releases](https://github.com/in-rolls/local_elections/releases)
 (`pooled_data_*.tar.gz`). Start with the [pooled data guide](data/master/readme.md)
 for row units, columns, joins and limitations. Python distributions contain code;

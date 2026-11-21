@@ -1,0 +1,61 @@
+name: Dataset Pages
+
+on:
+  pull_request:
+    paths:
+      - site/**
+      - .github/workflows/pages.yml
+  push:
+    branches: [main]
+    paths:
+      - site/**
+      - .github/workflows/pages.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          sparse-checkout: site
+          persist-credentials: false
+      - name: Download the published edition
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/edition"
+          cd "$RUNNER_TEMP/edition"
+          gh api "repos/$GITHUB_REPOSITORY/releases/latest" > release.json
+          tag=$(jq -er .tag_name release.json)
+          gh release download "$tag" --repo "$GITHUB_REPOSITORY" --pattern "pooled_data_${tag}.tar.gz"
+      - name: Build the data catalog
+        run: |
+          python3 -m venv "$RUNNER_TEMP/pages-env"
+          "$RUNNER_TEMP/pages-env/bin/pip" install -r site/requirements.txt
+          "$RUNNER_TEMP/pages-env/bin/python" site/build.py "$RUNNER_TEMP/edition/release.json" "$RUNNER_TEMP/edition" public
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: public
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    concurrency:
+      group: github-pages
+      cancel-in-progress: false
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.publish.outputs.page_url }}
+    steps:
+      - id: publish
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1

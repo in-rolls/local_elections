@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Download, explore, and cite harmonized data on seat reservations, candidates, and election results in India's local bodies.">
+  <title>Local Elections in India · in-rolls</title>
+  <link rel="stylesheet" href="site.css">
+  <script defer src="site.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header><nav class="wrap" aria-label="Main navigation">
+    <a class="brand" href="./">in-rolls</a>
+    <div><a href="#coverage">Coverage</a><a href="#citation">Citation</a><a href="https://github.com/in-rolls/local_elections">GitHub</a></div>
+  </nav></header>
+  <main id="main" class="wrap">
+    <section class="overview" aria-labelledby="title">
+      <div>
+        <p class="edition"><span>Edition {{ tag }}</span> <time datetime="{{ released.isoformat() }}">{{ released.strftime('%B') }} {{ released.day }}, {{ released.year }}</time></p>
+        <h1 id="title">Local Elections in India</h1>
+        <p class="lead">An independent research dataset on seat reservations, candidates, and results in Indian local elections.</p>
+        <div class="actions"><a class="download" href="{{ archive_url }}">Download pooled data</a><span>Parquet · tar.gz · {{ megabytes }} MB</span></div>
+        <div class="resources"><a href="{{ docs }}/data/master/readme.md">How to use the tables</a><a href="{{ docs }}/docs/dictionary.md">Data dictionary</a><a href="{{ release_url }}">Release notes and source files</a></div>
+      </div>
+      <aside id="citation" aria-labelledby="cite-title">
+        <h2 id="cite-title">Cite this edition</h2>
+        <p id="cite-text">{{ authors }} ({{ released.year }}). <i>Local Elections in India</i> ({{ tag }}). Dataset. <a href="{{ release_url }}">{{ release_url }}</a></p>
+        <button id="copy" type="button" hidden>Copy citation</button><span class="sr" role="status" id="copy-status"></span>
+      </aside>
+    </section>
+    <dl class="stats">
+      <div><dt>Seat-election records</dt><dd>{{ "{:,}".format(seats) }}</dd></div>
+      <div><dt>Candidate records</dt><dd>{{ "{:,}".format(candidates) }}</dd></div>
+      <div><dt>States and union territories</dt><dd>{{ states|length }}</dd></div>
+      <div><dt>Earliest and latest elections</dt><dd>{{ years|first }}–{{ years|last }}</dd></div>
+    </dl>
+    <section id="coverage" aria-labelledby="coverage-title">
+      <h2 id="coverage-title">Seat coverage</h2>
+      <p class="measure">See which offices appear in each election and how often the source names a winner. Counts describe the records in this edition. Some sources cover only selected districts or reserved seats. <a href="{{ docs }}/docs/coverage.md">Read the coverage notes</a>.</p>
+      <form id="filters" hidden>
+        <label>State or union territory<select id="state"><option value="">All states and territories</option>{% for state in states %}<option>{{ state }}</option>{% endfor %}</select></label>
+        <label>Election year<select id="year"><option value="">All years</option>{% for year in years %}<option>{{ year }}</option>{% endfor %}</select></label>
+        <label>Office<select id="office"><option value="">All offices</option>{% for office in offices %}<option>{{ office }}</option>{% endfor %}</select></label>
+      </form>
+      <p id="record-count" aria-live="polite"></p>
+      <div class="scroll" role="region" aria-label="Seat coverage table" tabindex="0">
+      <table>
+        <thead><tr><th scope="col">State or territory</th><th scope="col">Year</th><th scope="col">Office</th><th scope="col" class="num">Seat records</th><th scope="col" class="num">With a named winner</th></tr></thead>
+        <tbody>{% for row in rows %}
+          <tr><td>{{ row.state }}</td><td>{{ row.year }}</td><td>{{ row.office }}</td><td class="num">{{ "{:,}".format(row.named_count) }}</td><td class="num">{{ "{:,}".format(row.named_sum) }}</td></tr>{% endfor %}
+        </tbody>
+      </table>
+      </div>
+    </section>
+  </main>
+  <footer><div class="wrap"><span>in-rolls · Local Elections in India</span><a href="https://github.com/in-rolls/local_elections/issues">Report a data issue</a></div></footer>
+</body>
+</html>

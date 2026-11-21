@@ -44,3 +44,16 @@ Keep documentation close to its purpose: the root README introduces the data,
 limitations and reproduction. Consolidate research findings into source guides
 and structured ledgers. Session reports and repeated progress summaries belong
 in Git history, not the current checkout.
+
+## Publish the dataset site
+
+The Dataset Pages workflow reads GitHub's latest published release and verifies
+the pooled archive against its SHA-256 digest before counting seat and candidate
+records. The links, citation, and coverage table refer to that edition.
+Changes to `site/` build on pull requests and publish on merge to `main`.
+
+After publishing a new data edition, refresh the site from `main`:
+
+```bash
+gh workflow run pages.yml --ref main
+```

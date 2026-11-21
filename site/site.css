@@ -1,0 +1,52 @@
+:root { --ink: #173744; --accent: #176c70; --sub: #4b626a; --rule: #cedbdb; }
+* { box-sizing: border-box; }
+body { margin: 0; color: var(--ink); background: #fff; font: 1rem/1.55 "Source Sans 3", "Segoe UI", Arial, sans-serif; }
+.wrap { width: min(72rem, 90%); margin-inline: auto; }
+a { color: var(--accent); text-underline-offset: .19em; }
+a:hover { text-decoration-thickness: 2px; }
+a:focus-visible, button:focus-visible, select:focus-visible, [tabindex]:focus-visible { outline: 3px solid #b16b20; outline-offset: 3px; }
+.skip { position: absolute; left: 1rem; top: -5rem; background: white; padding: .5rem; }
+.skip:focus { top: .5rem; }
+header { background: var(--ink); color: white; }
+nav, nav div, footer .wrap, .actions, .resources { display: flex; align-items: center; flex-wrap: wrap; gap: 1.25rem; }
+nav { min-height: 3.8rem; justify-content: space-between; }
+nav a { color: white; text-decoration: none; } nav a:hover { text-decoration: underline; }
+.brand { font-weight: 750; font-size: 1.25rem; letter-spacing: -.03em; }
+.overview { padding: clamp(2.5rem, 5vw, 4.3rem) 0 2.4rem; display: grid; grid-template-columns: 1fr minmax(15rem, 19rem); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+.edition { margin: 0 0 1rem; display: flex; align-items: center; gap: .8rem; color: var(--sub); font-size: .94rem; }
+.edition span { font-weight: 700; color: var(--accent); border-right: 1px solid var(--rule); padding-right: .8rem; }
+h1, h2, dd { font-family: "Source Serif 4", Georgia, serif; font-weight: 500; }
+h1 { font-size: clamp(2.6rem, 5vw, 4.35rem); line-height: 1.04; letter-spacing: -.048em; margin: 0; }
+h2 { font-size: 2.15rem; line-height: 1.15; letter-spacing: -.032em; margin: 0; }
+.lead { max-width: 40rem; margin: 1rem 0 1.55rem; font-size: 1.22rem; line-height: 1.5; }
+.actions { gap: .9rem; }
+.actions span, .resources, footer { font-size: .94rem; }
+.actions span { color: var(--sub); }
+.download { display: inline-block; border-radius: .25rem; background: var(--accent); color: white; text-decoration: none; padding: .7rem 1.1rem; font-weight: 650; }
+.download:hover { background: var(--ink); }
+.resources { margin-top: 1.25rem; gap: .35rem 1.1rem; }
+aside { border-top: 3px solid var(--accent); background: #f0f6f5; padding: 1.35rem; }
+aside h2 { font-size: 1.45rem; } aside p { overflow-wrap: anywhere; margin: .7rem 0; }
+button, select { font: inherit; color: var(--ink); background: white; border: 1px solid #97aaac; border-radius: .2rem; }
+button { padding: .35rem .65rem; font-size: .9rem; cursor: pointer; }
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; margin: 0; padding: 1.45rem 0; border-block: 1px solid var(--rule); }
+.stats div { display: flex; flex-direction: column-reverse; }
+dt { color: var(--sub); font-size: .93rem; }
+dd { margin: 0; font-size: clamp(1.8rem, 3vw, 2.65rem); line-height: 1.2; letter-spacing: -.04em; font-variant-numeric: lining-nums tabular-nums; }
+#coverage { padding: 2.35rem 0 3rem; }
+.measure { max-width: 53rem; }
+form { display: flex; flex-wrap: wrap; gap: .85rem; }
+label { display: grid; gap: .25rem; font-weight: 650; font-size: .9rem; }
+select { padding: .5rem .65rem; max-width: 100%; font-weight: 400; font-size: 1rem; }
+#record-count { color: var(--sub); font-size: .9rem; }
+.scroll { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: .6rem .75rem; border-bottom: 1px solid var(--rule); }
+th { background: #edf4f3; font-size: .9rem; }
+.num { text-align: right; }
+footer { border-top: 1px solid var(--rule); color: var(--sub); padding: 1.3rem 0; }
+footer .wrap { justify-content: space-between; }
+[hidden] { display: none !important; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+@media(max-width: 48rem) { .overview { grid-template-columns: 1fr; gap: 1.5rem; } .stats { grid-template-columns: repeat(2, 1fr); } }
+@media(max-width: 36rem) { nav div { gap: .8rem; } form, label { display: grid; width: 100%; } th, td { min-width: 5rem; padding: .45rem; } }
